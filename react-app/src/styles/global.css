@@ -45,6 +45,15 @@ code { background: rgba(255,255,255,0.06); padding: 1px 5px; border-radius: 4px;
 .pick select, .search { background: var(--bg-input); color: var(--text-main); border: 1px solid var(--border-card); border-radius: 6px; padding: 5px 8px; font: inherit; font-size: 13px; }
 .search { min-width: 240px; flex: 1; max-width: 420px; }
 
+/* ---- Related fleet apps ---- */
+.related { display: flex; align-items: stretch; gap: 8px 10px; flex-wrap: wrap; padding: 8px 20px; background: var(--bg-card); border-bottom: 1px solid var(--border-stats); }
+.related-label { align-self: center; font-size: 11px; letter-spacing: 0.08em; text-transform: uppercase; color: var(--text-muted-2); margin-right: 4px; }
+.related-btn { display: flex; flex-direction: column; gap: 1px; padding: 6px 12px; border: 1px solid var(--border-accent); border-radius: 8px; background: rgba(46, 125, 190, 0.14); text-decoration: none; transition: background 0.15s, border-color 0.15s; }
+.related-btn:hover { background: rgba(46, 125, 190, 0.32); border-color: var(--border-accent-bright); }
+.related-btn:focus-visible { outline: 2px solid var(--border-accent-bright); outline-offset: 1px; }
+.related-btn b { color: var(--text-main); font-size: 13px; font-weight: 600; }
+.related-btn span { color: var(--text-muted); font-size: 11.5px; }
+
 /* ---- View header ---- */
 .view-head { display: flex; align-items: center; gap: 10px 16px; flex-wrap: wrap; margin-bottom: 12px; }
 .view-head .view-title { margin: 0; }
@@ -135,4 +144,7 @@ code { background: rgba(255,255,255,0.06); padding: 1px 5px; border-radius: 4px;
   .levy { grid-template-columns: repeat(2, auto); }
   .search, .picker .search { min-width: 0; width: 100%; max-width: none; flex-basis: 100%; }
   .quick-links { margin-left: 0; }
+  .related { padding: 8px 12px; }
+  .related-label { width: 100%; }
+  .related-btn { flex: 1 1 100%; }
 }

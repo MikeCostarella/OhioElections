@@ -9,6 +9,9 @@ import { COUNTIES, countyBySlug, votersUrl } from "./data/counties";
 import { daysUntil, loadCountyBallot, loadCountyIndex, loadElections, loadStateBallot, longDate } from "./data/load";
 import type { Ballot, CountyIndex, Election } from "./data/types";
 
+const ELECTION_STATS_URL = "https://mikecostarella.github.io/CurrentElectionStatistics/";
+const COUNTIES_HUB_URL = "https://mikecostarella.github.io/OhioCounties/";
+
 /**
  * Routes live in the hash so other fleet apps can deep-link:
  *   #/                                  county picker
@@ -128,6 +131,21 @@ export default function App() {
         </div>
       )}
 
+      {county && (
+        <nav className="related" aria-label="Related apps">
+          <span className="related-label">Related apps</span>
+          <a className="related-btn" href={votersUrl(county)} target="_blank" rel="noopener noreferrer">
+            <b>{county.name} County Voters ↗</b><span>Who is registered and who voted</span>
+          </a>
+          <a className="related-btn" href={ELECTION_STATS_URL} target="_blank" rel="noopener noreferrer">
+            <b>Election Statistics ↗</b><span>The early vote, statewide</span>
+          </a>
+          <a className="related-btn" href={COUNTIES_HUB_URL} target="_blank" rel="noopener noreferrer">
+            <b>Ohio Counties hub ↗</b><span>Every county app in the fleet</span>
+          </a>
+        </nav>
+      )}
+
       <main className="body">
         {county && route.view !== "about" && (
           <div className="view-head">
@@ -139,7 +157,6 @@ export default function App() {
             </div>
             <div className="quick-links">
               {(local?.links ?? []).slice(0, 2).map((l) => <a key={l.url} href={l.url} target="_blank" rel="noopener noreferrer">{l.label} ↗</a>)}
-              <a href={votersUrl(county)} target="_blank" rel="noopener noreferrer">{county.name} County Voters ↗</a>
             </div>
           </div>
         )}

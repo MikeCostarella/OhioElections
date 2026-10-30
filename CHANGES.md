@@ -15,3 +15,7 @@ Data notes (Trumbull):
 - The Newton Falls Village photo-traffic-enforcement referendum is on the Board's issues list but not its 46-day notice; it is included and marked.
 - Casa Angel's liquor options: the issues list gives Cortland precinct F, the notice gives H; shown as F with a note.
 - The candidate list prints the commissioner term as "1/1/25"; the 46-day notice's "FTC 1/1/2027" is used.
+
+# Oct 30, 2026 (later)
+
+- "Related apps" row under the county picker: the county's Voters app, Election Statistics and the Ohio Counties hub as labelled buttons, so the way back to the rest of the fleet is obvious. The Board of Elections links (View your ballot, Where do I vote?) stay as plain links beside the view tabs. The menu keeps its links too.
