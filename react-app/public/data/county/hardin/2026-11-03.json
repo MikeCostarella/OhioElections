@@ -1,0 +1,372 @@
+{
+  "scope": "county",
+  "county": "Hardin",
+  "fips": "39065",
+  "election": "2026-11-03",
+  "retrieved": "2026-10-30",
+  "notes": [
+    "Taken from the Board of Elections' 46-day election notice, which lists every contest and issue with the precincts that vote on it and gives the full ballot wording of each issue.",
+    "Candidates are listed alphabetically by last name, not in ballot order: Ohio rotates the order of names from precinct to precinct. Certified write-in candidates are not printed on the ballot and are not listed.",
+    "\"Where you live\" uses the state voter file: a district or school levy is shown for a city, village or township when any of its voters live in that district. Your exact ballot depends on your precinct.",
+    "The Board's notice does not give local issue numbers; see your sample ballot for them."
+  ],
+  "places": [
+    "Ada Village",
+    "Alger Village",
+    "Blanchard Township",
+    "Buck Township",
+    "Cessna Township",
+    "Dudley Township",
+    "Dunkirk Village",
+    "Forest Village",
+    "Goshen Township",
+    "Hale Township",
+    "Jackson Township",
+    "Kenton City",
+    "Liberty Township",
+    "Lynn Township",
+    "Marion Township",
+    "McDonald Township",
+    "McGuffey Village",
+    "Mt. Victory Village",
+    "Patterson Village",
+    "Pleasant Township",
+    "Ridgeway Village",
+    "Roundhead Township",
+    "Taylor Creek Township",
+    "Washington Township"
+  ],
+  "sources": {
+    "hardin-46day": {
+      "label": "Hardin County Board of Elections: 46-day election notice (FWAB), November 3, 2026 General Election (revised 9/17/2026)",
+      "url": "https://www.boe.ohio.gov/hardin/c/upload/FWAB_11November46Day.pdf"
+    }
+  },
+  "links": [
+    {
+      "label": "Board of Elections",
+      "url": "https://www.boe.ohio.gov/hardin/"
+    },
+    {
+      "label": "Election info",
+      "url": "https://www.boe.ohio.gov/hardin/election-info/"
+    },
+    {
+      "label": "Sample ballots by precinct",
+      "url": "https://lookup.boe.ohio.gov/vtrapp/hardin/ballotlist.aspx"
+    }
+  ],
+  "results": {
+    "status": "upcoming",
+    "links": [
+      {
+        "label": "Board of Elections: election results",
+        "url": "https://www.boe.ohio.gov/hardin/election-info/election-results/"
+      }
+    ]
+  },
+  "contests": [
+    {
+      "id": "congress-4",
+      "group": "U.S. House",
+      "office": "Representative to Congress",
+      "detail": "4th District",
+      "candidates": [
+        {
+          "name": "Jim Jordan",
+          "party": "REP"
+        },
+        {
+          "name": "Joshua D. Kolasinski",
+          "party": "DEM"
+        },
+        {
+          "name": "Tracey L. Tackett",
+          "party": "Nonparty"
+        }
+      ],
+      "sources": [
+        "hardin-46day"
+      ]
+    },
+    {
+      "id": "senate-1",
+      "group": "Ohio General Assembly",
+      "office": "State Senator",
+      "detail": "1st District · full term commencing January 1, 2027",
+      "candidates": [
+        {
+          "name": "Craig S. Riedel",
+          "party": "REP"
+        }
+      ],
+      "sources": [
+        "hardin-46day"
+      ]
+    },
+    {
+      "id": "rep-83",
+      "group": "Ohio General Assembly",
+      "office": "State Representative",
+      "detail": "83rd District",
+      "candidates": [
+        {
+          "name": "Sheila Coressel",
+          "party": "DEM"
+        },
+        {
+          "name": "Ty Mathews",
+          "party": "REP"
+        }
+      ],
+      "sources": [
+        "hardin-46day"
+      ]
+    },
+    {
+      "id": "appeals-3-0209",
+      "group": "Ohio Court of Appeals",
+      "office": "Judge of the Court of Appeals",
+      "detail": "3rd District · full term commencing February 9, 2027",
+      "candidates": [
+        {
+          "name": "Mark C. Miller",
+          "party": "REP"
+        }
+      ],
+      "sources": [
+        "hardin-46day"
+      ]
+    },
+    {
+      "id": "commissioner",
+      "group": "County offices",
+      "office": "County Commissioner",
+      "detail": "Term commencing January 1, 2027",
+      "candidates": [
+        {
+          "name": "Daryl G. Flowers",
+          "party": "DEM"
+        },
+        {
+          "name": "Michael P. Kasler",
+          "party": "REP"
+        }
+      ],
+      "sources": [
+        "hardin-46day"
+      ]
+    },
+    {
+      "id": "auditor",
+      "group": "County offices",
+      "office": "County Auditor",
+      "detail": "Term commencing March 8, 2027",
+      "candidates": [
+        {
+          "name": "Mark Schwemer",
+          "party": "REP"
+        }
+      ],
+      "sources": [
+        "hardin-46day"
+      ]
+    },
+    {
+      "id": "cp-general-probate",
+      "group": "Court of Common Pleas",
+      "office": "Judge of the Court of Common Pleas, General Division and Probate Division",
+      "detail": "Full 6-year term commencing February 9, 2027 · no party label on the ballot",
+      "candidates": [
+        {
+          "name": "Steve Christopher"
+        }
+      ],
+      "sources": [
+        "hardin-46day"
+      ]
+    }
+  ],
+  "issues": [
+    {
+      "id": "kenton-charter-commission",
+      "kind": "question",
+      "jurisdiction": "City of Kenton",
+      "title": "Charter commission: shall a commission be chosen to frame a charter?",
+      "area": "Kenton (precincts 01/1, 01/2, 02/1, 03/1, 04/1, 04/2)",
+      "places": [
+        "Kenton City"
+      ],
+      "text": "Shall a commission be chosen to frame a charter?",
+      "sources": [
+        "hardin-46day"
+      ]
+    },
+    {
+      "id": "liquor-sk-minimart",
+      "kind": "liquor",
+      "jurisdiction": "Hale Township",
+      "title": "Local liquor option: S. & K. Minimart (wine and mixed beverages)",
+      "area": "Precinct Mt Victory/Ridgeway/Hale (10/1–10/4)",
+      "places": [
+        "Hale Township",
+        "Mt. Victory Village",
+        "Ridgeway Village"
+      ],
+      "text": "Sale of wine and mixed beverages by Tresha Corporation, dba S. & K. Minimart, an applicant for a C2 liquor permit, who is engaged in the business of operating a carryout/grocery store at 110 N. Main Street, Ridgeway.",
+      "sources": [
+        "hardin-46day"
+      ]
+    },
+    {
+      "id": "liquor-sk-minimart-sunday",
+      "kind": "liquor",
+      "jurisdiction": "Hale Township",
+      "title": "Local liquor option: S. & K. Minimart (Sunday, wine and mixed beverages)",
+      "area": "Precinct Mt Victory/Ridgeway/Hale (10/1–10/4)",
+      "places": [
+        "Hale Township",
+        "Mt. Victory Village",
+        "Ridgeway Village"
+      ],
+      "text": "Sunday sale of wine and mixed beverages by Tresha Corporation, dba S. & K. Minimart, an applicant for a D6 liquor permit, who is engaged in the business of operating a carryout/grocery store at 110 N. Main Street, Ridgeway.",
+      "sources": [
+        "hardin-46day"
+      ]
+    },
+    {
+      "id": "liberty-park-1",
+      "kind": "levy",
+      "jurisdiction": "Park District of Liberty Township",
+      "title": "Tax levy (renewal): Defraying the expense and improving and maintaining the free public park",
+      "area": "Precincts Ada North, Ada South and Liberty (12/1, 13/1, 14/1)",
+      "places": [
+        "Ada Village",
+        "Liberty Township"
+      ],
+      "levy": {
+        "type": "Renewal",
+        "purpose": "Defraying the expense and improving and maintaining the free public park.",
+        "mills": "1 mill",
+        "term": "5 years, commencing in 2027",
+        "firstDue": "2028",
+        "estimate": "$107,817 a year; $26 for each $100,000 of market value"
+      },
+      "sources": [
+        "hardin-46day"
+      ]
+    },
+    {
+      "id": "liberty-park-1-5",
+      "kind": "levy",
+      "jurisdiction": "Park District of Liberty Township",
+      "title": "Tax levy (renewal): Defraying the expense and improving and maintaining the free public park",
+      "area": "Precincts Ada North, Ada South and Liberty (12/1, 13/1, 14/1)",
+      "places": [
+        "Ada Village",
+        "Liberty Township"
+      ],
+      "levy": {
+        "type": "Renewal",
+        "purpose": "Defraying the expense and improving and maintaining the free public park.",
+        "mills": "1.5 mills",
+        "term": "5 years, commencing in 2027",
+        "firstDue": "2028",
+        "estimate": "$161,726 a year; $39 for each $100,000 of market value"
+      },
+      "sources": [
+        "hardin-46day"
+      ]
+    },
+    {
+      "id": "ada-library",
+      "kind": "levy",
+      "jurisdiction": "Ada Public Library (Hardin and Hancock counties)",
+      "title": "Tax levy (renewal): Current expenses of the Library",
+      "area": "Precincts Ada North, Ada South and Liberty (12/1, 13/1, 14/1)",
+      "places": [
+        "Ada Village",
+        "Liberty Township"
+      ],
+      "levy": {
+        "type": "Renewal",
+        "purpose": "Current expenses of the Library.",
+        "mills": "1 mill",
+        "term": "5 years, commencing in 2027",
+        "firstDue": "2028",
+        "estimate": "$102,209 a year; $20 for each $100,000 of market value"
+      },
+      "sources": [
+        "hardin-46day"
+      ]
+    },
+    {
+      "id": "elgin-lsd",
+      "kind": "levy",
+      "jurisdiction": "Elgin Local School District (Marion, Delaware and Hardin counties)",
+      "title": "Tax levy (renewal): Current expenses",
+      "area": "Elgin Local School District (precincts Dudley 08/3, Mt Victory/Ridgeway/Hale 10/2)",
+      "places": [
+        "Dudley Township",
+        "Hale Township"
+      ],
+      "levy": {
+        "type": "Renewal",
+        "purpose": "Current expenses.",
+        "mills": "2.88 mills",
+        "term": "5 years, commencing in 2027",
+        "firstDue": "2028",
+        "estimate": "$850,000 a year (fixed sum); $101 for each $100,000 of market value"
+      },
+      "note": "A fixed-sum levy of $850,000; 2.88 mills is the county auditor's estimated average rate.",
+      "sources": [
+        "hardin-46day"
+      ]
+    },
+    {
+      "id": "northern-hardin-fire",
+      "kind": "levy",
+      "jurisdiction": "Northern Hardin County Fire District",
+      "title": "Tax levy (additional): Fire apparatus, equipment, buildings and personnel, and ambulance, paramedic or other emergency medical services",
+      "area": "Precincts Dunkirk/Blanchard (05/1–05/3) and Washington (21/1)",
+      "places": [
+        "Blanchard Township",
+        "Dunkirk Village",
+        "Washington Township"
+      ],
+      "levy": {
+        "type": "Additional",
+        "purpose": "Fire apparatus, equipment, buildings and personnel, and ambulance, paramedic or other emergency medical services.",
+        "mills": "0.9 mill",
+        "term": "5 years, commencing in 2026",
+        "firstDue": "2027",
+        "estimate": "$82,220 a year; $32 for each $100,000 of market value"
+      },
+      "sources": [
+        "hardin-46day"
+      ]
+    },
+    {
+      "id": "ada-liberty-ambulance",
+      "kind": "levy",
+      "jurisdiction": "Ada-Liberty Joint Ambulance District",
+      "title": "Tax levy (renewal): Ambulance service, emergency service, or both",
+      "area": "Precincts Ada North, Ada South and Liberty (12/1, 13/1, 14/1)",
+      "places": [
+        "Ada Village",
+        "Liberty Township"
+      ],
+      "levy": {
+        "type": "Renewal",
+        "purpose": "Ambulance service, emergency service, or both.",
+        "mills": "2 mills",
+        "term": "5 years, commencing in 2027",
+        "firstDue": "2028",
+        "estimate": "$218,316 a year; $53 for each $100,000 of market value"
+      },
+      "sources": [
+        "hardin-46day"
+      ]
+    }
+  ]
+}

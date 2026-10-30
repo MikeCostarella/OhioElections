@@ -1,0 +1,466 @@
+{
+  "scope": "county",
+  "county": "Hocking",
+  "fips": "39073",
+  "election": "2026-11-03",
+  "retrieved": "2026-10-30",
+  "notes": [
+    "Taken from the Board of Elections' 46-day election notice, which lists every contest and issue with the precincts that vote on it, checked against the Board's precinct sample ballots. Issue wording is from the sample ballots.",
+    "Candidates are listed alphabetically by last name, not in ballot order: Ohio rotates the order of names from precinct to precinct. Certified write-in candidates are not printed on the ballot and are not listed.",
+    "\"Where you live\" uses the state voter file: a district or school levy is shown for a city, village or township when any of its voters live in that district. Your exact ballot depends on your precinct.",
+    "Local issues are not numbered in the Board's notice or on the sample ballots; see your sample ballot for the order.",
+    "Court of Appeals: Peter B. Abele (Republican) is still printed on the main ballot for the 4th District seat; the Board's notice marks him deceased, and a supplemental 4th District Court of Appeals ballot lists Jayme Hartley Fountain (Republican) and Todd L. Grace (Democratic). The supplemental ballot is shown here."
+  ],
+  "places": [
+    "Benton Township",
+    "Buchtel Village",
+    "Falls Township",
+    "Good Hope Township",
+    "Green Township",
+    "Laurel Township",
+    "Laurelville Village",
+    "Logan City",
+    "Marion Township",
+    "Murray City Village",
+    "Perry Township",
+    "Saltcreek Township",
+    "Starr Township",
+    "Ward Township",
+    "Washington Township"
+  ],
+  "sources": {
+    "hocking-46day": {
+      "label": "Hocking County Board of Elections: 46-day election notice (FWAB), November 3, 2026 General Election (updated notification)",
+      "url": "https://www.boe.ohio.gov/hocking/c/upload/FWAB_11November46Day.pdf"
+    },
+    "hocking-ballots": {
+      "label": "Hocking County Board of Elections: precinct sample ballots, November 3, 2026 General Election",
+      "url": "https://lookup.boe.ohio.gov/vtrapp/hocking/ballotlist.aspx"
+    }
+  },
+  "links": [
+    {
+      "label": "Board of Elections",
+      "url": "https://www.boe.ohio.gov/hocking/"
+    },
+    {
+      "label": "Federal write-in absentee ballot notices",
+      "url": "https://www.boe.ohio.gov/hocking/election-info/federal-write-in-absentee-ballots/"
+    },
+    {
+      "label": "Candidate list",
+      "url": "https://lookup.boe.ohio.gov/vtrapp/hocking/cfis.aspx"
+    },
+    {
+      "label": "Sample ballots by precinct",
+      "url": "https://lookup.boe.ohio.gov/vtrapp/hocking/ballotlist.aspx"
+    }
+  ],
+  "results": {
+    "status": "upcoming",
+    "links": [
+      {
+        "label": "Board of Elections: election results",
+        "url": "https://www.boe.ohio.gov/hocking/election-info/election-results/"
+      }
+    ]
+  },
+  "contests": [
+    {
+      "id": "congress-2",
+      "group": "U.S. House",
+      "office": "Representative to Congress",
+      "detail": "2nd District",
+      "candidates": [
+        {
+          "name": "Jen Mazzuckelli",
+          "party": "DEM"
+        },
+        {
+          "name": "David J. Taylor",
+          "party": "REP"
+        }
+      ],
+      "sources": [
+        "hocking-46day",
+        "hocking-ballots"
+      ]
+    },
+    {
+      "id": "senate-17",
+      "group": "Ohio General Assembly",
+      "office": "State Senator",
+      "detail": "17th District",
+      "candidates": [
+        {
+          "name": "Brian A. Deer",
+          "party": "DEM"
+        },
+        {
+          "name": "Shane Wilkin",
+          "party": "REP"
+        }
+      ],
+      "sources": [
+        "hocking-46day",
+        "hocking-ballots"
+      ]
+    },
+    {
+      "id": "rep-92",
+      "group": "Ohio General Assembly",
+      "office": "State Representative",
+      "detail": "92nd District",
+      "candidates": [
+        {
+          "name": "Mark Johnson",
+          "party": "REP"
+        },
+        {
+          "name": "Sarah Senff",
+          "party": "DEM"
+        }
+      ],
+      "sources": [
+        "hocking-46day",
+        "hocking-ballots"
+      ]
+    },
+    {
+      "id": "appeals-4-0209",
+      "group": "Ohio Court of Appeals",
+      "office": "Judge of the Court of Appeals",
+      "detail": "4th District · full term commencing February 9, 2027",
+      "candidates": [
+        {
+          "name": "Jayme Hartley Fountain",
+          "party": "REP"
+        },
+        {
+          "name": "Todd L. Grace",
+          "party": "DEM"
+        }
+      ],
+      "sources": [
+        "hocking-ballots",
+        "hocking-46day"
+      ]
+    },
+    {
+      "id": "commissioner",
+      "group": "County offices",
+      "office": "County Commissioner",
+      "detail": "Full term commencing January 1, 2027",
+      "candidates": [
+        {
+          "name": "Michael Schrader",
+          "party": "DEM"
+        },
+        {
+          "name": "Tony Wheeler",
+          "party": "REP"
+        }
+      ],
+      "sources": [
+        "hocking-46day",
+        "hocking-ballots"
+      ]
+    },
+    {
+      "id": "auditor",
+      "group": "County offices",
+      "office": "County Auditor",
+      "candidates": [
+        {
+          "name": "Christopher D. Robers",
+          "party": "REP"
+        }
+      ],
+      "sources": [
+        "hocking-46day",
+        "hocking-ballots"
+      ]
+    },
+    {
+      "id": "cp-domestic-juvenile-probate",
+      "group": "Court of Common Pleas",
+      "office": "Judge of the Court of Common Pleas, Domestic/Juvenile and Probate Division",
+      "detail": "Full term commencing February 9, 2027 · no party label on the ballot",
+      "candidates": [
+        {
+          "name": "Jonah M. Saving"
+        }
+      ],
+      "sources": [
+        "hocking-ballots",
+        "hocking-46day"
+      ]
+    }
+  ],
+  "issues": [
+    {
+      "id": "county-senior-services",
+      "kind": "levy",
+      "jurisdiction": "Hocking County",
+      "title": "Tax levy (renewal): Providing and maintaining senior citizen services and facilities",
+      "area": "Hocking County (all precincts)",
+      "levy": {
+        "type": "Renewal",
+        "purpose": "Providing and maintaining senior citizen services and facilities.",
+        "mills": "0.5 mill",
+        "term": "5 years, commencing in 2027",
+        "firstDue": "2028",
+        "estimate": "$487,604 a year; $9 for each $100,000 of the county auditor's market value"
+      },
+      "sources": [
+        "hocking-ballots",
+        "hocking-46day"
+      ]
+    },
+    {
+      "id": "falls-fire",
+      "kind": "levy",
+      "jurisdiction": "Falls Township (unincorporated)",
+      "title": "Tax levy (renewal and increase): Fire protection (renewal of 1.2 mills and increase of 0.25 mill)",
+      "area": "Precincts Falls 1, Falls 2 and Falls 3",
+      "places": [
+        "Falls Township"
+      ],
+      "levy": {
+        "type": "Renewal and increase",
+        "purpose": "Fire protection (renewal of 1.2 mills and increase of 0.25 mill).",
+        "mills": "1.45 mills",
+        "term": "5 years, commencing in 2027",
+        "firstDue": "2028",
+        "estimate": "$198,018 a year; $27 for each $100,000 of the county auditor's market value"
+      },
+      "sources": [
+        "hocking-ballots",
+        "hocking-46day"
+      ]
+    },
+    {
+      "id": "good-hope-fire",
+      "kind": "levy",
+      "jurisdiction": "Good Hope Township",
+      "title": "Tax levy (renewal): Fire protection",
+      "area": "Good Hope precinct",
+      "places": [
+        "Good Hope Township"
+      ],
+      "levy": {
+        "type": "Renewal",
+        "purpose": "Fire protection.",
+        "mills": "0.5 mill",
+        "term": "5 years, commencing in 2027",
+        "firstDue": "2028",
+        "estimate": "$55,027 a year; $8 for each $100,000 of the county auditor's market value"
+      },
+      "sources": [
+        "hocking-ballots",
+        "hocking-46day"
+      ]
+    },
+    {
+      "id": "laurel-roads",
+      "kind": "levy",
+      "jurisdiction": "Laurel Township",
+      "title": "Tax levy (renewal): General construction, reconstruction, resurfacing and repair of roads",
+      "area": "Laurel precinct",
+      "places": [
+        "Laurel Township"
+      ],
+      "levy": {
+        "type": "Renewal",
+        "purpose": "General construction, reconstruction, resurfacing and repair of roads.",
+        "mills": "0.5 mill",
+        "term": "5 years, commencing in 2027",
+        "firstDue": "2028",
+        "estimate": "$48,089 a year; $7 for each $100,000 of the county auditor's market value"
+      },
+      "note": "The 46-day notice calls this a road improvements levy; the purpose shown is the sample ballot's.",
+      "sources": [
+        "hocking-ballots",
+        "hocking-46day"
+      ]
+    },
+    {
+      "id": "saltcreek-roads",
+      "kind": "levy",
+      "jurisdiction": "Saltcreek Township",
+      "title": "Tax levy (renewal): Road improvements",
+      "area": "Saltcreek precinct",
+      "places": [
+        "Saltcreek Township"
+      ],
+      "levy": {
+        "type": "Renewal",
+        "purpose": "Road improvements.",
+        "mills": "2 mills",
+        "term": "5 years, commencing in 2026",
+        "firstDue": "2027",
+        "estimate": "$55,559 a year; $22 for each $100,000 of the county auditor's market value"
+      },
+      "sources": [
+        "hocking-ballots",
+        "hocking-46day"
+      ]
+    },
+    {
+      "id": "buchtel-current",
+      "kind": "levy",
+      "jurisdiction": "Village of Buchtel (Athens and Hocking)",
+      "title": "Tax levy (additional): Current expenses",
+      "area": "Ward precinct (part): Buchtel Village",
+      "places": [
+        "Buchtel Village"
+      ],
+      "levy": {
+        "type": "Additional",
+        "purpose": "Current expenses.",
+        "mills": "5 mills",
+        "term": "5 years, commencing in 2026",
+        "firstDue": "2027",
+        "estimate": "$32,611 a year; $175 for each $100,000 of the county auditor's market value"
+      },
+      "sources": [
+        "hocking-ballots",
+        "hocking-46day"
+      ]
+    },
+    {
+      "id": "laurelville-current",
+      "kind": "levy",
+      "jurisdiction": "Village of Laurelville",
+      "title": "Tax levy (renewal and increase): Current expenses (renewal of 5 mills and increase of 1.5 mills)",
+      "area": "Perry 1 precinct (part): Laurelville Village",
+      "places": [
+        "Laurelville Village"
+      ],
+      "levy": {
+        "type": "Renewal and increase",
+        "purpose": "Current expenses (renewal of 5 mills and increase of 1.5 mills).",
+        "mills": "6.5 mills",
+        "term": "5 years, commencing in 2027",
+        "firstDue": "2028",
+        "estimate": "$38,694 a year; $176 for each $100,000 of the county auditor's market value"
+      },
+      "sources": [
+        "hocking-ballots",
+        "hocking-46day"
+      ]
+    },
+    {
+      "id": "murray-city-current-1",
+      "kind": "levy",
+      "jurisdiction": "Village of Murray City",
+      "title": "Tax levy (renewal): Current expenses (#1)",
+      "area": "Ward precinct (part): Murray City Village",
+      "places": [
+        "Murray City Village"
+      ],
+      "levy": {
+        "type": "Renewal",
+        "purpose": "Current expenses (#1).",
+        "mills": "5 mills",
+        "term": "5 years, commencing in 2027",
+        "firstDue": "2028",
+        "estimate": "$14,930 a year; $94 for each $100,000 of the county auditor's market value"
+      },
+      "note": "Murray City has two current-expense renewals on this ballot (#1 and #2), each 5 mills.",
+      "sources": [
+        "hocking-ballots",
+        "hocking-46day"
+      ]
+    },
+    {
+      "id": "murray-city-current-2",
+      "kind": "levy",
+      "jurisdiction": "Village of Murray City",
+      "title": "Tax levy (renewal): Current expenses (#2)",
+      "area": "Ward precinct (part): Murray City Village",
+      "places": [
+        "Murray City Village"
+      ],
+      "levy": {
+        "type": "Renewal",
+        "purpose": "Current expenses (#2).",
+        "mills": "5 mills",
+        "term": "5 years, commencing in 2027",
+        "firstDue": "2028",
+        "estimate": "$14,930 a year; $94 for each $100,000 of the county auditor's market value"
+      },
+      "note": "Murray City has two current-expense renewals on this ballot (#1 and #2), each 5 mills.",
+      "sources": [
+        "hocking-ballots",
+        "hocking-46day"
+      ]
+    },
+    {
+      "id": "murray-city-police",
+      "kind": "levy",
+      "jurisdiction": "Village of Murray City",
+      "title": "Tax levy (renewal): Policing services",
+      "area": "Ward precinct (part): Murray City Village",
+      "places": [
+        "Murray City Village"
+      ],
+      "levy": {
+        "type": "Renewal",
+        "purpose": "Policing services.",
+        "mills": "4 mills",
+        "term": "5 years, commencing in 2027",
+        "firstDue": "2028",
+        "estimate": "$11,942 a year; $75 for each $100,000 of the county auditor's market value"
+      },
+      "sources": [
+        "hocking-ballots",
+        "hocking-46day"
+      ]
+    },
+    {
+      "id": "murray-city-streets",
+      "kind": "levy",
+      "jurisdiction": "Village of Murray City",
+      "title": "Tax levy (renewal): Street maintenance",
+      "area": "Ward precinct (part): Murray City Village",
+      "places": [
+        "Murray City Village"
+      ],
+      "levy": {
+        "type": "Renewal",
+        "purpose": "Street maintenance.",
+        "mills": "3 mills",
+        "term": "5 years, commencing in 2027",
+        "firstDue": "2028",
+        "estimate": "$8,958 a year; $56 for each $100,000 of the county auditor's market value"
+      },
+      "sources": [
+        "hocking-ballots",
+        "hocking-46day"
+      ]
+    },
+    {
+      "id": "murray-city-fire",
+      "kind": "levy",
+      "jurisdiction": "Village of Murray City",
+      "title": "Tax levy (renewal): Fire protection",
+      "area": "Ward precinct (part): Murray City Village",
+      "places": [
+        "Murray City Village"
+      ],
+      "levy": {
+        "type": "Renewal",
+        "purpose": "Fire protection.",
+        "mills": "2.5 mills",
+        "term": "5 years, commencing in 2027",
+        "firstDue": "2028",
+        "estimate": "$7,465 a year; $47 for each $100,000 of the county auditor's market value"
+      },
+      "sources": [
+        "hocking-ballots",
+        "hocking-46day"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,389 @@
+{
+  "scope": "county",
+  "county": "Morgan",
+  "fips": "39115",
+  "election": "2026-11-03",
+  "retrieved": "2026-10-30",
+  "notes": [
+    "Taken from the Board of Elections' 46-day election notice, which lists every contest and issue with the precincts that vote on it, checked against the Board's precinct sample ballots. Issue wording is from the sample ballots.",
+    "Candidates are listed alphabetically by last name, not in ballot order: Ohio rotates the order of names from precinct to precinct. Certified write-in candidates are not printed on the ballot and are not listed.",
+    "\"Where you live\" uses the state voter file: a district or school levy is shown for a city, village or township when any of its voters live in that district. Your exact ballot depends on your precinct.",
+    "The Board's notice and sample ballots do not give local issue numbers.",
+    "Court of Appeals: the 46-day notice lists Matt Donahue (Republican) for the 5th District seat, but the Board's sample ballots list Matthew George (Republican); the sample ballots are shown here."
+  ],
+  "places": [
+    "Bloom Township",
+    "Bristol Township",
+    "Center Township",
+    "Chesterhill Village",
+    "Deerfield Township",
+    "Homer Township",
+    "Malta Township",
+    "Malta Village",
+    "Manchester Township",
+    "Marion Township",
+    "McConnelsville Village",
+    "Meigsville Township",
+    "Morgan Township",
+    "Penn Township",
+    "Stockport Village",
+    "Union Township",
+    "Windsor Township",
+    "York Township"
+  ],
+  "sources": {
+    "morgan-46day": {
+      "label": "Morgan County Board of Elections: 46-day election notice (FWAB), November 3, 2026 General Election",
+      "url": "https://www.boe.ohio.gov/morgan/c/upload/FWAB_11November46Day.pdf"
+    },
+    "morgan-ballots": {
+      "label": "Morgan County Board of Elections: precinct sample ballots, November 3, 2026 General Election (election data updated September 8, 2026)",
+      "url": "https://lookup.boe.ohio.gov/vtrapp/morgan/ballotlist.aspx"
+    }
+  },
+  "links": [
+    {
+      "label": "Board of Elections",
+      "url": "https://www.boe.ohio.gov/morgan/"
+    },
+    {
+      "label": "Federal write-in absentee ballot notices",
+      "url": "https://www.boe.ohio.gov/morgan/election-info/federal-write-in-absentee-ballots/"
+    },
+    {
+      "label": "Sample ballots by precinct",
+      "url": "https://lookup.boe.ohio.gov/vtrapp/morgan/ballotlist.aspx"
+    }
+  ],
+  "results": {
+    "status": "upcoming",
+    "links": [
+      {
+        "label": "Board of Elections: election results",
+        "url": "https://www.boe.ohio.gov/morgan/election-info/election-results/"
+      }
+    ]
+  },
+  "contests": [
+    {
+      "id": "congress-2",
+      "group": "U.S. House",
+      "office": "Representative to Congress",
+      "detail": "2nd District",
+      "candidates": [
+        {
+          "name": "Jen Mazzuckelli",
+          "party": "DEM"
+        },
+        {
+          "name": "David J. Taylor",
+          "party": "REP"
+        }
+      ],
+      "sources": [
+        "morgan-46day",
+        "morgan-ballots"
+      ]
+    },
+    {
+      "id": "rep-95",
+      "group": "Ohio General Assembly",
+      "office": "State Representative",
+      "detail": "95th District",
+      "candidates": [
+        {
+          "name": "Paul Cameron",
+          "party": "DEM"
+        },
+        {
+          "name": "Ty Moore",
+          "party": "REP"
+        }
+      ],
+      "sources": [
+        "morgan-46day",
+        "morgan-ballots"
+      ]
+    },
+    {
+      "id": "appeals-5",
+      "group": "Ohio Court of Appeals",
+      "office": "Judge of the Court of Appeals",
+      "detail": "5th District · term commencing February 9, 2027",
+      "candidates": [
+        {
+          "name": "Matthew George",
+          "party": "REP"
+        }
+      ],
+      "sources": [
+        "morgan-ballots",
+        "morgan-46day"
+      ]
+    },
+    {
+      "id": "commissioner",
+      "group": "County offices",
+      "office": "County Commissioner",
+      "detail": "Full term commencing January 1, 2027",
+      "candidates": [
+        {
+          "name": "Cecil Mayle",
+          "party": "REP"
+        }
+      ],
+      "sources": [
+        "morgan-46day",
+        "morgan-ballots"
+      ]
+    },
+    {
+      "id": "auditor",
+      "group": "County offices",
+      "office": "County Auditor",
+      "candidates": [
+        {
+          "name": "Randy Williams",
+          "party": "REP"
+        }
+      ],
+      "sources": [
+        "morgan-46day",
+        "morgan-ballots"
+      ]
+    },
+    {
+      "id": "cp",
+      "group": "Court of Common Pleas",
+      "office": "Judge of the Court of Common Pleas",
+      "detail": "Full term commencing February 9, 2027 · no party label on the ballot",
+      "candidates": [
+        {
+          "name": "John A. Wells"
+        }
+      ],
+      "sources": [
+        "morgan-46day",
+        "morgan-ballots"
+      ]
+    }
+  ],
+  "issues": [
+    {
+      "id": "mcconnelsville-streets",
+      "kind": "levy",
+      "jurisdiction": "Village of McConnelsville",
+      "title": "Tax levy (renewal): Resurfacing and repair of streets and alleys within the Village of McConnelsville",
+      "area": "McConnelsville precincts A (09/1), B (10/1), C (10/2)",
+      "places": [
+        "McConnelsville Village"
+      ],
+      "levy": {
+        "type": "Renewal",
+        "purpose": "Resurfacing and repair of streets and alleys within the Village of McConnelsville.",
+        "mills": "2 mills",
+        "term": "5 years, commencing in 2027",
+        "firstDue": "2028",
+        "estimate": "$22,958 a year; $70 for each $100,000 of the county auditor's market value"
+      },
+      "sources": [
+        "morgan-46day",
+        "morgan-ballots"
+      ]
+    },
+    {
+      "id": "liquor-rons-auto",
+      "kind": "liquor",
+      "jurisdiction": "Village of Chesterhill",
+      "title": "Local liquor option: Ron's Auto & Convenience Center (D-5 permit)",
+      "area": "Chesterhill (precinct 07/1)",
+      "places": [
+        "Chesterhill Village"
+      ],
+      "text": "Shall the sale of beer, wine and mixed beverages/spirituous liquor be permitted by DBA Ron's Auto & Convenience Center, an applicant for a D-5 liquor permit, who is engaged in the business of Convenience Store/Restaurant at 7400 Marion St., Chesterhill, OH 43728 in this precinct?",
+      "sources": [
+        "morgan-46day",
+        "morgan-ballots"
+      ]
+    },
+    {
+      "id": "liquor-rons-auto-sunday",
+      "kind": "liquor",
+      "jurisdiction": "Village of Chesterhill",
+      "title": "Local liquor option: Ron's Auto & Convenience Center (D-5 permit, Sunday)",
+      "area": "Chesterhill (precinct 07/1)",
+      "places": [
+        "Chesterhill Village"
+      ],
+      "text": "Shall the sale of beer, wine and mixed beverages/spirituous liquor be permitted for sale on Sunday by DBA Ron's Auto & Convenience Center, an applicant for a D-5 liquor permit, who is engaged in the business of Convenience Store/Restaurant at 7400 Marion St., Chesterhill, OH 43728 in this precinct?",
+      "sources": [
+        "morgan-46day",
+        "morgan-ballots"
+      ]
+    },
+    {
+      "id": "windsor-fire",
+      "kind": "levy",
+      "jurisdiction": "Windsor Township",
+      "title": "Tax levy (renewal): Fire protection",
+      "area": "Windsor Township precinct 12/2",
+      "places": [
+        "Windsor Township"
+      ],
+      "levy": {
+        "type": "Renewal",
+        "purpose": "Fire protection.",
+        "mills": "1 mill",
+        "term": "5 years, commencing in 2027",
+        "firstDue": "2028",
+        "estimate": "$23,843 a year; $35 for each $100,000 of the county auditor's market value"
+      },
+      "sources": [
+        "morgan-46day",
+        "morgan-ballots"
+      ]
+    },
+    {
+      "id": "center-fire",
+      "kind": "levy",
+      "jurisdiction": "Center Township",
+      "title": "Tax levy (additional): Fire protection",
+      "area": "Center Township precinct 04/1",
+      "places": [
+        "Center Township"
+      ],
+      "levy": {
+        "type": "Additional",
+        "purpose": "Fire protection.",
+        "mills": "1 mill",
+        "term": "5 years, commencing in 2026",
+        "firstDue": "2027",
+        "estimate": "$44,500 a year; $35 for each $100,000 of the county auditor's market value"
+      },
+      "sources": [
+        "morgan-46day",
+        "morgan-ballots"
+      ]
+    },
+    {
+      "id": "chesterhill-fire",
+      "kind": "levy",
+      "jurisdiction": "Village of Chesterhill",
+      "title": "Tax levy (renewal): Fire protection",
+      "area": "Chesterhill (precinct 07/1)",
+      "places": [
+        "Chesterhill Village"
+      ],
+      "levy": {
+        "type": "Renewal",
+        "purpose": "Fire protection.",
+        "mills": "2 mills",
+        "term": "5 years, commencing in 2027",
+        "firstDue": "2028",
+        "estimate": "$6,802 a year; $70 for each $100,000 of the county auditor's market value"
+      },
+      "sources": [
+        "morgan-46day",
+        "morgan-ballots"
+      ]
+    },
+    {
+      "id": "meigsville-fire",
+      "kind": "levy",
+      "jurisdiction": "Meigsville Township",
+      "title": "Tax levy (renewal): Fire protection",
+      "area": "Meigsville Township precinct 08/1",
+      "places": [
+        "Meigsville Township"
+      ],
+      "levy": {
+        "type": "Renewal",
+        "purpose": "Fire protection.",
+        "mills": "0.6 mill",
+        "term": "3 years, commencing in 2027",
+        "firstDue": "2028",
+        "estimate": "$7,645 a year; $21 for each $100,000 of the county auditor's market value"
+      },
+      "note": "The Board's 46-day notice gives this levy's term as 5 years; the sample ballot (shown here) says 3 years.",
+      "sources": [
+        "morgan-46day",
+        "morgan-ballots"
+      ]
+    },
+    {
+      "id": "marion-fire",
+      "kind": "levy",
+      "jurisdiction": "Marion Township",
+      "title": "Tax levy (renewal): Fire protection",
+      "area": "Marion Township precinct 07/2 (outside Chesterhill)",
+      "places": [
+        "Marion Township"
+      ],
+      "levy": {
+        "type": "Renewal",
+        "purpose": "Fire protection.",
+        "mills": "1 mill",
+        "term": "5 years, commencing in 2027",
+        "firstDue": "2028",
+        "estimate": "$10,770 a year; $35 for each $100,000 of the county auditor's market value"
+      },
+      "note": "The Board's 46-day notice gives the annual estimate as $10,077; the sample ballot (shown here) says $10,770.",
+      "sources": [
+        "morgan-46day",
+        "morgan-ballots"
+      ]
+    },
+    {
+      "id": "stockport-streets",
+      "kind": "levy",
+      "jurisdiction": "Village of Stockport",
+      "title": "Tax levy (renewal): Street maintenance within the Village of Stockport",
+      "area": "Stockport precinct 12/1",
+      "places": [
+        "Stockport Village"
+      ],
+      "levy": {
+        "type": "Renewal",
+        "purpose": "Street maintenance within the Village of Stockport.",
+        "mills": "2 mills",
+        "term": "5 years, commencing in 2027",
+        "firstDue": "2028",
+        "estimate": "$17,118 a year; $70 for each $100,000 of the county auditor's market value"
+      },
+      "sources": [
+        "morgan-46day",
+        "morgan-ballots"
+      ]
+    },
+    {
+      "id": "liquor-triple-nickel",
+      "kind": "liquor",
+      "jurisdiction": "Village of Chesterhill",
+      "title": "Local liquor option: Triple Nickel Diner (D-3 permit)",
+      "area": "Chesterhill (precinct 07/1)",
+      "places": [
+        "Chesterhill Village"
+      ],
+      "text": "Shall the sale of spirituous liquor be permitted by Triple Nickel Diner LLC, an applicant for a D-3 liquor permit, who is engaged in the business of operating a restaurant at 1060 High St. Chesterhill, OH 43728 in this precinct?",
+      "sources": [
+        "morgan-46day",
+        "morgan-ballots"
+      ]
+    },
+    {
+      "id": "liquor-triple-nickel-sunday",
+      "kind": "liquor",
+      "jurisdiction": "Village of Chesterhill",
+      "title": "Local liquor option: Triple Nickel Diner (D-6 permit, Sunday)",
+      "area": "Chesterhill (precinct 07/1)",
+      "places": [
+        "Chesterhill Village"
+      ],
+      "text": "Shall the sale of beer, wine and mixed beverages and spirituous liquor be permitted for sale on Sunday by Triple Nickel Diner LLC an applicant for a D-6 liquor permit and an applicant for or holder of a D-1, D-2, and D-3 liquor permit who is engaged in the business of operating a restaurant at 1060 High St. Chesterhill, OH 43728 in this precinct?",
+      "sources": [
+        "morgan-46day",
+        "morgan-ballots"
+      ]
+    }
+  ]
+}

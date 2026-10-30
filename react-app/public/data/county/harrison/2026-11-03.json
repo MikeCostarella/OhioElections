@@ -1,0 +1,744 @@
+{
+  "scope": "county",
+  "county": "Harrison",
+  "fips": "39067",
+  "election": "2026-11-03",
+  "retrieved": "2026-10-30",
+  "notes": [
+    "Taken from the Board of Elections' 46-day election notice, which lists every contest and issue with the precincts that vote on it, checked against the Board's precinct sample ballots. Issue wording is the Board's; the full wording is on your sample ballot.",
+    "Candidates are listed alphabetically by last name, not in ballot order: Ohio rotates the order of names from precinct to precinct. Certified write-in candidates are not printed on the ballot and are not listed.",
+    "\"Where you live\" uses the state voter file: a district or school levy is shown for a city, village or township when any of its voters live in that district. Your exact ballot depends on your precinct.",
+    "The Board's notice and sample ballots do not give local issue numbers; see your sample ballot for the order."
+  ],
+  "places": [
+    "Adena Village",
+    "Archer Township",
+    "Athens Township",
+    "Bowerston Village",
+    "Cadiz Township",
+    "Cadiz Village",
+    "Deersville Village",
+    "Franklin Township",
+    "Freeport Township",
+    "Freeport Village",
+    "German Township",
+    "Green Township",
+    "Harrisville Village",
+    "Hopedale Village",
+    "Jewett Village",
+    "Monroe Township",
+    "Moorefield Township",
+    "New Athens Village",
+    "North Township",
+    "Nottingham Township",
+    "Rumley Township",
+    "Scio Village",
+    "Shortcreek Township",
+    "Stock Township",
+    "Washington Township"
+  ],
+  "sources": {
+    "harrison-46day": {
+      "label": "Harrison County Board of Elections: 46-day election notice (FWAB), November 3, 2026 General Election (revised 9/16/2026)",
+      "url": "https://www.boe.ohio.gov/harrison/c/upload/FWAB_11November46Day.pdf"
+    },
+    "harrison-ballots": {
+      "label": "Harrison County Board of Elections: sample ballots for every precinct, November 3, 2026 General Election",
+      "url": "https://lookup.boe.ohio.gov/vtrapp/harrison/ballotlist.aspx"
+    }
+  },
+  "links": [
+    {
+      "label": "Board of Elections",
+      "url": "https://www.boe.ohio.gov/harrison/"
+    },
+    {
+      "label": "Election info",
+      "url": "https://www.boe.ohio.gov/harrison/election-info/"
+    },
+    {
+      "label": "Sample ballots by precinct",
+      "url": "https://lookup.boe.ohio.gov/vtrapp/harrison/ballotlist.aspx"
+    }
+  ],
+  "results": {
+    "status": "upcoming",
+    "links": [
+      {
+        "label": "Board of Elections: election results",
+        "url": "https://www.boe.ohio.gov/harrison/election-info/election-results/"
+      }
+    ]
+  },
+  "contests": [
+    {
+      "id": "congress-6",
+      "group": "U.S. House",
+      "office": "Representative to Congress",
+      "detail": "6th District",
+      "candidates": [
+        {
+          "name": "Elizabeth Kirtley",
+          "party": "DEM"
+        },
+        {
+          "name": "Michael A. Rulli",
+          "party": "REP"
+        }
+      ],
+      "sources": [
+        "harrison-46day",
+        "harrison-ballots"
+      ]
+    },
+    {
+      "id": "rep-95",
+      "group": "Ohio General Assembly",
+      "office": "State Representative",
+      "detail": "95th District",
+      "candidates": [
+        {
+          "name": "Paul Cameron",
+          "party": "DEM"
+        },
+        {
+          "name": "Ty Moore",
+          "party": "REP"
+        }
+      ],
+      "sources": [
+        "harrison-46day",
+        "harrison-ballots"
+      ]
+    },
+    {
+      "id": "appeals-7-0209",
+      "group": "Ohio Court of Appeals",
+      "office": "Judge of the Court of Appeals",
+      "detail": "7th District · full term commencing February 9, 2027",
+      "candidates": [
+        {
+          "name": "Molly K. Johnson",
+          "party": "REP"
+        }
+      ],
+      "sources": [
+        "harrison-46day",
+        "harrison-ballots"
+      ]
+    },
+    {
+      "id": "appeals-7-0210",
+      "group": "Ohio Court of Appeals",
+      "office": "Judge of the Court of Appeals",
+      "detail": "7th District · full term commencing February 10, 2027",
+      "candidates": [
+        {
+          "name": "Mark Anthony Hanni",
+          "party": "REP"
+        },
+        {
+          "name": "Katherine Rudzik",
+          "party": "DEM"
+        }
+      ],
+      "sources": [
+        "harrison-46day",
+        "harrison-ballots"
+      ]
+    },
+    {
+      "id": "commissioner",
+      "group": "County offices",
+      "office": "County Commissioner",
+      "detail": "Full term commencing January 1, 2027",
+      "candidates": [
+        {
+          "name": "Dustin Corder",
+          "party": "REP"
+        },
+        {
+          "name": "Michelle Meyer",
+          "party": "Nonparty"
+        }
+      ],
+      "sources": [
+        "harrison-46day",
+        "harrison-ballots"
+      ]
+    },
+    {
+      "id": "auditor",
+      "group": "County offices",
+      "office": "County Auditor",
+      "detail": "Full term commencing March 8, 2027",
+      "candidates": [
+        {
+          "name": "Clint Barr",
+          "party": "REP"
+        }
+      ],
+      "sources": [
+        "harrison-46day",
+        "harrison-ballots"
+      ]
+    },
+    {
+      "id": "cp-0419",
+      "group": "Court of Common Pleas",
+      "office": "Judge of the Court of Common Pleas",
+      "detail": "Full term commencing April 19, 2027 · no party label on the ballot",
+      "candidates": [
+        {
+          "name": "T. Shawn Hervey"
+        }
+      ],
+      "sources": [
+        "harrison-46day",
+        "harrison-ballots"
+      ]
+    },
+    {
+      "id": "cp-probate-juvenile",
+      "group": "Court of Common Pleas",
+      "office": "Judge of the Court of Common Pleas, Probate and Juvenile Division",
+      "detail": "Full term commencing February 9, 2027 · no party label on the ballot",
+      "candidates": [
+        {
+          "name": "Matthew Paul Puskarich"
+        }
+      ],
+      "sources": [
+        "harrison-46day",
+        "harrison-ballots"
+      ]
+    }
+  ],
+  "issues": [
+    {
+      "id": "county-home",
+      "kind": "levy",
+      "jurisdiction": "Harrison County",
+      "title": "Tax levy (renewal): Maintenance and operation of the County Home",
+      "area": "Harrison County",
+      "levy": {
+        "type": "Renewal",
+        "purpose": "Maintenance and operation of the County Home.",
+        "mills": "1.5 mills",
+        "term": "5 years, commencing in 2027",
+        "firstDue": "2028",
+        "estimate": "$1,609,394 a year; $53 for each $100,000 of market value"
+      },
+      "sources": [
+        "harrison-46day",
+        "harrison-ballots"
+      ]
+    },
+    {
+      "id": "county-sheriff",
+      "kind": "levy",
+      "jurisdiction": "Harrison County",
+      "title": "Tax levy (renewal): Police protection, including salaries for police personnel and providing, upgrading and maintaining equipment, by the Sheriff's Office",
+      "area": "Harrison County",
+      "levy": {
+        "type": "Renewal",
+        "purpose": "Police protection, including salaries for police personnel and providing, upgrading and maintaining equipment, by the Sheriff's Office.",
+        "mills": "1 mill",
+        "term": "5 years, commencing in 2027",
+        "firstDue": "2028",
+        "estimate": "$1,165,943 a year; $35 for each $100,000 of market value"
+      },
+      "sources": [
+        "harrison-46day",
+        "harrison-ballots"
+      ]
+    },
+    {
+      "id": "county-extension",
+      "kind": "levy",
+      "jurisdiction": "Harrison County",
+      "title": "Tax levy (renewal): Ohio Cooperative Extension Service Fund for 4-H, agriculture and natural resources, home economics and economic development",
+      "area": "Harrison County",
+      "levy": {
+        "type": "Renewal",
+        "purpose": "Ohio Cooperative Extension Service Fund for 4-H, agriculture and natural resources, home economics and economic development.",
+        "mills": "0.75 mill",
+        "term": "5 years, commencing in 2027",
+        "firstDue": "2028",
+        "estimate": "$827,871 a year; $26 for each $100,000 of market value"
+      },
+      "sources": [
+        "harrison-46day",
+        "harrison-ballots"
+      ]
+    },
+    {
+      "id": "county-aging",
+      "kind": "levy",
+      "jurisdiction": "Harrison County",
+      "title": "Tax levy (renewal): Providing and maintaining services for senior citizens by the Harrison County Council on Aging",
+      "area": "Harrison County",
+      "levy": {
+        "type": "Renewal",
+        "purpose": "Providing and maintaining services for senior citizens by the Harrison County Council on Aging.",
+        "mills": "0.75 mill",
+        "term": "5 years, commencing in 2027",
+        "firstDue": "2028",
+        "estimate": "$804,697 a year; $26 for each $100,000 of market value"
+      },
+      "sources": [
+        "harrison-46day",
+        "harrison-ballots"
+      ]
+    },
+    {
+      "id": "edison-lsd",
+      "kind": "levy",
+      "jurisdiction": "Edison Local School District (Jefferson, Carroll and Harrison)",
+      "title": "Tax levy (renewal (fixed sum)): Current expenses ($1,049,150 a year)",
+      "area": "Edison Local School District, Harrison County part (German precinct 2)",
+      "places": [
+        "German Township"
+      ],
+      "levy": {
+        "type": "Renewal (fixed sum)",
+        "purpose": "Current expenses ($1,049,150 a year).",
+        "mills": "1.85 mills (estimated average)",
+        "term": "5 years, commencing in 2027",
+        "firstDue": "2028",
+        "estimate": "$1,049,150 a year; $65 for each $100,000 of market value"
+      },
+      "sources": [
+        "harrison-46day",
+        "harrison-ballots"
+      ]
+    },
+    {
+      "id": "jefferson-jvsd-1",
+      "kind": "levy",
+      "jurisdiction": "Jefferson County Joint Vocational School District (Jefferson, Belmont, Carroll and Harrison)",
+      "title": "Tax levy (renewal): 0.67 mill for current expenses and 0.33 mill for reconditioning or acquiring tools, equipment or furnishings and for repairing, improving, renovating, expanding or reconstructing buildings and sites",
+      "area": "Jefferson County JVSD, Harrison County part (German precinct 2, Green precinct 3, Shortcreek precincts 2–4)",
+      "places": [
+        "Adena Village",
+        "German Township",
+        "Green Township",
+        "Harrisville Village",
+        "Shortcreek Township"
+      ],
+      "levy": {
+        "type": "Renewal",
+        "purpose": "0.67 mill for current expenses and 0.33 mill for reconditioning or acquiring tools, equipment or furnishings and for repairing, improving, renovating, expanding or reconstructing buildings and sites.",
+        "mills": "1 mill",
+        "term": "10 years, commencing in 2027",
+        "firstDue": "2028",
+        "estimate": "$1,999,864 a year; $32 for each $100,000 of market value"
+      },
+      "note": "One of two separate 1-mill JVS renewals on the ballot.",
+      "sources": [
+        "harrison-46day",
+        "harrison-ballots"
+      ]
+    },
+    {
+      "id": "jefferson-jvsd-2",
+      "kind": "levy",
+      "jurisdiction": "Jefferson County Joint Vocational School District (Jefferson, Belmont, Carroll and Harrison)",
+      "title": "Tax levy (renewal): 0.67 mill for current expenses and 0.33 mill for purchasing equipment for buildings and improving buildings",
+      "area": "Jefferson County JVSD, Harrison County part (German precinct 2, Green precinct 3, Shortcreek precincts 2–4)",
+      "places": [
+        "Adena Village",
+        "German Township",
+        "Green Township",
+        "Harrisville Village",
+        "Shortcreek Township"
+      ],
+      "levy": {
+        "type": "Renewal",
+        "purpose": "0.67 mill for current expenses and 0.33 mill for purchasing equipment for buildings and improving buildings.",
+        "mills": "1 mill",
+        "term": "10 years, commencing in 2027",
+        "firstDue": "2028",
+        "estimate": "$1,934,109 a year; $30 for each $100,000 of market value"
+      },
+      "note": "One of two separate 1-mill JVS renewals on the ballot.",
+      "sources": [
+        "harrison-46day",
+        "harrison-ballots"
+      ]
+    },
+    {
+      "id": "cadiz-police",
+      "kind": "levy",
+      "jurisdiction": "Village of Cadiz",
+      "title": "Tax levy (renewal): Police expenses",
+      "area": "Village of Cadiz (precincts 003/2 and 004/1)",
+      "places": [
+        "Cadiz Village"
+      ],
+      "levy": {
+        "type": "Renewal",
+        "purpose": "Police expenses.",
+        "mills": "1 mill",
+        "term": "5 years, commencing in 2027",
+        "firstDue": "2028",
+        "estimate": "$70,141 a year; $35 for each $100,000 of market value"
+      },
+      "sources": [
+        "harrison-46day",
+        "harrison-ballots"
+      ]
+    },
+    {
+      "id": "liquor-cadiz-christophers",
+      "kind": "liquor",
+      "jurisdiction": "Village of Cadiz",
+      "title": "Local liquor option: Christopher's Delights (D-5, D-5i permits)",
+      "area": "Cadiz Village SW precinct (004/1)",
+      "places": [
+        "Cadiz Village"
+      ],
+      "text": "Shall the sale of spirituous liquor be permitted by Christopher's Delights L.L.C. an applicant for a D-5, D-5i liquor permit(s), who is engaged in the business of operating a restaurant at 533 Liggett Lane, Cadiz, OH 43907 in this precinct?",
+      "sources": [
+        "harrison-46day",
+        "harrison-ballots"
+      ]
+    },
+    {
+      "id": "liquor-cadiz-christophers-sunday",
+      "kind": "liquor",
+      "jurisdiction": "Village of Cadiz",
+      "title": "Local liquor option: Christopher's Delights (Sunday)",
+      "area": "Cadiz Village SW precinct (004/1)",
+      "places": [
+        "Cadiz Village"
+      ],
+      "text": "Shall the sale of wine and mixed beverages and spirituous liquor be permitted for sale on Sunday by Christopher's Delights, L.L.C. an applicant for a D-6 liquor permit who is engaged in the business of operating a restaurant at 533 Liggett Lane, Cadiz, OH 43907 in this precinct?",
+      "sources": [
+        "harrison-46day",
+        "harrison-ballots"
+      ]
+    },
+    {
+      "id": "freeport-current-089",
+      "kind": "levy",
+      "jurisdiction": "Village of Freeport",
+      "title": "Tax levy (renewal): Current expenses",
+      "area": "Village of Freeport (precinct 006/2)",
+      "places": [
+        "Freeport Village"
+      ],
+      "levy": {
+        "type": "Renewal",
+        "purpose": "Current expenses.",
+        "mills": "0.89 mill",
+        "term": "4 years, commencing in 2026",
+        "firstDue": "2027",
+        "estimate": "$3,056 a year; $31 for each $100,000 of market value"
+      },
+      "note": "One of three separate current-expense renewals for the village on the ballot.",
+      "sources": [
+        "harrison-46day",
+        "harrison-ballots"
+      ]
+    },
+    {
+      "id": "freeport-current-1",
+      "kind": "levy",
+      "jurisdiction": "Village of Freeport",
+      "title": "Tax levy (renewal): Current expenses",
+      "area": "Village of Freeport (precinct 006/2)",
+      "places": [
+        "Freeport Village"
+      ],
+      "levy": {
+        "type": "Renewal",
+        "purpose": "Current expenses.",
+        "mills": "1 mill",
+        "term": "5 years, commencing in 2027",
+        "firstDue": "2028",
+        "estimate": "$4,117 a year; $35 for each $100,000 of market value"
+      },
+      "note": "One of three separate current-expense renewals for the village on the ballot.",
+      "sources": [
+        "harrison-46day",
+        "harrison-ballots"
+      ]
+    },
+    {
+      "id": "freeport-current-35",
+      "kind": "levy",
+      "jurisdiction": "Village of Freeport",
+      "title": "Tax levy (renewal): Current expenses",
+      "area": "Village of Freeport (precinct 006/2)",
+      "places": [
+        "Freeport Village"
+      ],
+      "levy": {
+        "type": "Renewal",
+        "purpose": "Current expenses.",
+        "mills": "3.5 mills",
+        "term": "5 years, commencing in 2027",
+        "firstDue": "2028",
+        "estimate": "$14,411 a year; $123 for each $100,000 of market value"
+      },
+      "note": "One of three separate current-expense renewals for the village on the ballot.",
+      "sources": [
+        "harrison-46day",
+        "harrison-ballots"
+      ]
+    },
+    {
+      "id": "freeport-street",
+      "kind": "levy",
+      "jurisdiction": "Village of Freeport",
+      "title": "Tax levy (renewal): Street expenses",
+      "area": "Village of Freeport (precinct 006/2)",
+      "places": [
+        "Freeport Village"
+      ],
+      "levy": {
+        "type": "Renewal",
+        "purpose": "Street expenses.",
+        "mills": "2.67 mills",
+        "term": "5 years, commencing in 2027",
+        "firstDue": "2028",
+        "estimate": "$10,993 a year; $93 for each $100,000 of market value"
+      },
+      "sources": [
+        "harrison-46day",
+        "harrison-ballots"
+      ]
+    },
+    {
+      "id": "freeport-fire",
+      "kind": "levy",
+      "jurisdiction": "Village of Freeport",
+      "title": "Tax levy (renewal): Fire expenses",
+      "area": "Village of Freeport (precinct 006/2)",
+      "places": [
+        "Freeport Village"
+      ],
+      "levy": {
+        "type": "Renewal",
+        "purpose": "Fire expenses.",
+        "mills": "0.89 mill",
+        "term": "5 years, commencing in 2027",
+        "firstDue": "2028",
+        "estimate": "$3,664 a year; $31 for each $100,000 of market value"
+      },
+      "sources": [
+        "harrison-46day",
+        "harrison-ballots"
+      ]
+    },
+    {
+      "id": "new-athens-current",
+      "kind": "levy",
+      "jurisdiction": "Village of New Athens",
+      "title": "Tax levy (renewal): Current expenses",
+      "area": "Village of New Athens (precinct 002/2)",
+      "places": [
+        "New Athens Village"
+      ],
+      "levy": {
+        "type": "Renewal",
+        "purpose": "Current expenses.",
+        "mills": "1 mill",
+        "term": "5 years, commencing in 2027",
+        "firstDue": "2028",
+        "estimate": "$3,541 a year; $35 for each $100,000 of market value"
+      },
+      "sources": [
+        "harrison-46day",
+        "harrison-ballots"
+      ]
+    },
+    {
+      "id": "cadiz-twp-cemetery",
+      "kind": "levy",
+      "jurisdiction": "Cadiz Township",
+      "title": "Tax levy (renewal): Maintenance of Cadiz Union Cemetery",
+      "area": "Cadiz Township, including the Village of Cadiz (precincts 003/1, 003/2 and 004/1)",
+      "places": [
+        "Cadiz Township",
+        "Cadiz Village"
+      ],
+      "levy": {
+        "type": "Renewal",
+        "purpose": "Maintenance of Cadiz Union Cemetery.",
+        "mills": "0.5 mill",
+        "term": "5 years, commencing in 2027",
+        "firstDue": "2028",
+        "estimate": "$104,284 a year; $18 for each $100,000 of market value"
+      },
+      "sources": [
+        "harrison-46day",
+        "harrison-ballots"
+      ]
+    },
+    {
+      "id": "freeport-twp-fire",
+      "kind": "levy",
+      "jurisdiction": "Freeport Township",
+      "title": "Tax levy (renewal): Fire protection",
+      "area": "Freeport Township, including the Village of Freeport (precincts 006/1 and 006/2)",
+      "places": [
+        "Freeport Township",
+        "Freeport Village"
+      ],
+      "levy": {
+        "type": "Renewal",
+        "purpose": "Fire protection.",
+        "mills": "1.5 mills",
+        "term": "5 years, commencing in 2027",
+        "firstDue": "2028",
+        "estimate": "$56,685 a year; $53 for each $100,000 of market value"
+      },
+      "sources": [
+        "harrison-46day",
+        "harrison-ballots"
+      ]
+    },
+    {
+      "id": "german-twp-roads",
+      "kind": "levy",
+      "jurisdiction": "German Township",
+      "title": "Tax levy (renewal): General construction, reconstruction, resurfacing and repair of roads",
+      "area": "German Township (precincts 007/1 and 007/2)",
+      "places": [
+        "German Township"
+      ],
+      "levy": {
+        "type": "Renewal",
+        "purpose": "General construction, reconstruction, resurfacing and repair of roads.",
+        "mills": "2 mills",
+        "term": "5 years, commencing in 2027",
+        "firstDue": "2028",
+        "estimate": "$67,154 a year; $70 for each $100,000 of market value"
+      },
+      "sources": [
+        "harrison-46day",
+        "harrison-ballots"
+      ]
+    },
+    {
+      "id": "green-twp-roads",
+      "kind": "levy",
+      "jurisdiction": "Green Township",
+      "title": "Tax levy (additional): Maintaining and repairing roads and bridges",
+      "area": "Green Township, including the Village of Hopedale (precincts 008/1–008/3)",
+      "places": [
+        "Green Township",
+        "Hopedale Village"
+      ],
+      "levy": {
+        "type": "Additional",
+        "purpose": "Maintaining and repairing roads and bridges.",
+        "mills": "1.5 mills",
+        "term": "Continuing period of time, commencing in 2026",
+        "firstDue": "2027",
+        "estimate": "$145,400 a year; $53 for each $100,000 of market value"
+      },
+      "sources": [
+        "harrison-46day",
+        "harrison-ballots"
+      ]
+    },
+    {
+      "id": "green-twp-cemetery",
+      "kind": "levy",
+      "jurisdiction": "Green Township",
+      "title": "Tax levy (renewal): Cemetery operations",
+      "area": "Green Township, including the Village of Hopedale (precincts 008/1–008/3)",
+      "places": [
+        "Green Township",
+        "Hopedale Village"
+      ],
+      "levy": {
+        "type": "Renewal",
+        "purpose": "Cemetery operations.",
+        "mills": "0.5 mill",
+        "term": "5 years, commencing in 2027",
+        "firstDue": "2028",
+        "estimate": "$50,196 a year; $18 for each $100,000 of market value"
+      },
+      "sources": [
+        "harrison-46day",
+        "harrison-ballots"
+      ]
+    },
+    {
+      "id": "monroe-twp-fire-05a",
+      "kind": "levy",
+      "jurisdiction": "Monroe Township",
+      "title": "Tax levy (renewal): Fire protection",
+      "area": "Monroe Township, including the Village of Bowerston (precincts 009/1 and 009/2)",
+      "places": [
+        "Bowerston Village",
+        "Monroe Township"
+      ],
+      "levy": {
+        "type": "Renewal",
+        "purpose": "Fire protection.",
+        "mills": "0.5 mill",
+        "term": "5 years, commencing in 2027",
+        "firstDue": "2028",
+        "estimate": "$64,443 a year; $18 for each $100,000 of market value"
+      },
+      "note": "One of three separate fire protection renewals for the township on the ballot.",
+      "sources": [
+        "harrison-46day",
+        "harrison-ballots"
+      ]
+    },
+    {
+      "id": "monroe-twp-fire-05b",
+      "kind": "levy",
+      "jurisdiction": "Monroe Township",
+      "title": "Tax levy (renewal): Fire protection",
+      "area": "Monroe Township, including the Village of Bowerston (precincts 009/1 and 009/2)",
+      "places": [
+        "Bowerston Village",
+        "Monroe Township"
+      ],
+      "levy": {
+        "type": "Renewal",
+        "purpose": "Fire protection.",
+        "mills": "0.5 mill",
+        "term": "5 years, commencing in 2027",
+        "firstDue": "2028",
+        "estimate": "$67,758 a year; $18 for each $100,000 of market value"
+      },
+      "note": "One of three separate fire protection renewals for the township on the ballot.",
+      "sources": [
+        "harrison-46day",
+        "harrison-ballots"
+      ]
+    },
+    {
+      "id": "monroe-twp-fire-1",
+      "kind": "levy",
+      "jurisdiction": "Monroe Township",
+      "title": "Tax levy (renewal): Fire protection",
+      "area": "Monroe Township, including the Village of Bowerston (precincts 009/1 and 009/2)",
+      "places": [
+        "Bowerston Village",
+        "Monroe Township"
+      ],
+      "levy": {
+        "type": "Renewal",
+        "purpose": "Fire protection.",
+        "mills": "1 mill",
+        "term": "5 years, commencing in 2027",
+        "firstDue": "2028",
+        "estimate": "$123,818 a year; $35 for each $100,000 of market value"
+      },
+      "note": "One of three separate fire protection renewals for the township on the ballot.",
+      "sources": [
+        "harrison-46day",
+        "harrison-ballots"
+      ]
+    }
+  ]
+}

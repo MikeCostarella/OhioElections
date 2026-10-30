@@ -1,0 +1,322 @@
+{
+ "BEAVER TOWNSHIP": {
+  "voters": 737,
+  "LOCAL_SCHOOL_DISTRICT": {
+   "EASTERN LOCAL SD (PIKE)": 737
+  },
+  "CONGRESSIONAL_DISTRICT": {
+   "02": 737
+  },
+  "STATE_REPRESENTATIVE_DISTRICT": {
+   "91": 737
+  },
+  "STATE_SENATE_DISTRICT": {
+   "17": 737
+  },
+  "COURT_OF_APPEALS": {
+   "04": 737
+  }
+ },
+ "BEAVER VILLAGE": {
+  "voters": 231,
+  "LOCAL_SCHOOL_DISTRICT": {
+   "EASTERN LOCAL SD (PIKE)": 231
+  },
+  "CONGRESSIONAL_DISTRICT": {
+   "02": 231
+  },
+  "STATE_REPRESENTATIVE_DISTRICT": {
+   "91": 231
+  },
+  "STATE_SENATE_DISTRICT": {
+   "17": 231
+  },
+  "COURT_OF_APPEALS": {
+   "04": 231
+  },
+  "TWP_OF_VILLAGE": {
+   "MARION TOWNSHIP": 166,
+   "BEAVER TOWNSHIP": 65
+  }
+ },
+ "BENTON TOWNSHIP": {
+  "voters": 969,
+  "LOCAL_SCHOOL_DISTRICT": {
+   "WESTERN LOCAL SD (PIKE)": 969
+  },
+  "CONGRESSIONAL_DISTRICT": {
+   "02": 969
+  },
+  "STATE_REPRESENTATIVE_DISTRICT": {
+   "91": 969
+  },
+  "STATE_SENATE_DISTRICT": {
+   "17": 969
+  },
+  "COURT_OF_APPEALS": {
+   "04": 969
+  }
+ },
+ "CAMP CREEK TOWNSHIP": {
+  "voters": 619,
+  "LOCAL_SCHOOL_DISTRICT": {
+   "SCIOTO VALLEY LOCAL SD (PIKE)": 619
+  },
+  "CONGRESSIONAL_DISTRICT": {
+   "02": 619
+  },
+  "STATE_REPRESENTATIVE_DISTRICT": {
+   "91": 619
+  },
+  "STATE_SENATE_DISTRICT": {
+   "17": 619
+  },
+  "COURT_OF_APPEALS": {
+   "04": 619
+  }
+ },
+ "JACKSON TOWNSHP": {
+  "voters": 772,
+  "CITY_SCHOOL_DISTRICT": {
+   "WAVERLY CITY SD": 765
+  },
+  "CONGRESSIONAL_DISTRICT": {
+   "02": 772
+  },
+  "STATE_REPRESENTATIVE_DISTRICT": {
+   "91": 772
+  },
+  "STATE_SENATE_DISTRICT": {
+   "17": 772
+  },
+  "COURT_OF_APPEALS": {
+   "04": 772
+  },
+  "LOCAL_SCHOOL_DISTRICT": {
+   "EASTERN LOCAL SD (PIKE)": 7
+  }
+ },
+ "MARION TOWNSHIP": {
+  "voters": 675,
+  "LOCAL_SCHOOL_DISTRICT": {
+   "EASTERN LOCAL SD (PIKE)": 675
+  },
+  "CONGRESSIONAL_DISTRICT": {
+   "02": 675
+  },
+  "STATE_REPRESENTATIVE_DISTRICT": {
+   "91": 675
+  },
+  "STATE_SENATE_DISTRICT": {
+   "17": 675
+  },
+  "COURT_OF_APPEALS": {
+   "04": 675
+  }
+ },
+ "MIFFLIN TOWNSHIP": {
+  "voters": 667,
+  "LOCAL_SCHOOL_DISTRICT": {
+   "WESTERN LOCAL SD (PIKE)": 667
+  },
+  "CONGRESSIONAL_DISTRICT": {
+   "02": 667
+  },
+  "STATE_REPRESENTATIVE_DISTRICT": {
+   "91": 667
+  },
+  "STATE_SENATE_DISTRICT": {
+   "17": 667
+  },
+  "COURT_OF_APPEALS": {
+   "04": 667
+  }
+ },
+ "NEWTON TOWNSHIP": {
+  "voters": 1227,
+  "LOCAL_SCHOOL_DISTRICT": {
+   "SCIOTO VALLEY LOCAL SD (PIKE)": 1227
+  },
+  "CONGRESSIONAL_DISTRICT": {
+   "02": 1227
+  },
+  "STATE_REPRESENTATIVE_DISTRICT": {
+   "91": 1227
+  },
+  "STATE_SENATE_DISTRICT": {
+   "17": 1227
+  },
+  "COURT_OF_APPEALS": {
+   "04": 1227
+  }
+ },
+ "PEBBLE TOWNSHIP": {
+  "voters": 1525,
+  "CITY_SCHOOL_DISTRICT": {
+   "WAVERLY CITY SD": 1295
+  },
+  "CONGRESSIONAL_DISTRICT": {
+   "02": 1525
+  },
+  "STATE_REPRESENTATIVE_DISTRICT": {
+   "91": 1525
+  },
+  "STATE_SENATE_DISTRICT": {
+   "17": 1525
+  },
+  "COURT_OF_APPEALS": {
+   "04": 1525
+  },
+  "LOCAL_SCHOOL_DISTRICT": {
+   "WESTERN LOCAL SD (PIKE)": 230
+  }
+ },
+ "PEE PEE TOWNSHIP": {
+  "voters": 2270,
+  "CITY_SCHOOL_DISTRICT": {
+   "WAVERLY CITY SD": 2270
+  },
+  "CONGRESSIONAL_DISTRICT": {
+   "02": 2270
+  },
+  "STATE_REPRESENTATIVE_DISTRICT": {
+   "91": 2270
+  },
+  "STATE_SENATE_DISTRICT": {
+   "17": 2270
+  },
+  "COURT_OF_APPEALS": {
+   "04": 2270
+  }
+ },
+ "PERRY TOWNSHIP": {
+  "voters": 349,
+  "LOCAL_SCHOOL_DISTRICT": {
+   "WESTERN LOCAL SD (PIKE)": 349
+  },
+  "CONGRESSIONAL_DISTRICT": {
+   "02": 349
+  },
+  "STATE_REPRESENTATIVE_DISTRICT": {
+   "91": 349
+  },
+  "STATE_SENATE_DISTRICT": {
+   "17": 349
+  },
+  "COURT_OF_APPEALS": {
+   "04": 349
+  }
+ },
+ "PIKETON VILLAGE": {
+  "voters": 1322,
+  "LOCAL_SCHOOL_DISTRICT": {
+   "SCIOTO VALLEY LOCAL SD (PIKE)": 1322
+  },
+  "CONGRESSIONAL_DISTRICT": {
+   "02": 1322
+  },
+  "STATE_REPRESENTATIVE_DISTRICT": {
+   "91": 1322
+  },
+  "STATE_SENATE_DISTRICT": {
+   "17": 1322
+  },
+  "COURT_OF_APPEALS": {
+   "04": 1322
+  },
+  "TWP_OF_VILLAGE": {
+   "SEAL TOWNSHIP": 1322
+  }
+ },
+ "SCIOTO TOWNSHIP": {
+  "voters": 666,
+  "LOCAL_SCHOOL_DISTRICT": {
+   "SCIOTO VALLEY LOCAL SD (PIKE)": 666
+  },
+  "CONGRESSIONAL_DISTRICT": {
+   "02": 666
+  },
+  "STATE_REPRESENTATIVE_DISTRICT": {
+   "91": 666
+  },
+  "STATE_SENATE_DISTRICT": {
+   "17": 666
+  },
+  "COURT_OF_APPEALS": {
+   "04": 666
+  }
+ },
+ "SEAL TOWNSHIP": {
+  "voters": 727,
+  "LOCAL_SCHOOL_DISTRICT": {
+   "SCIOTO VALLEY LOCAL SD (PIKE)": 727
+  },
+  "CONGRESSIONAL_DISTRICT": {
+   "02": 727
+  },
+  "STATE_REPRESENTATIVE_DISTRICT": {
+   "91": 727
+  },
+  "STATE_SENATE_DISTRICT": {
+   "17": 727
+  },
+  "COURT_OF_APPEALS": {
+   "04": 727
+  }
+ },
+ "SUNFISH TOWNSHIP": {
+  "voters": 715,
+  "LOCAL_SCHOOL_DISTRICT": {
+   "SCIOTO VALLEY LOCAL SD (PIKE)": 588,
+   "WESTERN LOCAL SD (PIKE)": 127
+  },
+  "CONGRESSIONAL_DISTRICT": {
+   "02": 715
+  },
+  "STATE_REPRESENTATIVE_DISTRICT": {
+   "91": 715
+  },
+  "STATE_SENATE_DISTRICT": {
+   "17": 715
+  },
+  "COURT_OF_APPEALS": {
+   "04": 715
+  }
+ },
+ "UNION TOWNSHIP": {
+  "voters": 904,
+  "LOCAL_SCHOOL_DISTRICT": {
+   "EASTERN LOCAL SD (PIKE)": 904
+  },
+  "CONGRESSIONAL_DISTRICT": {
+   "02": 904
+  },
+  "STATE_REPRESENTATIVE_DISTRICT": {
+   "91": 904
+  },
+  "STATE_SENATE_DISTRICT": {
+   "17": 904
+  },
+  "COURT_OF_APPEALS": {
+   "04": 904
+  }
+ },
+ "WAVERLY VILLAGE": {
+  "voters": 2737,
+  "CITY_SCHOOL_DISTRICT": {
+   "WAVERLY CITY SD": 2737
+  },
+  "CONGRESSIONAL_DISTRICT": {
+   "02": 2737
+  },
+  "STATE_REPRESENTATIVE_DISTRICT": {
+   "91": 2737
+  },
+  "STATE_SENATE_DISTRICT": {
+   "17": 2737
+  },
+  "COURT_OF_APPEALS": {
+   "04": 2737
+  }
+ }
+}

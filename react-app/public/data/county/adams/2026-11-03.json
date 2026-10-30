@@ -1,0 +1,550 @@
+{
+  "scope": "county",
+  "county": "Adams",
+  "fips": "39001",
+  "election": "2026-11-03",
+  "retrieved": "2026-10-30",
+  "notes": [
+    "Taken from the Board of Elections' 46-day election notice, which lists every contest and issue with the precincts that vote on it, checked against the Board's precinct sample ballots (which give the full ballot wording; where the two differ, the ballots are followed).",
+    "Candidates are listed alphabetically by last name, not in ballot order: Ohio rotates the order of names from precinct to precinct. Certified write-in candidates are not printed on the ballot and are not listed.",
+    "\"Where you live\" uses the state voter file: a district or school levy is shown for a city, village or township when any of its voters live in that district. Your exact ballot depends on your precinct.",
+    "The Board's notice and sample ballots do not give local issue numbers; see your sample ballot for the order.",
+    "Court of Appeals: Peter B. Abele (Republican) is still printed on the main ballot for the 4th District seat; the Board's notice marks him deceased (no longer valid), and a supplemental 4th District Court of Appeals ballot lists Jayme Hartley Fountain (Republican) and Todd L. Grace (Democratic). The supplemental ballot is shown here."
+  ],
+  "places": [
+    "Bratton Township",
+    "Brush Creek Township",
+    "Franklin Township",
+    "Green Township",
+    "Jefferson Township",
+    "Liberty Township",
+    "Manchester Township",
+    "Manchester Village",
+    "Meigs Township",
+    "Monroe Township",
+    "Oliver Township",
+    "Peebles Village",
+    "Scott Township",
+    "Seaman Village",
+    "Sprigg Township",
+    "Tiffin Township",
+    "Wayne Township",
+    "West Union Village",
+    "Winchester Township",
+    "Winchester Village"
+  ],
+  "sources": {
+    "adams-46day": {
+      "label": "Adams County Board of Elections: 46-day election notice (FWAB), November 3, 2026 General Election (revised October 6, 2026)",
+      "url": "https://www.boe.ohio.gov/adams/c/upload/FWAB_11November46Day.pdf"
+    },
+    "adams-ballots": {
+      "label": "Adams County Board of Elections: precinct sample ballots, November 3, 2026 General Election (election data updated October 12, 2026)",
+      "url": "https://lookup.boe.ohio.gov/vtrapp/adams/ballotlist.aspx"
+    }
+  },
+  "links": [
+    {
+      "label": "Board of Elections",
+      "url": "https://www.boe.ohio.gov/adams/"
+    },
+    {
+      "label": "Federal write-in absentee ballot notices",
+      "url": "https://www.boe.ohio.gov/adams/election-info/federal-write-in-absentee-ballots/"
+    },
+    {
+      "label": "Sample ballots by precinct",
+      "url": "https://lookup.boe.ohio.gov/vtrapp/adams/ballotlist.aspx"
+    }
+  ],
+  "results": {
+    "status": "upcoming",
+    "links": [
+      {
+        "label": "Board of Elections: election results",
+        "url": "https://www.boe.ohio.gov/adams/election-info/election-results/"
+      }
+    ]
+  },
+  "contests": [
+    {
+      "id": "congress-2",
+      "group": "U.S. House",
+      "office": "Representative to Congress",
+      "detail": "2nd District",
+      "candidates": [
+        {
+          "name": "Jen Mazzuckelli",
+          "party": "DEM"
+        },
+        {
+          "name": "David J. Taylor",
+          "party": "REP"
+        }
+      ],
+      "sources": [
+        "adams-46day",
+        "adams-ballots"
+      ]
+    },
+    {
+      "id": "rep-90",
+      "group": "Ohio General Assembly",
+      "office": "State Representative",
+      "detail": "90th District",
+      "candidates": [
+        {
+          "name": "Collin Docterman",
+          "party": "DEM"
+        },
+        {
+          "name": "Justin Pizzulli",
+          "party": "REP"
+        }
+      ],
+      "sources": [
+        "adams-46day",
+        "adams-ballots"
+      ]
+    },
+    {
+      "id": "appeals-4-0209",
+      "group": "Ohio Court of Appeals",
+      "office": "Judge of the Court of Appeals",
+      "detail": "4th District · full term commencing February 9, 2027",
+      "candidates": [
+        {
+          "name": "Jayme Hartley Fountain",
+          "party": "REP"
+        },
+        {
+          "name": "Todd L. Grace",
+          "party": "DEM"
+        }
+      ],
+      "sources": [
+        "adams-ballots",
+        "adams-46day"
+      ]
+    },
+    {
+      "id": "commissioner",
+      "group": "County offices",
+      "office": "County Commissioner",
+      "detail": "Full term commencing January 1, 2027",
+      "candidates": [
+        {
+          "name": "Kelly Jones",
+          "party": "REP"
+        },
+        {
+          "name": "Helen L. Newman",
+          "party": "Nonparty"
+        },
+        {
+          "name": "Troy D. Thatcher",
+          "party": "Nonparty"
+        },
+        {
+          "name": "Travis Wilson",
+          "party": "Nonparty"
+        }
+      ],
+      "sources": [
+        "adams-46day",
+        "adams-ballots"
+      ]
+    },
+    {
+      "id": "auditor",
+      "group": "County offices",
+      "office": "County Auditor",
+      "detail": "Full term commencing March 8, 2027",
+      "candidates": [
+        {
+          "name": "David Gifford",
+          "party": "REP"
+        },
+        {
+          "name": "Clayton Osborne",
+          "party": "Nonparty"
+        }
+      ],
+      "sources": [
+        "adams-46day",
+        "adams-ballots"
+      ]
+    },
+    {
+      "id": "prosecutor",
+      "group": "County offices",
+      "office": "Prosecuting Attorney",
+      "detail": "Unexpired term ending December 31, 2028",
+      "candidates": [
+        {
+          "name": "Ariana D. Norris",
+          "party": "REP"
+        },
+        {
+          "name": "David Osborne, Jr.",
+          "party": "Nonparty"
+        }
+      ],
+      "sources": [
+        "adams-46day",
+        "adams-ballots"
+      ]
+    },
+    {
+      "id": "cp-general",
+      "group": "Court of Common Pleas",
+      "office": "Judge of the Court of Common Pleas",
+      "detail": "Full term commencing February 9, 2027 · no party label on the ballot",
+      "candidates": [
+        {
+          "name": "Barbara Moore Holt"
+        },
+        {
+          "name": "Lisa Ann Rothwell"
+        }
+      ],
+      "sources": [
+        "adams-ballots",
+        "adams-46day"
+      ]
+    }
+  ],
+  "issues": [
+    {
+      "id": "adams-ems",
+      "kind": "levy",
+      "jurisdiction": "Adams County",
+      "title": "Tax levy (additional): Continued operation of Adams County Emergency Medical Services",
+      "area": "Adams County",
+      "levy": {
+        "type": "Additional",
+        "purpose": "Continued operation of Adams County Emergency Medical Services.",
+        "mills": "3.5 mills",
+        "term": "5 years, commencing in 2026",
+        "firstDue": "2027",
+        "estimate": "$2,874,966 a year; $123 for each $100,000 of market value"
+      },
+      "sources": [
+        "adams-46day",
+        "adams-ballots"
+      ]
+    },
+    {
+      "id": "adams-children-services",
+      "kind": "levy",
+      "jurisdiction": "Adams County",
+      "title": "Tax levy (additional): Continued operation of Adams County Children Services and the care and placement of children including Wilson Children's Home",
+      "area": "Adams County",
+      "levy": {
+        "type": "Additional",
+        "purpose": "Continued operation of Adams County Children Services and the care and placement of children including Wilson Children's Home.",
+        "mills": "1.5 mills",
+        "term": "5 years, commencing in 2026",
+        "firstDue": "2027",
+        "estimate": "$1,232,128 a year; $53 for each $100,000 of market value"
+      },
+      "sources": [
+        "adams-46day",
+        "adams-ballots"
+      ]
+    },
+    {
+      "id": "peebles-police",
+      "kind": "levy",
+      "jurisdiction": "Village of Peebles",
+      "title": "Tax levy (renewal): Police operating expenses",
+      "area": "Peebles Village (precinct 03)",
+      "places": [
+        "Peebles Village"
+      ],
+      "levy": {
+        "type": "Renewal",
+        "purpose": "Police operating expenses.",
+        "mills": "2.8 mills",
+        "term": "5 years, commencing in 2027",
+        "firstDue": "2028",
+        "estimate": "$52,603 a year; $49 for each $100,000 of market value"
+      },
+      "sources": [
+        "adams-46day",
+        "adams-ballots"
+      ]
+    },
+    {
+      "id": "seaman-streets",
+      "kind": "levy",
+      "jurisdiction": "Village of Seaman",
+      "title": "Tax levy (renewal): Street improvements",
+      "area": "Seaman Village (precinct 10)",
+      "places": [
+        "Seaman Village"
+      ],
+      "levy": {
+        "type": "Renewal",
+        "purpose": "Street improvements.",
+        "mills": "2 mills",
+        "term": "5 years, commencing in 2026",
+        "firstDue": "2027",
+        "estimate": "$44,384 a year; $39 for each $100,000 of market value"
+      },
+      "sources": [
+        "adams-46day",
+        "adams-ballots"
+      ]
+    },
+    {
+      "id": "winchester-police",
+      "kind": "levy",
+      "jurisdiction": "Village of Winchester",
+      "title": "Tax levy (additional): Police protection",
+      "area": "Winchester Village (precinct 13)",
+      "places": [
+        "Winchester Village"
+      ],
+      "levy": {
+        "type": "Additional",
+        "purpose": "Police protection.",
+        "mills": "3.5 mills",
+        "term": "5 years, commencing in 2026",
+        "firstDue": "2027",
+        "estimate": "$74,835 a year; $123 for each $100,000 of market value"
+      },
+      "sources": [
+        "adams-46day",
+        "adams-ballots"
+      ]
+    },
+    {
+      "id": "bratton-twp-current",
+      "kind": "levy",
+      "jurisdiction": "Township of Bratton",
+      "title": "Tax levy (additional): Current expenses",
+      "area": "Bratton Township (precincts 01/1 and 01/2)",
+      "places": [
+        "Bratton Township"
+      ],
+      "levy": {
+        "type": "Additional",
+        "purpose": "Current expenses.",
+        "mills": "1 mill",
+        "term": "5 years, commencing in 2026",
+        "firstDue": "2027",
+        "estimate": "$37,489 a year; $35 for each $100,000 of market value"
+      },
+      "sources": [
+        "adams-46day",
+        "adams-ballots"
+      ]
+    },
+    {
+      "id": "liberty-twp-cemeteries",
+      "kind": "levy",
+      "jurisdiction": "Township of Liberty",
+      "title": "Tax levy (renewal): Maintaining and operating cemeteries",
+      "area": "Liberty Township (precincts 17/1 and 17/2)",
+      "places": [
+        "Liberty Township"
+      ],
+      "levy": {
+        "type": "Renewal",
+        "purpose": "Maintaining and operating cemeteries.",
+        "mills": "0.9 mill",
+        "term": "5 years, commencing in 2027",
+        "firstDue": "2028",
+        "estimate": "$29,375 a year; $17 for each $100,000 of market value"
+      },
+      "sources": [
+        "adams-46day",
+        "adams-ballots"
+      ]
+    },
+    {
+      "id": "monroe-twp-zoning",
+      "kind": "question",
+      "jurisdiction": "Township of Monroe",
+      "title": "Proposed zoning plan for the unincorporated area of Monroe Township",
+      "area": "Monroe Township unincorporated area (precincts 08/1 and 08/2)",
+      "places": [
+        "Monroe Township"
+      ],
+      "text": "Shall the zoning plan for the unincorporated area of the Township of Monroe as adopted by the Township of Monroe be approved? (A resolution enacted under Section 519 of the Ohio Revised Code, titled \"Monroe Township Zoning Resolution\", governing the unincorporated area of Monroe Township, Adams County, Ohio, to preserve the rural and agricultural character of the Township, protect public health, safety, and general welfare, allow reasonable use of property with minimal unnecessary regulation, provide a predictable process for review of higher-impact development, ensure that uses with potentially significant impacts are evaluated and reasonably mitigated, and to promote orderly and compatible land use consistent with Township infrastructure and services; for the purpose of protecting agricultural, residential, and small-scale uses; preventing unreasonable burdens on roads, infrastructure, and public services; providing uniform and objective standards for land use review; and to carry out zoning authority in a manner consistent with Ohio law.)",
+      "note": "Voting FOR approves the township's zoning resolution; voting AGAINST rejects it.",
+      "sources": [
+        "adams-46day",
+        "adams-ballots"
+      ]
+    },
+    {
+      "id": "oliver-twp-roads",
+      "kind": "levy",
+      "jurisdiction": "Township of Oliver",
+      "title": "Tax levy (additional): Road repairs and maintenance",
+      "area": "Oliver Township (precinct 05)",
+      "places": [
+        "Oliver Township"
+      ],
+      "levy": {
+        "type": "Additional",
+        "purpose": "Road repairs and maintenance.",
+        "mills": "2 mills",
+        "term": "5 years, commencing in 2026",
+        "firstDue": "2027",
+        "estimate": "$84,115 a year; $70 for each $100,000 of market value"
+      },
+      "sources": [
+        "adams-46day",
+        "adams-ballots"
+      ]
+    },
+    {
+      "id": "scott-twp-ems",
+      "kind": "levy",
+      "jurisdiction": "Township of Scott",
+      "title": "Tax levy (additional): Providing and maintaining emergency medical services, including ambulance service, emergency service, or both, and to maintain EMS apparatus, appliances, buildings, sites for apparatus, EMS vehicles, and related equipment, whether by contract or otherwise",
+      "area": "Scott Township, including Seaman Village (precincts 10, 11/1 and 11/2)",
+      "places": [
+        "Scott Township",
+        "Seaman Village"
+      ],
+      "levy": {
+        "type": "Additional",
+        "purpose": "Providing and maintaining emergency medical services, including ambulance service, emergency service, or both, and to maintain EMS apparatus, appliances, buildings, sites for apparatus, EMS vehicles, and related equipment, whether by contract or otherwise.",
+        "mills": "3.5 mills",
+        "term": "5 years, commencing in 2026",
+        "firstDue": "2027",
+        "estimate": "$259,477 a year; $123 for each $100,000 of market value"
+      },
+      "sources": [
+        "adams-ballots",
+        "adams-46day"
+      ]
+    },
+    {
+      "id": "scott-twp-fire",
+      "kind": "levy",
+      "jurisdiction": "Township of Scott",
+      "title": "Tax levy (renewal): Providing and maintaining fire apparatus and appliances of the volunteer fire department",
+      "area": "Scott Township, including Seaman Village (precincts 10, 11/1 and 11/2)",
+      "places": [
+        "Scott Township",
+        "Seaman Village"
+      ],
+      "levy": {
+        "type": "Renewal",
+        "purpose": "Providing and maintaining fire apparatus and appliances of the volunteer fire department.",
+        "mills": "1.5 mills",
+        "term": "5 years, commencing in 2026",
+        "firstDue": "2027",
+        "estimate": "$54,225 a year; $13 for each $100,000 of market value"
+      },
+      "sources": [
+        "adams-46day",
+        "adams-ballots"
+      ]
+    },
+    {
+      "id": "sprigg-twp-zoning",
+      "kind": "question",
+      "jurisdiction": "Township of Sprigg",
+      "title": "Proposed zoning plan for the unincorporated area of Sprigg Township",
+      "area": "Sprigg Township unincorporated area (precinct 09)",
+      "places": [
+        "Sprigg Township"
+      ],
+      "text": "Shall the zoning plan for the unincorporated area of the Township of Sprigg as adopted by the Township of Sprigg be approved? (A resolution enacted under Section 519 of the Ohio Revised Code, titled \"Sprigg Township Zoning Resolution\", governing the unincorporated area of Sprigg Township, Adams County, Ohio, to preserve the rural and agricultural character of the Township, protect public health, safety, and general welfare, allow reasonable use of property with minimal unnecessary regulation, provide a predictable process for review of higher-impact development, ensure that uses with potentially significant impacts are evaluated and reasonably mitigated, and to promote orderly and compatible land use consistent with Township infrastructure and services; for the purpose of protecting agricultural, residential, and small-scale uses; preventing unreasonable burdens on roads, infrastructure, and public services; providing uniform and objective standards for land use review; and to carry out zoning authority in a manner consistent with Ohio law.)",
+      "note": "Voting FOR approves the township's zoning resolution; voting AGAINST rejects it.",
+      "sources": [
+        "adams-46day",
+        "adams-ballots"
+      ]
+    },
+    {
+      "id": "wayne-twp-fire",
+      "kind": "levy",
+      "jurisdiction": "Township of Wayne",
+      "title": "Tax levy (renewal): Maintaining and operating fire apparatus, appliances, buildings, or sites therefore",
+      "area": "Wayne Township (precinct 12)",
+      "places": [
+        "Wayne Township"
+      ],
+      "levy": {
+        "type": "Renewal",
+        "purpose": "Maintaining and operating fire apparatus, appliances, buildings, or sites therefore.",
+        "mills": "0.8 mill",
+        "term": "5 years, commencing in 2027",
+        "firstDue": "2028",
+        "estimate": "$15,618 a year; $12 for each $100,000 of market value"
+      },
+      "sources": [
+        "adams-46day",
+        "adams-ballots"
+      ]
+    },
+    {
+      "id": "winchester-twp-cemeteries",
+      "kind": "levy",
+      "jurisdiction": "Township of Winchester",
+      "title": "Tax levy (renewal): Care, supervision, repair and improvement of township cemeteries",
+      "area": "Winchester Township, including Winchester Village (precincts 13 and 14)",
+      "places": [
+        "Winchester Township",
+        "Winchester Village"
+      ],
+      "levy": {
+        "type": "Renewal",
+        "purpose": "Care, supervision, repair and improvement of township cemeteries.",
+        "mills": "0.4 mill",
+        "term": "5 years, commencing in 2027",
+        "firstDue": "2028",
+        "estimate": "$12,356 a year; $6 for each $100,000 of market value"
+      },
+      "sources": [
+        "adams-46day",
+        "adams-ballots"
+      ]
+    },
+    {
+      "id": "winchester-union-cemetery",
+      "kind": "levy",
+      "jurisdiction": "Township of Winchester",
+      "title": "Tax levy (renewal): Maintaining and operating the Winchester Union Cemetery",
+      "area": "Winchester Township, including Winchester Village (precincts 13 and 14)",
+      "places": [
+        "Winchester Township",
+        "Winchester Village"
+      ],
+      "levy": {
+        "type": "Renewal",
+        "purpose": "Maintaining and operating the Winchester Union Cemetery.",
+        "mills": "1 mill",
+        "term": "5 years, commencing in 2027",
+        "firstDue": "2028",
+        "estimate": "$29,887 a year; $14 for each $100,000 of market value"
+      },
+      "sources": [
+        "adams-ballots",
+        "adams-46day"
+      ]
+    },
+    {
+      "id": "peebles-liquor-local-jacks",
+      "kind": "liquor",
+      "jurisdiction": "Peebles Village",
+      "title": "Local liquor option: Local Jacks (Sunday)",
+      "area": "Precinct Peebles Village (03)",
+      "places": [
+        "Peebles Village"
+      ],
+      "text": "Shall the sale of beer, wine, mixed beverages and spirituous liquor be permitted for sale on Sunday by Local Jacks LLC dba Local Jacks an applicant for a D-6 liquor permit and holder of a D-1, D-2, D-3 liquor permits who is engaged in the business of operating a restaurant at 122 S. Main St, Peebles, OH 45660 in this precinct?",
+      "sources": [
+        "adams-ballots",
+        "adams-46day"
+      ]
+    }
+  ]
+}

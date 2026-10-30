@@ -1,0 +1,275 @@
+{
+  "scope": "county",
+  "county": "Gallia",
+  "fips": "39053",
+  "election": "2026-11-03",
+  "retrieved": "2026-10-30",
+  "notes": [
+    "Taken from the Board of Elections' 46-day election notice, which lists every contest and issue with the precincts that vote on it, checked against the Board's precinct sample ballots. Terms of office and issue wording are from the sample ballots.",
+    "Candidates are listed alphabetically by last name, not in ballot order: Ohio rotates the order of names from precinct to precinct. Certified write-in candidates are not printed on the ballot and are not listed.",
+    "\"Where you live\" uses the state voter file: a district or school levy is shown for a city, village or township when any of its voters live in that district. Your exact ballot depends on your precinct.",
+    "The Board's notice and sample ballots do not give local issue numbers.",
+    "Court of Appeals: the 46-day notice (revised September 18, 2026) lists Peter B. Abele for the 4th District seat; he withdrew due to death, and the Board's sample ballots list Jayme Hartley Fountain (Republican) and Todd L. Grace (Democratic), as shown here."
+  ],
+  "places": [
+    "Addison Township",
+    "Centerville Village",
+    "Cheshire Township",
+    "Cheshire Village",
+    "Clay Township",
+    "Crown City Village",
+    "Gallipolis City",
+    "Gallipolis Township",
+    "Green Township",
+    "Greenfield Township",
+    "Guyan Township",
+    "Harrison Township",
+    "Huntington Township",
+    "Morgan Township",
+    "Ohio Township",
+    "Perry Township",
+    "Raccoon Township",
+    "Rio Grande Village",
+    "Springfield Township",
+    "Vinton Village",
+    "Walnut Township"
+  ],
+  "sources": {
+    "gallia-46day": {
+      "label": "Gallia County Board of Elections: 46-day election notice (FWAB), November 3, 2026 General Election (revised September 18, 2026)",
+      "url": "https://www.boe.ohio.gov/gallia/c/upload/FWAB_11November46Day.pdf"
+    },
+    "gallia-ballots": {
+      "label": "Gallia County Board of Elections: precinct sample ballots, November 3, 2026 General Election (election data updated October 5, 2026)",
+      "url": "https://lookup.boe.ohio.gov/vtrapp/gallia/ballotlist.aspx"
+    }
+  },
+  "links": [
+    {
+      "label": "Board of Elections",
+      "url": "https://www.boe.ohio.gov/gallia/"
+    },
+    {
+      "label": "Federal write-in absentee ballot notices",
+      "url": "https://www.boe.ohio.gov/gallia/election-info/federal-write-in-absentee-ballots/"
+    },
+    {
+      "label": "Sample ballots by precinct",
+      "url": "https://lookup.boe.ohio.gov/vtrapp/gallia/ballotlist.aspx"
+    }
+  ],
+  "results": {
+    "status": "upcoming",
+    "links": [
+      {
+        "label": "Board of Elections: election results",
+        "url": "https://www.boe.ohio.gov/gallia/election-info/election-results/"
+      }
+    ]
+  },
+  "contests": [
+    {
+      "id": "congress-2",
+      "group": "U.S. House",
+      "office": "Representative to Congress",
+      "detail": "2nd District",
+      "candidates": [
+        {
+          "name": "Jen Mazzuckelli",
+          "party": "DEM"
+        },
+        {
+          "name": "David J. Taylor",
+          "party": "REP"
+        }
+      ],
+      "sources": [
+        "gallia-46day",
+        "gallia-ballots"
+      ]
+    },
+    {
+      "id": "senate-17",
+      "group": "Ohio General Assembly",
+      "office": "State Senator",
+      "detail": "17th District",
+      "candidates": [
+        {
+          "name": "Brian A. Deer",
+          "party": "DEM"
+        },
+        {
+          "name": "Shane Wilkin",
+          "party": "REP"
+        }
+      ],
+      "sources": [
+        "gallia-46day",
+        "gallia-ballots"
+      ]
+    },
+    {
+      "id": "rep-93",
+      "group": "Ohio General Assembly",
+      "office": "State Representative",
+      "detail": "93rd District",
+      "candidates": [
+        {
+          "name": "Jessica Harper",
+          "party": "DEM"
+        },
+        {
+          "name": "Jason Stephens",
+          "party": "REP"
+        }
+      ],
+      "sources": [
+        "gallia-46day",
+        "gallia-ballots"
+      ]
+    },
+    {
+      "id": "appeals-4-0209",
+      "group": "Ohio Court of Appeals",
+      "office": "Judge of the Court of Appeals",
+      "detail": "4th District · full term commencing February 9, 2027",
+      "candidates": [
+        {
+          "name": "Jayme Hartley Fountain",
+          "party": "REP"
+        },
+        {
+          "name": "Todd L. Grace",
+          "party": "DEM"
+        }
+      ],
+      "sources": [
+        "gallia-ballots",
+        "gallia-46day"
+      ]
+    },
+    {
+      "id": "commissioner",
+      "group": "County offices",
+      "office": "County Commissioner",
+      "detail": "Full term commencing January 1, 2027",
+      "candidates": [
+        {
+          "name": "Tony Hughes",
+          "party": "REP"
+        }
+      ],
+      "sources": [
+        "gallia-46day",
+        "gallia-ballots"
+      ]
+    },
+    {
+      "id": "auditor",
+      "group": "County offices",
+      "office": "County Auditor",
+      "detail": "Full term commencing March 8, 2027",
+      "candidates": [
+        {
+          "name": "Robbie Jacks",
+          "party": "REP"
+        }
+      ],
+      "sources": [
+        "gallia-46day",
+        "gallia-ballots"
+      ]
+    },
+    {
+      "id": "cp-probate-juvenile",
+      "group": "Court of Common Pleas",
+      "office": "Judge of the Court of Common Pleas, Juvenile and Probate Division",
+      "detail": "Full term commencing February 9, 2027 · the ballot prints a Republican party label for this race",
+      "candidates": [
+        {
+          "name": "Jason D. Holdren"
+        }
+      ],
+      "sources": [
+        "gallia-ballots",
+        "gallia-46day"
+      ]
+    }
+  ],
+  "issues": [
+    {
+      "id": "liquor-7-eleven-springfield",
+      "kind": "liquor",
+      "jurisdiction": "Springfield Township",
+      "title": "Local liquor option: 7-Eleven (beer, wine and mixed beverages)",
+      "area": "Springfield Township precinct Springfield Twp 2",
+      "places": [
+        "Springfield Township"
+      ],
+      "text": "Sale of beer, wine and mixed beverages by 7 Eleven, Inc., dba 7-Eleven Store 47556H, operating a carryout/grocery store at 2323 State Route 850, Bidwell (Springfield Township 2), an applicant for C-1, C-2 liquor permits.",
+      "sources": [
+        "gallia-ballots",
+        "gallia-46day"
+      ]
+    },
+    {
+      "id": "liquor-7-eleven-springfield-sunday",
+      "kind": "liquor",
+      "jurisdiction": "Springfield Township",
+      "title": "Local liquor option: 7-Eleven (Sunday wine and mixed beverages)",
+      "area": "Springfield Township precinct Springfield Twp 2",
+      "places": [
+        "Springfield Township"
+      ],
+      "text": "Sunday sale of wine and mixed beverages by 7 Eleven, Inc., dba 7-Eleven Store 47556H, operating a carryout/grocery store at 2323 State Route 850, Bidwell (Springfield Township 2), an applicant for a D-6 liquor permit.",
+      "sources": [
+        "gallia-ballots",
+        "gallia-46day"
+      ]
+    },
+    {
+      "id": "clay-twp-fire",
+      "kind": "levy",
+      "jurisdiction": "Clay Township",
+      "title": "Tax levy (renewal): Fire apparatus, equipment, buildings, water supply, fire alarm lines, firefighting and emergency medical personnel, and ambulance, paramedic or other emergency medical services",
+      "area": "Clay Township precinct",
+      "places": [
+        "Clay Township"
+      ],
+      "levy": {
+        "type": "Renewal",
+        "purpose": "Fire apparatus, equipment, buildings, water supply, fire alarm lines, firefighting and emergency medical personnel, and ambulance, paramedic or other emergency medical services.",
+        "mills": "1.3 mills",
+        "term": "5 years, commencing in 2027",
+        "firstDue": "2028",
+        "estimate": "$30,652 a year; $31 for each $100,000 of market value"
+      },
+      "sources": [
+        "gallia-ballots",
+        "gallia-46day"
+      ]
+    },
+    {
+      "id": "perry-twp-fire",
+      "kind": "levy",
+      "jurisdiction": "Perry Township",
+      "title": "Tax levy (renewal): Fire apparatus, equipment, buildings, water supply, fire alarm lines, and firefighting and emergency medical personnel",
+      "area": "Perry Township precinct",
+      "places": [
+        "Perry Township"
+      ],
+      "levy": {
+        "type": "Renewal",
+        "purpose": "Fire apparatus, equipment, buildings, water supply, fire alarm lines, and firefighting and emergency medical personnel.",
+        "mills": "1 mill",
+        "term": "5 years, commencing in 2027",
+        "firstDue": "2028",
+        "estimate": "$20,005 a year; $24 for each $100,000 of market value"
+      },
+      "sources": [
+        "gallia-ballots",
+        "gallia-46day"
+      ]
+    }
+  ]
+}

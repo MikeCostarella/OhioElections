@@ -1,0 +1,340 @@
+{
+ "BLOOM TOWNSHIP": {
+  "voters": 608,
+  "LOCAL_SCHOOL_DISTRICT": {
+   "MORGAN LOCAL SD (MORGAN)": 608
+  },
+  "CONGRESSIONAL_DISTRICT": {
+   "02": 608
+  },
+  "STATE_REPRESENTATIVE_DISTRICT": {
+   "95": 608
+  },
+  "STATE_SENATE_DISTRICT": {
+   "30": 608
+  },
+  "COURT_OF_APPEALS": {
+   "05": 608
+  }
+ },
+ "BRISTOL TOWNSHIP": {
+  "voters": 135,
+  "LOCAL_SCHOOL_DISTRICT": {
+   "MORGAN LOCAL SD (MORGAN)": 135
+  },
+  "CONGRESSIONAL_DISTRICT": {
+   "02": 135
+  },
+  "STATE_REPRESENTATIVE_DISTRICT": {
+   "95": 135
+  },
+  "STATE_SENATE_DISTRICT": {
+   "30": 135
+  },
+  "COURT_OF_APPEALS": {
+   "05": 135
+  }
+ },
+ "CENTER TOWNSHIP": {
+  "voters": 442,
+  "LOCAL_SCHOOL_DISTRICT": {
+   "FORT FRYE LOCAL SD (WASH)": 442
+  },
+  "CONGRESSIONAL_DISTRICT": {
+   "02": 442
+  },
+  "STATE_REPRESENTATIVE_DISTRICT": {
+   "95": 442
+  },
+  "STATE_SENATE_DISTRICT": {
+   "30": 442
+  },
+  "COURT_OF_APPEALS": {
+   "05": 442
+  }
+ },
+ "CHESTERHILL VILLAGE": {
+  "voters": 148,
+  "LOCAL_SCHOOL_DISTRICT": {
+   "MORGAN LOCAL SD (MORGAN)": 148
+  },
+  "CONGRESSIONAL_DISTRICT": {
+   "02": 148
+  },
+  "STATE_REPRESENTATIVE_DISTRICT": {
+   "95": 148
+  },
+  "STATE_SENATE_DISTRICT": {
+   "30": 148
+  },
+  "COURT_OF_APPEALS": {
+   "05": 148
+  },
+  "TWP_OF_VILLAGE": {
+   "MARION TOWNSHIP": 148
+  }
+ },
+ "DEERFIELD TOWNSHIP": {
+  "voters": 550,
+  "LOCAL_SCHOOL_DISTRICT": {
+   "MORGAN LOCAL SD (MORGAN)": 550
+  },
+  "CONGRESSIONAL_DISTRICT": {
+   "02": 550
+  },
+  "STATE_REPRESENTATIVE_DISTRICT": {
+   "95": 550
+  },
+  "STATE_SENATE_DISTRICT": {
+   "30": 550
+  },
+  "COURT_OF_APPEALS": {
+   "05": 550
+  }
+ },
+ "HOMER TOWNSHIP": {
+  "voters": 649,
+  "LOCAL_SCHOOL_DISTRICT": {
+   "MORGAN LOCAL SD (MORGAN)": 572,
+   "TRIMBLE LOCAL SD (ATHENS)": 59,
+   "FEDERAL HOCKING LOCAL SD (ATHENS)": 18
+  },
+  "CONGRESSIONAL_DISTRICT": {
+   "02": 649
+  },
+  "STATE_REPRESENTATIVE_DISTRICT": {
+   "95": 649
+  },
+  "STATE_SENATE_DISTRICT": {
+   "30": 649
+  },
+  "COURT_OF_APPEALS": {
+   "05": 649
+  }
+ },
+ "MALTA TOWNSHIP": {
+  "voters": 710,
+  "LOCAL_SCHOOL_DISTRICT": {
+   "MORGAN LOCAL SD (MORGAN)": 710
+  },
+  "CONGRESSIONAL_DISTRICT": {
+   "02": 710
+  },
+  "STATE_REPRESENTATIVE_DISTRICT": {
+   "95": 710
+  },
+  "STATE_SENATE_DISTRICT": {
+   "30": 710
+  },
+  "COURT_OF_APPEALS": {
+   "05": 710
+  }
+ },
+ "MALTA VILLAGE": {
+  "voters": 388,
+  "LOCAL_SCHOOL_DISTRICT": {
+   "MORGAN LOCAL SD (MORGAN)": 388
+  },
+  "CONGRESSIONAL_DISTRICT": {
+   "02": 388
+  },
+  "STATE_REPRESENTATIVE_DISTRICT": {
+   "95": 388
+  },
+  "STATE_SENATE_DISTRICT": {
+   "30": 388
+  },
+  "COURT_OF_APPEALS": {
+   "05": 388
+  },
+  "TWP_OF_VILLAGE": {
+   "MALTA TOWNSHIP": 388
+  }
+ },
+ "MANCHESTER TOWNSHIP": {
+  "voters": 88,
+  "LOCAL_SCHOOL_DISTRICT": {
+   "MORGAN LOCAL SD (MORGAN)": 88
+  },
+  "CONGRESSIONAL_DISTRICT": {
+   "02": 88
+  },
+  "STATE_REPRESENTATIVE_DISTRICT": {
+   "95": 88
+  },
+  "STATE_SENATE_DISTRICT": {
+   "30": 88
+  },
+  "COURT_OF_APPEALS": {
+   "05": 88
+  }
+ },
+ "MARION TOWNSHIP": {
+  "voters": 509,
+  "LOCAL_SCHOOL_DISTRICT": {
+   "MORGAN LOCAL SD (MORGAN)": 509
+  },
+  "CONGRESSIONAL_DISTRICT": {
+   "02": 509
+  },
+  "STATE_REPRESENTATIVE_DISTRICT": {
+   "95": 509
+  },
+  "STATE_SENATE_DISTRICT": {
+   "30": 509
+  },
+  "COURT_OF_APPEALS": {
+   "05": 509
+  }
+ },
+ "MCCONNELSVILLE VILLAGE": {
+  "voters": 965,
+  "LOCAL_SCHOOL_DISTRICT": {
+   "MORGAN LOCAL SD (MORGAN)": 965
+  },
+  "CONGRESSIONAL_DISTRICT": {
+   "02": 965
+  },
+  "STATE_REPRESENTATIVE_DISTRICT": {
+   "95": 965
+  },
+  "STATE_SENATE_DISTRICT": {
+   "30": 965
+  },
+  "COURT_OF_APPEALS": {
+   "05": 965
+  },
+  "TWP_OF_VILLAGE": {
+   "MORGAN TOWNSHIP": 965
+  }
+ },
+ "MEIGSVILLE TOWNSHIP": {
+  "voters": 649,
+  "LOCAL_SCHOOL_DISTRICT": {
+   "MORGAN LOCAL SD (MORGAN)": 649
+  },
+  "CONGRESSIONAL_DISTRICT": {
+   "02": 649
+  },
+  "STATE_REPRESENTATIVE_DISTRICT": {
+   "95": 649
+  },
+  "STATE_SENATE_DISTRICT": {
+   "30": 649
+  },
+  "COURT_OF_APPEALS": {
+   "05": 649
+  }
+ },
+ "MORGAN TOWNSHIP": {
+  "voters": 431,
+  "LOCAL_SCHOOL_DISTRICT": {
+   "MORGAN LOCAL SD (MORGAN)": 431
+  },
+  "CONGRESSIONAL_DISTRICT": {
+   "02": 431
+  },
+  "STATE_REPRESENTATIVE_DISTRICT": {
+   "95": 431
+  },
+  "STATE_SENATE_DISTRICT": {
+   "30": 431
+  },
+  "COURT_OF_APPEALS": {
+   "05": 431
+  }
+ },
+ "PENN TOWNSHIP": {
+  "voters": 442,
+  "LOCAL_SCHOOL_DISTRICT": {
+   "MORGAN LOCAL SD (MORGAN)": 442
+  },
+  "CONGRESSIONAL_DISTRICT": {
+   "02": 442
+  },
+  "STATE_REPRESENTATIVE_DISTRICT": {
+   "95": 442
+  },
+  "STATE_SENATE_DISTRICT": {
+   "30": 442
+  },
+  "COURT_OF_APPEALS": {
+   "05": 442
+  }
+ },
+ "STOCKPORT VILLAGE": {
+  "voters": 294,
+  "LOCAL_SCHOOL_DISTRICT": {
+   "MORGAN LOCAL SD (MORGAN)": 294
+  },
+  "CONGRESSIONAL_DISTRICT": {
+   "02": 294
+  },
+  "STATE_REPRESENTATIVE_DISTRICT": {
+   "95": 294
+  },
+  "STATE_SENATE_DISTRICT": {
+   "30": 294
+  },
+  "COURT_OF_APPEALS": {
+   "05": 294
+  },
+  "TWP_OF_VILLAGE": {
+   "WINDSOR TOWNSHIP": 294
+  }
+ },
+ "UNION TOWNSHIP": {
+  "voters": 362,
+  "LOCAL_SCHOOL_DISTRICT": {
+   "MORGAN LOCAL SD (MORGAN)": 362
+  },
+  "CONGRESSIONAL_DISTRICT": {
+   "02": 362
+  },
+  "STATE_REPRESENTATIVE_DISTRICT": {
+   "95": 362
+  },
+  "STATE_SENATE_DISTRICT": {
+   "30": 362
+  },
+  "COURT_OF_APPEALS": {
+   "05": 362
+  }
+ },
+ "WINDSOR TOWNSHIP": {
+  "voters": 903,
+  "LOCAL_SCHOOL_DISTRICT": {
+   "MORGAN LOCAL SD (MORGAN)": 903
+  },
+  "CONGRESSIONAL_DISTRICT": {
+   "02": 903
+  },
+  "STATE_REPRESENTATIVE_DISTRICT": {
+   "95": 903
+  },
+  "STATE_SENATE_DISTRICT": {
+   "30": 903
+  },
+  "COURT_OF_APPEALS": {
+   "05": 903
+  }
+ },
+ "YORK TOWNSHIP": {
+  "voters": 485,
+  "LOCAL_SCHOOL_DISTRICT": {
+   "MORGAN LOCAL SD (MORGAN)": 485
+  },
+  "CONGRESSIONAL_DISTRICT": {
+   "02": 485
+  },
+  "STATE_REPRESENTATIVE_DISTRICT": {
+   "95": 485
+  },
+  "STATE_SENATE_DISTRICT": {
+   "30": 485
+  },
+  "COURT_OF_APPEALS": {
+   "05": 485
+  }
+ }
+}

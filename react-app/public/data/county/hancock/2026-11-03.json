@@ -328,9 +328,9 @@
     {
       "id": "mccomb-bond",
       "kind": "levy",
-      "jurisdiction": "McComb Local School District (Hancock and Wood)",
+      "jurisdiction": "McComb Local School District (Hancock, Putnam and Wood)",
       "title": "School district income tax (0.25%) and bond issue ($23,815,000)",
-      "area": "McComb Local School District (Hancock County part: Blanchard 39.02, Liberty NW 46.02, McComb 53.01, Pleasant 55.01, Portage 56.01)",
+      "area": "McComb Local School District (Hancock, Putnam and Wood)",
       "places": [
         "Blanchard Township",
         "Liberty Township",

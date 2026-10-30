@@ -1,0 +1,372 @@
+{
+  "scope": "county",
+  "county": "Monroe",
+  "fips": "39111",
+  "election": "2026-11-03",
+  "retrieved": "2026-10-30",
+  "notes": [
+    "Taken from the Board of Elections' 46-day election notice, which lists every contest and issue with the precincts that vote on it, checked against the Board's issues list and precinct sample ballots. Issue wording is the Board's.",
+    "Candidates are listed alphabetically by last name, not in ballot order: Ohio rotates the order of names from precinct to precinct. Certified write-in candidates are not printed on the ballot and are not listed.",
+    "\"Where you live\" uses the state voter file: a district or school levy is shown for a city, village or township when any of its voters live in that district. Your exact ballot depends on your precinct.",
+    "The Board's notice and sample ballots do not give local issue numbers."
+  ],
+  "places": [
+    "Adams Township",
+    "Antioch Village",
+    "Beallsville Village",
+    "Benton Township",
+    "Bethel Township",
+    "Center Township",
+    "Clarington Village",
+    "Franklin Township",
+    "Graysville Village",
+    "Green Township",
+    "Jackson Township",
+    "Jerusalem Village",
+    "Lee Township",
+    "Lewisville Village",
+    "Malaga Township",
+    "Miltonsburg Village",
+    "Ohio Township",
+    "Perry Township",
+    "Salem Township",
+    "Seneca Township",
+    "Stafford Village",
+    "Summit Township",
+    "Sunsbury Township",
+    "Switzerland Township",
+    "Washington Township",
+    "Wayne Township",
+    "Wilson Village",
+    "Woodsfield Village"
+  ],
+  "sources": {
+    "monroe-46day": {
+      "label": "Monroe County Board of Elections: 46-day election notice (FWAB), November 3, 2026 General Election (revised 10/15/2026)",
+      "url": "https://www.boe.ohio.gov/monroe/c/upload/FWAB_11November46Day.pdf"
+    },
+    "monroe-issues": {
+      "label": "Monroe County Board of Elections: November 3, 2026 General Election Issues & Levies (September 3, 2026; scanned)",
+      "url": "https://www.boe.ohio.gov/monroe/c/upload/Election_Issues.pdf"
+    },
+    "monroe-ballots": {
+      "label": "Monroe County Board of Elections: precinct sample ballots, November 3, 2026 General Election (election data updated 09/14/2026)",
+      "url": "https://lookup.boe.ohio.gov/vtrapp/monroe/ballotlist.aspx"
+    }
+  },
+  "links": [
+    {
+      "label": "Board of Elections",
+      "url": "https://www.boe.ohio.gov/monroe/"
+    },
+    {
+      "label": "Candidate & issue filings",
+      "url": "https://www.boe.ohio.gov/monroe/election-info/filings/"
+    },
+    {
+      "label": "Sample ballots by precinct",
+      "url": "https://lookup.boe.ohio.gov/vtrapp/monroe/ballotlist.aspx"
+    }
+  ],
+  "results": {
+    "status": "upcoming",
+    "links": [
+      {
+        "label": "Board of Elections: election results",
+        "url": "https://www.boe.ohio.gov/monroe/election-info/election-results/"
+      }
+    ]
+  },
+  "contests": [
+    {
+      "id": "congress-12",
+      "group": "U.S. House",
+      "office": "Representative to Congress",
+      "detail": "12th District · full 2-year term commencing January 3, 2027",
+      "candidates": [
+        {
+          "name": "Troy Balderson",
+          "party": "REP"
+        },
+        {
+          "name": "Jerrad Christian",
+          "party": "DEM"
+        }
+      ],
+      "sources": [
+        "monroe-46day",
+        "monroe-ballots"
+      ]
+    },
+    {
+      "id": "rep-96",
+      "group": "Ohio General Assembly",
+      "office": "State Representative",
+      "detail": "96th District · full 2-year term commencing January 1, 2027",
+      "candidates": [
+        {
+          "name": "Ron Ferguson",
+          "party": "REP"
+        },
+        {
+          "name": "Charrie L. Foglio",
+          "party": "DEM"
+        }
+      ],
+      "sources": [
+        "monroe-46day",
+        "monroe-ballots"
+      ]
+    },
+    {
+      "id": "appeals-7-0209",
+      "group": "Ohio Court of Appeals",
+      "office": "Judge of the Court of Appeals",
+      "detail": "7th District · full term commencing February 9, 2027",
+      "candidates": [
+        {
+          "name": "Molly K. Johnson",
+          "party": "REP"
+        }
+      ],
+      "sources": [
+        "monroe-46day",
+        "monroe-ballots"
+      ]
+    },
+    {
+      "id": "appeals-7-0210",
+      "group": "Ohio Court of Appeals",
+      "office": "Judge of the Court of Appeals",
+      "detail": "7th District · full term commencing February 10, 2027",
+      "candidates": [
+        {
+          "name": "Mark Anthony Hanni",
+          "party": "REP"
+        },
+        {
+          "name": "Katherine Rudzik",
+          "party": "DEM"
+        }
+      ],
+      "sources": [
+        "monroe-46day",
+        "monroe-ballots"
+      ]
+    },
+    {
+      "id": "commissioner",
+      "group": "County offices",
+      "office": "County Commissioner",
+      "detail": "Full 4-year term commencing January 1, 2027",
+      "candidates": [
+        {
+          "name": "Sarah Arend",
+          "party": "Nonparty"
+        },
+        {
+          "name": "Mitchell Mick Schumacher",
+          "party": "REP"
+        }
+      ],
+      "sources": [
+        "monroe-46day",
+        "monroe-ballots"
+      ]
+    },
+    {
+      "id": "auditor",
+      "group": "County offices",
+      "office": "County Auditor",
+      "detail": "Full 4-year term commencing March 8, 2027",
+      "candidates": [
+        {
+          "name": "Grant Reusser",
+          "party": "REP"
+        },
+        {
+          "name": "Denise M. Stoneking",
+          "party": "DEM"
+        }
+      ],
+      "sources": [
+        "monroe-46day",
+        "monroe-ballots"
+      ]
+    },
+    {
+      "id": "treasurer",
+      "group": "County offices",
+      "office": "County Treasurer",
+      "detail": "Unexpired term ending September 2, 2029",
+      "candidates": [
+        {
+          "name": "Elizabeth Beachy",
+          "party": "REP"
+        },
+        {
+          "name": "Mollie Landefeld",
+          "party": "DEM"
+        }
+      ],
+      "sources": [
+        "monroe-46day",
+        "monroe-ballots"
+      ]
+    },
+    {
+      "id": "cp-probate-juvenile",
+      "group": "Court of Common Pleas",
+      "office": "Judge of the Court of Common Pleas, Probate and Juvenile Division",
+      "detail": "Full 6-year term commencing February 9, 2027 · no party label on the ballot",
+      "candidates": [
+        {
+          "name": "Chelsea M. Bone"
+        },
+        {
+          "name": "James L. Peters"
+        }
+      ],
+      "sources": [
+        "monroe-46day",
+        "monroe-ballots"
+      ]
+    }
+  ],
+  "issues": [
+    {
+      "id": "liquor-woodsfield-vfw-5303",
+      "kind": "liquor",
+      "jurisdiction": "Village of Woodsfield",
+      "title": "Local liquor option: V.F.W. Post 5303 (Sunday sales)",
+      "area": "Woodsfield North precinct (04)",
+      "places": [
+        "Woodsfield Village"
+      ],
+      "text": "Shall the sale of wine and mixed beverages and spirituous liquor be permitted for sale on Sunday by V.F.W. Post 5303, an applicant for a D-6 liquor permit, who is engaged in the business of operating a fraternal organization at 112 N. Sycamore Street, Woodsfield, OH 43793 in this precinct? (by petition)",
+      "sources": [
+        "monroe-46day",
+        "monroe-issues",
+        "monroe-ballots"
+      ]
+    },
+    {
+      "id": "stafford-current",
+      "kind": "levy",
+      "jurisdiction": "Stafford Village",
+      "title": "Tax levy (renewal): Current expenses",
+      "area": "Stafford Village (precinct 07/02)",
+      "places": [
+        "Stafford Village"
+      ],
+      "levy": {
+        "type": "Renewal",
+        "purpose": "Current expenses.",
+        "mills": "5 mills",
+        "term": "5 years, commencing in 2026",
+        "firstDue": "2027",
+        "estimate": "$3,114.58 a year; $95.51 for each $100,000 of market value"
+      },
+      "sources": [
+        "monroe-46day",
+        "monroe-issues",
+        "monroe-ballots"
+      ]
+    },
+    {
+      "id": "bethel-twp-fire",
+      "kind": "levy",
+      "jurisdiction": "Bethel Township",
+      "title": "Tax levy (renewal): Fire protection",
+      "area": "Bethel Township (precinct 03)",
+      "places": [
+        "Bethel Township"
+      ],
+      "levy": {
+        "type": "Renewal",
+        "purpose": "Fire protection.",
+        "mills": "1.5 mills",
+        "term": "5 years, commencing in 2026",
+        "firstDue": "2027",
+        "estimate": "$7,783 a year; $16 for each $100,000 of market value"
+      },
+      "sources": [
+        "monroe-46day",
+        "monroe-issues",
+        "monroe-ballots"
+      ]
+    },
+    {
+      "id": "green-twp-roads",
+      "kind": "levy",
+      "jurisdiction": "Green Township",
+      "title": "Tax levy (renewal): Maintenance, general construction, reconstruction, resurfacing and repair of streets, roads, and bridges in municipal corporations, counties or townships",
+      "area": "Green Township (precinct 08)",
+      "places": [
+        "Green Township"
+      ],
+      "levy": {
+        "type": "Renewal",
+        "purpose": "Maintenance, general construction, reconstruction, resurfacing and repair of streets, roads, and bridges in municipal corporations, counties or townships.",
+        "mills": "1 mill",
+        "term": "5 years, commencing in 2026",
+        "firstDue": "2027",
+        "estimate": "$41,860 a year; $15 for each $100,000 of market value"
+      },
+      "sources": [
+        "monroe-46day",
+        "monroe-issues",
+        "monroe-ballots"
+      ]
+    },
+    {
+      "id": "lee-twp-cemetery",
+      "kind": "levy",
+      "jurisdiction": "Lee Township",
+      "title": "Tax levy (renewal): Maintaining and operating the township's cemeteries",
+      "area": "Lee Township (precinct 10)",
+      "places": [
+        "Lee Township"
+      ],
+      "levy": {
+        "type": "Renewal",
+        "purpose": "Maintaining and operating the township's cemeteries.",
+        "mills": "1 mill",
+        "term": "5 years, commencing in 2026",
+        "firstDue": "2027",
+        "estimate": "$61,713 a year; $25.00 for each $100,000 of market value"
+      },
+      "sources": [
+        "monroe-46day",
+        "monroe-issues",
+        "monroe-ballots"
+      ]
+    },
+    {
+      "id": "sunsbury-twp-current",
+      "kind": "levy",
+      "jurisdiction": "Sunsbury Township (including the Villages of Beallsville, Jerusalem and Wilson)",
+      "title": "Tax levy (additional): Current expenses, including the villages of Beallsville, Jerusalem, and Wilson",
+      "area": "Sunsbury precincts 17/01 (Sunsbury Township), 17/02 (Beallsville Village), 17/03 (Wilson Village), 17/04 (Jerusalem Village, Sunsbury part)",
+      "places": [
+        "Beallsville Village",
+        "Jerusalem Village",
+        "Sunsbury Township",
+        "Wilson Village"
+      ],
+      "levy": {
+        "type": "Additional",
+        "purpose": "Current expenses, including the villages of Beallsville, Jerusalem, and Wilson.",
+        "mills": "2 mills",
+        "term": "5 years, commencing in 2026",
+        "firstDue": "2027",
+        "estimate": "$303,353 a year; $70 for each $100,000 of market value"
+      },
+      "sources": [
+        "monroe-46day",
+        "monroe-issues",
+        "monroe-ballots"
+      ]
+    }
+  ]
+}

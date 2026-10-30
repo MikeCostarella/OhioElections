@@ -1,0 +1,672 @@
+{
+  "scope": "county",
+  "county": "Holmes",
+  "fips": "39075",
+  "election": "2026-11-03",
+  "retrieved": "2026-10-30",
+  "notes": [
+    "Taken from the Board of Elections' 46-day election notice, which lists every contest and issue with the precincts that vote on it, checked against the Board's notice of election and its precinct sample ballots. Issue details are summarised from the ballot wording.",
+    "Candidates are listed alphabetically by last name, not in ballot order: Ohio rotates the order of names from precinct to precinct. Certified write-in candidates are not printed on the ballot and are not listed.",
+    "\"Where you live\" uses the state voter file: a district or school levy is shown for a city, village or township when any of its voters live in that district. Your exact ballot depends on your precinct.",
+    "Holmes County's ballots do not number local issues (only statewide Issue 3 is numbered); see your sample ballot for the order of the issues."
+  ],
+  "places": [
+    "Baltic Village",
+    "Berlin Township",
+    "Clark Township",
+    "Glenmont Village",
+    "Hardy Township",
+    "Holmesville Village",
+    "Killbuck Township",
+    "Killbuck Village",
+    "Knox Township",
+    "Loudonville Village",
+    "Mechanic Township",
+    "Millersburg Village",
+    "Monroe Township",
+    "Nashville Village",
+    "Paint Township",
+    "Prairie Township",
+    "Richland Township",
+    "Ripley Township",
+    "Saltcreek Township",
+    "Walnut Creek Township",
+    "Washington Township"
+  ],
+  "sources": {
+    "holmes-46day": {
+      "label": "Holmes County Board of Elections: 46-day election notice (FWAB), November 3, 2026 General Election (revised 10/15/2026)",
+      "url": "https://www.boe.ohio.gov/holmes/c/upload/FWAB_11November46Day.pdf"
+    },
+    "holmes-notice": {
+      "label": "Holmes County Board of Elections: notice of election on issues and local option questions, November 3, 2026 General Election",
+      "url": "https://www.boe.ohio.gov/holmes/c/upload/Election_NoticeofElection.pdf"
+    },
+    "holmes-ballots": {
+      "label": "Holmes County Board of Elections: precinct sample ballots, November 3, 2026 General Election",
+      "url": "https://lookup.boe.ohio.gov/vtrapp/holmes/ballotlist.aspx"
+    }
+  },
+  "links": [
+    {
+      "label": "Board of Elections",
+      "url": "https://www.boe.ohio.gov/holmes/"
+    },
+    {
+      "label": "Election information",
+      "url": "https://www.boe.ohio.gov/holmes/election-info/"
+    },
+    {
+      "label": "Notice of election (issues)",
+      "url": "https://www.boe.ohio.gov/holmes/c/upload/Election_NoticeofElection.pdf"
+    },
+    {
+      "label": "Sample ballots by precinct",
+      "url": "https://lookup.boe.ohio.gov/vtrapp/holmes/ballotlist.aspx"
+    }
+  ],
+  "results": {
+    "status": "upcoming",
+    "links": [
+      {
+        "label": "Board of Elections: election results",
+        "url": "https://www.boe.ohio.gov/holmes/election-info/election-results/"
+      }
+    ]
+  },
+  "contests": [
+    {
+      "id": "congress-6",
+      "group": "U.S. House",
+      "office": "Representative to Congress",
+      "detail": "6th District",
+      "area": "Baltic Village, Clark Township, Paint Township, Saltcreek Township, Walnut Creek Township",
+      "places": [
+        "Baltic Village",
+        "Clark Township",
+        "Paint Township",
+        "Saltcreek Township",
+        "Walnut Creek Township"
+      ],
+      "candidates": [
+        {
+          "name": "Elizabeth Kirtley",
+          "party": "DEM"
+        },
+        {
+          "name": "Michael A. Rulli",
+          "party": "REP"
+        }
+      ],
+      "sources": [
+        "holmes-46day"
+      ]
+    },
+    {
+      "id": "congress-12",
+      "group": "U.S. House",
+      "office": "Representative to Congress",
+      "detail": "12th District",
+      "area": "Berlin Township, Glenmont Village, Hardy Township, Holmesville Village, Killbuck Township, Killbuck Village, Knox Township, Loudonville Village, Mechanic Township, Millersburg Village, Monroe Township, Nashville Village, Prairie Township, Richland Township, Ripley Township, Saltcreek Township, Washington Township",
+      "places": [
+        "Berlin Township",
+        "Glenmont Village",
+        "Hardy Township",
+        "Holmesville Village",
+        "Killbuck Township",
+        "Killbuck Village",
+        "Knox Township",
+        "Loudonville Village",
+        "Mechanic Township",
+        "Millersburg Village",
+        "Monroe Township",
+        "Nashville Village",
+        "Prairie Township",
+        "Richland Township",
+        "Ripley Township",
+        "Saltcreek Township",
+        "Washington Township"
+      ],
+      "candidates": [
+        {
+          "name": "Troy Balderson",
+          "party": "REP"
+        },
+        {
+          "name": "Jerrad Christian",
+          "party": "DEM"
+        }
+      ],
+      "sources": [
+        "holmes-46day"
+      ]
+    },
+    {
+      "id": "senate-19",
+      "group": "Ohio General Assembly",
+      "office": "State Senator",
+      "detail": "19th District",
+      "candidates": [
+        {
+          "name": "Scott Charland",
+          "party": "DEM"
+        },
+        {
+          "name": "Ryan Rivers",
+          "party": "REP"
+        }
+      ],
+      "sources": [
+        "holmes-46day"
+      ]
+    },
+    {
+      "id": "rep-98",
+      "group": "Ohio General Assembly",
+      "office": "State Representative",
+      "detail": "98th District",
+      "candidates": [
+        {
+          "name": "Scott Grund",
+          "party": "DEM"
+        },
+        {
+          "name": "Mark Hiner",
+          "party": "REP"
+        }
+      ],
+      "sources": [
+        "holmes-46day"
+      ]
+    },
+    {
+      "id": "appeals-5",
+      "group": "Ohio Court of Appeals",
+      "office": "Judge of the Court of Appeals",
+      "detail": "5th District · term commencing February 9, 2027",
+      "candidates": [
+        {
+          "name": "Matthew George",
+          "party": "REP"
+        }
+      ],
+      "sources": [
+        "holmes-46day"
+      ]
+    },
+    {
+      "id": "commissioner",
+      "group": "County offices",
+      "office": "County Commissioner",
+      "detail": "Full term commencing January 1, 2027",
+      "candidates": [
+        {
+          "name": "Dave Hall",
+          "party": "REP"
+        }
+      ],
+      "sources": [
+        "holmes-46day"
+      ]
+    },
+    {
+      "id": "auditor",
+      "group": "County offices",
+      "office": "County Auditor",
+      "detail": "Full term commencing March 8, 2027",
+      "candidates": [
+        {
+          "name": "Jackie McKee",
+          "party": "REP"
+        }
+      ],
+      "sources": [
+        "holmes-46day"
+      ]
+    },
+    {
+      "id": "sheriff",
+      "group": "County offices",
+      "office": "Sheriff",
+      "detail": "Unexpired term ending December 31, 2028",
+      "candidates": [
+        {
+          "name": "Richard L. Haun Jr.",
+          "party": "REP"
+        }
+      ],
+      "sources": [
+        "holmes-46day"
+      ]
+    },
+    {
+      "id": "cp-general-dr",
+      "group": "Court of Common Pleas",
+      "office": "Judge of the Court of Common Pleas, General and Domestic Relations Division",
+      "detail": "Full term commencing February 9, 2027 · no party label on the ballot",
+      "candidates": [
+        {
+          "name": "Sean Warner"
+        }
+      ],
+      "sources": [
+        "holmes-46day"
+      ]
+    },
+    {
+      "id": "cp-probate-juvenile",
+      "group": "Court of Common Pleas",
+      "office": "Judge of the Court of Common Pleas, Probate and Juvenile Division",
+      "detail": "Full term commencing February 9, 2027 · no party label on the ballot",
+      "candidates": [
+        {
+          "name": "Thomas C. Lee"
+        }
+      ],
+      "sources": [
+        "holmes-46day"
+      ]
+    }
+  ],
+  "issues": [
+    {
+      "id": "county-sales-tax",
+      "kind": "question",
+      "jurisdiction": "Holmes County",
+      "title": "Sales and use tax: renewal of 0.25% for county roads and bridges, 5 years",
+      "area": "All of Holmes County",
+      "text": "Shall the resolution of the Holmes County Commissioners proposing a continuation of an existing 0.25 per cent sales and use tax be approved? (For the acquisition, construction, equipping or repair of permanent improvements, to-wit, the construction, reconstruction, resurfacing and repair of all roads and bridges within the county other than state roads and bridges, for a period of 5 years.)",
+      "sources": [
+        "holmes-46day",
+        "holmes-notice",
+        "holmes-ballots"
+      ]
+    },
+    {
+      "id": "loudonville-perrysville-bond-income-tax",
+      "kind": "levy",
+      "jurisdiction": "Loudonville-Perrysville Exempted Village School District (Ashland, Knox and Richland counties)",
+      "title": "School district income tax (0.25%, 30 years) and bond issue ($16,400,000)",
+      "area": "Knox Township (split 00902), Washington Township (splits 01803, 01804)",
+      "places": [
+        "Knox Township",
+        "Loudonville Village",
+        "Washington Township"
+      ],
+      "levy": {
+        "type": "Income tax and bond issue",
+        "purpose": "Income tax for current expenses; bonds for constructing, renovating, repairing, expanding, furnishing and equipping school facilities and improving their sites.",
+        "mills": "2.85 mills (bond, estimated average)",
+        "term": "Income tax 30 years from January 1, 2027; bonds up to 37 years",
+        "estimate": "$16,400,000 principal; $100 for each $100,000 of market value (bond)"
+      },
+      "text": "Shall Loudonville-Perrysville Exempted Village School District be authorized to do both of the following: (1) Impose an annual income tax of 0.25% on the school district income of individuals, for a period of 30 years, beginning January 1, 2027, for the purpose of current expenses? (2) Issue bonds for the purpose of constructing school facilities, renovating, repairing, expanding, improving, and constructing additions to school facilities; furnishing and equipping; and improving the sites thereof the same in the principal amount of $16,400,000, to be repaid annually over a maximum period of 37 years, and levy a property tax outside the ten-mill limitation estimated by the county auditor to average over the bond repayment period 2.85 mills for each $1 of taxable value, which amounts to $100 for each $100,000 of the county auditor's market value, to pay the annual debt charges on the bonds, and to pay debt charges on any notes issued in anticipation of those bonds?",
+      "sources": [
+        "holmes-46day",
+        "holmes-notice",
+        "holmes-ballots"
+      ]
+    },
+    {
+      "id": "loudonville-library",
+      "kind": "levy",
+      "jurisdiction": "Loudonville Public Library (Ashland, Knox and Richland counties)",
+      "title": "Tax levy (renewal): Current expenses",
+      "area": "Knox Township (split 00902), Washington Township (splits 01803, 01804)",
+      "places": [
+        "Knox Township",
+        "Loudonville Village",
+        "Washington Township"
+      ],
+      "levy": {
+        "type": "Renewal",
+        "purpose": "Current expenses.",
+        "mills": "0.8 mill",
+        "term": "5 years, commencing in 2027",
+        "firstDue": "2028",
+        "estimate": "$178,719 a year; $19 per $100,000 of market value"
+      },
+      "sources": [
+        "holmes-46day",
+        "holmes-notice",
+        "holmes-ballots"
+      ]
+    },
+    {
+      "id": "triway-lsd-income",
+      "kind": "question",
+      "jurisdiction": "Triway Local School District (Wayne and Holmes)",
+      "title": "School district income tax: 0.75% additional, 3 years, for current expenses",
+      "area": "Prairie Township (split 00702)",
+      "places": [
+        "Prairie Township"
+      ],
+      "text": "Shall an annual income tax of 0.75% on the earned income of individuals residing in the school district be imposed by the Triway Local School District, for 3 years, beginning January 1, 2027, for the purpose of current expenses?",
+      "sources": [
+        "holmes-46day",
+        "holmes-notice",
+        "holmes-ballots"
+      ]
+    },
+    {
+      "id": "wayne-jvsd",
+      "kind": "levy",
+      "jurisdiction": "Wayne County Joint Vocational School District (Wayne, Ashland, Holmes, Medina and Stark)",
+      "title": "Tax levy (renewal): General permanent improvements",
+      "area": "Prairie Township (splits 00701, 00702, 00704), Saltcreek Township (splits 01602, 01604)",
+      "places": [
+        "Holmesville Village",
+        "Prairie Township",
+        "Saltcreek Township"
+      ],
+      "levy": {
+        "type": "Renewal",
+        "purpose": "General permanent improvements.",
+        "mills": "0.5 mill",
+        "term": "5 years, commencing in 2027",
+        "firstDue": "2028",
+        "estimate": "$1,480,860 a year; $11 for each $100,000 of market value"
+      },
+      "sources": [
+        "holmes-46day",
+        "holmes-notice",
+        "holmes-ballots"
+      ]
+    },
+    {
+      "id": "holmesville-street-lights",
+      "kind": "levy",
+      "jurisdiction": "Village of Holmesville",
+      "title": "Tax levy (renewal): Current expenses (street light fund)",
+      "area": "Holmesville Village (Prairie Township split 00704)",
+      "places": [
+        "Holmesville Village"
+      ],
+      "levy": {
+        "type": "Renewal",
+        "purpose": "Current expenses (street light fund).",
+        "mills": "2 mills",
+        "term": "5 years, commencing in 2027",
+        "firstDue": "2028",
+        "estimate": "$9,259 a year; $32 for each $100,000 of market value"
+      },
+      "sources": [
+        "holmes-46day",
+        "holmes-notice",
+        "holmes-ballots"
+      ]
+    },
+    {
+      "id": "holmesville-street-maintenance",
+      "kind": "levy",
+      "jurisdiction": "Village of Holmesville",
+      "title": "Tax levy (renewal): Current expenses (street maintenance fund)",
+      "area": "Holmesville Village (Prairie Township split 00704)",
+      "places": [
+        "Holmesville Village"
+      ],
+      "levy": {
+        "type": "Renewal",
+        "purpose": "Current expenses (street maintenance fund).",
+        "mills": "2.5 mills",
+        "term": "5 years, commencing in 2027",
+        "firstDue": "2028",
+        "estimate": "$12,950 a year; $45 for each $100,000 of market value"
+      },
+      "sources": [
+        "holmes-46day",
+        "holmes-notice",
+        "holmes-ballots"
+      ]
+    },
+    {
+      "id": "killbuck-twp-fire",
+      "kind": "levy",
+      "jurisdiction": "Killbuck Township",
+      "title": "Tax levy (renewal): Fire protection, the purchase of ambulance equipment, or the provision of ambulance or emergency medical services",
+      "area": "Killbuck Township, including Killbuck Village (precinct 008, splits 00801, 00802)",
+      "places": [
+        "Killbuck Township",
+        "Killbuck Village"
+      ],
+      "levy": {
+        "type": "Renewal",
+        "purpose": "Fire protection, the purchase of ambulance equipment, or the provision of ambulance or emergency medical services.",
+        "mills": "3.5 mills",
+        "term": "5 years, commencing in 2027",
+        "firstDue": "2028",
+        "estimate": "$154,348 a year; $72 for each $100,000 of market value"
+      },
+      "sources": [
+        "holmes-46day",
+        "holmes-notice",
+        "holmes-ballots"
+      ]
+    },
+    {
+      "id": "killbuck-twp-roads",
+      "kind": "levy",
+      "jurisdiction": "Killbuck Township, excluding Killbuck Village",
+      "title": "Tax levy (additional): General construction, reconstruction, resurfacing, and repair of streets, roads, and bridges",
+      "area": "Killbuck Township outside Killbuck Village (split 00801)",
+      "places": [
+        "Killbuck Township"
+      ],
+      "levy": {
+        "type": "Additional",
+        "purpose": "General construction, reconstruction, resurfacing, and repair of streets, roads, and bridges.",
+        "mills": "1.55 mills",
+        "term": "5 years, commencing in 2026",
+        "firstDue": "2027",
+        "estimate": "$73,570 a year; $54 for each $100,000 of market value"
+      },
+      "sources": [
+        "holmes-46day",
+        "holmes-notice",
+        "holmes-ballots"
+      ]
+    },
+    {
+      "id": "monroe-twp-roads",
+      "kind": "levy",
+      "jurisdiction": "Monroe Township",
+      "title": "Tax levy (renewal): General construction, reconstruction, resurfacing, and repair of streets, roads, and bridges",
+      "area": "Monroe Township (precinct 012)",
+      "places": [
+        "Monroe Township"
+      ],
+      "levy": {
+        "type": "Renewal",
+        "purpose": "General construction, reconstruction, resurfacing, and repair of streets, roads, and bridges.",
+        "mills": "1.5 mills",
+        "term": "5 years, commencing in 2027",
+        "firstDue": "2028",
+        "estimate": "$48,462 a year; $22 for each $100,000 of market value"
+      },
+      "sources": [
+        "holmes-46day",
+        "holmes-notice",
+        "holmes-ballots"
+      ]
+    },
+    {
+      "id": "paint-twp-roads",
+      "kind": "levy",
+      "jurisdiction": "Paint Township",
+      "title": "Tax levy (renewal): General construction, reconstruction, resurfacing, and repair of streets and roads",
+      "area": "Paint Township (precinct 013)",
+      "places": [
+        "Paint Township"
+      ],
+      "levy": {
+        "type": "Renewal",
+        "purpose": "General construction, reconstruction, resurfacing, and repair of streets and roads.",
+        "mills": "2 mills",
+        "term": "5 years, commencing in 2027",
+        "firstDue": "2028",
+        "estimate": "$251,579 a year; $37 for each $100,000 of market value"
+      },
+      "sources": [
+        "holmes-46day",
+        "holmes-notice",
+        "holmes-ballots"
+      ]
+    },
+    {
+      "id": "prairie-twp-fire",
+      "kind": "levy",
+      "jurisdiction": "Prairie Township",
+      "title": "Tax levy (renewal): Fire protection, the purchase of ambulance equipment, or the provision of ambulance or emergency medical services",
+      "area": "Prairie Township, including Holmesville Village (precinct 007, all splits)",
+      "places": [
+        "Holmesville Village",
+        "Prairie Township"
+      ],
+      "levy": {
+        "type": "Renewal",
+        "purpose": "Fire protection, the purchase of ambulance equipment, or the provision of ambulance or emergency medical services.",
+        "mills": "2 mills",
+        "term": "5 years, commencing in 2027",
+        "firstDue": "2028",
+        "estimate": "$118,748 a year; $31 for each $100,000 of market value"
+      },
+      "sources": [
+        "holmes-46day",
+        "holmes-notice",
+        "holmes-ballots"
+      ]
+    },
+    {
+      "id": "richland-twp-fire",
+      "kind": "levy",
+      "jurisdiction": "Richland Township",
+      "title": "Tax levy (renewal): Fire protection and emergency medical services",
+      "area": "Richland Township, including Glenmont Village (precinct 014, all splits)",
+      "places": [
+        "Glenmont Village",
+        "Richland Township"
+      ],
+      "levy": {
+        "type": "Renewal",
+        "purpose": "Fire protection and emergency medical services.",
+        "mills": "0.5 mill",
+        "term": "5 years, commencing in 2027",
+        "firstDue": "2028",
+        "estimate": "$14,786 a year; $10 for each $100,000 of market value"
+      },
+      "sources": [
+        "holmes-46day",
+        "holmes-notice",
+        "holmes-ballots"
+      ]
+    },
+    {
+      "id": "richland-twp-cemeteries",
+      "kind": "levy",
+      "jurisdiction": "Richland Township",
+      "title": "Tax levy (renewal): Maintaining and operating cemeteries",
+      "area": "Richland Township, including Glenmont Village (precinct 014, all splits)",
+      "places": [
+        "Glenmont Village",
+        "Richland Township"
+      ],
+      "levy": {
+        "type": "Renewal",
+        "purpose": "Maintaining and operating cemeteries.",
+        "mills": "0.25 mill",
+        "term": "5 years, commencing in 2027",
+        "firstDue": "2028",
+        "estimate": "$7,393 a year; $5 for each $100,000 of market value"
+      },
+      "sources": [
+        "holmes-46day",
+        "holmes-notice",
+        "holmes-ballots"
+      ]
+    },
+    {
+      "id": "saltcreek-twp-roads",
+      "kind": "levy",
+      "jurisdiction": "Saltcreek Township",
+      "title": "Tax levy (renewal): General construction, reconstruction, resurfacing, and repair of streets, roads, and bridges",
+      "area": "Saltcreek Township (precinct 016, all splits)",
+      "places": [
+        "Saltcreek Township"
+      ],
+      "levy": {
+        "type": "Renewal",
+        "purpose": "General construction, reconstruction, resurfacing, and repair of streets, roads, and bridges.",
+        "mills": "1 mill",
+        "term": "5 years, commencing in 2027",
+        "firstDue": "2028",
+        "estimate": "$139,204 a year; $22 for each $100,000 of market value"
+      },
+      "sources": [
+        "holmes-46day",
+        "holmes-notice",
+        "holmes-ballots"
+      ]
+    },
+    {
+      "id": "washington-twp-roads",
+      "kind": "levy",
+      "jurisdiction": "Washington Township",
+      "title": "Tax levy (renewal): General construction, reconstruction, resurfacing, and repair of streets, roads, and bridges",
+      "area": "Washington Township, including its parts of Loudonville and Nashville villages (precinct 018, all splits)",
+      "places": [
+        "Loudonville Village",
+        "Nashville Village",
+        "Washington Township"
+      ],
+      "levy": {
+        "type": "Renewal",
+        "purpose": "General construction, reconstruction, resurfacing, and repair of streets, roads, and bridges.",
+        "mills": "2 mills",
+        "term": "5 years, commencing in 2027",
+        "firstDue": "2028",
+        "estimate": "$116,595 a year; $35 for each $100,000 of market value"
+      },
+      "sources": [
+        "holmes-46day",
+        "holmes-notice",
+        "holmes-ballots"
+      ]
+    },
+    {
+      "id": "liquor-washington-buckeye-deli",
+      "kind": "liquor",
+      "jurisdiction": "Washington Township",
+      "title": "Local liquor option: Buckeye Deli & Pizza",
+      "area": "Washington Township precinct (018, all splits)",
+      "places": [
+        "Loudonville Village",
+        "Nashville Village",
+        "Washington Township"
+      ],
+      "text": "Sale of beer, wine and mixed beverages, and spirituous liquor by Buckeye Deli & Pizza, LLC (D-5 permit applicant, on/off-premise sales), a bar, restaurant/deli and carry-out store at 124 E Millersburg St, Nashville.",
+      "sources": [
+        "holmes-46day",
+        "holmes-notice",
+        "holmes-ballots"
+      ]
+    },
+    {
+      "id": "liquor-washington-buckeye-deli-sunday",
+      "kind": "liquor",
+      "jurisdiction": "Washington Township",
+      "title": "Local liquor option: Buckeye Deli & Pizza (Sunday)",
+      "area": "Washington Township precinct (018, all splits)",
+      "places": [
+        "Loudonville Village",
+        "Nashville Village",
+        "Washington Township"
+      ],
+      "text": "Sunday sale of beer, wine and mixed beverages, and spirituous liquor by Buckeye Deli & Pizza, LLC (D-6 permit applicant, on/off-premise sales), a bar, restaurant/deli and carry-out store at 124 E Millersburg St, Nashville.",
+      "sources": [
+        "holmes-46day",
+        "holmes-notice",
+        "holmes-ballots"
+      ]
+    }
+  ]
+}

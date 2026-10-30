@@ -195,3 +195,50 @@ Data notes:
 - Mercer's auditor term is "3/14/2027" as printed; Perry's Common Pleas General Division term "commencing 7-6-2028" as printed in two Board documents.
 - Renames: Perry's "MONDAY CREEK TOWNSHP", Williams' "SAINT JOSEPH TWP" (St. Joseph Township), Madison's "MT. STERLING VILLAGE" (Mt. Sterling Village, the Board's spelling).
 
+# Oct 30, 2026 (Morrow, Putnam, Henry, Hardin, Carroll, Hocking, Jackson, Van Wert, Gallia, Fayette, Pike)
+
+- Full ballots for eleven more counties (77 with local data now, plus Trumbull's original), each from the Board's 46-day FWAB notice, cross-checked against precinct sample ballots where the county uses the state lookup:
+  - Morrow: 5 contests, 18 issues (Issues 1–18; full wording from the Board's per-issue PDFs; Board site boe.morrowcountyohio.gov).
+  - Putnam: 8 contests, 16 issues (all 69 sample ballots; the notice gives no precincts for local issues, so the ballots place them).
+  - Henry: 6 contests, 10 issues (notice only; Henry doesn't use the state ballot lookup).
+  - Hardin: 7 contests, 9 issues (incl. the Kenton charter-commission question).
+  - Carroll: 8 contests, 12 issues (notice plus the Board's candidates and issues list).
+  - Hocking: 7 contests, 12 issues (all 31 sample ballots; five Murray City levies).
+  - Jackson: 8 contests, 3 issues (all 36 sample ballots).
+  - Van Wert: 8 contests, 11 issues (all 47 sample ballots).
+  - Gallia: 7 contests, 4 issues (all 38 sample ballot styles).
+  - Fayette: 8 contests, 9 issues (all 42 sample ballots).
+  - Pike: 7 contests, 12 issues (all 29 sample ballots).
+
+Data notes:
+- 4th District Court of Appeals (Hocking, Jackson, Gallia, Pike): every notice or ballot confirms Peter B. Abele's votes won't count due to his death; Fountain (REP) and Grace (DEM) were certified Oct 5 and are listed.
+- McComb LSD is on the Hancock, Putnam and Wood ballots; all three now name it "(Hancock, Putnam and Wood)".
+- Fayette's notice gives the Miami Trace renewal as "1.9 mills"; its ballot (like Pickaway's) says a fixed sum of $1,900,000 (about 2.2 mills). Fayette's Perry Township levy is a renewal and decrease on the ballot.
+- Shared items reuse ids and wording: Four County ADAMhs and Pettisville LSD (Henry), Waverly CSD (Ross, Pike), Buchtel (Athens, Hocking), Delphos CSD and Spencerville LSD (Allen, Van Wert), Ada library (Hancock, Hardin), Elgin LSD (Marion, Hardin), Lexington LSD and Delaware Area Career Center (Richland/Delaware, Morrow), Sandy Valley, Edison LSD and Jefferson County JVSD (Carroll).
+- Morrow's voter file, like Franklin's, has no school-district data; its school issues are placed from the notice's precinct lists.
+- Renames: Putnam's "TWP." townships, Hardin's "TAYLOR CREEK TOWNSHP", Pike's "JACKSON TOWNSHP", Morrow's "N./S. BLOOMFIELD", Carroll's "WASH. TWP", Fayette's "WASHINGTON C.H. CITY" (Washington Court House City), Gallia's "GALLIPOLIS VILLAGE" (Gallipolis City, the Board's usage).
+- Repeated identical levies on the ballot are kept as separate items: Van Wert's two Convoy operating renewals, Hocking's two Murray City current-expense renewals, Hardin's two Liberty Township park renewals.
+- Kenton (Hardin): the notice lists the charter-commission question but no commission candidates.
+
+# Oct 30, 2026 (Adams, Harrison, Holmes, Meigs, Monroe, Morgan, Noble, Paulding, Vinton, Wyandot — all 88 counties)
+
+- Full ballots for the last ten counties. Every Ohio county now has its local contests and issues for the Nov 3, 2026 General Election (88 counties: 864 county/district contests and 1,633 local issues), each from its Board of Elections' own documents:
+  - Adams: 7 contests, 16 issues (all 27 sample ballots; countywide EMS and children services levies; Monroe and Sprigg township zoning plans).
+  - Harrison: 8 contests, 24 issues (all 34 sample ballots).
+  - Holmes: 10 contests, 18 issues (notice of election and all 37 sample-ballot styles; countywide 0.25% sales tax renewal).
+  - Meigs: 7 contests, 19 issues (all 30 sample ballots).
+  - Monroe: 8 contests, 6 issues (scanned issues list read with OCR; all 32 sample-ballot styles).
+  - Morgan: 6 contests, 11 issues (all 24 sample-ballot styles).
+  - Noble: 9 contests, 8 issues (all 43 sample-ballot styles).
+  - Paulding: 7 contests, 7 issues (notice with full wording).
+  - Vinton: 9 contests, 11 issues (all 22 sample ballots; Richland and Swan township trustee races).
+  - Wyandot: 5 contests, 12 issues (all 35 sample ballots, posted on the Board's site; Upper Sandusky data-center charter amendment).
+
+Data notes:
+- Wyandot's SoS voter file names places by precinct ("ANTRIM TS", "CAREY A", "UPPER A".."F", "NEVADA ANTRIM"); each is renamed to its township, village or city. Sycamore Village has no precinct of its own in the voter file and is counted in Sycamore Township.
+- Meigs: Racine Village's additional 3-mill operating levy is on its sample ballot but not in the 46-day notice; included from the ballot.
+- Morgan's notice names "Matt Donahue" for the 5th District Court of Appeals; its ballots (and every other 5th District county) have Matthew George.
+- Adams' and Vinton's notices still list Peter B. Abele for the 4th District Court of Appeals; the ballots (supplemental in Adams) have Fountain vs Grace.
+- Shared items reuse ids and wording: Edison LSD and Jefferson County JVSD (Harrison), Loudonville-Perrysville, its library, Triway LSD and Wayne JVSD (Holmes), Alexander LSD (Meigs, Vinton), Paulding EVSD (Putnam, Paulding), Ridgedale LSD, Wyandot East Fire, Wynford LSD and MHRS (Wyandot).
+- Wynford LSD is 1.75% on Wyandot's ballots (notice 1.74%).
+

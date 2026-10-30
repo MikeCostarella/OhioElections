@@ -1,0 +1,396 @@
+{
+  "scope": "county",
+  "county": "Noble",
+  "fips": "39121",
+  "election": "2026-11-03",
+  "retrieved": "2026-10-30",
+  "notes": [
+    "Taken from the Board of Elections' 46-day election notice, which lists every contest and issue with the precincts that vote on it, checked against the Board's precinct sample ballots (which give the full ballot wording and the auditor's estimates).",
+    "Candidates are listed alphabetically by last name, not in ballot order: Ohio rotates the order of names from precinct to precinct. Certified write-in candidates are not printed on the ballot and are not listed.",
+    "\"Where you live\" uses the state voter file: a district or school levy is shown for a city, village or township when any of its voters live in that district. Your exact ballot depends on your precinct.",
+    "The Board's notice and sample ballots do not give local issue numbers; see your sample ballot."
+  ],
+  "places": [
+    "Batesville Village",
+    "Beaver Township",
+    "Belle Valley Village",
+    "Brookfield Township",
+    "Buffalo Township",
+    "Caldwell Village",
+    "Center Township",
+    "Dexter City Village",
+    "Elk Township",
+    "Enoch Township",
+    "Jackson Township",
+    "Jefferson Township",
+    "Marion Township",
+    "Noble Township",
+    "Olive Township",
+    "Sarahsville Village",
+    "Seneca Township",
+    "Sharon Township",
+    "Stock Township",
+    "Summerfield Village",
+    "Wayne Township"
+  ],
+  "sources": {
+    "noble-46day": {
+      "label": "Noble County Board of Elections: 46-day election notice (FWAB), November 3, 2026 General Election (revised 9/16/2026)",
+      "url": "https://www.boe.ohio.gov/noble/c/upload/FWAB_11November46Day.pdf"
+    },
+    "noble-ballots": {
+      "label": "Noble County Board of Elections: official sample ballots for all 19 precincts (43 ballot styles), November 3, 2026 (state ballot lookup; full ballot wording)",
+      "url": "https://lookup.boe.ohio.gov/vtrapp/noble/ballotlist.aspx"
+    }
+  },
+  "links": [
+    {
+      "label": "Board of Elections",
+      "url": "https://www.boe.ohio.gov/noble/"
+    },
+    {
+      "label": "Sample ballots by precinct",
+      "url": "https://lookup.boe.ohio.gov/vtrapp/noble/ballotlist.aspx"
+    }
+  ],
+  "results": {
+    "status": "upcoming",
+    "links": [
+      {
+        "label": "Board of Elections: election results",
+        "url": "https://www.boe.ohio.gov/noble/election-info/election-results/"
+      }
+    ]
+  },
+  "contests": [
+    {
+      "id": "congress-12",
+      "group": "U.S. House",
+      "office": "Representative to Congress",
+      "detail": "12th District",
+      "candidates": [
+        {
+          "name": "Troy Balderson",
+          "party": "REP"
+        },
+        {
+          "name": "Jerrad Christian",
+          "party": "DEM"
+        }
+      ],
+      "sources": [
+        "noble-46day",
+        "noble-ballots"
+      ]
+    },
+    {
+      "id": "rep-95",
+      "group": "Ohio General Assembly",
+      "office": "State Representative",
+      "detail": "95th District",
+      "candidates": [
+        {
+          "name": "Paul Cameron",
+          "party": "DEM"
+        },
+        {
+          "name": "Ty Moore",
+          "party": "REP"
+        }
+      ],
+      "sources": [
+        "noble-46day",
+        "noble-ballots"
+      ]
+    },
+    {
+      "id": "appeals-7-0209",
+      "group": "Ohio Court of Appeals",
+      "office": "Judge of the Court of Appeals",
+      "detail": "7th District · full term commencing February 9, 2027",
+      "candidates": [
+        {
+          "name": "Molly K. Johnson",
+          "party": "REP"
+        }
+      ],
+      "sources": [
+        "noble-46day",
+        "noble-ballots"
+      ]
+    },
+    {
+      "id": "appeals-7-0210",
+      "group": "Ohio Court of Appeals",
+      "office": "Judge of the Court of Appeals",
+      "detail": "7th District · full term commencing February 10, 2027",
+      "candidates": [
+        {
+          "name": "Mark Anthony Hanni",
+          "party": "REP"
+        },
+        {
+          "name": "Katherine Rudzik",
+          "party": "DEM"
+        }
+      ],
+      "sources": [
+        "noble-46day",
+        "noble-ballots"
+      ]
+    },
+    {
+      "id": "commissioner-0101",
+      "group": "County offices",
+      "office": "County Commissioner",
+      "detail": "Full term commencing January 1, 2027",
+      "candidates": [
+        {
+          "name": "Floyd Allen Fraley",
+          "party": "REP"
+        }
+      ],
+      "sources": [
+        "noble-46day",
+        "noble-ballots"
+      ]
+    },
+    {
+      "id": "commissioner-unexpired",
+      "group": "County offices",
+      "office": "County Commissioner",
+      "detail": "Unexpired term ending January 1, 2029",
+      "candidates": [
+        {
+          "name": "Brian D. Carter",
+          "party": "REP"
+        }
+      ],
+      "sources": [
+        "noble-46day",
+        "noble-ballots"
+      ]
+    },
+    {
+      "id": "auditor",
+      "group": "County offices",
+      "office": "County Auditor",
+      "detail": "Full 4-year term commencing March 8, 2027",
+      "candidates": [
+        {
+          "name": "Kyle Smith",
+          "party": "REP"
+        }
+      ],
+      "sources": [
+        "noble-46day",
+        "noble-ballots"
+      ]
+    },
+    {
+      "id": "coroner",
+      "group": "County offices",
+      "office": "County Coroner",
+      "detail": "Unexpired term ending December 31, 2028",
+      "candidates": [
+        {
+          "name": "Clayton Alan Spencer",
+          "party": "REP"
+        }
+      ],
+      "sources": [
+        "noble-46day",
+        "noble-ballots"
+      ]
+    },
+    {
+      "id": "cp-0418",
+      "group": "Court of Common Pleas",
+      "office": "Judge of the Court of Common Pleas",
+      "detail": "Full 6-year term commencing April 18, 2027 · no party label on the ballot",
+      "candidates": [
+        {
+          "name": "Kelly Ann Riddle"
+        }
+      ],
+      "sources": [
+        "noble-46day",
+        "noble-ballots"
+      ]
+    }
+  ],
+  "issues": [
+    {
+      "id": "enoch-current",
+      "kind": "levy",
+      "jurisdiction": "Enoch Township",
+      "title": "Tax levy (renewal): Current operating expenses",
+      "area": "Enoch precinct (014, splits 1 and 2)",
+      "places": [
+        "Enoch Township"
+      ],
+      "levy": {
+        "type": "Renewal",
+        "purpose": "Current operating expenses.",
+        "mills": "2 mills",
+        "term": "5 years, commencing in 2027",
+        "firstDue": "2028",
+        "estimate": "$32,134 a year; $200 for each $100,000 of market value"
+      },
+      "sources": [
+        "noble-46day",
+        "noble-ballots"
+      ]
+    },
+    {
+      "id": "noble-twp-fire-ems",
+      "kind": "levy",
+      "jurisdiction": "Noble Township",
+      "title": "Tax levy (renewal): Fire protection and emergency medical services",
+      "area": "Brookfield/Noble (002, split 2), Ava/Belle Valley (007) and Maple Heights (008) precincts",
+      "places": [
+        "Belle Valley Village",
+        "Noble Township"
+      ],
+      "levy": {
+        "type": "Renewal",
+        "purpose": "Fire protection and emergency medical services.",
+        "mills": "0.5 mill",
+        "term": "5 years, commencing in 2027",
+        "firstDue": "2028",
+        "estimate": "$39,397 a year; $50 for each $100,000 of market value"
+      },
+      "note": "The Board's notice describes this levy as fire protection only; the ballot says fire protection and emergency medical services.",
+      "sources": [
+        "noble-46day",
+        "noble-ballots"
+      ]
+    },
+    {
+      "id": "center-twp-cemetery",
+      "kind": "levy",
+      "jurisdiction": "Center Township",
+      "title": "Tax levy (renewal): Cemetery operating fund",
+      "area": "Center East/Sarahsville (004), Center West (005) and Caldwell One/Two (011, split 2 only) precincts",
+      "places": [
+        "Caldwell Village",
+        "Center Township",
+        "Sarahsville Village"
+      ],
+      "levy": {
+        "type": "Renewal",
+        "purpose": "Cemetery operating fund.",
+        "mills": "0.4 mill",
+        "term": "5 years, commencing in 2027",
+        "firstDue": "2028",
+        "estimate": "$26,048 a year; $40 for each $100,000 of market value"
+      },
+      "sources": [
+        "noble-46day",
+        "noble-ballots"
+      ]
+    },
+    {
+      "id": "county-osu-extension",
+      "kind": "levy",
+      "jurisdiction": "Noble County",
+      "title": "Tax levy (renewal): Providing revenue to the Ohio Cooperative Extension Services fund for 4-H, agriculture and natural resources, home economics, and economic development",
+      "area": "Noble County (all precincts)",
+      "levy": {
+        "type": "Renewal",
+        "purpose": "Providing revenue to the Ohio Cooperative Extension Services fund for 4-H, agriculture and natural resources, home economics, and economic development.",
+        "mills": "1 mill",
+        "term": "5 years, commencing in 2027",
+        "firstDue": "2028",
+        "estimate": "$772,962 a year; $100 for each $100,000 of market value"
+      },
+      "sources": [
+        "noble-46day",
+        "noble-ballots"
+      ]
+    },
+    {
+      "id": "county-911",
+      "kind": "levy",
+      "jurisdiction": "Noble County",
+      "title": "Tax levy (additional): Maintaining and operating 911 systems and 911 dispatching",
+      "area": "Noble County (all precincts)",
+      "levy": {
+        "type": "Additional",
+        "purpose": "Maintaining and operating 911 systems and 911 dispatching.",
+        "mills": "0.5 mill",
+        "term": "5 years, commencing in 2026",
+        "firstDue": "2027",
+        "estimate": "$433,946 a year; $50 for each $100,000 of market value"
+      },
+      "sources": [
+        "noble-46day",
+        "noble-ballots"
+      ]
+    },
+    {
+      "id": "county-senior-citizens",
+      "kind": "levy",
+      "jurisdiction": "Noble County",
+      "title": "Tax levy (renewal and increase): Providing or maintaining senior citizens services or facilities, including the Noble County senior nutrition program, medical escort and transportation service, and maintenance and operation of the Noble County Senior Center",
+      "area": "Noble County (all precincts)",
+      "levy": {
+        "type": "Renewal and increase",
+        "purpose": "Providing or maintaining senior citizens services or facilities, including the Noble County senior nutrition program, medical escort and transportation service, and maintenance and operation of the Noble County Senior Center.",
+        "mills": "0.6 mill",
+        "term": "5 years, commencing in 2027",
+        "firstDue": "2028",
+        "estimate": "$498,939 a year; $60 for each $100,000 of market value"
+      },
+      "note": "A renewal of 0.4 mill and an increase of 0.2 mill.",
+      "sources": [
+        "noble-46day",
+        "noble-ballots"
+      ]
+    },
+    {
+      "id": "elk-general",
+      "kind": "levy",
+      "jurisdiction": "Elk Township",
+      "title": "Tax levy (renewal): General operating expenses",
+      "area": "Elk precinct (015, splits 1–3)",
+      "places": [
+        "Elk Township"
+      ],
+      "levy": {
+        "type": "Renewal",
+        "purpose": "General operating expenses.",
+        "mills": "2 mills",
+        "term": "5 years, commencing in 2027",
+        "firstDue": "2028",
+        "estimate": "$16,815 a year; $200 for each $100,000 of market value"
+      },
+      "sources": [
+        "noble-46day",
+        "noble-ballots"
+      ]
+    },
+    {
+      "id": "summerfield-current",
+      "kind": "levy",
+      "jurisdiction": "Village of Summerfield",
+      "title": "Tax levy (renewal): Current operating expenses",
+      "area": "Marion/Summerfield precinct (006, split 2 Summerfield Village only)",
+      "places": [
+        "Summerfield Village"
+      ],
+      "levy": {
+        "type": "Renewal",
+        "purpose": "Current operating expenses.",
+        "mills": "4 mills",
+        "term": "5 years, commencing in 2027",
+        "firstDue": "2028",
+        "estimate": "$7,212 a year; $400 for each $100,000 of market value"
+      },
+      "sources": [
+        "noble-46day",
+        "noble-ballots"
+      ]
+    }
+  ]
+}

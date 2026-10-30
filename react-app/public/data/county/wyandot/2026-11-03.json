@@ -1,0 +1,420 @@
+{
+  "scope": "county",
+  "county": "Wyandot",
+  "fips": "39175",
+  "election": "2026-11-03",
+  "retrieved": "2026-10-30",
+  "notes": [
+    "Taken from the Board of Elections' 46-day election notice, which lists every contest and issue with the precincts that vote on it, checked against the Board's 35 precinct sample ballots. Issue wording is from the sample ballots.",
+    "Candidates are listed alphabetically by last name, not in ballot order: Ohio rotates the order of names from precinct to precinct. Certified write-in candidates are not printed on the ballot and are not listed.",
+    "\"Where you live\" uses the state voter file: a district or school levy is shown for a city, village or township when any of its voters live in that district. Your exact ballot depends on your precinct.",
+    "Wyandot County's ballots do not number local issues (only statewide Issue 3 is numbered); see your sample ballot for the order of the issues.",
+    "The state voter file does not separate Sycamore Village from Sycamore Township; Sycamore Village voters should use Sycamore Township here, but do not vote on the electric aggregation question (unincorporated areas only)."
+  ],
+  "places": [
+    "Antrim Township",
+    "Carey Village",
+    "Crane Township",
+    "Crawford Township",
+    "Eden Township",
+    "Harpster Village",
+    "Jackson Township",
+    "Kirby Village",
+    "Marseilles Township",
+    "Marseilles Village",
+    "Mifflin Township",
+    "Nevada Village",
+    "Pitt Township",
+    "Richland Township",
+    "Ridge Township",
+    "Salem Township",
+    "Sycamore Township",
+    "Tymochtee Township",
+    "Upper Sandusky City",
+    "Wharton Village"
+  ],
+  "sources": {
+    "wyandot-46day": {
+      "label": "Wyandot County Board of Elections: 46-day election notice (FWAB), November 3, 2026 General Election",
+      "url": "https://www.boe.ohio.gov/wyandot/c/upload/FWAB_11November46Day.pdf"
+    },
+    "wyandot-ballots": {
+      "label": "Wyandot County Board of Elections: precinct sample ballots, November 3, 2026 General Election",
+      "url": "https://www.boe.ohio.gov/wyandot/election-info/ballots-general-election/"
+    }
+  },
+  "links": [
+    {
+      "label": "Board of Elections",
+      "url": "https://www.boe.ohio.gov/wyandot/"
+    },
+    {
+      "label": "Election information",
+      "url": "https://www.boe.ohio.gov/wyandot/election-info/"
+    },
+    {
+      "label": "Sample ballots by precinct",
+      "url": "https://www.boe.ohio.gov/wyandot/election-info/ballots-general-election/"
+    }
+  ],
+  "results": {
+    "status": "upcoming",
+    "links": [
+      {
+        "label": "Board of Elections",
+        "url": "https://www.boe.ohio.gov/wyandot/"
+      }
+    ]
+  },
+  "contests": [
+    {
+      "id": "congress-5",
+      "group": "U.S. House",
+      "office": "Representative to Congress",
+      "detail": "5th District",
+      "candidates": [
+        {
+          "name": "Bob Latta",
+          "party": "REP"
+        },
+        {
+          "name": "Brian A. Shaver",
+          "party": "DEM"
+        },
+        {
+          "name": "Michael J. Veloff",
+          "party": "LIB"
+        }
+      ],
+      "sources": [
+        "wyandot-46day",
+        "wyandot-ballots"
+      ]
+    },
+    {
+      "id": "rep-87",
+      "group": "Ohio General Assembly",
+      "office": "State Representative",
+      "detail": "87th District",
+      "candidates": [
+        {
+          "name": "Lora Covrett",
+          "party": "DEM"
+        },
+        {
+          "name": "Jeffrey A. McClain",
+          "party": "REP"
+        },
+        {
+          "name": "Craig Swartz",
+          "party": "Nonparty"
+        }
+      ],
+      "sources": [
+        "wyandot-46day",
+        "wyandot-ballots"
+      ]
+    },
+    {
+      "id": "appeals-3-0209",
+      "group": "Ohio Court of Appeals",
+      "office": "Judge of the Court of Appeals",
+      "detail": "3rd District · full term commencing February 9, 2027",
+      "candidates": [
+        {
+          "name": "Mark C. Miller",
+          "party": "REP"
+        }
+      ],
+      "sources": [
+        "wyandot-46day",
+        "wyandot-ballots"
+      ]
+    },
+    {
+      "id": "commissioner",
+      "group": "County offices",
+      "office": "County Commissioner",
+      "detail": "Full term commencing January 1, 2027",
+      "candidates": [
+        {
+          "name": "Kenneth Beamer",
+          "party": "Nonparty"
+        },
+        {
+          "name": "Jon Hathaway",
+          "party": "Nonparty"
+        },
+        {
+          "name": "Russell L. Smith",
+          "party": "REP"
+        },
+        {
+          "name": "Jason S. Yeater",
+          "party": "Nonparty"
+        }
+      ],
+      "sources": [
+        "wyandot-46day",
+        "wyandot-ballots"
+      ]
+    },
+    {
+      "id": "auditor",
+      "group": "County offices",
+      "office": "County Auditor",
+      "candidates": [
+        {
+          "name": "George Kitzler",
+          "party": "REP"
+        }
+      ],
+      "sources": [
+        "wyandot-46day",
+        "wyandot-ballots"
+      ]
+    }
+  ],
+  "issues": [
+    {
+      "id": "jackson-twp-current",
+      "kind": "levy",
+      "jurisdiction": "Jackson Township",
+      "title": "Tax levy (renewal): Current expenses",
+      "area": "Jackson Township (precincts Jackson Township and Jackson Kirby Village)",
+      "places": [
+        "Jackson Township",
+        "Kirby Village"
+      ],
+      "levy": {
+        "type": "Renewal",
+        "purpose": "Current expenses.",
+        "mills": "1.5 mills",
+        "term": "5 years, commencing in 2027",
+        "firstDue": "2028",
+        "estimate": "$22,735 a year; $24 for each $100,000 of the county auditor's market value"
+      },
+      "sources": [
+        "wyandot-ballots",
+        "wyandot-46day"
+      ]
+    },
+    {
+      "id": "marseilles-twp-current",
+      "kind": "levy",
+      "jurisdiction": "Marseilles Township",
+      "title": "Tax levy (renewal): Current expenses",
+      "area": "Marseilles Township (including Marseilles Village)",
+      "places": [
+        "Marseilles Township",
+        "Marseilles Village"
+      ],
+      "levy": {
+        "type": "Renewal",
+        "purpose": "Current expenses.",
+        "mills": "2 mills",
+        "term": "5 years, commencing in 2026",
+        "firstDue": "2027",
+        "estimate": "$19,124 a year; $26 for each $100,000 of the county auditor's market value"
+      },
+      "sources": [
+        "wyandot-ballots",
+        "wyandot-46day"
+      ]
+    },
+    {
+      "id": "richland-twp-current",
+      "kind": "levy",
+      "jurisdiction": "Richland Township",
+      "title": "Tax levy (renewal): Current expenses",
+      "area": "Richland Township (including Wharton Village)",
+      "places": [
+        "Richland Township",
+        "Wharton Village"
+      ],
+      "levy": {
+        "type": "Renewal",
+        "purpose": "Current expenses.",
+        "mills": "1 mill",
+        "term": "5 years, commencing in 2027",
+        "firstDue": "2028",
+        "estimate": "$22,088 a year; $19 for each $100,000 of the county auditor's market value"
+      },
+      "sources": [
+        "wyandot-ballots",
+        "wyandot-46day"
+      ]
+    },
+    {
+      "id": "liquor-upper-c-elie",
+      "kind": "liquor",
+      "jurisdiction": "City of Upper Sandusky",
+      "title": "Local liquor option: Elie Wine & Spirits (Sunday)",
+      "area": "Upper Sandusky precinct Upper C",
+      "places": [
+        "Upper Sandusky City"
+      ],
+      "text": "Shall the sale of beer, wine, mixed beverages and spirituous liquor be permitted for sale on Sunday, by Elie Wine & Spirits a D-6 liquor permit applicant, holder of C-1, C-2, D-8 permit, who is engaged in the business of operating a liquor store at 117 E. Walker St. Upper Sandusky, OH 43351 in this precinct?",
+      "sources": [
+        "wyandot-ballots",
+        "wyandot-46day"
+      ]
+    },
+    {
+      "id": "liquor-upper-c-ten-ducks",
+      "kind": "liquor",
+      "jurisdiction": "City of Upper Sandusky",
+      "title": "Local liquor option: Ten Ducks Holding, Ltd (Sunday)",
+      "area": "Upper Sandusky precinct Upper C",
+      "places": [
+        "Upper Sandusky City"
+      ],
+      "text": "Shall the sale of wine and mixed beverages, and spirituous liquor be permitted for sale on Sunday by Ten Ducks Holding, Ltd an applicant for a D-6 liquor permit who is engaged in the business of operating a bar and full-service restaurant at 124-132 N Sandusky Ave. Upper Sandusky, OH 43351 in this precinct?",
+      "sources": [
+        "wyandot-ballots",
+        "wyandot-46day"
+      ]
+    },
+    {
+      "id": "mhrs",
+      "kind": "levy",
+      "jurisdiction": "Wyandot County",
+      "title": "Tax levy (renewal): Mental Health and Recovery Services Board of Seneca, Ottawa, Sandusky and Wyandot Counties (and/or its intended successor, the North Central Behavioral Health Board): operation of community addiction and mental health services providers, and alcohol and drug addiction and mental health facilities in Wyandot County",
+      "area": "Wyandot County",
+      "levy": {
+        "type": "Renewal",
+        "purpose": "Mental Health and Recovery Services Board of Seneca, Ottawa, Sandusky and Wyandot Counties (and/or its intended successor, the North Central Behavioral Health Board): operation of community addiction and mental health services providers, and alcohol and drug addiction and mental health facilities in Wyandot County.",
+        "mills": "0.6 mill",
+        "term": "10 years, commencing in 2027",
+        "firstDue": "2028",
+        "estimate": "$361,454 a year; $13 for each $100,000 of the county auditor's market value"
+      },
+      "note": "The sample ballot's wording reads \"a renewal of a tax for the benefit of Seneca County\" for facilities in Wyandot County; the Board's 46-day notice says \"for the benefit of Wyandot County\" and names the board as that of Seneca, Sandusky and Wyandot Counties.",
+      "sources": [
+        "wyandot-ballots",
+        "wyandot-46day"
+      ]
+    },
+    {
+      "id": "sales-tax",
+      "kind": "question",
+      "jurisdiction": "Wyandot County",
+      "title": "Sales and use tax: 0.5% continuation, 5 years, for the Sheriff's Department and Emergency Medical Services",
+      "area": "Wyandot County",
+      "text": "The Board of County Commissioners of Wyandot County proposes a continuation of a sales and use tax in the amount of 0.5% for the purpose of providing additional revenue for the County's general fund for the operation of the Wyandot County Sheriff's Department and Emergency Medical Services for a period of 5 years. Shall the resolution of the Wyandot county commissioners proposing a 0.5% sales and use tax be approved?",
+      "sources": [
+        "wyandot-ballots",
+        "wyandot-46day"
+      ]
+    },
+    {
+      "id": "upper-sandusky-charter-data-center",
+      "kind": "question",
+      "jurisdiction": "City of Upper Sandusky",
+      "title": "Charter amendment (Ordinance 85-14): Article XVII, Section 17.13, prohibition of construction of a data center",
+      "area": "Upper Sandusky precincts Upper A to Upper F",
+      "places": [
+        "Upper Sandusky City"
+      ],
+      "text": "Shall the proposed charter amendment, Article XVII, Section 17.13: Prohibition of Construction of a Data Center, as reported by the charter commission of the city of Upper Sandusky be adopted?",
+      "sources": [
+        "wyandot-ballots",
+        "wyandot-46day"
+      ]
+    },
+    {
+      "id": "wyandot-east-fire",
+      "kind": "levy",
+      "jurisdiction": "Wyandot East Fire District",
+      "title": "Tax levy (renewal): Providing and maintaining fire protection services",
+      "area": "Wyandot East Fire District (Antrim Township, Eden Township's Wyandot East Fire precincts and Nevada Village; also Tod Township in Crawford County)",
+      "places": [
+        "Antrim Township",
+        "Eden Township",
+        "Nevada Village"
+      ],
+      "levy": {
+        "type": "Renewal",
+        "purpose": "Providing and maintaining fire protection services.",
+        "mills": "2.5 mills",
+        "term": "5 years, commencing in 2026",
+        "firstDue": "2027",
+        "estimate": "$76,990 a year; $32 for each $100,000 of the county auditor's market value"
+      },
+      "sources": [
+        "wyandot-ballots",
+        "wyandot-46day"
+      ]
+    },
+    {
+      "id": "wynford-lsd-income-tax",
+      "kind": "question",
+      "jurisdiction": "Wynford Local School District (Crawford and Wyandot counties)",
+      "title": "School district income tax: additional 1.75%, 10 years, for current expenses",
+      "area": "Wynford Local School District, Wyandot County part (Antrim Wynford, Crane Wynford, Eden Wyandot East Fire Wynford, Nevada, Pitt Wynford)",
+      "places": [
+        "Antrim Township",
+        "Crane Township",
+        "Eden Township",
+        "Nevada Village",
+        "Pitt Township"
+      ],
+      "text": "Shall an annual income tax of 1.75 percent on the earned income of individuals residing in the school district be imposed by the Wynford Local School District for 10 years, beginning January 1, 2027, for the purpose of current expenses?",
+      "note": "The Board's 46-day notice prints the rate as 1.74 percent; the sample ballots say 1.75 percent.",
+      "sources": [
+        "wyandot-ballots",
+        "wyandot-46day"
+      ]
+    },
+    {
+      "id": "ridgedale-lsd",
+      "kind": "levy",
+      "jurisdiction": "Ridgedale Local School District (Marion, Crawford and Wyandot counties)",
+      "title": "Tax levy (renewal): Current expenses (fixed sum of $575,034)",
+      "area": "Ridgedale Local School District, Wyandot County part (Antrim Ridgedale)",
+      "places": [
+        "Antrim Township"
+      ],
+      "levy": {
+        "type": "Renewal",
+        "purpose": "Current expenses (fixed sum of $575,034).",
+        "mills": "2.44 mills (estimated average)",
+        "term": "5 years, commencing in 2027",
+        "firstDue": "2028",
+        "estimate": "$575,034 a year; $85 for each $100,000 of the county auditor's market value"
+      },
+      "note": "The county auditor certified the district's carry-over balance above the prior year's general fund expenditures as $0 (0% of those expenditures).",
+      "sources": [
+        "wyandot-ballots",
+        "wyandot-46day"
+      ]
+    },
+    {
+      "id": "electric-aggregation",
+      "kind": "question",
+      "jurisdiction": "Wyandot County (unincorporated area)",
+      "title": "Electric aggregation for the unincorporated area (opt-out)",
+      "area": "Unincorporated Wyandot County (all township precincts)",
+      "places": [
+        "Antrim Township",
+        "Crane Township",
+        "Crawford Township",
+        "Eden Township",
+        "Jackson Township",
+        "Marseilles Township",
+        "Mifflin Township",
+        "Pitt Township",
+        "Richland Township",
+        "Ridge Township",
+        "Salem Township",
+        "Sycamore Township",
+        "Tymochtee Township"
+      ],
+      "text": "Shall Wyandot County have the authority to aggregate the retail electric loads located in the unincorporated areas of Wyandot County, and for that purpose, enter into service agreements to facilitate for those loads the sale and purchase of electricity, such aggregation to occur automatically except where any person elects to opt out?",
+      "sources": [
+        "wyandot-ballots",
+        "wyandot-46day"
+      ]
+    }
+  ]
+}

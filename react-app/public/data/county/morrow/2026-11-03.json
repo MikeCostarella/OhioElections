@@ -1,0 +1,557 @@
+{
+  "scope": "county",
+  "county": "Morrow",
+  "fips": "39117",
+  "election": "2026-11-03",
+  "retrieved": "2026-10-30",
+  "notes": [
+    "Taken from the Board of Elections' 46-day election notice, which lists every contest and issue with the precincts that vote on it, checked against the Board's certified candidate list. Issue wording is from the Board's official questions and issues ballot language.",
+    "Candidates are listed alphabetically by last name, not in ballot order: Ohio rotates the order of names from precinct to precinct. Certified write-in candidates are not printed on the ballot and are not listed.",
+    "\"Where you live\" uses the state voter file: a district or school levy is shown for a city, village or township when any of its voters live in that district. Your exact ballot depends on your precinct."
+  ],
+  "places": [
+    "Bennington Township",
+    "Canaan Township",
+    "Cardington Township",
+    "Cardington Village",
+    "Chester Township",
+    "Chesterville Village",
+    "Congress Township",
+    "Edison Village",
+    "Franklin Township",
+    "Fulton Village",
+    "Gilead Township",
+    "Harmony Township",
+    "Lincoln Township",
+    "Marengo Village",
+    "Mount Gilead Village",
+    "North Bloomfield Township",
+    "Perry Township",
+    "Peru Township",
+    "South Bloomfield Township",
+    "Sparta Village",
+    "Troy Township",
+    "Washington Township",
+    "Westfield Township"
+  ],
+  "sources": {
+    "morrow-46day": {
+      "label": "Morrow County Board of Elections: 46-day election notice (FWAB), November 3, 2026 General Election",
+      "url": "https://boe.morrowcountyohio.gov/2026/2026%20General%2046%20Day%20Notice.pdf"
+    },
+    "morrow-candidates": {
+      "label": "Morrow County Board of Elections: candidates certified, November 3, 2026 General Election",
+      "url": "https://boe.morrowcountyohio.gov/2026/2026%20GENERAL%20CERTIFIED%20CANDIDATES%20MORROW.pdf"
+    },
+    "morrow-issues": {
+      "label": "Morrow County Board of Elections: official questions and issues ballot language, November 3, 2026 General Election",
+      "url": "https://boe.morrowcountyohio.gov/candidates___issues/index.php"
+    }
+  },
+  "links": [
+    {
+      "label": "Board of Elections",
+      "url": "https://boe.morrowcountyohio.gov/"
+    },
+    {
+      "label": "Candidates & issues",
+      "url": "https://boe.morrowcountyohio.gov/candidates___issues/index.php"
+    },
+    {
+      "label": "Election notices",
+      "url": "https://boe.morrowcountyohio.gov/election_notices/index.php"
+    }
+  ],
+  "results": {
+    "status": "upcoming",
+    "links": [
+      {
+        "label": "Board of Elections: election results",
+        "url": "https://boe.morrowcountyohio.gov/new_page/index.php"
+      }
+    ]
+  },
+  "contests": [
+    {
+      "id": "congress-4",
+      "group": "U.S. House",
+      "office": "Representative to Congress",
+      "detail": "4th District",
+      "candidates": [
+        {
+          "name": "Jim Jordan",
+          "party": "REP"
+        },
+        {
+          "name": "Joshua D. Kolasinski",
+          "party": "DEM"
+        },
+        {
+          "name": "Tracey L. Tackett",
+          "party": "Nonparty"
+        }
+      ],
+      "sources": [
+        "morrow-46day"
+      ]
+    },
+    {
+      "id": "rep-87",
+      "group": "Ohio General Assembly",
+      "office": "State Representative",
+      "detail": "87th District",
+      "candidates": [
+        {
+          "name": "Lora Covrett",
+          "party": "DEM"
+        },
+        {
+          "name": "Jeffrey A. McClain",
+          "party": "REP"
+        },
+        {
+          "name": "Craig Swartz",
+          "party": "Nonparty"
+        }
+      ],
+      "sources": [
+        "morrow-46day"
+      ]
+    },
+    {
+      "id": "appeals-5",
+      "group": "Ohio Court of Appeals",
+      "office": "Judge of the Court of Appeals",
+      "detail": "5th District · term commencing February 9, 2027",
+      "candidates": [
+        {
+          "name": "Matthew George",
+          "party": "REP"
+        }
+      ],
+      "sources": [
+        "morrow-46day"
+      ]
+    },
+    {
+      "id": "commissioner",
+      "group": "County offices",
+      "office": "County Commissioner",
+      "detail": "Term commencing January 1, 2027",
+      "candidates": [
+        {
+          "name": "Jon W. Mason",
+          "party": "REP"
+        }
+      ],
+      "sources": [
+        "morrow-46day",
+        "morrow-candidates"
+      ]
+    },
+    {
+      "id": "auditor",
+      "group": "County offices",
+      "office": "County Auditor",
+      "detail": "Full term commencing March 8, 2027",
+      "candidates": [
+        {
+          "name": "Conni McChesney",
+          "party": "REP"
+        }
+      ],
+      "sources": [
+        "morrow-46day",
+        "morrow-candidates"
+      ]
+    }
+  ],
+  "issues": [
+    {
+      "id": "issue-1",
+      "kind": "levy",
+      "jurisdiction": "Lexington Local School District (Richland and Morrow counties)",
+      "title": "Tax levy (renewal): Current operating expenses (fixed-sum levy of $2,680,000 a year)",
+      "area": "Lexington Local School District, Morrow County part (North Bloomfield Township East and Troy Township precincts)",
+      "places": [
+        "North Bloomfield Township",
+        "Troy Township"
+      ],
+      "levy": {
+        "type": "Renewal",
+        "purpose": "Current operating expenses (fixed-sum levy of $2,680,000 a year).",
+        "mills": "4.8 mills (estimated average)",
+        "term": "5 years, commencing in 2026",
+        "firstDue": "2027",
+        "estimate": "$2,680,000 a year; $168 for each $100,000 of market value"
+      },
+      "number": "Issue 1",
+      "text": "Shall a fixed-sum levy renewing an existing levy be imposed by the Lexington Local School District for the purpose of paying the current operating expenses of the district in the sum of $2,680,000 and a levy of taxes to be made outside of the ten-mill limitation estimated by the county auditor to average 4.8 mills for each $1 of taxable value, which amounts to $168 for each $100,000 of the county auditor's market value, for a period of 5 years, commencing in 2026, first due in calendar year 2027? The county auditor has certified that the amount by which the carry-over balance in the district's general operating budget from the preceding fiscal year exceeds the district's general fund expenditures made in the preceding fiscal year is $0, which is 0% of those expenditures.",
+      "sources": [
+        "morrow-issues",
+        "morrow-46day"
+      ]
+    },
+    {
+      "id": "issue-2",
+      "kind": "question",
+      "jurisdiction": "Lexington Local School District (Richland and Morrow counties)",
+      "title": "School district income tax: 0.75%, 10 years, for current expenses",
+      "area": "Lexington Local School District, Morrow County part (North Bloomfield Township East and Troy Township precincts)",
+      "places": [
+        "North Bloomfield Township",
+        "Troy Township"
+      ],
+      "number": "Issue 2",
+      "text": "Shall an annual income tax of 0.75% on the earned income of individuals residing in the school district be imposed by the Lexington Local School District, for 10 years, beginning January 1, 2027, for the purpose of current expenses?",
+      "sources": [
+        "morrow-issues",
+        "morrow-46day"
+      ]
+    },
+    {
+      "id": "issue-3",
+      "kind": "levy",
+      "jurisdiction": "Delaware Area Career Center (joint vocational school district; Delaware, Franklin, Marion, Morrow and Union counties)",
+      "title": "Tax levy (renewal and decrease): Improving, renovating, remodeling, enlarging, furnishing and equipping school buildings and facilities (0.40 mill) and current expenses (0.35 mill); renewal of part of an existing levy, a reduction of 0.95 mill",
+      "area": "Peru Township and Westfield Township precincts (Buckeye Valley school district parts)",
+      "places": [
+        "Peru Township",
+        "Westfield Township"
+      ],
+      "levy": {
+        "type": "Renewal and decrease",
+        "purpose": "Improving, renovating, remodeling, enlarging, furnishing and equipping school buildings and facilities (0.40 mill) and current expenses (0.35 mill); renewal of part of an existing levy, a reduction of 0.95 mill.",
+        "mills": "0.75 mill",
+        "term": "10 years, commencing in 2026",
+        "firstDue": "2027",
+        "estimate": "$5,773,576 a year; $18 for each $100,000 of market value"
+      },
+      "number": "Issue 3",
+      "sources": [
+        "morrow-issues",
+        "morrow-46day"
+      ]
+    },
+    {
+      "id": "issue-4",
+      "kind": "levy",
+      "jurisdiction": "Morrow County",
+      "title": "Tax levy (renewal): Provision, maintenance and operation of services and facilities for older citizens",
+      "area": "Morrow County (all precincts)",
+      "levy": {
+        "type": "Renewal",
+        "purpose": "Provision, maintenance and operation of services and facilities for older citizens.",
+        "mills": "0.5 mill",
+        "term": "5 years, commencing in 2027",
+        "firstDue": "2028",
+        "estimate": "$472,502 a year; $11 for each $100,000 of market value"
+      },
+      "number": "Issue 4",
+      "sources": [
+        "morrow-issues",
+        "morrow-46day"
+      ]
+    },
+    {
+      "id": "issue-5",
+      "kind": "levy",
+      "jurisdiction": "Delaware-Morrow Mental Health & Recovery Services Board (Delaware and Morrow counties)",
+      "title": "Tax levy (renewal and increase): Current expenses (renewal of 1.5 mills and an increase of 0.5 mill)",
+      "area": "Morrow County (all precincts)",
+      "levy": {
+        "type": "Renewal and increase",
+        "purpose": "Current expenses (renewal of 1.5 mills and an increase of 0.5 mill).",
+        "mills": "2 mills",
+        "term": "5 years, commencing in 2027",
+        "firstDue": "2028",
+        "estimate": "$23,005,505 a year; $50 for each $100,000 of market value"
+      },
+      "number": "Issue 5",
+      "sources": [
+        "morrow-issues",
+        "morrow-46day"
+      ]
+    },
+    {
+      "id": "issue-6",
+      "kind": "liquor",
+      "jurisdiction": "Village of Cardington",
+      "title": "Local liquor option: Cardington Duchess (Sunday)",
+      "area": "Cardington Village East precinct",
+      "places": [
+        "Cardington Village"
+      ],
+      "number": "Issue 6",
+      "text": "Sunday sale of wine and mixed beverages by Englefield, Inc., dba Cardington Duchess (D-6 permit applicant), a carryout / grocery store at 101 Gilead Street, Cardington.",
+      "sources": [
+        "morrow-issues",
+        "morrow-46day"
+      ]
+    },
+    {
+      "id": "issue-7",
+      "kind": "levy",
+      "jurisdiction": "Village of Chesterville",
+      "title": "Tax levy (renewal): Current operating expenses",
+      "area": "Chesterville precinct (Chester Township West)",
+      "places": [
+        "Chesterville Village"
+      ],
+      "levy": {
+        "type": "Renewal",
+        "purpose": "Current operating expenses.",
+        "mills": "1 mill",
+        "term": "5 years, commencing in 2026",
+        "firstDue": "2027",
+        "estimate": "$3,499 a year; $28 for each $100,000 of market value"
+      },
+      "number": "Issue 7",
+      "sources": [
+        "morrow-issues",
+        "morrow-46day"
+      ]
+    },
+    {
+      "id": "issue-8",
+      "kind": "levy",
+      "jurisdiction": "Village of Chesterville",
+      "title": "Tax levy (renewal): Current operating expenses",
+      "area": "Chesterville precinct (Chester Township West)",
+      "places": [
+        "Chesterville Village"
+      ],
+      "levy": {
+        "type": "Renewal",
+        "purpose": "Current operating expenses.",
+        "mills": "3 mills",
+        "term": "5 years, commencing in 2026",
+        "firstDue": "2027",
+        "estimate": "$10,497 a year; $85 for each $100,000 of market value"
+      },
+      "number": "Issue 8",
+      "sources": [
+        "morrow-issues",
+        "morrow-46day"
+      ]
+    },
+    {
+      "id": "issue-9",
+      "kind": "levy",
+      "jurisdiction": "Village of Fulton",
+      "title": "Tax levy (renewal): Current expenses",
+      "area": "Fulton precinct (Lincoln Township East)",
+      "places": [
+        "Fulton Village"
+      ],
+      "levy": {
+        "type": "Renewal",
+        "purpose": "Current expenses.",
+        "mills": "3 mills",
+        "term": "5 years, commencing in 2027",
+        "firstDue": "2028",
+        "estimate": "$10,088 a year; $55 for each $100,000 of market value"
+      },
+      "number": "Issue 9",
+      "sources": [
+        "morrow-issues",
+        "morrow-46day"
+      ]
+    },
+    {
+      "id": "issue-10",
+      "kind": "levy",
+      "jurisdiction": "Village of Fulton",
+      "title": "Tax levy (renewal): Maintaining and operating sewage disposal plants and facilities",
+      "area": "Fulton precinct (Lincoln Township East)",
+      "places": [
+        "Fulton Village"
+      ],
+      "levy": {
+        "type": "Renewal",
+        "purpose": "Maintaining and operating sewage disposal plants and facilities.",
+        "mills": "4 mills",
+        "term": "5 years, commencing in 2027",
+        "firstDue": "2028",
+        "estimate": "$15,411 a year; $87 for each $100,000 of market value"
+      },
+      "number": "Issue 10",
+      "sources": [
+        "morrow-issues",
+        "morrow-46day"
+      ]
+    },
+    {
+      "id": "issue-11",
+      "kind": "levy",
+      "jurisdiction": "Village of Fulton",
+      "title": "Tax levy (renewal): General construction, reconstruction, resurfacing and repair of streets, roads and bridges",
+      "area": "Fulton precinct (Lincoln Township East)",
+      "places": [
+        "Fulton Village"
+      ],
+      "levy": {
+        "type": "Renewal",
+        "purpose": "General construction, reconstruction, resurfacing and repair of streets, roads and bridges.",
+        "mills": "3.5 mills",
+        "term": "5 years, commencing in 2026",
+        "firstDue": "2027",
+        "estimate": "$13,662 a year; $77 for each $100,000 of market value"
+      },
+      "number": "Issue 11",
+      "sources": [
+        "morrow-issues",
+        "morrow-46day"
+      ]
+    },
+    {
+      "id": "issue-12",
+      "kind": "levy",
+      "jurisdiction": "Village of Marengo",
+      "title": "Tax levy (renewal): Current expenses",
+      "area": "Marengo precinct (Bennington Township West)",
+      "places": [
+        "Marengo Village"
+      ],
+      "levy": {
+        "type": "Renewal",
+        "purpose": "Current expenses.",
+        "mills": "2.5 mills",
+        "term": "5 years, commencing in 2026",
+        "firstDue": "2027",
+        "estimate": "$10,000 a year; $59 for each $100,000 of market value"
+      },
+      "number": "Issue 12",
+      "sources": [
+        "morrow-issues",
+        "morrow-46day"
+      ]
+    },
+    {
+      "id": "issue-13",
+      "kind": "levy",
+      "jurisdiction": "Village of Sparta",
+      "title": "Tax levy (renewal): Current expenses",
+      "area": "Sparta precinct (South Bloomfield Township West)",
+      "places": [
+        "Sparta Village"
+      ],
+      "levy": {
+        "type": "Renewal",
+        "purpose": "Current expenses.",
+        "mills": "3.4 mills",
+        "term": "5 years, commencing in 2027",
+        "firstDue": "2028",
+        "estimate": "$7,411 a year; $80 for each $100,000 of market value"
+      },
+      "number": "Issue 13",
+      "sources": [
+        "morrow-issues",
+        "morrow-46day"
+      ]
+    },
+    {
+      "id": "issue-14",
+      "kind": "question",
+      "jurisdiction": "Franklin Township (unincorporated area; zoning by the Morrow County Commissioners)",
+      "title": "Zoning plan for the unincorporated area of Franklin Township",
+      "area": "Franklin Township (all splits)",
+      "places": [
+        "Franklin Township"
+      ],
+      "number": "Issue 14",
+      "text": "Morrow County Commissioners have proposed a zoning resolution for the unincorporated area of Franklin Township to promote the public health, safety, comfort and general welfare of the community, to conserve and protect property and property values, to secure the most appropriate use of land and to facilitate adequate but economical provision of public improvements, all in accordance with a comprehensive plan. Shall the zoning plan for the unincorporated area of Franklin Township, as adopted by the Morrow County Commissioners, be approved?",
+      "sources": [
+        "morrow-issues",
+        "morrow-46day"
+      ]
+    },
+    {
+      "id": "issue-15",
+      "kind": "levy",
+      "jurisdiction": "Franklin Township",
+      "title": "Tax levy (additional): Fire apparatus, appliances, buildings or sites, or payment of permanent, part-time or volunteer firefighters or firefighting companies",
+      "area": "Franklin Township (all splits)",
+      "places": [
+        "Franklin Township"
+      ],
+      "levy": {
+        "type": "Additional",
+        "purpose": "Fire apparatus, appliances, buildings or sites, or payment of permanent, part-time or volunteer firefighters or firefighting companies.",
+        "mills": "1.5 mills",
+        "term": "5 years, commencing in 2026",
+        "firstDue": "2027",
+        "estimate": "$104,000 a year; $53 for each $100,000 of market value"
+      },
+      "number": "Issue 15",
+      "sources": [
+        "morrow-issues",
+        "morrow-46day"
+      ]
+    },
+    {
+      "id": "issue-16",
+      "kind": "liquor",
+      "jurisdiction": "Franklin Township (unincorporated area)",
+      "title": "Local liquor option: Franklin Township Economic Revitalization District (all days, including Sunday)",
+      "area": "Franklin Township (all splits)",
+      "places": [
+        "Franklin Township"
+      ],
+      "number": "Issue 16",
+      "text": "Sale of beer and intoxicating liquor on all days of the week, including Sunday, at the Franklin Township Economic Revitalization District, a community facility (R.C. 4301.01) west of I-71 near the U.S. 95 / I-71 interchange, including parcel F14-001-00-080-08. Placed on the ballot by resolution.",
+      "sources": [
+        "morrow-issues",
+        "morrow-46day"
+      ]
+    },
+    {
+      "id": "issue-17",
+      "kind": "levy",
+      "jurisdiction": "Lincoln Township",
+      "title": "Tax levy (renewal): Maintaining and operating cemeteries",
+      "area": "Lincoln Township East (including Fulton) and West",
+      "places": [
+        "Fulton Village",
+        "Lincoln Township"
+      ],
+      "levy": {
+        "type": "Renewal",
+        "purpose": "Maintaining and operating cemeteries.",
+        "mills": "0.7 mill",
+        "term": "5 years, commencing in 2027",
+        "firstDue": "2028",
+        "estimate": "$24,446 a year; $10 for each $100,000 of market value"
+      },
+      "number": "Issue 17",
+      "sources": [
+        "morrow-issues",
+        "morrow-46day"
+      ]
+    },
+    {
+      "id": "issue-18",
+      "kind": "levy",
+      "jurisdiction": "South Bloomfield Township",
+      "title": "Tax levy (renewal): Fire apparatus, rescue and other fire equipment, buildings and sites; firefighting companies or firefighters; emergency medical service, ambulance equipment and ambulance, paramedic or other EMS provided by a fire department",
+      "area": "South Bloomfield Township East and West (including Sparta)",
+      "places": [
+        "South Bloomfield Township",
+        "Sparta Village"
+      ],
+      "levy": {
+        "type": "Renewal",
+        "purpose": "Fire apparatus, rescue and other fire equipment, buildings and sites; firefighting companies or firefighters; emergency medical service, ambulance equipment and ambulance, paramedic or other EMS provided by a fire department.",
+        "mills": "3.25 mills",
+        "term": "5 years, commencing in 2027",
+        "firstDue": "2028",
+        "estimate": "$186,000 a year; $71 for each $100,000 of market value"
+      },
+      "number": "Issue 18",
+      "sources": [
+        "morrow-issues",
+        "morrow-46day"
+      ]
+    }
+  ]
+}

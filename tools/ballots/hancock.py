@@ -60,8 +60,8 @@ def build():
             text="Local option (question 2): Sunday sale of wine and mixed beverages, and spirituous liquor by Hancock County Performing Arts Center, dba Marathon Center for the Performing Arts "
                  "(D-6 permit), 200 West Main Cross Street, Findlay.", src=I)
     # Same precincts as the notice: Blanchard 39.02, Liberty NW 46.02, McComb 53.01, Pleasant 55.01, Portage 56.01.
-    c.issue("mccomb-bond", "levy", "McComb Local School District (Hancock and Wood)", "School district income tax (0.25%) and bond issue ($23,815,000)", SD("MCCOMB LOCAL SD (HANCOCK)"),
-            area="McComb Local School District (Hancock County part: Blanchard 39.02, Liberty NW 46.02, McComb 53.01, Pleasant 55.01, Portage 56.01)",
+    c.issue("mccomb-bond", "levy", "McComb Local School District (Hancock, Putnam and Wood)", "School district income tax (0.25%) and bond issue ($23,815,000)", SD("MCCOMB LOCAL SD (HANCOCK)"),
+            area="McComb Local School District (Hancock, Putnam and Wood)",
             levy={"type": "Income tax and bond issue", "purpose": "Income tax; bonds for constructing school facilities.",
                   "mills": "6.99 mills (bond)", "term": "Income tax beginning January 1, 2027; bonds up to 37 years", "estimate": "$23,815,000 principal"},
             text="Income tax of 0.25% beginning January 1, 2027, and bonds of $23,815,000 for constructing school facilities, repaid over a maximum of 37 years, with a levy estimated at 6.99 mills.", src=I)

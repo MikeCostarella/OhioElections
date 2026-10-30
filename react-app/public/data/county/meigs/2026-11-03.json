@@ -1,0 +1,582 @@
+{
+  "scope": "county",
+  "county": "Meigs",
+  "fips": "39105",
+  "election": "2026-11-03",
+  "retrieved": "2026-10-30",
+  "notes": [
+    "Taken from the Board of Elections' 46-day election notice, which lists every contest and issue with the precincts that vote on it, checked against the Board's precinct sample ballots. Parties, terms of office and issue wording are from the sample ballots.",
+    "Candidates are listed alphabetically by last name, not in ballot order: Ohio rotates the order of names from precinct to precinct. Certified write-in candidates are not printed on the ballot and are not listed.",
+    "\"Where you live\" uses the state voter file: a district or school levy is shown for a city, village or township when any of its voters live in that district. Your exact ballot depends on your precinct.",
+    "The Board's notice and sample ballots do not give local issue numbers.",
+    "Racine Village: the sample ballot for the Racine Village precinct carries an additional 3-mill operating levy for the village that the 46-day notice (revised October 5, 2026) does not list; it is included here from the sample ballot."
+  ],
+  "places": [
+    "Bedford Township",
+    "Chester Township",
+    "Columbia Township",
+    "Lebanon Township",
+    "Letart Township",
+    "Middleport Village",
+    "Olive Township",
+    "Orange Township",
+    "Pomeroy Village",
+    "Racine Village",
+    "Rutland Township",
+    "Rutland Village",
+    "Salem Township",
+    "Salisbury Township",
+    "Scipio Township",
+    "Sutton Township",
+    "Syracuse Village"
+  ],
+  "sources": {
+    "meigs-46day": {
+      "label": "Meigs County Board of Elections: 46-day election notice (FWAB), November 3, 2026 General Election (revised October 5, 2026)",
+      "url": "https://www.boe.ohio.gov/meigs/c/upload/FWAB_11November46Day.pdf"
+    },
+    "meigs-ballots": {
+      "label": "Meigs County Board of Elections: precinct sample ballots, November 3, 2026 General Election (election data updated October 5, 2026)",
+      "url": "https://lookup.boe.ohio.gov/vtrapp/meigs/ballotlist.aspx"
+    }
+  },
+  "links": [
+    {
+      "label": "Board of Elections",
+      "url": "https://www.boe.ohio.gov/meigs/"
+    },
+    {
+      "label": "Federal write-in absentee ballot notices",
+      "url": "https://www.boe.ohio.gov/meigs/election-info/federal-write-in-absentee-ballots/"
+    },
+    {
+      "label": "Sample ballots by precinct",
+      "url": "https://lookup.boe.ohio.gov/vtrapp/meigs/ballotlist.aspx"
+    }
+  ],
+  "results": {
+    "status": "upcoming",
+    "links": [
+      {
+        "label": "Board of Elections: election results",
+        "url": "https://www.boe.ohio.gov/meigs/election-info/election-results/"
+      }
+    ]
+  },
+  "contests": [
+    {
+      "id": "congress-2",
+      "group": "U.S. House",
+      "office": "Representative to Congress",
+      "detail": "2nd District",
+      "candidates": [
+        {
+          "name": "Jen Mazzuckelli",
+          "party": "DEM"
+        },
+        {
+          "name": "David J. Taylor",
+          "party": "REP"
+        }
+      ],
+      "sources": [
+        "meigs-46day",
+        "meigs-ballots"
+      ]
+    },
+    {
+      "id": "rep-94",
+      "group": "Ohio General Assembly",
+      "office": "State Representative",
+      "detail": "94th District",
+      "candidates": [
+        {
+          "name": "Kevin Ritter",
+          "party": "REP"
+        },
+        {
+          "name": "Wenda Sheard",
+          "party": "DEM"
+        }
+      ],
+      "sources": [
+        "meigs-46day",
+        "meigs-ballots"
+      ]
+    },
+    {
+      "id": "appeals-4-0209",
+      "group": "Ohio Court of Appeals",
+      "office": "Judge of the Court of Appeals",
+      "detail": "4th District · full term commencing February 9, 2027",
+      "candidates": [
+        {
+          "name": "Jayme Hartley Fountain",
+          "party": "REP"
+        },
+        {
+          "name": "Todd L. Grace",
+          "party": "DEM"
+        }
+      ],
+      "sources": [
+        "meigs-46day",
+        "meigs-ballots"
+      ]
+    },
+    {
+      "id": "commissioner",
+      "group": "County offices",
+      "office": "County Commissioner",
+      "detail": "Full term commencing January 1, 2027",
+      "candidates": [
+        {
+          "name": "Zachary B. Manuel",
+          "party": "REP"
+        }
+      ],
+      "sources": [
+        "meigs-46day",
+        "meigs-ballots"
+      ]
+    },
+    {
+      "id": "auditor",
+      "group": "County offices",
+      "office": "County Auditor",
+      "detail": "Full term commencing March 8, 2027",
+      "candidates": [
+        {
+          "name": "Mary T. Byer-Hill",
+          "party": "REP"
+        }
+      ],
+      "sources": [
+        "meigs-46day",
+        "meigs-ballots"
+      ]
+    },
+    {
+      "id": "treasurer",
+      "group": "County offices",
+      "office": "County Treasurer",
+      "detail": "Unexpired term ending September 2, 2029",
+      "candidates": [
+        {
+          "name": "Tonya M. Griffin",
+          "party": "REP"
+        }
+      ],
+      "sources": [
+        "meigs-46day",
+        "meigs-ballots"
+      ]
+    },
+    {
+      "id": "cp-probate-juvenile",
+      "group": "Court of Common Pleas",
+      "office": "Judge of the Court of Common Pleas, Probate/Juvenile Division",
+      "detail": "Full term commencing February 8, 2027 · the ballot prints a Republican party label for this race",
+      "candidates": [
+        {
+          "name": "Jeremy L. Fisher"
+        }
+      ],
+      "sources": [
+        "meigs-ballots",
+        "meigs-46day"
+      ]
+    }
+  ],
+  "issues": [
+    {
+      "id": "county-senior-citizens",
+      "kind": "levy",
+      "jurisdiction": "Meigs County",
+      "title": "Tax levy (renewal): Providing and maintaining senior citizens services or facilities (Meigs County Council on Aging, Inc. Multipurpose Senior Citizens Center)",
+      "area": "Meigs County",
+      "levy": {
+        "type": "Renewal",
+        "purpose": "Providing and maintaining senior citizens services or facilities (Meigs County Council on Aging, Inc. Multipurpose Senior Citizens Center).",
+        "mills": "1.6 mills",
+        "term": "5 years, commencing in 2027",
+        "firstDue": "2028",
+        "estimate": "$707,324 a year; $55 for each $100,000 of market value"
+      },
+      "sources": [
+        "meigs-ballots",
+        "meigs-46day"
+      ]
+    },
+    {
+      "id": "county-dd",
+      "kind": "levy",
+      "jurisdiction": "Meigs County",
+      "title": "Tax levy (additional): Maintenance, capital construction, and operation for persons with cognitive and other developmental disabilities of the Meigs County Board of Developmental Disabilities",
+      "area": "Meigs County",
+      "levy": {
+        "type": "Additional",
+        "purpose": "Maintenance, capital construction, and operation for persons with cognitive and other developmental disabilities of the Meigs County Board of Developmental Disabilities.",
+        "mills": "2 mills",
+        "term": "5 years, commencing in 2027",
+        "firstDue": "2028",
+        "estimate": "$1,201,518 a year; $70 for each $100,000 of market value"
+      },
+      "sources": [
+        "meigs-ballots",
+        "meigs-46day"
+      ]
+    },
+    {
+      "id": "county-sheriff",
+      "kind": "levy",
+      "jurisdiction": "Meigs County",
+      "title": "Tax levy (additional): Operating the Office of the Sheriff, including motor vehicles, communications and other equipment, buildings and sites, and the salaries of deputies, communications and administrative personnel, and other related operating costs",
+      "area": "Meigs County",
+      "levy": {
+        "type": "Additional",
+        "purpose": "Operating the Office of the Sheriff, including motor vehicles, communications and other equipment, buildings and sites, and the salaries of deputies, communications and administrative personnel, and other related operating costs.",
+        "mills": "2.88 mills",
+        "term": "Continuing, commencing in 2026",
+        "firstDue": "2027",
+        "estimate": "$1,730,186 a year; $100.80 for each $100,000 of market value"
+      },
+      "sources": [
+        "meigs-ballots",
+        "meigs-46day"
+      ]
+    },
+    {
+      "id": "bedford-twp-fire",
+      "kind": "levy",
+      "jurisdiction": "Bedford Township",
+      "title": "Tax levy (additional): Fire protection and other emergency services",
+      "area": "Bedford precincts",
+      "places": [
+        "Bedford Township"
+      ],
+      "levy": {
+        "type": "Additional",
+        "purpose": "Fire protection and other emergency services.",
+        "mills": "0.5 mill",
+        "term": "5 years, commencing in 2026",
+        "firstDue": "2027",
+        "estimate": "$17,676 a year; $17 for each $100,000 of market value"
+      },
+      "sources": [
+        "meigs-ballots",
+        "meigs-46day"
+      ]
+    },
+    {
+      "id": "chester-twp-roads",
+      "kind": "levy",
+      "jurisdiction": "Chester Township",
+      "title": "Tax levy (renewal): Road improvement",
+      "area": "East Chester and West Chester precincts",
+      "places": [
+        "Chester Township"
+      ],
+      "levy": {
+        "type": "Renewal",
+        "purpose": "Road improvement.",
+        "mills": "1 mill",
+        "term": "5 years, commencing in 2027",
+        "firstDue": "2028",
+        "estimate": "$63,657 a year; $35 for each $100,000 of market value"
+      },
+      "sources": [
+        "meigs-ballots",
+        "meigs-46day"
+      ]
+    },
+    {
+      "id": "alexander-lsd-income-tax",
+      "kind": "question",
+      "jurisdiction": "Alexander Local School District (Athens, Meigs and Vinton)",
+      "title": "School district income tax: 0.75 percent, 5 years, current expenses",
+      "area": "Columbia precinct",
+      "places": [
+        "Columbia Township"
+      ],
+      "text": "Shall an annual income tax of 0.75 percent on the earned income of individuals residing in the school district be imposed by Alexander Local School District, for 5 years, beginning January 1, 2027, for the purpose of current expenses?",
+      "sources": [
+        "meigs-ballots",
+        "meigs-46day"
+      ]
+    },
+    {
+      "id": "columbia-twp-fire",
+      "kind": "levy",
+      "jurisdiction": "Columbia Township",
+      "title": "Tax levy (additional): Construction and structural improvement for the Fire Department",
+      "area": "Columbia precinct",
+      "places": [
+        "Columbia Township"
+      ],
+      "levy": {
+        "type": "Additional",
+        "purpose": "Construction and structural improvement for the Fire Department.",
+        "mills": "5 mills",
+        "term": "5 years, commencing in 2026",
+        "firstDue": "2027",
+        "estimate": "$247,707 a year; $175 for each $100,000 of market value"
+      },
+      "sources": [
+        "meigs-ballots",
+        "meigs-46day"
+      ]
+    },
+    {
+      "id": "lebanon-twp-roads",
+      "kind": "levy",
+      "jurisdiction": "Lebanon Township",
+      "title": "Tax levy (renewal): Road maintenance",
+      "area": "Lebanon precincts",
+      "places": [
+        "Lebanon Township"
+      ],
+      "levy": {
+        "type": "Renewal",
+        "purpose": "Road maintenance.",
+        "mills": "1.5 mills",
+        "term": "5 years, commencing in 2026",
+        "firstDue": "2027",
+        "estimate": "$36,788 a year; $53 for each $100,000 of market value"
+      },
+      "sources": [
+        "meigs-ballots",
+        "meigs-46day"
+      ]
+    },
+    {
+      "id": "olive-twp-cemeteries",
+      "kind": "levy",
+      "jurisdiction": "Olive Township",
+      "title": "Tax levy (renewal): Maintaining and operating cemeteries",
+      "area": "North Olive and South Olive precincts",
+      "places": [
+        "Olive Township"
+      ],
+      "levy": {
+        "type": "Renewal",
+        "purpose": "Maintaining and operating cemeteries.",
+        "mills": "1 mill",
+        "term": "5 years, commencing in 2026",
+        "firstDue": "2027",
+        "estimate": "$14,293 a year; $35 for each $100,000 of market value"
+      },
+      "sources": [
+        "meigs-ballots",
+        "meigs-46day"
+      ]
+    },
+    {
+      "id": "rutland-twp-cemeteries",
+      "kind": "levy",
+      "jurisdiction": "Rutland Township (including Rutland Village)",
+      "title": "Tax levy (renewal): Maintaining and operating cemeteries",
+      "area": "Rutland Village, East Rutland and West Rutland precincts",
+      "places": [
+        "Rutland Township",
+        "Rutland Village"
+      ],
+      "levy": {
+        "type": "Renewal",
+        "purpose": "Maintaining and operating cemeteries.",
+        "mills": "1 mill",
+        "term": "5 years, commencing in 2027",
+        "firstDue": "2028",
+        "estimate": "$21,133 a year; $35 for each $100,000 of market value"
+      },
+      "sources": [
+        "meigs-ballots",
+        "meigs-46day"
+      ]
+    },
+    {
+      "id": "rutland-twp-roads",
+      "kind": "levy",
+      "jurisdiction": "Rutland Township (including Rutland Village)",
+      "title": "Tax levy (renewal): Road maintenance",
+      "area": "Rutland Village, East Rutland and West Rutland precincts",
+      "places": [
+        "Rutland Township",
+        "Rutland Village"
+      ],
+      "levy": {
+        "type": "Renewal",
+        "purpose": "Road maintenance.",
+        "mills": "2.16 mills",
+        "term": "5 years, commencing in 2026",
+        "firstDue": "2027",
+        "estimate": "$44,153 a year; $76 for each $100,000 of market value"
+      },
+      "sources": [
+        "meigs-ballots",
+        "meigs-46day"
+      ]
+    },
+    {
+      "id": "salem-twp-fire",
+      "kind": "levy",
+      "jurisdiction": "Salem Township",
+      "title": "Tax levy (renewal): Fire Department maintenance",
+      "area": "Salem precinct",
+      "places": [
+        "Salem Township"
+      ],
+      "levy": {
+        "type": "Renewal",
+        "purpose": "Fire Department maintenance.",
+        "mills": "1 mill",
+        "term": "5 years, commencing in 2026",
+        "firstDue": "2027",
+        "estimate": "$21,020 a year; $35 for each $100,000 of market value"
+      },
+      "sources": [
+        "meigs-ballots",
+        "meigs-46day"
+      ]
+    },
+    {
+      "id": "salem-twp-roads",
+      "kind": "levy",
+      "jurisdiction": "Salem Township",
+      "title": "Tax levy (renewal): Road maintenance",
+      "area": "Salem precinct",
+      "places": [
+        "Salem Township"
+      ],
+      "levy": {
+        "type": "Renewal",
+        "purpose": "Road maintenance.",
+        "mills": "2.92 mills",
+        "term": "5 years, commencing in 2026",
+        "firstDue": "2027",
+        "estimate": "$77,391 a year; $102 for each $100,000 of market value"
+      },
+      "sources": [
+        "meigs-ballots",
+        "meigs-46day"
+      ]
+    },
+    {
+      "id": "middleport-current-expenses",
+      "kind": "levy",
+      "jurisdiction": "Middleport Village",
+      "title": "Tax levy (additional): Current expenses",
+      "area": "Middleport 2nd, 3rd and 4th precincts",
+      "places": [
+        "Middleport Village"
+      ],
+      "levy": {
+        "type": "Additional",
+        "purpose": "Current expenses.",
+        "mills": "3 mills",
+        "term": "5 years, commencing in 2027",
+        "firstDue": "2028",
+        "estimate": "$82,569 a year; $105 for each $100,000 of market value"
+      },
+      "sources": [
+        "meigs-ballots",
+        "meigs-46day"
+      ]
+    },
+    {
+      "id": "middleport-fire",
+      "kind": "levy",
+      "jurisdiction": "Middleport Village",
+      "title": "Tax levy (additional): Fire levy",
+      "area": "Middleport 2nd, 3rd and 4th precincts",
+      "places": [
+        "Middleport Village"
+      ],
+      "levy": {
+        "type": "Additional",
+        "purpose": "Fire levy.",
+        "mills": "2 mills",
+        "term": "5 years, commencing in 2027",
+        "firstDue": "2028",
+        "estimate": "$55,046 a year; $70 for each $100,000 of market value"
+      },
+      "sources": [
+        "meigs-ballots",
+        "meigs-46day"
+      ]
+    },
+    {
+      "id": "racine-operating",
+      "kind": "levy",
+      "jurisdiction": "Racine Village",
+      "title": "Tax levy (additional): Additional expense operating levy",
+      "area": "Racine Village precinct",
+      "places": [
+        "Racine Village"
+      ],
+      "levy": {
+        "type": "Additional",
+        "purpose": "Additional expense operating levy.",
+        "mills": "3 mills",
+        "term": "5 years, commencing in 2026",
+        "firstDue": "2027",
+        "estimate": "$33,112 a year; $105 for each $100,000 of market value"
+      },
+      "sources": [
+        "meigs-ballots"
+      ]
+    },
+    {
+      "id": "liquor-sikorskis-racine",
+      "kind": "liquor",
+      "jurisdiction": "Racine Village",
+      "title": "Local liquor option: Sikorski's Riverway Grill (D-5 permit)",
+      "area": "Racine Village precinct",
+      "places": [
+        "Racine Village"
+      ],
+      "text": "Shall the sale of beer, wine, mixed beverages and spirituous liquor be permitted by Stephanie Sikorski D.B.A. Sikorski's Riverway Grill, an applicant for a D-5 liquor permit, who is engaged in the business of restaurant at 301 3rd St., Racine (Racine Village), Oh 45771 in this precinct?",
+      "sources": [
+        "meigs-ballots",
+        "meigs-46day"
+      ]
+    },
+    {
+      "id": "liquor-sikorskis-racine-sunday",
+      "kind": "liquor",
+      "jurisdiction": "Racine Village",
+      "title": "Local liquor option: Sikorski's Riverway Grill (Sunday sales)",
+      "area": "Racine Village precinct",
+      "places": [
+        "Racine Village"
+      ],
+      "text": "Shall the sale of beer, wine, mixed beverages and spirituous liquor be permitted for sale on Sunday by Stephanie Sikorski D.B.A. Sikorski's Riverway Grill, an applicant for a D-5 liquor permit, who is engaged in the business of restaurant at 301 3rd St., Racine (Racine Village), Oh 45771 in this precinct?",
+      "sources": [
+        "meigs-ballots",
+        "meigs-46day"
+      ]
+    },
+    {
+      "id": "syracuse-fire",
+      "kind": "levy",
+      "jurisdiction": "Syracuse Village",
+      "title": "Tax levy (renewal): Fire protection",
+      "area": "Syracuse Village precinct",
+      "places": [
+        "Syracuse Village"
+      ],
+      "levy": {
+        "type": "Renewal",
+        "purpose": "Fire protection.",
+        "mills": "1 mill",
+        "term": "5 years, commencing in 2027",
+        "firstDue": "2028",
+        "estimate": "$10,139 a year; $35 for each $100,000 of market value"
+      },
+      "sources": [
+        "meigs-ballots",
+        "meigs-46day"
+      ]
+    }
+  ]
+}

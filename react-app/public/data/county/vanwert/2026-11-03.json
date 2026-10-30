@@ -1,0 +1,468 @@
+{
+  "scope": "county",
+  "county": "Van Wert",
+  "fips": "39161",
+  "election": "2026-11-03",
+  "retrieved": "2026-10-30",
+  "notes": [
+    "Taken from the Board of Elections' 46-day election notice, which lists every contest and issue with the precincts that vote on it, checked against the Board's sample ballots, which give the full ballot wording and the county auditor's estimates.",
+    "Candidates are listed alphabetically by last name, not in ballot order: Ohio rotates the order of names from precinct to precinct. Certified write-in candidates are not printed on the ballot and are not listed.",
+    "\"Where you live\" uses the state voter file: a district or school levy is shown for a city, village or township when any of its voters live in that district. Your exact ballot depends on your precinct.",
+    "The Board's notice and sample ballots do not give local issue numbers."
+  ],
+  "places": [
+    "Convoy Village",
+    "Delphos City",
+    "Elgin Village",
+    "Harrison Township",
+    "Hoaglin Township",
+    "Jackson Township",
+    "Jennings Township",
+    "Liberty Township",
+    "Middle Point Village",
+    "Ohio City Village",
+    "Pleasant Township",
+    "Ridge Township",
+    "Scott Village",
+    "Tully Township",
+    "Union Township",
+    "Van Wert City",
+    "Venedocia Village",
+    "Washington Township",
+    "Willshire Township",
+    "Willshire Village",
+    "Wren Village",
+    "York Township"
+  ],
+  "sources": {
+    "vanwert-46day": {
+      "label": "Van Wert County Board of Elections: 46-day election notice (FWAB), November 3, 2026 General Election (revised 9/8/2026)",
+      "url": "https://www.boe.ohio.gov/vanwert/c/upload/FWAB_11November46Day.pdf"
+    },
+    "vanwert-ballots": {
+      "label": "Van Wert County Board of Elections: official sample ballots for all 47 precinct splits, November 3, 2026 (state ballot lookup)",
+      "url": "https://lookup.boe.ohio.gov/vtrapp/vanwert/ballotlist.aspx"
+    }
+  },
+  "links": [
+    {
+      "label": "Board of Elections",
+      "url": "https://www.boe.ohio.gov/vanwert/"
+    },
+    {
+      "label": "Election information",
+      "url": "https://www.boe.ohio.gov/vanwert/election-info/"
+    },
+    {
+      "label": "Federal write-in absentee ballot notices",
+      "url": "https://www.boe.ohio.gov/vanwert/election-info/federal-write-in-absentee-ballots/"
+    },
+    {
+      "label": "Sample ballots by precinct",
+      "url": "https://lookup.boe.ohio.gov/vtrapp/vanwert/ballotlist.aspx"
+    }
+  ],
+  "results": {
+    "status": "upcoming",
+    "links": [
+      {
+        "label": "Board of Elections: election results",
+        "url": "https://www.boe.ohio.gov/vanwert/election-info/election-results/"
+      }
+    ]
+  },
+  "contests": [
+    {
+      "id": "congress-4",
+      "group": "U.S. House",
+      "office": "Representative to Congress",
+      "detail": "4th District",
+      "candidates": [
+        {
+          "name": "Jim Jordan",
+          "party": "REP"
+        },
+        {
+          "name": "Joshua D. Kolasinski",
+          "party": "DEM"
+        },
+        {
+          "name": "Tracey L. Tackett",
+          "party": "Nonparty"
+        }
+      ],
+      "sources": [
+        "vanwert-46day",
+        "vanwert-ballots"
+      ]
+    },
+    {
+      "id": "senate-1",
+      "group": "Ohio General Assembly",
+      "office": "State Senator",
+      "detail": "1st District · full term commencing January 1, 2027",
+      "candidates": [
+        {
+          "name": "Craig S. Riedel",
+          "party": "REP"
+        }
+      ],
+      "sources": [
+        "vanwert-46day",
+        "vanwert-ballots"
+      ]
+    },
+    {
+      "id": "rep-82",
+      "group": "Ohio General Assembly",
+      "office": "State Representative",
+      "detail": "82nd District",
+      "candidates": [
+        {
+          "name": "Christopher Elder",
+          "party": "LIB"
+        },
+        {
+          "name": "Roy W. Klopfenstein",
+          "party": "REP"
+        },
+        {
+          "name": "Maddux McCray",
+          "party": "DEM"
+        }
+      ],
+      "sources": [
+        "vanwert-46day",
+        "vanwert-ballots"
+      ]
+    },
+    {
+      "id": "appeals-3-0209",
+      "group": "Ohio Court of Appeals",
+      "office": "Judge of the Court of Appeals",
+      "detail": "3rd District · full term commencing February 9, 2027",
+      "candidates": [
+        {
+          "name": "Mark C. Miller",
+          "party": "REP"
+        }
+      ],
+      "sources": [
+        "vanwert-46day",
+        "vanwert-ballots"
+      ]
+    },
+    {
+      "id": "commissioner",
+      "group": "County offices",
+      "office": "County Commissioner",
+      "detail": "Full term commencing January 1, 2027",
+      "candidates": [
+        {
+          "name": "Thad Lichtensteiger",
+          "party": "REP"
+        }
+      ],
+      "sources": [
+        "vanwert-46day",
+        "vanwert-ballots"
+      ]
+    },
+    {
+      "id": "auditor",
+      "group": "County offices",
+      "office": "County Auditor",
+      "candidates": [
+        {
+          "name": "Arica L. Wermer",
+          "party": "REP"
+        }
+      ],
+      "sources": [
+        "vanwert-46day",
+        "vanwert-ballots"
+      ]
+    },
+    {
+      "id": "prosecutor",
+      "group": "County offices",
+      "office": "Prosecuting Attorney",
+      "detail": "Unexpired term ending December 31, 2028",
+      "candidates": [
+        {
+          "name": "Dillon W. Staas, IV",
+          "party": "REP"
+        }
+      ],
+      "sources": [
+        "vanwert-46day",
+        "vanwert-ballots"
+      ]
+    },
+    {
+      "id": "cp-juvenile-probate",
+      "group": "Court of Common Pleas",
+      "office": "Judge of the Court of Common Pleas, Juvenile/Probate Division",
+      "detail": "Full term commencing February 9, 2027 · no party label on the ballot",
+      "candidates": [
+        {
+          "name": "Eva J. Yarger"
+        }
+      ],
+      "sources": [
+        "vanwert-46day",
+        "vanwert-ballots"
+      ]
+    }
+  ],
+  "issues": [
+    {
+      "id": "convoy-operating-1",
+      "kind": "levy",
+      "jurisdiction": "Village of Convoy",
+      "title": "Tax levy (renewal): Operating expenses",
+      "area": "Convoy Village (precinct Convoy 23/1)",
+      "places": [
+        "Convoy Village"
+      ],
+      "levy": {
+        "type": "Renewal",
+        "purpose": "Operating expenses.",
+        "mills": "2 mills",
+        "term": "5 years, commencing in 2027",
+        "firstDue": "2028",
+        "estimate": "$8,957 a year; $14 for each $100,000 of the county auditor's market value"
+      },
+      "note": "Convoy Village has two 2-mill operating renewals on this ballot, with the same wording and estimate.",
+      "sources": [
+        "vanwert-46day",
+        "vanwert-ballots"
+      ]
+    },
+    {
+      "id": "convoy-operating-2",
+      "kind": "levy",
+      "jurisdiction": "Village of Convoy",
+      "title": "Tax levy (renewal): Operating expenses",
+      "area": "Convoy Village (precinct Convoy 23/1)",
+      "places": [
+        "Convoy Village"
+      ],
+      "levy": {
+        "type": "Renewal",
+        "purpose": "Operating expenses.",
+        "mills": "2 mills",
+        "term": "5 years, commencing in 2027",
+        "firstDue": "2028",
+        "estimate": "$8,957 a year; $14 for each $100,000 of the county auditor's market value"
+      },
+      "note": "Convoy Village has two 2-mill operating renewals on this ballot, with the same wording and estimate.",
+      "sources": [
+        "vanwert-46day",
+        "vanwert-ballots"
+      ]
+    },
+    {
+      "id": "venedocia-fire",
+      "kind": "levy",
+      "jurisdiction": "Village of Venedocia",
+      "title": "Tax levy (renewal): Fire protection",
+      "area": "Venedocia Village (precincts Jennings 1, York 2)",
+      "places": [
+        "Venedocia Village"
+      ],
+      "levy": {
+        "type": "Renewal",
+        "purpose": "Fire protection.",
+        "mills": "1.2 mills",
+        "term": "5 years, commencing in 2027",
+        "firstDue": "2028",
+        "estimate": "$1,282 a year; $24 for each $100,000 of the county auditor's market value"
+      },
+      "sources": [
+        "vanwert-46day",
+        "vanwert-ballots"
+      ]
+    },
+    {
+      "id": "jackson-twp-fire-ems",
+      "kind": "levy",
+      "jurisdiction": "Jackson Township",
+      "title": "Tax levy (renewal): Fire and EMS service",
+      "area": "Jackson Township (precinct Jackson 16/1)",
+      "places": [
+        "Jackson Township"
+      ],
+      "levy": {
+        "type": "Renewal",
+        "purpose": "Fire and EMS service.",
+        "mills": "1.8 mills",
+        "term": "5 years, commencing in 2027",
+        "firstDue": "2028",
+        "estimate": "$43,900 a year; $40 for each $100,000 of the county auditor's market value"
+      },
+      "sources": [
+        "vanwert-46day",
+        "vanwert-ballots"
+      ]
+    },
+    {
+      "id": "liberty-twp-fire",
+      "kind": "levy",
+      "jurisdiction": "Liberty Township (excluding the Village of Ohio City)",
+      "title": "Tax levy (renewal): Fire protection",
+      "area": "Liberty Township outside Ohio City (precinct Liberty 19/1)",
+      "places": [
+        "Liberty Township"
+      ],
+      "levy": {
+        "type": "Renewal",
+        "purpose": "Fire protection.",
+        "mills": "1.4 mills",
+        "term": "3 years, commencing in 2027",
+        "firstDue": "2028",
+        "estimate": "$36,392 a year; $27 for each $100,000 of the county auditor's market value"
+      },
+      "sources": [
+        "vanwert-46day",
+        "vanwert-ballots"
+      ]
+    },
+    {
+      "id": "union-twp-current",
+      "kind": "levy",
+      "jurisdiction": "Union Township",
+      "title": "Tax levy (renewal): Current expenses",
+      "area": "Union Township (precincts Union 1, Union 2)",
+      "places": [
+        "Scott Village",
+        "Union Township"
+      ],
+      "levy": {
+        "type": "Renewal",
+        "purpose": "Current expenses.",
+        "mills": "1 mill",
+        "term": "5 years, commencing in 2027",
+        "firstDue": "2028",
+        "estimate": "$24,811 a year; $11 for each $100,000 of the county auditor's market value"
+      },
+      "sources": [
+        "vanwert-46day",
+        "vanwert-ballots"
+      ]
+    },
+    {
+      "id": "washington-west-fire",
+      "kind": "levy",
+      "jurisdiction": "Washington Township West Fire District",
+      "title": "Tax levy (renewal): Fire and EMS services",
+      "area": "Washington Township West Fire District (precinct Washington West 1, 28/1)",
+      "places": [
+        "Washington Township"
+      ],
+      "levy": {
+        "type": "Renewal",
+        "purpose": "Fire and EMS services.",
+        "mills": "1 mill",
+        "term": "5 years, commencing in 2027",
+        "firstDue": "2028",
+        "estimate": "$23,002 a year; $19 for each $100,000 of the county auditor's market value"
+      },
+      "sources": [
+        "vanwert-46day",
+        "vanwert-ballots"
+      ]
+    },
+    {
+      "id": "tully-convoy-park",
+      "kind": "levy",
+      "jurisdiction": "Tully-Convoy Park District",
+      "title": "Tax levy (renewal): Current operating expense and future improvements",
+      "area": "Tully-Convoy Park District (precincts Convoy 23/1, Tully 24/1)",
+      "places": [
+        "Convoy Village",
+        "Tully Township"
+      ],
+      "levy": {
+        "type": "Renewal",
+        "purpose": "Current operating expense and future improvements.",
+        "mills": "1 mill",
+        "term": "5 years, commencing in 2027",
+        "firstDue": "2028",
+        "estimate": "$69,086 a year; $23 for each $100,000 of the county auditor's market value"
+      },
+      "sources": [
+        "vanwert-46day",
+        "vanwert-ballots"
+      ]
+    },
+    {
+      "id": "crestview-lsd-pi",
+      "kind": "levy",
+      "jurisdiction": "Crestview Local School District",
+      "title": "Tax levy (renewal): Permanent improvements",
+      "area": "Crestview Local School District (precincts Harrison, Convoy, Tully, Union 1, Wren 1 and 2, Pleasant North 2)",
+      "places": [
+        "Convoy Village",
+        "Harrison Township",
+        "Pleasant Township",
+        "Tully Township",
+        "Union Township",
+        "Willshire Township",
+        "Wren Village"
+      ],
+      "levy": {
+        "type": "Renewal",
+        "purpose": "Permanent improvements.",
+        "mills": "2 mills",
+        "term": "5 years, commencing in 2027",
+        "firstDue": "2028",
+        "estimate": "$221,314 a year; $26 for each $100,000 of the county auditor's market value"
+      },
+      "sources": [
+        "vanwert-46day",
+        "vanwert-ballots"
+      ]
+    },
+    {
+      "id": "delphos-csd-current",
+      "kind": "levy",
+      "jurisdiction": "Delphos City School District",
+      "title": "Tax levy (renewal): Current expenses",
+      "area": "Delphos City School District (Allen and Van Wert counties; Van Wert County precincts Delphos 3A, 3B, 4A, Jennings 2, Washington East, Washington West 2)",
+      "places": [
+        "Delphos City",
+        "Jennings Township",
+        "Washington Township"
+      ],
+      "levy": {
+        "type": "Renewal",
+        "purpose": "Current expenses.",
+        "mills": "5.5 mills",
+        "term": "5 years, commencing in 2027",
+        "firstDue": "2028",
+        "estimate": "$929,532 a year; $83 for each $100,000 of the county auditor's market value"
+      },
+      "sources": [
+        "vanwert-46day",
+        "vanwert-ballots"
+      ]
+    },
+    {
+      "id": "spencerville-lsd-income-tax",
+      "kind": "question",
+      "jurisdiction": "Spencerville Local School District",
+      "title": "School district income tax: 1% renewal for 5 years, for current expenses",
+      "area": "Spencerville Local School District (Allen, Auglaize and Van Wert counties; Van Wert County precincts Jennings 1, Jennings 4)",
+      "places": [
+        "Jennings Township",
+        "Venedocia Village"
+      ],
+      "text": "Shall an annual income tax of 1% on the school district income of individuals and of estates be imposed by Spencerville Local School District, to renew an income tax (or income taxes) expiring at the end of 2027, for 5 years, beginning January 1, 2028, for the purpose of current expenses?",
+      "sources": [
+        "vanwert-46day",
+        "vanwert-ballots"
+      ]
+    }
+  ]
+}

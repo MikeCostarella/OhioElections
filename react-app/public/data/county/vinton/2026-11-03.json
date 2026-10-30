@@ -1,0 +1,475 @@
+{
+  "scope": "county",
+  "county": "Vinton",
+  "fips": "39163",
+  "election": "2026-11-03",
+  "retrieved": "2026-10-30",
+  "notes": [
+    "Taken from the Board of Elections' 46-day election notice, which lists every contest and issue with the precincts that vote on it, checked against the Board's precinct sample ballots. Issue wording is from the sample ballots.",
+    "Candidates are listed alphabetically by last name, not in ballot order: Ohio rotates the order of names from precinct to precinct. Certified write-in candidates are not printed on the ballot and are not listed.",
+    "\"Where you live\" uses the state voter file: a district or school levy is shown for a city, village or township when any of its voters live in that district. Your exact ballot depends on your precinct.",
+    "The Board's notice and sample ballots do not give local issue numbers.",
+    "Court of Appeals: the 46-day notice (revised September 18, 2026) lists Peter B. Abele for the 4th District seat, but the Board's sample ballots list Jayme Hartley Fountain (Republican) and Todd L. Grace (Democratic); the sample ballots are shown here."
+  ],
+  "places": [
+    "Brown Township",
+    "Clinton Township",
+    "Eagle Township",
+    "Elk Township",
+    "Hamden Village",
+    "Harrison Township",
+    "Jackson Township",
+    "Knox Township",
+    "Madison Township",
+    "McArthur Village",
+    "Richland Township",
+    "Swan Township",
+    "Vinton Township",
+    "Wilkesville Township",
+    "Wilkesville Village",
+    "Zaleski Village"
+  ],
+  "sources": {
+    "vinton-46day": {
+      "label": "Vinton County Board of Elections: 46-day election notice (FWAB), November 3, 2026 General Election (revised September 18, 2026)",
+      "url": "https://www.boe.ohio.gov/vinton/c/upload/FWAB_11November46Day.pdf"
+    },
+    "vinton-ballots": {
+      "label": "Vinton County Board of Elections: precinct sample ballots, November 3, 2026 General Election (election data updated October 5, 2026)",
+      "url": "https://lookup.boe.ohio.gov/vtrapp/vinton/ballotlist.aspx"
+    }
+  },
+  "links": [
+    {
+      "label": "Board of Elections",
+      "url": "https://www.boe.ohio.gov/vinton/"
+    },
+    {
+      "label": "Federal write-in absentee ballot notices",
+      "url": "https://www.boe.ohio.gov/vinton/election-info/federal-write-in-absentee-ballots/"
+    },
+    {
+      "label": "Sample ballots by precinct",
+      "url": "https://lookup.boe.ohio.gov/vtrapp/vinton/ballotlist.aspx"
+    }
+  ],
+  "results": {
+    "status": "upcoming",
+    "links": [
+      {
+        "label": "Board of Elections: election results",
+        "url": "https://www.boe.ohio.gov/vinton/election-info/election-results/"
+      }
+    ]
+  },
+  "contests": [
+    {
+      "id": "congress-2",
+      "group": "U.S. House",
+      "office": "Representative to Congress",
+      "detail": "2nd District",
+      "candidates": [
+        {
+          "name": "Jen Mazzuckelli",
+          "party": "DEM"
+        },
+        {
+          "name": "David J. Taylor",
+          "party": "REP"
+        }
+      ],
+      "sources": [
+        "vinton-46day",
+        "vinton-ballots"
+      ]
+    },
+    {
+      "id": "senate-17",
+      "group": "Ohio General Assembly",
+      "office": "State Senator",
+      "detail": "17th District",
+      "candidates": [
+        {
+          "name": "Brian A. Deer",
+          "party": "DEM"
+        },
+        {
+          "name": "Shane Wilkin",
+          "party": "REP"
+        }
+      ],
+      "sources": [
+        "vinton-46day",
+        "vinton-ballots"
+      ]
+    },
+    {
+      "id": "rep-92",
+      "group": "Ohio General Assembly",
+      "office": "State Representative",
+      "detail": "92nd District",
+      "candidates": [
+        {
+          "name": "Mark Johnson",
+          "party": "REP"
+        },
+        {
+          "name": "Sarah Senff",
+          "party": "DEM"
+        }
+      ],
+      "sources": [
+        "vinton-46day",
+        "vinton-ballots"
+      ]
+    },
+    {
+      "id": "appeals-4-0209",
+      "group": "Ohio Court of Appeals",
+      "office": "Judge of the Court of Appeals",
+      "detail": "4th District · full term commencing February 9, 2027",
+      "candidates": [
+        {
+          "name": "Jayme Hartley Fountain",
+          "party": "REP"
+        },
+        {
+          "name": "Todd L. Grace",
+          "party": "DEM"
+        }
+      ],
+      "sources": [
+        "vinton-ballots",
+        "vinton-46day"
+      ]
+    },
+    {
+      "id": "commissioner",
+      "group": "County offices",
+      "office": "County Commissioner",
+      "detail": "Full term commencing January 1, 2027",
+      "candidates": [
+        {
+          "name": "Steven Ray Hammond",
+          "party": "DEM"
+        },
+        {
+          "name": "C. Scott Ward",
+          "party": "REP"
+        }
+      ],
+      "sources": [
+        "vinton-46day",
+        "vinton-ballots"
+      ]
+    },
+    {
+      "id": "auditor",
+      "group": "County offices",
+      "office": "County Auditor",
+      "detail": "Full term commencing March 8, 2027",
+      "candidates": [
+        {
+          "name": "Cindy Ann Waugh",
+          "party": "REP"
+        }
+      ],
+      "sources": [
+        "vinton-46day",
+        "vinton-ballots"
+      ]
+    },
+    {
+      "id": "cp-juvenile",
+      "group": "Court of Common Pleas",
+      "office": "Judge of the Court of Common Pleas, Juvenile Division",
+      "detail": "Full term commencing February 9, 2027 · no party label on the ballot",
+      "candidates": [
+        {
+          "name": "Jeffrey Randolph Griffith"
+        }
+      ],
+      "sources": [
+        "vinton-ballots",
+        "vinton-46day"
+      ]
+    },
+    {
+      "id": "richland-trustee",
+      "group": "Township offices",
+      "office": "Township Trustee (Richland Township)",
+      "detail": "Unexpired term ending December 31, 2029 · no party label on the ballot",
+      "area": "Richland Township (precincts Richland Northwest and Richland Southeast)",
+      "places": [
+        "Richland Township"
+      ],
+      "candidates": [
+        {
+          "name": "Travis G. Faught"
+        }
+      ],
+      "sources": [
+        "vinton-ballots",
+        "vinton-46day"
+      ]
+    },
+    {
+      "id": "swan-trustee",
+      "group": "Township offices",
+      "office": "Township Trustee (Swan Township)",
+      "detail": "Unexpired term ending December 31, 2029 · no party label on the ballot",
+      "area": "Swan Township (precincts Swan Township 1 and 2)",
+      "places": [
+        "Swan Township"
+      ],
+      "candidates": [
+        {
+          "name": "Nathan Leland Durr"
+        },
+        {
+          "name": "Jerrod Loren Schorr"
+        }
+      ],
+      "sources": [
+        "vinton-ballots",
+        "vinton-46day"
+      ]
+    }
+  ],
+  "issues": [
+    {
+      "id": "county-health",
+      "kind": "levy",
+      "jurisdiction": "Vinton County",
+      "title": "Tax levy (renewal): Providing sufficient funds to carry out the health programs of the Vinton County health district",
+      "area": "Vinton County",
+      "levy": {
+        "type": "Renewal",
+        "purpose": "Providing sufficient funds to carry out the health programs of the Vinton County health district.",
+        "mills": "1 mill",
+        "term": "5 years, commencing in 2027",
+        "firstDue": "2028",
+        "estimate": "$457,712 a year; $26 for each $100,000 of the county auditor's market value"
+      },
+      "sources": [
+        "vinton-ballots",
+        "vinton-46day"
+      ]
+    },
+    {
+      "id": "hamden-police",
+      "kind": "levy",
+      "jurisdiction": "Village of Hamden",
+      "title": "Tax levy (renewal): Providing and maintaining motor vehicles, communications, other equipment, buildings and sites used directly in the operation of a police department, police, communications or administrative personnel, contracted police protection, ambulance or emergency medical services operated by a police department, and other related costs",
+      "area": "Precincts Hamden North and Hamden South",
+      "places": [
+        "Hamden Village"
+      ],
+      "levy": {
+        "type": "Renewal",
+        "purpose": "Providing and maintaining motor vehicles, communications, other equipment, buildings and sites used directly in the operation of a police department, police, communications or administrative personnel, contracted police protection, ambulance or emergency medical services operated by a police department, and other related costs.",
+        "mills": "6 mills",
+        "term": "5 years, commencing in 2027",
+        "firstDue": "2028",
+        "estimate": "$34,962 a year; $118 for each $100,000 of the county auditor's market value"
+      },
+      "sources": [
+        "vinton-ballots",
+        "vinton-46day"
+      ]
+    },
+    {
+      "id": "hamden-fire",
+      "kind": "levy",
+      "jurisdiction": "Village of Hamden",
+      "title": "Tax levy (renewal): Providing and maintaining fire apparatus, mechanical resuscitators, underwater rescue and recovery equipment, appliances, buildings and sites, sources of water supply, fire-alarm communications, firefighting, emergency medical service, administrative or communications personnel, ambulance equipment and services, and other related costs",
+      "area": "Precincts Hamden North and Hamden South",
+      "places": [
+        "Hamden Village"
+      ],
+      "levy": {
+        "type": "Renewal",
+        "purpose": "Providing and maintaining fire apparatus, mechanical resuscitators, underwater rescue and recovery equipment, appliances, buildings and sites, sources of water supply, fire-alarm communications, firefighting, emergency medical service, administrative or communications personnel, ambulance equipment and services, and other related costs.",
+        "mills": "3 mills",
+        "term": "5 years, commencing in 2027",
+        "firstDue": "2028",
+        "estimate": "$22,874 a year; $80 for each $100,000 of the county auditor's market value"
+      },
+      "sources": [
+        "vinton-ballots",
+        "vinton-46day"
+      ]
+    },
+    {
+      "id": "mcarthur-operating",
+      "kind": "levy",
+      "jurisdiction": "Village of McArthur",
+      "title": "Tax levy (renewal): Current operating expenses",
+      "area": "Precincts McArthur East, McArthur Northwest and McArthur Southwest",
+      "places": [
+        "McArthur Village"
+      ],
+      "levy": {
+        "type": "Renewal",
+        "purpose": "Current operating expenses.",
+        "mills": "4 mills",
+        "term": "4 years, commencing in 2026",
+        "firstDue": "2027",
+        "estimate": "$69,833 a year; $85 for each $100,000 of the county auditor's market value"
+      },
+      "sources": [
+        "vinton-ballots",
+        "vinton-46day"
+      ]
+    },
+    {
+      "id": "mcarthur-police",
+      "kind": "levy",
+      "jurisdiction": "Village of McArthur",
+      "title": "Tax levy (renewal): Providing and maintaining motor vehicles, communications, other equipment, buildings and sites used directly in the operation of a police department, police, communications or administrative personnel, contracted police protection, and ambulance or emergency medical services operated by a police department",
+      "area": "Precincts McArthur East, McArthur Northwest and McArthur Southwest",
+      "places": [
+        "McArthur Village"
+      ],
+      "levy": {
+        "type": "Renewal",
+        "purpose": "Providing and maintaining motor vehicles, communications, other equipment, buildings and sites used directly in the operation of a police department, police, communications or administrative personnel, contracted police protection, and ambulance or emergency medical services operated by a police department.",
+        "mills": "3.5 mills",
+        "term": "4 years, commencing in 2026",
+        "firstDue": "2027",
+        "estimate": "$61,104 a year; $75 for each $100,000 of the county auditor's market value"
+      },
+      "sources": [
+        "vinton-ballots",
+        "vinton-46day"
+      ]
+    },
+    {
+      "id": "mcarthur-parks",
+      "kind": "levy",
+      "jurisdiction": "Village of McArthur",
+      "title": "Tax levy (renewal): Parks and recreational purposes",
+      "area": "Precincts McArthur East, McArthur Northwest and McArthur Southwest",
+      "places": [
+        "McArthur Village"
+      ],
+      "levy": {
+        "type": "Renewal",
+        "purpose": "Parks and recreational purposes.",
+        "mills": "1 mill",
+        "term": "4 years, commencing in 2026",
+        "firstDue": "2027",
+        "estimate": "$17,400 a year; $21 for each $100,000 of the county auditor's market value"
+      },
+      "sources": [
+        "vinton-ballots",
+        "vinton-46day"
+      ]
+    },
+    {
+      "id": "knox-roads",
+      "kind": "levy",
+      "jurisdiction": "Knox Township",
+      "title": "Tax levy (renewal): General construction, reconstruction, resurfacing, and repair of streets, roads, and bridges",
+      "area": "Precincts Knox Township 1 and 2",
+      "places": [
+        "Knox Township"
+      ],
+      "levy": {
+        "type": "Renewal",
+        "purpose": "General construction, reconstruction, resurfacing, and repair of streets, roads, and bridges.",
+        "mills": "2 mills",
+        "term": "5 years, commencing in 2026",
+        "firstDue": "2027",
+        "estimate": "$17,528 a year; $31 for each $100,000 of the county auditor's market value"
+      },
+      "sources": [
+        "vinton-ballots",
+        "vinton-46day"
+      ]
+    },
+    {
+      "id": "madison-cemeteries",
+      "kind": "levy",
+      "jurisdiction": "Madison Township (including Zaleski Village)",
+      "title": "Tax levy (renewal): Maintaining and operating cemeteries",
+      "area": "Precincts Zaleski Corp and Madison Township",
+      "places": [
+        "Madison Township",
+        "Zaleski Village"
+      ],
+      "levy": {
+        "type": "Renewal",
+        "purpose": "Maintaining and operating cemeteries.",
+        "mills": "1 mill",
+        "term": "5 years, commencing in 2026",
+        "firstDue": "2027",
+        "estimate": "$14,352 a year; $14 for each $100,000 of the county auditor's market value"
+      },
+      "sources": [
+        "vinton-ballots",
+        "vinton-46day"
+      ]
+    },
+    {
+      "id": "swan-cemeteries",
+      "kind": "levy",
+      "jurisdiction": "Swan Township",
+      "title": "Tax levy (renewal): Maintaining and operating cemeteries",
+      "area": "Precincts Swan Township 1 and 2",
+      "places": [
+        "Swan Township"
+      ],
+      "levy": {
+        "type": "Renewal",
+        "purpose": "Maintaining and operating cemeteries.",
+        "mills": "0.5 mill",
+        "term": "5 years, commencing in 2026",
+        "firstDue": "2027",
+        "estimate": "$10,213 a year; $4 for each $100,000 of the county auditor's market value"
+      },
+      "sources": [
+        "vinton-ballots",
+        "vinton-46day"
+      ]
+    },
+    {
+      "id": "wilkesville-garbage",
+      "kind": "levy",
+      "jurisdiction": "Wilkesville Township (including Wilkesville Village)",
+      "title": "Tax levy (renewal): Collection and disposal of garbage or refuse, including yard waste",
+      "area": "Precincts Wilkesville Corp and Wilkesville Township",
+      "places": [
+        "Wilkesville Township",
+        "Wilkesville Village"
+      ],
+      "levy": {
+        "type": "Renewal",
+        "purpose": "Collection and disposal of garbage or refuse, including yard waste.",
+        "mills": "0.5 mill",
+        "term": "5 years, commencing in 2026",
+        "firstDue": "2027",
+        "estimate": "$103,807 a year; $11 for each $100,000 of the county auditor's market value"
+      },
+      "sources": [
+        "vinton-ballots",
+        "vinton-46day"
+      ]
+    },
+    {
+      "id": "alexander-income-tax",
+      "kind": "question",
+      "jurisdiction": "Alexander Local School District (Athens, Meigs and Vinton)",
+      "title": "School district income tax: 0.75 percent, 5 years, current expenses",
+      "area": "Precinct Knox Township 2 (the part of Knox Township in the district)",
+      "places": [
+        "Knox Township"
+      ],
+      "text": "Shall an annual income tax of 0.75 percent on the earned income of individuals residing in the school district be imposed by Alexander Local School District, for 5 years, beginning January 1, 2027, for the purpose of current expenses?",
+      "sources": [
+        "vinton-ballots",
+        "vinton-46day"
+      ]
+    }
+  ]
+}

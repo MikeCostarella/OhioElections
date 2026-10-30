@@ -1,0 +1,264 @@
+{
+  "scope": "county",
+  "county": "Jackson",
+  "fips": "39079",
+  "election": "2026-11-03",
+  "retrieved": "2026-10-30",
+  "notes": [
+    "Taken from the Board of Elections' 46-day election notice, which lists every contest and issue with the precincts that vote on it, checked against the Board's precinct sample ballots. Issue wording is from the sample ballots and matches the notice.",
+    "Candidates are listed alphabetically by last name, not in ballot order: Ohio rotates the order of names from precinct to precinct. Certified write-in candidates are not printed on the ballot and are not listed.",
+    "\"Where you live\" uses the state voter file: a district or school levy is shown for a city, village or township when any of its voters live in that district. Your exact ballot depends on your precinct.",
+    "The Board's notice and sample ballots do not give local issue numbers.",
+    "Court of Appeals: Peter B. Abele (Republican) is still printed on the sample ballots for the 4th District seat; the Board's notice (revised October 15, 2026) says votes for him will not be counted due to his death and lists the replacement candidates certified October 5, 2026, Jayme Hartley Fountain (Republican) and Todd L. Grace (Democratic), as shown here."
+  ],
+  "places": [
+    "Bloomfield Township",
+    "Coal Township",
+    "Coalton Village",
+    "Franklin Township",
+    "Hamilton Township",
+    "Jackson City",
+    "Jackson Township",
+    "Jefferson Township",
+    "Liberty Township",
+    "Lick Township",
+    "Madison Township",
+    "Milton Township",
+    "Oak Hill Village",
+    "Scioto Township",
+    "Washington Township",
+    "Wellston City"
+  ],
+  "sources": {
+    "jackson-46day": {
+      "label": "Jackson County Board of Elections: 46-day election notice (FWAB), November 3, 2026 General Election (revised October 15, 2026)",
+      "url": "https://www.boe.ohio.gov/jackson/c/upload/FWAB_11November46Day.pdf"
+    },
+    "jackson-ballots": {
+      "label": "Jackson County Board of Elections: precinct sample ballots, November 3, 2026 General Election (election data updated October 6, 2026)",
+      "url": "https://lookup.boe.ohio.gov/vtrapp/jackson/ballotlist.aspx"
+    }
+  },
+  "links": [
+    {
+      "label": "Board of Elections",
+      "url": "https://www.boe.ohio.gov/jackson/"
+    },
+    {
+      "label": "Federal write-in absentee ballot notices",
+      "url": "https://www.boe.ohio.gov/jackson/election-info/federal-write-in-absentee-ballots/"
+    },
+    {
+      "label": "Sample ballots by precinct",
+      "url": "https://lookup.boe.ohio.gov/vtrapp/jackson/ballotlist.aspx"
+    }
+  ],
+  "results": {
+    "status": "upcoming",
+    "links": [
+      {
+        "label": "Board of Elections: election results",
+        "url": "https://www.boe.ohio.gov/jackson/election-info/election-results/"
+      }
+    ]
+  },
+  "contests": [
+    {
+      "id": "congress-2",
+      "group": "U.S. House",
+      "office": "Representative to Congress",
+      "detail": "2nd District",
+      "candidates": [
+        {
+          "name": "Jen Mazzuckelli",
+          "party": "DEM"
+        },
+        {
+          "name": "David J. Taylor",
+          "party": "REP"
+        }
+      ],
+      "sources": [
+        "jackson-46day",
+        "jackson-ballots"
+      ]
+    },
+    {
+      "id": "senate-17",
+      "group": "Ohio General Assembly",
+      "office": "State Senator",
+      "detail": "17th District",
+      "candidates": [
+        {
+          "name": "Brian A. Deer",
+          "party": "DEM"
+        },
+        {
+          "name": "Shane Wilkin",
+          "party": "REP"
+        }
+      ],
+      "sources": [
+        "jackson-46day",
+        "jackson-ballots"
+      ]
+    },
+    {
+      "id": "rep-93",
+      "group": "Ohio General Assembly",
+      "office": "State Representative",
+      "detail": "93rd District",
+      "candidates": [
+        {
+          "name": "Jessica Harper",
+          "party": "DEM"
+        },
+        {
+          "name": "Jason Stephens",
+          "party": "REP"
+        }
+      ],
+      "sources": [
+        "jackson-46day",
+        "jackson-ballots"
+      ]
+    },
+    {
+      "id": "appeals-4-0209",
+      "group": "Ohio Court of Appeals",
+      "office": "Judge of the Court of Appeals",
+      "detail": "4th District · full term commencing February 9, 2027",
+      "candidates": [
+        {
+          "name": "Jayme Hartley Fountain",
+          "party": "REP"
+        },
+        {
+          "name": "Todd L. Grace",
+          "party": "DEM"
+        }
+      ],
+      "sources": [
+        "jackson-46day",
+        "jackson-ballots"
+      ]
+    },
+    {
+      "id": "commissioner",
+      "group": "County offices",
+      "office": "County Commissioner",
+      "detail": "Full term commencing January 1, 2027",
+      "candidates": [
+        {
+          "name": "Jon Hensler",
+          "party": "REP"
+        }
+      ],
+      "sources": [
+        "jackson-46day",
+        "jackson-ballots"
+      ]
+    },
+    {
+      "id": "auditor",
+      "group": "County offices",
+      "office": "County Auditor",
+      "detail": "Full term commencing March 8, 2027",
+      "candidates": [
+        {
+          "name": "Tiffany Ridgeway",
+          "party": "REP"
+        }
+      ],
+      "sources": [
+        "jackson-46day",
+        "jackson-ballots"
+      ]
+    },
+    {
+      "id": "prosecutor",
+      "group": "County offices",
+      "office": "Prosecuting Attorney",
+      "detail": "Unexpired term ending December 31, 2028",
+      "candidates": [
+        {
+          "name": "Trenton Brown Douthett",
+          "party": "REP"
+        }
+      ],
+      "sources": [
+        "jackson-46day",
+        "jackson-ballots"
+      ]
+    },
+    {
+      "id": "cp-probate-juvenile",
+      "group": "Court of Common Pleas",
+      "office": "Judge of the Court of Common Pleas, Probate/Juvenile Division",
+      "detail": "Full term commencing February 9, 2027 · no party label on the ballot",
+      "candidates": [
+        {
+          "name": "Justin W. Skaggs"
+        }
+      ],
+      "sources": [
+        "jackson-46day",
+        "jackson-ballots"
+      ]
+    }
+  ],
+  "issues": [
+    {
+      "id": "liberty-fire",
+      "kind": "levy",
+      "jurisdiction": "Liberty Township",
+      "title": "Tax levy (renewal): Providing and maintaining fire apparatus, appliances, buildings or sites therefor for fire protection",
+      "area": "Liberty 1 and Liberty 2 precincts",
+      "places": [
+        "Liberty Township"
+      ],
+      "levy": {
+        "type": "Renewal",
+        "purpose": "Providing and maintaining fire apparatus, appliances, buildings or sites therefor for fire protection.",
+        "mills": "1.5 mills",
+        "term": "5 years, commencing in 2027",
+        "firstDue": "2028",
+        "estimate": "$75,576 a year; $125 for each $100,000 of market value"
+      },
+      "sources": [
+        "jackson-ballots",
+        "jackson-46day"
+      ]
+    },
+    {
+      "id": "liquor-stockroom-601",
+      "kind": "liquor",
+      "jurisdiction": "City of Jackson",
+      "title": "Local liquor option: Stockroom 601 (D-6 permit, Sunday sales)",
+      "area": "Jackson City precinct Jackson 1-A",
+      "places": [
+        "Jackson City"
+      ],
+      "text": "Shall the sale of wine and mixed beverages and spirituous liquor be permitted for sale on Sunday by AAC Mgmt., L.L.C., dba Stockroom 601 an applicant for a D-6 liquor permit who is engaged in the business of operating a restaurant/bar at 601 E. Main St, Jackson, OH 45640 in this precinct?",
+      "sources": [
+        "jackson-ballots",
+        "jackson-46day"
+      ]
+    },
+    {
+      "id": "liquor-amvets-84",
+      "kind": "liquor",
+      "jurisdiction": "City of Jackson",
+      "title": "Local liquor option: Amvets Post 84 (D-6 permit, Sunday sales)",
+      "area": "Jackson City precinct Jackson 3-A",
+      "places": [
+        "Jackson City"
+      ],
+      "text": "Shall the sale of wine and mixed beverages and spirituous liquor be permitted for sale on Sunday by Amvets Post 84 Jackson, dba Amvets Post 84 an applicant for a D-6 liquor permit who is engaged in the business of operating a fraternal organization at 208 Broadway St, Jackson, OH 45640 in this precinct?",
+      "sources": [
+        "jackson-ballots",
+        "jackson-46day"
+      ]
+    }
+  ]
+}

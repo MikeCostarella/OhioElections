@@ -1,0 +1,365 @@
+{
+ "BENNINGTON TOWNSHIP": {
+  "voters": 2117,
+  "CONGRESSIONAL_DISTRICT": {
+   "04": 2117
+  },
+  "STATE_REPRESENTATIVE_DISTRICT": {
+   "87": 2117
+  },
+  "STATE_SENATE_DISTRICT": {
+   "26": 2117
+  },
+  "COURT_OF_APPEALS": {
+   "05": 2117
+  }
+ },
+ "CANAAN TOWNSHIP": {
+  "voters": 639,
+  "CONGRESSIONAL_DISTRICT": {
+   "04": 639
+  },
+  "STATE_REPRESENTATIVE_DISTRICT": {
+   "87": 639
+  },
+  "STATE_SENATE_DISTRICT": {
+   "26": 639
+  },
+  "COURT_OF_APPEALS": {
+   "05": 639
+  }
+ },
+ "CARDINGTON TOWNSHIP": {
+  "voters": 767,
+  "CONGRESSIONAL_DISTRICT": {
+   "04": 767
+  },
+  "STATE_REPRESENTATIVE_DISTRICT": {
+   "87": 767
+  },
+  "STATE_SENATE_DISTRICT": {
+   "26": 767
+  },
+  "COURT_OF_APPEALS": {
+   "05": 767
+  }
+ },
+ "CARDINGTON VILLAGE": {
+  "voters": 1338,
+  "CONGRESSIONAL_DISTRICT": {
+   "04": 1338
+  },
+  "STATE_REPRESENTATIVE_DISTRICT": {
+   "87": 1338
+  },
+  "STATE_SENATE_DISTRICT": {
+   "26": 1338
+  },
+  "COURT_OF_APPEALS": {
+   "05": 1338
+  },
+  "TWP_OF_VILLAGE": {
+   "CARDINGTON TOWNSHIP": 1338
+  }
+ },
+ "CHESTER TOWNSHIP": {
+  "voters": 1192,
+  "CONGRESSIONAL_DISTRICT": {
+   "04": 1192
+  },
+  "STATE_REPRESENTATIVE_DISTRICT": {
+   "87": 1192
+  },
+  "STATE_SENATE_DISTRICT": {
+   "26": 1192
+  },
+  "COURT_OF_APPEALS": {
+   "05": 1192
+  }
+ },
+ "CHESTERVILLE VILLAGE": {
+  "voters": 129,
+  "CONGRESSIONAL_DISTRICT": {
+   "04": 129
+  },
+  "STATE_REPRESENTATIVE_DISTRICT": {
+   "87": 129
+  },
+  "STATE_SENATE_DISTRICT": {
+   "26": 129
+  },
+  "COURT_OF_APPEALS": {
+   "05": 129
+  },
+  "TWP_OF_VILLAGE": {
+   "CHESTER TOWNSHIP": 129
+  }
+ },
+ "CONGRESS TOWNSHIP": {
+  "voters": 2174,
+  "CONGRESSIONAL_DISTRICT": {
+   "04": 2174
+  },
+  "STATE_REPRESENTATIVE_DISTRICT": {
+   "87": 2174
+  },
+  "STATE_SENATE_DISTRICT": {
+   "26": 2174
+  },
+  "COURT_OF_APPEALS": {
+   "05": 2174
+  }
+ },
+ "EDISON VILLAGE": {
+  "voters": 280,
+  "CONGRESSIONAL_DISTRICT": {
+   "04": 280
+  },
+  "STATE_REPRESENTATIVE_DISTRICT": {
+   "87": 280
+  },
+  "STATE_SENATE_DISTRICT": {
+   "26": 280
+  },
+  "COURT_OF_APPEALS": {
+   "05": 280
+  },
+  "TWP_OF_VILLAGE": {
+   "GILEAD TOWNSHIP": 280
+  }
+ },
+ "FRANKLIN TOWNSHIP": {
+  "voters": 1098,
+  "CONGRESSIONAL_DISTRICT": {
+   "04": 1098
+  },
+  "STATE_REPRESENTATIVE_DISTRICT": {
+   "87": 1098
+  },
+  "STATE_SENATE_DISTRICT": {
+   "26": 1098
+  },
+  "COURT_OF_APPEALS": {
+   "05": 1098
+  }
+ },
+ "FULTON VILLAGE": {
+  "voters": 182,
+  "CONGRESSIONAL_DISTRICT": {
+   "04": 182
+  },
+  "STATE_REPRESENTATIVE_DISTRICT": {
+   "87": 182
+  },
+  "STATE_SENATE_DISTRICT": {
+   "26": 182
+  },
+  "COURT_OF_APPEALS": {
+   "05": 182
+  },
+  "TWP_OF_VILLAGE": {
+   "LINCOLN TOWNSHIP": 182
+  }
+ },
+ "GILEAD TOWNSHIP": {
+  "voters": 1520,
+  "CONGRESSIONAL_DISTRICT": {
+   "04": 1520
+  },
+  "STATE_REPRESENTATIVE_DISTRICT": {
+   "87": 1520
+  },
+  "STATE_SENATE_DISTRICT": {
+   "26": 1520
+  },
+  "COURT_OF_APPEALS": {
+   "05": 1520
+  }
+ },
+ "HARMONY TOWNSHIP": {
+  "voters": 1903,
+  "CONGRESSIONAL_DISTRICT": {
+   "04": 1903
+  },
+  "STATE_REPRESENTATIVE_DISTRICT": {
+   "87": 1903
+  },
+  "STATE_SENATE_DISTRICT": {
+   "26": 1903
+  },
+  "COURT_OF_APPEALS": {
+   "05": 1903
+  }
+ },
+ "LINCOLN TOWNSHIP": {
+  "voters": 1201,
+  "CONGRESSIONAL_DISTRICT": {
+   "04": 1201
+  },
+  "STATE_REPRESENTATIVE_DISTRICT": {
+   "87": 1201
+  },
+  "STATE_SENATE_DISTRICT": {
+   "26": 1201
+  },
+  "COURT_OF_APPEALS": {
+   "05": 1201
+  }
+ },
+ "MARENGO VILLAGE": {
+  "voters": 173,
+  "CONGRESSIONAL_DISTRICT": {
+   "04": 173
+  },
+  "STATE_REPRESENTATIVE_DISTRICT": {
+   "87": 173
+  },
+  "STATE_SENATE_DISTRICT": {
+   "26": 173
+  },
+  "COURT_OF_APPEALS": {
+   "05": 173
+  }
+ },
+ "MOUNT GILEAD VILLAGE": {
+  "voters": 2178,
+  "CONGRESSIONAL_DISTRICT": {
+   "04": 2178
+  },
+  "STATE_REPRESENTATIVE_DISTRICT": {
+   "87": 2178
+  },
+  "STATE_SENATE_DISTRICT": {
+   "26": 2178
+  },
+  "COURT_OF_APPEALS": {
+   "05": 2178
+  },
+  "TWP_OF_VILLAGE": {
+   "GILEAD TOWNSHIP": 2178
+  }
+ },
+ "N. BLOOMFIELD TOWNSHIP": {
+  "voters": 1322,
+  "CONGRESSIONAL_DISTRICT": {
+   "04": 1322
+  },
+  "STATE_REPRESENTATIVE_DISTRICT": {
+   "87": 1322
+  },
+  "STATE_SENATE_DISTRICT": {
+   "26": 1322
+  },
+  "COURT_OF_APPEALS": {
+   "05": 1322
+  }
+ },
+ "PERRY TOWNSHIP": {
+  "voters": 883,
+  "CONGRESSIONAL_DISTRICT": {
+   "04": 883
+  },
+  "STATE_REPRESENTATIVE_DISTRICT": {
+   "87": 883
+  },
+  "STATE_SENATE_DISTRICT": {
+   "26": 883
+  },
+  "COURT_OF_APPEALS": {
+   "05": 883
+  }
+ },
+ "PERU TOWNSHIP": {
+  "voters": 1110,
+  "CONGRESSIONAL_DISTRICT": {
+   "04": 1110
+  },
+  "STATE_REPRESENTATIVE_DISTRICT": {
+   "87": 1110
+  },
+  "STATE_SENATE_DISTRICT": {
+   "26": 1110
+  },
+  "COURT_OF_APPEALS": {
+   "05": 1110
+  }
+ },
+ "S. BLOOMFIELD TOWNSHIP": {
+  "voters": 1245,
+  "CONGRESSIONAL_DISTRICT": {
+   "04": 1245
+  },
+  "STATE_REPRESENTATIVE_DISTRICT": {
+   "87": 1245
+  },
+  "STATE_SENATE_DISTRICT": {
+   "26": 1245
+  },
+  "COURT_OF_APPEALS": {
+   "05": 1245
+  }
+ },
+ "SPARTA VILLAGE": {
+  "voters": 118,
+  "CONGRESSIONAL_DISTRICT": {
+   "04": 118
+  },
+  "STATE_REPRESENTATIVE_DISTRICT": {
+   "87": 118
+  },
+  "STATE_SENATE_DISTRICT": {
+   "26": 118
+  },
+  "COURT_OF_APPEALS": {
+   "05": 118
+  },
+  "TWP_OF_VILLAGE": {
+   "S. BLOOMFIELD TOWNSHIP": 118
+  }
+ },
+ "TROY TOWNSHIP": {
+  "voters": 802,
+  "CONGRESSIONAL_DISTRICT": {
+   "04": 802
+  },
+  "STATE_REPRESENTATIVE_DISTRICT": {
+   "87": 802
+  },
+  "STATE_SENATE_DISTRICT": {
+   "26": 802
+  },
+  "COURT_OF_APPEALS": {
+   "05": 802
+  }
+ },
+ "WASHINGTON TOWNSHIP": {
+  "voters": 858,
+  "CONGRESSIONAL_DISTRICT": {
+   "04": 858
+  },
+  "STATE_REPRESENTATIVE_DISTRICT": {
+   "87": 858
+  },
+  "STATE_SENATE_DISTRICT": {
+   "26": 858
+  },
+  "COURT_OF_APPEALS": {
+   "05": 858
+  }
+ },
+ "WESTFIELD TOWNSHIP": {
+  "voters": 851,
+  "CONGRESSIONAL_DISTRICT": {
+   "04": 851
+  },
+  "STATE_REPRESENTATIVE_DISTRICT": {
+   "87": 851
+  },
+  "STATE_SENATE_DISTRICT": {
+   "26": 851
+  },
+  "COURT_OF_APPEALS": {
+   "05": 851
+  }
+ }
+}

@@ -1,0 +1,442 @@
+{
+  "scope": "county",
+  "county": "Pike",
+  "fips": "39131",
+  "election": "2026-11-03",
+  "retrieved": "2026-10-30",
+  "notes": [
+    "Taken from the Board of Elections' 46-day election notice, which lists every contest and issue with the precincts that vote on it, checked against the Board's precinct sample ballots. Issue wording is from the notice and matches the sample ballots.",
+    "Candidates are listed alphabetically by last name, not in ballot order: Ohio rotates the order of names from precinct to precinct. Certified write-in candidates are not printed on the ballot and are not listed.",
+    "\"Where you live\" uses the state voter file: a district or school levy is shown for a city, village or township when any of its voters live in that district. Your exact ballot depends on your precinct.",
+    "The Board's notice and sample ballots do not give local issue numbers; see your sample ballot for the order.",
+    "Court of Appeals: the 46-day notice (revised September 14, 2026) lists Peter B. Abele (Republican) for the 4th District seat; he withdrew after his death, and the Board's sample ballots list Jayme Hartley Fountain (Republican) and Todd L. Grace (Democratic), as shown here."
+  ],
+  "places": [
+    "Beaver Township",
+    "Beaver Village",
+    "Benton Township",
+    "Camp Creek Township",
+    "Jackson Township",
+    "Marion Township",
+    "Mifflin Township",
+    "Newton Township",
+    "Pebble Township",
+    "Pee Pee Township",
+    "Perry Township",
+    "Piketon Village",
+    "Scioto Township",
+    "Seal Township",
+    "Sunfish Township",
+    "Union Township",
+    "Waverly Village"
+  ],
+  "sources": {
+    "pike-46day": {
+      "label": "Pike County Board of Elections: 46-day election notice (FWAB), November 3, 2026 General Election (revised September 14, 2026)",
+      "url": "https://www.boe.ohio.gov/pike/c/upload/FWAB_11November46Day.pdf"
+    },
+    "pike-ballots": {
+      "label": "Pike County Board of Elections: precinct sample ballots, November 3, 2026 General Election (retrieved October 30, 2026)",
+      "url": "https://lookup.boe.ohio.gov/vtrapp/pike/ballotlist.aspx"
+    }
+  },
+  "links": [
+    {
+      "label": "Board of Elections",
+      "url": "https://www.boe.ohio.gov/pike/"
+    },
+    {
+      "label": "Candidates & Issues",
+      "url": "https://www.boe.ohio.gov/pike/election-info/candidates-and-issues/"
+    },
+    {
+      "label": "Federal write-in absentee ballot notices",
+      "url": "https://www.boe.ohio.gov/pike/election-info/federal-write-in-absentee-ballots/"
+    },
+    {
+      "label": "Sample ballots by precinct",
+      "url": "https://lookup.boe.ohio.gov/vtrapp/pike/ballotlist.aspx"
+    }
+  ],
+  "results": {
+    "status": "upcoming",
+    "links": [
+      {
+        "label": "Board of Elections: election results",
+        "url": "https://www.boe.ohio.gov/pike/election-info/election-results/"
+      }
+    ]
+  },
+  "contests": [
+    {
+      "id": "congress-2",
+      "group": "U.S. House",
+      "office": "Representative to Congress",
+      "detail": "2nd District",
+      "candidates": [
+        {
+          "name": "Jen Mazzuckelli",
+          "party": "DEM"
+        },
+        {
+          "name": "David J. Taylor",
+          "party": "REP"
+        }
+      ],
+      "sources": [
+        "pike-46day",
+        "pike-ballots"
+      ]
+    },
+    {
+      "id": "senate-17",
+      "group": "Ohio General Assembly",
+      "office": "State Senator",
+      "detail": "17th District",
+      "candidates": [
+        {
+          "name": "Brian A. Deer",
+          "party": "DEM"
+        },
+        {
+          "name": "Shane Wilkin",
+          "party": "REP"
+        }
+      ],
+      "sources": [
+        "pike-46day",
+        "pike-ballots"
+      ]
+    },
+    {
+      "id": "rep-91",
+      "group": "Ohio General Assembly",
+      "office": "State Representative",
+      "detail": "91st District",
+      "candidates": [
+        {
+          "name": "Bob Peterson",
+          "party": "REP"
+        },
+        {
+          "name": "Amy Wright",
+          "party": "DEM"
+        }
+      ],
+      "sources": [
+        "pike-46day",
+        "pike-ballots"
+      ]
+    },
+    {
+      "id": "appeals-4-0209",
+      "group": "Ohio Court of Appeals",
+      "office": "Judge of the Court of Appeals",
+      "detail": "4th District · full term commencing February 9, 2027",
+      "candidates": [
+        {
+          "name": "Jayme Hartley Fountain",
+          "party": "REP"
+        },
+        {
+          "name": "Todd L. Grace",
+          "party": "DEM"
+        }
+      ],
+      "sources": [
+        "pike-ballots",
+        "pike-46day"
+      ]
+    },
+    {
+      "id": "commissioner",
+      "group": "County offices",
+      "office": "County Commissioner",
+      "detail": "Full term commencing January 1, 2027",
+      "candidates": [
+        {
+          "name": "Neil Edward Leist",
+          "party": "REP"
+        },
+        {
+          "name": "Bob Thompson",
+          "party": "DEM"
+        }
+      ],
+      "sources": [
+        "pike-46day",
+        "pike-ballots"
+      ]
+    },
+    {
+      "id": "auditor",
+      "group": "County offices",
+      "office": "County Auditor",
+      "detail": "Full term commencing March 8, 2027",
+      "candidates": [
+        {
+          "name": "Davida K. Brown",
+          "party": "REP"
+        }
+      ],
+      "sources": [
+        "pike-46day",
+        "pike-ballots"
+      ]
+    },
+    {
+      "id": "cp-probate-juvenile",
+      "group": "Court of Common Pleas",
+      "office": "Judge of the Court of Common Pleas, Probate and Juvenile Division",
+      "detail": "Full term commencing February 9, 2027 · no party label on the ballot",
+      "candidates": [
+        {
+          "name": "Paul Price"
+        }
+      ],
+      "sources": [
+        "pike-46day",
+        "pike-ballots"
+      ]
+    }
+  ],
+  "issues": [
+    {
+      "id": "pike-dd",
+      "kind": "levy",
+      "jurisdiction": "Pike County",
+      "title": "Tax levy (additional): Developmental disabilities programs and services, including The Kemper Connection school-age program, and the facilities of the Pike County Board of Developmental Disabilities",
+      "area": "Pike County",
+      "levy": {
+        "type": "Additional",
+        "purpose": "Developmental disabilities programs and services, including The Kemper Connection school-age program, and the facilities of the Pike County Board of Developmental Disabilities.",
+        "mills": "2 mills",
+        "term": "5 years, commencing in 2026",
+        "firstDue": "2027",
+        "estimate": "$1,327,292 a year; $70 for each $100,000 of market value"
+      },
+      "sources": [
+        "pike-46day",
+        "pike-ballots"
+      ]
+    },
+    {
+      "id": "piketon-liquor-dutchess",
+      "kind": "liquor",
+      "jurisdiction": "Piketon Village",
+      "title": "Local liquor option: Piketon Dutchess (Sunday)",
+      "area": "Precinct Piketon Village",
+      "places": [
+        "Piketon Village"
+      ],
+      "text": "Shall the sale of wine and mixed beverages and spirituous liquor be permitted for sale on Sunday by Englefield, Inc. dba Piketon Dutchess an applicant for a D-6 liquor permit who is engaged in the business of operating a carryout/grocery store at 615 S. West St, Piketon, OH 45661 in this precinct?",
+      "sources": [
+        "pike-46day",
+        "pike-ballots"
+      ]
+    },
+    {
+      "id": "benton-twp-cemeteries",
+      "kind": "levy",
+      "jurisdiction": "Benton Township",
+      "title": "Tax levy (renewal): Maintaining and operating cemeteries",
+      "area": "Precinct Benton Township",
+      "places": [
+        "Benton Township"
+      ],
+      "levy": {
+        "type": "Renewal",
+        "purpose": "Maintaining and operating cemeteries.",
+        "mills": "1.6 mills",
+        "term": "5 years, commencing in 2027",
+        "firstDue": "2028",
+        "estimate": "$31,194 a year; $28 for each $100,000 of market value"
+      },
+      "sources": [
+        "pike-46day",
+        "pike-ballots"
+      ]
+    },
+    {
+      "id": "mifflin-twp-fire",
+      "kind": "levy",
+      "jurisdiction": "Mifflin Township",
+      "title": "Tax levy (renewal): Fire protection",
+      "area": "Precinct Mifflin Township",
+      "places": [
+        "Mifflin Township"
+      ],
+      "levy": {
+        "type": "Renewal",
+        "purpose": "Fire protection.",
+        "mills": "1 mill",
+        "term": "5 years, commencing in 2027",
+        "firstDue": "2028",
+        "estimate": "$8,809 a year; $9 for each $100,000 of market value"
+      },
+      "sources": [
+        "pike-46day",
+        "pike-ballots"
+      ]
+    },
+    {
+      "id": "pebble-twp-cemeteries",
+      "kind": "levy",
+      "jurisdiction": "Pebble Township",
+      "title": "Tax levy (renewal): Maintaining and operating cemeteries",
+      "area": "Precinct Pebble Township (splits 1 and 2)",
+      "places": [
+        "Pebble Township"
+      ],
+      "levy": {
+        "type": "Renewal",
+        "purpose": "Maintaining and operating cemeteries.",
+        "mills": "1.5 mills",
+        "term": "5 years, commencing in 2027",
+        "firstDue": "2028",
+        "estimate": "$71,164 a year; $41 for each $100,000 of market value"
+      },
+      "sources": [
+        "pike-46day",
+        "pike-ballots"
+      ]
+    },
+    {
+      "id": "perry-twp-fire",
+      "kind": "levy",
+      "jurisdiction": "Perry Township",
+      "title": "Tax levy (renewal): Fire protection",
+      "area": "Precinct Perry Township",
+      "places": [
+        "Perry Township"
+      ],
+      "levy": {
+        "type": "Renewal",
+        "purpose": "Fire protection.",
+        "mills": "2 mills",
+        "term": "5 years, commencing in 2027",
+        "firstDue": "2028",
+        "estimate": "$11,258 a year; $17 for each $100,000 of market value"
+      },
+      "sources": [
+        "pike-46day",
+        "pike-ballots"
+      ]
+    },
+    {
+      "id": "seal-piketon-fire",
+      "kind": "levy",
+      "jurisdiction": "Seal Township and Piketon Village",
+      "title": "Tax levy (renewal): Fire protection",
+      "area": "Precincts Seal Township and Piketon Village",
+      "places": [
+        "Piketon Village",
+        "Seal Township"
+      ],
+      "levy": {
+        "type": "Renewal",
+        "purpose": "Fire protection.",
+        "mills": "1 mill",
+        "term": "5 years, commencing in 2027",
+        "firstDue": "2028",
+        "estimate": "$56,318 a year; $26 for each $100,000 of market value"
+      },
+      "sources": [
+        "pike-46day",
+        "pike-ballots"
+      ]
+    },
+    {
+      "id": "seal-twp-liquor-grove-patio",
+      "kind": "liquor",
+      "jurisdiction": "Seal Township",
+      "title": "Local liquor option: Grove & Patio (Sunday)",
+      "area": "Precinct Seal Township",
+      "places": [
+        "Seal Township"
+      ],
+      "text": "Shall the sale of wine and mixed beverages and spirituous liquor be permitted for sale on Sunday by Clemmons Investments LLC dba Grove & Patio an applicant for a D-6 liquor permit who is engaged in the business of operating a restaurant/bar at 5495 Wakefield Mound Road, Seal Township, Piketon, OH 45661 in this precinct?",
+      "sources": [
+        "pike-46day",
+        "pike-ballots"
+      ]
+    },
+    {
+      "id": "sunfish-twp-fire",
+      "kind": "levy",
+      "jurisdiction": "Sunfish Township",
+      "title": "Tax levy (renewal): Fire protection",
+      "area": "Precinct Sunfish Township (splits 1 and 2)",
+      "places": [
+        "Sunfish Township"
+      ],
+      "levy": {
+        "type": "Renewal",
+        "purpose": "Fire protection.",
+        "mills": "1.5 mills",
+        "term": "5 years, commencing in 2027",
+        "firstDue": "2028",
+        "estimate": "$19,822 a year; $15 for each $100,000 of market value"
+      },
+      "sources": [
+        "pike-46day",
+        "pike-ballots"
+      ]
+    },
+    {
+      "id": "union-twp-cemeteries",
+      "kind": "levy",
+      "jurisdiction": "Union Township",
+      "title": "Tax levy (renewal): Maintaining and operating cemeteries",
+      "area": "Precinct Union Township",
+      "places": [
+        "Union Township"
+      ],
+      "levy": {
+        "type": "Renewal",
+        "purpose": "Maintaining and operating cemeteries.",
+        "mills": "1 mill",
+        "term": "5 years, commencing in 2027",
+        "firstDue": "2028",
+        "estimate": "$7,255 a year; $7 for each $100,000 of market value"
+      },
+      "sources": [
+        "pike-46day",
+        "pike-ballots"
+      ]
+    },
+    {
+      "id": "waverly-csd-income-tax",
+      "kind": "question",
+      "jurisdiction": "Waverly City School District (Pike and Ross)",
+      "title": "School district income tax: 0.5 percent, 5 years, current expenses",
+      "area": "Precincts Ward 1 to Ward 5 (Waverly), Jackson Township (splits 1 and 2), Pebble Township (split 1), Pee Pee Township A (split 1) and Pee Pee Township B",
+      "places": [
+        "Jackson Township",
+        "Pebble Township",
+        "Pee Pee Township",
+        "Waverly Village"
+      ],
+      "text": "Shall an annual income tax of 0.5 per cent on the earned income of individuals residing in the school district be imposed by the Waverly City School District, for a period of 5 years, beginning January 1, 2027, for the purpose of current expenses?",
+      "sources": [
+        "pike-46day",
+        "pike-ballots"
+      ]
+    },
+    {
+      "id": "waverly-ward5-liquor-aerie",
+      "kind": "liquor",
+      "jurisdiction": "Waverly",
+      "title": "Local liquor option: F.O.E. Aerie 2227 Waverly (Sunday)",
+      "area": "Precinct Ward 5 (Waverly)",
+      "places": [
+        "Waverly Village"
+      ],
+      "text": "Shall the sale of wine and mixed beverages and spirituous liquor be permitted for sale on Sunday by F.O.E. Aerie 2227 Waverly an applicant for a D-6 Liquor Permit who is engaged in the business of operating a fraternal organization at 243 W. North St, Waverly, OH 45690 in this precinct?",
+      "sources": [
+        "pike-46day",
+        "pike-ballots"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,312 @@
+{
+ "BLOOMFIELD TWP": {
+  "voters": 719,
+  "LOCAL_SCHOOL_DISTRICT": {
+   "OAK HILL UNION LOCAL SD (JACKSON)": 719
+  },
+  "CONGRESSIONAL_DISTRICT": {
+   "02": 719
+  },
+  "STATE_REPRESENTATIVE_DISTRICT": {
+   "93": 719
+  },
+  "STATE_SENATE_DISTRICT": {
+   "17": 719
+  },
+  "COURT_OF_APPEALS": {
+   "04": 719
+  }
+ },
+ "COAL TWP": {
+  "voters": 853,
+  "CITY_SCHOOL_DISTRICT": {
+   "WELLSTON CITY SD": 789,
+   "JACKSON CITY SD": 64
+  },
+  "CONGRESSIONAL_DISTRICT": {
+   "02": 853
+  },
+  "STATE_REPRESENTATIVE_DISTRICT": {
+   "93": 853
+  },
+  "STATE_SENATE_DISTRICT": {
+   "17": 853
+  },
+  "COURT_OF_APPEALS": {
+   "04": 853
+  }
+ },
+ "COALTON VILLAGE": {
+  "voters": 225,
+  "CITY_SCHOOL_DISTRICT": {
+   "WELLSTON CITY SD": 225
+  },
+  "CONGRESSIONAL_DISTRICT": {
+   "02": 225
+  },
+  "STATE_REPRESENTATIVE_DISTRICT": {
+   "93": 225
+  },
+  "STATE_SENATE_DISTRICT": {
+   "17": 225
+  },
+  "COURT_OF_APPEALS": {
+   "04": 225
+  },
+  "TWP_OF_VILLAGE": {
+   "COAL TWP": 225
+  }
+ },
+ "FRANKLIN TWP": {
+  "voters": 1490,
+  "CITY_SCHOOL_DISTRICT": {
+   "JACKSON CITY SD": 1330
+  },
+  "CONGRESSIONAL_DISTRICT": {
+   "02": 1490
+  },
+  "STATE_REPRESENTATIVE_DISTRICT": {
+   "93": 1490
+  },
+  "STATE_SENATE_DISTRICT": {
+   "17": 1490
+  },
+  "COURT_OF_APPEALS": {
+   "04": 1490
+  },
+  "LOCAL_SCHOOL_DISTRICT": {
+   "OAK HILL UNION LOCAL SD (JACKSON)": 160
+  }
+ },
+ "HAMILTON TWP": {
+  "voters": 383,
+  "LOCAL_SCHOOL_DISTRICT": {
+   "OAK HILL UNION LOCAL SD (JACKSON)": 383
+  },
+  "CONGRESSIONAL_DISTRICT": {
+   "02": 383
+  },
+  "STATE_REPRESENTATIVE_DISTRICT": {
+   "93": 383
+  },
+  "STATE_SENATE_DISTRICT": {
+   "17": 383
+  },
+  "COURT_OF_APPEALS": {
+   "04": 383
+  }
+ },
+ "JACKSON CITY": {
+  "voters": 3737,
+  "CITY_SCHOOL_DISTRICT": {
+   "JACKSON CITY SD": 3737
+  },
+  "CONGRESSIONAL_DISTRICT": {
+   "02": 3737
+  },
+  "STATE_REPRESENTATIVE_DISTRICT": {
+   "93": 3737
+  },
+  "STATE_SENATE_DISTRICT": {
+   "17": 3737
+  },
+  "COURT_OF_APPEALS": {
+   "04": 3737
+  }
+ },
+ "JACKSON TWP": {
+  "voters": 845,
+  "CITY_SCHOOL_DISTRICT": {
+   "JACKSON CITY SD": 845
+  },
+  "CONGRESSIONAL_DISTRICT": {
+   "02": 845
+  },
+  "STATE_REPRESENTATIVE_DISTRICT": {
+   "93": 845
+  },
+  "STATE_SENATE_DISTRICT": {
+   "17": 845
+  },
+  "COURT_OF_APPEALS": {
+   "04": 845
+  }
+ },
+ "JEFFERSON TWP": {
+  "voters": 1468,
+  "LOCAL_SCHOOL_DISTRICT": {
+   "OAK HILL UNION LOCAL SD (JACKSON)": 1468
+  },
+  "CONGRESSIONAL_DISTRICT": {
+   "02": 1468
+  },
+  "STATE_REPRESENTATIVE_DISTRICT": {
+   "93": 1468
+  },
+  "STATE_SENATE_DISTRICT": {
+   "17": 1468
+  },
+  "COURT_OF_APPEALS": {
+   "04": 1468
+  }
+ },
+ "LIBERTY TWP": {
+  "voters": 1165,
+  "CITY_SCHOOL_DISTRICT": {
+   "JACKSON CITY SD": 1165
+  },
+  "CONGRESSIONAL_DISTRICT": {
+   "02": 1165
+  },
+  "STATE_REPRESENTATIVE_DISTRICT": {
+   "93": 1165
+  },
+  "STATE_SENATE_DISTRICT": {
+   "17": 1165
+  },
+  "COURT_OF_APPEALS": {
+   "04": 1165
+  }
+ },
+ "LICK TWP": {
+  "voters": 1643,
+  "CITY_SCHOOL_DISTRICT": {
+   "JACKSON CITY SD": 1632,
+   "WELLSTON CITY SD": 11
+  },
+  "CONGRESSIONAL_DISTRICT": {
+   "02": 1643
+  },
+  "STATE_REPRESENTATIVE_DISTRICT": {
+   "93": 1643
+  },
+  "STATE_SENATE_DISTRICT": {
+   "17": 1643
+  },
+  "COURT_OF_APPEALS": {
+   "04": 1643
+  }
+ },
+ "MADISON TWP": {
+  "voters": 1003,
+  "LOCAL_SCHOOL_DISTRICT": {
+   "GALLIA COUNTY LOCAL SD (GALLIA)": 277,
+   "OAK HILL UNION LOCAL SD (JACKSON)": 726
+  },
+  "CONGRESSIONAL_DISTRICT": {
+   "02": 1003
+  },
+  "STATE_REPRESENTATIVE_DISTRICT": {
+   "93": 1003
+  },
+  "STATE_SENATE_DISTRICT": {
+   "17": 1003
+  },
+  "COURT_OF_APPEALS": {
+   "04": 1003
+  }
+ },
+ "MILTON TWP": {
+  "voters": 731,
+  "CITY_SCHOOL_DISTRICT": {
+   "WELLSTON CITY SD": 701
+  },
+  "CONGRESSIONAL_DISTRICT": {
+   "02": 731
+  },
+  "STATE_REPRESENTATIVE_DISTRICT": {
+   "93": 731
+  },
+  "STATE_SENATE_DISTRICT": {
+   "17": 731
+  },
+  "COURT_OF_APPEALS": {
+   "04": 731
+  },
+  "LOCAL_SCHOOL_DISTRICT": {
+   "OAK HILL UNION LOCAL SD (JACKSON)": 30
+  }
+ },
+ "OAK HILL VILLAGE": {
+  "voters": 899,
+  "LOCAL_SCHOOL_DISTRICT": {
+   "OAK HILL UNION LOCAL SD (JACKSON)": 899
+  },
+  "CONGRESSIONAL_DISTRICT": {
+   "02": 899
+  },
+  "STATE_REPRESENTATIVE_DISTRICT": {
+   "93": 899
+  },
+  "STATE_SENATE_DISTRICT": {
+   "17": 899
+  },
+  "COURT_OF_APPEALS": {
+   "04": 899
+  },
+  "TWP_OF_VILLAGE": {
+   "MADISON TWP": 374,
+   "JEFFERSON TWP": 525
+  }
+ },
+ "SCIOTO TWP": {
+  "voters": 1151,
+  "CITY_SCHOOL_DISTRICT": {
+   "JACKSON CITY SD": 1038
+  },
+  "CONGRESSIONAL_DISTRICT": {
+   "02": 1151
+  },
+  "STATE_REPRESENTATIVE_DISTRICT": {
+   "93": 1151
+  },
+  "STATE_SENATE_DISTRICT": {
+   "17": 1151
+  },
+  "COURT_OF_APPEALS": {
+   "04": 1151
+  },
+  "LOCAL_SCHOOL_DISTRICT": {
+   "EASTERN LOCAL SD (PIKE)": 113
+  }
+ },
+ "WASHINGTON TWP": {
+  "voters": 497,
+  "CITY_SCHOOL_DISTRICT": {
+   "WELLSTON CITY SD": 486
+  },
+  "CONGRESSIONAL_DISTRICT": {
+   "02": 497
+  },
+  "STATE_REPRESENTATIVE_DISTRICT": {
+   "93": 497
+  },
+  "STATE_SENATE_DISTRICT": {
+   "17": 497
+  },
+  "COURT_OF_APPEALS": {
+   "04": 497
+  },
+  "LOCAL_SCHOOL_DISTRICT": {
+   "VINTON COUNTY LOCAL SD (VINTON)": 11
+  }
+ },
+ "WELLSTON CITY": {
+  "voters": 3064,
+  "CITY_SCHOOL_DISTRICT": {
+   "WELLSTON CITY SD": 3064
+  },
+  "CONGRESSIONAL_DISTRICT": {
+   "02": 3064
+  },
+  "STATE_REPRESENTATIVE_DISTRICT": {
+   "93": 3064
+  },
+  "STATE_SENATE_DISTRICT": {
+   "17": 3064
+  },
+  "COURT_OF_APPEALS": {
+   "04": 3064
+  }
+ }
+}

@@ -1,0 +1,491 @@
+{
+  "scope": "county",
+  "county": "Carroll",
+  "fips": "39019",
+  "election": "2026-11-03",
+  "retrieved": "2026-10-30",
+  "notes": [
+    "Taken from the Board of Elections' 46-day election notice, which lists every contest and issue with the precincts that vote on it, checked against the Board's list of candidates and issues (which names the precincts). Issue wording is the Board's summary; the full wording is on the sample ballot.",
+    "Candidates are listed alphabetically by last name, not in ballot order: Ohio rotates the order of names from precinct to precinct. Certified write-in candidates are not printed on the ballot and are not listed.",
+    "\"Where you live\" uses the state voter file: a district or school levy is shown for a city, village or township when any of its voters live in that district. Your exact ballot depends on your precinct.",
+    "The Board's notice and candidates and issues list do not give local issue numbers; see your sample ballot for them."
+  ],
+  "places": [
+    "Augusta Township",
+    "Brown Township",
+    "Carrollton Village",
+    "Center Township",
+    "Dellroy Village",
+    "East Township",
+    "Fox Township",
+    "Harrison Township",
+    "Lee Township",
+    "Leesville Village",
+    "Loudon Township",
+    "Magnolia Village",
+    "Malvern Village",
+    "Minerva Village",
+    "Monroe Township",
+    "Orange Township",
+    "Perry Township",
+    "Rose Township",
+    "Sherrodsville Village",
+    "Union Township",
+    "Washington Township"
+  ],
+  "sources": {
+    "carroll-46day": {
+      "label": "Carroll County Board of Elections: 46-day election notice (FWAB), November 3, 2026 General Election (revised 9/17/2026)",
+      "url": "https://www.boe.ohio.gov/carroll/c/upload/FWAB_11November46Day.pdf"
+    },
+    "carroll-candiss": {
+      "label": "Carroll County Board of Elections: list of candidates and issues, November 3, 2026 General Election (updated 9/18/2026)",
+      "url": "https://www.boe.ohio.gov/carroll/c/upload/Election_CandidateandIssuesList.pdf"
+    }
+  },
+  "links": [
+    {
+      "label": "Board of Elections",
+      "url": "https://www.boe.ohio.gov/carroll/"
+    },
+    {
+      "label": "Election information",
+      "url": "https://www.boe.ohio.gov/carroll/election-info/"
+    },
+    {
+      "label": "Sample ballots by precinct",
+      "url": "https://lookup.boe.ohio.gov/vtrapp/carroll/ballotlist.aspx"
+    }
+  ],
+  "results": {
+    "status": "upcoming",
+    "links": [
+      {
+        "label": "Board of Elections: election results",
+        "url": "https://www.boe.ohio.gov/carroll/election-info/election-results/"
+      }
+    ]
+  },
+  "contests": [
+    {
+      "id": "congress-6",
+      "group": "U.S. House",
+      "office": "Representative to Congress",
+      "detail": "6th District",
+      "candidates": [
+        {
+          "name": "Elizabeth Kirtley",
+          "party": "DEM"
+        },
+        {
+          "name": "Michael A. Rulli",
+          "party": "REP"
+        }
+      ],
+      "sources": [
+        "carroll-46day",
+        "carroll-candiss"
+      ]
+    },
+    {
+      "id": "senate-33",
+      "group": "Ohio General Assembly",
+      "office": "State Senator",
+      "detail": "33rd District",
+      "candidates": [
+        {
+          "name": "Al Cutrona",
+          "party": "REP"
+        },
+        {
+          "name": "Michael L. Kripchak",
+          "party": "DEM"
+        }
+      ],
+      "sources": [
+        "carroll-46day",
+        "carroll-candiss"
+      ]
+    },
+    {
+      "id": "rep-79",
+      "group": "Ohio General Assembly",
+      "office": "State Representative",
+      "detail": "79th District",
+      "candidates": [
+        {
+          "name": "Monica Robb Blasdel",
+          "party": "REP"
+        },
+        {
+          "name": "Bob Guy",
+          "party": "DEM"
+        }
+      ],
+      "sources": [
+        "carroll-46day",
+        "carroll-candiss"
+      ]
+    },
+    {
+      "id": "appeals-7-0209",
+      "group": "Ohio Court of Appeals",
+      "office": "Judge of the Court of Appeals",
+      "detail": "7th District · full term commencing February 9, 2027",
+      "candidates": [
+        {
+          "name": "Molly K. Johnson",
+          "party": "REP"
+        }
+      ],
+      "sources": [
+        "carroll-46day",
+        "carroll-candiss"
+      ]
+    },
+    {
+      "id": "appeals-7-0210",
+      "group": "Ohio Court of Appeals",
+      "office": "Judge of the Court of Appeals",
+      "detail": "7th District · full term commencing February 10, 2027",
+      "candidates": [
+        {
+          "name": "Mark Anthony Hanni",
+          "party": "REP"
+        },
+        {
+          "name": "Katherine Rudzik",
+          "party": "DEM"
+        }
+      ],
+      "sources": [
+        "carroll-46day",
+        "carroll-candiss"
+      ]
+    },
+    {
+      "id": "commissioner",
+      "group": "County offices",
+      "office": "County Commissioner",
+      "detail": "Full term commencing January 1, 2027",
+      "candidates": [
+        {
+          "name": "Ron Eick",
+          "party": "REP"
+        }
+      ],
+      "sources": [
+        "carroll-46day",
+        "carroll-candiss"
+      ]
+    },
+    {
+      "id": "auditor",
+      "group": "County offices",
+      "office": "County Auditor",
+      "detail": "Full term commencing March 8, 2027",
+      "candidates": [
+        {
+          "name": "Staci L. Brady",
+          "party": "REP"
+        }
+      ],
+      "sources": [
+        "carroll-46day",
+        "carroll-candiss"
+      ]
+    },
+    {
+      "id": "cp-probate-juvenile",
+      "group": "Court of Common Pleas",
+      "office": "Judge of the Court of Common Pleas, Probate and Juvenile Division",
+      "detail": "Full term commencing February 9, 2027 · no party label on the ballot",
+      "candidates": [
+        {
+          "name": "Maureen E. Stoneman"
+        },
+        {
+          "name": "Jennifer L. Thomas"
+        }
+      ],
+      "sources": [
+        "carroll-46day",
+        "carroll-candiss"
+      ]
+    }
+  ],
+  "issues": [
+    {
+      "id": "county-home",
+      "kind": "levy",
+      "jurisdiction": "Carroll County",
+      "title": "Tax levy (renewal): Maintenance and operation of the County Home",
+      "area": "Carroll County (all precincts)",
+      "levy": {
+        "type": "Renewal",
+        "purpose": "Maintenance and operation of the County Home.",
+        "mills": "1.4 mills",
+        "term": "5 years, commencing in 2027",
+        "firstDue": "2028",
+        "estimate": "$1,761,950 a year; $30 for each $100,000 of market value"
+      },
+      "sources": [
+        "carroll-46day",
+        "carroll-candiss"
+      ]
+    },
+    {
+      "id": "sandy-valley-lsd",
+      "kind": "levy",
+      "jurisdiction": "Sandy Valley Local School District (Stark, Carroll and Tuscarawas)",
+      "title": "Tax levy (renewal): Current operating expenses",
+      "area": "Sandy Valley Local School District, Carroll County part (Brown A split 3, Rose splits 1 and 2)",
+      "places": [
+        "Brown Township",
+        "Magnolia Village",
+        "Rose Township"
+      ],
+      "levy": {
+        "type": "Renewal",
+        "purpose": "Current operating expenses.",
+        "mills": "2.3 mills",
+        "term": "5 years, commencing in 2027",
+        "firstDue": "2028",
+        "estimate": "$750,000 a year; $81 for each $100,000 of market value"
+      },
+      "sources": [
+        "carroll-46day",
+        "carroll-candiss"
+      ]
+    },
+    {
+      "id": "stark-library",
+      "kind": "levy",
+      "jurisdiction": "Stark County District Library",
+      "title": "Tax levy (renewal and increase): Current expenses (renewal of 2 mills and increase of 0.3 mill)",
+      "area": "Stark County District Library, Carroll County part (Brown A split 2)",
+      "places": [
+        "Brown Township"
+      ],
+      "levy": {
+        "type": "Renewal and increase",
+        "purpose": "Current expenses (renewal of 2 mills and increase of 0.3 mill).",
+        "mills": "2.3 mills",
+        "term": "8 years, commencing in 2027",
+        "firstDue": "2028",
+        "estimate": "$14,949,218 a year"
+      },
+      "sources": [
+        "carroll-46day",
+        "carroll-candiss"
+      ]
+    },
+    {
+      "id": "carrollton-fire",
+      "kind": "levy",
+      "jurisdiction": "Village of Carrollton",
+      "title": "Tax levy (renewal): Providing and maintaining fire personnel, buildings and equipment",
+      "area": "Village of Carrollton (Carrollton A and B)",
+      "places": [
+        "Carrollton Village"
+      ],
+      "levy": {
+        "type": "Renewal",
+        "purpose": "Providing and maintaining fire personnel, buildings and equipment.",
+        "mills": "1 mill",
+        "term": "5 years, commencing in 2026",
+        "firstDue": "2027",
+        "estimate": "$69,960 a year; $35 for each $100,000 of market value"
+      },
+      "sources": [
+        "carroll-46day",
+        "carroll-candiss"
+      ]
+    },
+    {
+      "id": "dellroy-current",
+      "kind": "levy",
+      "jurisdiction": "Village of Dellroy",
+      "title": "Tax levy (renewal): Current expenses",
+      "area": "Village of Dellroy (Monroe split 2)",
+      "places": [
+        "Dellroy Village"
+      ],
+      "levy": {
+        "type": "Renewal",
+        "purpose": "Current expenses.",
+        "mills": "5 mills",
+        "firstDue": "2027",
+        "estimate": "$12,000 a year; $53 for each $100,000 of market value"
+      },
+      "note": "The Board's documents say commencing in 2026, first due in 2027, and do not state the number of years; see your sample ballot.",
+      "sources": [
+        "carroll-46day",
+        "carroll-candiss"
+      ]
+    },
+    {
+      "id": "fox-twp-fire",
+      "kind": "levy",
+      "jurisdiction": "Fox Township",
+      "title": "Tax levy (additional): Providing and maintaining fire personnel, buildings and equipment",
+      "area": "Fox Township (Fox splits 1–3)",
+      "places": [
+        "Fox Township"
+      ],
+      "levy": {
+        "type": "Additional",
+        "purpose": "Providing and maintaining fire personnel, buildings and equipment.",
+        "mills": "1.5 mills",
+        "term": "5 years, commencing in 2027",
+        "firstDue": "2028",
+        "estimate": "$73,900 a year; $53 for each $100,000 of market value"
+      },
+      "sources": [
+        "carroll-46day",
+        "carroll-candiss"
+      ]
+    },
+    {
+      "id": "edison-lsd",
+      "kind": "levy",
+      "jurisdiction": "Edison Local School District (Jefferson, Carroll and Harrison)",
+      "title": "Tax levy (renewal (fixed sum)): Current expenses ($1,049,150 a year)",
+      "area": "Edison Local School District, Carroll County part (Fox split 3, Lee split 2, Loudon split 2)",
+      "places": [
+        "Fox Township",
+        "Lee Township",
+        "Loudon Township"
+      ],
+      "levy": {
+        "type": "Renewal (fixed sum)",
+        "purpose": "Current expenses ($1,049,150 a year).",
+        "mills": "1.85 mills (estimated average)",
+        "term": "5 years, commencing in 2027",
+        "firstDue": "2028",
+        "estimate": "$1,049,150 a year; $65 for each $100,000 of market value"
+      },
+      "sources": [
+        "carroll-46day",
+        "carroll-candiss"
+      ]
+    },
+    {
+      "id": "jefferson-jvsd-1",
+      "kind": "levy",
+      "jurisdiction": "Jefferson County Joint Vocational School District (Jefferson, Belmont, Carroll and Harrison)",
+      "title": "Tax levy (renewal): 0.67 mill for current expenses and 0.33 mill for reconditioning or acquiring tools, equipment or furnishings and for repairing, improving, renovating, expanding or reconstructing buildings and sites",
+      "area": "Jefferson County JVSD, Carroll County part (Fox split 3, Lee split 2, Loudon split 2)",
+      "places": [
+        "Fox Township",
+        "Lee Township",
+        "Loudon Township"
+      ],
+      "levy": {
+        "type": "Renewal",
+        "purpose": "0.67 mill for current expenses and 0.33 mill for reconditioning or acquiring tools, equipment or furnishings and for repairing, improving, renovating, expanding or reconstructing buildings and sites.",
+        "mills": "1 mill",
+        "term": "10 years, commencing in 2027",
+        "firstDue": "2028",
+        "estimate": "$1,999,864 a year; $32 for each $100,000 of market value"
+      },
+      "note": "One of two separate 1-mill JVS renewals on the ballot (listed by the Board as Jefferson County Joint Vocational School (1) and (2)).",
+      "sources": [
+        "carroll-46day",
+        "carroll-candiss"
+      ]
+    },
+    {
+      "id": "jefferson-jvsd-2",
+      "kind": "levy",
+      "jurisdiction": "Jefferson County Joint Vocational School District (Jefferson, Belmont, Carroll and Harrison)",
+      "title": "Tax levy (renewal): 0.67 mill for current expenses and 0.33 mill for purchasing equipment for buildings and improving buildings",
+      "area": "Jefferson County JVSD, Carroll County part (Fox split 3, Lee split 2, Loudon split 2)",
+      "places": [
+        "Fox Township",
+        "Lee Township",
+        "Loudon Township"
+      ],
+      "levy": {
+        "type": "Renewal",
+        "purpose": "0.67 mill for current expenses and 0.33 mill for purchasing equipment for buildings and improving buildings.",
+        "mills": "1 mill",
+        "term": "10 years, commencing in 2027",
+        "firstDue": "2028",
+        "estimate": "$1,934,109 a year; $30 for each $100,000 of market value"
+      },
+      "note": "One of two separate 1-mill JVS renewals on the ballot (listed by the Board as Jefferson County Joint Vocational School (1) and (2)).",
+      "sources": [
+        "carroll-46day",
+        "carroll-candiss"
+      ]
+    },
+    {
+      "id": "magnolia-police",
+      "kind": "levy",
+      "jurisdiction": "Village of Magnolia (Stark and Carroll)",
+      "title": "Tax levy (renewal): Police",
+      "area": "Village of Magnolia, Carroll County part (Rose split 2)",
+      "places": [
+        "Magnolia Village"
+      ],
+      "levy": {
+        "type": "Renewal",
+        "purpose": "Police.",
+        "mills": "4 mills",
+        "term": "5 years, commencing in 2027",
+        "firstDue": "2028",
+        "estimate": "$30,969 a year; $28 for each $100,000 of market value"
+      },
+      "text": "Providing and maintaining equipment and personnel for operation of the police department.",
+      "sources": [
+        "carroll-46day",
+        "carroll-candiss"
+      ]
+    },
+    {
+      "id": "rose-twp-roads",
+      "kind": "levy",
+      "jurisdiction": "Rose Township (excluding the Village of Magnolia)",
+      "title": "Tax levy (renewal): General construction, reconstruction, resurfacing and repair of streets, roads and bridges",
+      "area": "Rose Township outside Magnolia (Rose splits 1 and 3)",
+      "places": [
+        "Rose Township"
+      ],
+      "levy": {
+        "type": "Renewal",
+        "purpose": "General construction, reconstruction, resurfacing and repair of streets, roads and bridges.",
+        "mills": "2.69 mills",
+        "term": "5 years, commencing in 2027",
+        "firstDue": "2028",
+        "estimate": "$75,840 a year; $94 for each $100,000 of market value"
+      },
+      "sources": [
+        "carroll-46day",
+        "carroll-candiss"
+      ]
+    },
+    {
+      "id": "rose-twp-fire",
+      "kind": "levy",
+      "jurisdiction": "Rose Township (excluding the Village of Magnolia)",
+      "title": "Tax levy (renewal): Providing and maintaining fire personnel, buildings and equipment",
+      "area": "Rose Township outside Magnolia (Rose splits 1 and 3)",
+      "places": [
+        "Rose Township"
+      ],
+      "levy": {
+        "type": "Renewal",
+        "purpose": "Providing and maintaining fire personnel, buildings and equipment.",
+        "mills": "1 mill",
+        "term": "5 years, commencing in 2027",
+        "firstDue": "2028",
+        "estimate": "$41,630 a year; $35 for each $100,000 of market value"
+      },
+      "sources": [
+        "carroll-46day",
+        "carroll-candiss"
+      ]
+    }
+  ]
+}

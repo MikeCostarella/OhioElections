@@ -105,8 +105,8 @@ def build():
     # The notice also lists precinct Northwood A split 2 (810.2); the voter file has no Northwood voters in the district.
     c.issue("lake-income-tax", "question", "Lake Local School District", "School district income tax: 1%, continuing", SD("LAKE LOCAL SD (WOOD)") + P("NORTHWOOD CITY"),
             text="Shall an annual income tax of 1% on the earned income of individuals residing in the school district be imposed by the Lake Local School District, for a continuing period of time, beginning January 1, 2027?", src=I)
-    c.issue("mccomb-bond", "levy", "McComb Local School District (Hancock and Wood)", "School district income tax (0.25%) and bond issue ($23,815,000)", SD("MCCOMB LOCAL SD (HANCOCK)"),
-            area="McComb Local School District (Wood County part: Jackson Township precincts 340 splits 1 and 4)",
+    c.issue("mccomb-bond", "levy", "McComb Local School District (Hancock, Putnam and Wood)", "School district income tax (0.25%) and bond issue ($23,815,000)", SD("MCCOMB LOCAL SD (HANCOCK)"),
+            area="McComb Local School District (Hancock, Putnam and Wood)",
             levy={"type": "Income tax and bond issue", "purpose": "Income tax; bonds for constructing school facilities.",
                   "mills": "6.99 mills (bond)", "term": "Income tax beginning January 1, 2027; bonds up to 37 years", "estimate": "$23,815,000 principal"},
             text="Income tax of 0.25% beginning January 1, 2027, and bonds of $23,815,000 for constructing school facilities, repaid over a maximum of 37 years, with a levy estimated at 6.99 mills.", src=I)

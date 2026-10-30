@@ -1,0 +1,368 @@
+{
+  "scope": "county",
+  "county": "Henry",
+  "fips": "39069",
+  "election": "2026-11-03",
+  "retrieved": "2026-10-30",
+  "notes": [
+    "Taken from the Board of Elections' 46-day election notice, which lists every contest and issue with the precincts that vote on it. The Board does not post precinct sample ballots or full ballot wording online, so issues are summarised from the notice and the county auditor's estimates are not shown.",
+    "Candidates are listed alphabetically by last name, not in ballot order: Ohio rotates the order of names from precinct to precinct. Certified write-in candidates are not printed on the ballot and are not listed.",
+    "\"Where you live\" uses the state voter file: a district or school levy is shown for a city, village or township when any of its voters live in that district. Your exact ballot depends on your precinct.",
+    "The Board's notice gives no local issue numbers; Issue 3 is the statewide question."
+  ],
+  "places": [
+    "Bartlow Township",
+    "Damascus Township",
+    "Deshler Village",
+    "Flatrock Township",
+    "Florida Village",
+    "Freedom Township",
+    "Hamler Village",
+    "Harrison Township",
+    "Holgate Village",
+    "Liberty Center Village",
+    "Liberty Township",
+    "Malinta Village",
+    "Marion Township",
+    "McClure Village",
+    "Monroe Township",
+    "Napoleon City",
+    "Napoleon Township",
+    "New Bavaria Village",
+    "Pleasant Township",
+    "Richfield Township",
+    "Ridgeville Township",
+    "Washington Township"
+  ],
+  "sources": {
+    "henry-46day": {
+      "label": "Henry County Board of Elections: 46-day election notice (FWAB, updated notification), November 3, 2026 General Election",
+      "url": "https://henrycountyohio.gov/DocumentCenter/View/1059/46-Day-Notice-PDF"
+    }
+  },
+  "links": [
+    {
+      "label": "Board of Elections",
+      "url": "https://henrycountyohio.gov/231/Board-of-Elections"
+    },
+    {
+      "label": "46-day election notice",
+      "url": "https://henrycountyohio.gov/DocumentCenter/View/1059/46-Day-Notice-PDF"
+    },
+    {
+      "label": "Voter registration, polling place and absentee ballot lookup",
+      "url": "https://henry-voterview.boe.ohio.gov/VoterView/Home.do"
+    },
+    {
+      "label": "Precinct map",
+      "url": "https://henrycountyohio.gov/DocumentCenter/View/452/Henry-County-Precinct-Map-PDF"
+    }
+  ],
+  "results": {
+    "status": "upcoming",
+    "links": [
+      {
+        "label": "Board of Elections: election results",
+        "url": "https://henrycountyohio.gov/241/Election-Results"
+      }
+    ]
+  },
+  "contests": [
+    {
+      "id": "congress-9",
+      "group": "U.S. House",
+      "office": "Representative to Congress",
+      "detail": "9th District",
+      "candidates": [
+        {
+          "name": "Marcy Kaptur",
+          "party": "DEM"
+        },
+        {
+          "name": "Derek Merrin",
+          "party": "REP"
+        }
+      ],
+      "sources": [
+        "henry-46day"
+      ]
+    },
+    {
+      "id": "senate-1",
+      "group": "Ohio General Assembly",
+      "office": "State Senator",
+      "detail": "1st District",
+      "candidates": [
+        {
+          "name": "Craig S. Riedel",
+          "party": "REP"
+        }
+      ],
+      "sources": [
+        "henry-46day"
+      ]
+    },
+    {
+      "id": "rep-81",
+      "group": "Ohio General Assembly",
+      "office": "State Representative",
+      "detail": "81st District",
+      "candidates": [
+        {
+          "name": "Patti Rockey",
+          "party": "REP"
+        },
+        {
+          "name": "David Swanson",
+          "party": "DEM"
+        }
+      ],
+      "sources": [
+        "henry-46day"
+      ]
+    },
+    {
+      "id": "appeals-3-0209",
+      "group": "Ohio Court of Appeals",
+      "office": "Judge of the Court of Appeals",
+      "detail": "3rd District · full term commencing February 9, 2027",
+      "candidates": [
+        {
+          "name": "Mark C. Miller",
+          "party": "REP"
+        }
+      ],
+      "sources": [
+        "henry-46day"
+      ]
+    },
+    {
+      "id": "commissioner",
+      "group": "County offices",
+      "office": "County Commissioner",
+      "detail": "Full term commencing January 1, 2027",
+      "candidates": [
+        {
+          "name": "Joel Miller",
+          "party": "REP"
+        }
+      ],
+      "sources": [
+        "henry-46day"
+      ]
+    },
+    {
+      "id": "auditor",
+      "group": "County offices",
+      "office": "County Auditor",
+      "detail": "Full term commencing March 8, 2027",
+      "candidates": [
+        {
+          "name": "Elizabeth A. Fruchey",
+          "party": "REP"
+        }
+      ],
+      "sources": [
+        "henry-46day"
+      ]
+    }
+  ],
+  "issues": [
+    {
+      "id": "henry-hope-services",
+      "kind": "levy",
+      "jurisdiction": "Henry County HOPE Services",
+      "title": "Tax levy (additional): Community developmental disabilities programs and services",
+      "area": "Henry County HOPE Services",
+      "levy": {
+        "type": "Additional",
+        "purpose": "Community developmental disabilities programs and services.",
+        "mills": "2.5 mills",
+        "term": "5 years, commencing in 2026",
+        "firstDue": "2027"
+      },
+      "sources": [
+        "henry-46day"
+      ]
+    },
+    {
+      "id": "henry-health-district",
+      "kind": "levy",
+      "jurisdiction": "Henry County General Health District",
+      "title": "Tax levy (renewal): Current expenses",
+      "area": "Henry County General Health District",
+      "levy": {
+        "type": "Renewal",
+        "purpose": "Current expenses.",
+        "mills": "1.2 mills",
+        "term": "5 years, commencing in 2027",
+        "firstDue": "2028"
+      },
+      "sources": [
+        "henry-46day"
+      ]
+    },
+    {
+      "id": "four-county-adamhs",
+      "kind": "levy",
+      "jurisdiction": "Four County ADAMhs Board (Defiance, Fulton, Henry and Williams)",
+      "title": "Tax levy (renewal): Current expenses of the Four County Board of Alcohol, Drug Addiction and Mental Health Services District",
+      "area": "Henry County",
+      "levy": {
+        "type": "Renewal",
+        "purpose": "Current expenses of the Four County Board of Alcohol, Drug Addiction and Mental Health Services District.",
+        "mills": "0.7 mill",
+        "term": "5 years, commencing in 2027",
+        "firstDue": "2028",
+        "estimate": "$2,293,020 a year; $13 for each $100,000 of market value"
+      },
+      "sources": [
+        "henry-46day"
+      ]
+    },
+    {
+      "id": "deshler-current",
+      "kind": "levy",
+      "jurisdiction": "Village of Deshler",
+      "title": "Tax levy (renewal): Current expenses",
+      "area": "Deshler Village (precinct 7.0)",
+      "places": [
+        "Deshler Village"
+      ],
+      "levy": {
+        "type": "Renewal",
+        "purpose": "Current expenses.",
+        "mills": "1.4 mills",
+        "term": "5 years, commencing in 2027",
+        "firstDue": "2028"
+      },
+      "sources": [
+        "henry-46day"
+      ]
+    },
+    {
+      "id": "ridgeville-twp-roads",
+      "kind": "levy",
+      "jurisdiction": "Ridgeville Township",
+      "title": "Tax levy (additional): General construction, reconstruction, resurfacing and repair of streets, roads and bridges",
+      "area": "Ridgeville Township (precincts 22.1, 22.2)",
+      "places": [
+        "Ridgeville Township"
+      ],
+      "levy": {
+        "type": "Additional",
+        "purpose": "General construction, reconstruction, resurfacing and repair of streets, roads and bridges.",
+        "mills": "2 mills",
+        "term": "5 years, commencing in 2026",
+        "firstDue": "2028"
+      },
+      "note": "The Board's notice prints \"Commencing 2026, First due 2028\"; a levy commencing in 2026 is normally first due in 2027 (the Northwest Signal's filing report says 2027). Shown as the notice gives it.",
+      "sources": [
+        "henry-46day"
+      ]
+    },
+    {
+      "id": "napoleon-twp-fire",
+      "kind": "levy",
+      "jurisdiction": "Napoleon Township",
+      "title": "Tax levy (additional): Providing and maintaining fire apparatus and buildings of Napoleon Township and related matters",
+      "area": "Napoleon Township (Napoleon East and West, precincts 17.0, 18.0)",
+      "places": [
+        "Napoleon Township"
+      ],
+      "levy": {
+        "type": "Additional",
+        "purpose": "Providing and maintaining fire apparatus and buildings of Napoleon Township and related matters.",
+        "mills": "4 mills",
+        "term": "Continuing, commencing in 2026",
+        "firstDue": "2027"
+      },
+      "sources": [
+        "henry-46day"
+      ]
+    },
+    {
+      "id": "liberty-twp-current",
+      "kind": "levy",
+      "jurisdiction": "Liberty Township (including the Liberty Township parts of Napoleon and Liberty Center)",
+      "title": "Tax levy (renewal): Current expenses",
+      "area": "Liberty Township (precincts 1.2, 4.2, 13.1, 14.0)",
+      "places": [
+        "Liberty Center Village",
+        "Liberty Township",
+        "Napoleon City"
+      ],
+      "levy": {
+        "type": "Renewal",
+        "purpose": "Current expenses.",
+        "mills": "0.75 mill",
+        "term": "5 years, commencing in 2026",
+        "firstDue": "2027"
+      },
+      "sources": [
+        "henry-46day"
+      ]
+    },
+    {
+      "id": "harrison-twp-fire",
+      "kind": "levy",
+      "jurisdiction": "Harrison Township",
+      "title": "Tax levy (additional): Providing and maintaining fire apparatus of Harrison Township and related matters",
+      "area": "Harrison Township (precincts 12.1, 12.2, 12.3)",
+      "places": [
+        "Harrison Township"
+      ],
+      "levy": {
+        "type": "Additional",
+        "purpose": "Providing and maintaining fire apparatus of Harrison Township and related matters.",
+        "mills": "4 mills",
+        "term": "5 years, commencing in 2027",
+        "firstDue": "2028"
+      },
+      "sources": [
+        "henry-46day"
+      ]
+    },
+    {
+      "id": "pleasant-twp-roads",
+      "kind": "levy",
+      "jurisdiction": "Pleasant Township",
+      "title": "Tax levy (renewal): General construction, reconstruction, resurfacing and repair of streets, roads and bridges",
+      "area": "Pleasant Township (precinct 20.1)",
+      "places": [
+        "Pleasant Township"
+      ],
+      "levy": {
+        "type": "Renewal",
+        "purpose": "General construction, reconstruction, resurfacing and repair of streets, roads and bridges.",
+        "mills": "2 mills",
+        "firstDue": "2027"
+      },
+      "note": "The Board's notice gives \"Commencing 2026, First Due 2027\" but no number of years (the Northwest Signal's filing report says five years).",
+      "sources": [
+        "henry-46day"
+      ]
+    },
+    {
+      "id": "pettisville-lsd",
+      "kind": "levy",
+      "jurisdiction": "Pettisville Local School District (Fulton and Henry)",
+      "title": "Tax levy (renewal): General permanent improvements",
+      "area": "Pettisville Local School District (Henry County part: precincts 11.4, 22.2)",
+      "places": [
+        "Freedom Township",
+        "Ridgeville Township"
+      ],
+      "levy": {
+        "type": "Renewal",
+        "purpose": "General permanent improvements.",
+        "mills": "2.5 mills",
+        "term": "5 years, commencing in 2026",
+        "firstDue": "2027"
+      },
+      "sources": [
+        "henry-46day"
+      ]
+    }
+  ]
+}

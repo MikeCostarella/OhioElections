@@ -1,0 +1,583 @@
+{
+  "scope": "county",
+  "county": "Putnam",
+  "fips": "39137",
+  "election": "2026-11-03",
+  "retrieved": "2026-10-30",
+  "notes": [
+    "Taken from the Board of Elections' 46-day election notice, which lists every contest and issue, and the Board's sample ballots for each precinct, which give the full ballot wording and show which precincts vote on each issue (the notice gives no precinct lists for local issues).",
+    "Candidates are listed alphabetically by last name, not in ballot order: Ohio rotates the order of names from precinct to precinct. Certified write-in candidates are not printed on the ballot and are not listed.",
+    "\"Where you live\" uses the state voter file: a district or school levy is shown for a city, village or township when any of its voters live in that district. Your exact ballot depends on your precinct.",
+    "The Board's notice and sample ballots do not give local issue numbers."
+  ],
+  "places": [
+    "Belmore Village",
+    "Blanchard Township",
+    "Cloverdale Village",
+    "Columbus Grove Village",
+    "Continental Village",
+    "Dupont Village",
+    "Fort Jennings Village",
+    "Gilboa Village",
+    "Glandorf Village",
+    "Greensburg Township",
+    "Jackson Township",
+    "Jennings Township",
+    "Kalida Village",
+    "Leipsic Village",
+    "Liberty Township",
+    "Miller City Village",
+    "Monroe Township",
+    "Monterey Township",
+    "Ottawa Township",
+    "Ottawa Village",
+    "Ottoville Village",
+    "Palmer Township",
+    "Pandora Village",
+    "Perry Township",
+    "Pleasant Township",
+    "Riley Township",
+    "Sugar Creek Township",
+    "Union Township",
+    "Van Buren Township",
+    "West Leipsic Village"
+  ],
+  "sources": {
+    "putnam-46day": {
+      "label": "Putnam County Board of Elections: 46-day election notice (FWAB), November 3, 2026 General Election (revised 9/18/2026)",
+      "url": "https://www.boe.ohio.gov/putnam/c/upload/FWAB_11November46Day.pdf"
+    },
+    "putnam-ballots": {
+      "label": "Putnam County Board of Elections: official sample ballots for all 69 precinct splits, November 3, 2026 (state ballot lookup)",
+      "url": "https://lookup.boe.ohio.gov/vtrapp/putnam/ballotlist.aspx"
+    }
+  },
+  "links": [
+    {
+      "label": "Board of Elections",
+      "url": "https://www.boe.ohio.gov/putnam/"
+    },
+    {
+      "label": "Election information",
+      "url": "https://www.boe.ohio.gov/putnam/election-info/"
+    },
+    {
+      "label": "Federal write-in absentee ballot notices",
+      "url": "https://www.boe.ohio.gov/putnam/election-info/federal-write-in-absentee-ballots/"
+    },
+    {
+      "label": "Sample ballots by precinct",
+      "url": "https://lookup.boe.ohio.gov/vtrapp/putnam/ballotlist.aspx"
+    },
+    {
+      "label": "Candidate and voter tools",
+      "url": "https://www.boe.ohio.gov/putnam/candidate-voter-tools/"
+    }
+  ],
+  "results": {
+    "status": "upcoming",
+    "links": [
+      {
+        "label": "Board of Elections: election results",
+        "url": "https://www.boe.ohio.gov/putnam/election-info/election-results/"
+      }
+    ]
+  },
+  "contests": [
+    {
+      "id": "congress-9",
+      "group": "U.S. House",
+      "office": "Representative to Congress",
+      "detail": "9th District",
+      "candidates": [
+        {
+          "name": "Marcy Kaptur",
+          "party": "DEM"
+        },
+        {
+          "name": "Derek Merrin",
+          "party": "REP"
+        }
+      ],
+      "sources": [
+        "putnam-46day",
+        "putnam-ballots"
+      ]
+    },
+    {
+      "id": "senate-1",
+      "group": "Ohio General Assembly",
+      "office": "State Senator",
+      "detail": "1st District · full term commencing January 1, 2027",
+      "candidates": [
+        {
+          "name": "Craig S. Riedel",
+          "party": "REP"
+        }
+      ],
+      "sources": [
+        "putnam-46day",
+        "putnam-ballots"
+      ]
+    },
+    {
+      "id": "rep-82",
+      "group": "Ohio General Assembly",
+      "office": "State Representative",
+      "detail": "82nd District",
+      "candidates": [
+        {
+          "name": "Christopher Elder",
+          "party": "LIB"
+        },
+        {
+          "name": "Roy W. Klopfenstein",
+          "party": "REP"
+        },
+        {
+          "name": "Maddux McCray",
+          "party": "DEM"
+        }
+      ],
+      "sources": [
+        "putnam-46day",
+        "putnam-ballots"
+      ]
+    },
+    {
+      "id": "appeals-3-0209",
+      "group": "Ohio Court of Appeals",
+      "office": "Judge of the Court of Appeals",
+      "detail": "3rd District · full term commencing February 9, 2027",
+      "candidates": [
+        {
+          "name": "Mark C. Miller",
+          "party": "REP"
+        }
+      ],
+      "sources": [
+        "putnam-46day",
+        "putnam-ballots"
+      ]
+    },
+    {
+      "id": "commissioner",
+      "group": "County offices",
+      "office": "County Commissioner",
+      "detail": "Full term commencing January 1, 2027",
+      "candidates": [
+        {
+          "name": "Jeff Vance",
+          "party": "REP"
+        }
+      ],
+      "sources": [
+        "putnam-46day",
+        "putnam-ballots"
+      ]
+    },
+    {
+      "id": "auditor",
+      "group": "County offices",
+      "office": "County Auditor",
+      "detail": "Full term commencing March 8, 2027",
+      "candidates": [
+        {
+          "name": "Robert L. Benroth",
+          "party": "REP"
+        }
+      ],
+      "sources": [
+        "putnam-46day",
+        "putnam-ballots"
+      ]
+    },
+    {
+      "id": "clerk-of-courts",
+      "group": "County offices",
+      "office": "Clerk of the Court of Common Pleas",
+      "detail": "Unexpired term ending December 31, 2028",
+      "candidates": [
+        {
+          "name": "Susan R. Maag",
+          "party": "REP"
+        }
+      ],
+      "sources": [
+        "putnam-46day",
+        "putnam-ballots"
+      ]
+    },
+    {
+      "id": "cp-probate-juvenile",
+      "group": "Court of Common Pleas",
+      "office": "Judge of the Court of Common Pleas, Probate/Juvenile Division",
+      "detail": "Full term commencing February 9, 2027 · no party label on the ballot",
+      "candidates": [
+        {
+          "name": "Barry E. Schroeder"
+        }
+      ],
+      "sources": [
+        "putnam-46day",
+        "putnam-ballots"
+      ]
+    }
+  ],
+  "issues": [
+    {
+      "id": "columbus-grove-pleasant-fire",
+      "kind": "levy",
+      "jurisdiction": "Columbus Grove/Pleasant Township Joint Fire District",
+      "title": "Tax levy (renewal): Fire apparatus, mechanical resuscitators or other fire equipment and appliances, buildings or sites, sources of water supply, fire-alarm communications, firefighting companies or permanent, part-time or volunteer firefighting, emergency medical service, administrative or communications personnel (including employer contributions), ambulance equipment, and ambulance, paramedic or other emergency medical services",
+      "area": "Columbus Grove Village and Pleasant Township (precincts 023 Columbus Grove Corp., 024 Pleasant Twp.)",
+      "places": [
+        "Columbus Grove Village",
+        "Pleasant Township"
+      ],
+      "levy": {
+        "type": "Renewal",
+        "purpose": "Fire apparatus, mechanical resuscitators or other fire equipment and appliances, buildings or sites, sources of water supply, fire-alarm communications, firefighting companies or permanent, part-time or volunteer firefighting, emergency medical service, administrative or communications personnel (including employer contributions), ambulance equipment, and ambulance, paramedic or other emergency medical services.",
+        "mills": "2 mills",
+        "term": "5 years, commencing in 2027",
+        "firstDue": "2028",
+        "estimate": "$202,260 a year; $52 for each $100,000 of market value"
+      },
+      "sources": [
+        "putnam-46day",
+        "putnam-ballots"
+      ]
+    },
+    {
+      "id": "continental-current",
+      "kind": "levy",
+      "jurisdiction": "Village of Continental",
+      "title": "Tax levy (renewal): Current expenses",
+      "area": "Continental Village (precinct 008 Monroe Twp./Continental, split 1)",
+      "places": [
+        "Continental Village"
+      ],
+      "levy": {
+        "type": "Renewal",
+        "purpose": "Current expenses.",
+        "mills": "1.5 mills",
+        "term": "5 years, commencing in 2027",
+        "firstDue": "2028",
+        "estimate": "$25,000 a year; $36 for each $100,000 of market value"
+      },
+      "sources": [
+        "putnam-46day",
+        "putnam-ballots"
+      ]
+    },
+    {
+      "id": "continental-police",
+      "kind": "levy",
+      "jurisdiction": "Village of Continental",
+      "title": "Tax levy (renewal): Police protection",
+      "area": "Continental Village (precinct 008 Monroe Twp./Continental, split 1)",
+      "places": [
+        "Continental Village"
+      ],
+      "levy": {
+        "type": "Renewal",
+        "purpose": "Police protection.",
+        "mills": "2 mills",
+        "term": "5 years, commencing in 2027",
+        "firstDue": "2028",
+        "estimate": "$34,000 a year; $48 for each $100,000 of market value"
+      },
+      "sources": [
+        "putnam-46day",
+        "putnam-ballots"
+      ]
+    },
+    {
+      "id": "continental-streets",
+      "kind": "levy",
+      "jurisdiction": "Village of Continental",
+      "title": "Tax levy (renewal): General construction, reconstruction, resurfacing and repair of streets, roads and bridges in the village",
+      "area": "Continental Village (precinct 008 Monroe Twp./Continental, split 1)",
+      "places": [
+        "Continental Village"
+      ],
+      "levy": {
+        "type": "Renewal",
+        "purpose": "General construction, reconstruction, resurfacing and repair of streets, roads and bridges in the village.",
+        "mills": "2 mills",
+        "term": "5 years, commencing in 2027",
+        "firstDue": "2028",
+        "estimate": "$34,000 a year; $48 for each $100,000 of market value"
+      },
+      "note": "The Village of Continental has three renewal levies on this ballot (current expenses, police, streets).",
+      "sources": [
+        "putnam-46day",
+        "putnam-ballots"
+      ]
+    },
+    {
+      "id": "gilboa-current",
+      "kind": "levy",
+      "jurisdiction": "Village of Gilboa",
+      "title": "Tax levy (renewal): Current expenses",
+      "area": "Gilboa Village (precinct 001 Blanchard Twp., split 1)",
+      "places": [
+        "Gilboa Village"
+      ],
+      "levy": {
+        "type": "Renewal",
+        "purpose": "Current expenses.",
+        "mills": "11 mills",
+        "term": "3 years, commencing in 2027",
+        "firstDue": "2028",
+        "estimate": "$21,650 a year; $230 for each $100,000 of market value"
+      },
+      "sources": [
+        "putnam-46day",
+        "putnam-ballots"
+      ]
+    },
+    {
+      "id": "greensburg-twp-roads",
+      "kind": "levy",
+      "jurisdiction": "Greensburg Township",
+      "title": "Tax levy (renewal): Township road repair",
+      "area": "Greensburg Township (precinct 002)",
+      "places": [
+        "Greensburg Township"
+      ],
+      "levy": {
+        "type": "Renewal",
+        "purpose": "Township road repair.",
+        "mills": "1 mill",
+        "term": "5 years, commencing in 2027",
+        "firstDue": "2028",
+        "estimate": "$47,570 a year; $26 for each $100,000 of market value"
+      },
+      "sources": [
+        "putnam-46day",
+        "putnam-ballots"
+      ]
+    },
+    {
+      "id": "jackson-twp-roads",
+      "kind": "levy",
+      "jurisdiction": "Jackson Township",
+      "title": "Tax levy (renewal): General construction, reconstruction, resurfacing and repair of roads",
+      "area": "Jackson Township (precinct 003)",
+      "places": [
+        "Jackson Township"
+      ],
+      "levy": {
+        "type": "Renewal",
+        "purpose": "General construction, reconstruction, resurfacing and repair of roads.",
+        "mills": "5 mills",
+        "term": "5 years, commencing in 2027",
+        "firstDue": "2028",
+        "estimate": "$163,050 a year; $116 for each $100,000 of market value"
+      },
+      "sources": [
+        "putnam-46day",
+        "putnam-ballots"
+      ]
+    },
+    {
+      "id": "miller-city-current",
+      "kind": "levy",
+      "jurisdiction": "Village of Miller City",
+      "title": "Tax levy (renewal): Current expenses",
+      "area": "Miller City Village (precinct 021 Palmer Twp., split 1)",
+      "places": [
+        "Miller City Village"
+      ],
+      "levy": {
+        "type": "Renewal",
+        "purpose": "Current expenses.",
+        "mills": "1.8 mills",
+        "term": "5 years, commencing in 2027",
+        "firstDue": "2028",
+        "estimate": "$4,370 a year; $37 for each $100,000 of market value"
+      },
+      "sources": [
+        "putnam-46day",
+        "putnam-ballots"
+      ]
+    },
+    {
+      "id": "ottawa-twp-fire",
+      "kind": "levy",
+      "jurisdiction": "Ottawa Township (including Ottawa and Glandorf villages)",
+      "title": "Tax levy (renewal): Fire protection",
+      "area": "Ottawa Township, Ottawa Village and Glandorf Village (precincts 012-016, 025)",
+      "places": [
+        "Glandorf Village",
+        "Ottawa Township",
+        "Ottawa Village"
+      ],
+      "levy": {
+        "type": "Renewal",
+        "purpose": "Fire protection.",
+        "mills": "1.35 mills",
+        "term": "5 years, commencing in 2027",
+        "firstDue": "2028",
+        "estimate": "$107,017 a year; $34 for each $100,000 of market value"
+      },
+      "sources": [
+        "putnam-46day",
+        "putnam-ballots"
+      ]
+    },
+    {
+      "id": "ottawa-fire-personnel",
+      "kind": "levy",
+      "jurisdiction": "Village of Ottawa",
+      "title": "Tax levy (renewal): Payment of permanent, part-time or volunteer fire department personnel",
+      "area": "Ottawa Village (precincts 013-015 Ottawa Corp. 1-3)",
+      "places": [
+        "Ottawa Village"
+      ],
+      "levy": {
+        "type": "Renewal",
+        "purpose": "Payment of permanent, part-time or volunteer fire department personnel.",
+        "mills": "1.1 mills",
+        "term": "5 years, commencing in 2027",
+        "firstDue": "2028",
+        "estimate": "$109,220 a year; $26 for each $100,000 of market value"
+      },
+      "sources": [
+        "putnam-46day",
+        "putnam-ballots"
+      ]
+    },
+    {
+      "id": "palmer-twp-fire",
+      "kind": "levy",
+      "jurisdiction": "Palmer Township (including Miller City)",
+      "title": "Tax levy (renewal): Fire protection",
+      "area": "Palmer Township and Miller City Village (precinct 021)",
+      "places": [
+        "Miller City Village",
+        "Palmer Township"
+      ],
+      "levy": {
+        "type": "Renewal",
+        "purpose": "Fire protection.",
+        "mills": "0.7 mill",
+        "term": "5 years, commencing in 2027",
+        "firstDue": "2028",
+        "estimate": "$21,420 a year; $15 for each $100,000 of market value"
+      },
+      "sources": [
+        "putnam-46day",
+        "putnam-ballots"
+      ]
+    },
+    {
+      "id": "palmer-twp-roads",
+      "kind": "levy",
+      "jurisdiction": "Palmer Township",
+      "title": "Tax levy (renewal): Road repair",
+      "area": "Palmer Township outside Miller City (precinct 021, splits 2-4)",
+      "places": [
+        "Palmer Township"
+      ],
+      "levy": {
+        "type": "Renewal",
+        "purpose": "Road repair.",
+        "mills": "1 mill",
+        "term": "5 years, commencing in 2027",
+        "firstDue": "2028",
+        "estimate": "$34,070 a year; $23 for each $100,000 of market value"
+      },
+      "sources": [
+        "putnam-46day",
+        "putnam-ballots"
+      ]
+    },
+    {
+      "id": "perry-twp-fire",
+      "kind": "levy",
+      "jurisdiction": "Perry Township (including Cloverdale and Dupont)",
+      "title": "Tax levy (renewal): Fire protection",
+      "area": "Perry Township, Cloverdale Village and Dupont Village (precinct 022)",
+      "places": [
+        "Cloverdale Village",
+        "Dupont Village",
+        "Perry Township"
+      ],
+      "levy": {
+        "type": "Renewal",
+        "purpose": "Fire protection.",
+        "mills": "2 mills",
+        "term": "5 years, commencing in 2027",
+        "firstDue": "2028",
+        "estimate": "$35,240 a year; $27 for each $100,000 of market value"
+      },
+      "sources": [
+        "putnam-46day",
+        "putnam-ballots"
+      ]
+    },
+    {
+      "id": "union-twp-fire",
+      "kind": "levy",
+      "jurisdiction": "Union Township (including Kalida)",
+      "title": "Tax levy (renewal): Providing fire protection",
+      "area": "Union Township and Kalida Village (precincts 019 Kalida Corp., 020 Union Twp.)",
+      "places": [
+        "Kalida Village",
+        "Union Township"
+      ],
+      "levy": {
+        "type": "Renewal",
+        "purpose": "Providing fire protection.",
+        "mills": "0.25 mill",
+        "term": "5 years, commencing in 2027",
+        "firstDue": "2028",
+        "estimate": "$19,130 a year; $5 for each $100,000 of market value"
+      },
+      "sources": [
+        "putnam-46day",
+        "putnam-ballots"
+      ]
+    },
+    {
+      "id": "mccomb-bond",
+      "kind": "levy",
+      "jurisdiction": "McComb Local School District (Hancock, Putnam and Wood)",
+      "title": "School district income tax (0.25%) and bond issue ($23,815,000)",
+      "area": "McComb Local School District (Hancock, Putnam and Wood)",
+      "places": [
+        "Blanchard Township"
+      ],
+      "levy": {
+        "type": "Income tax and bond issue",
+        "purpose": "Income tax for current expenses; bonds for constructing school facilities, including a new K-12 building.",
+        "mills": "6.99 mills (bond)",
+        "term": "Income tax for a continuing period beginning January 1, 2027; bonds up to 37 years",
+        "estimate": "$23,815,000 principal; $245 for each $100,000 of market value"
+      },
+      "text": "Shall the McComb Local School District be authorized to do both of the following: 1. Impose an annual income tax of 0.25% on the school district income of individuals, for a continuing period of time, beginning January 1, 2027, for the purpose of current expenses? 2. Issue bonds for the purpose of constructing school facilities, including constructing a new K-12 building and including under a program of the Ohio Facilities Construction Commission, and renovating, repairing, improving and expanding existing school facilities; furnishing and equipping the same; improving the sites thereof; and acquiring real estate and interests therein in the principal amount of $23,815,000, to be repaid annually over a maximum period of 37 years, and levy a property tax outside the ten-mill limitation estimated by the county auditor to average over the bond repayment period 6.99 mills for each $1 of taxable value, which amounts to $245 for each $100,000 of the county auditor's market value, to pay the annual debt charges on the bonds, and to pay debt charges on any notes issued in anticipation of those bonds?",
+      "sources": [
+        "putnam-46day",
+        "putnam-ballots"
+      ]
+    },
+    {
+      "id": "paulding-evsd-income-tax",
+      "kind": "question",
+      "jurisdiction": "Paulding Exempted Village School District (Paulding and Putnam)",
+      "title": "School district income tax: 0.75% additional, 5 years, for permanent improvements",
+      "area": "Paulding Exempted Village School District (Putnam County part: precinct 008 Monroe Twp./Continental split 3, 022 Perry Twp. split 5)",
+      "places": [
+        "Monroe Township",
+        "Perry Township"
+      ],
+      "text": "Shall an annual income tax of 0.75 per cent on the school district income of individuals be imposed by Paulding Exempted Village School District, for five years, beginning January 1, 2027, for the purpose of permanent improvements?",
+      "sources": [
+        "putnam-46day",
+        "putnam-ballots"
+      ]
+    }
+  ]
+}

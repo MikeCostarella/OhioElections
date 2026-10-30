@@ -1,0 +1,340 @@
+{
+  "scope": "county",
+  "county": "Paulding",
+  "fips": "39125",
+  "election": "2026-11-03",
+  "retrieved": "2026-10-30",
+  "notes": [
+    "Taken from the Board of Elections' 46-day election notice, which lists every contest and issue with the precincts that vote on it and gives the issues' ballot wording.",
+    "Candidates are listed alphabetically by last name, not in ballot order: Ohio rotates the order of names from precinct to precinct. Certified write-in candidates are not printed on the ballot and are not listed.",
+    "\"Where you live\" uses the state voter file: a district or school levy is shown for a city, village or township when any of its voters live in that district. Your exact ballot depends on your precinct.",
+    "The Board's notice does not give local issue numbers; see your sample ballot for them."
+  ],
+  "places": [
+    "Antwerp Village",
+    "Auglaize Township",
+    "Benton Township",
+    "Blue Creek Township",
+    "Broughton Village",
+    "Brown Township",
+    "Carryall Township",
+    "Cecil Village",
+    "Crane Township",
+    "Emerald Township",
+    "Grover Hill Village",
+    "Harrison Township",
+    "Haviland Village",
+    "Jackson Township",
+    "Latty Township",
+    "Latty Village",
+    "Melrose Village",
+    "Oakwood Village",
+    "Paulding Township",
+    "Paulding Village",
+    "Payne Village",
+    "Scott Village",
+    "Washington Township"
+  ],
+  "sources": {
+    "paulding-46day": {
+      "label": "Paulding County Board of Elections: 46-day election notice (FWAB), November 3, 2026 General Election (revised 9/14/2026)",
+      "url": "https://www.boe.ohio.gov/paulding/c/upload/FWAB_11November46Day.pdf"
+    }
+  },
+  "links": [
+    {
+      "label": "Board of Elections",
+      "url": "https://www.boe.ohio.gov/paulding/"
+    },
+    {
+      "label": "Election information",
+      "url": "https://www.boe.ohio.gov/paulding/election-info/"
+    },
+    {
+      "label": "Federal write-in absentee ballot notices",
+      "url": "https://www.boe.ohio.gov/paulding/election-info/federal-write-in-absentee-ballots/"
+    },
+    {
+      "label": "Sample ballots by precinct",
+      "url": "https://lookup.boe.ohio.gov/vtrapp/paulding/ballotlist.aspx"
+    },
+    {
+      "label": "Candidate and voter tools",
+      "url": "https://www.boe.ohio.gov/paulding/candidate-voter-tools/"
+    }
+  ],
+  "results": {
+    "status": "upcoming",
+    "links": [
+      {
+        "label": "Board of Elections: election results",
+        "url": "https://www.boe.ohio.gov/paulding/election-info/election-results/"
+      }
+    ]
+  },
+  "contests": [
+    {
+      "id": "congress-9",
+      "group": "U.S. House",
+      "office": "Representative to Congress",
+      "detail": "9th District",
+      "candidates": [
+        {
+          "name": "Marcy Kaptur",
+          "party": "DEM"
+        },
+        {
+          "name": "Derek Merrin",
+          "party": "REP"
+        }
+      ],
+      "sources": [
+        "paulding-46day"
+      ]
+    },
+    {
+      "id": "senate-1",
+      "group": "Ohio General Assembly",
+      "office": "State Senator",
+      "detail": "1st District · full term commencing January 1, 2027",
+      "candidates": [
+        {
+          "name": "Craig S. Riedel",
+          "party": "REP"
+        }
+      ],
+      "sources": [
+        "paulding-46day"
+      ]
+    },
+    {
+      "id": "rep-82",
+      "group": "Ohio General Assembly",
+      "office": "State Representative",
+      "detail": "82nd District",
+      "candidates": [
+        {
+          "name": "Christopher Elder",
+          "party": "LIB"
+        },
+        {
+          "name": "Roy W. Klopfenstein",
+          "party": "REP"
+        },
+        {
+          "name": "Maddux McCray",
+          "party": "DEM"
+        }
+      ],
+      "sources": [
+        "paulding-46day"
+      ]
+    },
+    {
+      "id": "appeals-3-0209",
+      "group": "Ohio Court of Appeals",
+      "office": "Judge of the Court of Appeals",
+      "detail": "3rd District · full term commencing February 9, 2027",
+      "candidates": [
+        {
+          "name": "Mark C. Miller",
+          "party": "REP"
+        }
+      ],
+      "sources": [
+        "paulding-46day"
+      ]
+    },
+    {
+      "id": "commissioner",
+      "group": "County offices",
+      "office": "County Commissioner",
+      "detail": "Full term commencing January 1, 2027",
+      "candidates": [
+        {
+          "name": "Michael E. Iler",
+          "party": "REP"
+        }
+      ],
+      "sources": [
+        "paulding-46day"
+      ]
+    },
+    {
+      "id": "auditor",
+      "group": "County offices",
+      "office": "County Auditor",
+      "detail": "Full term commencing March 8, 2027",
+      "candidates": [
+        {
+          "name": "Angie G. Stoller",
+          "party": "REP"
+        }
+      ],
+      "sources": [
+        "paulding-46day"
+      ]
+    },
+    {
+      "id": "prosecutor",
+      "group": "County offices",
+      "office": "Prosecuting Attorney",
+      "detail": "Unexpired term ending December 31, 2028",
+      "candidates": [
+        {
+          "name": "Matthew Miller",
+          "party": "REP"
+        }
+      ],
+      "sources": [
+        "paulding-46day"
+      ]
+    }
+  ],
+  "issues": [
+    {
+      "id": "grover-hill-ems",
+      "kind": "levy",
+      "jurisdiction": "Village of Grover Hill",
+      "title": "Tax levy (renewal): Providing emergency medical service",
+      "area": "Grover Hill Village (precinct 11/2 Latty Twp. & Grover Hill)",
+      "places": [
+        "Grover Hill Village"
+      ],
+      "levy": {
+        "type": "Renewal",
+        "purpose": "Providing emergency medical service.",
+        "mills": "0.5 mill",
+        "term": "5 years, commencing in 2026",
+        "firstDue": "2027",
+        "estimate": "$880 a year; $5 for each $100,000 of the county auditor's market value"
+      },
+      "text": "A renewal of a tax for the benefit of Grover Hill Village for the purpose of providing emergency medical service, that the county auditor estimates will collect $880 annually, at a rate not exceeding 0.5 mill for each $1 of taxable value, which amounts to $5 for each $100,000 of the county auditor's market value, for 5 years, commencing in 2026, first due in calendar year 2027.",
+      "sources": [
+        "paulding-46day"
+      ]
+    },
+    {
+      "id": "paulding-income-tax-streets",
+      "kind": "question",
+      "jurisdiction": "Village of Paulding",
+      "title": "Municipal income tax: 0.10% additional, 5 years, for streets",
+      "area": "Paulding Village (precincts 13/1, 14/1, 15/1 Paulding Village 1-3)",
+      "places": [
+        "Paulding Village"
+      ],
+      "text": "Shall the Ordinance providing for an additional 0.10 per cent levy on income, for 5 years, for the purpose of street construction, reconstruction, repair, maintenance, and related street infrastructure improvements be passed?",
+      "sources": [
+        "paulding-46day"
+      ]
+    },
+    {
+      "id": "paulding-income-tax-pool",
+      "kind": "question",
+      "jurisdiction": "Village of Paulding",
+      "title": "Municipal income tax: 0.10% additional, 5 years, for the village swimming pool",
+      "area": "Paulding Village (precincts 13/1, 14/1, 15/1 Paulding Village 1-3)",
+      "places": [
+        "Paulding Village"
+      ],
+      "note": "The Village of Paulding has two separate 0.10% income tax questions on this ballot (streets and swimming pool).",
+      "text": "Shall the Ordinance providing for an additional 0.10 per cent levy on income, for 5 years, for the purpose of acquiring, constructing, improving, repairing, operating, maintaining, and equipping the village swimming pool and related facilities be passed?",
+      "sources": [
+        "paulding-46day"
+      ]
+    },
+    {
+      "id": "jackson-twp-fire",
+      "kind": "levy",
+      "jurisdiction": "Jackson Township (including Broughton and part of Paulding Village)",
+      "title": "Tax levy (renewal): Fire protection",
+      "area": "Jackson Township, Broughton Village and the Jackson Township part of Paulding Village (precincts 10/1, 10/2, 10/3, 15/1)",
+      "places": [
+        "Broughton Village",
+        "Jackson Township",
+        "Paulding Village"
+      ],
+      "levy": {
+        "type": "Renewal",
+        "purpose": "Fire protection.",
+        "mills": "0.6 mill",
+        "term": "5 years, commencing in 2026",
+        "firstDue": "2027",
+        "estimate": "$10,941 a year; $5 for each $100,000 of the county auditor's market value"
+      },
+      "text": "A renewal of a tax for the benefit of Jackson Township for the purpose of fire protection, that the county auditor estimates will collect $10,941 annually, at a rate not exceeding 0.6 mill for each $1 of taxable value, which amounts to $5 for each $100,000 of the county auditor's market value, for 5 years, commencing in 2026, first due in calendar year 2027.",
+      "sources": [
+        "paulding-46day"
+      ]
+    },
+    {
+      "id": "latty-twp-fire",
+      "kind": "levy",
+      "jurisdiction": "Latty Township (including Grover Hill)",
+      "title": "Tax levy (additional): Providing protection against fire, maintaining fire equipment and apparatus, and supporting fire and rescue services",
+      "area": "Latty Township and Grover Hill Village (precincts 11/1, 11/2)",
+      "places": [
+        "Grover Hill Village",
+        "Latty Township"
+      ],
+      "levy": {
+        "type": "Additional",
+        "purpose": "Providing protection against fire, maintaining fire equipment and apparatus, and supporting fire and rescue services.",
+        "mills": "1.25 mills",
+        "term": "5 years, commencing in 2026",
+        "firstDue": "2027",
+        "estimate": "$49,826 a year; $44 for each $100,000 of the county auditor's market value"
+      },
+      "text": "An additional tax for the benefit of Latty Township for the purpose of providing protection against fire, maintaining fire equipment & apparatus & support fire and rescue services, that the county auditor estimates will collect $49,826 annually, at a rate not exceeding 1.25 mills for each $1 of taxable value, which amounts to $44 for each $100,000 of the county auditor's market value, for 5 years, commencing in 2026, first due in calendar year 2027.",
+      "sources": [
+        "paulding-46day"
+      ]
+    },
+    {
+      "id": "washington-twp-fire",
+      "kind": "levy",
+      "jurisdiction": "Washington Township",
+      "title": "Tax levy (renewal): Fire protection",
+      "area": "Washington Township (precincts 16/1, 16/2, 16/3)",
+      "places": [
+        "Washington Township"
+      ],
+      "levy": {
+        "type": "Renewal",
+        "purpose": "Fire protection.",
+        "mills": "1 mill",
+        "term": "5 years, commencing in 2027",
+        "firstDue": "2028",
+        "estimate": "$16,285 a year; $13 for each $100,000 of the county auditor's market value"
+      },
+      "text": "A renewal of a tax for the benefit of Washington Township for the purpose of fire protection, that the county auditor estimates will collect $16,285 annually, at a rate not exceeding 1 mill for each $1 of taxable value, which amounts to $13 for each $100,000 of the county auditor's market value, for 5 years, commencing in 2027, first due in calendar year 2028.",
+      "sources": [
+        "paulding-46day"
+      ]
+    },
+    {
+      "id": "paulding-evsd-income-tax",
+      "kind": "question",
+      "jurisdiction": "Paulding Exempted Village School District (Paulding and Putnam)",
+      "title": "School district income tax: 0.75% additional, 5 years, for permanent improvements",
+      "area": "Paulding Exempted Village School District (Paulding and Putnam counties; Paulding County precincts 01/1, 04/1-3, 07/1, 07/3, 08/1, 10/1, 12/1, 13/1, 14/1, 14/2, 15/1, 16/1)",
+      "places": [
+        "Auglaize Township",
+        "Brown Township",
+        "Cecil Village",
+        "Crane Township",
+        "Emerald Township",
+        "Jackson Township",
+        "Melrose Village",
+        "Oakwood Village",
+        "Paulding Township",
+        "Paulding Village",
+        "Washington Township"
+      ],
+      "text": "Shall an annual income tax of 0.75 per cent on the school district income of individuals be imposed by Paulding Exempted Village School District, for five years, beginning January 1, 2027, for the purpose of permanent improvements?",
+      "sources": [
+        "paulding-46day"
+      ]
+    }
+  ]
+}
