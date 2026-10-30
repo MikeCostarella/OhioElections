@@ -1,0 +1,878 @@
+{
+  "scope": "county",
+  "county": "Delaware",
+  "fips": "39041",
+  "election": "2026-11-03",
+  "retrieved": "2026-10-30",
+  "notes": [
+    "Taken from the Board of Elections' 46-day election notice, which lists every contest and issue with the precincts that vote on it. Issue wording is condensed from the notice; the full wording is on the sample ballot.",
+    "Candidates are listed alphabetically by last name, not in ballot order: Ohio rotates the order of names from precinct to precinct. Certified write-in candidates are not printed on the ballot and are not listed.",
+    "\"Where you live\" uses the state voter file: a district or school levy is shown for a city, village or township when any of its voters live in that district. Your exact ballot depends on your precinct.",
+    "The Board's notice does not give local issue numbers; see your sample ballot for them."
+  ],
+  "places": [
+    "Ashley Village",
+    "Berkshire Township",
+    "Berlin Township",
+    "Brown Township",
+    "Columbus City",
+    "Concord Township",
+    "Delaware City",
+    "Delaware Township",
+    "Dublin City",
+    "Galena Village",
+    "Genoa Township",
+    "Harlem Township",
+    "Kingston Township",
+    "Liberty Township",
+    "Marlboro Township",
+    "Orange Township",
+    "Ostrander Village",
+    "Oxford Township",
+    "Porter Township",
+    "Powell City",
+    "Radnor Township",
+    "Scioto Township",
+    "Shawnee Hills Village",
+    "Sunbury City",
+    "Thompson Township",
+    "Trenton Township",
+    "Troy Township",
+    "Westerville City"
+  ],
+  "sources": {
+    "delaware-46day": {
+      "label": "Delaware County Board of Elections: 46-day election notice (FWAB), November 3, 2026 General Election (revised October 2, 2026)",
+      "url": "https://vote.delawarecountyohio.gov/wp-content/uploads/2026/10/46-DAY-NOV-2026-FWAB-PDF1.pdf"
+    }
+  },
+  "links": [
+    {
+      "label": "Board of Elections",
+      "url": "https://vote.delawarecountyohio.gov/"
+    },
+    {
+      "label": "Sample ballots by precinct",
+      "url": "https://lookup.boe.ohio.gov/vtrapp/delaware/ballotlist.aspx"
+    },
+    {
+      "label": "Who are my elected officials?",
+      "url": "https://lookup.boe.ohio.gov/vtrapp/delaware/cnm.aspx"
+    }
+  ],
+  "results": {
+    "status": "upcoming",
+    "links": [
+      {
+        "label": "Board of Elections",
+        "url": "https://vote.delawarecountyohio.gov/"
+      }
+    ]
+  },
+  "contests": [
+    {
+      "id": "congress-4",
+      "group": "U.S. House",
+      "office": "Representative to Congress",
+      "detail": "4th District",
+      "area": "Ashley Village, Berlin Township, Brown Township, Concord Township, Delaware City, Delaware Township, Dublin City, Liberty Township, Marlboro Township, Ostrander Village, Oxford Township, Radnor Township, Scioto Township, Shawnee Hills Village, Thompson Township, Troy Township",
+      "places": [
+        "Ashley Village",
+        "Berlin Township",
+        "Brown Township",
+        "Concord Township",
+        "Delaware City",
+        "Delaware Township",
+        "Dublin City",
+        "Liberty Township",
+        "Marlboro Township",
+        "Ostrander Village",
+        "Oxford Township",
+        "Radnor Township",
+        "Scioto Township",
+        "Shawnee Hills Village",
+        "Thompson Township",
+        "Troy Township"
+      ],
+      "candidates": [
+        {
+          "name": "Jim Jordan",
+          "party": "REP"
+        },
+        {
+          "name": "Joshua D. Kolasinski",
+          "party": "DEM"
+        },
+        {
+          "name": "Tracey L. Tackett",
+          "party": "Nonparty"
+        }
+      ],
+      "sources": [
+        "delaware-46day"
+      ]
+    },
+    {
+      "id": "congress-12",
+      "group": "U.S. House",
+      "office": "Representative to Congress",
+      "detail": "12th District",
+      "area": "Berkshire Township, Berlin Township, Brown Township, Columbus City, Delaware City, Galena Village, Genoa Township, Harlem Township, Kingston Township, Liberty Township, Orange Township, Porter Township, Powell City, Sunbury City, Trenton Township, Westerville City",
+      "places": [
+        "Berkshire Township",
+        "Berlin Township",
+        "Brown Township",
+        "Columbus City",
+        "Delaware City",
+        "Galena Village",
+        "Genoa Township",
+        "Harlem Township",
+        "Kingston Township",
+        "Liberty Township",
+        "Orange Township",
+        "Porter Township",
+        "Powell City",
+        "Sunbury City",
+        "Trenton Township",
+        "Westerville City"
+      ],
+      "candidates": [
+        {
+          "name": "Troy Balderson",
+          "party": "REP"
+        },
+        {
+          "name": "Jerrad Christian",
+          "party": "DEM"
+        }
+      ],
+      "sources": [
+        "delaware-46day"
+      ]
+    },
+    {
+      "id": "senate-19",
+      "group": "Ohio General Assembly",
+      "office": "State Senator",
+      "detail": "19th District",
+      "candidates": [
+        {
+          "name": "Scott Charland",
+          "party": "DEM"
+        },
+        {
+          "name": "Ryan Rivers",
+          "party": "REP"
+        }
+      ],
+      "sources": [
+        "delaware-46day"
+      ]
+    },
+    {
+      "id": "rep-60",
+      "group": "Ohio General Assembly",
+      "office": "State Representative",
+      "detail": "60th District",
+      "area": "Berlin Township, Columbus City, Concord Township, Delaware City, Dublin City, Genoa Township, Liberty Township, Orange Township, Ostrander Village, Powell City, Scioto Township, Shawnee Hills Village, Sunbury City, Westerville City",
+      "places": [
+        "Berlin Township",
+        "Columbus City",
+        "Concord Township",
+        "Delaware City",
+        "Dublin City",
+        "Genoa Township",
+        "Liberty Township",
+        "Orange Township",
+        "Ostrander Village",
+        "Powell City",
+        "Scioto Township",
+        "Shawnee Hills Village",
+        "Sunbury City",
+        "Westerville City"
+      ],
+      "candidates": [
+        {
+          "name": "Shelby Kimball",
+          "party": "DEM"
+        },
+        {
+          "name": "Brian Lorenz",
+          "party": "REP"
+        }
+      ],
+      "sources": [
+        "delaware-46day"
+      ]
+    },
+    {
+      "id": "rep-61",
+      "group": "Ohio General Assembly",
+      "office": "State Representative",
+      "detail": "61st District",
+      "area": "Ashley Village, Berkshire Township, Berlin Township, Brown Township, Delaware City, Delaware Township, Galena Village, Genoa Township, Harlem Township, Kingston Township, Liberty Township, Marlboro Township, Oxford Township, Porter Township, Radnor Township, Sunbury City, Thompson Township, Trenton Township, Troy Township",
+      "places": [
+        "Ashley Village",
+        "Berkshire Township",
+        "Berlin Township",
+        "Brown Township",
+        "Delaware City",
+        "Delaware Township",
+        "Galena Village",
+        "Genoa Township",
+        "Harlem Township",
+        "Kingston Township",
+        "Liberty Township",
+        "Marlboro Township",
+        "Oxford Township",
+        "Porter Township",
+        "Radnor Township",
+        "Sunbury City",
+        "Thompson Township",
+        "Trenton Township",
+        "Troy Township"
+      ],
+      "candidates": [
+        {
+          "name": "Vince McGrail",
+          "party": "DEM"
+        },
+        {
+          "name": "Shawn Stevens",
+          "party": "REP"
+        }
+      ],
+      "sources": [
+        "delaware-46day"
+      ]
+    },
+    {
+      "id": "appeals-5",
+      "group": "Ohio Court of Appeals",
+      "office": "Judge of the Court of Appeals",
+      "detail": "5th District · term commencing February 9, 2027",
+      "candidates": [
+        {
+          "name": "Matthew George",
+          "party": "REP"
+        }
+      ],
+      "sources": [
+        "delaware-46day"
+      ]
+    },
+    {
+      "id": "commissioner",
+      "group": "County offices",
+      "office": "County Commissioner",
+      "detail": "Term commencing January 1, 2027",
+      "candidates": [
+        {
+          "name": "Ryan Grissinger",
+          "party": "DEM"
+        },
+        {
+          "name": "Renee Vaughan",
+          "party": "REP"
+        }
+      ],
+      "sources": [
+        "delaware-46day"
+      ]
+    },
+    {
+      "id": "auditor",
+      "group": "County offices",
+      "office": "County Auditor",
+      "detail": "Term commencing March 8, 2027",
+      "candidates": [
+        {
+          "name": "George Kaitsa",
+          "party": "REP"
+        }
+      ],
+      "sources": [
+        "delaware-46day"
+      ]
+    },
+    {
+      "id": "cp-gen-0209",
+      "group": "Court of Common Pleas",
+      "office": "Judge of the Court of Common Pleas, General Division",
+      "detail": "Term commencing February 9, 2027 · no party label on the ballot",
+      "candidates": [
+        {
+          "name": "Marianne T. Hemmeter"
+        }
+      ],
+      "sources": [
+        "delaware-46day"
+      ]
+    },
+    {
+      "id": "cp-gen-unexpired",
+      "group": "Court of Common Pleas",
+      "office": "Judge of the Court of Common Pleas, General Division",
+      "detail": "Unexpired term ending December 31, 2030 · no party label on the ballot",
+      "candidates": [
+        {
+          "name": "Nickolas K. McCoy"
+        },
+        {
+          "name": "Emma Mirles-Jones"
+        }
+      ],
+      "sources": [
+        "delaware-46day"
+      ]
+    },
+    {
+      "id": "cp-probate-juvenile",
+      "group": "Court of Common Pleas",
+      "office": "Judge of the Court of Common Pleas, Probate/Juvenile Division",
+      "detail": "Term commencing February 9, 2027 · no party label on the ballot",
+      "candidates": [
+        {
+          "name": "David Hejmanowski"
+        }
+      ],
+      "sources": [
+        "delaware-46day"
+      ]
+    }
+  ],
+  "issues": [
+    {
+      "id": "delaware-dd",
+      "kind": "levy",
+      "jurisdiction": "Delaware County Board of Developmental Disabilities",
+      "title": "Tax levy (additional): Community developmental disabilities programs and services",
+      "area": "Delaware County Board of Developmental Disabilities",
+      "levy": {
+        "type": "Additional",
+        "purpose": "Community developmental disabilities programs and services.",
+        "mills": "1.8 mills",
+        "term": "5 years, commencing in 2026",
+        "firstDue": "2027",
+        "estimate": "$25,448,490 a year; $63 for each $100,000 of market value"
+      },
+      "sources": [
+        "delaware-46day"
+      ]
+    },
+    {
+      "id": "delaware-morrow-mhrs",
+      "kind": "levy",
+      "jurisdiction": "Delaware-Morrow Mental Health & Recovery Services Board (Delaware and Morrow counties)",
+      "title": "Tax levy (renewal and increase): Current expenses (renewal of 1.5 mills and an increase of 0.5 mill)",
+      "area": "Delaware-Morrow Mental Health & Recovery Services Board (Delaware and Morrow counties)",
+      "levy": {
+        "type": "Renewal and increase",
+        "purpose": "Current expenses (renewal of 1.5 mills and an increase of 0.5 mill).",
+        "mills": "2 mills",
+        "term": "5 years, commencing in 2027",
+        "firstDue": "2028",
+        "estimate": "$23,005,505 a year; $50 for each $100,000 of market value"
+      },
+      "sources": [
+        "delaware-46day"
+      ]
+    },
+    {
+      "id": "columbus-charter-petition",
+      "kind": "question",
+      "jurisdiction": "City of Columbus (Delaware, Fairfield and Franklin counties)",
+      "title": "Charter amendment (by petition): council members elected only by voters in their district",
+      "area": "Columbus City A–G",
+      "places": [
+        "Columbus City"
+      ],
+      "text": "This proposed charter amendment would limit the ability to vote for candidates for Columbus City Council to only those electors living within the districts that those candidates seek to represent. Ballots within council districts would include both citywide races and the district race, and a recall election of a district council member could be started by a petition signed by district electors equal to at least 15% of the votes cast in the district in the preceding mayoral election. Shall the proposed charter amendment be approved?",
+      "sources": [
+        "delaware-46day"
+      ]
+    },
+    {
+      "id": "columbus-charter-council",
+      "kind": "question",
+      "jurisdiction": "City of Columbus (Delaware, Fairfield and Franklin counties)",
+      "title": "Charter amendment (by Council): district-only voting for district seats, at-large seats added, 13-member Council",
+      "area": "Columbus City A–G",
+      "places": [
+        "Columbus City"
+      ],
+      "text": "This proposed charter amendment would limit the ability to vote for candidates for Columbus City Council to only those electors living within the districts that those candidates seek to represent. It adds two at-large council members elected in 2027 and two more elected in 2029 (four-year terms), moving from a nine-member to an eleven- and then a thirteen-member Council; redraws the council district map in 2027 and raises the allowed population variance between districts from 1% to 7.5%; requires district candidates to have lived in their district for a year before the primary; updates expulsion, quorum and vote requirements; sets petition signature requirements (150 district / 250 at-large); and allows recall of district and at-large members by petition. Shall the proposed charter amendment be approved?",
+      "sources": [
+        "delaware-46day"
+      ]
+    },
+    {
+      "id": "sunbury-data-center",
+      "kind": "question",
+      "jurisdiction": "City of Sunbury",
+      "title": "Charter amendment: new Section 11.05 prohibiting construction of a data center",
+      "area": "Sunbury City A–F",
+      "places": [
+        "Sunbury City"
+      ],
+      "text": "Shall Article XI, Section 11.05 of the Charter of the City of Sunbury be adopted? It would prohibit the construction of a data center, defined as one or more buildings, facilities or infrastructure on a single parcel or on contiguous, adjacent or otherwise aggregated parcels used primarily or exclusively for digital information services (managing, storing, processing and disseminating electronic data with computer systems, servers, networking and related equipment, including cooling) with an aggregate monthly demand or peak load greater than 25 megawatts from any energy source. The section is self-executing.",
+      "sources": [
+        "delaware-46day"
+      ]
+    },
+    {
+      "id": "galena-current",
+      "kind": "levy",
+      "jurisdiction": "Village of Galena",
+      "title": "Tax levy (additional): Current expenses",
+      "area": "Galena",
+      "places": [
+        "Galena Village"
+      ],
+      "levy": {
+        "type": "Additional",
+        "purpose": "Current expenses.",
+        "mills": "2 mills",
+        "term": "4 years, commencing in 2026",
+        "firstDue": "2027",
+        "estimate": "$192,942 a year; $70 for each $100,000 of market value"
+      },
+      "sources": [
+        "delaware-46day"
+      ]
+    },
+    {
+      "id": "berlin-fire",
+      "kind": "levy",
+      "jurisdiction": "Berlin Township",
+      "title": "Tax levy (renewal): Fire protection, firefighting and emergency medical services: fire apparatus and equipment, buildings and sites, water supply, fire-alarm communications, firefighting and EMS personnel, ambulance equipment and services",
+      "area": "Berlin Township A–G, Delaware City 3-A (splits 2–3), 3-F and 3-I (split 3), Sunbury City A (split 4)",
+      "places": [
+        "Berlin Township",
+        "Delaware City",
+        "Sunbury City"
+      ],
+      "levy": {
+        "type": "Renewal",
+        "purpose": "Fire protection, firefighting and emergency medical services: fire apparatus and equipment, buildings and sites, water supply, fire-alarm communications, firefighting and EMS personnel, ambulance equipment and services.",
+        "mills": "2.95 mills",
+        "term": "5 years, commencing in 2027",
+        "firstDue": "2028",
+        "estimate": "$1,409,427 a year; $103 for each $100,000 of market value"
+      },
+      "sources": [
+        "delaware-46day"
+      ]
+    },
+    {
+      "id": "concord-roads",
+      "kind": "levy",
+      "jurisdiction": "Concord Township",
+      "title": "Tax levy (renewal): General construction, reconstruction, resurfacing and repair of roads and bridges",
+      "area": "Concord Township A–K, Powell City J (split 2), Shawnee Hills (split 2)",
+      "places": [
+        "Concord Township",
+        "Powell City",
+        "Shawnee Hills Village"
+      ],
+      "levy": {
+        "type": "Renewal",
+        "purpose": "General construction, reconstruction, resurfacing and repair of roads and bridges.",
+        "mills": "1 mill",
+        "term": "5 years, commencing in 2027",
+        "firstDue": "2028",
+        "estimate": "$325,427 a year; $11 for each $100,000 of market value"
+      },
+      "sources": [
+        "delaware-46day"
+      ]
+    },
+    {
+      "id": "harlem-fire",
+      "kind": "levy",
+      "jurisdiction": "Harlem Township",
+      "title": "Tax levy (renewal): Fire protection, firefighting and emergency medical services: fire apparatus and buildings, water supply, fire alarm telegraph, firefighters, ambulance equipment and services",
+      "area": "Harlem Township A–D",
+      "places": [
+        "Harlem Township"
+      ],
+      "levy": {
+        "type": "Renewal",
+        "purpose": "Fire protection, firefighting and emergency medical services: fire apparatus and buildings, water supply, fire alarm telegraph, firefighters, ambulance equipment and services.",
+        "mills": "4 mills",
+        "term": "4 years, commencing in 2026",
+        "firstDue": "2027",
+        "estimate": "$956,658 a year; $97 for each $100,000 of market value"
+      },
+      "sources": [
+        "delaware-46day"
+      ]
+    },
+    {
+      "id": "orange-roads",
+      "kind": "levy",
+      "jurisdiction": "Orange Township",
+      "title": "Tax levy (additional): General construction, reconstruction, resurfacing and repair of streets, roads and bridges",
+      "area": "Orange Township A–W, the Orange Township parts of Columbus City A–G, Westerville City A (split 3) and I (split 3)",
+      "places": [
+        "Columbus City",
+        "Orange Township",
+        "Westerville City"
+      ],
+      "levy": {
+        "type": "Additional",
+        "purpose": "General construction, reconstruction, resurfacing and repair of streets, roads and bridges.",
+        "mills": "1 mill",
+        "term": "5 years, commencing in 2027",
+        "firstDue": "2028",
+        "estimate": "$2,279,352 a year; $35 for each $100,000 of market value"
+      },
+      "sources": [
+        "delaware-46day"
+      ]
+    },
+    {
+      "id": "orange-parks",
+      "kind": "levy",
+      "jurisdiction": "Orange Township",
+      "title": "Tax levy (renewal): Parks and recreational purposes",
+      "area": "Orange Township A–W, the Orange Township parts of Columbus City A–G, Westerville City A (split 3) and I (split 3)",
+      "places": [
+        "Columbus City",
+        "Orange Township",
+        "Westerville City"
+      ],
+      "levy": {
+        "type": "Renewal",
+        "purpose": "Parks and recreational purposes.",
+        "mills": "1 mill",
+        "term": "5 years, commencing in 2027",
+        "firstDue": "2028",
+        "estimate": "$1,372,814 a year; $20 for each $100,000 of market value"
+      },
+      "sources": [
+        "delaware-46day"
+      ]
+    },
+    {
+      "id": "oxford-roads",
+      "kind": "levy",
+      "jurisdiction": "Oxford Township",
+      "title": "Tax levy (renewal): General construction, reconstruction, resurfacing and repair of roads and bridges",
+      "area": "Oxford Township",
+      "places": [
+        "Oxford Township"
+      ],
+      "levy": {
+        "type": "Renewal",
+        "purpose": "General construction, reconstruction, resurfacing and repair of roads and bridges.",
+        "mills": "1.2 mills",
+        "term": "5 years, commencing in 2026",
+        "firstDue": "2027",
+        "estimate": "$44,807 a year; $30 for each $100,000 of market value"
+      },
+      "sources": [
+        "delaware-46day"
+      ]
+    },
+    {
+      "id": "elgin-lsd",
+      "kind": "levy",
+      "jurisdiction": "Elgin Local School District (Marion, Delaware and Hardin counties)",
+      "title": "Tax levy (renewal): Current expenses (fixed-sum levy of $850,000 a year)",
+      "area": "Thompson Township (split 2)",
+      "places": [
+        "Thompson Township"
+      ],
+      "levy": {
+        "type": "Renewal",
+        "purpose": "Current expenses (fixed-sum levy of $850,000 a year).",
+        "mills": "2.88 mills (estimated average)",
+        "term": "5 years, commencing in 2027",
+        "firstDue": "2028",
+        "estimate": "$850,000 a year; $101 for each $100,000 of market value"
+      },
+      "sources": [
+        "delaware-46day"
+      ]
+    },
+    {
+      "id": "dacc-levy",
+      "kind": "levy",
+      "jurisdiction": "Delaware Area Career Center (joint vocational school district; Delaware, Franklin, Marion, Morrow and Union counties)",
+      "title": "Tax levy (renewal and decrease): Improving, renovating, remodeling, enlarging, furnishing and equipping school buildings and facilities (0.40 mill) and current expenses (0.35 mill); renewal of part of an existing levy, a reduction of 0.95 mill",
+      "area": "Most of the county; not Dublin City, Shawnee Hills, or parts of Concord, Genoa, Harlem, Porter, Scioto and Thompson townships and Westerville City",
+      "places": [
+        "Ashley Village",
+        "Berkshire Township",
+        "Berlin Township",
+        "Brown Township",
+        "Columbus City",
+        "Concord Township",
+        "Delaware City",
+        "Delaware Township",
+        "Galena Village",
+        "Genoa Township",
+        "Harlem Township",
+        "Kingston Township",
+        "Liberty Township",
+        "Marlboro Township",
+        "Orange Township",
+        "Ostrander Village",
+        "Oxford Township",
+        "Porter Township",
+        "Powell City",
+        "Radnor Township",
+        "Scioto Township",
+        "Sunbury City",
+        "Thompson Township",
+        "Trenton Township",
+        "Troy Township",
+        "Westerville City"
+      ],
+      "levy": {
+        "type": "Renewal and decrease",
+        "purpose": "Improving, renovating, remodeling, enlarging, furnishing and equipping school buildings and facilities (0.40 mill) and current expenses (0.35 mill); renewal of part of an existing levy, a reduction of 0.95 mill.",
+        "mills": "0.75 mill",
+        "term": "10 years, commencing in 2026",
+        "firstDue": "2027",
+        "estimate": "$5,773,576 a year; $18 for each $100,000 of market value"
+      },
+      "sources": [
+        "delaware-46day"
+      ]
+    },
+    {
+      "id": "bstg-fire",
+      "kind": "levy",
+      "jurisdiction": "B.S.T. & G. Joint Fire District (Berkshire, Sunbury, Trenton and Galena)",
+      "title": "Tax levy (renewal and increase): Fire protection: fire apparatus, appliances, buildings, water supply, fire alarm telegraph and firefighters (renewal of 4.85 mills and an increase of 2.5 mills)",
+      "area": "Berkshire A–E, Galena, Sunbury City A–F, Trenton A–B",
+      "places": [
+        "Berkshire Township",
+        "Galena Village",
+        "Sunbury City",
+        "Trenton Township"
+      ],
+      "levy": {
+        "type": "Renewal and increase",
+        "purpose": "Fire protection: fire apparatus, appliances, buildings, water supply, fire alarm telegraph and firefighters (renewal of 4.85 mills and an increase of 2.5 mills).",
+        "mills": "7.35 mills",
+        "term": "5 years, commencing in 2026",
+        "firstDue": "2027",
+        "estimate": "$6,071,628 a year; $176 for each $100,000 of market value"
+      },
+      "sources": [
+        "delaware-46day"
+      ]
+    },
+    {
+      "id": "transit-sales-tax",
+      "kind": "question",
+      "jurisdiction": "Delaware County Regional Transit Authority",
+      "title": "Sales and use tax: 0.2%, continuing, for transit",
+      "area": "All of Delaware County except the City of Columbus",
+      "places": [
+        "Ashley Village",
+        "Berkshire Township",
+        "Berlin Township",
+        "Brown Township",
+        "Concord Township",
+        "Delaware City",
+        "Delaware Township",
+        "Dublin City",
+        "Galena Village",
+        "Genoa Township",
+        "Harlem Township",
+        "Kingston Township",
+        "Liberty Township",
+        "Marlboro Township",
+        "Orange Township",
+        "Ostrander Village",
+        "Oxford Township",
+        "Porter Township",
+        "Powell City",
+        "Radnor Township",
+        "Scioto Township",
+        "Shawnee Hills Village",
+        "Sunbury City",
+        "Thompson Township",
+        "Trenton Township",
+        "Troy Township",
+        "Westerville City"
+      ],
+      "text": "Shall a sales and use tax be levied by the Delaware County Regional Transit Authority for the purpose of providing additional general revenues for a transit authority, funding a regional transportation improvement project under section 5595.06 of the Revised Code, or funding public infrastructure projects as described in section 306.353 of the Revised Code, and to pay the expenses of administering such levy at a rate not exceeding 0.2 per cent for a continuing period of time?",
+      "sources": [
+        "delaware-46day"
+      ]
+    },
+    {
+      "id": "liquor-born-on-third",
+      "kind": "liquor",
+      "jurisdiction": "City of Columbus",
+      "title": "Local liquor option: Born on Third (Sunday)",
+      "area": "Columbus City E (precinct 019)",
+      "places": [
+        "Columbus City"
+      ],
+      "text": "Sunday sale of beer and wine and mixed beverages by Born on Third Limited Partnership, applicant for a D-6 permit, restaurant at 40 Lazelle Rd, Columbus.",
+      "sources": [
+        "delaware-46day"
+      ]
+    },
+    {
+      "id": "liquor-yokai-ramen",
+      "kind": "liquor",
+      "jurisdiction": "City of Delaware",
+      "title": "Local liquor option: Yokai Ramen Bistro (Sunday)",
+      "area": "Delaware City 4-B (precinct 062)",
+      "places": [
+        "Delaware City"
+      ],
+      "text": "Sunday sale of wine and mixed beverages, and spirituous liquor by Tony's Italian Bistro, L.L.C., dba Yokai Ramen Bistro, applicant for a D-6 permit, restaurant at 48 N. Sandusky Street, Delaware.",
+      "sources": [
+        "delaware-46day"
+      ]
+    },
+    {
+      "id": "liquor-hacienda-taqueria",
+      "kind": "liquor",
+      "jurisdiction": "City of Delaware",
+      "title": "Local liquor option: Hacienda Taqueria & Bar (Sunday)",
+      "area": "Delaware City 4-B (precinct 062)",
+      "places": [
+        "Delaware City"
+      ],
+      "text": "Sunday sale of wine and mixed beverages, and spirituous liquor by Hot Spot Delaware, L.L.C., dba Hacienda Taqueria & Bar, applicant for a D-6 permit, restaurant/bar at 26 N. Sandusky Street, Delaware.",
+      "sources": [
+        "delaware-46day"
+      ]
+    },
+    {
+      "id": "liquor-rosebuds",
+      "kind": "liquor",
+      "jurisdiction": "City of Delaware",
+      "title": "Local liquor option: Rosebud's (Sunday)",
+      "area": "Delaware City 4-B (precinct 062)",
+      "places": [
+        "Delaware City"
+      ],
+      "text": "Sunday sale of wine and mixed beverages, and spirituous liquor by FHDR, L.L.C., dba Rosebud's, applicant for a D-6 permit, restaurant at 3 W. Winter Street, Delaware.",
+      "sources": [
+        "delaware-46day"
+      ]
+    },
+    {
+      "id": "liquor-restoration-brew-worx",
+      "kind": "liquor",
+      "jurisdiction": "City of Delaware",
+      "title": "Local liquor option: Restoration Brew Worx (Sunday)",
+      "area": "Delaware City 4-B (precinct 062)",
+      "places": [
+        "Delaware City"
+      ],
+      "text": "Sunday sale of wine and mixed beverages and spirituous liquor by Four Fat Bs LLC (dba Restoration Brew Worx), applicant for a D-6 permit, restaurant, craft brewery and taproom at 25 N. Sandusky St, Delaware.",
+      "sources": [
+        "delaware-46day"
+      ]
+    },
+    {
+      "id": "liquor-chateau-wine",
+      "kind": "liquor",
+      "jurisdiction": "Orange Township",
+      "title": "Local liquor option: Chateau Wine & Spirits (Sunday)",
+      "area": "Orange A (precinct 118)",
+      "places": [
+        "Orange Township"
+      ],
+      "text": "Sunday sale of wine and mixed beverages by Orange Point 117 LLC, dba Chateau Wine & Spirits, applicant for a D-6 permit, specialty wine shop and liquor agency store at the southeast corner of US 23 and Gooding Blvd./Orangepoint Drive, Orange Township, Lewis Center.",
+      "sources": [
+        "delaware-46day"
+      ]
+    },
+    {
+      "id": "liquor-skybox-sunday",
+      "kind": "liquor",
+      "jurisdiction": "Orange Township",
+      "title": "Local liquor option: The Skybox Sports Bar (Sunday)",
+      "area": "Orange U (precinct 138)",
+      "places": [
+        "Orange Township"
+      ],
+      "text": "Sunday sale of wine and mixed beverages and spirituous liquor by Skybox Sports Bar Inc., known as The Skybox Sports Bar, applicant for a D-6 permit, sports bar at 1317 Cameron Ave., Orange Township, Lewis Center.",
+      "sources": [
+        "delaware-46day"
+      ]
+    },
+    {
+      "id": "liquor-skybox",
+      "kind": "liquor",
+      "jurisdiction": "Orange Township",
+      "title": "Local liquor option: The Skybox Sports Bar",
+      "area": "Orange U (precinct 138)",
+      "places": [
+        "Orange Township"
+      ],
+      "text": "Sale of wine and mixed beverages by Skybox Sports Bar Inc., known as The Skybox Sports Bar, applicant for a D-5 permit, sports bar at 1317 Cameron Ave., Orange Township, Lewis Center.",
+      "sources": [
+        "delaware-46day"
+      ]
+    },
+    {
+      "id": "liquor-ostrander-brewing",
+      "kind": "liquor",
+      "jurisdiction": "Scioto Township",
+      "title": "Local liquor option: Ostrander Brewing Company",
+      "area": "Scioto B (precinct 159)",
+      "places": [
+        "Scioto Township"
+      ],
+      "text": "Sale of beer, wine and mixed beverages, and spirituous liquor by Ostrander Brewing Company, L.L.C., applicant for an A-1A permit, brewery/community gathering venue at 3794 Ostrander Road, Ostrander (Scioto Township).",
+      "sources": [
+        "delaware-46day"
+      ]
+    },
+    {
+      "id": "liquor-ostrander-brewing-sunday",
+      "kind": "liquor",
+      "jurisdiction": "Scioto Township",
+      "title": "Local liquor option: Ostrander Brewing Company (Sunday)",
+      "area": "Scioto B (precinct 159)",
+      "places": [
+        "Scioto Township"
+      ],
+      "text": "Sunday sale of wine and mixed beverages, and spirituous liquor by Ostrander Brewing Company, L.L.C., applicant for a D-6 permit, brewery/community gathering venue at 3794 Ostrander Road, Ostrander (Scioto Township).",
+      "sources": [
+        "delaware-46day"
+      ]
+    },
+    {
+      "id": "liquor-sticks-table-tap",
+      "kind": "liquor",
+      "jurisdiction": "City of Sunbury",
+      "title": "Local liquor option: Sticks Table & Tap",
+      "area": "Sunbury City A (precinct 161)",
+      "places": [
+        "Sunbury City"
+      ],
+      "text": "Sale of spirituous liquor by JPN Restaurants, L.L.C., dba Sticks Table & Tap, applicant for an A-1-A permit, brewery/restaurant at 571 W. Cherry Street, Sunbury.",
+      "sources": [
+        "delaware-46day"
+      ]
+    },
+    {
+      "id": "liquor-sticks-table-tap-sunday",
+      "kind": "liquor",
+      "jurisdiction": "City of Sunbury",
+      "title": "Local liquor option: Sticks Table & Tap (Sunday)",
+      "area": "Sunbury City A (precinct 161)",
+      "places": [
+        "Sunbury City"
+      ],
+      "text": "Sunday sale of wine and mixed beverages, and spirituous liquor by JPN Restaurants, L.L.C., dba Sticks Table & Tap, applicant for a D-6 permit, brewery/restaurant at 571 W. Cherry Street, Sunbury.",
+      "sources": [
+        "delaware-46day"
+      ]
+    }
+  ]
+}

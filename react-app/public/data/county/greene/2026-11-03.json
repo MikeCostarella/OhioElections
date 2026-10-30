@@ -1,0 +1,831 @@
+{
+  "scope": "county",
+  "county": "Greene",
+  "fips": "39057",
+  "election": "2026-11-03",
+  "retrieved": "2026-10-30",
+  "notes": [
+    "Taken from the Board of Elections' 46-day election notice, which lists every contest and issue with the precincts that vote on it, checked against the Board's certified candidate list and local questions and issues list. Issue wording is the Board's summary; the full wording is on the sample ballot.",
+    "Candidates are listed alphabetically by last name, not in ballot order: Ohio rotates the order of names from precinct to precinct. Certified write-in candidates are not printed on the ballot and are not listed.",
+    "\"Where you live\" uses the state voter file: a district or school levy is shown for a city, village or township when any of its voters live in that district. Your exact ballot depends on your precinct."
+  ],
+  "places": [
+    "Bath Township",
+    "Beavercreek City",
+    "Beavercreek Township",
+    "Bellbrook City",
+    "Bowersville Village",
+    "Caesarscreek Township",
+    "Cedarville Township",
+    "Cedarville Village",
+    "Centerville City",
+    "Clifton Village",
+    "Fairborn City",
+    "Jamestown Village",
+    "Jefferson Township",
+    "Kettering City",
+    "Miami Township",
+    "New Jasper Township",
+    "Ross Township",
+    "Silvercreek Township",
+    "Spring Valley Township",
+    "Spring Valley Village",
+    "Sugarcreek Township",
+    "Xenia City",
+    "Xenia Township",
+    "Yellow Springs Village"
+  ],
+  "sources": {
+    "greene-46day": {
+      "label": "Greene County Board of Elections: 46-day election notice (FWAB), November 3, 2026 General Election",
+      "url": "https://www.boe.ohio.gov/greene/c/upload/FWAB_11November46Day.pdf"
+    },
+    "greene-cand": {
+      "label": "Greene County Board of Elections: certified candidates, November 3, 2026 General Election (revised June 30, 2026)",
+      "url": "https://www.boe.ohio.gov/greene/c/upload/Election_CandidatesList.pdf"
+    },
+    "greene-issues": {
+      "label": "Greene County Board of Elections: local questions and issues list, November 3, 2026 General Election",
+      "url": "https://www.boe.ohio.gov/greene/c/upload/Election_QIList.pdf"
+    }
+  },
+  "links": [
+    {
+      "label": "Board of Elections",
+      "url": "https://www.boe.ohio.gov/greene/"
+    },
+    {
+      "label": "Election info",
+      "url": "https://www.boe.ohio.gov/greene/election-info/"
+    },
+    {
+      "label": "Sample ballots by precinct",
+      "url": "https://lookup.boe.ohio.gov/vtrapp/greene/ballotlist.aspx"
+    }
+  ],
+  "results": {
+    "status": "upcoming",
+    "links": [
+      {
+        "label": "Board of Elections: election results",
+        "url": "https://www.boe.ohio.gov/greene/election-info/election-night-results"
+      }
+    ]
+  },
+  "contests": [
+    {
+      "id": "congress-10",
+      "group": "U.S. House",
+      "office": "Representative to Congress",
+      "detail": "10th District",
+      "candidates": [
+        {
+          "name": "Kristina Knickerbocker",
+          "party": "DEM"
+        },
+        {
+          "name": "Thomas F. McMasters",
+          "party": "LIB"
+        },
+        {
+          "name": "Mike Turner",
+          "party": "REP"
+        }
+      ],
+      "sources": [
+        "greene-46day",
+        "greene-cand"
+      ]
+    },
+    {
+      "id": "rep-70",
+      "group": "Ohio General Assembly",
+      "office": "State Representative",
+      "detail": "70th District",
+      "area": "Bath Township, Beavercreek City, Beavercreek Township, Bellbrook City, Centerville City, Fairborn City, Kettering City, Spring Valley Township, Spring Valley Village, Sugarcreek Township",
+      "places": [
+        "Bath Township",
+        "Beavercreek City",
+        "Beavercreek Township",
+        "Bellbrook City",
+        "Centerville City",
+        "Fairborn City",
+        "Kettering City",
+        "Spring Valley Township",
+        "Spring Valley Village",
+        "Sugarcreek Township"
+      ],
+      "candidates": [
+        {
+          "name": "Brian Lampton",
+          "party": "REP"
+        },
+        {
+          "name": "Kim McCarthy",
+          "party": "DEM"
+        }
+      ],
+      "sources": [
+        "greene-46day",
+        "greene-cand"
+      ]
+    },
+    {
+      "id": "rep-71",
+      "group": "Ohio General Assembly",
+      "office": "State Representative",
+      "detail": "71st District",
+      "area": "Bowersville Village, Caesarscreek Township, Cedarville Township, Cedarville Village, Clifton Village, Jamestown Village, Jefferson Township, Miami Township, New Jasper Township, Ross Township, Silvercreek Township, Xenia City, Xenia Township, Yellow Springs Village",
+      "places": [
+        "Bowersville Village",
+        "Caesarscreek Township",
+        "Cedarville Township",
+        "Cedarville Village",
+        "Clifton Village",
+        "Jamestown Village",
+        "Jefferson Township",
+        "Miami Township",
+        "New Jasper Township",
+        "Ross Township",
+        "Silvercreek Township",
+        "Xenia City",
+        "Xenia Township",
+        "Yellow Springs Village"
+      ],
+      "candidates": [
+        {
+          "name": "Levi Dean",
+          "party": "REP"
+        },
+        {
+          "name": "Krista Magaw",
+          "party": "DEM"
+        }
+      ],
+      "sources": [
+        "greene-46day",
+        "greene-cand"
+      ]
+    },
+    {
+      "id": "appeals-2-0209",
+      "group": "Ohio Court of Appeals",
+      "office": "Judge of the Court of Appeals",
+      "detail": "2nd District · term commencing February 9, 2027",
+      "candidates": [
+        {
+          "name": "Chris Epley",
+          "party": "REP"
+        }
+      ],
+      "sources": [
+        "greene-46day",
+        "greene-cand"
+      ]
+    },
+    {
+      "id": "commissioner",
+      "group": "County offices",
+      "office": "County Commissioner",
+      "detail": "Term commencing January 1, 2027",
+      "candidates": [
+        {
+          "name": "Dick Gould",
+          "party": "REP"
+        }
+      ],
+      "sources": [
+        "greene-46day",
+        "greene-cand"
+      ]
+    },
+    {
+      "id": "treasurer",
+      "group": "County offices",
+      "office": "County Treasurer",
+      "detail": "Unexpired term ending September 2, 2029",
+      "candidates": [
+        {
+          "name": "Amanda L. Jenkins",
+          "party": "REP"
+        }
+      ],
+      "sources": [
+        "greene-46day",
+        "greene-cand"
+      ]
+    },
+    {
+      "id": "auditor",
+      "group": "County offices",
+      "office": "County Auditor",
+      "candidates": [
+        {
+          "name": "Kraig A. Hagler",
+          "party": "REP"
+        }
+      ],
+      "sources": [
+        "greene-46day",
+        "greene-cand"
+      ]
+    },
+    {
+      "id": "cp-0102",
+      "group": "Court of Common Pleas",
+      "office": "Judge of the Court of Common Pleas, General Division",
+      "detail": "Term commencing January 2, 2027 · no party label on the ballot",
+      "candidates": [
+        {
+          "name": "Michael A. Buckwalter"
+        }
+      ],
+      "sources": [
+        "greene-46day",
+        "greene-cand"
+      ]
+    },
+    {
+      "id": "cp-probate",
+      "group": "Court of Common Pleas",
+      "office": "Judge of the Court of Common Pleas, Probate Division",
+      "detail": "Term commencing February 9, 2027 · no party label on the ballot",
+      "candidates": [
+        {
+          "name": "Wayne Waite"
+        }
+      ],
+      "sources": [
+        "greene-46day",
+        "greene-cand"
+      ]
+    },
+    {
+      "id": "cp-dr",
+      "group": "Court of Common Pleas",
+      "office": "Judge of the Court of Common Pleas, Domestic Relations Division",
+      "detail": "Term commencing January 1, 2027 · no party label on the ballot",
+      "candidates": [
+        {
+          "name": "Cynthia Martin"
+        }
+      ],
+      "sources": [
+        "greene-46day",
+        "greene-cand"
+      ]
+    }
+  ],
+  "issues": [
+    {
+      "id": "issue-4",
+      "kind": "levy",
+      "jurisdiction": "Greene County",
+      "title": "Tax levy (renewal): Roads and bridges",
+      "area": "Greene County",
+      "levy": {
+        "type": "Renewal",
+        "purpose": "Roads and bridges.",
+        "mills": "0.25 mill",
+        "term": "5 years, commencing in 2026",
+        "firstDue": "2027",
+        "estimate": "$5 for each $100,000 of market value"
+      },
+      "number": "Issue 4",
+      "sources": [
+        "greene-46day",
+        "greene-issues"
+      ]
+    },
+    {
+      "id": "issue-5",
+      "kind": "question",
+      "jurisdiction": "City of Beavercreek",
+      "title": "Municipal income tax: 1% for general municipal operations",
+      "area": "City of Beavercreek",
+      "places": [
+        "Beavercreek City"
+      ],
+      "number": "Issue 5",
+      "text": "Proposed 1% municipal income tax, commencing in 2027, for general municipal operations.",
+      "sources": [
+        "greene-46day",
+        "greene-issues"
+      ]
+    },
+    {
+      "id": "issue-6",
+      "kind": "levy",
+      "jurisdiction": "City of Bellbrook",
+      "title": "Tax levy (renewal): Current expenses",
+      "area": "City of Bellbrook",
+      "places": [
+        "Bellbrook City"
+      ],
+      "levy": {
+        "type": "Renewal",
+        "purpose": "Current expenses.",
+        "mills": "1.3 mills",
+        "term": "5 years, commencing in 2026",
+        "firstDue": "2027",
+        "estimate": "$28 for each $100,000 of market value"
+      },
+      "number": "Issue 6",
+      "sources": [
+        "greene-46day",
+        "greene-issues"
+      ]
+    },
+    {
+      "id": "issue-7",
+      "kind": "levy",
+      "jurisdiction": "Village of Bowersville",
+      "title": "Tax levy (renewal): Current expenses",
+      "area": "Village of Bowersville",
+      "places": [
+        "Bowersville Village"
+      ],
+      "levy": {
+        "type": "Renewal",
+        "purpose": "Current expenses.",
+        "mills": "3.5 mills",
+        "term": "5 years, commencing in 2028",
+        "firstDue": "2029",
+        "estimate": "$84 for each $100,000 of market value"
+      },
+      "number": "Issue 7",
+      "sources": [
+        "greene-46day",
+        "greene-issues"
+      ]
+    },
+    {
+      "id": "issue-8",
+      "kind": "levy",
+      "jurisdiction": "Village of Bowersville",
+      "title": "Tax levy (renewal): Current expenses",
+      "area": "Village of Bowersville",
+      "places": [
+        "Bowersville Village"
+      ],
+      "levy": {
+        "type": "Renewal",
+        "purpose": "Current expenses.",
+        "mills": "2.6 mills",
+        "term": "5 years, commencing in 2028",
+        "firstDue": "2029",
+        "estimate": "$45 for each $100,000 of market value"
+      },
+      "number": "Issue 8",
+      "sources": [
+        "greene-46day",
+        "greene-issues"
+      ]
+    },
+    {
+      "id": "issue-9",
+      "kind": "levy",
+      "jurisdiction": "Village of Spring Valley",
+      "title": "Tax levy (additional): Streets and roads",
+      "area": "Village of Spring Valley",
+      "places": [
+        "Spring Valley Village"
+      ],
+      "levy": {
+        "type": "Additional",
+        "purpose": "Streets and roads.",
+        "mills": "2 mills",
+        "term": "5 years, commencing in 2027",
+        "estimate": "$70 for each $100,000 of market value"
+      },
+      "number": "Issue 9",
+      "sources": [
+        "greene-46day",
+        "greene-issues"
+      ]
+    },
+    {
+      "id": "issue-10",
+      "kind": "levy",
+      "jurisdiction": "Village of Spring Valley",
+      "title": "Tax levy (renewal): Streets",
+      "area": "Village of Spring Valley",
+      "places": [
+        "Spring Valley Village"
+      ],
+      "levy": {
+        "type": "Renewal",
+        "purpose": "Streets.",
+        "mills": "0.25 mill",
+        "term": "5 years, commencing in 2026",
+        "estimate": "$6 for each $100,000 of market value"
+      },
+      "number": "Issue 10",
+      "sources": [
+        "greene-46day",
+        "greene-issues"
+      ]
+    },
+    {
+      "id": "issue-11",
+      "kind": "levy",
+      "jurisdiction": "Village of Spring Valley",
+      "title": "Tax levy (renewal): Streets and roads",
+      "area": "Village of Spring Valley",
+      "places": [
+        "Spring Valley Village"
+      ],
+      "levy": {
+        "type": "Renewal",
+        "purpose": "Streets and roads.",
+        "mills": "1 mill",
+        "term": "5 years, commencing in 2026",
+        "estimate": "$22 for each $100,000 of market value"
+      },
+      "number": "Issue 11",
+      "sources": [
+        "greene-46day",
+        "greene-issues"
+      ]
+    },
+    {
+      "id": "issue-12",
+      "kind": "levy",
+      "jurisdiction": "Village of Spring Valley",
+      "title": "Tax levy (renewal): Current expenses",
+      "area": "Village of Spring Valley",
+      "places": [
+        "Spring Valley Village"
+      ],
+      "levy": {
+        "type": "Renewal",
+        "purpose": "Current expenses.",
+        "mills": "2.3 mills",
+        "term": "5 years",
+        "estimate": "$51 for each $100,000 of market value"
+      },
+      "number": "Issue 12",
+      "sources": [
+        "greene-46day",
+        "greene-issues"
+      ]
+    },
+    {
+      "id": "issue-13",
+      "kind": "levy",
+      "jurisdiction": "Spring Valley Township (including the Village of Spring Valley)",
+      "title": "Tax levy (renewal): Current expenses",
+      "area": "Spring Valley Village and Spring Valley Township",
+      "places": [
+        "Spring Valley Township",
+        "Spring Valley Village"
+      ],
+      "levy": {
+        "type": "Renewal",
+        "purpose": "Current expenses.",
+        "mills": "1 mill",
+        "term": "5 years, commencing in 2027",
+        "estimate": "$23 for each $100,000 of market value"
+      },
+      "number": "Issue 13",
+      "sources": [
+        "greene-46day",
+        "greene-issues"
+      ]
+    },
+    {
+      "id": "issue-14",
+      "kind": "levy",
+      "jurisdiction": "Village of Cedarville",
+      "title": "Tax levy (renewal): Current expenses",
+      "area": "Village of Cedarville",
+      "places": [
+        "Cedarville Village"
+      ],
+      "levy": {
+        "type": "Renewal",
+        "purpose": "Current expenses.",
+        "mills": "2.6 mills",
+        "term": "5 years, commencing in 2026",
+        "firstDue": "2027",
+        "estimate": "$12 for each $100,000 of market value"
+      },
+      "number": "Issue 14",
+      "sources": [
+        "greene-46day",
+        "greene-issues"
+      ]
+    },
+    {
+      "id": "issue-15",
+      "kind": "levy",
+      "jurisdiction": "Cedarville Township (including the Village of Cedarville)",
+      "title": "Tax levy (renewal): Fire and EMS",
+      "area": "Cedarville Village and Cedarville Township",
+      "places": [
+        "Cedarville Township",
+        "Cedarville Village"
+      ],
+      "levy": {
+        "type": "Renewal",
+        "purpose": "Fire and EMS.",
+        "mills": "1 mill",
+        "term": "5 years, commencing in 2027",
+        "firstDue": "2028",
+        "estimate": "$22 for each $100,000 of market value"
+      },
+      "number": "Issue 15",
+      "sources": [
+        "greene-46day",
+        "greene-issues"
+      ]
+    },
+    {
+      "id": "issue-16",
+      "kind": "levy",
+      "jurisdiction": "Ross Township",
+      "title": "Tax levy (renewal): Fire and EMS",
+      "area": "Ross Township",
+      "places": [
+        "Ross Township"
+      ],
+      "levy": {
+        "type": "Renewal",
+        "purpose": "Fire and EMS.",
+        "mills": "1.5 mills",
+        "term": "5 years, commencing in 2027",
+        "firstDue": "2028",
+        "estimate": "$11 for each $100,000 of market value"
+      },
+      "number": "Issue 16",
+      "sources": [
+        "greene-46day",
+        "greene-issues"
+      ]
+    },
+    {
+      "id": "issue-17",
+      "kind": "levy",
+      "jurisdiction": "Jefferson Township (including the Village of Bowersville)",
+      "title": "Tax levy (renewal): Fire and EMS",
+      "area": "Jefferson Township and Bowersville Village",
+      "places": [
+        "Bowersville Village",
+        "Jefferson Township"
+      ],
+      "levy": {
+        "type": "Renewal",
+        "purpose": "Fire and EMS.",
+        "mills": "1.5 mills",
+        "term": "5 years, commencing in 2027",
+        "firstDue": "2028",
+        "estimate": "$19 for each $100,000 of market value"
+      },
+      "number": "Issue 17",
+      "sources": [
+        "greene-46day",
+        "greene-issues"
+      ]
+    },
+    {
+      "id": "issue-18",
+      "kind": "levy",
+      "jurisdiction": "Jefferson Township (including the Village of Bowersville)",
+      "title": "Tax levy (renewal): Fire and EMS",
+      "area": "Jefferson Township and Bowersville Village",
+      "places": [
+        "Bowersville Village",
+        "Jefferson Township"
+      ],
+      "levy": {
+        "type": "Renewal",
+        "purpose": "Fire and EMS.",
+        "mills": "2 mills",
+        "term": "5 years, commencing in 2027",
+        "firstDue": "2028",
+        "estimate": "$17 for each $100,000 of market value"
+      },
+      "number": "Issue 18",
+      "sources": [
+        "greene-46day",
+        "greene-issues"
+      ]
+    },
+    {
+      "id": "issue-19",
+      "kind": "levy",
+      "jurisdiction": "New Jasper Township",
+      "title": "Tax levy (additional): Fire and EMS",
+      "area": "New Jasper Township",
+      "places": [
+        "New Jasper Township"
+      ],
+      "levy": {
+        "type": "Additional",
+        "purpose": "Fire and EMS.",
+        "mills": "2 mills",
+        "term": "5 years, commencing in 2027",
+        "firstDue": "2028",
+        "estimate": "$70 for each $100,000 of market value"
+      },
+      "number": "Issue 19",
+      "sources": [
+        "greene-46day",
+        "greene-issues"
+      ]
+    },
+    {
+      "id": "issue-20",
+      "kind": "levy",
+      "jurisdiction": "Miami Township (including the Villages of Yellow Springs and Clifton)",
+      "title": "Tax levy (additional): Fire and EMS",
+      "area": "Miami Township, Yellow Springs Village and Clifton Village",
+      "places": [
+        "Clifton Village",
+        "Miami Township",
+        "Yellow Springs Village"
+      ],
+      "levy": {
+        "type": "Additional",
+        "purpose": "Fire and EMS.",
+        "mills": "0.8 mill",
+        "term": "Continuing period of time, commencing in 2026",
+        "estimate": "$28 for each $100,000 of market value"
+      },
+      "number": "Issue 20",
+      "note": "The Board's list gives both \"5 years\" and \"CPT\" (continuing period of time) for this levy; the township describes it as a permanent levy.",
+      "sources": [
+        "greene-46day",
+        "greene-issues"
+      ]
+    },
+    {
+      "id": "issue-21",
+      "kind": "levy",
+      "jurisdiction": "Spring Valley Township (including the Village of Spring Valley)",
+      "title": "Tax levy (renewal): Current expenses",
+      "area": "Spring Valley Village and Spring Valley Township",
+      "places": [
+        "Spring Valley Township",
+        "Spring Valley Village"
+      ],
+      "levy": {
+        "type": "Renewal",
+        "purpose": "Current expenses.",
+        "mills": "0.30 mill",
+        "term": "5 years, commencing in 2027",
+        "estimate": "$2 for each $100,000 of market value"
+      },
+      "number": "Issue 21",
+      "sources": [
+        "greene-46day",
+        "greene-issues"
+      ]
+    },
+    {
+      "id": "issue-22",
+      "kind": "question",
+      "jurisdiction": "City of Xenia",
+      "title": "Charter amendment: Sections 4.01(G)(2), 4.05(A), 5.01(B), 9.04(C)(3) and 13.01, Articles XI and XII",
+      "area": "City of Xenia",
+      "places": [
+        "Xenia City"
+      ],
+      "number": "Issue 22",
+      "text": "Proposed amendments to Section 4.01(G)(2), Section 4.05(A), Section 5.01(B), Section 9.04(C)(3), Article XI, Article XII and Section 13.01 of the Xenia City Charter.",
+      "sources": [
+        "greene-46day",
+        "greene-issues"
+      ]
+    },
+    {
+      "id": "fairborn-liquor-205",
+      "kind": "liquor",
+      "jurisdiction": "City of Fairborn",
+      "title": "Local liquor option: Amvets Post 0444 (Sunday)",
+      "area": "Fairborn precinct 205",
+      "places": [
+        "Fairborn City"
+      ],
+      "text": "Sunday sale of wine and mixed beverages, and spirituous liquor by Amvets Post 0444, holder of a D-6 liquor permit.",
+      "note": "Unnumbered in Greene County.",
+      "sources": [
+        "greene-46day",
+        "greene-issues"
+      ]
+    },
+    {
+      "id": "xenia-liquor-303",
+      "kind": "liquor",
+      "jurisdiction": "City of Xenia",
+      "title": "Local liquor option: VFW Post 2402 Cooper Jordan Memorial (Sunday)",
+      "area": "Xenia precinct 303",
+      "places": [
+        "Xenia City"
+      ],
+      "text": "Sunday sale of beer, wine and mixed beverages, and spirituous liquor by VFW Post 2402 Cooper Jordan Memorial, holder of a D-6 liquor permit.",
+      "note": "Unnumbered in Greene County.",
+      "sources": [
+        "greene-46day",
+        "greene-issues"
+      ]
+    },
+    {
+      "id": "kettering-charter-appeals",
+      "kind": "question",
+      "jurisdiction": "City of Kettering (Montgomery and Greene)",
+      "title": "Charter amendment: Sections 7-3 and 7-5 (appeals to Council)",
+      "area": "Kettering (Greene County part: precincts 090 split 2 and 150 split 2)",
+      "places": [
+        "Kettering City"
+      ],
+      "text": "Amend Section 7-3, Appeals from the Planning Commission to Council, and Section 7-5, Appeals from the Board of Zoning Appeals to Council.",
+      "note": "Unnumbered in Greene County's lists; Montgomery County numbers the Kettering charter amendments Issues 15-19.",
+      "sources": [
+        "greene-46day",
+        "greene-issues"
+      ]
+    },
+    {
+      "id": "kettering-charter-pronouns",
+      "kind": "question",
+      "jurisdiction": "City of Kettering (Montgomery and Greene)",
+      "title": "Charter amendment: gender-neutral wording",
+      "area": "Kettering (Greene County part: precincts 090 split 2 and 150 split 2)",
+      "places": [
+        "Kettering City"
+      ],
+      "text": "Amend Sections 3-2, 3-3, 3-6, 3-8, 5-1, 5-2, 5-3, 5-4, 5-5, 5-6, 5-7, 8-3 and 8-4 to change the use of gender-specific pronouns to the corresponding nouns.",
+      "note": "Unnumbered in Greene County's lists; Montgomery County numbers the Kettering charter amendments Issues 15-19.",
+      "sources": [
+        "greene-46day",
+        "greene-issues"
+      ]
+    },
+    {
+      "id": "kettering-charter-ordinances",
+      "kind": "question",
+      "jurisdiction": "City of Kettering (Montgomery and Greene)",
+      "title": "Charter amendment: Section 4-3 (procedure of passage of ordinances)",
+      "area": "Kettering (Greene County part: precincts 090 split 2 and 150 split 2)",
+      "places": [
+        "Kettering City"
+      ],
+      "text": "Amend Section 4-3, Procedure of Passage of Ordinances.",
+      "note": "Unnumbered in Greene County's lists; Montgomery County numbers the Kettering charter amendments Issues 15-19.",
+      "sources": [
+        "greene-46day",
+        "greene-issues"
+      ]
+    },
+    {
+      "id": "kettering-charter-powers",
+      "kind": "question",
+      "jurisdiction": "City of Kettering (Montgomery and Greene)",
+      "title": "Charter amendment: Section 7-2 (powers and duties)",
+      "area": "Kettering (Greene County part: precincts 090 split 2 and 150 split 2)",
+      "places": [
+        "Kettering City"
+      ],
+      "text": "Amend Section 7-2, Powers and Duties.",
+      "note": "Unnumbered in Greene County's lists; Montgomery County numbers the Kettering charter amendments Issues 15-19.",
+      "sources": [
+        "greene-46day",
+        "greene-issues"
+      ]
+    },
+    {
+      "id": "kettering-charter-manager",
+      "kind": "question",
+      "jurisdiction": "City of Kettering (Montgomery and Greene)",
+      "title": "Charter amendment: Sections 5-2 and 6-2 (the Manager; department directors)",
+      "area": "Kettering (Greene County part: precincts 090 split 2 and 150 split 2)",
+      "places": [
+        "Kettering City"
+      ],
+      "text": "Amend Article V, Section 5-2, The Manager, and Article VI, Section 6-2, Department Directors.",
+      "note": "Unnumbered in Greene County's lists; Montgomery County numbers the Kettering charter amendments Issues 15-19.",
+      "sources": [
+        "greene-46day",
+        "greene-issues"
+      ]
+    },
+    {
+      "id": "southeastern-lsd-tax",
+      "kind": "question",
+      "jurisdiction": "Southeastern Local School District (Clark and Greene)",
+      "title": "School district income tax: 0.5% for 5 years, for current expenses",
+      "area": "Cedarville Township precinct 411 (split 3) and Ross Township precinct 475 (split 3)",
+      "places": [
+        "Cedarville Township",
+        "Ross Township"
+      ],
+      "text": "Proposed income tax of 0.50% on the school district income of individuals, for 5 years, beginning January 1, 2027, for current expenses.",
+      "note": "Unnumbered in Greene County.",
+      "sources": [
+        "greene-46day",
+        "greene-issues"
+      ]
+    }
+  ]
+}

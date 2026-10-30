@@ -63,3 +63,21 @@ Data notes:
 
 - Ballot data (`data/**`) is no longer precached by the service worker. It is fetched network-first (cached copy used offline), so newly added counties show right after a deploy instead of after the old service worker is replaced. Previously a browser that had opened the app earlier kept showing "Only the statewide races..." for counties added since.
 
+# Oct 30, 2026 (Warren, Delaware, Clermont, Licking, Greene)
+
+- Full ballots for Warren, Delaware, Clermont, Licking and Greene (21 counties with local data now, plus Trumbull's original), each from the Board's 46-day FWAB notice:
+  - Warren: 10 contests, 6 issues. The Board's per-issue ballot-language PDFs gave wording, estimates and first-due years.
+  - Delaware: 11 contests, 28 issues (12 liquor options). The 46-day notice (revised Oct 2) is the Board's only posted ballot document.
+  - Clermont: 8 contests, 8 issues. The 46-day notice (revised Sep 15) is the Board's only posted ballot document, plus its withdrawal notice for Matthew Byrne.
+  - Licking: 9 contests, 28 issues, checked against the certified candidate list and filed-issues list.
+  - Greene: 10 contests, 27 issues, checked against the candidate list and questions-and-issues list.
+
+Data notes:
+- Delaware, Clermont and Licking don't number their local issues in any posted Board document; those issues have descriptive ids and a note pointing to the sample ballot for the numbers. Greene leaves eight items unnumbered (two Sunday liquor options, Kettering's five charter amendments, Southeastern Local's income tax); they are marked "Unnumbered in Greene County".
+- 12th District Court of Appeals (Warren, Clermont, as in Butler): Republican Matthew Byrne withdrew; write-in Willa Concannon is the only active candidate.
+- Warren Issue 4 (Franklin City Schools income tax) is on the Board's issues list but not its 46-day notice; it is sourced to the issues list. The voter file's "BUTLER VILLAGE" is Butlerville.
+- Greene: the SoS voter file labels Southeastern Local (Clark) voters "SOUTHEAST LOCAL SD (PORTAGE)"; the spec uses that label. Issue 20 (Miami Township fire/EMS, 0.8 mill) is "5 years" and "CPT" on the Board's list; it is shown as continuing.
+- Clermont: the U.S. Grant career center issues are placed from the notice's precinct list (career center districts aren't in the voter file). Clermont and Delaware levies give rate and term only (no estimates).
+- Delaware: the notice names precincts by number; they match the Board's precinct names in alphabetical order (checked against the voter file). Township levies that reach into a city or village (Berlin, Concord, Orange) include that place, with the exact precincts in the area text.
+- Licking: Heath is added to House 68 by hand (the notice lists a Heath precinct the voter file puts elsewhere). Obvious typos in the Board's issue wording are corrected.
+

@@ -1,0 +1,433 @@
+{
+  "scope": "county",
+  "county": "Warren",
+  "fips": "39165",
+  "election": "2026-11-03",
+  "retrieved": "2026-10-30",
+  "notes": [
+    "Taken from the Board of Elections' 46-day election notice, which lists every contest and issue with the precincts that vote on it; issue wording is from the Board's ballot language for each issue.",
+    "Candidates are listed alphabetically by last name, not in ballot order: Ohio rotates the order of names from precinct to precinct. Certified write-in candidates are not printed on the ballot and are not listed.",
+    "\"Where you live\" uses the state voter file: a district or school levy is shown for a city, village or township when any of its voters live in that district. Your exact ballot depends on your precinct.",
+    "Carlisle, Franklin, Middletown, Monroe, Loveland and Springboro lie partly in Butler, Montgomery, Hamilton or Clermont counties. Only the Warren County parts vote on this Board's ballot.",
+    "Local issue numbers start at 4: Issue 3 is the statewide question, and there are no Issues 1 or 2."
+  ],
+  "places": [
+    "Butlerville Village",
+    "Carlisle City",
+    "Clearcreek Township",
+    "Corwin Village",
+    "Deerfield Township",
+    "Franklin City",
+    "Franklin Township",
+    "Hamilton Township",
+    "Harlan Township",
+    "Harveysburg Village",
+    "Lebanon City",
+    "Loveland City",
+    "Maineville Village",
+    "Mason City",
+    "Massie Township",
+    "Middletown City",
+    "Monroe City",
+    "Morrow Village",
+    "Pleasant Plain Village",
+    "Salem Township",
+    "South Lebanon City",
+    "Springboro City",
+    "Turtlecreek Township",
+    "Union Township",
+    "Washington Township",
+    "Wayne Township",
+    "Waynesville Village"
+  ],
+  "sources": {
+    "warren-46day": {
+      "label": "Warren County Board of Elections: 46-day election notice (FWAB), November 3, 2026 General Election (revised October 15, 2026)",
+      "url": "https://vote.warrencountyohio.gov/doc/Voting/46_Day_notice_for_November_3_2026.pdf"
+    },
+    "warren-issues": {
+      "label": "Warren County Board of Elections: upcoming issues, November 3, 2026 (ballot wording for each issue)",
+      "url": "https://vote.warrencountyohio.gov/CandIssues/UpcomingIssues/Index"
+    }
+  },
+  "links": [
+    {
+      "label": "Board of Elections",
+      "url": "https://vote.warrencountyohio.gov/"
+    },
+    {
+      "label": "Upcoming issues",
+      "url": "https://vote.warrencountyohio.gov/CandIssues/UpcomingIssues/Index"
+    },
+    {
+      "label": "Sample ballots by precinct",
+      "url": "https://lookup.boe.ohio.gov/vtrapp/warren/ballotlist.aspx"
+    }
+  ],
+  "results": {
+    "status": "upcoming",
+    "links": [
+      {
+        "label": "Board of Elections: election results",
+        "url": "https://vote.warrencountyohio.gov/Results/VotingArchives/Index"
+      }
+    ]
+  },
+  "contests": [
+    {
+      "id": "congress-1",
+      "group": "U.S. House",
+      "office": "Representative to Congress",
+      "detail": "1st District",
+      "candidates": [
+        {
+          "name": "Eric Conroy",
+          "party": "REP"
+        },
+        {
+          "name": "Greg Landsman",
+          "party": "DEM"
+        },
+        {
+          "name": "Nathan Weise",
+          "party": "LIB"
+        }
+      ],
+      "sources": [
+        "warren-46day"
+      ]
+    },
+    {
+      "id": "senate-7",
+      "group": "Ohio General Assembly",
+      "office": "State Senator",
+      "detail": "7th District (Hamilton and Warren)",
+      "candidates": [
+        {
+          "name": "Zac Haines",
+          "party": "REP"
+        },
+        {
+          "name": "Cara Jacob",
+          "party": "DEM"
+        }
+      ],
+      "sources": [
+        "warren-46day"
+      ]
+    },
+    {
+      "id": "rep-55",
+      "group": "Ohio General Assembly",
+      "office": "State Representative",
+      "detail": "55th District",
+      "area": "Butlerville Village, Carlisle City, Clearcreek Township, Corwin Village, Franklin City, Franklin Township, Hamilton Township, Harlan Township, Harveysburg Village, Loveland City, Maineville Village, Massie Township, Middletown City, Morrow Village, Pleasant Plain Village, Salem Township, South Lebanon City, Springboro City, Washington Township, Wayne Township, Waynesville Village",
+      "places": [
+        "Butlerville Village",
+        "Carlisle City",
+        "Clearcreek Township",
+        "Corwin Village",
+        "Franklin City",
+        "Franklin Township",
+        "Hamilton Township",
+        "Harlan Township",
+        "Harveysburg Village",
+        "Loveland City",
+        "Maineville Village",
+        "Massie Township",
+        "Middletown City",
+        "Morrow Village",
+        "Pleasant Plain Village",
+        "Salem Township",
+        "South Lebanon City",
+        "Springboro City",
+        "Washington Township",
+        "Wayne Township",
+        "Waynesville Village"
+      ],
+      "candidates": [
+        {
+          "name": "Paul Michael Kurtz",
+          "party": "DEM"
+        },
+        {
+          "name": "Philip L. Pirdy",
+          "party": "LIB"
+        },
+        {
+          "name": "C. Michelle Teska",
+          "party": "REP"
+        }
+      ],
+      "sources": [
+        "warren-46day"
+      ]
+    },
+    {
+      "id": "rep-56",
+      "group": "Ohio General Assembly",
+      "office": "State Representative",
+      "detail": "56th District",
+      "area": "Deerfield Township, Lebanon City, Mason City, Monroe City, South Lebanon City, Turtlecreek Township, Union Township",
+      "places": [
+        "Deerfield Township",
+        "Lebanon City",
+        "Mason City",
+        "Monroe City",
+        "South Lebanon City",
+        "Turtlecreek Township",
+        "Union Township"
+      ],
+      "candidates": [
+        {
+          "name": "Laalitya Acharya",
+          "party": "DEM"
+        },
+        {
+          "name": "Adam Mathews",
+          "party": "REP"
+        }
+      ],
+      "sources": [
+        "warren-46day"
+      ]
+    },
+    {
+      "id": "appeals-12-0101",
+      "group": "Ohio Court of Appeals",
+      "office": "Judge of the Court of Appeals",
+      "detail": "12th District (Butler, Brown, Clermont, Clinton, Fayette, Madison, Preble and Warren counties) · full term commencing January 1, 2027",
+      "candidates": [
+        {
+          "name": "Matthew Byrne",
+          "party": "REP",
+          "note": "Withdrew September 16, 2026; his name may still appear on the ballot, but votes for him will not count"
+        },
+        {
+          "name": "Willa Concannon",
+          "party": "Write-in"
+        }
+      ],
+      "sources": [
+        "warren-46day"
+      ]
+    },
+    {
+      "id": "appeals-12-0209",
+      "group": "Ohio Court of Appeals",
+      "office": "Judge of the Court of Appeals",
+      "detail": "12th District (Butler, Brown, Clermont, Clinton, Fayette, Madison, Preble and Warren counties) · full term commencing February 9, 2027",
+      "candidates": [
+        {
+          "name": "Robert A. Hendrickson",
+          "party": "REP"
+        }
+      ],
+      "sources": [
+        "warren-46day"
+      ]
+    },
+    {
+      "id": "commissioner",
+      "group": "County offices",
+      "office": "County Commissioner",
+      "detail": "Full term commencing January 1, 2027",
+      "candidates": [
+        {
+          "name": "Katherine Bowles",
+          "party": "LIB"
+        },
+        {
+          "name": "Tom Grossmann",
+          "party": "REP"
+        },
+        {
+          "name": "Ian Logan",
+          "party": "DEM"
+        }
+      ],
+      "sources": [
+        "warren-46day"
+      ]
+    },
+    {
+      "id": "auditor",
+      "group": "County offices",
+      "office": "County Auditor",
+      "detail": "Full term commencing March 8, 2027",
+      "candidates": [
+        {
+          "name": "Matt Nolan",
+          "party": "REP"
+        }
+      ],
+      "sources": [
+        "warren-46day"
+      ]
+    },
+    {
+      "id": "cp-gen",
+      "group": "Court of Common Pleas",
+      "office": "Judge of the Court of Common Pleas, General Division",
+      "detail": "Full term commencing February 8, 2027 · no party label on the ballot",
+      "candidates": [
+        {
+          "name": "Gary A. Loxley"
+        }
+      ],
+      "sources": [
+        "warren-46day"
+      ]
+    },
+    {
+      "id": "cp-probate-juv",
+      "group": "Court of Common Pleas",
+      "office": "Judge of the Court of Common Pleas, Probate and Juvenile Division",
+      "detail": "Full term commencing February 1, 2027 · no party label on the ballot",
+      "candidates": [
+        {
+          "name": "Joseph W. Kirby"
+        }
+      ],
+      "sources": [
+        "warren-46day"
+      ]
+    }
+  ],
+  "issues": [
+    {
+      "id": "issue-4",
+      "kind": "question",
+      "jurisdiction": "Franklin City School District",
+      "title": "School district income tax: 1.25% for 5 years, for current expenses",
+      "area": "Franklin City School District",
+      "places": [
+        "Carlisle City",
+        "Franklin City",
+        "Franklin Township",
+        "Middletown City",
+        "Springboro City"
+      ],
+      "number": "Issue 4",
+      "text": "Annual income tax of 1.25% on the earned income of individuals residing in the school district, for 5 years, beginning January 1, 2027, for current expenses.",
+      "sources": [
+        "warren-issues"
+      ]
+    },
+    {
+      "id": "issue-5",
+      "kind": "question",
+      "jurisdiction": "Lebanon City School District",
+      "title": "School district income tax: 1% for 10 years, for current expenses",
+      "area": "Lebanon City School District",
+      "places": [
+        "Clearcreek Township",
+        "Lebanon City",
+        "Mason City",
+        "Middletown City",
+        "Salem Township",
+        "South Lebanon City",
+        "Turtlecreek Township",
+        "Union Township",
+        "Washington Township",
+        "Wayne Township"
+      ],
+      "number": "Issue 5",
+      "text": "Annual income tax of 1% on the earned income of individuals residing in the school district, for 10 years, beginning January 1, 2027, for current expenses.",
+      "sources": [
+        "warren-issues",
+        "warren-46day"
+      ]
+    },
+    {
+      "id": "issue-6",
+      "kind": "levy",
+      "jurisdiction": "Mental Health Recovery Board Serving Warren and Clinton Counties",
+      "title": "Tax levy (renewal): Current expenses",
+      "area": "Warren County",
+      "levy": {
+        "type": "Renewal",
+        "purpose": "Current expenses.",
+        "mills": "1 mill",
+        "term": "5 years, commencing in 2027",
+        "firstDue": "2028",
+        "estimate": "$7,677,198 per year; $16 per $100,000 of market value"
+      },
+      "number": "Issue 6",
+      "sources": [
+        "warren-issues",
+        "warren-46day"
+      ]
+    },
+    {
+      "id": "issue-7",
+      "kind": "levy",
+      "jurisdiction": "Warren County",
+      "title": "Tax levy (renewal): Providing or maintaining senior citizens services",
+      "area": "Warren County",
+      "levy": {
+        "type": "Renewal",
+        "purpose": "Providing or maintaining senior citizens services.",
+        "mills": "1.21 mills",
+        "term": "5 years, commencing in 2026",
+        "firstDue": "2027",
+        "estimate": "$9,016,446 per year; $22 per $100,000 of market value"
+      },
+      "number": "Issue 7",
+      "sources": [
+        "warren-issues",
+        "warren-46day"
+      ]
+    },
+    {
+      "id": "issue-8",
+      "kind": "levy",
+      "jurisdiction": "Franklin Township (excluding the City of Middletown)",
+      "title": "Tax levy (renewal): Providing or maintaining senior services or facilities",
+      "area": "Franklin Township, Franklin City, Carlisle and Springboro precinct 3A (not Middletown)",
+      "places": [
+        "Carlisle City",
+        "Franklin City",
+        "Franklin Township",
+        "Springboro City"
+      ],
+      "levy": {
+        "type": "Renewal",
+        "purpose": "Providing or maintaining senior services or facilities.",
+        "mills": "0.25 mill",
+        "term": "5 years, commencing in 2027",
+        "firstDue": "2028",
+        "estimate": "$143,801 per year; $5 per $100,000 of market value"
+      },
+      "number": "Issue 8",
+      "sources": [
+        "warren-issues",
+        "warren-46day"
+      ]
+    },
+    {
+      "id": "issue-9",
+      "kind": "levy",
+      "jurisdiction": "Turtlecreek Township",
+      "title": "Tax levy (additional): Fire apparatus, equipment, buildings, firefighting and emergency medical personnel, and ambulance and emergency medical services",
+      "area": "Turtlecreek Township A–K and Lebanon City precinct E",
+      "places": [
+        "Lebanon City",
+        "Turtlecreek Township"
+      ],
+      "levy": {
+        "type": "Additional",
+        "purpose": "Fire apparatus, equipment, buildings, firefighting and emergency medical personnel, and ambulance and emergency medical services.",
+        "mills": "4.5 mills",
+        "term": "Continuing period of time, commencing in 2026",
+        "firstDue": "2027",
+        "estimate": "$3,592,748 per year; $158 per $100,000 of market value"
+      },
+      "number": "Issue 9",
+      "sources": [
+        "warren-issues",
+        "warren-46day"
+      ]
+    }
+  ]
+}

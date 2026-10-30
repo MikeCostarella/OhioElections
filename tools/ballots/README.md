@@ -19,7 +19,10 @@ Adding a county: summarise its voter file with `place_summary.py`, write `<count
 
 ## Notes for adding more counties
 
-Done for 2026-11-03: Trumbull (hand-written), Mahoning, Columbiana, Ashtabula, Lake, Cuyahoga, Geauga, Summit, Stark, Portage, Medina, Lorain, Franklin, Hamilton, Montgomery, Lucas, Butler.
+Done for 2026-11-03: Trumbull (hand-written), Mahoning, Columbiana, Ashtabula, Lake, Cuyahoga, Geauga, Summit, Stark, Portage, Medina, Lorain, Franklin, Hamilton, Montgomery, Lucas, Butler, Warren, Delaware, Clermont, Licking, Greene.
+Next by size: Fairfield, Clark, Wood, Richland, Wayne.
+
+**Unnumbered issues.** Delaware, Clermont and Licking print no local issue numbers in their notices: use descriptive ids and the "see your sample ballot" note (licking.py). Joint vocational districts can be placed from the notice's precinct list (clermont.py, medina.py).
 
 **Voter-file gaps.** Franklin's SoS file has empty school-district columns, so `c.sd()` can't be used there; its school issues are placed from the 46-day notice's precinct lists. Elsewhere, when the notice lists a precinct the voter file doesn't put in a district, add that place by hand (`c.sd(...) + c.p(...)`) with a comment.
 

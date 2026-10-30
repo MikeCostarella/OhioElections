@@ -1,0 +1,420 @@
+{
+  "scope": "county",
+  "county": "Clermont",
+  "fips": "39025",
+  "election": "2026-11-03",
+  "retrieved": "2026-10-30",
+  "notes": [
+    "Taken from the Board of Elections' 46-day election notice, which lists every contest and issue with the precincts that vote on it. Issue wording is the notice's summary; the full wording is on the sample ballot.",
+    "Candidates are listed alphabetically by last name, not in ballot order: Ohio rotates the order of names from precinct to precinct. Certified write-in candidates are not printed on the ballot and are not listed.",
+    "\"Where you live\" uses the state voter file: a district or school levy is shown for a city, village or township when any of its voters live in that district. Your exact ballot depends on your precinct.",
+    "The Board's notice does not give local issue numbers; see your sample ballot for them."
+  ],
+  "places": [
+    "Batavia Township",
+    "Batavia Village",
+    "Bethel Village",
+    "Chilo Village",
+    "Felicity Village",
+    "Franklin Township",
+    "Goshen Township",
+    "Jackson Township",
+    "Loveland City",
+    "Miami Township",
+    "Milford City",
+    "Monroe Township",
+    "Moscow Village",
+    "Neville Village",
+    "New Richmond Village",
+    "Ohio Township",
+    "Owensville Village",
+    "Pierce Township",
+    "Stonelick Township",
+    "Tate Township",
+    "Union Township",
+    "Washington Township",
+    "Wayne Township",
+    "Williamsburg Township",
+    "Williamsburg Village"
+  ],
+  "sources": {
+    "clermont-46day": {
+      "label": "Clermont County Board of Elections: 46-day election notice (FWAB), November 3, 2026 General Election (updated, posted September 15, 2026)",
+      "url": "https://boe.clermontcountyohio.gov/FWAB%2046%20day%20-%20November%203,%202026%20General%20r5.pdf"
+    },
+    "clermont-withdrawal": {
+      "label": "Clermont County Board of Elections: notice to Ohio voters of candidate withdrawal (Matthew Byrne, 12th District Court of Appeals)",
+      "url": "https://boe.clermontcountyohio.gov/Candidate%20Withdrawal-Byrne-12th%20District%20Court%20of%20Appeals.pdf"
+    }
+  },
+  "links": [
+    {
+      "label": "Board of Elections",
+      "url": "https://boe.clermontcountyohio.gov/"
+    },
+    {
+      "label": "46-day election notice (FWAB)",
+      "url": "https://boe.clermontcountyohio.gov/news_detail_T9_R39.php"
+    },
+    {
+      "label": "Find your sample ballot",
+      "url": "https://clermont-voterview.boe.ohio.gov/VoterView/RegistrantSearch.do"
+    }
+  ],
+  "results": {
+    "status": "upcoming",
+    "links": [
+      {
+        "label": "Board of Elections: election results",
+        "url": "https://boe.clermontcountyohio.gov/election_results/index.php"
+      }
+    ]
+  },
+  "contests": [
+    {
+      "id": "congress-2",
+      "group": "U.S. House",
+      "office": "Representative to Congress",
+      "detail": "2nd District",
+      "candidates": [
+        {
+          "name": "Jen Mazzuckelli",
+          "party": "DEM"
+        },
+        {
+          "name": "David J. Taylor",
+          "party": "REP"
+        }
+      ],
+      "sources": [
+        "clermont-46day"
+      ]
+    },
+    {
+      "id": "rep-62",
+      "group": "Ohio General Assembly",
+      "office": "State Representative",
+      "detail": "62nd District",
+      "area": "Goshen Township, Loveland City, Miami Township, Milford City, Owensville Village, Stonelick Township, Union Township",
+      "places": [
+        "Goshen Township",
+        "Loveland City",
+        "Miami Township",
+        "Milford City",
+        "Owensville Village",
+        "Stonelick Township",
+        "Union Township"
+      ],
+      "candidates": [
+        {
+          "name": "Ron Grethel",
+          "party": "LIB"
+        },
+        {
+          "name": "Jean Schmidt",
+          "party": "REP"
+        },
+        {
+          "name": "Ian Schwartz",
+          "party": "DEM"
+        }
+      ],
+      "sources": [
+        "clermont-46day"
+      ]
+    },
+    {
+      "id": "rep-63",
+      "group": "Ohio General Assembly",
+      "office": "State Representative",
+      "detail": "63rd District (Clermont and part of Brown)",
+      "area": "Batavia Township, Batavia Village, Bethel Village, Chilo Village, Felicity Village, Franklin Township, Jackson Township, Monroe Township, Moscow Village, Neville Village, New Richmond Village, Ohio Township, Pierce Township, Tate Township, Washington Township, Wayne Township, Williamsburg Township, Williamsburg Village",
+      "places": [
+        "Batavia Township",
+        "Batavia Village",
+        "Bethel Village",
+        "Chilo Village",
+        "Felicity Village",
+        "Franklin Township",
+        "Jackson Township",
+        "Monroe Township",
+        "Moscow Village",
+        "Neville Village",
+        "New Richmond Village",
+        "Ohio Township",
+        "Pierce Township",
+        "Tate Township",
+        "Washington Township",
+        "Wayne Township",
+        "Williamsburg Township",
+        "Williamsburg Village"
+      ],
+      "candidates": [
+        {
+          "name": "Adam C. Bird",
+          "party": "REP"
+        },
+        {
+          "name": "Debbie Davidson",
+          "party": "DEM"
+        }
+      ],
+      "sources": [
+        "clermont-46day"
+      ]
+    },
+    {
+      "id": "appeals-12-0101",
+      "group": "Ohio Court of Appeals",
+      "office": "Judge of the Court of Appeals",
+      "detail": "12th District (Butler, Brown, Clermont, Clinton, Fayette, Madison, Preble and Warren counties) · full term commencing January 1, 2027",
+      "candidates": [
+        {
+          "name": "Matthew Byrne",
+          "party": "REP",
+          "note": "Withdrew September 16, 2026; his name may still appear on the ballot, but votes for him will not count"
+        },
+        {
+          "name": "Willa Concannon",
+          "party": "Write-in"
+        }
+      ],
+      "sources": [
+        "clermont-46day",
+        "clermont-withdrawal"
+      ]
+    },
+    {
+      "id": "appeals-12-0209",
+      "group": "Ohio Court of Appeals",
+      "office": "Judge of the Court of Appeals",
+      "detail": "12th District (Butler, Brown, Clermont, Clinton, Fayette, Madison, Preble and Warren counties) · full term commencing February 9, 2027",
+      "candidates": [
+        {
+          "name": "Robert A. Hendrickson",
+          "party": "REP"
+        }
+      ],
+      "sources": [
+        "clermont-46day"
+      ]
+    },
+    {
+      "id": "commissioner",
+      "group": "County offices",
+      "office": "County Commissioner",
+      "detail": "Full term commencing January 1, 2027",
+      "candidates": [
+        {
+          "name": "Claire B. Corcoran",
+          "party": "REP"
+        },
+        {
+          "name": "Joe Wessels",
+          "party": "DEM"
+        }
+      ],
+      "sources": [
+        "clermont-46day"
+      ]
+    },
+    {
+      "id": "auditor",
+      "group": "County offices",
+      "office": "County Auditor",
+      "detail": "Full term commencing March 13, 2027",
+      "candidates": [
+        {
+          "name": "John Becker",
+          "party": "REP"
+        }
+      ],
+      "sources": [
+        "clermont-46day"
+      ]
+    },
+    {
+      "id": "cp-probate-juvenile",
+      "group": "Court of Common Pleas",
+      "office": "Judge of the Court of Common Pleas, Probate/Juvenile Division",
+      "detail": "Full term commencing February 9, 2027 · no party label on the ballot",
+      "candidates": [
+        {
+          "name": "Nathan M. Little"
+        }
+      ],
+      "sources": [
+        "clermont-46day"
+      ]
+    }
+  ],
+  "issues": [
+    {
+      "id": "bethel-tate-current",
+      "kind": "levy",
+      "jurisdiction": "Bethel-Tate Local School District (Clermont and Brown)",
+      "title": "Tax levy (renewal): Current operating expenses",
+      "area": "Bethel Village A and B; Tate Township A and H; part of Franklin Township A and D, Tate Township B, D and F, and Washington Township A",
+      "places": [
+        "Bethel Village",
+        "Franklin Township",
+        "Tate Township",
+        "Washington Township"
+      ],
+      "levy": {
+        "type": "Renewal",
+        "purpose": "Current operating expenses.",
+        "mills": "5.48 mills",
+        "term": "5 years"
+      },
+      "sources": [
+        "clermont-46day"
+      ]
+    },
+    {
+      "id": "us-grant-bond",
+      "kind": "levy",
+      "jurisdiction": "U.S. Grant Joint Vocational School District",
+      "title": "Bond issue: new construction, improvements and renovations to school facilities",
+      "area": "Felicity Village; Franklin Township A, B and D; Jackson Township B; Monroe Township B–E; New Richmond Village A and B; Ohio Township A and B; Pierce Township B, E and M; Bethel Village A and B; Tate Township A, D, F and H; Washington Township A–C; Williamsburg Village A and C; Williamsburg Township A and B; parts of Batavia Township C, Ohio Township C, Pierce Township A and D, Tate Township B and Williamsburg Township C",
+      "places": [
+        "Batavia Township",
+        "Bethel Village",
+        "Felicity Village",
+        "Franklin Township",
+        "Jackson Township",
+        "Monroe Township",
+        "New Richmond Village",
+        "Ohio Township",
+        "Pierce Township",
+        "Tate Township",
+        "Washington Township",
+        "Williamsburg Township",
+        "Williamsburg Village"
+      ],
+      "text": "Bond issue, estimated 1.15 mills, 37 years, for paying the costs of new construction, improvements, renovations and other additions to school facilities, as well as equipment, furnishings, site development, safety and security measures, and all necessary appurtenances for the foregoing, as well as land acquisition and capitalized interest.",
+      "sources": [
+        "clermont-46day"
+      ]
+    },
+    {
+      "id": "us-grant-pi",
+      "kind": "levy",
+      "jurisdiction": "U.S. Grant Joint Vocational School District",
+      "title": "Tax levy (additional): Acquisition, construction, enlargement, renovation, and financing of permanent improvements",
+      "area": "Felicity Village; Franklin Township A, B and D; Jackson Township B; Monroe Township B–E; New Richmond Village A and B; Ohio Township A and B; Pierce Township B, E and M; Bethel Village A and B; Tate Township A, D, F and H; Washington Township A–C; Williamsburg Village A and C; Williamsburg Township A and B; parts of Batavia Township C, Ohio Township C, Pierce Township A and D, Tate Township B and Williamsburg Township C",
+      "places": [
+        "Batavia Township",
+        "Bethel Village",
+        "Felicity Village",
+        "Franklin Township",
+        "Jackson Township",
+        "Monroe Township",
+        "New Richmond Village",
+        "Ohio Township",
+        "Pierce Township",
+        "Tate Township",
+        "Washington Township",
+        "Williamsburg Township",
+        "Williamsburg Village"
+      ],
+      "levy": {
+        "type": "Additional",
+        "purpose": "Acquisition, construction, enlargement, renovation, and financing of permanent improvements.",
+        "mills": "0.84 mill",
+        "term": "Continuing period of time"
+      },
+      "sources": [
+        "clermont-46day"
+      ]
+    },
+    {
+      "id": "county-children",
+      "kind": "levy",
+      "jurisdiction": "Clermont County",
+      "title": "Tax levy (renewal): Support of children services and the care and placement of children",
+      "area": "Clermont County",
+      "levy": {
+        "type": "Renewal",
+        "purpose": "Support of children services and the care and placement of children.",
+        "mills": "0.8 mill",
+        "term": "5 years"
+      },
+      "sources": [
+        "clermont-46day"
+      ]
+    },
+    {
+      "id": "batavia-twp-fire",
+      "kind": "levy",
+      "jurisdiction": "Batavia Township",
+      "title": "Tax levy (additional): Fire and emergency medical services: fire apparatus and equipment, buildings and sites, firefighting and EMS personnel, and ambulance, paramedic or other emergency medical service",
+      "area": "Batavia Township A–P and Batavia Village A",
+      "places": [
+        "Batavia Township",
+        "Batavia Village"
+      ],
+      "levy": {
+        "type": "Additional",
+        "purpose": "Fire and emergency medical services: fire apparatus and equipment, buildings and sites, firefighting and EMS personnel, and ambulance, paramedic or other emergency medical service.",
+        "mills": "8.4 mills",
+        "term": "Continuing period of time"
+      },
+      "sources": [
+        "clermont-46day"
+      ]
+    },
+    {
+      "id": "union-twp-fire",
+      "kind": "levy",
+      "jurisdiction": "Union Township",
+      "title": "Tax levy (additional): Fire and emergency medical services: fire apparatus and equipment, buildings and sites, firefighting and EMS personnel, and ambulance, paramedic or other emergency medical service",
+      "area": "Union Township A–R, T, U, W–Z, B1B, C1C, D1D, E1E, F1F, J1J, K1K, L1L, M1M, P1P, R1R, S1S, U1U and V1V",
+      "places": [
+        "Union Township"
+      ],
+      "levy": {
+        "type": "Additional",
+        "purpose": "Fire and emergency medical services: fire apparatus and equipment, buildings and sites, firefighting and EMS personnel, and ambulance, paramedic or other emergency medical service.",
+        "mills": "1.99 mills",
+        "term": "Continuing period of time"
+      },
+      "sources": [
+        "clermont-46day"
+      ]
+    },
+    {
+      "id": "washington-twp-fire",
+      "kind": "levy",
+      "jurisdiction": "Washington Township",
+      "title": "Tax levy (additional): Fire and emergency medical services: fire apparatus and equipment, buildings and sites, firefighting and EMS personnel, and ambulance, paramedic or other emergency medical service",
+      "area": "Washington Township A, B and C",
+      "places": [
+        "Washington Township"
+      ],
+      "levy": {
+        "type": "Additional",
+        "purpose": "Fire and emergency medical services: fire apparatus and equipment, buildings and sites, firefighting and EMS personnel, and ambulance, paramedic or other emergency medical service.",
+        "mills": "5.5 mills",
+        "term": "5 years"
+      },
+      "sources": [
+        "clermont-46day"
+      ]
+    },
+    {
+      "id": "liquor-scramblers",
+      "kind": "liquor",
+      "jurisdiction": "Union Township",
+      "title": "Local liquor option: Scramblers (Sunday)",
+      "area": "Union Township precinct G",
+      "places": [
+        "Union Township"
+      ],
+      "text": "Sunday sales of wine and mixed beverages, and spirituous liquor, at a particular business location (by petition): Amy's F & B L.L.C. dba Scramblers.",
+      "sources": [
+        "clermont-46day"
+      ]
+    }
+  ]
+}
