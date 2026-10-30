@@ -1,0 +1,625 @@
+{
+  "scope": "county",
+  "county": "Lake",
+  "fips": "39085",
+  "election": "2026-11-03",
+  "retrieved": "2026-10-30",
+  "notes": [
+    "Taken from the Board of Elections' candidate list and its certified questions and issues (the Board's summary language).",
+    "Candidates are listed alphabetically by last name, not in ballot order: Ohio rotates the order of names from precinct to precinct. Certified write-in candidates are not printed on the ballot and are not listed.",
+    "\"Where you live\" uses the state voter file: a district or school levy is shown for a city, village or township when any of its voters live in that district. Your exact ballot depends on your precinct."
+  ],
+  "places": [
+    "Concord Township",
+    "Eastlake City",
+    "Fairport Harbor Village",
+    "Grand River Village",
+    "Kirtland City",
+    "Kirtland Hills Village",
+    "Lakeline Village",
+    "Leroy Township",
+    "Madison Township",
+    "Madison Village",
+    "Mentor City",
+    "Mentor-on-the-Lake City",
+    "North Perry Village",
+    "Painesville City",
+    "Painesville Township",
+    "Perry Township",
+    "Perry Village",
+    "Timberlake Village",
+    "Waite Hill Village",
+    "Wickliffe City",
+    "Willoughby City",
+    "Willoughby Hills City",
+    "Willowick City"
+  ],
+  "sources": {
+    "lake-cand": {
+      "label": "Lake County Board of Elections: November 3, 2026 General Election candidate list (updated 10/15/2026)",
+      "url": "https://wpassets.lakecountyohio.gov/wp-content/uploads/sites/12/2026/10/15161638/2026-Candidate-Filings.pdf"
+    },
+    "lake-issues": {
+      "label": "Lake County Board of Elections: certified questions and issues, November 3, 2026 (updated 8/25/2026)",
+      "url": "https://wpassets.lakecountyohio.gov/wp-content/uploads/sites/12/2026/10/01155449/Issues-for-11-3-26.pdf"
+    }
+  },
+  "links": [
+    {
+      "label": "Board of Elections",
+      "url": "https://www.lakecountyohio.gov/boe/"
+    },
+    {
+      "label": "Sample ballots",
+      "url": "https://www.lakecountyohio.gov/boe/sample-ballots/"
+    }
+  ],
+  "results": {
+    "status": "upcoming",
+    "links": [
+      {
+        "label": "Board of Elections",
+        "url": "https://www.lakecountyohio.gov/boe/"
+      }
+    ]
+  },
+  "contests": [
+    {
+      "id": "congress-14",
+      "group": "U.S. House",
+      "office": "Representative to Congress",
+      "detail": "14th District",
+      "candidates": [
+        {
+          "name": "David P. Joyce",
+          "party": "REP"
+        },
+        {
+          "name": "Maria Jukic",
+          "party": "DEM"
+        }
+      ],
+      "sources": [
+        "lake-cand"
+      ]
+    },
+    {
+      "id": "rep-23",
+      "group": "Ohio General Assembly",
+      "office": "State Representative",
+      "detail": "23rd District",
+      "area": "Eastlake City, Lakeline Village, Mentor City, Mentor-on-the-Lake City, Timberlake Village, Wickliffe City, Willoughby City, Willoughby Hills City, Willowick City",
+      "places": [
+        "Eastlake City",
+        "Lakeline Village",
+        "Mentor City",
+        "Mentor-on-the-Lake City",
+        "Timberlake Village",
+        "Wickliffe City",
+        "Willoughby City",
+        "Willoughby Hills City",
+        "Willowick City"
+      ],
+      "candidates": [
+        {
+          "name": "Julie A. Belich",
+          "party": "REP"
+        },
+        {
+          "name": "Daniel P. Troy",
+          "party": "DEM"
+        }
+      ],
+      "sources": [
+        "lake-cand"
+      ]
+    },
+    {
+      "id": "rep-57",
+      "group": "Ohio General Assembly",
+      "office": "State Representative",
+      "detail": "57th District",
+      "area": "Concord Township, Fairport Harbor Village, Grand River Village, Kirtland City, Kirtland Hills Village, Leroy Township, Madison Township, Madison Village, Mentor City, North Perry Village, Painesville City, Painesville Township, Perry Township, Perry Village, Waite Hill Village",
+      "places": [
+        "Concord Township",
+        "Fairport Harbor Village",
+        "Grand River Village",
+        "Kirtland City",
+        "Kirtland Hills Village",
+        "Leroy Township",
+        "Madison Township",
+        "Madison Village",
+        "Mentor City",
+        "North Perry Village",
+        "Painesville City",
+        "Painesville Township",
+        "Perry Township",
+        "Perry Village",
+        "Waite Hill Village"
+      ],
+      "candidates": [
+        {
+          "name": "Belinda Grassi",
+          "party": "Nonparty"
+        },
+        {
+          "name": "Jesse Styles",
+          "party": "REP"
+        },
+        {
+          "name": "Rick Walker",
+          "party": "DEM"
+        }
+      ],
+      "sources": [
+        "lake-cand"
+      ]
+    },
+    {
+      "id": "commissioner-0101",
+      "group": "County offices",
+      "office": "County Commissioner",
+      "detail": "Term commencing January 1, 2027",
+      "candidates": [
+        {
+          "name": "John T. Plecnik",
+          "party": "REP"
+        },
+        {
+          "name": "Tom Trombley",
+          "party": "DEM"
+        }
+      ],
+      "sources": [
+        "lake-cand"
+      ]
+    },
+    {
+      "id": "commissioner-ute",
+      "group": "County offices",
+      "office": "County Commissioner",
+      "detail": "Unexpired term ending January 1, 2029",
+      "candidates": [
+        {
+          "name": "Lisa Lewins",
+          "party": "DEM"
+        },
+        {
+          "name": "Morgan R. McIntosh",
+          "party": "REP"
+        }
+      ],
+      "sources": [
+        "lake-cand"
+      ]
+    },
+    {
+      "id": "auditor",
+      "group": "County offices",
+      "office": "County Auditor",
+      "detail": "Term commencing March 8, 2027",
+      "candidates": [
+        {
+          "name": "Christopher A. Galloway",
+          "party": "REP"
+        }
+      ],
+      "sources": [
+        "lake-cand"
+      ]
+    },
+    {
+      "id": "appeals-11-0209",
+      "group": "Ohio Court of Appeals",
+      "office": "Judge of the Court of Appeals",
+      "detail": "11th District · term commencing February 9, 2027",
+      "candidates": [
+        {
+          "name": "Marisa L. Cornachio",
+          "party": "REP"
+        }
+      ],
+      "sources": [
+        "lake-cand"
+      ]
+    },
+    {
+      "id": "appeals-11-0210",
+      "group": "Ohio Court of Appeals",
+      "office": "Judge of the Court of Appeals",
+      "detail": "11th District · term commencing February 10, 2027",
+      "candidates": [
+        {
+          "name": "Robert J. Patton",
+          "party": "REP"
+        }
+      ],
+      "sources": [
+        "lake-cand"
+      ]
+    },
+    {
+      "id": "cp-dr",
+      "group": "Court of Common Pleas",
+      "office": "Judge of the Court of Common Pleas, Domestic Relations Division",
+      "detail": "Term commencing January 2, 2027 · no party label on the ballot",
+      "candidates": [
+        {
+          "name": "Jeffrey H. Black"
+        }
+      ],
+      "sources": [
+        "lake-cand"
+      ]
+    },
+    {
+      "id": "cp-juv",
+      "group": "Court of Common Pleas",
+      "office": "Judge of the Court of Common Pleas, Juvenile Division",
+      "detail": "Term commencing January 4, 2027 · no party label on the ballot",
+      "candidates": [
+        {
+          "name": "Michael L. DeLeone"
+        }
+      ],
+      "sources": [
+        "lake-cand"
+      ]
+    },
+    {
+      "id": "cp-gen",
+      "group": "Court of Common Pleas",
+      "office": "Judge of the Court of Common Pleas, General Division",
+      "detail": "Term commencing January 5, 2027 · no party label on the ballot",
+      "candidates": [
+        {
+          "name": "John P. O'Donnell"
+        }
+      ],
+      "sources": [
+        "lake-cand"
+      ]
+    },
+    {
+      "id": "cp-probate",
+      "group": "Court of Common Pleas",
+      "office": "Judge of the Court of Common Pleas, Probate Division",
+      "detail": "Term commencing February 9, 2027 · no party label on the ballot",
+      "candidates": [
+        {
+          "name": "Mark J. Bartolotta"
+        }
+      ],
+      "sources": [
+        "lake-cand"
+      ]
+    },
+    {
+      "id": "mentor-council-w3",
+      "group": "Municipal offices",
+      "office": "Mentor City Council, Ward 3",
+      "detail": "Unexpired term ending December 31, 2027 · Ward 3 voters only",
+      "area": "Mentor City Ward 3",
+      "places": [
+        "Mentor City"
+      ],
+      "candidates": [
+        {
+          "name": "Jessie Baginski"
+        },
+        {
+          "name": "Charles E. Pinkerman"
+        }
+      ],
+      "sources": [
+        "lake-cand"
+      ]
+    }
+  ],
+  "issues": [
+    {
+      "id": "issue-4",
+      "kind": "levy",
+      "jurisdiction": "Kirtland Local School District",
+      "title": "Tax levy (renewal): Current operating expenses of the district",
+      "area": "Kirtland Local School District (7 precincts + Geauga)",
+      "places": [
+        "Kirtland City",
+        "Kirtland Hills Village",
+        "Waite Hill Village",
+        "Willoughby City"
+      ],
+      "levy": {
+        "type": "Renewal",
+        "purpose": "Current operating expenses of the district.",
+        "mills": "4.36 mills",
+        "term": "5 years, commencing in 2027",
+        "firstDue": "2028",
+        "estimate": "$2,278,636 a year; $134 for each $100,000 of market value"
+      },
+      "number": "Issue 4",
+      "sources": [
+        "lake-issues"
+      ]
+    },
+    {
+      "id": "issue-5",
+      "kind": "levy",
+      "jurisdiction": "Mentor Exempted Village School District",
+      "title": "Tax levy (additional): Current expenses",
+      "area": "Mentor Exempted Village School District (45 precincts + Geauga)",
+      "places": [
+        "Concord Township",
+        "Kirtland Hills Village",
+        "Mentor City",
+        "Mentor-on-the-Lake City"
+      ],
+      "levy": {
+        "type": "Additional",
+        "purpose": "Current expenses.",
+        "mills": "3.5 mills",
+        "term": "5 years, commencing in 2026",
+        "firstDue": "2027",
+        "estimate": "$9,613,354 a year; $123 for each $100,000 of market value"
+      },
+      "number": "Issue 5",
+      "sources": [
+        "lake-issues"
+      ]
+    },
+    {
+      "id": "issue-6",
+      "kind": "question",
+      "jurisdiction": "Painesville City Local School District",
+      "title": "Proposed school district income tax: 1.25%",
+      "area": "Painesville City Local School District (9 precincts)",
+      "places": [
+        "Painesville City"
+      ],
+      "number": "Issue 6",
+      "text": "Shall an annual income tax of 1.25 per cent on the earned income of individuals residing in the school district be imposed by Painesville City Local School District, for a continuing period of time, beginning January 1, 2027, for the purpose of current expenses?",
+      "sources": [
+        "lake-issues"
+      ]
+    },
+    {
+      "id": "issue-7",
+      "kind": "question",
+      "jurisdiction": "Riverside Local School District",
+      "title": "Proposed school district income tax: 1%",
+      "area": "Riverside Local School District (30 precincts + Geauga)",
+      "places": [
+        "Concord Township",
+        "Grand River Village",
+        "Leroy Township",
+        "Painesville City",
+        "Painesville Township"
+      ],
+      "number": "Issue 7",
+      "text": "Shall an annual income tax of 1 per cent on the earned income of individuals residing in the school district be imposed by Riverside Local School District, for a continuing period of time, beginning January 1, 2027, for the purpose of current expenses and permanent improvements?",
+      "sources": [
+        "lake-issues"
+      ]
+    },
+    {
+      "id": "issue-8",
+      "kind": "question",
+      "jurisdiction": "Willoughby-Eastlake City School District",
+      "title": "Proposed school district income tax: 0.75%",
+      "area": "Willoughby-Eastlake City School District (49 precincts)",
+      "places": [
+        "Eastlake City",
+        "Lakeline Village",
+        "Timberlake Village",
+        "Waite Hill Village",
+        "Willoughby City",
+        "Willoughby Hills City",
+        "Willowick City"
+      ],
+      "number": "Issue 8",
+      "text": "Shall an annual income tax of 0.75 per cent on the earned income of individuals residing in the school district be imposed by Willoughby-Eastlake City School District, for a continuing period of time, beginning January 1, 2027, for the purpose of current expenses?",
+      "sources": [
+        "lake-issues"
+      ]
+    },
+    {
+      "id": "issue-9",
+      "kind": "levy",
+      "jurisdiction": "Eastlake City",
+      "title": "Tax levy (renewal): Current operating expenses",
+      "area": "Eastlake City (12 precincts)",
+      "places": [
+        "Eastlake City"
+      ],
+      "levy": {
+        "type": "Renewal",
+        "purpose": "Current operating expenses.",
+        "mills": "1.8 mills",
+        "term": "5 years, commencing in 2027",
+        "firstDue": "2028",
+        "estimate": "$575,463 a year; $16 for each $100,000 of market value"
+      },
+      "number": "Issue 9",
+      "sources": [
+        "lake-issues"
+      ]
+    },
+    {
+      "id": "issue-10",
+      "kind": "levy",
+      "jurisdiction": "Kirtland City",
+      "title": "Tax levy (renewal): Senior citizen and community recreational facilities and programs",
+      "area": "Kirtland City (4 precincts)",
+      "places": [
+        "Kirtland City"
+      ],
+      "levy": {
+        "type": "Renewal",
+        "purpose": "Senior citizen and community recreational facilities and programs.",
+        "mills": "0.85 mill",
+        "term": "5 years, commencing in 2026",
+        "firstDue": "2027",
+        "estimate": "$156,412 a year; $11 for each $100,000 of market value"
+      },
+      "number": "Issue 10",
+      "sources": [
+        "lake-issues"
+      ]
+    },
+    {
+      "id": "issue-11",
+      "kind": "levy",
+      "jurisdiction": "Willoughby City",
+      "title": "Tax levy (renewal): General construction, reconstruction, resurfacing, and repair of streets, roads, and bridges",
+      "area": "Willoughby City (18 precincts)",
+      "places": [
+        "Willoughby City"
+      ],
+      "levy": {
+        "type": "Renewal",
+        "purpose": "General construction, reconstruction, resurfacing, and repair of streets, roads, and bridges.",
+        "mills": "2 mills",
+        "term": "5 years, commencing in 2026",
+        "firstDue": "2027",
+        "estimate": "$1,267,480 a year; $37 for each $100,000 of market value"
+      },
+      "number": "Issue 11",
+      "sources": [
+        "lake-issues"
+      ]
+    },
+    {
+      "id": "issue-12",
+      "kind": "levy",
+      "jurisdiction": "Willoughby City",
+      "title": "Tax levy (renewal): Current expenses",
+      "area": "Willoughby City (18 precincts)",
+      "places": [
+        "Willoughby City"
+      ],
+      "levy": {
+        "type": "Renewal",
+        "purpose": "Current expenses.",
+        "mills": "0.9 mill",
+        "term": "5 years, commencing in 2026",
+        "firstDue": "2027",
+        "estimate": "$157,186 a year; $3 for each $100,000 of market value"
+      },
+      "number": "Issue 12",
+      "sources": [
+        "lake-issues"
+      ]
+    },
+    {
+      "id": "issue-13",
+      "kind": "levy",
+      "jurisdiction": "Willowick City",
+      "title": "Tax levy (renewal): Parks and recreation",
+      "area": "Willowick City (9 precincts)",
+      "places": [
+        "Willowick City"
+      ],
+      "levy": {
+        "type": "Renewal",
+        "purpose": "Parks and recreation.",
+        "mills": "0.5 mill",
+        "term": "5 years, commencing in 2026",
+        "firstDue": "2027",
+        "estimate": "$70,824 a year; $5 for each $100,000 of market value"
+      },
+      "number": "Issue 13",
+      "sources": [
+        "lake-issues"
+      ]
+    },
+    {
+      "id": "issue-14",
+      "kind": "liquor",
+      "jurisdiction": "Eastlake City",
+      "title": "Local liquor option: Vine Gas (Sunday)",
+      "area": "Eastlake City Ward 1 Precinct A",
+      "places": [
+        "Eastlake City"
+      ],
+      "number": "Issue 14",
+      "text": "Shall the sale of wine and mixed beverages be permitted for sale on Sunday by Vine Gas LLC DBA Vine Gas, an applicant for a D-6 liquor permit, who is engaged in the business of a convenience store and gas station at 33610 - 33632 - 33650 Vine St., Eastlake, Ohio 44095 in this precinct?",
+      "sources": [
+        "lake-issues"
+      ]
+    },
+    {
+      "id": "issue-15",
+      "kind": "liquor",
+      "jurisdiction": "Willowick City",
+      "title": "Local liquor option: Lakeshore Gas (Sunday)",
+      "area": "Willowick City Ward 3 Precinct C",
+      "places": [
+        "Willowick City"
+      ],
+      "number": "Issue 15",
+      "text": "Shall the sale of wine and mixed beverages be permitted for sale on Sunday by Lakeshore Gas LLC DBA Lakeshore Gas, an applicant for a D-6 liquor permit, who is engaged in the business of a convenience store and gas station at 29000 Lakeshore Blvd., Willowick, Ohio 44095 in this precinct?",
+      "sources": [
+        "lake-issues"
+      ]
+    },
+    {
+      "id": "issue-16",
+      "kind": "question",
+      "jurisdiction": "Perry Village",
+      "title": "Proposed ordinance (by petition): Village Fiscal Officer duties on data center agreements",
+      "area": "Perry Village (1 precinct)",
+      "places": [
+        "Perry Village"
+      ],
+      "number": "Issue 16",
+      "text": "The Proposed Ordinance amends Chapter 133.01 \"Established; Power and Duties\" of the Codified Ordinances of the Village of Perry regarding the duties of the Village Fiscal Officer before signing Village agreements with a hyperscale data center involving tax abatements, PILOT Programs, or any special tax designation. Shall the proposed ordinance amending Chapter 133.01 \"Established; Power and Duties\" of the Codified Ordinances of the Village of Perry be adopted?",
+      "sources": [
+        "lake-issues"
+      ]
+    },
+    {
+      "id": "issue-17",
+      "kind": "levy",
+      "jurisdiction": "Concord Township",
+      "title": "Tax levy (renewal): Fire",
+      "area": "Concord Township (15 precincts)",
+      "places": [
+        "Concord Township"
+      ],
+      "levy": {
+        "type": "Renewal",
+        "purpose": "Fire.",
+        "mills": "2.7 mills",
+        "term": "5 years, commencing in 2027",
+        "firstDue": "2028",
+        "estimate": "$1,795,434 a year; $49 for each $100,000 of market value"
+      },
+      "number": "Issue 17",
+      "sources": [
+        "lake-issues"
+      ]
+    },
+    {
+      "id": "issue-18",
+      "kind": "levy",
+      "jurisdiction": "Madison Township",
+      "title": "Tax levy (renewal): Police",
+      "area": "Madison Township (10 precincts)",
+      "places": [
+        "Madison Township"
+      ],
+      "levy": {
+        "type": "Renewal",
+        "purpose": "Police.",
+        "mills": "1.9 mills",
+        "term": "5 years, commencing in 2027",
+        "firstDue": "2028",
+        "estimate": "$587,707 a year; $33 for each $100,000 of market value"
+      },
+      "number": "Issue 18",
+      "sources": [
+        "lake-issues"
+      ]
+    }
+  ]
+}

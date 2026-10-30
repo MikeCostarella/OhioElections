@@ -33,17 +33,23 @@ export interface Contest {
   area?: string;
   /** Places (cities / villages / townships) whose voters see it; absent = everyone in scope. */
   places?: string[];
+  coverage?: Coverage;
   candidates: Candidate[];
   sources: string[];
 }
 
 export interface Levy {
-  type: string;
+  type?: string;
   purpose: string;
-  mills: string;
-  term: string;
-  firstDue: string;
+  mills?: string;
+  term?: string;
+  firstDue?: string;
+  /** "$812,524 a year; $82 for each $100,000 of market value", as the Board states it. */
+  estimate?: string;
 }
+
+/** "unknown": a special district (park, ambulance, county council...) whose boundaries are not in the voter file. */
+export type Coverage = "unknown";
 
 export type IssueKind = "state" | "levy" | "question" | "liquor";
 
@@ -56,6 +62,7 @@ export interface Issue {
   /** Precincts covered, as the Board lists them. */
   area: string;
   places?: string[];
+  coverage?: Coverage;
   levy?: Levy;
   text?: string;
   bullets?: string[];

@@ -1,0 +1,736 @@
+{
+  "scope": "county",
+  "county": "Geauga",
+  "fips": "39055",
+  "election": "2026-11-03",
+  "retrieved": "2026-10-30",
+  "notes": [
+    "Taken from the Board of Elections' official sample ballots, all 91 precinct splits. Unlike the other counties, \"Where you live\" here comes straight from those ballots: a race or issue is shown for a place when it is on at least one of that place's ballots.",
+    "Candidates are listed alphabetically by last name, not in ballot order: Ohio rotates the order of names from precinct to precinct. Certified write-in candidates are not printed on the ballot and are not listed."
+  ],
+  "places": [
+    "Auburn Township",
+    "Bainbridge Township",
+    "Burton Township",
+    "Burton Village",
+    "Chardon City",
+    "Chardon Township",
+    "Chester Township",
+    "Claridon Township",
+    "Hambden Township",
+    "Hunting Valley Village",
+    "Huntsburg Township",
+    "Middlefield Township",
+    "Middlefield Village",
+    "Montville Township",
+    "Munson Township",
+    "Newbury Township",
+    "Parkman Township",
+    "Russell Township",
+    "South Russell Village",
+    "Thompson Township",
+    "Troy Township"
+  ],
+  "sources": {
+    "geauga-ballots": {
+      "label": "Geauga County Board of Elections: official sample ballots for all 91 precinct splits, November 3, 2026 (state ballot lookup)",
+      "url": "https://lookup.boe.ohio.gov/vtrapp/geauga/ballotlist.aspx"
+    }
+  },
+  "links": [
+    {
+      "label": "Sample ballots by precinct",
+      "url": "https://lookup.boe.ohio.gov/vtrapp/geauga/ballotlist.aspx"
+    },
+    {
+      "label": "Board of Elections",
+      "url": "https://www.boe.ohio.gov/geauga/"
+    }
+  ],
+  "results": {
+    "status": "upcoming",
+    "links": [
+      {
+        "label": "Board of Elections",
+        "url": "https://www.boe.ohio.gov/geauga/"
+      }
+    ]
+  },
+  "contests": [
+    {
+      "id": "congress-14",
+      "group": "U.S. House",
+      "office": "Representative to Congress",
+      "detail": "14th District",
+      "candidates": [
+        {
+          "name": "David P. Joyce",
+          "party": "REP"
+        },
+        {
+          "name": "Maria Jukic",
+          "party": "DEM"
+        }
+      ],
+      "sources": [
+        "geauga-ballots"
+      ]
+    },
+    {
+      "id": "senate-27",
+      "group": "Ohio General Assembly",
+      "office": "State Senator",
+      "detail": "27th District",
+      "area": "Auburn Township, Bainbridge Township, South Russell Village",
+      "places": [
+        "Auburn Township",
+        "Bainbridge Township",
+        "South Russell Village"
+      ],
+      "candidates": [
+        {
+          "name": "Steve Demetriou",
+          "party": "REP"
+        },
+        {
+          "name": "Mike Roberto",
+          "party": "DEM"
+        }
+      ],
+      "sources": [
+        "geauga-ballots"
+      ]
+    },
+    {
+      "id": "rep-35",
+      "group": "Ohio General Assembly",
+      "office": "State Representative",
+      "detail": "35th District",
+      "area": "Auburn Township, Bainbridge Township, South Russell Village",
+      "places": [
+        "Auburn Township",
+        "Bainbridge Township",
+        "South Russell Village"
+      ],
+      "candidates": [
+        {
+          "name": "Samantha Salamon",
+          "party": "DEM"
+        },
+        {
+          "name": "Vik Sandhu",
+          "party": "REP"
+        }
+      ],
+      "sources": [
+        "geauga-ballots"
+      ]
+    },
+    {
+      "id": "rep-99",
+      "group": "Ohio General Assembly",
+      "office": "State Representative",
+      "detail": "99th District",
+      "area": "Burton Township, Burton Village, Chardon City, Chardon Township, Chester Township, Claridon Township, Hambden Township, Hunting Valley Village, Huntsburg Township, Middlefield Township, Middlefield Village, Montville Township, Munson Township, Newbury Township, Parkman Township, Russell Township, Thompson Township, Troy Township",
+      "places": [
+        "Burton Township",
+        "Burton Village",
+        "Chardon City",
+        "Chardon Township",
+        "Chester Township",
+        "Claridon Township",
+        "Hambden Township",
+        "Hunting Valley Village",
+        "Huntsburg Township",
+        "Middlefield Township",
+        "Middlefield Village",
+        "Montville Township",
+        "Munson Township",
+        "Newbury Township",
+        "Parkman Township",
+        "Russell Township",
+        "Thompson Township",
+        "Troy Township"
+      ],
+      "candidates": [
+        {
+          "name": "Sarah Fowler Arthur",
+          "party": "REP"
+        },
+        {
+          "name": "Louis Murphy",
+          "party": "DEM"
+        }
+      ],
+      "sources": [
+        "geauga-ballots"
+      ]
+    },
+    {
+      "id": "appeals-11-0209",
+      "group": "Ohio Court of Appeals",
+      "office": "Judge of the Court of Appeals",
+      "detail": "11th District · full term commencing February 9, 2027",
+      "candidates": [
+        {
+          "name": "Marisa L. Cornachio",
+          "party": "REP"
+        }
+      ],
+      "sources": [
+        "geauga-ballots"
+      ]
+    },
+    {
+      "id": "appeals-11-0210",
+      "group": "Ohio Court of Appeals",
+      "office": "Judge of the Court of Appeals",
+      "detail": "11th District · full term commencing February 10, 2027",
+      "candidates": [
+        {
+          "name": "Robert J. Patton",
+          "party": "REP"
+        }
+      ],
+      "sources": [
+        "geauga-ballots"
+      ]
+    },
+    {
+      "id": "cp-probate-juv",
+      "group": "Court of Common Pleas",
+      "office": "Judge of the Court of Common Pleas, Probate/Juvenile Division",
+      "detail": "Full term commencing February 9, 2027 · no party label on the ballot",
+      "candidates": [
+        {
+          "name": "Abbey King Mueller"
+        }
+      ],
+      "sources": [
+        "geauga-ballots"
+      ]
+    },
+    {
+      "id": "commissioner",
+      "group": "County offices",
+      "office": "County Commissioner",
+      "candidates": [
+        {
+          "name": "Steven Oluic",
+          "party": "REP"
+        }
+      ],
+      "sources": [
+        "geauga-ballots"
+      ]
+    },
+    {
+      "id": "auditor",
+      "group": "County offices",
+      "office": "County Auditor",
+      "candidates": [
+        {
+          "name": "Joe DeBoth",
+          "party": "REP"
+        }
+      ],
+      "sources": [
+        "geauga-ballots"
+      ]
+    }
+  ],
+  "issues": [
+    {
+      "id": "berkshire-income",
+      "kind": "question",
+      "jurisdiction": "Berkshire Local School District",
+      "title": "Proposed school district income tax: 0.5%",
+      "area": "Berkshire Local School District (13 precinct splits)",
+      "places": [
+        "Burton Township",
+        "Burton Village",
+        "Claridon Township",
+        "Huntsburg Township",
+        "Montville Township",
+        "Thompson Township",
+        "Troy Township"
+      ],
+      "number": "Issue 4",
+      "text": "Shall an annual income tax of 0.5% on the earned income of individuals residing in the school district be imposed by Berkshire Local School District, for a continuing period of time, beginning January 1, 2027, for the purpose of current expenses?",
+      "sources": [
+        "geauga-ballots"
+      ]
+    },
+    {
+      "id": "kirtland-lsd",
+      "kind": "levy",
+      "jurisdiction": "Kirtland Local School District",
+      "title": "Tax levy (renewal): Current operating expenses of the district",
+      "area": "Kirtland Local School District (1 precinct split in Chardon Township)",
+      "places": [
+        "Chardon Township"
+      ],
+      "levy": {
+        "type": "Renewal",
+        "purpose": "Current operating expenses of the district.",
+        "mills": "4.36 mills (estimated average)",
+        "term": "5 years, commencing in 2027",
+        "firstDue": "2028",
+        "estimate": "$2,278,636 a year (fixed sum); $134 for each $100,000 of market value"
+      },
+      "number": "Issue 4",
+      "sources": [
+        "geauga-ballots"
+      ]
+    },
+    {
+      "id": "cardinal-lsd",
+      "kind": "levy",
+      "jurisdiction": "Cardinal Local School District",
+      "title": "Tax levy (renewal): Current expenses",
+      "area": "Cardinal Local School District (9 precinct splits)",
+      "places": [
+        "Huntsburg Township",
+        "Middlefield Township",
+        "Middlefield Village",
+        "Parkman Township",
+        "Troy Township"
+      ],
+      "levy": {
+        "type": "Renewal",
+        "purpose": "Current expenses.",
+        "mills": "9.7 mills",
+        "term": "5 years, commencing in 2027",
+        "firstDue": "2028",
+        "estimate": "$3,358,583 a year; $206 for each $100,000 of market value"
+      },
+      "number": "Issue 5",
+      "sources": [
+        "geauga-ballots"
+      ]
+    },
+    {
+      "id": "mentor-evsd",
+      "kind": "levy",
+      "jurisdiction": "Mentor Exempted Village School District",
+      "title": "Tax levy (additional): Current expenses",
+      "area": "Mentor Exempted Village School District (1 precinct split in Chardon Township)",
+      "places": [
+        "Chardon Township"
+      ],
+      "levy": {
+        "type": "Additional",
+        "purpose": "Current expenses.",
+        "mills": "3.5 mills",
+        "term": "5 years, commencing in 2026",
+        "firstDue": "2027",
+        "estimate": "$9,613,354 a year; $123 for each $100,000 of market value"
+      },
+      "number": "Issue 5",
+      "sources": [
+        "geauga-ballots"
+      ]
+    },
+    {
+      "id": "riverside-income",
+      "kind": "question",
+      "jurisdiction": "Riverside Local School District",
+      "title": "Proposed school district income tax: 1%",
+      "area": "Riverside Local School District (1 precinct split in Chardon Township)",
+      "places": [
+        "Chardon Township"
+      ],
+      "number": "Issue 7",
+      "text": "Shall an annual income tax of 1 per cent on the earned income of individuals residing in the school district be imposed by Riverside Local School District, for a continuing period of time, beginning January 1, 2027, for the purpose of current expenses and permanent improvements?",
+      "sources": [
+        "geauga-ballots"
+      ]
+    },
+    {
+      "id": "county-roads",
+      "kind": "levy",
+      "jurisdiction": "Geauga County",
+      "title": "Tax levy (renewal): General construction, reconstruction, resurfacing, and repair of streets, roads, and bridges",
+      "area": "All of Geauga County",
+      "levy": {
+        "type": "Renewal",
+        "purpose": "General construction, reconstruction, resurfacing, and repair of streets, roads, and bridges.",
+        "mills": "2.5 mills",
+        "term": "5 years, commencing in 2026",
+        "firstDue": "2027",
+        "estimate": "$3,729,532 a year; $21 for each $100,000 of market value"
+      },
+      "number": "Issue 8",
+      "sources": [
+        "geauga-ballots"
+      ]
+    },
+    {
+      "id": "issue-9",
+      "kind": "levy",
+      "jurisdiction": "Burton Village",
+      "title": "Tax levy (renewal): Fire apparatus, equipment, buildings, firefighting and emergency medical service personnel, ambulance services, and related costs",
+      "area": "Burton Village",
+      "places": [
+        "Burton Village"
+      ],
+      "levy": {
+        "type": "Renewal",
+        "purpose": "Fire apparatus, equipment, buildings, firefighting and emergency medical service personnel, ambulance services, and related costs.",
+        "mills": "4.75 mills",
+        "term": "4 years, commencing in 2026",
+        "firstDue": "2027",
+        "estimate": "$132,732 a year; $87 for each $100,000 of market value"
+      },
+      "number": "Issue 9",
+      "sources": [
+        "geauga-ballots"
+      ]
+    },
+    {
+      "id": "issue-10",
+      "kind": "levy",
+      "jurisdiction": "South Russell Village",
+      "title": "Tax levy (renewal): General construction, reconstruction, resurfacing, and repair of streets, roads, and bridges",
+      "area": "South Russell Village",
+      "places": [
+        "South Russell Village"
+      ],
+      "levy": {
+        "type": "Renewal",
+        "purpose": "General construction, reconstruction, resurfacing, and repair of streets, roads, and bridges.",
+        "mills": "1.5 mills",
+        "term": "5 years, commencing in 2027",
+        "firstDue": "2028",
+        "estimate": "$248,160 a year; $34 for each $100,000 of market value"
+      },
+      "number": "Issue 10",
+      "sources": [
+        "geauga-ballots"
+      ]
+    },
+    {
+      "id": "issue-11",
+      "kind": "levy",
+      "jurisdiction": "Auburn Township",
+      "title": "Tax levy (renewal): General construction, reconstruction, resurfacing, and repair of streets, roads, and bridges",
+      "area": "Auburn Township",
+      "places": [
+        "Auburn Township"
+      ],
+      "levy": {
+        "type": "Renewal",
+        "purpose": "General construction, reconstruction, resurfacing, and repair of streets, roads, and bridges.",
+        "mills": "1 mill",
+        "term": "5 years, commencing in 2027",
+        "firstDue": "2028",
+        "estimate": "$279,321 a year; $20 for each $100,000 of market value"
+      },
+      "number": "Issue 11",
+      "sources": [
+        "geauga-ballots"
+      ]
+    },
+    {
+      "id": "issue-12",
+      "kind": "levy",
+      "jurisdiction": "Bainbridge Township",
+      "title": "Tax levy (additional): Police department vehicles, equipment, buildings and personnel, police protection contracts, and related costs",
+      "area": "Bainbridge Township",
+      "places": [
+        "Bainbridge Township"
+      ],
+      "levy": {
+        "type": "Additional",
+        "purpose": "Police department vehicles, equipment, buildings and personnel, police protection contracts, and related costs.",
+        "mills": "3 mills",
+        "term": "Continuing period of time, commencing in 2026",
+        "firstDue": "2027",
+        "estimate": "$2,539,972 a year; $105 for each $100,000 of market value"
+      },
+      "number": "Issue 12",
+      "sources": [
+        "geauga-ballots"
+      ]
+    },
+    {
+      "id": "issue-13",
+      "kind": "levy",
+      "jurisdiction": "Burton Township",
+      "title": "Tax levy (renewal and increase): Fire apparatus, equipment, buildings, firefighting and emergency medical service personnel, ambulance services, and related costs. (Renewal of 1 mill and increase of 0.31 mill.)",
+      "area": "Burton Township",
+      "places": [
+        "Burton Township"
+      ],
+      "levy": {
+        "type": "Renewal and increase",
+        "purpose": "Fire apparatus, equipment, buildings, firefighting and emergency medical service personnel, ambulance services, and related costs. (Renewal of 1 mill and increase of 0.31 mill.)",
+        "mills": "1.31 mills",
+        "term": "5 years, commencing in 2026",
+        "firstDue": "2027",
+        "estimate": "$123,872 a year; $36 for each $100,000 of market value"
+      },
+      "number": "Issue 13",
+      "sources": [
+        "geauga-ballots"
+      ]
+    },
+    {
+      "id": "issue-14",
+      "kind": "levy",
+      "jurisdiction": "Chardon Township",
+      "title": "Tax levy (renewal and increase): Fire apparatus, equipment, buildings, firefighting and emergency medical service personnel, ambulance services, and related costs. (Renewal of 1.25 mills and increase of 1.75 mills.)",
+      "area": "Chardon Township",
+      "places": [
+        "Chardon Township"
+      ],
+      "levy": {
+        "type": "Renewal and increase",
+        "purpose": "Fire apparatus, equipment, buildings, firefighting and emergency medical service personnel, ambulance services, and related costs. (Renewal of 1.25 mills and increase of 1.75 mills.)",
+        "mills": "3 mills",
+        "term": "3 years, commencing in 2027",
+        "firstDue": "2028",
+        "estimate": "$640,430 a year; $97 for each $100,000 of market value"
+      },
+      "number": "Issue 14",
+      "sources": [
+        "geauga-ballots"
+      ]
+    },
+    {
+      "id": "issue-15",
+      "kind": "levy",
+      "jurisdiction": "Chester Township",
+      "title": "Tax levy (additional): General construction, reconstruction, resurfacing, and repair of streets, roads, and bridges",
+      "area": "Chester Township",
+      "places": [
+        "Chester Township"
+      ],
+      "levy": {
+        "type": "Additional",
+        "purpose": "General construction, reconstruction, resurfacing, and repair of streets, roads, and bridges.",
+        "mills": "2 mills",
+        "term": "5 years, commencing in 2026",
+        "firstDue": "2027",
+        "estimate": "$1,109,367 a year; $70 for each $100,000 of market value"
+      },
+      "number": "Issue 15",
+      "sources": [
+        "geauga-ballots"
+      ]
+    },
+    {
+      "id": "issue-16",
+      "kind": "levy",
+      "jurisdiction": "Hambden Township",
+      "title": "Tax levy (renewal): Current expenses",
+      "area": "Hambden Township",
+      "places": [
+        "Hambden Township"
+      ],
+      "levy": {
+        "type": "Renewal",
+        "purpose": "Current expenses.",
+        "mills": "0.5 mill",
+        "term": "5 years, commencing in 2027",
+        "firstDue": "2028",
+        "estimate": "$66,470 a year; $11 for each $100,000 of market value"
+      },
+      "number": "Issue 16",
+      "sources": [
+        "geauga-ballots"
+      ]
+    },
+    {
+      "id": "issue-17",
+      "kind": "levy",
+      "jurisdiction": "Huntsburg Township",
+      "title": "Tax levy (renewal): General construction, reconstruction, resurfacing, and repair of streets, roads, and bridges",
+      "area": "Huntsburg Township",
+      "places": [
+        "Huntsburg Township"
+      ],
+      "levy": {
+        "type": "Renewal",
+        "purpose": "General construction, reconstruction, resurfacing, and repair of streets, roads, and bridges.",
+        "mills": "3 mills",
+        "term": "5 years, commencing in 2027",
+        "firstDue": "2028",
+        "estimate": "$221,753 a year; $60 for each $100,000 of market value"
+      },
+      "number": "Issue 17",
+      "sources": [
+        "geauga-ballots"
+      ]
+    },
+    {
+      "id": "issue-18",
+      "kind": "levy",
+      "jurisdiction": "Huntsburg Township",
+      "title": "Tax levy (additional): Fire apparatus, equipment, buildings, firefighting and emergency medical service personnel, ambulance services, and related costs",
+      "area": "Huntsburg Township",
+      "places": [
+        "Huntsburg Township"
+      ],
+      "levy": {
+        "type": "Additional",
+        "purpose": "Fire apparatus, equipment, buildings, firefighting and emergency medical service personnel, ambulance services, and related costs.",
+        "mills": "3 mills",
+        "term": "Continuing period of time, commencing in 2026",
+        "firstDue": "2027",
+        "estimate": "$322,980 a year; $105 for each $100,000 of market value"
+      },
+      "number": "Issue 18",
+      "sources": [
+        "geauga-ballots"
+      ]
+    },
+    {
+      "id": "issue-19",
+      "kind": "levy",
+      "jurisdiction": "Middlefield Township",
+      "title": "Tax levy (renewal): General construction, reconstruction, resurfacing, and repair of streets, roads, and bridges",
+      "area": "Middlefield Township",
+      "places": [
+        "Middlefield Township"
+      ],
+      "levy": {
+        "type": "Renewal",
+        "purpose": "General construction, reconstruction, resurfacing, and repair of streets, roads, and bridges.",
+        "mills": "2.5 mills",
+        "term": "4 years, commencing in 2026",
+        "firstDue": "2027",
+        "estimate": "$220,684 a year; $54 for each $100,000 of market value"
+      },
+      "number": "Issue 19",
+      "sources": [
+        "geauga-ballots"
+      ]
+    },
+    {
+      "id": "issue-20",
+      "kind": "levy",
+      "jurisdiction": "Middlefield Township",
+      "title": "Tax levy (renewal): General construction, reconstruction, resurfacing, and repair of streets, roads, and bridges",
+      "area": "Middlefield Township",
+      "places": [
+        "Middlefield Township"
+      ],
+      "levy": {
+        "type": "Renewal",
+        "purpose": "General construction, reconstruction, resurfacing, and repair of streets, roads, and bridges.",
+        "mills": "2.5 mills",
+        "term": "5 years, commencing in 2026",
+        "firstDue": "2027",
+        "estimate": "$218,026 a year; $61 for each $100,000 of market value"
+      },
+      "number": "Issue 20",
+      "sources": [
+        "geauga-ballots"
+      ]
+    },
+    {
+      "id": "issue-21",
+      "kind": "levy",
+      "jurisdiction": "Montville Township",
+      "title": "Tax levy (renewal): Fire apparatus, equipment, buildings, firefighting and emergency medical service personnel, ambulance services, and related costs",
+      "area": "Montville Township",
+      "places": [
+        "Montville Township"
+      ],
+      "levy": {
+        "type": "Renewal",
+        "purpose": "Fire apparatus, equipment, buildings, firefighting and emergency medical service personnel, ambulance services, and related costs.",
+        "mills": "2 mills",
+        "term": "5 years, commencing in 2027",
+        "firstDue": "2028",
+        "estimate": "$113,232 a year; $47 for each $100,000 of market value"
+      },
+      "number": "Issue 21",
+      "sources": [
+        "geauga-ballots"
+      ]
+    },
+    {
+      "id": "issue-22",
+      "kind": "levy",
+      "jurisdiction": "Montville Township",
+      "title": "Tax levy (additional): General construction, reconstruction, resurfacing, and repair of streets, roads, and bridges",
+      "area": "Montville Township",
+      "places": [
+        "Montville Township"
+      ],
+      "levy": {
+        "type": "Additional",
+        "purpose": "General construction, reconstruction, resurfacing, and repair of streets, roads, and bridges.",
+        "mills": "1.5 mills",
+        "term": "4 years, commencing in 2027",
+        "firstDue": "2028",
+        "estimate": "$123,405 a year; $53 for each $100,000 of market value"
+      },
+      "number": "Issue 22",
+      "sources": [
+        "geauga-ballots"
+      ]
+    },
+    {
+      "id": "issue-23",
+      "kind": "levy",
+      "jurisdiction": "Munson Township",
+      "title": "Tax levy (renewal): General construction, reconstruction, resurfacing, and repair of streets, roads, and bridges",
+      "area": "Munson Township",
+      "places": [
+        "Munson Township"
+      ],
+      "levy": {
+        "type": "Renewal",
+        "purpose": "General construction, reconstruction, resurfacing, and repair of streets, roads, and bridges.",
+        "mills": "0.75 mill",
+        "term": "Continuing period of time, commencing in 2027",
+        "firstDue": "2028",
+        "estimate": "$189,822 a year; $15 for each $100,000 of market value"
+      },
+      "number": "Issue 23",
+      "sources": [
+        "geauga-ballots"
+      ]
+    },
+    {
+      "id": "issue-24",
+      "kind": "levy",
+      "jurisdiction": "Thompson Township",
+      "title": "Tax levy (renewal): General construction, reconstruction, resurfacing, and repair of streets, roads, and bridges",
+      "area": "Thompson Township",
+      "places": [
+        "Thompson Township"
+      ],
+      "levy": {
+        "type": "Renewal",
+        "purpose": "General construction, reconstruction, resurfacing, and repair of streets, roads, and bridges.",
+        "mills": "2.35 mills",
+        "term": "5 years, commencing in 2027",
+        "firstDue": "2028",
+        "estimate": "$155,414 a year; $61 for each $100,000 of market value"
+      },
+      "number": "Issue 24",
+      "sources": [
+        "geauga-ballots"
+      ]
+    },
+    {
+      "id": "issue-25",
+      "kind": "liquor",
+      "jurisdiction": "Thompson Township",
+      "title": "Local liquor option: Cellars Key Winery (Sunday)",
+      "area": "Thompson Township precinct B",
+      "places": [
+        "Thompson Township"
+      ],
+      "number": "Issue 25",
+      "text": "Sunday sale of wine and mixed beverages by Cellars Key Winery, a D-6 permit applicant operating a wine and tasting room at 8085 Madison Rd., Thompson (summary; see the sample ballot for the exact question).",
+      "sources": [
+        "geauga-ballots"
+      ]
+    }
+  ]
+}

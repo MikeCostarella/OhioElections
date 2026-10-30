@@ -1,2 +1,3 @@
 *.tsbuildinfo
 react-app/vite.config.ts.timestamp-*
+__pycache__/

@@ -18,7 +18,10 @@ const KIND_LABELS: Record<Exclude<IssueKind, "state">, string> = {
 
 const KIND_ONE: Record<IssueKind, string> = { state: "State issue", levy: "Tax levy", question: "Question", liquor: "Liquor option" };
 
-const appliesTo = (places: string[] | undefined, place: string) => !place || !places || places.includes(place);
+const appliesTo = (e: { places?: string[]; coverage?: string }, place: string) =>
+  !place || e.coverage === "unknown" || !e.places || e.places.includes(place);
+
+const NOT_MAPPED = "Boundaries not mapped here: check your sample ballot to see whether it is on yours.";
 
 function SourceLinks({ ids, sources }: { ids: string[]; sources: Record<string, Source> }) {
   return (
@@ -34,10 +37,13 @@ function SourceLinks({ ids, sources }: { ids: string[]; sources: Record<string, 
   );
 }
 
-/** "Trumbull County Board of Elections: 46-day notice for …" → "46-day notice". */
+/** Short link text for a source: "46-day notice", "candidate list", "issues list", "zero report"... (full label in the tooltip). */
 function shortSource(label: string): string {
-  const after = label.split(": ")[1] ?? label;
-  return after.replace(/ for the November.*$/, "").replace(/^candidates$/, "candidate list").replace(/^questions and issues$/, "issues list");
+  const l = label.toLowerCase();
+  const county = (label.match(/^(\w+) County/) || [])[1];
+  const kind = /zero report/.test(l) ? "zero report" : /46-day/.test(l) ? "46-day notice" : /filings/.test(l) ? "filings list"
+    : /candidate/.test(l) ? "candidate list" : /issue/.test(l) ? "issues list" : label.split(": ")[1] ?? label;
+  return county ? `${county} ${kind}` : kind;
 }
 
 function ContestCard({ c, sources, place }: { c: Contest; sources: Record<string, Source>; place: string }) {
@@ -57,6 +63,7 @@ function ContestCard({ c, sources, place }: { c: Contest; sources: Record<string
       </ul>
       {cands.length === 1 && <div className="detail">Unopposed</div>}
       {c.places && !place && <div className="area"><b>Where:</b> {c.area}</div>}
+      {c.coverage === "unknown" && <div className="note-inline">{NOT_MAPPED}</div>}
       <SourceLinks ids={c.sources} sources={sources} />
     </article>
   );
@@ -72,16 +79,18 @@ function IssueCard({ q, sources }: { q: Issue; sources: Record<string, Source> }
       <h4>{q.title}</h4>
       {q.levy && (
         <dl className="levy">
-          <div><dt>Type</dt><dd>{q.levy.type}</dd></div>
-          <div><dt>Millage</dt><dd>{q.levy.mills}</dd></div>
-          <div><dt>Term</dt><dd>{q.levy.term}</dd></div>
-          <div><dt>First due</dt><dd>{q.levy.firstDue}</dd></div>
+          {q.levy.type && <div><dt>Type</dt><dd>{q.levy.type}</dd></div>}
+          {q.levy.mills && <div><dt>Millage</dt><dd>{q.levy.mills}</dd></div>}
+          {q.levy.term && <div><dt>Term</dt><dd>{q.levy.term}</dd></div>}
+          {q.levy.firstDue && <div><dt>First due</dt><dd>{q.levy.firstDue}</dd></div>}
         </dl>
       )}
+      {q.levy?.estimate && <div className="estimate">{q.levy.estimate}</div>}
       {q.text && <p className="ballot-text">{q.text}</p>}
       {q.bullets && <ul className="bullets">{q.bullets.map((b) => <li key={b}>{b}</li>)}</ul>}
       {q.yesNo && <p className="ballot-text">{q.yesNo}</p>}
-      <div className="area"><b>Precincts:</b> {q.area}</div>
+      {q.area && q.area !== q.jurisdiction && <div className="area"><b>Where:</b> {q.area}</div>}
+      {q.coverage === "unknown" && <div className="note-inline">{NOT_MAPPED}</div>}
       {q.note && <div className="note-inline">{q.note}</div>}
       <SourceLinks ids={q.sources} sources={sources} />
     </article>
@@ -99,21 +108,21 @@ export default function BallotView({ county, state, local, place }: Props) {
   const [q, setQ] = useState("");
 
   const contests = useMemo(
-    () => [...state.contests, ...(local?.contests ?? [])].filter((c) => appliesTo(c.places, place)),
+    () => [...state.contests, ...(local?.contests ?? [])].filter((c) => appliesTo(c, place)),
     [state, local, place],
   );
   const stateIssues = state.issues;
   const localIssues = useMemo(() => {
     const needle = q.trim().toLowerCase();
     return (local?.issues ?? [])
-      .filter((i) => appliesTo(i.places, place) && kinds.has(i.kind))
+      .filter((i) => appliesTo(i, place) && kinds.has(i.kind))
       .filter((i) => !needle || [i.jurisdiction, i.title, i.area, i.text ?? "", i.levy?.purpose ?? ""].join(" ").toLowerCase().includes(needle))
       .sort((a, b) => a.jurisdiction.localeCompare(b.jurisdiction));
   }, [local, place, kinds, q]);
 
   const sources = { ...state.sources, ...(local?.sources ?? {}) };
   const toggleKind = (k: string) => setKinds((prev) => { const n = new Set(prev); if (n.has(k)) n.delete(k); else n.add(k); return n.size ? n : prev; });
-  const localTotal = local ? local.issues.filter((i) => appliesTo(i.places, place)).length : 0;
+  const localTotal = local ? local.issues.filter((i) => appliesTo(i, place)).length : 0;
 
   return (
     <div className="ballot">

@@ -1,0 +1,2638 @@
+{
+  "scope": "county",
+  "county": "Cuyahoga",
+  "fips": "39035",
+  "election": "2026-11-03",
+  "retrieved": "2026-10-30",
+  "notes": [
+    "Taken from the Board of Elections' candidate list and issues list (ballot wording, English).",
+    "Candidates are listed alphabetically by last name, not in ballot order: Ohio rotates the order of names from precinct to precinct. Certified write-in candidates are not printed on the ballot and are not listed.",
+    "\"Where you live\" uses the state voter file: a district or school levy is shown for a city, village or township when any of its voters live in that district. Your exact ballot depends on your precinct.",
+    "County Council districts are not in the state voter file, so the council races are listed for every place; check your sample ballot for your district."
+  ],
+  "places": [
+    "Bay Village",
+    "Beachwood",
+    "Bedford",
+    "Bedford Heights",
+    "Bentleyville",
+    "Berea",
+    "Bratenahl",
+    "Brecksville",
+    "Broadview Heights",
+    "Brook Park",
+    "Brooklyn",
+    "Brooklyn Heights",
+    "Chagrin Falls",
+    "Chagrin Falls Township",
+    "Cleveland",
+    "Cleveland Heights",
+    "Cuyahoga Heights",
+    "East Cleveland",
+    "Euclid",
+    "Fairview Park",
+    "Garfield Heights",
+    "Gates Mills",
+    "Glenwillow",
+    "Highland Heights",
+    "Highland Hills",
+    "Hunting Valley",
+    "Independence",
+    "Lakewood",
+    "Linndale",
+    "Lyndhurst",
+    "Maple Heights",
+    "Mayfield Heights",
+    "Mayfield Village",
+    "Middleburg Heights",
+    "Moreland Hills",
+    "Newburgh Heights",
+    "North Olmsted",
+    "North Randall",
+    "North Royalton",
+    "Oakwood",
+    "Olmsted Falls",
+    "Olmsted Township",
+    "Orange",
+    "Parma",
+    "Parma Heights",
+    "Pepper Pike",
+    "Richmond Heights",
+    "Rocky River",
+    "Seven Hills",
+    "Shaker Heights",
+    "Solon",
+    "South Euclid",
+    "Strongsville",
+    "University Heights",
+    "Valley View",
+    "Walton Hills",
+    "Warrensville Heights",
+    "Westlake",
+    "Woodmere"
+  ],
+  "sources": {
+    "cuyahoga-cand": {
+      "label": "Cuyahoga County Board of Elections: November 3, 2026 General Election candidate list (10/15/2026)",
+      "url": "https://boe.cuyahogacounty.gov/docs/default-source/boe/candidates-page/candidate-list.pdf"
+    },
+    "cuyahoga-issues": {
+      "label": "Cuyahoga County Board of Elections: issues list, November 3, 2026 General Election",
+      "url": "https://boe.cuyahogacounty.gov/elections/GetDocumentById/0ed80c8b-5b7d-46d5-b60f-91a47eea555b/"
+    }
+  },
+  "links": [
+    {
+      "label": "Board of Elections: this election",
+      "url": "https://boe.cuyahogacounty.gov/elections/GetElectionById/269/"
+    },
+    {
+      "label": "Ohio sample ballot lookup",
+      "url": "https://www.ohiosos.gov/elections/voters/toolkit/sample-ballot/"
+    }
+  ],
+  "results": {
+    "status": "upcoming",
+    "links": [
+      {
+        "label": "Board of Elections: election results",
+        "url": "https://boe.cuyahogacounty.gov/elections"
+      }
+    ]
+  },
+  "contests": [
+    {
+      "id": "congress-7",
+      "group": "U.S. House",
+      "office": "Representative to Congress",
+      "detail": "7th District",
+      "area": "Bay Village, Bentleyville, Berea, Brecksville, Broadview Heights, Brook Park, Brooklyn, Brooklyn Heights, Chagrin Falls, Fairview Park, Glenwillow, Independence, Linndale, Middleburg Heights, North Olmsted, North Royalton, Oakwood, Olmsted Falls, Olmsted Township, Parma, Parma Heights, Rocky River, Seven Hills, Solon, Strongsville, Valley View, Walton Hills, Westlake",
+      "places": [
+        "Bay Village",
+        "Bentleyville",
+        "Berea",
+        "Brecksville",
+        "Broadview Heights",
+        "Brook Park",
+        "Brooklyn",
+        "Brooklyn Heights",
+        "Chagrin Falls",
+        "Fairview Park",
+        "Glenwillow",
+        "Independence",
+        "Linndale",
+        "Middleburg Heights",
+        "North Olmsted",
+        "North Royalton",
+        "Oakwood",
+        "Olmsted Falls",
+        "Olmsted Township",
+        "Parma",
+        "Parma Heights",
+        "Rocky River",
+        "Seven Hills",
+        "Solon",
+        "Strongsville",
+        "Valley View",
+        "Walton Hills",
+        "Westlake"
+      ],
+      "candidates": [
+        {
+          "name": "Brian Poindexter",
+          "party": "DEM"
+        },
+        {
+          "name": "Max Miller",
+          "party": "REP"
+        }
+      ],
+      "sources": [
+        "cuyahoga-cand"
+      ]
+    },
+    {
+      "id": "congress-11",
+      "group": "U.S. House",
+      "office": "Representative to Congress",
+      "detail": "11th District",
+      "area": "Beachwood, Bedford, Bedford Heights, Bratenahl, Chagrin Falls, Chagrin Falls Township, Cleveland, Cleveland Heights, Cuyahoga Heights, East Cleveland, Euclid, Garfield Heights, Gates Mills, Highland Heights, Highland Hills, Hunting Valley, Lakewood, Lyndhurst, Maple Heights, Mayfield Heights, Mayfield Village, Moreland Hills, Newburgh Heights, North Randall, Orange, Pepper Pike, Richmond Heights, Shaker Heights, South Euclid, University Heights, Warrensville Heights, Woodmere",
+      "places": [
+        "Beachwood",
+        "Bedford",
+        "Bedford Heights",
+        "Bratenahl",
+        "Chagrin Falls",
+        "Chagrin Falls Township",
+        "Cleveland",
+        "Cleveland Heights",
+        "Cuyahoga Heights",
+        "East Cleveland",
+        "Euclid",
+        "Garfield Heights",
+        "Gates Mills",
+        "Highland Heights",
+        "Highland Hills",
+        "Hunting Valley",
+        "Lakewood",
+        "Lyndhurst",
+        "Maple Heights",
+        "Mayfield Heights",
+        "Mayfield Village",
+        "Moreland Hills",
+        "Newburgh Heights",
+        "North Randall",
+        "Orange",
+        "Pepper Pike",
+        "Richmond Heights",
+        "Shaker Heights",
+        "South Euclid",
+        "University Heights",
+        "Warrensville Heights",
+        "Woodmere"
+      ],
+      "candidates": [
+        {
+          "name": "Shontel M. Brown",
+          "party": "DEM"
+        },
+        {
+          "name": "Mike Kirchner",
+          "party": "REP"
+        }
+      ],
+      "sources": [
+        "cuyahoga-cand"
+      ]
+    },
+    {
+      "id": "senate-21",
+      "group": "Ohio General Assembly",
+      "office": "State Senator",
+      "detail": "21st District",
+      "area": "Beachwood, Bedford, Bedford Heights, Cleveland, Cleveland Heights, East Cleveland, Euclid, Garfield Heights, Highland Hills, Lyndhurst, Maple Heights, North Randall, Orange, Shaker Heights, South Euclid, University Heights, Warrensville Heights, Woodmere",
+      "places": [
+        "Beachwood",
+        "Bedford",
+        "Bedford Heights",
+        "Cleveland",
+        "Cleveland Heights",
+        "East Cleveland",
+        "Euclid",
+        "Garfield Heights",
+        "Highland Hills",
+        "Lyndhurst",
+        "Maple Heights",
+        "North Randall",
+        "Orange",
+        "Shaker Heights",
+        "South Euclid",
+        "University Heights",
+        "Warrensville Heights",
+        "Woodmere"
+      ],
+      "candidates": [
+        {
+          "name": "Kent Smith",
+          "party": "DEM"
+        },
+        {
+          "name": "Mikhail Alterman",
+          "party": "REP"
+        }
+      ],
+      "sources": [
+        "cuyahoga-cand"
+      ]
+    },
+    {
+      "id": "senate-23",
+      "group": "Ohio General Assembly",
+      "office": "State Senator",
+      "detail": "23rd District",
+      "area": "Bay Village, Bratenahl, Cleveland, Fairview Park, Lakewood, Rocky River, Westlake",
+      "places": [
+        "Bay Village",
+        "Bratenahl",
+        "Cleveland",
+        "Fairview Park",
+        "Lakewood",
+        "Rocky River",
+        "Westlake"
+      ],
+      "candidates": [
+        {
+          "name": "Bride Rose Sweeney",
+          "party": "DEM"
+        },
+        {
+          "name": "Robert E. Dintaman",
+          "party": "REP"
+        }
+      ],
+      "sources": [
+        "cuyahoga-cand"
+      ]
+    },
+    {
+      "id": "rep-13",
+      "group": "Ohio General Assembly",
+      "office": "State Representative",
+      "detail": "13th District",
+      "area": "Cleveland, Lakewood",
+      "places": [
+        "Cleveland",
+        "Lakewood"
+      ],
+      "candidates": [
+        {
+          "name": "Tristan W. Rader",
+          "party": "DEM"
+        },
+        {
+          "name": "Billy Fronimo",
+          "party": "REP"
+        }
+      ],
+      "sources": [
+        "cuyahoga-cand"
+      ]
+    },
+    {
+      "id": "rep-14",
+      "group": "Ohio General Assembly",
+      "office": "State Representative",
+      "detail": "14th District",
+      "area": "Cleveland, Parma, Parma Heights",
+      "places": [
+        "Cleveland",
+        "Parma",
+        "Parma Heights"
+      ],
+      "candidates": [
+        {
+          "name": "Sean Patrick Brennan",
+          "party": "DEM"
+        },
+        {
+          "name": "David J. Morgan",
+          "party": "REP"
+        }
+      ],
+      "sources": [
+        "cuyahoga-cand"
+      ]
+    },
+    {
+      "id": "rep-15",
+      "group": "Ohio General Assembly",
+      "office": "State Representative",
+      "detail": "15th District",
+      "area": "Brook Park, Brooklyn, Cleveland, Linndale, Middleburg Heights, North Olmsted, Olmsted Township",
+      "places": [
+        "Brook Park",
+        "Brooklyn",
+        "Cleveland",
+        "Linndale",
+        "Middleburg Heights",
+        "North Olmsted",
+        "Olmsted Township"
+      ],
+      "candidates": [
+        {
+          "name": "Chris Glassburn",
+          "party": "DEM"
+        },
+        {
+          "name": "Daniel Conway",
+          "party": "REP"
+        }
+      ],
+      "sources": [
+        "cuyahoga-cand"
+      ]
+    },
+    {
+      "id": "rep-16",
+      "group": "Ohio General Assembly",
+      "office": "State Representative",
+      "detail": "16th District",
+      "area": "Bay Village, Cleveland, Fairview Park, Rocky River, Westlake",
+      "places": [
+        "Bay Village",
+        "Cleveland",
+        "Fairview Park",
+        "Rocky River",
+        "Westlake"
+      ],
+      "candidates": [
+        {
+          "name": "Scott DiMauro",
+          "party": "DEM"
+        },
+        {
+          "name": "Sophia Tjotjos",
+          "party": "REP"
+        }
+      ],
+      "sources": [
+        "cuyahoga-cand"
+      ]
+    },
+    {
+      "id": "rep-17",
+      "group": "Ohio General Assembly",
+      "office": "State Representative",
+      "detail": "17th District",
+      "area": "Berea, Broadview Heights, North Royalton, Olmsted Falls, Olmsted Township, Strongsville",
+      "places": [
+        "Berea",
+        "Broadview Heights",
+        "North Royalton",
+        "Olmsted Falls",
+        "Olmsted Township",
+        "Strongsville"
+      ],
+      "candidates": [
+        {
+          "name": "Megan Coy",
+          "party": "DEM"
+        },
+        {
+          "name": "Mike Dovilla",
+          "party": "REP"
+        }
+      ],
+      "sources": [
+        "cuyahoga-cand"
+      ]
+    },
+    {
+      "id": "rep-18",
+      "group": "Ohio General Assembly",
+      "office": "State Representative",
+      "detail": "18th District",
+      "area": "Cleveland, Cleveland Heights, East Cleveland, Highland Hills, North Randall, Orange, Shaker Heights, Warrensville Heights, Woodmere",
+      "places": [
+        "Cleveland",
+        "Cleveland Heights",
+        "East Cleveland",
+        "Highland Hills",
+        "North Randall",
+        "Orange",
+        "Shaker Heights",
+        "Warrensville Heights",
+        "Woodmere"
+      ],
+      "candidates": [
+        {
+          "name": "Davida Russell",
+          "party": "DEM"
+        },
+        {
+          "name": "Maureen Lynn",
+          "party": "REP"
+        }
+      ],
+      "sources": [
+        "cuyahoga-cand"
+      ]
+    },
+    {
+      "id": "rep-19",
+      "group": "Ohio General Assembly",
+      "office": "State Representative",
+      "detail": "19th District",
+      "area": "Bentleyville, Brecksville, Brooklyn Heights, Chagrin Falls, Chagrin Falls Township, Cleveland, Cuyahoga Heights, Glenwillow, Highland Heights, Hunting Valley, Independence, Mayfield Heights, Moreland Hills, Newburgh Heights, Oakwood, Pepper Pike, Seven Hills, Solon, Valley View, Walton Hills",
+      "places": [
+        "Bentleyville",
+        "Brecksville",
+        "Brooklyn Heights",
+        "Chagrin Falls",
+        "Chagrin Falls Township",
+        "Cleveland",
+        "Cuyahoga Heights",
+        "Glenwillow",
+        "Highland Heights",
+        "Hunting Valley",
+        "Independence",
+        "Mayfield Heights",
+        "Moreland Hills",
+        "Newburgh Heights",
+        "Oakwood",
+        "Pepper Pike",
+        "Seven Hills",
+        "Solon",
+        "Valley View",
+        "Walton Hills"
+      ],
+      "candidates": [
+        {
+          "name": "Nicole Sigurdson",
+          "party": "DEM"
+        },
+        {
+          "name": "Ed Hargate",
+          "party": "REP"
+        }
+      ],
+      "sources": [
+        "cuyahoga-cand"
+      ]
+    },
+    {
+      "id": "rep-20",
+      "group": "Ohio General Assembly",
+      "office": "State Representative",
+      "detail": "20th District",
+      "area": "Bratenahl, Cleveland",
+      "places": [
+        "Bratenahl",
+        "Cleveland"
+      ],
+      "candidates": [
+        {
+          "name": "Eugene Miller",
+          "party": "DEM"
+        }
+      ],
+      "sources": [
+        "cuyahoga-cand"
+      ]
+    },
+    {
+      "id": "rep-21",
+      "group": "Ohio General Assembly",
+      "office": "State Representative",
+      "detail": "21st District",
+      "area": "Beachwood, Cleveland, Euclid, Lyndhurst, South Euclid, University Heights",
+      "places": [
+        "Beachwood",
+        "Cleveland",
+        "Euclid",
+        "Lyndhurst",
+        "South Euclid",
+        "University Heights"
+      ],
+      "candidates": [
+        {
+          "name": "Eric Synenberg",
+          "party": "DEM"
+        },
+        {
+          "name": "Tina Barhams",
+          "party": "REP"
+        }
+      ],
+      "sources": [
+        "cuyahoga-cand"
+      ]
+    },
+    {
+      "id": "rep-22",
+      "group": "Ohio General Assembly",
+      "office": "State Representative",
+      "detail": "22nd District",
+      "area": "Bedford, Bedford Heights, Cleveland, Garfield Heights, Maple Heights",
+      "places": [
+        "Bedford",
+        "Bedford Heights",
+        "Cleveland",
+        "Garfield Heights",
+        "Maple Heights"
+      ],
+      "candidates": [
+        {
+          "name": "Darnell T. Brewer",
+          "party": "DEM"
+        }
+      ],
+      "sources": [
+        "cuyahoga-cand"
+      ]
+    },
+    {
+      "id": "rep-23",
+      "group": "Ohio General Assembly",
+      "office": "State Representative",
+      "detail": "23rd District",
+      "area": "Gates Mills, Mayfield Village, Richmond Heights",
+      "places": [
+        "Gates Mills",
+        "Mayfield Village",
+        "Richmond Heights"
+      ],
+      "candidates": [
+        {
+          "name": "Daniel P. Troy",
+          "party": "DEM"
+        },
+        {
+          "name": "Julie A. Belich",
+          "party": "REP"
+        }
+      ],
+      "sources": [
+        "cuyahoga-cand"
+      ]
+    },
+    {
+      "id": "executive",
+      "group": "County offices",
+      "office": "County Executive",
+      "candidates": [
+        {
+          "name": "Chris Ronayne",
+          "party": "DEM"
+        }
+      ],
+      "sources": [
+        "cuyahoga-cand"
+      ]
+    },
+    {
+      "id": "council-1",
+      "group": "County offices",
+      "office": "Member of County Council",
+      "detail": "District 1 · district voters only",
+      "coverage": "unknown",
+      "candidates": [
+        {
+          "name": "Patrick Kelly",
+          "party": "DEM"
+        },
+        {
+          "name": "James M. Trutko",
+          "party": "REP"
+        }
+      ],
+      "sources": [
+        "cuyahoga-cand"
+      ]
+    },
+    {
+      "id": "council-3",
+      "group": "County offices",
+      "office": "Member of County Council",
+      "detail": "District 3 · district voters only",
+      "coverage": "unknown",
+      "candidates": [
+        {
+          "name": "Martin J. Sweeney",
+          "party": "DEM"
+        }
+      ],
+      "sources": [
+        "cuyahoga-cand"
+      ]
+    },
+    {
+      "id": "council-5",
+      "group": "County offices",
+      "office": "Member of County Council",
+      "detail": "District 5 · district voters only",
+      "coverage": "unknown",
+      "candidates": [
+        {
+          "name": "Courtney Scheff",
+          "party": "DEM"
+        },
+        {
+          "name": "Michael J. Gallagher",
+          "party": "REP"
+        }
+      ],
+      "sources": [
+        "cuyahoga-cand"
+      ]
+    },
+    {
+      "id": "council-7",
+      "group": "County offices",
+      "office": "Member of County Council",
+      "detail": "District 7 · district voters only",
+      "coverage": "unknown",
+      "candidates": [
+        {
+          "name": "Yvonne M. Conwell",
+          "party": "DEM"
+        }
+      ],
+      "sources": [
+        "cuyahoga-cand"
+      ]
+    },
+    {
+      "id": "council-9",
+      "group": "County offices",
+      "office": "Member of County Council",
+      "detail": "District 9 · district voters only",
+      "coverage": "unknown",
+      "candidates": [
+        {
+          "name": "Meredith M. Turner",
+          "party": "DEM"
+        }
+      ],
+      "sources": [
+        "cuyahoga-cand"
+      ]
+    },
+    {
+      "id": "council-11",
+      "group": "County offices",
+      "office": "Member of County Council",
+      "detail": "District 11 · district voters only",
+      "coverage": "unknown",
+      "candidates": [
+        {
+          "name": "Christine McIntosh",
+          "party": "DEM"
+        },
+        {
+          "name": "William McLaughlin",
+          "party": "REP"
+        }
+      ],
+      "sources": [
+        "cuyahoga-cand"
+      ]
+    },
+    {
+      "id": "appeals-8-0209",
+      "group": "Ohio Court of Appeals",
+      "office": "Judge of the Court of Appeals",
+      "detail": "8th District · full term commencing February 9, 2027",
+      "candidates": [
+        {
+          "name": "Jeffrey A. Crossman",
+          "party": "DEM"
+        }
+      ],
+      "sources": [
+        "cuyahoga-cand"
+      ]
+    },
+    {
+      "id": "appeals-8-0210",
+      "group": "Ohio Court of Appeals",
+      "office": "Judge of the Court of Appeals",
+      "detail": "8th District · full term commencing February 10, 2027",
+      "candidates": [
+        {
+          "name": "Michael John Ryan",
+          "party": "DEM"
+        }
+      ],
+      "sources": [
+        "cuyahoga-cand"
+      ]
+    },
+    {
+      "id": "appeals-8-0211",
+      "group": "Ohio Court of Appeals",
+      "office": "Judge of the Court of Appeals",
+      "detail": "8th District · full term commencing February 11, 2027",
+      "candidates": [
+        {
+          "name": "Emanuella D. Groves",
+          "party": "DEM"
+        }
+      ],
+      "sources": [
+        "cuyahoga-cand"
+      ]
+    },
+    {
+      "id": "appeals-8-0212",
+      "group": "Ohio Court of Appeals",
+      "office": "Judge of the Court of Appeals",
+      "detail": "8th District · full term commencing February 12, 2027",
+      "candidates": [
+        {
+          "name": "Anita Laster Mays",
+          "party": "DEM"
+        },
+        {
+          "name": "Anthony Alto",
+          "party": "REP"
+        }
+      ],
+      "sources": [
+        "cuyahoga-cand"
+      ]
+    },
+    {
+      "id": "appeals-8-ute",
+      "group": "Ohio Court of Appeals",
+      "office": "Judge of the Court of Appeals",
+      "detail": "8th District · unexpired term ending December 31, 2028",
+      "candidates": [
+        {
+          "name": "Ashley Kilbane",
+          "party": "DEM"
+        }
+      ],
+      "sources": [
+        "cuyahoga-cand"
+      ]
+    },
+    {
+      "id": "cp-gen-0",
+      "group": "Court of Common Pleas",
+      "office": "Judge of the Court of Common Pleas, General Division",
+      "detail": "Full term commencing January 1, 2027 · no party label on the ballot",
+      "candidates": [
+        {
+          "name": "Kira Krivosh"
+        },
+        {
+          "name": "Jacob Westfall"
+        }
+      ],
+      "sources": [
+        "cuyahoga-cand"
+      ]
+    },
+    {
+      "id": "cp-gen-1",
+      "group": "Court of Common Pleas",
+      "office": "Judge of the Court of Common Pleas, General Division",
+      "detail": "Full term commencing January 2, 2027 · no party label on the ballot",
+      "candidates": [
+        {
+          "name": "Morgan Raye Caruso"
+        },
+        {
+          "name": "Daryl T. Dennie"
+        }
+      ],
+      "sources": [
+        "cuyahoga-cand"
+      ]
+    },
+    {
+      "id": "cp-gen-2",
+      "group": "Court of Common Pleas",
+      "office": "Judge of the Court of Common Pleas, General Division",
+      "detail": "Full term commencing January 3, 2027 · no party label on the ballot",
+      "candidates": [
+        {
+          "name": "Timothy W. Clary"
+        },
+        {
+          "name": "William Vodrey"
+        }
+      ],
+      "sources": [
+        "cuyahoga-cand"
+      ]
+    },
+    {
+      "id": "cp-gen-3",
+      "group": "Court of Common Pleas",
+      "office": "Judge of the Court of Common Pleas, General Division",
+      "detail": "Full term commencing January 4, 2027 · no party label on the ballot",
+      "candidates": [
+        {
+          "name": "Jennifer O'Donnell"
+        }
+      ],
+      "sources": [
+        "cuyahoga-cand"
+      ]
+    },
+    {
+      "id": "cp-gen-4",
+      "group": "Court of Common Pleas",
+      "office": "Judge of the Court of Common Pleas, General Division",
+      "detail": "Full term commencing January 5, 2027 · no party label on the ballot",
+      "candidates": [
+        {
+          "name": "Brendan J. Sheehan"
+        }
+      ],
+      "sources": [
+        "cuyahoga-cand"
+      ]
+    },
+    {
+      "id": "cp-gen-5",
+      "group": "Court of Common Pleas",
+      "office": "Judge of the Court of Common Pleas, General Division",
+      "detail": "Full term commencing January 6, 2027 · no party label on the ballot",
+      "candidates": [
+        {
+          "name": "Andrew J. Santoli"
+        }
+      ],
+      "sources": [
+        "cuyahoga-cand"
+      ]
+    },
+    {
+      "id": "cp-gen-6",
+      "group": "Court of Common Pleas",
+      "office": "Judge of the Court of Common Pleas, General Division",
+      "detail": "Full term commencing January 7, 2027 · no party label on the ballot",
+      "candidates": [
+        {
+          "name": "Diane P. Russell"
+        }
+      ],
+      "sources": [
+        "cuyahoga-cand"
+      ]
+    },
+    {
+      "id": "cp-gen-7",
+      "group": "Court of Common Pleas",
+      "office": "Judge of the Court of Common Pleas, General Division",
+      "detail": "Full term commencing January 10, 2027 · no party label on the ballot",
+      "candidates": [
+        {
+          "name": "Shannon M. Gallagher"
+        }
+      ],
+      "sources": [
+        "cuyahoga-cand"
+      ]
+    },
+    {
+      "id": "cp-gen-8",
+      "group": "Court of Common Pleas",
+      "office": "Judge of the Court of Common Pleas, General Division",
+      "detail": "Full term commencing February 9, 2027 · no party label on the ballot",
+      "candidates": [
+        {
+          "name": "Antonio S. Nicholson"
+        },
+        {
+          "name": "Fallon Marie Radigan"
+        }
+      ],
+      "sources": [
+        "cuyahoga-cand"
+      ]
+    },
+    {
+      "id": "cp-dr-9",
+      "group": "Court of Common Pleas",
+      "office": "Judge of the Court of Common Pleas, Domestic Relations Division",
+      "detail": "Full term commencing January 8, 2027 · no party label on the ballot",
+      "candidates": [
+        {
+          "name": "Colleen Ann Reali"
+        }
+      ],
+      "sources": [
+        "cuyahoga-cand"
+      ]
+    },
+    {
+      "id": "cp-dr-10",
+      "group": "Court of Common Pleas",
+      "office": "Judge of the Court of Common Pleas, Domestic Relations Division",
+      "detail": "Full term commencing January 9, 2027 · no party label on the ballot",
+      "candidates": [
+        {
+          "name": "Pamela A. Hawkins"
+        },
+        {
+          "name": "Sunny Simon"
+        }
+      ],
+      "sources": [
+        "cuyahoga-cand"
+      ]
+    },
+    {
+      "id": "cp-probate-11",
+      "group": "Court of Common Pleas",
+      "office": "Judge of the Court of Common Pleas, Probate Division",
+      "detail": "Full term commencing January 1, 2027 · no party label on the ballot",
+      "candidates": [
+        {
+          "name": "Nicholas J. Celebrezze"
+        }
+      ],
+      "sources": [
+        "cuyahoga-cand"
+      ]
+    },
+    {
+      "id": "cp-probate-12",
+      "group": "Court of Common Pleas",
+      "office": "Judge of the Court of Common Pleas, Probate Division",
+      "detail": "Full term commencing February 9, 2027 · no party label on the ballot",
+      "candidates": [
+        {
+          "name": "Laura J. Gallagher"
+        }
+      ],
+      "sources": [
+        "cuyahoga-cand"
+      ]
+    }
+  ],
+  "issues": [
+    {
+      "id": "issue-4",
+      "kind": "levy",
+      "jurisdiction": "Cleveland Heights–University Heights City School District",
+      "title": "Tax levy (additional): Current expenses",
+      "area": "Cleveland Heights–University Heights City School District",
+      "places": [
+        "Cleveland Heights",
+        "South Euclid",
+        "University Heights"
+      ],
+      "levy": {
+        "type": "Additional",
+        "purpose": "Current expenses.",
+        "mills": "6.5 mills",
+        "term": "Continuing period of time, commencing in 2026",
+        "firstDue": "2027",
+        "estimate": "$11,100,193 a year; $228 for each $100,000 of market value"
+      },
+      "number": "Issue 4",
+      "sources": [
+        "cuyahoga-issues"
+      ]
+    },
+    {
+      "id": "issue-5",
+      "kind": "levy",
+      "jurisdiction": "Euclid City School District",
+      "title": "Tax levy (additional): Current expenses",
+      "area": "Euclid City School District",
+      "places": [
+        "Euclid"
+      ],
+      "levy": {
+        "type": "Additional",
+        "purpose": "Current expenses.",
+        "mills": "6.75 mills",
+        "term": "Continuing period of time, commencing in 2026",
+        "firstDue": "2027",
+        "estimate": "$6,867,483 a year; $236 for each $100,000 of market value"
+      },
+      "number": "Issue 5",
+      "sources": [
+        "cuyahoga-issues"
+      ]
+    },
+    {
+      "id": "issue-6",
+      "kind": "levy",
+      "jurisdiction": "Garfield Heights City School District",
+      "title": "Tax levy (renewal): Paying the current operating expenses of the district",
+      "area": "Garfield Heights City School District",
+      "places": [
+        "Garfield Heights"
+      ],
+      "levy": {
+        "type": "Renewal",
+        "purpose": "Paying the current operating expenses of the district.",
+        "mills": "7.74 mills (estimated average)",
+        "term": "5 years, commencing in 2027",
+        "firstDue": "2028",
+        "estimate": "$4,100,000 a year (fixed sum); $271 for each $100,000 of market value"
+      },
+      "number": "Issue 6",
+      "sources": [
+        "cuyahoga-issues"
+      ]
+    },
+    {
+      "id": "issue-7",
+      "kind": "levy",
+      "jurisdiction": "Independence Local School District",
+      "title": "Tax levy (renewal): General permanent improvements",
+      "area": "Independence Local School District",
+      "places": [
+        "Independence"
+      ],
+      "levy": {
+        "type": "Renewal",
+        "purpose": "General permanent improvements.",
+        "mills": "1.25 mills",
+        "term": "5 years, commencing in 2027",
+        "firstDue": "2028",
+        "estimate": "$587,996 a year; $26 for each $100,000 of market value"
+      },
+      "number": "Issue 7",
+      "sources": [
+        "cuyahoga-issues"
+      ]
+    },
+    {
+      "id": "issue-8",
+      "kind": "levy",
+      "jurisdiction": "Orange City School District",
+      "title": "Tax levy (additional): Current expenses",
+      "area": "Orange City School District",
+      "places": [
+        "Hunting Valley",
+        "Moreland Hills",
+        "Orange",
+        "Pepper Pike",
+        "Solon",
+        "Warrensville Heights",
+        "Woodmere"
+      ],
+      "levy": {
+        "type": "Additional",
+        "purpose": "Current expenses.",
+        "mills": "5 mills",
+        "term": "Continuing period of time, commencing in 2026",
+        "firstDue": "2027",
+        "estimate": "$7,755,983 a year; $175 for each $100,000 of market value"
+      },
+      "number": "Issue 8",
+      "sources": [
+        "cuyahoga-issues"
+      ]
+    },
+    {
+      "id": "issue-9",
+      "kind": "levy",
+      "jurisdiction": "Strongsville City School District",
+      "title": "Tax levy (additional): Current expenses",
+      "area": "Strongsville City School District",
+      "places": [
+        "Strongsville"
+      ],
+      "levy": {
+        "type": "Additional",
+        "purpose": "Current expenses.",
+        "mills": "6.7 mills",
+        "term": "5 years, commencing in 2026",
+        "firstDue": "2027",
+        "estimate": "$15,427,256 a year; $235 for each $100,000 of market value"
+      },
+      "number": "Issue 9",
+      "sources": [
+        "cuyahoga-issues"
+      ]
+    },
+    {
+      "id": "issue-10",
+      "kind": "levy",
+      "jurisdiction": "County of Cuyahoga: Board of Developmental Disabilities",
+      "title": "Tax levy (additional): Community programs and services of the county board of developmental disabilities, and developmental disabilities facilities",
+      "area": "County of Cuyahoga: Board of Developmental Disabilities",
+      "levy": {
+        "type": "Additional",
+        "purpose": "Community programs and services of the county board of developmental disabilities, and developmental disabilities facilities.",
+        "mills": "2.25 mills",
+        "term": "10 years, commencing in 2026",
+        "firstDue": "2027",
+        "estimate": "$99,684,616 a year; $79 for each $100,000 of market value"
+      },
+      "number": "Issue 10",
+      "sources": [
+        "cuyahoga-issues"
+      ]
+    },
+    {
+      "id": "issue-11",
+      "kind": "levy",
+      "jurisdiction": "County of Cuyahoga: Health and Human Services",
+      "title": "Tax levy (renewal and increase): Supplementing general fund appropriations for health and human or social services (renewal of 4.7 mills and increase of 2.5 mills)",
+      "area": "County of Cuyahoga: Health and Human Services",
+      "levy": {
+        "type": "Renewal and increase",
+        "purpose": "Supplementing general fund appropriations for health and human or social services (renewal of 4.7 mills and increase of 2.5 mills).",
+        "mills": "7.2 mills",
+        "term": "10 years, commencing in 2026",
+        "firstDue": "2027",
+        "estimate": "$261,527,652 a year; $196 for each $100,000 of market value"
+      },
+      "number": "Issue 11",
+      "sources": [
+        "cuyahoga-issues"
+      ]
+    },
+    {
+      "id": "issue-18",
+      "kind": "levy",
+      "jurisdiction": "City of Berea",
+      "title": "Tax levy (renewal): Current expenses",
+      "area": "City of Berea",
+      "places": [
+        "Berea"
+      ],
+      "levy": {
+        "type": "Renewal",
+        "purpose": "Current expenses.",
+        "mills": "4.1 mills",
+        "term": "5 years, commencing in 2026",
+        "firstDue": "2027",
+        "estimate": "$461,371 a year; $16 for each $100,000 of market value"
+      },
+      "number": "Issue 18",
+      "sources": [
+        "cuyahoga-issues"
+      ]
+    },
+    {
+      "id": "issue-21",
+      "kind": "levy",
+      "jurisdiction": "City of Broadview Heights",
+      "title": "Tax levy (renewal): Current expenses",
+      "area": "City of Broadview Heights",
+      "places": [
+        "Broadview Heights"
+      ],
+      "levy": {
+        "type": "Renewal",
+        "purpose": "Current expenses.",
+        "mills": "3 mills",
+        "term": "5 years, commencing in 2026",
+        "firstDue": "2027",
+        "estimate": "$431,701 a year; $10 for each $100,000 of market value"
+      },
+      "number": "Issue 21",
+      "sources": [
+        "cuyahoga-issues"
+      ]
+    },
+    {
+      "id": "issue-57",
+      "kind": "levy",
+      "jurisdiction": "City of North Royalton",
+      "title": "Tax levy (renewal and increase): Providing emergency medical service (renewal of 1.7 mills and increase of 0.3 mill)",
+      "area": "City of North Royalton",
+      "places": [
+        "North Royalton"
+      ],
+      "levy": {
+        "type": "Renewal and increase",
+        "purpose": "Providing emergency medical service (renewal of 1.7 mills and increase of 0.3 mill).",
+        "mills": "2 mills",
+        "term": "5 years, commencing in 2027",
+        "firstDue": "2028",
+        "estimate": "$2,271,883 a year; $57 for each $100,000 of market value"
+      },
+      "number": "Issue 57",
+      "sources": [
+        "cuyahoga-issues"
+      ]
+    },
+    {
+      "id": "issue-70",
+      "kind": "levy",
+      "jurisdiction": "City of Olmsted Falls",
+      "title": "Tax levy (renewal): Salaries and salary-related expenses of permanent fire personnel in the City's Fire Department",
+      "area": "City of Olmsted Falls",
+      "places": [
+        "Olmsted Falls"
+      ],
+      "levy": {
+        "type": "Renewal",
+        "purpose": "Salaries and salary-related expenses of permanent fire personnel in the City's Fire Department.",
+        "mills": "1.9 mills",
+        "term": "5 years, commencing in 2026",
+        "firstDue": "2027",
+        "estimate": "$391,684 a year; $33 for each $100,000 of market value"
+      },
+      "number": "Issue 70",
+      "sources": [
+        "cuyahoga-issues"
+      ]
+    },
+    {
+      "id": "issue-86",
+      "kind": "levy",
+      "jurisdiction": "City of Parma",
+      "title": "Tax levy (renewal): Police Department motor vehicles, communications and other equipment, and salaries of permanent police personnel",
+      "area": "City of Parma",
+      "places": [
+        "Parma"
+      ],
+      "levy": {
+        "type": "Renewal",
+        "purpose": "Police Department motor vehicles, communications and other equipment, and salaries of permanent police personnel.",
+        "mills": "2 mills",
+        "term": "5 years, commencing in 2027",
+        "firstDue": "2028",
+        "estimate": "$2,791,656 a year; $33 for each $100,000 of market value"
+      },
+      "number": "Issue 86",
+      "sources": [
+        "cuyahoga-issues"
+      ]
+    },
+    {
+      "id": "issue-103",
+      "kind": "levy",
+      "jurisdiction": "City of Strongsville",
+      "title": "Tax levy (additional): Fire apparatus, equipment, buildings, firefighting and emergency medical service personnel, and related costs",
+      "area": "City of Strongsville",
+      "places": [
+        "Strongsville"
+      ],
+      "levy": {
+        "type": "Additional",
+        "purpose": "Fire apparatus, equipment, buildings, firefighting and emergency medical service personnel, and related costs.",
+        "mills": "1 mill",
+        "term": "Continuing period of time, commencing in 2026",
+        "firstDue": "2027",
+        "estimate": "$2,295,968 a year; $35 for each $100,000 of market value"
+      },
+      "number": "Issue 103",
+      "sources": [
+        "cuyahoga-issues"
+      ]
+    },
+    {
+      "id": "issue-105",
+      "kind": "levy",
+      "jurisdiction": "City of Warrensville Heights",
+      "title": "Tax levy (renewal): Providing and maintaining street lighting",
+      "area": "City of Warrensville Heights",
+      "places": [
+        "Warrensville Heights"
+      ],
+      "levy": {
+        "type": "Renewal",
+        "purpose": "Providing and maintaining street lighting.",
+        "mills": "1 mill",
+        "term": "5 years, commencing in 2026",
+        "firstDue": "2027",
+        "estimate": "$217,778 a year; $16 for each $100,000 of market value"
+      },
+      "number": "Issue 105",
+      "sources": [
+        "cuyahoga-issues"
+      ]
+    },
+    {
+      "id": "issue-12",
+      "kind": "question",
+      "jurisdiction": "County of Cuyahoga",
+      "title": "Proposed charter amendment: Article II, Section 2.03 and Article VI, Section 6.04",
+      "area": "Countywide",
+      "number": "Issue 12",
+      "text": "Shall Article II, Section 2.03 and Article VI, Section 6.04 of the Charter of the County of Cuyahoga be amended to require that County Council confirm the County Executive’s removal of members of boards, agencies, commissions and authorities as are or may hereafter be created by or pursuant to the Charter, as are provided by general law to be appointed by boards of county commissioners, and on special boards and commissions created by any agreement with another public agency or court order?",
+      "sources": [
+        "cuyahoga-issues"
+      ]
+    },
+    {
+      "id": "issue-13",
+      "kind": "question",
+      "jurisdiction": "County of Cuyahoga",
+      "title": "Proposed charter amendment: Article V, Section 5.06 (Director of Law)",
+      "area": "Countywide",
+      "number": "Issue 13",
+      "text": "Shall Article V, Section 5.06 of the Charter of the County of Cuyahoga be amended to provide that the Director of Law shall provide primary legal representation on labor negotiations, grievances and arbitrations, non-litigation related employment matters, public records matters, risk management functions and activities, and non-litigation related contracts, agreements, debt issuance documents, memoranda of understanding, purchase orders, and other legal instruments entered into by the County Executive on behalf of Cuyahoga County; that the powers and duties of the Director of Law shall include giving written opinions and other legal advice to the Executive, County Council, officers, departments, directors, boards, agencies, commissions, and authorities appointed or established under the various Articles of the Charter, and other County entities whose chief executive officers serve at the pleasure of the County Executive or County Council; that nothing prohibits the County Executive, County Council or other entities established by Charter, Council, or general law, from seeking or obtaining advice from the Prosecuting Attorney; that this Section 5.06 shall not in any way limit the powers and duties of the Prosecuting Attorney as set forth in Section 4.01 and general law; and that in no event shall the Director of Law prosecute, defend, appear in court, or otherwise handle any action in any litigation or litigation-related proceedings on behalf of the County or any of its entities, unless referred to the Law Director by the Prosecuting Attorney?",
+      "sources": [
+        "cuyahoga-issues"
+      ]
+    },
+    {
+      "id": "issue-14",
+      "kind": "question",
+      "jurisdiction": "County of Cuyahoga",
+      "title": "Proposed charter amendment: Article XII, Section 12.09 (Charter Review Commission)",
+      "area": "Countywide",
+      "number": "Issue 14",
+      "text": "Shall Article XII, Section 12.09 of the Charter of the County of Cuyahoga be amended to provide that four (4) members of the Charter Review Commission shall be appointed by the County Executive, and such appointments shall not be subject to Council confirmation; four (4) members shall be appointed by the Council, and such appointments shall not be presented to the County Executive for approval or disapproval; and that one (1) member shall be appointed by the County Executive, subject to confirmation by Council?",
+      "sources": [
+        "cuyahoga-issues"
+      ]
+    },
+    {
+      "id": "issue-15",
+      "kind": "liquor",
+      "jurisdiction": "Bay Village",
+      "title": "Local liquor option: BAYarts & Entire Campus (Sunday)",
+      "area": "Bay Village precinct 03-A",
+      "places": [
+        "Bay Village"
+      ],
+      "number": "Issue 15",
+      "text": "Shall the sale of beer, wine and mixed beverages be permitted for sale on Sunday by BAYarts & Entire Campus an applicant for a D-6 liquor permit who is engaged in the business of a non-profit arts organization at 28601 & 28795 Lake Road, Bay Village, OH 44140 in this precinct?",
+      "sources": [
+        "cuyahoga-issues"
+      ]
+    },
+    {
+      "id": "issue-16",
+      "kind": "question",
+      "jurisdiction": "City of Bedford Heights",
+      "title": "Proposed charter amendment: Section 8.02 (Director of Law)",
+      "area": "Bedford Heights",
+      "places": [
+        "Bedford Heights"
+      ],
+      "number": "Issue 16",
+      "text": "Shall Section 8.02 of the Charter of the City of Bedford Heights be amended to provide that the Director of Law shall be appointed by the Mayor rather than the Council, and shall serve at the pleasure of the Mayor?",
+      "sources": [
+        "cuyahoga-issues"
+      ]
+    },
+    {
+      "id": "issue-17",
+      "kind": "question",
+      "jurisdiction": "City of Bedford Heights",
+      "title": "Proposed charter amendment: Section 13.05 (Director of Finance bond)",
+      "area": "Bedford Heights",
+      "places": [
+        "Bedford Heights"
+      ],
+      "number": "Issue 17",
+      "text": "Shall Section 13.05 of the Charter of the City of Bedford Heights be amended to permit the Director of Finance's bond requirement to be satisfied by one or more insurance or risk-management policies or programs designed to protect the City against loss caused by dishonest acts, theft, or failure to faithfully perform official duties, including, without limitation, a Government Entity Crime Policy with a Faithful Performance of Duty endorsement, or any successor or substantially equivalent form of coverage maintained by the City, in an amount not less than that otherwise required for the bond, so long as such policy is maintained, in lieu of a separate surety bond?",
+      "sources": [
+        "cuyahoga-issues"
+      ]
+    },
+    {
+      "id": "issue-19",
+      "kind": "question",
+      "jurisdiction": "City of Berea",
+      "title": "Proposed charter amendment: Article IV, Item 1 (Council terms)",
+      "area": "Berea",
+      "places": [
+        "Berea"
+      ],
+      "number": "Issue 19",
+      "text": "Shall Article IV, Item 1 of the Charter of the City of Berea be amended by expanding the terms for all members of Council and the President of Council from two (2) to four (4) year terms, starting for the regular municipal election to take place in 2027?",
+      "sources": [
+        "cuyahoga-issues"
+      ]
+    },
+    {
+      "id": "issue-20",
+      "kind": "question",
+      "jurisdiction": "City of Berea",
+      "title": "Proposed charter amendment: Article XIII, Item 2 (petition deadline)",
+      "area": "Berea",
+      "places": [
+        "Berea"
+      ],
+      "number": "Issue 20",
+      "text": "Shall Article XIII, Item 2 of the Charter of the City of Berea be amended to change the deadline for candidates submitting nominating petitions for municipal elective office of the City of Berea from not less than sixty (60) days to not less than ninety (90) days prior to the date of the primary election for such offices?",
+      "sources": [
+        "cuyahoga-issues"
+      ]
+    },
+    {
+      "id": "issue-22",
+      "kind": "question",
+      "jurisdiction": "City of Broadview Heights",
+      "title": "Proposed charter amendment: Article III, Section 1(b) (council term limits)",
+      "area": "Broadview Heights",
+      "places": [
+        "Broadview Heights"
+      ],
+      "number": "Issue 22",
+      "text": "Shall Article III, Section 1(b), of the Charter of the City of Broadview Heights be amended to provide that no person shall hold the office of councilperson for more than three (3) consecutive four (4) year terms or twelve (12) consecutive years; and that terms served prior to the effective date of this amendment shall not be counted?",
+      "sources": [
+        "cuyahoga-issues"
+      ]
+    },
+    {
+      "id": "issue-23",
+      "kind": "question",
+      "jurisdiction": "City of Broadview Heights",
+      "title": "Proposed charter amendment: Article IV, Section 1 (mayor term limits)",
+      "area": "Broadview Heights",
+      "places": [
+        "Broadview Heights"
+      ],
+      "number": "Issue 23",
+      "text": "Shall Article IV, Section 1 of the Charter of the City of Broadview Heights be amended to provide that no person shall hold office of Mayor for more than three (3) consecutive 4 year terms or twelve (12) consecutive years unless one (1) full term or more had elapsed since that person last held the office of Mayor; and that terms served prior to the effective date of this amendment shall not be counted?",
+      "sources": [
+        "cuyahoga-issues"
+      ]
+    },
+    {
+      "id": "issue-24",
+      "kind": "question",
+      "jurisdiction": "City of Broadview Heights",
+      "title": "Proposed charter amendment: Article IV, Section 4(d) (mayor's contracts)",
+      "area": "Broadview Heights",
+      "places": [
+        "Broadview Heights"
+      ],
+      "number": "Issue 24",
+      "text": "Shall Article IV, of the Charter of the City of Broadview Heights be amended to add Section 4(d) to provide that the Mayor shall have the authority to enter into contracts on behalf of the City without prior Council approval as required pursuant to Article III, Section 7 of the Charter when the value of the contract is $25,000 or less, provided sufficient funds have otherwise been appropriated by council; and that the $25,000 threshold shall increase annually at a rate of 3% beginning January 1, 2028?",
+      "sources": [
+        "cuyahoga-issues"
+      ]
+    },
+    {
+      "id": "issue-25",
+      "kind": "question",
+      "jurisdiction": "City of Broadview Heights",
+      "title": "Proposed charter amendment: Article IV, Section 4(e) (mayor's purchases)",
+      "area": "Broadview Heights",
+      "places": [
+        "Broadview Heights"
+      ],
+      "number": "Issue 25",
+      "text": "Shall Article IV, of the Charter of the City of Broadview Heights be amended to add Section 4(e) to provide that the Mayor shall have the authority to make purchases on behalf of the City without prior Council approval when the value of purchase is $25,000 or less, provided sufficient funds have otherwise been appropriated by council; and that the $25,000 threshold shall increase annually at a rate of 3% beginning January 1, 2028?",
+      "sources": [
+        "cuyahoga-issues"
+      ]
+    },
+    {
+      "id": "issue-26",
+      "kind": "question",
+      "jurisdiction": "City of Broadview Heights",
+      "title": "Proposed charter amendment: Article V, Section 5(c) (fire stations)",
+      "area": "Broadview Heights",
+      "places": [
+        "Broadview Heights"
+      ],
+      "number": "Issue 26",
+      "text": "Shall Article V, Section 5 of the Charter of the City of Broadview Heights be amended to add Section 5(c) to provide that the City of Broadview Heights shall maintain two fire stations within the City, with each fire station having at least one fire truck and one EMS vehicle?",
+      "sources": [
+        "cuyahoga-issues"
+      ]
+    },
+    {
+      "id": "issue-27",
+      "kind": "question",
+      "jurisdiction": "City of Broadview Heights",
+      "title": "Proposed charter amendment: Article XI, Section 4 (timing of tax levies)",
+      "area": "Broadview Heights",
+      "places": [
+        "Broadview Heights"
+      ],
+      "number": "Issue 27",
+      "text": "Shall Article XI, of the Charter of the City of Broadview Heights be amended to add Section 4 to provide that municipal tax levies can only be placed on the ballot for municipal elections held in November of any calendar year?",
+      "sources": [
+        "cuyahoga-issues"
+      ]
+    },
+    {
+      "id": "issue-28",
+      "kind": "question",
+      "jurisdiction": "City of Broadview Heights",
+      "title": "Proposed charter amendment: Article XIV, Section 8(d) (gender-neutral terms)",
+      "area": "Broadview Heights",
+      "places": [
+        "Broadview Heights"
+      ],
+      "number": "Issue 28",
+      "text": "Shall Article XIV, Section 8 of the Charter of the City of Broadview Heights be amended to add Section 8(d) to provide that under reprinting(s) of the Charter, any gender-specific terms shall be changed to gender neutral terms?",
+      "sources": [
+        "cuyahoga-issues"
+      ]
+    },
+    {
+      "id": "issue-29",
+      "kind": "question",
+      "jurisdiction": "City of Brook Park",
+      "title": "Proposed charter amendment: Article IV, Section 4.04 (officials' compensation)",
+      "area": "Brook Park",
+      "places": [
+        "Brook Park"
+      ],
+      "number": "Issue 29",
+      "text": "Shall Article IV, Section 4.04 of the Charter of the City of Brook Park be amended to remove the requirement that any increase of over three percent (3%) in compensation for any elected City officials be approved by the electorate?",
+      "sources": [
+        "cuyahoga-issues"
+      ]
+    },
+    {
+      "id": "issue-30",
+      "kind": "question",
+      "jurisdiction": "City of Brook Park",
+      "title": "Proposed charter amendment: Article XV, Section 15.01(c) (New Community Authority trustees)",
+      "area": "Brook Park",
+      "places": [
+        "Brook Park"
+      ],
+      "number": "Issue 30",
+      "text": "Shall Article XV, Section 15.01(c) of the Charter of the City of Brook Park be amended to provide that elected or appointed officials may serve as trustees for the Brook Park New Community Authority?",
+      "sources": [
+        "cuyahoga-issues"
+      ]
+    },
+    {
+      "id": "issue-31",
+      "kind": "question",
+      "jurisdiction": "Village of Brooklyn Heights",
+      "title": "Proposed charter amendment: Article II (Council terms)",
+      "area": "Brooklyn Heights",
+      "places": [
+        "Brooklyn Heights"
+      ],
+      "number": "Issue 31",
+      "text": "Shall Article II of the Charter of the Village of Brooklyn Heights be amended to provide that staggered terms for Council be eliminated; that three (3) Council positions shall be elected at the November 2027 election for a term of two (2) years; and that beginning with the November 2029 regular Village election, all five (5) Council positions shall be elected to four (4) year terms?",
+      "sources": [
+        "cuyahoga-issues"
+      ]
+    },
+    {
+      "id": "issue-32",
+      "kind": "question",
+      "jurisdiction": "Village of Brooklyn Heights",
+      "title": "Proposed charter amendment: Article IV (Clerk/Treasurer)",
+      "area": "Brooklyn Heights",
+      "places": [
+        "Brooklyn Heights"
+      ],
+      "number": "Issue 32",
+      "text": "Shall Article IV of the Charter of the Village of Brooklyn Heights be amended to provide that effective April 1, 2030, the Office of the Clerk/Treasurer shall change from an elected position to one appointed by the Mayor, subject to confirmation from the Council; and to remove the qualification that the Clerk/Treasurer shall be a resident and qualified elector of the Village; and to remove the duty that the Clerk/Treasurer shall work in the office within the Village Hall for at least thirty (30) hours a week?",
+      "sources": [
+        "cuyahoga-issues"
+      ]
+    },
+    {
+      "id": "issue-33",
+      "kind": "liquor",
+      "jurisdiction": "City of Cleveland",
+      "title": "Local liquor option: Chillie’s Beverage & Deli (Sunday)",
+      "area": "Cleveland precinct 03-Q",
+      "places": [
+        "Cleveland"
+      ],
+      "number": "Issue 33",
+      "text": "Shall the sale of wine and mixed beverages be permitted for sale on Sunday by 2976, Inc. (dba Chillie’s Beverage & Deli) an applicant for a D-6 liquor permit who is engaged in the business of operating a carryout/grocery store at 2976 East 116th Street, Cleveland, OH 44120 in this precinct?",
+      "sources": [
+        "cuyahoga-issues"
+      ]
+    },
+    {
+      "id": "issue-34",
+      "kind": "liquor",
+      "jurisdiction": "City of Cleveland",
+      "title": "Local liquor option: Old Brooklyn Food Mart (Sunday)",
+      "area": "Cleveland precinct 04-P",
+      "places": [
+        "Cleveland"
+      ],
+      "number": "Issue 34",
+      "text": "Shall the sale of wine and mixed beverages be permitted for sale on Sunday by Aarjun Krupa, L.L.C., dba Old Brooklyn Food Mart an applicant for a D-6 liquor permit who is engaged in the business of operating a carryout/grocery store at 4785 Pearl Road, Cleveland, OH 44109 in this precinct?",
+      "sources": [
+        "cuyahoga-issues"
+      ]
+    },
+    {
+      "id": "issue-35",
+      "kind": "liquor",
+      "jurisdiction": "City of Cleveland",
+      "title": "Local liquor option: Sunoco One Stop (Sunday)",
+      "area": "Cleveland precinct 07-C",
+      "places": [
+        "Cleveland"
+      ],
+      "number": "Issue 35",
+      "text": "Shall the sale of beer be permitted for sale on Sunday by Haba Inc dba Sunoco One Stop an applicant for a D-6 liquor permit, holder of a C-1 liquor permit who is engaged in the business of a convenience store and gas station at 4402 Lorain Avenue, Cleveland, OH 44113 in this precinct?",
+      "sources": [
+        "cuyahoga-issues"
+      ]
+    },
+    {
+      "id": "issue-36",
+      "kind": "liquor",
+      "jurisdiction": "City of Cleveland",
+      "title": "Local liquor option: Memphis Mart (Sunday)",
+      "area": "Cleveland precinct 11-L",
+      "places": [
+        "Cleveland"
+      ],
+      "number": "Issue 36",
+      "text": "Shall the sale of wine and mixed beverages be permitted for sale on Sunday by Sadguru 1 Krupa, L.L.C., dba Memphis Mart an applicant for a D-6 liquor permit who is engaged in the business of operating a carryout/grocery store at 6226 Memphis Avenue, Cleveland, OH 44144 in this precinct?",
+      "sources": [
+        "cuyahoga-issues"
+      ]
+    },
+    {
+      "id": "issue-37",
+      "kind": "liquor",
+      "jurisdiction": "City of Cleveland",
+      "title": "Local liquor option: Convenient Food Mart, Lorain Ave. (Sunday)",
+      "area": "Cleveland precinct 13-C",
+      "places": [
+        "Cleveland"
+      ],
+      "number": "Issue 37",
+      "text": "Shall the sale of wine and mixed beverages be permitted for sale on Sunday by Jaspreet, Inc., dba Convenient Food Mart an applicant for a D-6 liquor permit who is engaged in the business of operating a carryout/grocery store at 12520 Lorain Avenue, Cleveland, OH 44111 in this precinct?",
+      "sources": [
+        "cuyahoga-issues"
+      ]
+    },
+    {
+      "id": "issue-38",
+      "kind": "liquor",
+      "jurisdiction": "City of Cleveland",
+      "title": "Local liquor option: Convenient Food Mart, Pearl Rd. (Sunday)",
+      "area": "Cleveland precinct 14-N",
+      "places": [
+        "Cleveland"
+      ],
+      "number": "Issue 38",
+      "text": "Shall the sale of wine and mixed beverages be permitted for sale on Sunday by Shivay CFM, L.L.C., dba Convenient Food Mart an applicant for a D-6 liquor permit who is engaged in the business of operating a carryout/grocery store at 3753 Pearl Road, Cleveland, OH 44109 in this precinct?",
+      "sources": [
+        "cuyahoga-issues"
+      ]
+    },
+    {
+      "id": "issue-39",
+      "kind": "question",
+      "jurisdiction": "City of East Cleveland",
+      "title": "Proposed municipal income tax (increase to 2.5%)",
+      "area": "East Cleveland",
+      "places": [
+        "East Cleveland"
+      ],
+      "number": "Issue 39",
+      "text": "Shall the Ordinance providing for a 0.5% levy increase on income, to a rate of a 2.5% levy on income, for the purposes of general municipal operations, maintenance, new equipment, extension and enlargement of municipal services and facilities and capital improvements, commencing January 1, 2027, be passed?",
+      "sources": [
+        "cuyahoga-issues"
+      ]
+    },
+    {
+      "id": "issue-40",
+      "kind": "question",
+      "jurisdiction": "City of Garfield Heights",
+      "title": "Proposed charter amendment: Sections 7 and 12 (Council terms)",
+      "area": "Garfield Heights",
+      "places": [
+        "Garfield Heights"
+      ],
+      "number": "Issue 40",
+      "text": "Shall Sections 7 and 12 of the Charter of the City of Garfield Heights be amended to change the terms of all seven (7) members of Council from two (2) to four (4) years, beginning at the General Election held in November 2029; and to provide that Council shall elect one of its members President of Council at the first meeting in December following the General Election?",
+      "sources": [
+        "cuyahoga-issues"
+      ]
+    },
+    {
+      "id": "issue-41",
+      "kind": "question",
+      "jurisdiction": "Village of Gates Mills",
+      "title": "Proposed charter amendment: Article VIII, Section 5 (land conservation levy renewal)",
+      "area": "Gates Mills",
+      "places": [
+        "Gates Mills"
+      ],
+      "number": "Issue 41",
+      "text": "Shall Article VIII, Section 5 of the Charter of the Village of Gates Mills be amended to renew an existing tax levy for the public purpose of conserving, retaining, protecting and preserving land, water, forest, open, natural or wetland areas in this Municipality predominantly in their natural, scenic, open or wooded condition or as suitable habitat for fish, plants or wildlife, including the acquisition of such real property or interests therein as may be necessary to carry out that purpose, at a rate not exceeding 1 mill for each one dollar of valuation, which amounts to 10 cents for each one hundred dollars of valuation, for five years, commencing in 2026, first due in calendar year 2027?",
+      "sources": [
+        "cuyahoga-issues"
+      ]
+    },
+    {
+      "id": "issue-42",
+      "kind": "question",
+      "jurisdiction": "City of Independence",
+      "title": "Proposed charter amendment: Article III, Section 3 (Mayor at Council meetings)",
+      "area": "Independence",
+      "places": [
+        "Independence"
+      ],
+      "number": "Issue 42",
+      "text": "Shall Article III, Section 3 of the Charter of the City of Independence be amended to provide that the Mayor shall attend all meetings of the Council, and remove the requirement that the Mayor preside over all meetings of the Council?",
+      "sources": [
+        "cuyahoga-issues"
+      ]
+    },
+    {
+      "id": "issue-43",
+      "kind": "question",
+      "jurisdiction": "City of Independence",
+      "title": "Proposed charter amendment: Article IV, Sections 2(a) and 2(b) (Finance Director)",
+      "area": "Independence",
+      "places": [
+        "Independence"
+      ],
+      "number": "Issue 43",
+      "text": "Shall Article IV, Sections 2(a) and 2(b) of the Charter of the City of Independence be amended to provide that the position of the Finance Director transition from an elected office to a position appointed by the Mayor, effective January 1, 2028, subject to confirmation by at least five (5) members of Council and serving until he or she resigns, dies, or is removed by at least five (5) members of Council; and provide that a Bachelor’s Degree from an accredited college or university and have at least five years of experience in government accounting or public finance be required?",
+      "sources": [
+        "cuyahoga-issues"
+      ]
+    },
+    {
+      "id": "issue-44",
+      "kind": "question",
+      "jurisdiction": "City of Independence",
+      "title": "Proposed charter amendment: Article IV, Section 5(a) (Planning Commission appointments)",
+      "area": "Independence",
+      "places": [
+        "Independence"
+      ],
+      "number": "Issue 44",
+      "text": "Shall Article IV, Section 5(a) of the Charter of the City of Independence be amended to provide that, commencing January 1, 2027, the appointment of three (3) citizen members of the Planning Commission be changed from the Mayor to a majority of the members elected to Council?",
+      "sources": [
+        "cuyahoga-issues"
+      ]
+    },
+    {
+      "id": "issue-45",
+      "kind": "question",
+      "jurisdiction": "City of Independence",
+      "title": "Proposed charter amendment: Article IV, Section 5(c) (zoning ordinances)",
+      "area": "Independence",
+      "places": [
+        "Independence"
+      ],
+      "number": "Issue 45",
+      "text": "Shall Article IV, Section 5(c) of the Charter of the City of Independence be amended to provide that any zoning ordinances, regulations, or amendments passed by Council under this Article IV, Section 5(c) shall not be passed on or as an emergency?",
+      "sources": [
+        "cuyahoga-issues"
+      ]
+    },
+    {
+      "id": "issue-46",
+      "kind": "question",
+      "jurisdiction": "City of Lakewood",
+      "title": "Proposed charter amendment: Section 2.2 (Council vacancies)",
+      "area": "Lakewood",
+      "places": [
+        "Lakewood"
+      ],
+      "number": "Issue 46",
+      "text": "Shall Section 2.2 of the Third Amended Charter of the City of Lakewood be amended to require that prior to making an appointment to a vacancy in Council, remaining members of Council shall first issue an open call for all interested candidates to submit applications and, upon Council's review of the applications, shall hold candidate interviews in public session?",
+      "sources": [
+        "cuyahoga-issues"
+      ]
+    },
+    {
+      "id": "issue-47",
+      "kind": "question",
+      "jurisdiction": "City of Lakewood",
+      "title": "Proposed charter amendment: Section 2.8 (amending ordinances)",
+      "area": "Lakewood",
+      "places": [
+        "Lakewood"
+      ],
+      "number": "Issue 47",
+      "text": "Shall Section 2.8 of the Third Amended Charter of the City of Lakewood be amended to allow the revision, repeal, or amendment of an ordinance or resolution by underlining inserted language and striking through language that is being removed?",
+      "sources": [
+        "cuyahoga-issues"
+      ]
+    },
+    {
+      "id": "issue-48",
+      "kind": "question",
+      "jurisdiction": "City of Lakewood",
+      "title": "Proposed charter amendment: Section 6.7 (officials' compensation)",
+      "area": "Lakewood",
+      "places": [
+        "Lakewood"
+      ],
+      "number": "Issue 48",
+      "text": "Shall Section 6.7 of the Third Amended Charter of the City of Lakewood be amended to provide that on or before March 1 of each odd numbered year, the Civil Service Commission shall set forth the commission's recommendations for the salary and other compensation for the offices of mayor and members of council?",
+      "sources": [
+        "cuyahoga-issues"
+      ]
+    },
+    {
+      "id": "issue-49",
+      "kind": "question",
+      "jurisdiction": "City of Lakewood",
+      "title": "Proposed charter amendment: new Section 7.2 (i) (ward redivision)",
+      "area": "Lakewood",
+      "places": [
+        "Lakewood"
+      ],
+      "number": "Issue 49",
+      "text": "Shall the Third Amended Charter of the City of Lakewood be amended by adding new Section 7.2 (i) to require that, commencing with the Federal decennial census of 2030, the Planning Commission shall review and make, if necessary, appropriate redivisions of the City into four wards, which shall be as nearly equal in population as possible, and composed of contiguous and compact territory, bounded by natural boundaries or street lines; and that any changes made in ward boundaries shall become effective for the next regular municipal election?",
+      "sources": [
+        "cuyahoga-issues"
+      ]
+    },
+    {
+      "id": "issue-50",
+      "kind": "question",
+      "jurisdiction": "City of Lakewood",
+      "title": "Proposed charter amendment: Section 7.5 (charter amendments)",
+      "area": "Lakewood",
+      "places": [
+        "Lakewood"
+      ],
+      "number": "Issue 50",
+      "text": "Shall Section 7.5 of the Third Amended Charter of the City of Lakewood be amended to clarify that amendments to the Charter may be submitted to the registered voters of the city in three manners: upon the recommendation of a two-thirds majority vote of the members of the Charter Review Commission and submission by Council to a vote of the people; by an affirmative vote of Council of at least two-thirds of councilmembers; or upon receipt of a petition signed by not less than ten percent (10%) of the registered voters of the city?",
+      "sources": [
+        "cuyahoga-issues"
+      ]
+    },
+    {
+      "id": "issue-51",
+      "kind": "question",
+      "jurisdiction": "City of Maple Heights",
+      "title": "Proposed charter amendment: Article III, Section 1 (Council residency)",
+      "area": "Maple Heights",
+      "places": [
+        "Maple Heights"
+      ],
+      "number": "Issue 51",
+      "text": "Shall Article III, Section 1 of the Charter of the City of Maple Heights be amended to provide that each member of Council shall have resided continuously in the City for a period of at least two (2) years preceding their election; and that they shall have resided continually in the district from which the Councilperson seeks election, for a period of at least two (2) years preceding their election?",
+      "sources": [
+        "cuyahoga-issues"
+      ]
+    },
+    {
+      "id": "issue-52",
+      "kind": "question",
+      "jurisdiction": "City of Maple Heights",
+      "title": "Proposed charter amendment: Article III, Section 3 (absent officers)",
+      "area": "Maple Heights",
+      "places": [
+        "Maple Heights"
+      ],
+      "number": "Issue 52",
+      "text": "Shall Article III, Section 3 of the Charter of the City of Maple Heights be amended to delete the provision that an elective officer who is absent from the duties of office for three months, or disqualified from office, may continue in office until a successor is qualified?",
+      "sources": [
+        "cuyahoga-issues"
+      ]
+    },
+    {
+      "id": "issue-53",
+      "kind": "question",
+      "jurisdiction": "City of Maple Heights",
+      "title": "Proposed charter amendment: Article VII, Section 12 (posting ordinances)",
+      "area": "Maple Heights",
+      "places": [
+        "Maple Heights"
+      ],
+      "number": "Issue 53",
+      "text": "Shall Article VII, Section 12 of the Charter of the City of Maple Heights be amended to permit ordinances or resolutions embracing the subjects of salaries, the necessity for and intention to install public improvements which contain provisions for assessments against abutting properties, or grants of public utility franchises, be posted on the City’s website and social media accounts and in four (4) public places in the City, said places determined by Council?",
+      "sources": [
+        "cuyahoga-issues"
+      ]
+    },
+    {
+      "id": "issue-54",
+      "kind": "question",
+      "jurisdiction": "City of Maple Heights",
+      "title": "Proposed charter amendment: Article XIII, Section 7 (wording correction)",
+      "area": "Maple Heights",
+      "places": [
+        "Maple Heights"
+      ],
+      "number": "Issue 54",
+      "text": "Shall Article XIII, Section 7 of the Charter of the City of Maple Heights be amended to correct a grammatical error by revising the phrase “committee of the petitions” to “committee of the petitioners?”",
+      "sources": [
+        "cuyahoga-issues"
+      ]
+    },
+    {
+      "id": "issue-55",
+      "kind": "question",
+      "jurisdiction": "City of Maple Heights",
+      "title": "Proposed charter amendment: Article XX, Section 2 (Charter Review Commission)",
+      "area": "Maple Heights",
+      "places": [
+        "Maple Heights"
+      ],
+      "number": "Issue 55",
+      "text": "Shall Article XX, Section 2 of the Charter of the City of Maple Heights be amended to provide that, beginning in January 2031 and each five (5) years thereafter, the Mayor, the Council President, and each member of Council, from within their District, shall appoint one qualified elector of the City and respective District, holding no other office or appointment with the City of Maple Heights, as members of a nine (9) person Charter Review Commission; that the Mayor and President of Council shall appoint one (1) alternate member each, to serve if a Commission member(s) is absent for a meeting; and if a Commission member(s) is absent for a meeting, then one, or both of the alternates, as necessary, may be appointed by a majority of the members present for the meeting to replace the absent member for that meeting only, with all the same rights and duties as the absent member; and to provide for the election of a Chairperson pro tem from among the Commission members?",
+      "sources": [
+        "cuyahoga-issues"
+      ]
+    },
+    {
+      "id": "issue-56",
+      "kind": "liquor",
+      "jurisdiction": "City of Maple Heights",
+      "title": "Local liquor option: Dunham Inn (Sunday)",
+      "area": "Maple Heights precinct 01-B",
+      "places": [
+        "Maple Heights"
+      ],
+      "number": "Issue 56",
+      "text": "Shall the sale of wine and mixed beverages and spirituous liquor be permitted for sale on Sunday by Dunham Inn, L.L.C. an applicant for a D-6 liquor permit who is engaged in the business of operating a bar at 6140 Dunham Road, Maple Heights, OH 44137 in this precinct?",
+      "sources": [
+        "cuyahoga-issues"
+      ]
+    },
+    {
+      "id": "issue-58",
+      "kind": "question",
+      "jurisdiction": "Village of Oakwood",
+      "title": "Proposed charter amendment: Section 6.06 (Council-at-large elections)",
+      "area": "Oakwood",
+      "places": [
+        "Oakwood"
+      ],
+      "number": "Issue 58",
+      "text": "Shall Section 6.06 of the Charter of the Village of Oakwood be amended to eliminate the primary and run-off elections for Council-at-large?",
+      "sources": [
+        "cuyahoga-issues"
+      ]
+    },
+    {
+      "id": "issue-59",
+      "kind": "question",
+      "jurisdiction": "Village of Oakwood",
+      "title": "Proposed charter amendment: Section 6.07",
+      "area": "Oakwood",
+      "places": [
+        "Oakwood"
+      ],
+      "number": "Issue 59",
+      "text": "Shall Section 6.07 of the Charter of the Village of Oakwood be amended to eliminate gender-specific language and references to at-large Councilpersons; and to provide that elected officials of the municipality may hold such offices as may be held in an ex-officio capacity?",
+      "sources": [
+        "cuyahoga-issues"
+      ]
+    },
+    {
+      "id": "issue-60",
+      "kind": "question",
+      "jurisdiction": "Village of Oakwood",
+      "title": "Proposed charter amendment: Section 7.01 (size of Council)",
+      "area": "Oakwood",
+      "places": [
+        "Oakwood"
+      ],
+      "number": "Issue 60",
+      "text": "Shall Section 7.01 of the Charter of the Village of Oakwood be amended to reduce the number of members of Council from seven (7) to five (5) members by eliminating the two (2) members elected to Council at large?",
+      "sources": [
+        "cuyahoga-issues"
+      ]
+    },
+    {
+      "id": "issue-61",
+      "kind": "question",
+      "jurisdiction": "Village of Oakwood",
+      "title": "Proposed charter amendment: Section 7.03 (ward boundaries)",
+      "area": "Oakwood",
+      "places": [
+        "Oakwood"
+      ],
+      "number": "Issue 61",
+      "text": "Shall Section 7.03 of the Charter of the Village of Oakwood be amended by repealing outdated ward boundary lines?",
+      "sources": [
+        "cuyahoga-issues"
+      ]
+    },
+    {
+      "id": "issue-62",
+      "kind": "question",
+      "jurisdiction": "Village of Oakwood",
+      "title": "Proposed charter amendment: Section 7.04 (redividing wards)",
+      "area": "Oakwood",
+      "places": [
+        "Oakwood"
+      ],
+      "number": "Issue 62",
+      "text": "Shall Section 7.04 of the Charter of the Village of Oakwood be amended to provide that Council may direct such officials, departments, or employees of the municipality, or may appropriate such funds and contract with a third party, as Council may determine is necessary to redivide the municipality into five wards which shall be as nearly equal in number of persons after each Federal census; and that the Village Engineer shall keep, maintain, and make available for public inspection a map of the Municipality delineating its ward boundaries?",
+      "sources": [
+        "cuyahoga-issues"
+      ]
+    },
+    {
+      "id": "issue-63",
+      "kind": "question",
+      "jurisdiction": "Village of Oakwood",
+      "title": "Proposed charter amendment: Section 7.07 (Council vacancies)",
+      "area": "Oakwood",
+      "places": [
+        "Oakwood"
+      ],
+      "number": "Issue 63",
+      "text": "Shall Section 7.07 of the Charter of the Village of Oakwood be amended to provide that a successor member of Council shall be elected to serve the remainder of the unexpired term of the member in whose office the vacancy occurs at the next regular or primary municipal election if (a) such election shall occur more than one year prior to the expiration of the unexpired term, and (b) the vacancy shall have occurred not less than 120 days prior to such election; that there shall be no primary contest for the election under this Section; that a candidate for office under this Section shall file with the Board of Elections, not less than 60 days before the election; and that a candidate for office under this Section is ineligible if he or she holds a different elective office of the Village at the time of filing his or her nominating petition?",
+      "sources": [
+        "cuyahoga-issues"
+      ]
+    },
+    {
+      "id": "issue-64",
+      "kind": "question",
+      "jurisdiction": "Village of Oakwood",
+      "title": "Proposed charter amendment: Section 7.08 (Council officers)",
+      "area": "Oakwood",
+      "places": [
+        "Oakwood"
+      ],
+      "number": "Issue 64",
+      "text": "Shall Section 7.08 of the Charter of the Village of Oakwood be amended to provide that at Council’s organization meeting in January, or as soon thereafter as is practicably possible, a majority of the members of Council shall elect one of its members as the President of the Council and another of its members President Pro Tempore of Council?",
+      "sources": [
+        "cuyahoga-issues"
+      ]
+    },
+    {
+      "id": "issue-65",
+      "kind": "question",
+      "jurisdiction": "Village of Oakwood",
+      "title": "Proposed charter amendment: Section 7.14 (posting ordinances)",
+      "area": "Oakwood",
+      "places": [
+        "Oakwood"
+      ],
+      "number": "Issue 65",
+      "text": "Shall Section 7.14 of the Charter of the Village of Oakwood be amended to remove the requirement to post ordinances and resolutions at an additional public location within the Village, and eliminate the Clerk’s duty to certify the location of the postings, while retaining postings at Village Hall and on the official Village website?",
+      "sources": [
+        "cuyahoga-issues"
+      ]
+    },
+    {
+      "id": "issue-66",
+      "kind": "question",
+      "jurisdiction": "Village of Oakwood",
+      "title": "Proposed charter amendment: Section 10.11 (zoning notices)",
+      "area": "Oakwood",
+      "places": [
+        "Oakwood"
+      ],
+      "number": "Issue 66",
+      "text": "Shall Section 10.11 of the Charter of the Village of Oakwood be amended to provide the Clerk of Council shall advertise any proposed zoning changes on the official website of the Municipality, in addition to in a newspaper of general circulation?",
+      "sources": [
+        "cuyahoga-issues"
+      ]
+    },
+    {
+      "id": "issue-67",
+      "kind": "question",
+      "jurisdiction": "Village of Oakwood",
+      "title": "Proposed charter amendment: new Section 13.07 (corrections to the Charter)",
+      "area": "Oakwood",
+      "places": [
+        "Oakwood"
+      ],
+      "number": "Issue 67",
+      "text": "Shall the Charter of the Village of Oakwood be amended by adopting new Section 13.07 to provide Council shall be authorized to make typographical corrections to or changes or deletions in, as well as changes in the form of, the Charter; however, the changes shall relate to matters of form; or, to make the Charter consistent with Ohio law, upon advice of the Director of Law; that any such modification, change, or correction shall, in all cases, be approved by resolution of Council, prior to going into effect; that no modification, change or correction shall affect the construction, meaning, substance, or intent of the Charter as adopted and amended by the people, except where the change corrects the Charter to comply with Ohio law?",
+      "sources": [
+        "cuyahoga-issues"
+      ]
+    },
+    {
+      "id": "issue-68",
+      "kind": "question",
+      "jurisdiction": "Village of Oakwood",
+      "title": "Proposed charter amendment: new Section 13.08 (ethics standards)",
+      "area": "Oakwood",
+      "places": [
+        "Oakwood"
+      ],
+      "number": "Issue 68",
+      "text": "Shall the Charter of the Village of Oakwood be amended by adopting new Section 13.08 to provide that the standards of ethical conduct and avoidance of conflicts of interest for all elected and appointed officers, officials, and employees of the Municipality shall be those established by the general laws of the State of Ohio, including civil and criminal penalties imposable for violations of such standards?",
+      "sources": [
+        "cuyahoga-issues"
+      ]
+    },
+    {
+      "id": "issue-69",
+      "kind": "liquor",
+      "jurisdiction": "Village of Oakwood",
+      "title": "Local liquor option: Roseland Lanes (Sunday)",
+      "area": "Oakwood precinct 04-A",
+      "places": [
+        "Oakwood"
+      ],
+      "number": "Issue 69",
+      "text": "Shall the sale of beer, wine and mixed beverages and spirituous liquor be permitted for sale on Sunday by Roseland Lanes Inc an applicant for a D-6 liquor permit who is engaged in the business of bowling lanes, bar and banquet party center at 26383 Broadway Avenue, Oakwood Village, OH 44146 in this precinct?",
+      "sources": [
+        "cuyahoga-issues"
+      ]
+    },
+    {
+      "id": "issue-71",
+      "kind": "question",
+      "jurisdiction": "City of Olmsted Falls",
+      "title": "Proposed municipal income tax (increase to 2%)",
+      "area": "Olmsted Falls",
+      "places": [
+        "Olmsted Falls"
+      ],
+      "number": "Issue 71",
+      "text": "Shall the Ordinance providing for a 0.5% levy increase on income, to a rate of a 2% levy on income, for the purposes of general municipal operations, maintenance, new equipment, extension and enlargement of municipal services and facilities and capital improvements; and eliminating the tax credit for income taxes paid to other municipalities by residents of the city, effective January 1, 2027, be passed?",
+      "sources": [
+        "cuyahoga-issues"
+      ]
+    },
+    {
+      "id": "issue-72",
+      "kind": "question",
+      "jurisdiction": "City of Olmsted Falls",
+      "title": "Proposed charter amendment: Article III, Section 3.01 (home rule powers)",
+      "area": "Olmsted Falls",
+      "places": [
+        "Olmsted Falls"
+      ],
+      "number": "Issue 72",
+      "text": "Shall Article III, Section 3.01 of the Charter of the City of Olmsted Falls be amended to provide that the Municipality shall have all powers, without limitation, of local self-government and municipal home rule; that no law of the State of Ohio or of the United States shall be imposed upon the city except where mandated by law, unless the city adopts or approves such state or federal law by this Charter or legislative act; that this Charter and city ordinances, rules and regulations shall be construed broadly in favor of the home rule power of the city where possible; and that none of the powers herein shall be withdrawn from the exclusive control of the city, nor shall the corporate existence of the city terminate or merge, nor shall any territory be detached from or annexed to the city without approval of the council and as specified in this Charter?",
+      "sources": [
+        "cuyahoga-issues"
+      ]
+    },
+    {
+      "id": "issue-73",
+      "kind": "question",
+      "jurisdiction": "City of Olmsted Falls",
+      "title": "Proposed charter amendment: Article V, Section 5.03(c) (contracts)",
+      "area": "Olmsted Falls",
+      "places": [
+        "Olmsted Falls"
+      ],
+      "number": "Issue 73",
+      "text": "Shall Article V, Section 5.03(c) of the Charter of the City of Olmsted Falls be amended to provide that monetary contracts involving amounts less than the dollar limit set for department heads in the purchasing approval section of the city’s codified ordinances must be reviewed and approved by the law department prior to their execution and shall be entered into and enforced by the Mayor; and that all other contracts require the authority of council for their execution and shall be entered into and enforced by the Mayor?",
+      "sources": [
+        "cuyahoga-issues"
+      ]
+    },
+    {
+      "id": "issue-74",
+      "kind": "question",
+      "jurisdiction": "City of Olmsted Falls",
+      "title": "Proposed charter amendment: Article V, Section 5.08 (emergency legislation)",
+      "area": "Olmsted Falls",
+      "places": [
+        "Olmsted Falls"
+      ],
+      "number": "Issue 74",
+      "text": "Shall Article V, Section 5.08 of the Charter of the City of Olmsted Falls be amended to provide that Council may adopt an emergency ordinance or resolution for the efficient operation of the municipality?",
+      "sources": [
+        "cuyahoga-issues"
+      ]
+    },
+    {
+      "id": "issue-75",
+      "kind": "question",
+      "jurisdiction": "City of Olmsted Falls",
+      "title": "Proposed charter amendment: Article VII, Section 7.08 (recall elections)",
+      "area": "Olmsted Falls",
+      "places": [
+        "Olmsted Falls"
+      ],
+      "number": "Issue 75",
+      "text": "Shall Article VII, Section 7.08 of the Charter of the City of Olmsted Falls be amended by extending the timeframe for holding a recall election from not fewer than forty (40) days and no more than fifty-five (55) days from the date of the certification of sufficiency of a petition demanding the recall and removal of an elected officer, to not fewer than sixty (60) days and no more than ninety (90) days from the date of the certification of sufficiency of said petition?",
+      "sources": [
+        "cuyahoga-issues"
+      ]
+    },
+    {
+      "id": "issue-76",
+      "kind": "question",
+      "jurisdiction": "City of Olmsted Falls",
+      "title": "Proposed charter amendment: Article VIII, Section 8.02 (Director of Finance)",
+      "area": "Olmsted Falls",
+      "places": [
+        "Olmsted Falls"
+      ],
+      "number": "Issue 76",
+      "text": "Shall Article VIII, Section 8.02 of the Charter of the City of Olmsted Falls be amended to provide that the Director of Finance shall have no less than six (6) years of accounting experience, preferably with at least three (3) such years working in municipal government accounting; and remove the requirement that the Director of Finance shall have at least three (3) years’ experience in municipal government accounting?",
+      "sources": [
+        "cuyahoga-issues"
+      ]
+    },
+    {
+      "id": "issue-77",
+      "kind": "question",
+      "jurisdiction": "Village of Orange",
+      "title": "Proposed charter amendment: Article III, Section 2 (Council qualifications)",
+      "area": "Orange",
+      "places": [
+        "Orange"
+      ],
+      "number": "Issue 77",
+      "text": "Shall Article III, Section 2 of the Charter of the Village of Orange be amended to revise the qualifications for members of Council to clarify that members of Council may also be members of the Ohio National Guard?",
+      "sources": [
+        "cuyahoga-issues"
+      ]
+    },
+    {
+      "id": "issue-78",
+      "kind": "question",
+      "jurisdiction": "Village of Orange",
+      "title": "Proposed charter amendment: Article III, Section 4 (Council absences)",
+      "area": "Orange",
+      "places": [
+        "Orange"
+      ],
+      "number": "Issue 78",
+      "text": "Shall Article III, Section 4 of the Charter of the Village of Orange be amended to provide that grounds for removal for members of Council shall be three unexcused absences from regular meetings in any consecutive twelve (12) month period, rather than three unexcused absences from regular meetings in one calendar year?",
+      "sources": [
+        "cuyahoga-issues"
+      ]
+    },
+    {
+      "id": "issue-79",
+      "kind": "question",
+      "jurisdiction": "Village of Orange",
+      "title": "Proposed charter amendment: Article IV, Section 2 (Mayor's other offices)",
+      "area": "Orange",
+      "places": [
+        "Orange"
+      ],
+      "number": "Issue 79",
+      "text": "Shall Article IV, Section 2 of the Charter of the Village of Orange be amended to provide that the Mayor shall not hold any other elected public office, but may hold other public employment; and to provide that if the Mayor ceases to possess any of the qualifications for said office, the Mayor may be removed from office pursuant to the procedure stated in Article IV, Section 8 of the Charter?",
+      "sources": [
+        "cuyahoga-issues"
+      ]
+    },
+    {
+      "id": "issue-80",
+      "kind": "question",
+      "jurisdiction": "Village of Orange",
+      "title": "Proposed charter amendment: Article IV, Section 5 (executing contracts)",
+      "area": "Orange",
+      "places": [
+        "Orange"
+      ],
+      "number": "Issue 80",
+      "text": "Shall Article IV, Section 5 of the Charter of the Village of Orange be amended to provide that the Mayor shall execute all contracts, conveyances, evidences of indebtedness and all other instruments to which the Municipality is a party, provided that such execution may be performed by the Mayor's designee at the Mayor's direction, and or via mechanical device operated at the Mayor's direction?",
+      "sources": [
+        "cuyahoga-issues"
+      ]
+    },
+    {
+      "id": "issue-81",
+      "kind": "question",
+      "jurisdiction": "Village of Orange",
+      "title": "Proposed charter amendment: Article V, Section 2 (Treasurer)",
+      "area": "Orange",
+      "places": [
+        "Orange"
+      ],
+      "number": "Issue 81",
+      "text": "Shall Article V, Section 2 of the Charter of the Village of Orange be amended to provide that the Treasurer shall be appointed by the Mayor, subject to confirmation by a vote of four (4) members of Council; and that the Treasurer shall be head of the Finance Department?",
+      "sources": [
+        "cuyahoga-issues"
+      ]
+    },
+    {
+      "id": "issue-82",
+      "kind": "question",
+      "jurisdiction": "Village of Orange",
+      "title": "Proposed charter amendment: Article V, Section 3 (Law Director)",
+      "area": "Orange",
+      "places": [
+        "Orange"
+      ],
+      "number": "Issue 82",
+      "text": "Shall Article V, Section 3 of the Charter of the Village of Orange be amended to require the Law Director be licensed to practice in the State of Ohio; and to provide Council the authority to appoint special counsel upon the recommendation of Law Director, at the request of the Mayor, or its own initiative?",
+      "sources": [
+        "cuyahoga-issues"
+      ]
+    },
+    {
+      "id": "issue-83",
+      "kind": "question",
+      "jurisdiction": "Village of Orange",
+      "title": "Proposed charter amendment: Article V, Section 9 (Architectural Board of Review)",
+      "area": "Orange",
+      "places": [
+        "Orange"
+      ],
+      "number": "Issue 83",
+      "text": "Shall Article V, Section 9 of the Charter of the Village of Orange be amended to provide that a quorum of the Architectural Board of Review shall be four (4) members, at least one (1) of whom shall be an Architect Member; and that Architect Members may also serve as paid consultants to the Village, at the Mayor's direction?",
+      "sources": [
+        "cuyahoga-issues"
+      ]
+    },
+    {
+      "id": "issue-84",
+      "kind": "question",
+      "jurisdiction": "Village of Orange",
+      "title": "Proposed charter amendment: Article VIII, Sections 3, 4 and 5 (expired levies)",
+      "area": "Orange",
+      "places": [
+        "Orange"
+      ],
+      "number": "Issue 84",
+      "text": "Shall Article VIII, Sections 3, 4, and 5 of the Charter of the Village of Orange be amended to delete language regarding expired temporary tax levies no longer in collection?",
+      "sources": [
+        "cuyahoga-issues"
+      ]
+    },
+    {
+      "id": "issue-85",
+      "kind": "question",
+      "jurisdiction": "Village of Orange",
+      "title": "Proposed charter amendment: Article XI (Charter Review Commission)",
+      "area": "Orange",
+      "places": [
+        "Orange"
+      ],
+      "number": "Issue 85",
+      "text": "Shall Article XI of the Charter of the Village of Orange be amended by reducing the interval for appointing the Charter Review Commission members from eight (8) to six (6) years; to provide that at its first meeting the Commission shall organize and appoint a chair, vice chair, and secretary; that the Commission shall make its recommendations to Council on revisions to the Charter by the first of June next following the appointment of the Commission; and to authorize the engagement of special counsel or other professional assistance for the Commission as Council determines to be appropriate?",
+      "sources": [
+        "cuyahoga-issues"
+      ]
+    },
+    {
+      "id": "issue-87",
+      "kind": "liquor",
+      "jurisdiction": "City of Parma Heights",
+      "title": "Local liquor option: Santo Matador Street Tacos (Sunday)",
+      "area": "Parma Heights precinct 04-A",
+      "places": [
+        "Parma Heights"
+      ],
+      "number": "Issue 87",
+      "text": "Shall the sale of wine and mixed beverages and spirituous liquor be permitted for sale on Sunday by Matador Parma LLC dba Santo Matador Street Tacos an applicant for a D-6 liquor permit who is engaged in the business of operating a family oriented, full-service Mexican restaurant at 6699 West 130th Street, Parma Heights, OH 44130 in this precinct?",
+      "sources": [
+        "cuyahoga-issues"
+      ]
+    },
+    {
+      "id": "issue-88",
+      "kind": "liquor",
+      "jurisdiction": "City of Parma Heights",
+      "title": "Local liquor option: Heights Bar and Grill (Sunday)",
+      "area": "Parma Heights precinct 04-B",
+      "places": [
+        "Parma Heights"
+      ],
+      "number": "Issue 88",
+      "text": "Shall the sale of wine and mixed beverages be permitted for sale on Sunday by 12215 Gas LLC dba Heights Bar and Grill an applicant for a D-6 liquor permit, and holder of C-1 and C-2 liquor permits who is engaged in the business of a convenience store and gas station at 12215 Huffman Rd., Parma Heights, Ohio 44130 in this precinct?",
+      "sources": [
+        "cuyahoga-issues"
+      ]
+    },
+    {
+      "id": "issue-89",
+      "kind": "question",
+      "jurisdiction": "City of Rocky River",
+      "title": "Proposed charter amendment: Article II, Section 1 (Mayor's term)",
+      "area": "Rocky River",
+      "places": [
+        "Rocky River"
+      ],
+      "number": "Issue 89",
+      "text": "Shall Article II, Section 1 of the Charter of the City of Rocky River be amended to provide for a change in the term for Mayor from two (2) to four (4) years; and that beginning with the 2027 municipal election, the Mayor shall be elected every fourth year thereafter for a term of four (4) years?",
+      "sources": [
+        "cuyahoga-issues"
+      ]
+    },
+    {
+      "id": "issue-90",
+      "kind": "question",
+      "jurisdiction": "City of Rocky River",
+      "title": "Proposed charter amendment: Article II, Section 3 (removal of the Mayor)",
+      "area": "Rocky River",
+      "places": [
+        "Rocky River"
+      ],
+      "number": "Issue 90",
+      "text": "Shall Article II, Section 3 of the Charter of the City of Rocky River be amended to provide that Council may, by a two-thirds (2/3) vote of the members of Council after public hearing, expel or remove the Mayor from office for gross misconduct, malfeasance, nonfeasance, misfeasance in or disqualification for office; for violation of the Mayor’s oath of office; for conviction while in office of a crime involving moral turpitude; for absence without justifiable excuse from three consecutive regular Council meetings; or for mental or physical disability rendering it impossible for the Mayor to perform the duties of Mayor?",
+      "sources": [
+        "cuyahoga-issues"
+      ]
+    },
+    {
+      "id": "issue-91",
+      "kind": "question",
+      "jurisdiction": "City of Rocky River",
+      "title": "Proposed charter amendment: Article III, Section 2 (Council terms)",
+      "area": "Rocky River",
+      "places": [
+        "Rocky River"
+      ],
+      "number": "Issue 91",
+      "text": "Shall Article III, Section 2 of the Charter of the City of Rocky River be amended to provide for a change in terms of all Members of Council from two (2) to four (4) year terms; that beginning with the 2027 municipal election, Ward council members shall be elected every fourth year for a four (4) year term; and beginning with the 2029 municipal election, At-Large council members shall be elected every fourth year for a four (4) year term?",
+      "sources": [
+        "cuyahoga-issues"
+      ]
+    },
+    {
+      "id": "issue-92",
+      "kind": "question",
+      "jurisdiction": "City of Rocky River",
+      "title": "Proposed charter amendment: Article IV, Section 2 (A) (Director of Law's term)",
+      "area": "Rocky River",
+      "places": [
+        "Rocky River"
+      ],
+      "number": "Issue 92",
+      "text": "Shall Article IV, Section 2 (A) of the Charter of the City of Rocky River be amended to change the term of the Director of Law from two (2) to four (4) years by providing that beginning with the 2027 municipal election, the Director of Law shall be elected every fourth year thereafter for a term of four (4) years?",
+      "sources": [
+        "cuyahoga-issues"
+      ]
+    },
+    {
+      "id": "issue-93",
+      "kind": "question",
+      "jurisdiction": "City of Rocky River",
+      "title": "Proposed charter amendment: Article IV, Section 2 (B) (removal of the Director of Law)",
+      "area": "Rocky River",
+      "places": [
+        "Rocky River"
+      ],
+      "number": "Issue 93",
+      "text": "Shall Article IV, Section 2 (B) of the Charter of the City of Rocky River be amended to provide that Council may, by a two-thirds (2/3) vote of the members of Council after public hearing, expel or remove the Director of Law from office for gross misconduct, malfeasance, nonfeasance, misfeasance in or disqualification for office; for violation of their oath of office; for conviction while in office of a crime involving moral turpitude; or for mental or physical disability rendering it impossible for them to perform the duties of the Director of Law?",
+      "sources": [
+        "cuyahoga-issues"
+      ]
+    },
+    {
+      "id": "issue-94",
+      "kind": "question",
+      "jurisdiction": "City of Rocky River",
+      "title": "Proposed charter amendment: Article VIII, Section 2 (recall elections)",
+      "area": "Rocky River",
+      "places": [
+        "Rocky River"
+      ],
+      "number": "Issue 94",
+      "text": "Shall Article VIII, Section 2 of the Charter of the City of Rocky River be amended to provide that within twenty (20) days of the filing of a recall petition, the Clerk, in consultation with the Board of Elections, shall determine whether or not it meets the requirements to hold a recall election; and to expand the timeframe for holding a recall election from between thirty (30) and forty-five (45) days, to not less than sixty (60) and no more than seventy-five (75) days after the delivery of notice to the elected officer of a sufficient petition calling for the officer to resign?",
+      "sources": [
+        "cuyahoga-issues"
+      ]
+    },
+    {
+      "id": "issue-95",
+      "kind": "question",
+      "jurisdiction": "City of Rocky River",
+      "title": "Proposed charter amendment: Article IX (non-partisan municipal elections)",
+      "area": "Rocky River",
+      "places": [
+        "Rocky River"
+      ],
+      "number": "Issue 95",
+      "text": "Shall Article IX of the Charter of the City of Rocky River be amended by amending Sections 1, 2, and 3, and eliminating sections 4 and 5, to provide that beginning in 2027, all municipal elections shall be non-partisan elections; that the names of two (2) persons receiving the highest number of votes in the primary election held in September for each office shall be nominated to be candidates for the offices of mayor, law director and ward councilman at the next succeeding regular municipal elections; for candidates for the offices of at-large councilmen, the names of five (5) persons receiving the highest number of votes shall be nominated at the next succeeding regular municipal elections; and to provide that a petition shall require signatures of registered electors of not less than fifty (50) for ward councilman, and one hundred fifty (150) for councilman-at-large, mayor, and law director?",
+      "sources": [
+        "cuyahoga-issues"
+      ]
+    },
+    {
+      "id": "issue-96",
+      "kind": "question",
+      "jurisdiction": "City of Seven Hills",
+      "title": "Proposed charter amendment: Article V, Section 8 (d) (zoning variances)",
+      "area": "Seven Hills",
+      "places": [
+        "Seven Hills"
+      ],
+      "number": "Issue 96",
+      "text": "Shall Article V, Section 8 (d) of the Charter of the City of Seven Hills be amended to provide that the determination of the Zoning Board of Appeals on any variance request shall be deemed final and shall not require further approval by any other municipal body, and subject only to judicial appeal as permitted under State Law (Ohio Revised Code Section 713.11)?",
+      "sources": [
+        "cuyahoga-issues"
+      ]
+    },
+    {
+      "id": "issue-97",
+      "kind": "liquor",
+      "jurisdiction": "City of Shaker Heights",
+      "title": "Local liquor option: Shaker Smoke & Beverage (Sunday)",
+      "area": "Shaker Heights precinct 00-H",
+      "places": [
+        "Shaker Heights"
+      ],
+      "number": "Issue 97",
+      "text": "Shall the sale of wine and mixed beverages be permitted for sale on Sunday by Shivay 22, L.L.C., dba Shaker Smoke & Beverage an applicant for a D-6 liquor permit who is engaged in the business of operating a carryout/grocery store at 3753 Lee Road, Shaker Heights, OH 44128 in this precinct?",
+      "sources": [
+        "cuyahoga-issues"
+      ]
+    },
+    {
+      "id": "issue-98",
+      "kind": "question",
+      "jurisdiction": "City of Solon",
+      "title": "Proposed charter amendment: Article VI, Section 10.A (Master Plan review)",
+      "area": "Solon",
+      "places": [
+        "Solon"
+      ],
+      "number": "Issue 98",
+      "text": "Shall Article VI, Section 10.A of the Charter of the City of Solon be amended to provide that on or before January of 2029 the Director of Planning and Community Development with the assistance of the Master Plan Citizen’s Committee, shall commence a comprehensive review of the City of Solon Master Plan; and to add subsection (d) to provide the Planning Department and Economic Development Department shall jointly provide biannual reports to City leadership and relevant stakeholders detailing a summary of key accomplishments, including notable project completions and measurable wins, clear identification of risks, constraints or challenges, an outlook of anticipated projects, opportunities and priorities, as well as a detailed summary of required resources necessary to successfully execute identified initiatives?",
+      "sources": [
+        "cuyahoga-issues"
+      ]
+    },
+    {
+      "id": "issue-99",
+      "kind": "question",
+      "jurisdiction": "City of Solon",
+      "title": "Proposed charter amendment: Article XIV, Sections 1 and 2 (ward votes on zoning)",
+      "area": "Solon",
+      "places": [
+        "Solon"
+      ],
+      "number": "Issue 99",
+      "text": "Shall Article XIV, Sections 1 and 2 of the Charter of the City of Solon be amended to repeal the requirement that any zoning district change or zoning use change be approved by a majority of the electors in each ward in which a change in zoning classification, zoning district, or zoning use change of any property is located?",
+      "sources": [
+        "cuyahoga-issues"
+      ]
+    },
+    {
+      "id": "issue-100",
+      "kind": "question",
+      "jurisdiction": "City of Solon",
+      "title": "Proposed charter amendment: Article XIV, new Section 5 (Industrial Core Area)",
+      "area": "Solon",
+      "places": [
+        "Solon"
+      ],
+      "number": "Issue 100",
+      "text": "Shall Article XIV of the Charter of the City of Solon be amended to add Section 5 to provide that Council shall adopt a procedure and process for the Zoning and Development of the Industrial Core Area as identified and described within the City of Solon Master Plan, which shall not employ the procedure and process contained in Sections 1 and 2 in Article XIV, which requires that any ordinance effecting a change in the zoning classification, zoning map change, or zoning use shall be approved by a majority of electors voting thereon?",
+      "sources": [
+        "cuyahoga-issues"
+      ]
+    },
+    {
+      "id": "issue-101",
+      "kind": "liquor",
+      "jurisdiction": "City of South Euclid",
+      "title": "Local liquor option: Green Luxury Loft",
+      "area": "South Euclid precinct 01-D",
+      "places": [
+        "South Euclid"
+      ],
+      "number": "Issue 101",
+      "text": "Shall the sale of spirituous liquor be permitted by VMPR, L.L.C. (dba Green Luxury Loft), an applicant for D3 and D5 liquor permits who is engaged in the business of operating a wedding/event venue at 800 South Green Road, South Euclid, OH 44121 in this precinct?",
+      "sources": [
+        "cuyahoga-issues"
+      ]
+    },
+    {
+      "id": "issue-102",
+      "kind": "liquor",
+      "jurisdiction": "City of South Euclid",
+      "title": "Local liquor option: Green Luxury Loft (Sunday)",
+      "area": "South Euclid precinct 01-D",
+      "places": [
+        "South Euclid"
+      ],
+      "number": "Issue 102",
+      "text": "Shall the sale of wine and mixed beverages and spirituous liquor be permitted for sale on Sunday by VMPR, L.L.C. (dba Green Luxury Loft) an applicant for a D-6 liquor permit who is engaged in the business of operating a wedding/event venue at 800 South Green Road, South Euclid, OH 44121 in this precinct?",
+      "sources": [
+        "cuyahoga-issues"
+      ]
+    },
+    {
+      "id": "issue-104",
+      "kind": "liquor",
+      "jurisdiction": "City of University Heights",
+      "title": "Local liquor option: Trader Joe’s #599 (Sunday)",
+      "area": "University Heights precinct 00-E",
+      "places": [
+        "University Heights"
+      ],
+      "number": "Issue 104",
+      "text": "Shall the sale of wine and mixed beverages be permitted for sale on Sunday by Trader Joe’s East Inc. dba Trader Joe’s #599 an applicant for a D-6 liquor permit who is engaged in the business of operating a family oriented, full-service grocery store at 2643 Warrensville Center Road, University Heights, OH 44118 in this precinct?",
+      "sources": [
+        "cuyahoga-issues"
+      ]
+    },
+    {
+      "id": "issue-106",
+      "kind": "question",
+      "jurisdiction": "City of Westlake",
+      "title": "Proposed zoning amendment: Center Ridge Road",
+      "area": "Westlake",
+      "places": [
+        "Westlake"
+      ],
+      "number": "Issue 106",
+      "text": "Shall the Zoning Map of the City of Westlake be amended by changing the zoning of certain land located at 27398, 27408, 27438, and 27450 Center Ridge Road, being all of PP#’s 212-30-008, 212-30-009, 212-30-010 and 212-30-011, from Office Building, R-1F-80 and R-MF-24 Districts to R-MF-24 District?",
+      "sources": [
+        "cuyahoga-issues"
+      ]
+    },
+    {
+      "id": "issue-107",
+      "kind": "question",
+      "jurisdiction": "City of Mayfield Heights",
+      "title": "Proposed zoning amendment (by petition): Parkland Boulevard",
+      "area": "Mayfield Heights",
+      "places": [
+        "Mayfield Heights"
+      ],
+      "number": "Issue 107",
+      "text": "Shall the Zoning Map of the City of Mayfield Heights be amended to change the zoning classification of certain property located on Parkland Boulevard, assigned PP# 863-20-003, from U-2A(1): Planned Unit Development Districts, Minimum Three Acres, to U-7: Headquarters or Executive Offices Park Districts?",
+      "sources": [
+        "cuyahoga-issues"
+      ]
+    }
+  ]
+}

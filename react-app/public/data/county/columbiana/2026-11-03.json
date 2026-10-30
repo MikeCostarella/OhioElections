@@ -1,0 +1,542 @@
+{
+  "scope": "county",
+  "county": "Columbiana",
+  "fips": "39029",
+  "election": "2026-11-03",
+  "retrieved": "2026-10-30",
+  "notes": [
+    "Taken from the Board of Elections' pre-election zero report, which lists every contest and issue on the county's ballots. The report names issues but not their millage; millage is shown where the Mahoning County Board's list gives it for a shared issue. See your sample ballot for the full wording.",
+    "Candidates are listed alphabetically by last name, not in ballot order: Ohio rotates the order of names from precinct to precinct. Certified write-in candidates are not printed on the ballot and are not listed.",
+    "\"Where you live\" uses the state voter file: a district or school levy is shown for a city, village or township when any of its voters live in that district. Your exact ballot depends on your precinct.",
+    "Township levies are shown for the township's own voters; if you live in a city or village inside a township, check your sample ballot for whether the township levy is on it."
+  ],
+  "places": [
+    "Butler Township",
+    "Center Township",
+    "Columbiana City",
+    "East Liverpool City",
+    "East Palestine Village",
+    "Elkrun Township",
+    "Fairfield Township",
+    "Franklin Township",
+    "Hanover Township",
+    "Hanoverton Village",
+    "Knox Township",
+    "Leetonia Village",
+    "Lisbon Village",
+    "Liverpool Township",
+    "Madison Township",
+    "Middletown Township",
+    "Minerva Village",
+    "New Waterford Village",
+    "Perry Township",
+    "Rogers Village",
+    "Salem City",
+    "Salem Township",
+    "Salineville Village",
+    "St. Clair Township",
+    "Summitville Village",
+    "Unity Township",
+    "Washington Township",
+    "Washingtonville Village",
+    "Wayne Township",
+    "Wellsville Village",
+    "West Township",
+    "Yellow Creek Township"
+  ],
+  "sources": {
+    "columbiana-zero": {
+      "label": "Columbiana County Board of Elections: 2026 General Election zero report (every contest and issue on Columbiana's ballots)",
+      "url": "https://columbiana.boe.ohio.gov/wp-content/uploads/2026/09/2026-General-Election-Zero-Report.pdf"
+    },
+    "mahoning-filings": {
+      "label": "Mahoning County Board of Elections: filings for the November 3, 2026 General Election (millage for issues shared with Mahoning)",
+      "url": "https://vote.mahoningcountyoh.gov/DocumentCenter/View/2640/Filings-for-November-3-2026-General-Election"
+    }
+  },
+  "links": [
+    {
+      "label": "Board of Elections",
+      "url": "https://columbiana.boe.ohio.gov/"
+    },
+    {
+      "label": "Sample ballots",
+      "url": "https://columbiana.boe.ohio.gov/elections/sample-ballots/"
+    }
+  ],
+  "results": {
+    "status": "upcoming",
+    "links": [
+      {
+        "label": "Board of Elections: election results",
+        "url": "https://columbiana.boe.ohio.gov/elections/election-results/"
+      }
+    ]
+  },
+  "contests": [
+    {
+      "id": "congress-6",
+      "group": "U.S. House",
+      "office": "Representative to Congress",
+      "detail": "6th District",
+      "candidates": [
+        {
+          "name": "Elizabeth Kirtley",
+          "party": "DEM"
+        },
+        {
+          "name": "Michael A. Rulli",
+          "party": "REP"
+        }
+      ],
+      "sources": [
+        "columbiana-zero"
+      ]
+    },
+    {
+      "id": "senate-33",
+      "group": "Ohio General Assembly",
+      "office": "State Senator",
+      "detail": "33rd District",
+      "candidates": [
+        {
+          "name": "Al Cutrona",
+          "party": "REP"
+        },
+        {
+          "name": "Michael L. Kripchak",
+          "party": "DEM"
+        }
+      ],
+      "sources": [
+        "columbiana-zero"
+      ]
+    },
+    {
+      "id": "rep-59",
+      "group": "Ohio General Assembly",
+      "office": "State Representative",
+      "detail": "59th District",
+      "area": "Butler Township, Knox Township",
+      "places": [
+        "Butler Township",
+        "Knox Township"
+      ],
+      "candidates": [
+        {
+          "name": "Tex Fischer",
+          "party": "REP"
+        },
+        {
+          "name": "Wayne Penny Jr.",
+          "party": "DEM"
+        }
+      ],
+      "sources": [
+        "columbiana-zero"
+      ]
+    },
+    {
+      "id": "rep-79",
+      "group": "Ohio General Assembly",
+      "office": "State Representative",
+      "detail": "79th District",
+      "area": "Center Township, Columbiana City, East Liverpool City, East Palestine Village, Elkrun Township, Fairfield Township, Franklin Township, Hanover Township, Hanoverton Village, Leetonia Village, Lisbon Village, Liverpool Township, Madison Township, Middletown Township, Minerva Village, New Waterford Village, Perry Township, Rogers Village, Salem City, Salem Township, Salineville Village, St. Clair Township, Summitville Village, Unity Township, Washington Township, Washingtonville Village, Wayne Township, Wellsville Village, West Township, Yellow Creek Township",
+      "places": [
+        "Center Township",
+        "Columbiana City",
+        "East Liverpool City",
+        "East Palestine Village",
+        "Elkrun Township",
+        "Fairfield Township",
+        "Franklin Township",
+        "Hanover Township",
+        "Hanoverton Village",
+        "Leetonia Village",
+        "Lisbon Village",
+        "Liverpool Township",
+        "Madison Township",
+        "Middletown Township",
+        "Minerva Village",
+        "New Waterford Village",
+        "Perry Township",
+        "Rogers Village",
+        "Salem City",
+        "Salem Township",
+        "Salineville Village",
+        "St. Clair Township",
+        "Summitville Village",
+        "Unity Township",
+        "Washington Township",
+        "Washingtonville Village",
+        "Wayne Township",
+        "Wellsville Village",
+        "West Township",
+        "Yellow Creek Township"
+      ],
+      "candidates": [
+        {
+          "name": "Monica Robb Blasdel",
+          "party": "REP"
+        },
+        {
+          "name": "Bob Guy",
+          "party": "DEM"
+        }
+      ],
+      "sources": [
+        "columbiana-zero"
+      ]
+    },
+    {
+      "id": "appeals-7-0209",
+      "group": "Ohio Court of Appeals",
+      "office": "Judge of the Court of Appeals",
+      "detail": "7th District · full term commencing February 9, 2027",
+      "candidates": [
+        {
+          "name": "Molly K. Johnson",
+          "party": "REP"
+        }
+      ],
+      "sources": [
+        "columbiana-zero"
+      ]
+    },
+    {
+      "id": "appeals-7-0210",
+      "group": "Ohio Court of Appeals",
+      "office": "Judge of the Court of Appeals",
+      "detail": "7th District · full term commencing February 10, 2027",
+      "candidates": [
+        {
+          "name": "Mark Anthony Hanni",
+          "party": "REP"
+        },
+        {
+          "name": "Katherine Rudzik",
+          "party": "DEM"
+        }
+      ],
+      "sources": [
+        "columbiana-zero"
+      ]
+    },
+    {
+      "id": "commissioner",
+      "group": "County offices",
+      "office": "County Commissioner",
+      "detail": "Full term commencing January 1, 2027",
+      "candidates": [
+        {
+          "name": "Mike Halleck",
+          "party": "REP"
+        }
+      ],
+      "sources": [
+        "columbiana-zero"
+      ]
+    },
+    {
+      "id": "auditor",
+      "group": "County offices",
+      "office": "County Auditor",
+      "candidates": [
+        {
+          "name": "Nancy Gause Milliken",
+          "party": "REP"
+        }
+      ],
+      "sources": [
+        "columbiana-zero"
+      ]
+    },
+    {
+      "id": "cp-probate-juv",
+      "group": "Court of Common Pleas",
+      "office": "Judge of the Court of Common Pleas, Probate/Juvenile Division",
+      "detail": "Full term commencing February 9, 2027 · no party label on the ballot",
+      "candidates": [
+        {
+          "name": "Thomas M. Baronzzi"
+        }
+      ],
+      "sources": [
+        "columbiana-zero"
+      ]
+    }
+  ],
+  "issues": [
+    {
+      "id": "alliance-csd",
+      "kind": "levy",
+      "jurisdiction": "Alliance City School District",
+      "title": "Tax levy: buildings",
+      "area": "Alliance City School District",
+      "places": [
+        "Knox Township"
+      ],
+      "sources": [
+        "columbiana-zero"
+      ]
+    },
+    {
+      "id": "east-palestine-sd-income",
+      "kind": "question",
+      "jurisdiction": "East Palestine City School District",
+      "title": "School district income tax",
+      "area": "East Palestine City School District",
+      "places": [
+        "East Palestine Village",
+        "Middletown Township",
+        "Unity Township"
+      ],
+      "sources": [
+        "columbiana-zero"
+      ]
+    },
+    {
+      "id": "west-branch-lsd",
+      "kind": "levy",
+      "jurisdiction": "West Branch Local School District",
+      "title": "Tax levy (additional): General permanent improvement",
+      "area": "West Branch Local School District",
+      "places": [
+        "Butler Township",
+        "Knox Township"
+      ],
+      "levy": {
+        "type": "Additional",
+        "purpose": "General permanent improvement.",
+        "mills": "1 mill",
+        "term": "5 years",
+        "estimate": "$441,471 a year; $35 for each $100,000 of market value"
+      },
+      "sources": [
+        "columbiana-zero",
+        "mahoning-filings"
+      ]
+    },
+    {
+      "id": "east-palestine-police",
+      "kind": "levy",
+      "jurisdiction": "Village of East Palestine",
+      "title": "Tax levy: police",
+      "area": "Village of East Palestine",
+      "places": [
+        "East Palestine Village"
+      ],
+      "sources": [
+        "columbiana-zero"
+      ]
+    },
+    {
+      "id": "east-palestine-charter-303",
+      "kind": "question",
+      "jurisdiction": "Village of East Palestine",
+      "title": "Charter amendment: Section 3.03",
+      "area": "Village of East Palestine",
+      "places": [
+        "East Palestine Village"
+      ],
+      "sources": [
+        "columbiana-zero"
+      ]
+    },
+    {
+      "id": "east-palestine-charter-multi",
+      "kind": "question",
+      "jurisdiction": "Village of East Palestine",
+      "title": "Charter amendment: Sections 4.13, 4.15, 4.16, 8.05 and 10.05",
+      "area": "Village of East Palestine",
+      "places": [
+        "East Palestine Village"
+      ],
+      "sources": [
+        "columbiana-zero"
+      ]
+    },
+    {
+      "id": "salem-parks",
+      "kind": "levy",
+      "jurisdiction": "City of Salem",
+      "title": "Tax levy (renewal): Recreational purposes (parks)",
+      "area": "City of Salem",
+      "places": [
+        "Salem City"
+      ],
+      "levy": {
+        "type": "Renewal",
+        "purpose": "Recreational purposes (parks).",
+        "mills": "1 mill",
+        "term": "5 years",
+        "estimate": "$166,794 a year; $12 for each $100,000 of market value"
+      },
+      "sources": [
+        "columbiana-zero",
+        "mahoning-filings"
+      ]
+    },
+    {
+      "id": "butler-roads",
+      "kind": "levy",
+      "jurisdiction": "Butler Township",
+      "title": "Tax levy: roads",
+      "area": "Butler Township",
+      "places": [
+        "Butler Township"
+      ],
+      "sources": [
+        "columbiana-zero"
+      ]
+    },
+    {
+      "id": "center-fire",
+      "kind": "levy",
+      "jurisdiction": "Center Township",
+      "title": "Tax levy: fire",
+      "area": "Center Township",
+      "places": [
+        "Center Township"
+      ],
+      "sources": [
+        "columbiana-zero"
+      ]
+    },
+    {
+      "id": "fairfield-roads",
+      "kind": "levy",
+      "jurisdiction": "Fairfield Township",
+      "title": "Tax levy (renewal): Roads and bridges",
+      "area": "Fairfield Township",
+      "places": [
+        "Columbiana City",
+        "Fairfield Township"
+      ],
+      "levy": {
+        "type": "Renewal",
+        "purpose": "Roads and bridges.",
+        "mills": "1.6 mills",
+        "term": "5 years",
+        "estimate": "$388,340 a year; $25 for each $100,000 of market value"
+      },
+      "note": "Shown for the City of Columbiana too: the Mahoning Board lists it for the part of the city in Mahoning County.",
+      "sources": [
+        "columbiana-zero",
+        "mahoning-filings"
+      ]
+    },
+    {
+      "id": "knox-roads",
+      "kind": "levy",
+      "jurisdiction": "Knox Township",
+      "title": "Tax levy: roads",
+      "area": "Knox Township",
+      "places": [
+        "Knox Township"
+      ],
+      "sources": [
+        "columbiana-zero"
+      ]
+    },
+    {
+      "id": "liverpool-fire",
+      "kind": "levy",
+      "jurisdiction": "Liverpool Township",
+      "title": "Tax levy: fire",
+      "area": "Liverpool Township",
+      "places": [
+        "Liverpool Township"
+      ],
+      "sources": [
+        "columbiana-zero"
+      ]
+    },
+    {
+      "id": "middleton-fire",
+      "kind": "levy",
+      "jurisdiction": "Middleton Township",
+      "title": "Tax levy: fire",
+      "area": "Middleton Township",
+      "places": [
+        "Middletown Township"
+      ],
+      "sources": [
+        "columbiana-zero"
+      ]
+    },
+    {
+      "id": "perry-police",
+      "kind": "levy",
+      "jurisdiction": "Perry Township",
+      "title": "Tax levy (not stated): Police department",
+      "area": "Perry Township",
+      "places": [
+        "Perry Township"
+      ],
+      "levy": {
+        "type": "Not stated",
+        "purpose": "Police department.",
+        "mills": "1.5 mills",
+        "term": "5 years",
+        "estimate": "$222,295 a year; $53 for each $100,000 of market value"
+      },
+      "sources": [
+        "columbiana-zero",
+        "mahoning-filings"
+      ]
+    },
+    {
+      "id": "wayne-fire",
+      "kind": "levy",
+      "jurisdiction": "Wayne Township",
+      "title": "Tax levy: fire",
+      "area": "Wayne Township",
+      "places": [
+        "Wayne Township"
+      ],
+      "sources": [
+        "columbiana-zero"
+      ]
+    },
+    {
+      "id": "west-roads",
+      "kind": "levy",
+      "jurisdiction": "West Township",
+      "title": "Tax levy: roads",
+      "area": "West Township",
+      "places": [
+        "West Township"
+      ],
+      "sources": [
+        "columbiana-zero"
+      ]
+    },
+    {
+      "id": "liquor-salem-genes",
+      "kind": "liquor",
+      "jurisdiction": "City of Salem",
+      "title": "Local liquor option: Gene's Drive Thru",
+      "area": "Salem City precinct 2-A",
+      "places": [
+        "Salem City"
+      ],
+      "sources": [
+        "columbiana-zero"
+      ]
+    },
+    {
+      "id": "liquor-salineville-legion",
+      "kind": "liquor",
+      "jurisdiction": "Village of Salineville",
+      "title": "Local liquor option: American Legion",
+      "area": "Salineville Village",
+      "places": [
+        "Salineville Village"
+      ],
+      "sources": [
+        "columbiana-zero"
+      ]
+    }
+  ]
+}

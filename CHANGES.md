@@ -19,3 +19,13 @@ Data notes (Trumbull):
 # Oct 30, 2026 (later)
 
 - "Related apps" row under the county picker: the county's Voters app, Election Statistics and the Ohio Counties hub as labelled buttons, so the way back to the rest of the fleet is obvious. The Board of Elections links (View your ballot, Where do I vote?) stay as plain links beside the view tabs. The menu keeps its links too.
+
+# Oct 30, 2026 (six more counties)
+
+- Full ballots for Mahoning, Columbiana, Ashtabula, Lake, Cuyahoga and Geauga, each from that county Board of Elections' own documents: Mahoning's filings list, Columbiana's pre-election zero report, Ashtabula's candidate list and issues sheet, Lake's candidate list and certified issues, Cuyahoga's candidate list and issues list (105 issues, ballot wording verbatim).
+- "Where you live" for those counties is computed from each county's SoS voter file (in its *CountyVoters repo): a congressional, state rep or state senate district, or a school levy, shows for a city, village or township when any of its voters are in it. New `tools/ballots/` holds the generator (`place_summary.py`, one spec per county, `run.py`).
+- Special districts whose boundaries aren't in the voter file (Ashtabula's park and ambulance districts, Cuyahoga County Council districts) stay listed for every place, marked "boundaries not mapped".
+- Levy cards show the Board's collection estimate ("$X a year; $Y for each $100,000"); levy fields the Board doesn't give are left out.
+- Statewide: Greg Levy (other-party) added to the U.S. Senate race. He is on the Columbiana, Lake, Ashtabula and Cuyahoga Boards' lists; the Trumbull 46-day notice and the Mahoning filings list leave him out.
+- Source links are shortened to the county and document ("Lake candidate list"); the full title is in the tooltip.
+- Geauga from all 91 of the Board's official precinct sample ballots (downloaded with a one-off script). Its "Where you live" comes from the ballots themselves. Geauga reuses issue numbers across school districts (Issue 4 is Berkshire's income tax in 13 precincts and Kirtland's levy in one; Issue 5 is Cardinal's levy in 9 and Mentor's in one), so each is listed separately.

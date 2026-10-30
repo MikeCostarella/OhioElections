@@ -1,0 +1,1096 @@
+{
+  "scope": "county",
+  "county": "Ashtabula",
+  "fips": "39007",
+  "election": "2026-11-03",
+  "retrieved": "2026-10-30",
+  "notes": [
+    "Taken from the Board of Elections' candidate list and issues sheet. The issues sheet is the Board's abbreviated summary; the full wording is on the sample ballot.",
+    "Candidates are listed alphabetically by last name, not in ballot order: Ohio rotates the order of names from precinct to precinct. Certified write-in candidates are not printed on the ballot and are not listed.",
+    "\"Where you live\" uses the state voter file: a district or school levy is shown for a city, village or township when any of its voters live in that district. Your exact ballot depends on your precinct.",
+    "Issues marked \"boundaries not mapped\" are for special districts (park, ambulance or similar) whose boundaries are not in the voter file; they stay listed for every place."
+  ],
+  "places": [
+    "Andover Township",
+    "Andover Village",
+    "Ashtabula City",
+    "Ashtabula Township",
+    "Austinburg Township",
+    "Cherry Valley Township",
+    "Colebrook Township",
+    "Conneaut City",
+    "Denmark Township",
+    "Dorset Township",
+    "Geneva City",
+    "Geneva Township",
+    "Geneva-on-the-Lake Village",
+    "Harpersfield Township",
+    "Hartsgrove Township",
+    "Jefferson Township",
+    "Jefferson Village",
+    "Kingsville Township",
+    "Lenox Township",
+    "Monroe Township",
+    "Morgan Township",
+    "New Lyme Township",
+    "North Kingsville Village",
+    "Orwell Township",
+    "Orwell Village",
+    "Pierpont Township",
+    "Plymouth Township",
+    "Richmond Township",
+    "Roaming Shores Village",
+    "Rock Creek Village",
+    "Rome Township",
+    "Saybrook Township",
+    "Sheffield Township",
+    "Trumbull Township",
+    "Wayne Township",
+    "Williamsfield Township",
+    "Windsor Township"
+  ],
+  "sources": {
+    "ashtabula-cand": {
+      "label": "Ashtabula County Board of Elections: candidate list, November 3, 2026 General Election (revised 9-15-26)",
+      "url": "https://www.boe.ohio.gov/ashtabula/c/upload/Election_Candidates.pdf"
+    },
+    "ashtabula-issues": {
+      "label": "Ashtabula County Board of Elections: issues sheet, November 3, 2026 General Election (revised 9/15/26)",
+      "url": "https://www.boe.ohio.gov/ashtabula/c/upload/Election_Issues.pdf"
+    }
+  },
+  "links": [
+    {
+      "label": "Board of Elections",
+      "url": "https://www.boe.ohio.gov/ashtabula/"
+    },
+    {
+      "label": "Sample ballots",
+      "url": "https://www.boe.ohio.gov/ashtabula/c/upload/Ballots_NonSampleBallots.pdf"
+    }
+  ],
+  "results": {
+    "status": "upcoming",
+    "links": [
+      {
+        "label": "Board of Elections",
+        "url": "https://www.boe.ohio.gov/ashtabula/"
+      }
+    ]
+  },
+  "contests": [
+    {
+      "id": "congress-14",
+      "group": "U.S. House",
+      "office": "Representative to Congress",
+      "detail": "14th District",
+      "candidates": [
+        {
+          "name": "David P. Joyce",
+          "party": "REP"
+        },
+        {
+          "name": "Maria Jukic",
+          "party": "DEM"
+        }
+      ],
+      "sources": [
+        "ashtabula-cand"
+      ]
+    },
+    {
+      "id": "rep-65",
+      "group": "Ohio General Assembly",
+      "office": "State Representative",
+      "detail": "65th District",
+      "area": "Andover Township, Andover Village, Austinburg Township, Cherry Valley Township, Colebrook Township, Denmark Township, Dorset Township, Geneva City, Harpersfield Township, Hartsgrove Township, Jefferson Township, Jefferson Village, Kingsville Township, Lenox Township, Monroe Township, Morgan Township, New Lyme Township, Orwell Township, Orwell Village, Pierpont Township, Richmond Township, Roaming Shores Village, Rock Creek Village, Rome Township, Sheffield Township, Wayne Township, Williamsfield Township, Windsor Township",
+      "places": [
+        "Andover Township",
+        "Andover Village",
+        "Austinburg Township",
+        "Cherry Valley Township",
+        "Colebrook Township",
+        "Denmark Township",
+        "Dorset Township",
+        "Geneva City",
+        "Harpersfield Township",
+        "Hartsgrove Township",
+        "Jefferson Township",
+        "Jefferson Village",
+        "Kingsville Township",
+        "Lenox Township",
+        "Monroe Township",
+        "Morgan Township",
+        "New Lyme Township",
+        "Orwell Township",
+        "Orwell Village",
+        "Pierpont Township",
+        "Richmond Township",
+        "Roaming Shores Village",
+        "Rock Creek Village",
+        "Rome Township",
+        "Sheffield Township",
+        "Wayne Township",
+        "Williamsfield Township",
+        "Windsor Township"
+      ],
+      "candidates": [
+        {
+          "name": "John Barbo",
+          "party": "DEM"
+        },
+        {
+          "name": "David Thomas",
+          "party": "REP"
+        }
+      ],
+      "sources": [
+        "ashtabula-cand"
+      ]
+    },
+    {
+      "id": "rep-99",
+      "group": "Ohio General Assembly",
+      "office": "State Representative",
+      "detail": "99th District",
+      "area": "Ashtabula City, Ashtabula Township, Conneaut City, Geneva Township, Geneva-on-the-Lake Village, Harpersfield Township, North Kingsville Village, Plymouth Township, Saybrook Township, Trumbull Township",
+      "places": [
+        "Ashtabula City",
+        "Ashtabula Township",
+        "Conneaut City",
+        "Geneva Township",
+        "Geneva-on-the-Lake Village",
+        "Harpersfield Township",
+        "North Kingsville Village",
+        "Plymouth Township",
+        "Saybrook Township",
+        "Trumbull Township"
+      ],
+      "candidates": [
+        {
+          "name": "Sarah Fowler Arthur",
+          "party": "REP"
+        },
+        {
+          "name": "Louis Murphy",
+          "party": "DEM"
+        }
+      ],
+      "sources": [
+        "ashtabula-cand"
+      ]
+    },
+    {
+      "id": "appeals-11-0209",
+      "group": "Ohio Court of Appeals",
+      "office": "Judge of the Court of Appeals",
+      "detail": "11th District · full term commencing February 9, 2027",
+      "candidates": [
+        {
+          "name": "Marisa L. Cornachio",
+          "party": "REP"
+        }
+      ],
+      "sources": [
+        "ashtabula-cand"
+      ]
+    },
+    {
+      "id": "appeals-11-0210",
+      "group": "Ohio Court of Appeals",
+      "office": "Judge of the Court of Appeals",
+      "detail": "11th District · full term commencing February 10, 2027",
+      "candidates": [
+        {
+          "name": "Robert J. Patton",
+          "party": "REP"
+        }
+      ],
+      "sources": [
+        "ashtabula-cand"
+      ]
+    },
+    {
+      "id": "cp-0101",
+      "group": "Court of Common Pleas",
+      "office": "Judge of the Court of Common Pleas",
+      "detail": "Full term commencing January 1, 2027 · no party label on the ballot",
+      "candidates": [
+        {
+          "name": "Marianne Sezon"
+        }
+      ],
+      "sources": [
+        "ashtabula-cand"
+      ]
+    },
+    {
+      "id": "cp-0102",
+      "group": "Court of Common Pleas",
+      "office": "Judge of the Court of Common Pleas",
+      "detail": "Full term commencing January 2, 2027 · no party label on the ballot",
+      "candidates": [
+        {
+          "name": "Albert S. Camplese"
+        },
+        {
+          "name": "Harold E. Specht Jr."
+        }
+      ],
+      "sources": [
+        "ashtabula-cand"
+      ]
+    },
+    {
+      "id": "cp-0209",
+      "group": "Court of Common Pleas",
+      "office": "Judge of the Court of Common Pleas",
+      "detail": "Full term commencing February 9, 2027 · no party label on the ballot",
+      "candidates": [
+        {
+          "name": "Thomas E. Harris"
+        }
+      ],
+      "sources": [
+        "ashtabula-cand"
+      ]
+    },
+    {
+      "id": "cp-probate-0209",
+      "group": "Court of Common Pleas",
+      "office": "Judge of the Court of Common Pleas, Probate Division",
+      "detail": "Full term commencing February 9, 2027 · no party label on the ballot",
+      "candidates": [
+        {
+          "name": "Edith M. Jonas"
+        }
+      ],
+      "sources": [
+        "ashtabula-cand"
+      ]
+    },
+    {
+      "id": "commissioner",
+      "group": "County offices",
+      "office": "County Commissioner",
+      "detail": "Full term commencing January 1, 2027",
+      "candidates": [
+        {
+          "name": "Casey Kozlowski",
+          "party": "REP"
+        },
+        {
+          "name": "Jayson-Robert T. Noscal",
+          "party": "DEM"
+        }
+      ],
+      "sources": [
+        "ashtabula-cand"
+      ]
+    },
+    {
+      "id": "auditor",
+      "group": "County offices",
+      "office": "County Auditor",
+      "detail": "Full term commencing March 11, 2027",
+      "candidates": [
+        {
+          "name": "Oakey L. Emery",
+          "party": "DEM"
+        },
+        {
+          "name": "Scott Yamamoto",
+          "party": "REP"
+        }
+      ],
+      "sources": [
+        "ashtabula-cand"
+      ]
+    },
+    {
+      "id": "coroner",
+      "group": "County offices",
+      "office": "County Coroner",
+      "detail": "Unexpired term ending December 31, 2028",
+      "candidates": [
+        {
+          "name": "Catherine A. Bishop",
+          "party": "REP"
+        }
+      ],
+      "sources": [
+        "ashtabula-cand"
+      ]
+    }
+  ],
+  "issues": [
+    {
+      "id": "issue-4",
+      "kind": "levy",
+      "jurisdiction": "Ashtabula County Metroparks",
+      "title": "Tax levy (additional): Parks and recreation",
+      "area": "Ashtabula County Metroparks",
+      "levy": {
+        "type": "Additional",
+        "purpose": "Parks and recreation.",
+        "mills": "0.5 mill",
+        "term": "15 years, 2027–2041"
+      },
+      "number": "Issue 4",
+      "sources": [
+        "ashtabula-issues"
+      ]
+    },
+    {
+      "id": "issue-5",
+      "kind": "levy",
+      "jurisdiction": "Conneaut Township Park District",
+      "title": "Tax levy (additional): Current operating expenses",
+      "area": "Conneaut Township Park District",
+      "coverage": "unknown",
+      "levy": {
+        "type": "Additional",
+        "purpose": "Current operating expenses.",
+        "mills": "1.25 mills",
+        "term": "5 years, 2027–2031"
+      },
+      "number": "Issue 5",
+      "sources": [
+        "ashtabula-issues"
+      ]
+    },
+    {
+      "id": "issue-6",
+      "kind": "levy",
+      "jurisdiction": "Jefferson Emergency Rescue District",
+      "title": "Tax levy (renewal): Ambulance and EMS",
+      "area": "Jefferson Emergency Rescue District",
+      "coverage": "unknown",
+      "levy": {
+        "type": "Renewal",
+        "purpose": "Ambulance and EMS.",
+        "mills": "2 mills",
+        "term": "5 years, 2027–2031"
+      },
+      "number": "Issue 6",
+      "sources": [
+        "ashtabula-issues"
+      ]
+    },
+    {
+      "id": "issue-7",
+      "kind": "levy",
+      "jurisdiction": "Northwest Ambulance District",
+      "title": "Tax levy (renewal): Ambulance and EMS",
+      "area": "Northwest Ambulance District",
+      "coverage": "unknown",
+      "levy": {
+        "type": "Renewal",
+        "purpose": "Ambulance and EMS.",
+        "mills": "2 mills",
+        "term": "5 years, 2027–2031"
+      },
+      "number": "Issue 7",
+      "sources": [
+        "ashtabula-issues"
+      ]
+    },
+    {
+      "id": "issue-8",
+      "kind": "levy",
+      "jurisdiction": "Saybrook Township Park District",
+      "title": "Tax levy (renewal): Current operating expenses",
+      "area": "Saybrook Township Park District",
+      "coverage": "unknown",
+      "levy": {
+        "type": "Renewal",
+        "purpose": "Current operating expenses.",
+        "mills": "0.5 mill",
+        "term": "3 years, 2027–2029"
+      },
+      "number": "Issue 8",
+      "sources": [
+        "ashtabula-issues"
+      ]
+    },
+    {
+      "id": "issue-9",
+      "kind": "levy",
+      "jurisdiction": "Andover Village",
+      "title": "Tax levy (renewal): Current operating expenses",
+      "area": "Andover Village",
+      "places": [
+        "Andover Village"
+      ],
+      "levy": {
+        "type": "Renewal",
+        "purpose": "Current operating expenses.",
+        "mills": "1.46 mills",
+        "term": "5 years, 2027–2031"
+      },
+      "number": "Issue 9",
+      "sources": [
+        "ashtabula-issues"
+      ]
+    },
+    {
+      "id": "issue-11",
+      "kind": "levy",
+      "jurisdiction": "Geneva-on-the-Lake Village",
+      "title": "Tax levy (additional): Police",
+      "area": "Geneva-on-the-Lake Village",
+      "places": [
+        "Geneva-on-the-Lake Village"
+      ],
+      "levy": {
+        "type": "Additional",
+        "purpose": "Police.",
+        "mills": "1.99 mills",
+        "term": "5 years, 2026–2030"
+      },
+      "number": "Issue 11",
+      "sources": [
+        "ashtabula-issues"
+      ]
+    },
+    {
+      "id": "issue-12",
+      "kind": "levy",
+      "jurisdiction": "Jefferson Village",
+      "title": "Tax levy (renewal): Parks and recreation",
+      "area": "Jefferson Village",
+      "places": [
+        "Jefferson Village"
+      ],
+      "levy": {
+        "type": "Renewal",
+        "purpose": "Parks and recreation.",
+        "mills": "1 mill",
+        "term": "5 years, 2027–2031"
+      },
+      "number": "Issue 12",
+      "sources": [
+        "ashtabula-issues"
+      ]
+    },
+    {
+      "id": "issue-13",
+      "kind": "levy",
+      "jurisdiction": "Jefferson Village",
+      "title": "Tax levy (renewal): Fire",
+      "area": "Jefferson Village",
+      "places": [
+        "Jefferson Village"
+      ],
+      "levy": {
+        "type": "Renewal",
+        "purpose": "Fire.",
+        "mills": "1.5 mills",
+        "term": "5 years, 2027–2031"
+      },
+      "number": "Issue 13",
+      "sources": [
+        "ashtabula-issues"
+      ]
+    },
+    {
+      "id": "issue-14",
+      "kind": "levy",
+      "jurisdiction": "North Kingsville Village",
+      "title": "Tax levy (additional): Ambulance and EMS",
+      "area": "North Kingsville Village",
+      "places": [
+        "North Kingsville Village"
+      ],
+      "levy": {
+        "type": "Additional",
+        "purpose": "Ambulance and EMS.",
+        "mills": "1 mill",
+        "term": "5 years, 2027–2031"
+      },
+      "number": "Issue 14",
+      "sources": [
+        "ashtabula-issues"
+      ]
+    },
+    {
+      "id": "issue-15",
+      "kind": "levy",
+      "jurisdiction": "North Kingsville Village",
+      "title": "Tax levy (renewal and increase): Police services",
+      "area": "North Kingsville Village",
+      "places": [
+        "North Kingsville Village"
+      ],
+      "levy": {
+        "type": "Renewal and increase",
+        "purpose": "Police services.",
+        "mills": "2 mills",
+        "term": "5 years, 2027–2031"
+      },
+      "number": "Issue 15",
+      "sources": [
+        "ashtabula-issues"
+      ]
+    },
+    {
+      "id": "issue-16",
+      "kind": "levy",
+      "jurisdiction": "Andover Township (excluding Andover Village)",
+      "title": "Tax levy (renewal): Ambulance",
+      "area": "Andover Township (excluding Andover Village)",
+      "places": [
+        "Andover Township"
+      ],
+      "levy": {
+        "type": "Renewal",
+        "purpose": "Ambulance.",
+        "mills": "2 mills",
+        "term": "2 years, 2027–2028"
+      },
+      "number": "Issue 16",
+      "sources": [
+        "ashtabula-issues"
+      ]
+    },
+    {
+      "id": "issue-17",
+      "kind": "levy",
+      "jurisdiction": "Andover Township (excluding Andover Village)",
+      "title": "Tax levy (renewal): Roads and bridges",
+      "area": "Andover Township (excluding Andover Village)",
+      "places": [
+        "Andover Township"
+      ],
+      "levy": {
+        "type": "Renewal",
+        "purpose": "Roads and bridges.",
+        "mills": "2 mills",
+        "term": "5 years, 2027–2031"
+      },
+      "number": "Issue 17",
+      "sources": [
+        "ashtabula-issues"
+      ]
+    },
+    {
+      "id": "issue-18",
+      "kind": "levy",
+      "jurisdiction": "Ashtabula Township (excluding Ashtabula City)",
+      "title": "Tax levy (renewal): Cemeteries",
+      "area": "Ashtabula Township (excluding Ashtabula City)",
+      "places": [
+        "Ashtabula Township"
+      ],
+      "levy": {
+        "type": "Renewal",
+        "purpose": "Cemeteries.",
+        "mills": "1 mill",
+        "term": "5 years, 2027–2031"
+      },
+      "number": "Issue 18",
+      "sources": [
+        "ashtabula-issues"
+      ]
+    },
+    {
+      "id": "issue-19",
+      "kind": "levy",
+      "jurisdiction": "Ashtabula Township (excluding Ashtabula City)",
+      "title": "Tax levy (renewal): Roads and bridges",
+      "area": "Ashtabula Township (excluding Ashtabula City)",
+      "places": [
+        "Ashtabula Township"
+      ],
+      "levy": {
+        "type": "Renewal",
+        "purpose": "Roads and bridges.",
+        "mills": "1.25 mills",
+        "term": "5 years, 2027–2031"
+      },
+      "number": "Issue 19",
+      "sources": [
+        "ashtabula-issues"
+      ]
+    },
+    {
+      "id": "issue-20",
+      "kind": "levy",
+      "jurisdiction": "Ashtabula Township (excluding Ashtabula City)",
+      "title": "Tax levy (renewal): Fire and EMS",
+      "area": "Ashtabula Township (excluding Ashtabula City)",
+      "places": [
+        "Ashtabula Township"
+      ],
+      "levy": {
+        "type": "Renewal",
+        "purpose": "Fire and EMS.",
+        "mills": "1 mill",
+        "term": "5 years, 2027–2031"
+      },
+      "number": "Issue 20",
+      "sources": [
+        "ashtabula-issues"
+      ]
+    },
+    {
+      "id": "issue-21",
+      "kind": "levy",
+      "jurisdiction": "Ashtabula Township (excluding Ashtabula City)",
+      "title": "Tax levy (renewal): Fire and EMS",
+      "area": "Ashtabula Township (excluding Ashtabula City)",
+      "places": [
+        "Ashtabula Township"
+      ],
+      "levy": {
+        "type": "Renewal",
+        "purpose": "Fire and EMS.",
+        "mills": "1.5 mills",
+        "term": "5 years, 2027–2031"
+      },
+      "number": "Issue 21",
+      "sources": [
+        "ashtabula-issues"
+      ]
+    },
+    {
+      "id": "issue-22",
+      "kind": "levy",
+      "jurisdiction": "Ashtabula Township (excluding Ashtabula City)",
+      "title": "Tax levy (renewal): Fire and EMS",
+      "area": "Ashtabula Township (excluding Ashtabula City)",
+      "places": [
+        "Ashtabula Township"
+      ],
+      "levy": {
+        "type": "Renewal",
+        "purpose": "Fire and EMS.",
+        "mills": "2.5 mills",
+        "term": "5 years, 2027–2031"
+      },
+      "number": "Issue 22",
+      "sources": [
+        "ashtabula-issues"
+      ]
+    },
+    {
+      "id": "issue-23",
+      "kind": "levy",
+      "jurisdiction": "Austinburg Township",
+      "title": "Tax levy (renewal): Current operating expenses",
+      "area": "Austinburg Township",
+      "places": [
+        "Austinburg Township"
+      ],
+      "levy": {
+        "type": "Renewal",
+        "purpose": "Current operating expenses.",
+        "mills": "1 mill",
+        "term": "5 years, 2027–2031"
+      },
+      "number": "Issue 23",
+      "sources": [
+        "ashtabula-issues"
+      ]
+    },
+    {
+      "id": "issue-24",
+      "kind": "levy",
+      "jurisdiction": "Austinburg Township",
+      "title": "Tax levy (renewal and increase): Fire",
+      "area": "Austinburg Township",
+      "places": [
+        "Austinburg Township"
+      ],
+      "levy": {
+        "type": "Renewal and increase",
+        "purpose": "Fire.",
+        "mills": "1.4 mills",
+        "term": "5 years, 2027–2031"
+      },
+      "number": "Issue 24",
+      "sources": [
+        "ashtabula-issues"
+      ]
+    },
+    {
+      "id": "issue-25",
+      "kind": "levy",
+      "jurisdiction": "Cherry Valley Township",
+      "title": "Tax levy (renewal and reduction): Fire",
+      "area": "Cherry Valley Township",
+      "places": [
+        "Cherry Valley Township"
+      ],
+      "levy": {
+        "type": "Renewal and reduction",
+        "purpose": "Fire.",
+        "mills": "1 mill",
+        "term": "5 years, 2027–2031"
+      },
+      "number": "Issue 25",
+      "sources": [
+        "ashtabula-issues"
+      ]
+    },
+    {
+      "id": "issue-26",
+      "kind": "levy",
+      "jurisdiction": "Colebrook Township",
+      "title": "Tax levy (renewal): Fire protection",
+      "area": "Colebrook Township",
+      "places": [
+        "Colebrook Township"
+      ],
+      "levy": {
+        "type": "Renewal",
+        "purpose": "Fire protection.",
+        "mills": "1.5 mills",
+        "term": "5 years, 2027–2031"
+      },
+      "number": "Issue 26",
+      "sources": [
+        "ashtabula-issues"
+      ]
+    },
+    {
+      "id": "issue-27",
+      "kind": "levy",
+      "jurisdiction": "Colebrook Township",
+      "title": "Tax levy (additional): Roads and bridges",
+      "area": "Colebrook Township",
+      "places": [
+        "Colebrook Township"
+      ],
+      "levy": {
+        "type": "Additional",
+        "purpose": "Roads and bridges.",
+        "mills": "2 mills",
+        "term": "5 years, 2026–2030"
+      },
+      "number": "Issue 27",
+      "sources": [
+        "ashtabula-issues"
+      ]
+    },
+    {
+      "id": "issue-28",
+      "kind": "levy",
+      "jurisdiction": "Denmark Township",
+      "title": "Tax levy (renewal): Fire and EMS",
+      "area": "Denmark Township",
+      "places": [
+        "Denmark Township"
+      ],
+      "levy": {
+        "type": "Renewal",
+        "purpose": "Fire and EMS.",
+        "mills": "1 mill",
+        "term": "5 years, 2027–2031"
+      },
+      "number": "Issue 28",
+      "sources": [
+        "ashtabula-issues"
+      ]
+    },
+    {
+      "id": "issue-29",
+      "kind": "levy",
+      "jurisdiction": "Geneva Township (excluding the city and village)",
+      "title": "Tax levy (renewal): Roads and bridges",
+      "area": "Geneva Township (excluding the city and village)",
+      "places": [
+        "Geneva Township"
+      ],
+      "levy": {
+        "type": "Renewal",
+        "purpose": "Roads and bridges.",
+        "mills": "1 mill",
+        "term": "5 years, 2027–2031"
+      },
+      "number": "Issue 29",
+      "sources": [
+        "ashtabula-issues"
+      ]
+    },
+    {
+      "id": "issue-30",
+      "kind": "levy",
+      "jurisdiction": "Geneva Township (excluding the city and village)",
+      "title": "Tax levy (renewal): Fire",
+      "area": "Geneva Township (excluding the city and village)",
+      "places": [
+        "Geneva Township"
+      ],
+      "levy": {
+        "type": "Renewal",
+        "purpose": "Fire.",
+        "mills": "1.49 mills",
+        "term": "5 years, 2027–2031"
+      },
+      "number": "Issue 30",
+      "sources": [
+        "ashtabula-issues"
+      ]
+    },
+    {
+      "id": "issue-31",
+      "kind": "levy",
+      "jurisdiction": "Harpersfield Township",
+      "title": "Tax levy (renewal): Roads and bridges",
+      "area": "Harpersfield Township",
+      "places": [
+        "Harpersfield Township"
+      ],
+      "levy": {
+        "type": "Renewal",
+        "purpose": "Roads and bridges.",
+        "mills": "1.5 mills",
+        "term": "5 years, 2027–2031"
+      },
+      "number": "Issue 31",
+      "sources": [
+        "ashtabula-issues"
+      ]
+    },
+    {
+      "id": "issue-32",
+      "kind": "levy",
+      "jurisdiction": "Kingsville Township",
+      "title": "Tax levy (renewal): Cemeteries",
+      "area": "Kingsville Township",
+      "places": [
+        "Kingsville Township"
+      ],
+      "levy": {
+        "type": "Renewal",
+        "purpose": "Cemeteries.",
+        "mills": "1 mill",
+        "term": "5 years, 2027–2031"
+      },
+      "number": "Issue 32",
+      "sources": [
+        "ashtabula-issues"
+      ]
+    },
+    {
+      "id": "issue-33",
+      "kind": "levy",
+      "jurisdiction": "Lenox Township",
+      "title": "Tax levy (renewal): Fire and EMS",
+      "area": "Lenox Township",
+      "places": [
+        "Lenox Township"
+      ],
+      "levy": {
+        "type": "Renewal",
+        "purpose": "Fire and EMS.",
+        "mills": "1.5 mills",
+        "term": "2027–2031"
+      },
+      "number": "Issue 33",
+      "sources": [
+        "ashtabula-issues"
+      ]
+    },
+    {
+      "id": "issue-34",
+      "kind": "levy",
+      "jurisdiction": "Morgan Township (excluding Rock Creek and Roaming Shores villages)",
+      "title": "Tax levy (renewal): Roads and bridges",
+      "area": "Morgan Township (excluding Rock Creek and Roaming Shores villages)",
+      "places": [
+        "Morgan Township"
+      ],
+      "levy": {
+        "type": "Renewal",
+        "purpose": "Roads and bridges.",
+        "mills": "1.5 mills",
+        "term": "5 years, 2027–2031"
+      },
+      "number": "Issue 34",
+      "sources": [
+        "ashtabula-issues"
+      ]
+    },
+    {
+      "id": "issue-35",
+      "kind": "levy",
+      "jurisdiction": "Orwell Township (excluding Orwell Village)",
+      "title": "Tax levy (renewal): Fire protection",
+      "area": "Orwell Township (excluding Orwell Village)",
+      "places": [
+        "Orwell Township"
+      ],
+      "levy": {
+        "type": "Renewal",
+        "purpose": "Fire protection.",
+        "mills": "1.5 mills",
+        "term": "5 years, 2027–2031"
+      },
+      "number": "Issue 35",
+      "sources": [
+        "ashtabula-issues"
+      ]
+    },
+    {
+      "id": "issue-36",
+      "kind": "levy",
+      "jurisdiction": "Pierpont Township",
+      "title": "Tax levy (renewal): Fire and ambulance service",
+      "area": "Pierpont Township",
+      "places": [
+        "Pierpont Township"
+      ],
+      "levy": {
+        "type": "Renewal",
+        "purpose": "Fire and ambulance service.",
+        "mills": "2.5 mills",
+        "term": "5 years, 2027–2031"
+      },
+      "number": "Issue 36",
+      "sources": [
+        "ashtabula-issues"
+      ]
+    },
+    {
+      "id": "issue-37",
+      "kind": "levy",
+      "jurisdiction": "Richmond Township",
+      "title": "Tax levy (renewal and increase): Fire and EMS",
+      "area": "Richmond Township",
+      "places": [
+        "Richmond Township"
+      ],
+      "levy": {
+        "type": "Renewal and increase",
+        "purpose": "Fire and EMS.",
+        "mills": "2 mills",
+        "term": "2 years, 2027–2028"
+      },
+      "number": "Issue 37",
+      "sources": [
+        "ashtabula-issues"
+      ]
+    },
+    {
+      "id": "issue-38",
+      "kind": "levy",
+      "jurisdiction": "Sheffield Township",
+      "title": "Tax levy (renewal): Cemetery",
+      "area": "Sheffield Township",
+      "places": [
+        "Sheffield Township"
+      ],
+      "levy": {
+        "type": "Renewal",
+        "purpose": "Cemetery.",
+        "mills": "0.5 mill",
+        "term": "5 years, 2027–2031"
+      },
+      "number": "Issue 38",
+      "sources": [
+        "ashtabula-issues"
+      ]
+    },
+    {
+      "id": "issue-39",
+      "kind": "levy",
+      "jurisdiction": "Sheffield Township",
+      "title": "Tax levy (additional): Fire and EMS",
+      "area": "Sheffield Township",
+      "places": [
+        "Sheffield Township"
+      ],
+      "levy": {
+        "type": "Additional",
+        "purpose": "Fire and EMS.",
+        "mills": "4.5 mills",
+        "term": "5 years, 2027–2031"
+      },
+      "number": "Issue 39",
+      "sources": [
+        "ashtabula-issues"
+      ]
+    },
+    {
+      "id": "issue-40",
+      "kind": "levy",
+      "jurisdiction": "Windsor Township",
+      "title": "Tax levy (additional): Fire and EMS",
+      "area": "Windsor Township",
+      "places": [
+        "Windsor Township"
+      ],
+      "levy": {
+        "type": "Additional",
+        "purpose": "Fire and EMS.",
+        "mills": "2.5 mills",
+        "term": "5 years, 2027–2031"
+      },
+      "number": "Issue 40",
+      "sources": [
+        "ashtabula-issues"
+      ]
+    },
+    {
+      "id": "issue-10",
+      "kind": "question",
+      "jurisdiction": "Conneaut City",
+      "title": "Proposed charter amendment: data center",
+      "area": "Conneaut City",
+      "places": [
+        "Conneaut City"
+      ],
+      "number": "Issue 10",
+      "sources": [
+        "ashtabula-issues"
+      ]
+    },
+    {
+      "id": "issue-41",
+      "kind": "liquor",
+      "jurisdiction": "Ashtabula City 3",
+      "title": "Local liquor option: Convenient Food Mart",
+      "area": "Ashtabula City 3 B",
+      "places": [
+        "Ashtabula City"
+      ],
+      "number": "Issue 41",
+      "text": "Listed by the Board as \"5R - SS\" (see the sample ballot for the question's wording).",
+      "sources": [
+        "ashtabula-issues"
+      ]
+    },
+    {
+      "id": "issue-42",
+      "kind": "liquor",
+      "jurisdiction": "Trumbull Township",
+      "title": "Local liquor option: Hunters Tavern",
+      "area": "Trumbull Township",
+      "places": [
+        "Trumbull Township"
+      ],
+      "number": "Issue 42",
+      "text": "Listed by the Board as \"5R - SS\" (see the sample ballot for the question's wording).",
+      "sources": [
+        "ashtabula-issues"
+      ]
+    },
+    {
+      "id": "issue-43",
+      "kind": "liquor",
+      "jurisdiction": "Trumbull Township",
+      "title": "Local liquor option: Monarch Meadow Vineyard",
+      "area": "Trumbull Township",
+      "places": [
+        "Trumbull Township"
+      ],
+      "number": "Issue 43",
+      "text": "Listed by the Board as \"5R - SS\" (see the sample ballot for the question's wording).",
+      "sources": [
+        "ashtabula-issues"
+      ]
+    }
+  ]
+}

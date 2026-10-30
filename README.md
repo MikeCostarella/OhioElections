@@ -41,10 +41,7 @@ Every contest and issue cites the Board document it came from (`sources`). `plac
 
 ### Adding a county
 
-1. Get the Board of Elections' candidate list, issues list and 46-day notice (Form 120) for the election.
-2. Copy `county/trumbull/2026-11-03.json` to `county/<slug>/2026-11-03.json` and replace its contests, issues, places, sources and links.
-3. Add the slug to `county/index.json`.
-4. Run `npm run check:data` (also runs in the deploy workflow).
+Counties after Trumbull are generated: see [`tools/ballots/README.md`](tools/ballots/README.md). In short, summarise the county's SoS voter file into `tools/ballots/places/<county>.json`, write `tools/ballots/<county>.py` from the Board's candidate and issue lists, run `python run.py`, add the slug to `county/index.json`, and run `npm run check:data` (also run by the deploy workflow).
 
 ## Running it
 

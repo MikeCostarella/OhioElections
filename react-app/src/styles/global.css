@@ -84,6 +84,7 @@ code { background: rgba(255,255,255,0.06); padding: 1px 5px; border-radius: 4px;
 .levy dt { font-size: 10.5px; text-transform: uppercase; letter-spacing: 0.06em; color: var(--text-card-label); }
 .levy dd { margin: 0; color: var(--text-main); }
 .ballot-text { margin: 0; line-height: 1.5; }
+.estimate { font-size: 12px; color: var(--text-card); }
 .bullets { margin: 0; padding-left: 18px; line-height: 1.5; }
 .area { font-size: 12px; color: var(--text-muted-2); }
 .area b { color: var(--text-muted); font-weight: 600; }

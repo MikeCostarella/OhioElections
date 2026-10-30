@@ -1,0 +1,924 @@
+{
+  "scope": "county",
+  "county": "Mahoning",
+  "fips": "39099",
+  "election": "2026-11-03",
+  "retrieved": "2026-10-30",
+  "notes": [
+    "Taken from the Board of Elections' list of filings for the general election.",
+    "Candidates are listed alphabetically by last name, not in ballot order: Ohio rotates the order of names from precinct to precinct. Certified write-in candidates are not printed on the ballot and are not listed.",
+    "\"Where you live\" uses the state voter file: a district or school levy is shown for a city, village or township when any of its voters live in that district. Your exact ballot depends on your precinct."
+  ],
+  "places": [
+    "Alliance City",
+    "Austintown Township",
+    "Beaver Township",
+    "Beloit Village",
+    "Berlin Township",
+    "Boardman Township",
+    "Campbell City",
+    "Canfield City",
+    "Canfield Township",
+    "Coitsville Township",
+    "Columbiana City",
+    "Craig Beach Village",
+    "Ellsworth Township",
+    "Goshen Township",
+    "Green Township",
+    "Jackson Township",
+    "Lowellville Village",
+    "Milton Township",
+    "New Middletown Village",
+    "Poland Township",
+    "Poland Village",
+    "Sebring Village",
+    "Smith Township",
+    "Springfield Township",
+    "Struthers City",
+    "Washingtonville Village",
+    "Youngstown City"
+  ],
+  "sources": {
+    "mahoning-filings": {
+      "label": "Mahoning County Board of Elections: filings for the November 3, 2026 General Election",
+      "url": "https://vote.mahoningcountyoh.gov/DocumentCenter/View/2640/Filings-for-November-3-2026-General-Election"
+    },
+    "columbiana-zero": {
+      "label": "Columbiana County Board of Elections: 2026 General Election zero report (lists every contest on Columbiana's ballots)",
+      "url": "https://columbiana.boe.ohio.gov/wp-content/uploads/2026/09/2026-General-Election-Zero-Report.pdf"
+    }
+  },
+  "links": [
+    {
+      "label": "Board of Elections",
+      "url": "https://vote.mahoningcountyoh.gov/"
+    },
+    {
+      "label": "Ohio sample ballot lookup",
+      "url": "https://www.ohiosos.gov/elections/voters/toolkit/sample-ballot/"
+    }
+  ],
+  "results": {
+    "status": "upcoming",
+    "links": [
+      {
+        "label": "Board of Elections: election information and results",
+        "url": "https://vote.mahoningcountyoh.gov/"
+      }
+    ]
+  },
+  "contests": [
+    {
+      "id": "congress-6",
+      "group": "U.S. House",
+      "office": "Representative to Congress",
+      "detail": "6th District",
+      "area": "Alliance City, Austintown Township, Beaver Township, Beloit Village, Boardman Township, Campbell City, Coitsville Township, Columbiana City, Goshen Township, Green Township, Lowellville Village, New Middletown Village, Poland Township, Poland Village, Sebring Village, Smith Township, Springfield Township, Struthers City, Washingtonville Village, Youngstown City",
+      "places": [
+        "Alliance City",
+        "Austintown Township",
+        "Beaver Township",
+        "Beloit Village",
+        "Boardman Township",
+        "Campbell City",
+        "Coitsville Township",
+        "Columbiana City",
+        "Goshen Township",
+        "Green Township",
+        "Lowellville Village",
+        "New Middletown Village",
+        "Poland Township",
+        "Poland Village",
+        "Sebring Village",
+        "Smith Township",
+        "Springfield Township",
+        "Struthers City",
+        "Washingtonville Village",
+        "Youngstown City"
+      ],
+      "candidates": [
+        {
+          "name": "Elizabeth Kirtley",
+          "party": "DEM"
+        },
+        {
+          "name": "Michael A. Rulli",
+          "party": "REP"
+        }
+      ],
+      "sources": [
+        "mahoning-filings"
+      ]
+    },
+    {
+      "id": "congress-14",
+      "group": "U.S. House",
+      "office": "Representative to Congress",
+      "detail": "14th District",
+      "area": "Austintown Township, Berlin Township, Canfield City, Canfield Township, Craig Beach Village, Ellsworth Township, Jackson Township, Milton Township",
+      "places": [
+        "Austintown Township",
+        "Berlin Township",
+        "Canfield City",
+        "Canfield Township",
+        "Craig Beach Village",
+        "Ellsworth Township",
+        "Jackson Township",
+        "Milton Township"
+      ],
+      "candidates": [
+        {
+          "name": "David P. Joyce",
+          "party": "REP"
+        },
+        {
+          "name": "Maria Jukic",
+          "party": "DEM"
+        }
+      ],
+      "sources": [
+        "mahoning-filings"
+      ]
+    },
+    {
+      "id": "senate-33",
+      "group": "Ohio General Assembly",
+      "office": "State Senator",
+      "detail": "33rd District",
+      "candidates": [
+        {
+          "name": "Al Cutrona",
+          "party": "REP"
+        },
+        {
+          "name": "Michael L. Kripchak",
+          "party": "DEM"
+        }
+      ],
+      "sources": [
+        "mahoning-filings"
+      ]
+    },
+    {
+      "id": "rep-58",
+      "group": "Ohio General Assembly",
+      "office": "State Representative",
+      "detail": "58th District",
+      "area": "Austintown Township, Coitsville Township, Craig Beach Village, Jackson Township, Lowellville Village, Milton Township, Poland Township, Poland Village, Youngstown City",
+      "places": [
+        "Austintown Township",
+        "Coitsville Township",
+        "Craig Beach Village",
+        "Jackson Township",
+        "Lowellville Village",
+        "Milton Township",
+        "Poland Township",
+        "Poland Village",
+        "Youngstown City"
+      ],
+      "candidates": [
+        {
+          "name": "John A. Boccieri",
+          "party": "DEM"
+        },
+        {
+          "name": "Heather Fronk",
+          "party": "REP"
+        }
+      ],
+      "sources": [
+        "mahoning-filings"
+      ]
+    },
+    {
+      "id": "rep-59",
+      "group": "Ohio General Assembly",
+      "office": "State Representative",
+      "detail": "59th District",
+      "area": "Alliance City, Beaver Township, Beloit Village, Berlin Township, Boardman Township, Campbell City, Canfield City, Canfield Township, Columbiana City, Ellsworth Township, Goshen Township, Green Township, New Middletown Village, Sebring Village, Smith Township, Springfield Township, Struthers City, Washingtonville Village",
+      "places": [
+        "Alliance City",
+        "Beaver Township",
+        "Beloit Village",
+        "Berlin Township",
+        "Boardman Township",
+        "Campbell City",
+        "Canfield City",
+        "Canfield Township",
+        "Columbiana City",
+        "Ellsworth Township",
+        "Goshen Township",
+        "Green Township",
+        "New Middletown Village",
+        "Sebring Village",
+        "Smith Township",
+        "Springfield Township",
+        "Struthers City",
+        "Washingtonville Village"
+      ],
+      "candidates": [
+        {
+          "name": "Tex Fischer",
+          "party": "REP"
+        },
+        {
+          "name": "Wayne Penny, Jr.",
+          "party": "DEM"
+        }
+      ],
+      "sources": [
+        "mahoning-filings"
+      ]
+    },
+    {
+      "id": "appeals-7-0209",
+      "group": "Ohio Court of Appeals",
+      "office": "Judge of the Court of Appeals",
+      "detail": "7th District · full term commencing February 9, 2027",
+      "candidates": [
+        {
+          "name": "Molly K. Johnson",
+          "party": "REP"
+        }
+      ],
+      "sources": [
+        "mahoning-filings"
+      ]
+    },
+    {
+      "id": "appeals-7-0210",
+      "group": "Ohio Court of Appeals",
+      "office": "Judge of the Court of Appeals",
+      "detail": "7th District · full term commencing February 10, 2027",
+      "candidates": [
+        {
+          "name": "Mark Anthony Hanni",
+          "party": "REP"
+        },
+        {
+          "name": "Katherine Rudzik",
+          "party": "DEM"
+        }
+      ],
+      "sources": [
+        "mahoning-filings"
+      ]
+    },
+    {
+      "id": "commissioner",
+      "group": "County offices",
+      "office": "County Commissioner",
+      "candidates": [
+        {
+          "name": "Lauren McNally",
+          "party": "DEM"
+        },
+        {
+          "name": "Christine Oliver",
+          "party": "REP"
+        }
+      ],
+      "sources": [
+        "mahoning-filings"
+      ]
+    },
+    {
+      "id": "auditor",
+      "group": "County offices",
+      "office": "County Auditor",
+      "candidates": [
+        {
+          "name": "Ralph T. Meacham",
+          "party": "REP"
+        },
+        {
+          "name": "Dalton Bosze",
+          "party": "DEM"
+        }
+      ],
+      "sources": [
+        "mahoning-filings"
+      ]
+    },
+    {
+      "id": "cp-gen-0102",
+      "group": "Court of Common Pleas",
+      "office": "Judge of the Court of Common Pleas, General Division",
+      "detail": "Term commencing January 2, 2027 · no party label on the ballot",
+      "candidates": [
+        {
+          "name": "Maureen A. Sweeney"
+        }
+      ],
+      "sources": [
+        "mahoning-filings"
+      ]
+    },
+    {
+      "id": "cp-gen-0209",
+      "group": "Court of Common Pleas",
+      "office": "Judge of the Court of Common Pleas, General Division",
+      "detail": "Term commencing February 9, 2027 · no party label on the ballot",
+      "candidates": [
+        {
+          "name": "Ross T. Smith"
+        },
+        {
+          "name": "Mark P. D'Apolito"
+        }
+      ],
+      "sources": [
+        "mahoning-filings"
+      ]
+    },
+    {
+      "id": "cp-gen-0701",
+      "group": "Court of Common Pleas",
+      "office": "Judge of the Court of Common Pleas, General Division",
+      "detail": "Term commencing July 1, 2027 · no party label on the ballot",
+      "candidates": [
+        {
+          "name": "Ralph Rivera"
+        },
+        {
+          "name": "J. Michael Thompson"
+        },
+        {
+          "name": "Robert Andrews"
+        },
+        {
+          "name": "Jeff Limbian"
+        }
+      ],
+      "sources": [
+        "mahoning-filings"
+      ]
+    },
+    {
+      "id": "cp-dr-0101",
+      "group": "Court of Common Pleas",
+      "office": "Judge of the Court of Common Pleas, Domestic Relations Division",
+      "detail": "Term commencing January 1, 2027 · no party label on the ballot",
+      "candidates": [
+        {
+          "name": "Mark Anthony DeVicchio"
+        },
+        {
+          "name": "Terry A. Grenga"
+        }
+      ],
+      "sources": [
+        "mahoning-filings"
+      ]
+    },
+    {
+      "id": "cp-probate-0209",
+      "group": "Court of Common Pleas",
+      "office": "Judge of the Court of Common Pleas, Probate Division",
+      "detail": "Term commencing February 9, 2027 · no party label on the ballot",
+      "candidates": [
+        {
+          "name": "Robert N. Rusu, Jr."
+        }
+      ],
+      "sources": [
+        "mahoning-filings"
+      ]
+    }
+  ],
+  "issues": [
+    {
+      "id": "mcbdd",
+      "kind": "levy",
+      "jurisdiction": "Mahoning County Board of Developmental Disabilities",
+      "title": "Tax levy (additional): Maintaining the Mahoning County Board of Developmental Disabilities",
+      "area": "All of Mahoning County",
+      "levy": {
+        "type": "Additional",
+        "purpose": "Maintaining the Mahoning County Board of Developmental Disabilities.",
+        "mills": "2.4 mills",
+        "term": "5 years",
+        "estimate": "$15,522,964 a year; $84 for each $100,000 of market value"
+      },
+      "sources": [
+        "mahoning-filings"
+      ]
+    },
+    {
+      "id": "canfield-police",
+      "kind": "levy",
+      "jurisdiction": "City of Canfield",
+      "title": "Tax levy (renewal): Police department",
+      "area": "City of Canfield",
+      "places": [
+        "Canfield City"
+      ],
+      "levy": {
+        "type": "Renewal",
+        "purpose": "Police department.",
+        "mills": "3.9 mills",
+        "term": "5 years",
+        "estimate": "$812,524 a year; $82 for each $100,000 of market value"
+      },
+      "sources": [
+        "mahoning-filings"
+      ]
+    },
+    {
+      "id": "austintown-parks",
+      "kind": "levy",
+      "jurisdiction": "Austintown Township",
+      "title": "Tax levy (renewal): Parks and recreational purposes",
+      "area": "Austintown Township",
+      "places": [
+        "Austintown Township"
+      ],
+      "levy": {
+        "type": "Renewal",
+        "purpose": "Parks and recreational purposes.",
+        "mills": "0.8 mill",
+        "term": "5 years",
+        "estimate": "$321,610 a year; $10 for each $100,000 of market value"
+      },
+      "sources": [
+        "mahoning-filings"
+      ]
+    },
+    {
+      "id": "austintown-seniors",
+      "kind": "levy",
+      "jurisdiction": "Austintown Township",
+      "title": "Tax levy (renewal): Senior citizen services",
+      "area": "Austintown Township",
+      "places": [
+        "Austintown Township"
+      ],
+      "levy": {
+        "type": "Renewal",
+        "purpose": "Senior citizen services.",
+        "mills": "0.5 mill",
+        "term": "5 years",
+        "estimate": "$327,568 a year; $11 for each $100,000 of market value"
+      },
+      "sources": [
+        "mahoning-filings"
+      ]
+    },
+    {
+      "id": "boardman-safety",
+      "kind": "levy",
+      "jurisdiction": "Boardman Township",
+      "title": "Tax levy (additional): Police and fire",
+      "area": "Boardman Township",
+      "places": [
+        "Boardman Township"
+      ],
+      "levy": {
+        "type": "Additional",
+        "purpose": "Police and fire.",
+        "mills": "2.75 mills",
+        "term": "5 years",
+        "estimate": "$3,772,795 a year; $96 for each $100,000 of market value"
+      },
+      "sources": [
+        "mahoning-filings"
+      ]
+    },
+    {
+      "id": "poland-twp-roads",
+      "kind": "levy",
+      "jurisdiction": "Poland Township",
+      "title": "Tax levy (renewal): Repair of roads",
+      "area": "Poland Township",
+      "places": [
+        "Poland Township"
+      ],
+      "levy": {
+        "type": "Renewal",
+        "purpose": "Repair of roads.",
+        "mills": "2 mills",
+        "term": "5 years",
+        "estimate": "$227,666 a year; $13 for each $100,000 of market value"
+      },
+      "sources": [
+        "mahoning-filings"
+      ]
+    },
+    {
+      "id": "springfield-fire",
+      "kind": "levy",
+      "jurisdiction": "Springfield Township",
+      "title": "Tax levy (renewal): Fire department",
+      "area": "Springfield Township",
+      "places": [
+        "Springfield Township"
+      ],
+      "levy": {
+        "type": "Renewal",
+        "purpose": "Fire department.",
+        "mills": "1.5 mills",
+        "term": "5 years",
+        "estimate": "$179,695 a year; $22 for each $100,000 of market value"
+      },
+      "sources": [
+        "mahoning-filings"
+      ]
+    },
+    {
+      "id": "springfield-current",
+      "kind": "levy",
+      "jurisdiction": "Springfield Township",
+      "title": "Tax levy (renewal): Current expenses",
+      "area": "Springfield Township",
+      "places": [
+        "Springfield Township"
+      ],
+      "levy": {
+        "type": "Renewal",
+        "purpose": "Current expenses.",
+        "mills": "1.5 mills",
+        "term": "5 years",
+        "estimate": "$135,515 a year; $15 for each $100,000 of market value"
+      },
+      "sources": [
+        "mahoning-filings"
+      ]
+    },
+    {
+      "id": "new-middletown-roads",
+      "kind": "levy",
+      "jurisdiction": "Village of New Middletown",
+      "title": "Tax levy (renewal): Streets, roads and bridges",
+      "area": "Village of New Middletown",
+      "places": [
+        "New Middletown Village"
+      ],
+      "levy": {
+        "type": "Renewal",
+        "purpose": "Streets, roads and bridges.",
+        "mills": "1.5 mills",
+        "term": "5 years",
+        "estimate": "$44,786 a year; $39 for each $100,000 of market value"
+      },
+      "sources": [
+        "mahoning-filings"
+      ]
+    },
+    {
+      "id": "poland-village-police",
+      "kind": "levy",
+      "jurisdiction": "Village of Poland",
+      "title": "Tax levy (renewal): Police department",
+      "area": "Village of Poland",
+      "places": [
+        "Poland Village"
+      ],
+      "levy": {
+        "type": "Renewal",
+        "purpose": "Police department.",
+        "mills": "1 mill",
+        "term": "5 years",
+        "estimate": "$53,300 a year; $23 for each $100,000 of market value"
+      },
+      "sources": [
+        "mahoning-filings"
+      ]
+    },
+    {
+      "id": "boardman-lsd",
+      "kind": "levy",
+      "jurisdiction": "Boardman Local School District",
+      "title": "Tax levy (renewal): Providing for the emergency requirements",
+      "area": "Boardman Local School District",
+      "places": [
+        "Beaver Township",
+        "Boardman Township",
+        "Canfield Township"
+      ],
+      "levy": {
+        "type": "Renewal",
+        "purpose": "Providing for the emergency requirements.",
+        "mills": "3.72 mills",
+        "term": "10 years",
+        "estimate": "$4,646,975 a year; $130 for each $100,000 of market value"
+      },
+      "sources": [
+        "mahoning-filings"
+      ]
+    },
+    {
+      "id": "canfield-lsd",
+      "kind": "levy",
+      "jurisdiction": "Canfield Local School District",
+      "title": "Tax levy (additional): Current expenses",
+      "area": "Canfield Local School District",
+      "places": [
+        "Beaver Township",
+        "Boardman Township",
+        "Canfield City",
+        "Canfield Township",
+        "Ellsworth Township",
+        "Green Township"
+      ],
+      "levy": {
+        "type": "Additional",
+        "purpose": "Current expenses.",
+        "mills": "5.9 mills",
+        "term": "5 years",
+        "estimate": "$5,715,791 a year; $207 for each $100,000 of market value"
+      },
+      "sources": [
+        "mahoning-filings"
+      ]
+    },
+    {
+      "id": "lowellville-lsd",
+      "kind": "levy",
+      "jurisdiction": "Lowellville Local School District",
+      "title": "Tax levy (renewal): General permanent improvements",
+      "area": "Lowellville Local School District",
+      "places": [
+        "Coitsville Township",
+        "Lowellville Village",
+        "Poland Township"
+      ],
+      "levy": {
+        "type": "Renewal",
+        "purpose": "General permanent improvements.",
+        "mills": "4 mills",
+        "term": "5 years",
+        "estimate": "$224,058 a year; $107 for each $100,000 of market value"
+      },
+      "sources": [
+        "mahoning-filings"
+      ]
+    },
+    {
+      "id": "poland-lsd-emergency",
+      "kind": "levy",
+      "jurisdiction": "Poland Local School District",
+      "title": "Tax levy (renewal): Emergency requirements",
+      "area": "Poland Local School District",
+      "places": [
+        "Boardman Township",
+        "Poland Township",
+        "Poland Village"
+      ],
+      "levy": {
+        "type": "Renewal",
+        "purpose": "Emergency requirements.",
+        "mills": "3.57 mills",
+        "term": "5 years",
+        "estimate": "$2,181,867 a year; $125 for each $100,000 of market value"
+      },
+      "sources": [
+        "mahoning-filings"
+      ]
+    },
+    {
+      "id": "poland-lsd-pi",
+      "kind": "levy",
+      "jurisdiction": "Poland Local School District",
+      "title": "Tax levy (renewal): Permanent improvements",
+      "area": "Poland Local School District",
+      "places": [
+        "Boardman Township",
+        "Poland Township",
+        "Poland Village"
+      ],
+      "levy": {
+        "type": "Renewal",
+        "purpose": "Permanent improvements.",
+        "mills": "1 mill",
+        "term": "5 years",
+        "estimate": "$403,667 a year; $22 for each $100,000 of market value"
+      },
+      "sources": [
+        "mahoning-filings"
+      ]
+    },
+    {
+      "id": "west-branch-lsd",
+      "kind": "levy",
+      "jurisdiction": "West Branch Local School District",
+      "title": "Tax levy (additional): General permanent improvement",
+      "area": "West Branch Local School District",
+      "places": [
+        "Beloit Village",
+        "Goshen Township",
+        "Sebring Village",
+        "Smith Township"
+      ],
+      "levy": {
+        "type": "Additional",
+        "purpose": "General permanent improvement.",
+        "mills": "1 mill",
+        "term": "5 years",
+        "estimate": "$441,471 a year; $35 for each $100,000 of market value"
+      },
+      "sources": [
+        "mahoning-filings"
+      ]
+    },
+    {
+      "id": "fairfield-twp-roads",
+      "kind": "levy",
+      "jurisdiction": "Fairfield Township (Columbiana County)",
+      "title": "Tax levy (renewal): Roads and bridges",
+      "area": "Fairfield Township (Columbiana County)",
+      "places": [
+        "Columbiana City"
+      ],
+      "levy": {
+        "type": "Renewal",
+        "purpose": "Roads and bridges.",
+        "mills": "1.6 mills",
+        "term": "5 years",
+        "estimate": "$388,340 a year; $25 for each $100,000 of market value"
+      },
+      "note": "Voted on in the part of the City of Columbiana that lies in Mahoning County (Fairfield Township).",
+      "sources": [
+        "mahoning-filings"
+      ]
+    },
+    {
+      "id": "perry-twp-police",
+      "kind": "levy",
+      "jurisdiction": "Perry Township (Columbiana County)",
+      "title": "Tax levy (not stated): Police department",
+      "area": "Perry Township (Columbiana County)",
+      "places": [],
+      "levy": {
+        "type": "Not stated",
+        "purpose": "Police department.",
+        "mills": "1.5 mills",
+        "term": "5 years",
+        "estimate": "$222,295 a year; $53 for each $100,000 of market value"
+      },
+      "note": "On the Mahoning Board's list, but the state voter file shows no Mahoning County voters in Perry Township.",
+      "sources": [
+        "mahoning-filings"
+      ]
+    },
+    {
+      "id": "salem-rec",
+      "kind": "levy",
+      "jurisdiction": "City of Salem (Columbiana County)",
+      "title": "Tax levy (renewal): Recreational purposes",
+      "area": "City of Salem (Columbiana County)",
+      "places": [],
+      "levy": {
+        "type": "Renewal",
+        "purpose": "Recreational purposes.",
+        "mills": "1 mill",
+        "term": "5 years",
+        "estimate": "$166,794 a year; $12 for each $100,000 of market value"
+      },
+      "note": "On the Mahoning Board's list, but the state voter file shows no Mahoning County voters in the City of Salem.",
+      "sources": [
+        "mahoning-filings"
+      ]
+    },
+    {
+      "id": "alliance-csd",
+      "kind": "levy",
+      "jurisdiction": "Alliance City School District",
+      "title": "Tax levy: buildings",
+      "area": "Alliance City School District",
+      "places": [
+        "Alliance City",
+        "Smith Township"
+      ],
+      "note": "Not on the Mahoning Board's list. It is on the Columbiana Board's report, and the state voter file puts some Smith Township and Alliance City voters in Mahoning County in this school district. Check your sample ballot.",
+      "sources": [
+        "columbiana-zero"
+      ]
+    },
+    {
+      "id": "liquor-yo-2d-lorenzinos",
+      "kind": "liquor",
+      "jurisdiction": "Youngstown City",
+      "title": "Local liquor option: Lorenzino's Bocce Club, LLC, 128 Jacob's Rd.",
+      "area": "Precinct Youngstown 2-D",
+      "places": [
+        "Youngstown City"
+      ],
+      "text": "Sunday sales.",
+      "sources": [
+        "mahoning-filings"
+      ]
+    },
+    {
+      "id": "liquor-yo-6h-gateway-weekly",
+      "kind": "liquor",
+      "jurisdiction": "Youngstown City",
+      "title": "Local liquor option: Gateway Gas Mart, 2732 Glenwood Ave.",
+      "area": "Precinct Youngstown 6-H",
+      "places": [
+        "Youngstown City"
+      ],
+      "text": "Weekly beer, wine and mixed beverages.",
+      "sources": [
+        "mahoning-filings"
+      ]
+    },
+    {
+      "id": "liquor-yo-6h-gateway-sunday",
+      "kind": "liquor",
+      "jurisdiction": "Youngstown City",
+      "title": "Local liquor option: Gateway Gas Mart, 2732 Glenwood Ave. (Sunday)",
+      "area": "Precinct Youngstown 6-H",
+      "places": [
+        "Youngstown City"
+      ],
+      "text": "Sunday wine and mixed beverages.",
+      "sources": [
+        "mahoning-filings"
+      ]
+    },
+    {
+      "id": "liquor-campbell-3b-12th",
+      "kind": "liquor",
+      "jurisdiction": "Campbell City",
+      "title": "Local liquor option: 12th Street Party Shop, 223 12th Street",
+      "area": "Precinct Campbell 3-B",
+      "places": [
+        "Campbell City"
+      ],
+      "text": "Sunday sales.",
+      "sources": [
+        "mahoning-filings"
+      ]
+    },
+    {
+      "id": "liquor-aust-17-rulli",
+      "kind": "liquor",
+      "jurisdiction": "Austintown Township",
+      "title": "Local liquor option: Rulli Brothers, 431 Kirk Rd.",
+      "area": "Precinct Austintown 17",
+      "places": [
+        "Austintown Township"
+      ],
+      "text": "Sunday sales.",
+      "sources": [
+        "mahoning-filings"
+      ]
+    },
+    {
+      "id": "liquor-board-25-rulli",
+      "kind": "liquor",
+      "jurisdiction": "Boardman Township",
+      "title": "Local liquor option: Rulli Brothers, 8025 South Ave.",
+      "area": "Precinct Boardman 25",
+      "places": [
+        "Boardman Township"
+      ],
+      "text": "Sunday sales.",
+      "sources": [
+        "mahoning-filings"
+      ]
+    },
+    {
+      "id": "liquor-board-9-tobacco",
+      "kind": "liquor",
+      "jurisdiction": "Boardman Township",
+      "title": "Local liquor option: Tobacco City LLC, 112 Boardman Poland Rd.",
+      "area": "Precinct Boardman 9",
+      "places": [
+        "Boardman Township"
+      ],
+      "text": "Weekly and Sunday sales.",
+      "sources": [
+        "mahoning-filings"
+      ]
+    },
+    {
+      "id": "liquor-board-9-singh",
+      "kind": "liquor",
+      "jurisdiction": "Boardman Township",
+      "title": "Local liquor option: Singh & 3 Brothers, 6607 Market St.",
+      "area": "Precinct Boardman 9",
+      "places": [
+        "Boardman Township"
+      ],
+      "text": "Weekly and Sunday sales.",
+      "sources": [
+        "mahoning-filings"
+      ]
+    },
+    {
+      "id": "liquor-board-15-millionaire",
+      "kind": "liquor",
+      "jurisdiction": "Boardman Township",
+      "title": "Local liquor option: Millionaire Express, 5955 South Ave.",
+      "area": "Precinct Boardman 15",
+      "places": [
+        "Boardman Township"
+      ],
+      "text": "Sunday sales.",
+      "sources": [
+        "mahoning-filings"
+      ]
+    }
+  ]
+}

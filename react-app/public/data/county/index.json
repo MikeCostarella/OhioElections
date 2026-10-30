@@ -1,1 +1,11 @@
-{ "2026-11-03": ["trumbull"] }
+{
+ "2026-11-03": [
+  "ashtabula",
+  "columbiana",
+  "cuyahoga",
+  "geauga",
+  "lake",
+  "mahoning",
+  "trumbull"
+ ]
+}

@@ -3,7 +3,9 @@
   "election": "2026-11-03",
   "retrieved": "2026-10-30",
   "notes": [
-    "Statewide contests and State Issue 3 appear on every Ohio ballot. Names and parties are as printed in the Trumbull County Board of Elections' 46-day election notice (Secretary of State Form 120), which lists the statewide races and issues every county carries."
+    "Statewide contests and State Issue 3 appear on every Ohio ballot. Names and parties are from the Boards of Elections' election notices, candidate lists and zero reports.",
+    "Greg Levy (U.S. Senate, other-party candidate) is on the ballot: he is on the Columbiana, Lake, Ashtabula and Cuyahoga Boards' lists, though the Trumbull Board's 46-day notice and the Mahoning Board's filings list leave him out.",
+    "Certified write-in candidates are not printed on the ballot and are not listed here."
   ],
   "sources": {
     "trumbull-46day": {
@@ -13,6 +15,14 @@
     "sos-sample": {
       "label": "Ohio Secretary of State: find your sample ballot",
       "url": "https://www.ohiosos.gov/elections/voters/toolkit/sample-ballot/"
+    },
+    "columbiana-zero": {
+      "label": "Columbiana County Board of Elections: 2026 General Election zero report",
+      "url": "https://columbiana.boe.ohio.gov/wp-content/uploads/2026/09/2026-General-Election-Zero-Report.pdf"
+    },
+    "lake-cand": {
+      "label": "Lake County Board of Elections: November 3, 2026 General Election candidate list (updated 10/15/2026)",
+      "url": "https://wpassets.lakecountyohio.gov/wp-content/uploads/sites/12/2026/10/15161638/2026-Candidate-Filings.pdf"
     }
   },
   "contests": [
@@ -21,53 +31,102 @@
       "group": "State executive offices",
       "office": "Governor and Lieutenant Governor",
       "candidates": [
-        { "name": "Amy Acton / David Pepper", "party": "DEM" },
-        { "name": "Don Kissick / James L. Mills", "party": "LIB" },
-        { "name": "Vivek Ramaswamy / Robert A. McColley", "party": "REP" }
+        {
+          "name": "Amy Acton / David Pepper",
+          "party": "DEM"
+        },
+        {
+          "name": "Don Kissick / James L. Mills",
+          "party": "LIB"
+        },
+        {
+          "name": "Vivek Ramaswamy / Robert A. McColley",
+          "party": "REP"
+        }
       ],
-      "sources": ["trumbull-46day"]
+      "sources": [
+        "trumbull-46day"
+      ]
     },
     {
       "id": "attorney-general",
       "group": "State executive offices",
       "office": "Attorney General",
       "candidates": [
-        { "name": "Keith Faber", "party": "REP" },
-        { "name": "John J. Kulewicz", "party": "DEM" }
+        {
+          "name": "Keith Faber",
+          "party": "REP"
+        },
+        {
+          "name": "John J. Kulewicz",
+          "party": "DEM"
+        }
       ],
-      "sources": ["trumbull-46day"]
+      "sources": [
+        "trumbull-46day"
+      ]
     },
     {
       "id": "auditor-of-state",
       "group": "State executive offices",
       "office": "Auditor of State",
       "candidates": [
-        { "name": "Annette Blackwell", "party": "DEM" },
-        { "name": "Aidan Michael Jeffery", "party": "LIB" },
-        { "name": "Frank LaRose", "party": "REP" }
+        {
+          "name": "Annette Blackwell",
+          "party": "DEM"
+        },
+        {
+          "name": "Aidan Michael Jeffery",
+          "party": "LIB"
+        },
+        {
+          "name": "Frank LaRose",
+          "party": "REP"
+        }
       ],
-      "sources": ["trumbull-46day"]
+      "sources": [
+        "trumbull-46day"
+      ]
     },
     {
       "id": "secretary-of-state",
       "group": "State executive offices",
       "office": "Secretary of State",
       "candidates": [
-        { "name": "Tom Pruss", "party": "LIB" },
-        { "name": "Allison Russo", "party": "DEM" },
-        { "name": "Robert Sprague", "party": "REP" }
+        {
+          "name": "Tom Pruss",
+          "party": "LIB"
+        },
+        {
+          "name": "Allison Russo",
+          "party": "DEM"
+        },
+        {
+          "name": "Robert Sprague",
+          "party": "REP"
+        }
       ],
-      "sources": ["trumbull-46day"]
+      "sources": [
+        "trumbull-46day"
+      ]
     },
     {
       "id": "treasurer-of-state",
       "group": "State executive offices",
       "office": "Treasurer of State",
       "candidates": [
-        { "name": "Jay Edwards", "party": "REP" },
-        { "name": "Seth Walsh", "party": "DEM" }
+        {
+          "name": "Jay Edwards",
+          "party": "REP"
+        },
+        {
+          "name": "Seth Walsh",
+          "party": "DEM"
+        }
       ],
-      "sources": ["trumbull-46day"]
+      "sources": [
+        "trumbull-46day"
+      ]
     },
     {
       "id": "us-senate",
@@ -75,11 +134,29 @@
       "office": "United States Senator",
       "detail": "Unexpired term ending January 3, 2029",
       "candidates": [
-        { "name": "Sherrod Brown", "party": "DEM" },
-        { "name": "Jon Husted", "party": "REP" },
-        { "name": "William B. Redpath", "party": "LIB" }
+        {
+          "name": "Sherrod Brown",
+          "party": "DEM"
+        },
+        {
+          "name": "Jon Husted",
+          "party": "REP"
+        },
+        {
+          "name": "William B. Redpath",
+          "party": "LIB"
+        },
+        {
+          "name": "Greg Levy",
+          "party": "Other-party",
+          "note": "Other-party candidate; Boards also list him as nonpartisan"
+        }
       ],
-      "sources": ["trumbull-46day"]
+      "sources": [
+        "trumbull-46day",
+        "columbiana-zero",
+        "lake-cand"
+      ]
     },
     {
       "id": "supreme-court-2027-01-01",
@@ -87,10 +164,18 @@
       "office": "Justice of the Supreme Court",
       "detail": "Full term commencing January 1, 2027",
       "candidates": [
-        { "name": "Daniel R. Hawkins", "party": "REP" },
-        { "name": "Marilyn Zayas", "party": "DEM" }
+        {
+          "name": "Daniel R. Hawkins",
+          "party": "REP"
+        },
+        {
+          "name": "Marilyn Zayas",
+          "party": "DEM"
+        }
       ],
-      "sources": ["trumbull-46day"]
+      "sources": [
+        "trumbull-46day"
+      ]
     },
     {
       "id": "supreme-court-2027-01-02",
@@ -98,10 +183,18 @@
       "office": "Justice of the Supreme Court",
       "detail": "Full term commencing January 2, 2027",
       "candidates": [
-        { "name": "Jennifer Brunner", "party": "DEM" },
-        { "name": "Colleen O'Donnell", "party": "REP" }
+        {
+          "name": "Jennifer Brunner",
+          "party": "DEM"
+        },
+        {
+          "name": "Colleen O'Donnell",
+          "party": "REP"
+        }
       ],
-      "sources": ["trumbull-46day"]
+      "sources": [
+        "trumbull-46day"
+      ]
     }
   ],
   "issues": [
@@ -121,7 +214,9 @@
         "If approved, the amendment shall take effect immediately."
       ],
       "yesNo": "A YES vote means approval of the amendment. A NO vote means disapproval of the amendment.",
-      "sources": ["trumbull-46day"]
+      "sources": [
+        "trumbull-46day"
+      ]
     }
   ]
 }
