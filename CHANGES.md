@@ -99,3 +99,29 @@ Data notes:
 - Clark: Harmony Township's two 1-mill EMS renewals and Bethel Township's three 2-mill fire renewals differ only in the amount collected; each is noted. The probate judge's term start isn't in the notice and is left off.
 - Richland: Galion's two council-term questions apply to its small Richland piece (precinct Sandusky split 3) and are shown under Sandusky Township. The Village of Lucas income tax prints "commencing 1/1/2026", kept as printed.
 
+# Oct 30, 2026 (Miami, Allen, Tuscarawas, Muskingum, Ross, Erie, Hancock, Scioto, Belmont, Jefferson)
+
+- Full ballots for ten more counties (36 with local data now, plus Trumbull's original), each from the Board's 46-day FWAB notice:
+  - Miami: 9 contests, 13 issues, plus the Board's separate notice for the Piqua special election held the same day (data-center charter amendment and three recall questions).
+  - Allen: 6 contests, 10 issues (notice posted as a Dropbox file linked from the Board's election page).
+  - Tuscarawas: 9 contests, 27 issues, checked against the certified candidates and issues list.
+  - Muskingum: 9 contests, 18 issues.
+  - Ross: 8 contests, 9 issues, checked against the candidate list (scanned, read with OCR) and issues list; Waverly CSD and Miami Trace LSD details from the Pike and Fayette Boards' notices.
+  - Erie: 7 contests, 22 issues, checked against the candidate and issue filings.
+  - Hancock: 8 contests, 7 issues, checked against the Board's candidate and issues lists (Google Docs).
+  - Scioto: 9 contests, 13 issues, with wording and estimates from the Board's precinct sample ballots.
+  - Belmont: 10 contests, 17 issues.
+  - Jefferson: 9 contests, 18 issues, checked against the candidate list, issue list and all 92 precinct sample ballots.
+
+Data notes:
+- Only Tuscarawas, Erie and Jefferson number their local issues; the others use descriptive ids and the sample-ballot note.
+- 5th District Court of Appeals (Matthew George): on the other 5th District counties' ballots but in neither Tuscarawas document, so it is not listed for Tuscarawas.
+- 4th District Court of Appeals: Scioto's 46-day notice lists Peter B. Abele, but its sample ballots (updated Oct 12) and Ross's Oct 8 candidate list have Jayme Hartley Fountain (REP) vs Todd L. Grace (DEM); both counties use the latter.
+- Miami: Piqua's Ward 1, 3 and 5 successor candidates weren't named in the special-election notice and aren't listed. Montgomery's City of Union income tax (Issue 21) is not on Miami's notice although 21 Union voters live in Miami County; not added.
+- Ross: Dan D. Cryder (commissioner) is on the Oct 5 notice but not the Oct 8 candidate list; left out.
+- North Baltimore LSD income tax: Hancock's full ballot wording says it renews a tax expiring at the end of 2027; Wood's entry follows Wood's shorter issues list.
+- Erie's Vermilion items reuse Lorain's titles and wording under Erie's own issue numbers.
+- Barnhill (Tuscarawas) and Rarden (Scioto) vote on surrendering their village corporate powers. Tuscarawas Issue 4 is a Claymont CSD levy decrease by petition.
+- Renames: Allen's reversed township names ("Township Sugar Creek"), Muskingum's "FRAZEYBURG" (Frazeysburg), Jefferson's "MT PLEASANT TWP".
+- Misprints kept out: Belmont's Holloway levy "$42,000 for each $100,000" (only the annual figure is shown); Jefferson's 9-1-1 levy years follow the issue list and ballots, not the notice.
+

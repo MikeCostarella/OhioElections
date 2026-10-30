@@ -1,0 +1,370 @@
+{
+  "scope": "county",
+  "county": "Hancock",
+  "fips": "39063",
+  "election": "2026-11-03",
+  "retrieved": "2026-10-30",
+  "notes": [
+    "Taken from the Board of Elections' 46-day election notice, which lists every contest and issue with the precincts that vote on it, checked against the Board's candidate list and issues list (which gives the full ballot wording).",
+    "Candidates are listed alphabetically by last name, not in ballot order: Ohio rotates the order of names from precinct to precinct. Certified write-in candidates are not printed on the ballot and are not listed.",
+    "\"Where you live\" uses the state voter file: a district or school levy is shown for a city, village or township when any of its voters live in that district. Your exact ballot depends on your precinct.",
+    "The Board's notice and issues list do not give local issue numbers; see your sample ballot for them."
+  ],
+  "places": [
+    "Allen Township",
+    "Amanda Township",
+    "Arcadia Village",
+    "Arlington Village",
+    "Benton Ridge Village",
+    "Biglick Township",
+    "Blanchard Township",
+    "Bluffton Village",
+    "Cass Township",
+    "Delaware Township",
+    "Eagle Township",
+    "Findlay City",
+    "Fostoria City",
+    "Jackson Township",
+    "Jenera Village",
+    "Liberty Township",
+    "Madison Township",
+    "Marion Township",
+    "McComb Village",
+    "Mount Blanchard Village",
+    "Mount Cory Village",
+    "Orange Township",
+    "Pleasant Township",
+    "Portage Township",
+    "Rawson Village",
+    "Union Township",
+    "Van Buren Township",
+    "Van Buren Village",
+    "Vanlue Village",
+    "Washington Township"
+  ],
+  "sources": {
+    "hancock-46day": {
+      "label": "Hancock County Board of Elections: 46-day election notice (FWAB), November 3, 2026 General Election (September 18, 2026)",
+      "url": "https://hancockcountyohioelections.gov/wp-content/uploads/2026/09/46Day-Notice-G26-1.pdf"
+    },
+    "hancock-cand": {
+      "label": "Hancock County Board of Elections: candidates for the November 3, 2026 General Election (revised August 12, 2026)",
+      "url": "https://docs.google.com/document/d/1hsyr289kQ_Q32VhOIQeOn_fEeRk04fQecBoveOXyc4Y/view"
+    },
+    "hancock-issues": {
+      "label": "Hancock County Board of Elections: issues for the November 3, 2026 General Election (with ballot wording)",
+      "url": "https://docs.google.com/document/d/1NHuHpLqr9Nbrvb-8wiMyaXkd9bW9eZsSHnv_ihl2z2k/view"
+    }
+  },
+  "links": [
+    {
+      "label": "Board of Elections",
+      "url": "https://hancockcountyohioelections.gov/"
+    },
+    {
+      "label": "What's on the ballot",
+      "url": "https://hancockcountyohioelections.gov/whats-on-the-november-3-2026-general-election-ballot/"
+    },
+    {
+      "label": "Am I registered? / Sample ballot",
+      "url": "https://hancock-voterview.boe.ohio.gov/VoterView/RegistrantSearch.do"
+    },
+    {
+      "label": "Polling locations",
+      "url": "https://hancockcountyohioelections.gov/polling-locations/"
+    }
+  ],
+  "results": {
+    "status": "upcoming",
+    "links": [
+      {
+        "label": "Board of Elections: live election results",
+        "url": "https://hancockcountyohioelections.gov/live/"
+      },
+      {
+        "label": "Board of Elections: past election results",
+        "url": "https://hancockcountyohioelections.gov/past-election-results/"
+      }
+    ]
+  },
+  "contests": [
+    {
+      "id": "congress-5",
+      "group": "U.S. House",
+      "office": "Representative to Congress",
+      "detail": "5th District",
+      "candidates": [
+        {
+          "name": "Bob Latta",
+          "party": "REP"
+        },
+        {
+          "name": "Brian A. Shaver",
+          "party": "DEM"
+        },
+        {
+          "name": "Michael J. Veloff",
+          "party": "LIB"
+        }
+      ],
+      "sources": [
+        "hancock-46day",
+        "hancock-cand"
+      ]
+    },
+    {
+      "id": "senate-1",
+      "group": "Ohio General Assembly",
+      "office": "State Senator",
+      "detail": "1st District",
+      "candidates": [
+        {
+          "name": "Craig S. Riedel",
+          "party": "REP"
+        }
+      ],
+      "sources": [
+        "hancock-46day",
+        "hancock-cand"
+      ]
+    },
+    {
+      "id": "rep-83",
+      "group": "Ohio General Assembly",
+      "office": "State Representative",
+      "detail": "83rd District",
+      "candidates": [
+        {
+          "name": "Sheila Coressel",
+          "party": "DEM"
+        },
+        {
+          "name": "Ty Mathews",
+          "party": "REP"
+        }
+      ],
+      "sources": [
+        "hancock-46day",
+        "hancock-cand"
+      ]
+    },
+    {
+      "id": "appeals-3-0209",
+      "group": "Ohio Court of Appeals",
+      "office": "Judge of the Court of Appeals",
+      "detail": "3rd District · full term commencing February 9, 2027",
+      "candidates": [
+        {
+          "name": "Mark C. Miller",
+          "party": "REP"
+        }
+      ],
+      "sources": [
+        "hancock-46day",
+        "hancock-cand"
+      ]
+    },
+    {
+      "id": "commissioner",
+      "group": "County offices",
+      "office": "County Commissioner",
+      "detail": "Full term commencing January 1, 2027",
+      "candidates": [
+        {
+          "name": "Timothy K. Bechtol",
+          "party": "REP"
+        }
+      ],
+      "sources": [
+        "hancock-46day",
+        "hancock-cand"
+      ]
+    },
+    {
+      "id": "auditor",
+      "group": "County offices",
+      "office": "County Auditor",
+      "detail": "Full term commencing March 9, 2027",
+      "candidates": [
+        {
+          "name": "Charity Rauschenberg",
+          "party": "REP"
+        }
+      ],
+      "sources": [
+        "hancock-46day",
+        "hancock-cand"
+      ]
+    },
+    {
+      "id": "cp-gen",
+      "group": "Court of Common Pleas",
+      "office": "Judge of the Court of Common Pleas",
+      "detail": "Full term commencing January 1, 2027 · no party label on the ballot",
+      "candidates": [
+        {
+          "name": "Jonathan P. Starn"
+        }
+      ],
+      "sources": [
+        "hancock-46day",
+        "hancock-cand"
+      ]
+    },
+    {
+      "id": "cp-probate-juvenile",
+      "group": "Court of Common Pleas",
+      "office": "Judge of the Court of Common Pleas, Probate and Juvenile Division",
+      "detail": "Full term commencing February 9, 2027 · no party label on the ballot",
+      "candidates": [
+        {
+          "name": "Kristen K. Johnson"
+        }
+      ],
+      "sources": [
+        "hancock-46day",
+        "hancock-cand"
+      ]
+    }
+  ],
+  "issues": [
+    {
+      "id": "ada-library",
+      "kind": "levy",
+      "jurisdiction": "Ada Public Library",
+      "title": "Tax levy (renewal): Current expenses of the Library",
+      "area": "Orange Township precinct Orange (54.02)",
+      "places": [
+        "Orange Township"
+      ],
+      "levy": {
+        "type": "Renewal",
+        "purpose": "Current expenses of the Library.",
+        "mills": "1 mill",
+        "term": "5 years, commencing in 2027",
+        "firstDue": "2028",
+        "estimate": "$102,209 per year"
+      },
+      "sources": [
+        "hancock-46day",
+        "hancock-issues"
+      ]
+    },
+    {
+      "id": "fostoria-current",
+      "kind": "levy",
+      "jurisdiction": "City of Fostoria (Hancock, Seneca and Wood)",
+      "title": "Tax levy (renewal): Current expenses",
+      "area": "Fostoria City (Hancock County part: Fostoria South 33.01 and Fostoria North 34.01)",
+      "places": [
+        "Fostoria City"
+      ],
+      "levy": {
+        "type": "Renewal",
+        "purpose": "Current expenses.",
+        "mills": "6 mills",
+        "term": "5 years, commencing in 2027",
+        "firstDue": "2028",
+        "estimate": "$1,047,593 per year"
+      },
+      "sources": [
+        "hancock-46day",
+        "hancock-issues"
+      ]
+    },
+    {
+      "id": "adamhs",
+      "kind": "levy",
+      "jurisdiction": "Hancock County",
+      "title": "Tax levy (renewal): Hancock County Board of Alcohol, Drug Addiction and Mental Health Services: continued operations and the expansion of mental health and substance abuse services",
+      "area": "Hancock County",
+      "levy": {
+        "type": "Renewal",
+        "purpose": "Hancock County Board of Alcohol, Drug Addiction and Mental Health Services: continued operations and the expansion of mental health and substance abuse services.",
+        "mills": "1.3 mills",
+        "term": "5 years, commencing in 2027",
+        "firstDue": "2028",
+        "estimate": "$3,043,393 per year"
+      },
+      "sources": [
+        "hancock-46day",
+        "hancock-issues"
+      ]
+    },
+    {
+      "id": "aging",
+      "kind": "levy",
+      "jurisdiction": "Hancock County",
+      "title": "Tax levy (renewal): Hancock County Agency on Aging (now 50 North): continued operations and the expansion of services to senior residents",
+      "area": "Hancock County",
+      "levy": {
+        "type": "Renewal",
+        "purpose": "Hancock County Agency on Aging (now 50 North): continued operations and the expansion of services to senior residents.",
+        "mills": "1.2 mills",
+        "term": "5 years, commencing in 2027",
+        "firstDue": "2028",
+        "estimate": "$2,566,887 per year"
+      },
+      "sources": [
+        "hancock-46day",
+        "hancock-issues"
+      ]
+    },
+    {
+      "id": "liquor-marathon-center",
+      "kind": "liquor",
+      "jurisdiction": "City of Findlay",
+      "title": "Local liquor option: Marathon Center for the Performing Arts (Sunday)",
+      "area": "Findlay precinct 6C (26.01)",
+      "places": [
+        "Findlay City"
+      ],
+      "text": "Local option (question 2): Sunday sale of wine and mixed beverages, and spirituous liquor by Hancock County Performing Arts Center, dba Marathon Center for the Performing Arts (D-6 permit), 200 West Main Cross Street, Findlay.",
+      "sources": [
+        "hancock-46day",
+        "hancock-issues"
+      ]
+    },
+    {
+      "id": "mccomb-bond",
+      "kind": "levy",
+      "jurisdiction": "McComb Local School District (Hancock and Wood)",
+      "title": "School district income tax (0.25%) and bond issue ($23,815,000)",
+      "area": "McComb Local School District (Hancock County part: Blanchard 39.02, Liberty NW 46.02, McComb 53.01, Pleasant 55.01, Portage 56.01)",
+      "places": [
+        "Blanchard Township",
+        "Liberty Township",
+        "McComb Village",
+        "Pleasant Township",
+        "Portage Township"
+      ],
+      "levy": {
+        "type": "Income tax and bond issue",
+        "purpose": "Income tax; bonds for constructing school facilities.",
+        "mills": "6.99 mills (bond)",
+        "term": "Income tax beginning January 1, 2027; bonds up to 37 years",
+        "estimate": "$23,815,000 principal"
+      },
+      "text": "Income tax of 0.25% beginning January 1, 2027, and bonds of $23,815,000 for constructing school facilities, repaid over a maximum of 37 years, with a levy estimated at 6.99 mills.",
+      "sources": [
+        "hancock-46day",
+        "hancock-issues"
+      ]
+    },
+    {
+      "id": "north-baltimore-income-tax",
+      "kind": "question",
+      "jurisdiction": "North Baltimore Local School District (Hancock and Wood)",
+      "title": "School district income tax: 1%, 5 years, for current expenses",
+      "area": "North Baltimore Local School District (Hancock County part: Allen West 36.02)",
+      "places": [
+        "Allen Township"
+      ],
+      "text": "Shall an annual income tax of 1% on the earned income of individuals residing in the school district be imposed by the North Baltimore Local School District to renew an income tax expiring at the end of 2027, for 5 years, beginning January 1, 2028, for the purpose of current expenses?",
+      "sources": [
+        "hancock-46day",
+        "hancock-issues"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,430 @@
+{
+  "scope": "county",
+  "county": "Ross",
+  "fips": "39141",
+  "election": "2026-11-03",
+  "retrieved": "2026-10-30",
+  "notes": [
+    "Taken from the Board of Elections' 46-day election notice, which lists every contest and issue with the precincts that vote on it, checked against the Board's candidate list and issue list. Issue wording is the Board's summary; the full wording is on the sample ballot. The Waverly City and Miami Trace school issues are filed in Pike and Fayette counties; their details are from those Boards' notices.",
+    "Candidates are listed alphabetically by last name, not in ballot order: Ohio rotates the order of names from precinct to precinct. Certified write-in candidates are not printed on the ballot and are not listed.",
+    "\"Where you live\" uses the state voter file: a district or school levy is shown for a city, village or township when any of its voters live in that district. Your exact ballot depends on your precinct.",
+    "The Board's notice and issue list do not give local issue numbers; see your sample ballot for them.",
+    "The 46-day notice also lists Dan D. Cryder (no party) for County Commissioner; he is not on the Board's candidate list of October 8, 2026, so he is not listed here."
+  ],
+  "places": [
+    "Adelphi Village",
+    "Bainbridge Village",
+    "Buckskin Township",
+    "Chillicothe City",
+    "Clarksburg Village",
+    "Colerain Township",
+    "Concord Township",
+    "Deerfield Township",
+    "Frankfort Village",
+    "Franklin Township",
+    "Green Township",
+    "Harrison Township",
+    "Huntington Township",
+    "Jefferson Township",
+    "Kingston Village",
+    "Liberty Township",
+    "Paint Township",
+    "Paxton Township",
+    "Scioto Township",
+    "South Salem Village",
+    "Springfield Township",
+    "Twin Township",
+    "Union Township"
+  ],
+  "sources": {
+    "ross-46day": {
+      "label": "Ross County Board of Elections: 46-day election notice (FWAB), November 3, 2026 General Election (revised October 5, 2026)",
+      "url": "https://www.boe.ohio.gov/ross/c/upload/FWAB_11November46Day.pdf"
+    },
+    "ross-cand": {
+      "label": "Ross County Board of Elections: candidate list, November 3, 2026 General Election (October 8, 2026)",
+      "url": "https://www.boe.ohio.gov/ross/c/upload/ELECTION_Candidates.pdf"
+    },
+    "ross-issues": {
+      "label": "Ross County Board of Elections: issue list, November 3, 2026 General Election",
+      "url": "https://www.boe.ohio.gov/ross/c/upload/ELECTION_Issues.pdf"
+    },
+    "pike-46day": {
+      "label": "Pike County Board of Elections: 46-day election notice (FWAB), November 3, 2026 General Election (Waverly City School District income tax)",
+      "url": "https://www.boe.ohio.gov/pike/c/upload/FWAB_11November46Day.pdf"
+    },
+    "fayette-46day": {
+      "label": "Fayette County Board of Elections: 46-day election notice (FWAB), November 3, 2026 General Election (Miami Trace Local School District levy)",
+      "url": "https://www.boe.ohio.gov/fayette/c/upload/FWAB_11November46Day.pdf"
+    }
+  },
+  "links": [
+    {
+      "label": "Board of Elections",
+      "url": "https://www.boe.ohio.gov/ross/"
+    },
+    {
+      "label": "Candidates & Issues",
+      "url": "https://www.boe.ohio.gov/ross/election-info/candidates-issues/"
+    },
+    {
+      "label": "Sample ballots by precinct",
+      "url": "https://lookup.boe.ohio.gov/vtrapp/ross/ballotlist.aspx"
+    }
+  ],
+  "results": {
+    "status": "upcoming",
+    "links": [
+      {
+        "label": "Board of Elections: election results",
+        "url": "https://www.boe.ohio.gov/ross/election-info/election-results/"
+      }
+    ]
+  },
+  "contests": [
+    {
+      "id": "congress-2",
+      "group": "U.S. House",
+      "office": "Representative to Congress",
+      "detail": "2nd District",
+      "candidates": [
+        {
+          "name": "Jen Mazzuckelli",
+          "party": "DEM"
+        },
+        {
+          "name": "David J. Taylor",
+          "party": "REP"
+        }
+      ],
+      "sources": [
+        "ross-46day",
+        "ross-cand"
+      ]
+    },
+    {
+      "id": "senate-17",
+      "group": "Ohio General Assembly",
+      "office": "State Senator",
+      "detail": "17th District",
+      "candidates": [
+        {
+          "name": "Brian A. Deer",
+          "party": "DEM"
+        },
+        {
+          "name": "Shane Wilkin",
+          "party": "REP"
+        }
+      ],
+      "sources": [
+        "ross-46day",
+        "ross-cand"
+      ]
+    },
+    {
+      "id": "rep-91",
+      "group": "Ohio General Assembly",
+      "office": "State Representative",
+      "detail": "91st District",
+      "area": "Bainbridge Village, Buckskin Township, Clarksburg Village, Concord Township, Deerfield Township, Frankfort Village, Paint Township, Paxton Township, South Salem Village, Twin Township",
+      "places": [
+        "Bainbridge Village",
+        "Buckskin Township",
+        "Clarksburg Village",
+        "Concord Township",
+        "Deerfield Township",
+        "Frankfort Village",
+        "Paint Township",
+        "Paxton Township",
+        "South Salem Village",
+        "Twin Township"
+      ],
+      "candidates": [
+        {
+          "name": "Bob Peterson",
+          "party": "REP"
+        },
+        {
+          "name": "Amy Wright",
+          "party": "DEM"
+        }
+      ],
+      "sources": [
+        "ross-46day",
+        "ross-cand"
+      ]
+    },
+    {
+      "id": "rep-92",
+      "group": "Ohio General Assembly",
+      "office": "State Representative",
+      "detail": "92nd District",
+      "area": "Adelphi Village, Chillicothe City, Colerain Township, Franklin Township, Green Township, Harrison Township, Huntington Township, Jefferson Township, Kingston Village, Liberty Township, Scioto Township, Springfield Township, Union Township",
+      "places": [
+        "Adelphi Village",
+        "Chillicothe City",
+        "Colerain Township",
+        "Franklin Township",
+        "Green Township",
+        "Harrison Township",
+        "Huntington Township",
+        "Jefferson Township",
+        "Kingston Village",
+        "Liberty Township",
+        "Scioto Township",
+        "Springfield Township",
+        "Union Township"
+      ],
+      "candidates": [
+        {
+          "name": "Mark Johnson",
+          "party": "REP"
+        },
+        {
+          "name": "Sarah Senff",
+          "party": "DEM"
+        }
+      ],
+      "sources": [
+        "ross-46day",
+        "ross-cand"
+      ]
+    },
+    {
+      "id": "appeals-4-0209",
+      "group": "Ohio Court of Appeals",
+      "office": "Judge of the Court of Appeals",
+      "detail": "4th District · full term commencing February 9, 2027",
+      "candidates": [
+        {
+          "name": "Jayme Hartley Fountain",
+          "party": "REP"
+        },
+        {
+          "name": "Todd L. Grace",
+          "party": "DEM"
+        }
+      ],
+      "sources": [
+        "ross-46day",
+        "ross-cand"
+      ]
+    },
+    {
+      "id": "commissioner",
+      "group": "County offices",
+      "office": "County Commissioner",
+      "detail": "Full term commencing January 1, 2027",
+      "candidates": [
+        {
+          "name": "David S. Pinkerton",
+          "party": "REP"
+        }
+      ],
+      "sources": [
+        "ross-46day",
+        "ross-cand"
+      ]
+    },
+    {
+      "id": "auditor",
+      "group": "County offices",
+      "office": "County Auditor",
+      "detail": "Full term commencing March 8, 2027",
+      "candidates": [
+        {
+          "name": "Jeff Lehner",
+          "party": "REP"
+        }
+      ],
+      "sources": [
+        "ross-46day",
+        "ross-cand"
+      ]
+    },
+    {
+      "id": "cp-probate-juvenile",
+      "group": "Court of Common Pleas",
+      "office": "Judge of the Court of Common Pleas, Probate/Juvenile Division",
+      "detail": "Full term commencing February 9, 2027 · no party label on the ballot",
+      "candidates": [
+        {
+          "name": "Jeffrey C. Marks"
+        }
+      ],
+      "sources": [
+        "ross-46day",
+        "ross-cand"
+      ]
+    }
+  ],
+  "issues": [
+    {
+      "id": "chillicothe-csd-income-tax",
+      "kind": "question",
+      "jurisdiction": "Chillicothe City School District",
+      "title": "School district income tax: 0.75 percent, 5 years, current expenses",
+      "area": "Chillicothe city precincts 1-A to 6-C (parts of 1-C, 1-D, 2-C and 3-D)",
+      "places": [
+        "Chillicothe City",
+        "Scioto Township"
+      ],
+      "text": "An annual income tax of 0.75 percent on the earned income of individuals residing in the school district, for 5 years, for current expenses.",
+      "sources": [
+        "ross-issues",
+        "ross-46day"
+      ]
+    },
+    {
+      "id": "chillicothe-street-income-tax",
+      "kind": "question",
+      "jurisdiction": "City of Chillicothe",
+      "title": "Municipal income tax: 0.2 percent for street paving, repairs and improvements",
+      "area": "Chillicothe city precincts 1-A to 6-C",
+      "places": [
+        "Chillicothe City"
+      ],
+      "text": "A levy of 0.2 percent on income, for the exclusive purpose of street paving, repairs, and improvements.",
+      "sources": [
+        "ross-issues",
+        "ross-46day"
+      ]
+    },
+    {
+      "id": "waverly-csd-income-tax",
+      "kind": "question",
+      "jurisdiction": "Waverly City School District (Pike and Ross)",
+      "title": "School district income tax: 0.5 percent, 5 years, current expenses",
+      "area": "Precinct Franklin South/2 (part of Franklin Township)",
+      "places": [
+        "Franklin Township"
+      ],
+      "text": "Shall an annual income tax of 0.5 per cent on the earned income of individuals residing in the school district be imposed by the Waverly City School District, for a period of 5 years, beginning January 1, 2027, for the purpose of current expenses?",
+      "sources": [
+        "ross-46day",
+        "pike-46day"
+      ]
+    },
+    {
+      "id": "miami-trace-renewal",
+      "kind": "levy",
+      "jurisdiction": "Miami Trace Local School District (Fayette and Ross)",
+      "title": "Tax levy (renewal): Current operating expenses",
+      "area": "Precinct Concord Austin/2 (part of Concord Township)",
+      "places": [
+        "Concord Township"
+      ],
+      "levy": {
+        "type": "Renewal",
+        "purpose": "Current operating expenses.",
+        "mills": "1.9 mills",
+        "term": "5 years",
+        "firstDue": "2028"
+      },
+      "note": "The Ross Board's notice describes this as a fixed-sum levy renewing an existing levy for current operating expenses; the millage, term and first year due are from the Fayette County Board's notice.",
+      "sources": [
+        "ross-46day",
+        "fayette-46day"
+      ]
+    },
+    {
+      "id": "paint-valley-pi",
+      "kind": "levy",
+      "jurisdiction": "Paint Valley Local School District",
+      "title": "Tax levy (renewal): Permanent improvements",
+      "area": "Paint Valley Local School District",
+      "places": [
+        "Bainbridge Village",
+        "Paint Township",
+        "Paxton Township",
+        "Twin Township"
+      ],
+      "levy": {
+        "type": "Renewal",
+        "purpose": "Permanent improvements.",
+        "mills": "2.5 mills",
+        "term": "5 years"
+      },
+      "sources": [
+        "ross-issues",
+        "ross-46day"
+      ]
+    },
+    {
+      "id": "huntington-twp-fire",
+      "kind": "levy",
+      "jurisdiction": "Huntington Township",
+      "title": "Tax levy (renewal): Fire and EMS purposes",
+      "area": "Huntington Township precincts Hunt North, Hunt East, Hunt South and Hunt West",
+      "places": [
+        "Huntington Township"
+      ],
+      "levy": {
+        "type": "Renewal",
+        "purpose": "Fire and EMS purposes.",
+        "mills": "1 mill",
+        "term": "5 years"
+      },
+      "sources": [
+        "ross-issues",
+        "ross-46day"
+      ]
+    },
+    {
+      "id": "huntington-twp-electric-aggregation",
+      "kind": "question",
+      "jurisdiction": "Huntington Township",
+      "title": "Electricity aggregation (opt-out)",
+      "area": "Huntington Township precincts Hunt North, Hunt East, Hunt South and Hunt West",
+      "places": [
+        "Huntington Township"
+      ],
+      "text": "Proposed ordinance authorizing electricity aggregation with opt-out provisions.",
+      "sources": [
+        "ross-issues",
+        "ross-46day"
+      ]
+    },
+    {
+      "id": "bainbridge-operating-2",
+      "kind": "levy",
+      "jurisdiction": "Village of Bainbridge",
+      "title": "Tax levy (renewal): Operating expenses",
+      "area": "Precinct Paxton Bainbridge",
+      "places": [
+        "Bainbridge Village"
+      ],
+      "levy": {
+        "type": "Renewal",
+        "purpose": "Operating expenses.",
+        "mills": "2 mills",
+        "term": "5 years"
+      },
+      "sources": [
+        "ross-issues",
+        "ross-46day"
+      ]
+    },
+    {
+      "id": "bainbridge-operating-29",
+      "kind": "levy",
+      "jurisdiction": "Village of Bainbridge",
+      "title": "Tax levy (renewal): Operating expenses",
+      "area": "Precinct Paxton Bainbridge",
+      "places": [
+        "Bainbridge Village"
+      ],
+      "levy": {
+        "type": "Renewal",
+        "purpose": "Operating expenses.",
+        "mills": "2.9 mills",
+        "term": "5 years"
+      },
+      "sources": [
+        "ross-issues",
+        "ross-46day"
+      ]
+    }
+  ]
+}

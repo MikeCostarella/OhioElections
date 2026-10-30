@@ -1,0 +1,854 @@
+{
+  "scope": "county",
+  "county": "Tuscarawas",
+  "fips": "39157",
+  "election": "2026-11-03",
+  "retrieved": "2026-10-30",
+  "notes": [
+    "Taken from the Board of Elections' 46-day election notice, which lists every contest and issue with the precincts that vote on it, checked against the Board's list of certified candidates and issues. Issue wording is the Board's summary; the full wording is on the sample ballot.",
+    "Candidates are listed alphabetically by last name, not in ballot order: Ohio rotates the order of names from precinct to precinct. Certified write-in candidates are not printed on the ballot and are not listed.",
+    "\"Where you live\" uses the state voter file: a district or school levy is shown for a city, village or township when any of its voters live in that district. Your exact ballot depends on your precinct."
+  ],
+  "places": [
+    "Auburn Township",
+    "Baltic Village",
+    "Barnhill Village",
+    "Bolivar Village",
+    "Bucks Township",
+    "Clay Township",
+    "Dennison Village",
+    "Dover City",
+    "Dover Township",
+    "Fairfield Township",
+    "Franklin Township",
+    "Gnadenhutten Village",
+    "Goshen Township",
+    "Jefferson Township",
+    "Lawrence Township",
+    "Midvale Village",
+    "Mill Township",
+    "Mineral City Village",
+    "New Philadelphia City",
+    "Newcomerstown Village",
+    "Oxford Township",
+    "Parral Village",
+    "Perry Township",
+    "Port Washington Village",
+    "Roswell Village",
+    "Rush Township",
+    "Salem Township",
+    "Sandy Township",
+    "Stone Creek Village",
+    "Strasburg Village",
+    "Sugarcreek Township",
+    "Sugarcreek Village",
+    "Tuscarawas Village",
+    "Uhrichsville City",
+    "Union Township",
+    "Warren Township",
+    "Warwick Township",
+    "Washington Township",
+    "Wayne Township",
+    "York Township",
+    "Zoar Village"
+  ],
+  "sources": {
+    "tuscarawas-46day": {
+      "label": "Tuscarawas County Board of Elections: 46-day election notice (FWAB), November 3, 2026 General Election (revised 9/18/2026)",
+      "url": "https://www.boe.ohio.gov/tuscarawas/c/upload/FWAB_11November46Day.pdf"
+    },
+    "tuscarawas-candiss": {
+      "label": "Tuscarawas County Board of Elections: official filings (certified candidates and issues), November 3, 2026 General Election",
+      "url": "https://www.boe.ohio.gov/tuscarawas/c/upload/election_candiss.pdf"
+    }
+  },
+  "links": [
+    {
+      "label": "Board of Elections",
+      "url": "https://www.boe.ohio.gov/tuscarawas/"
+    },
+    {
+      "label": "Election information",
+      "url": "https://www.boe.ohio.gov/tuscarawas/election-info/"
+    },
+    {
+      "label": "Sample ballots by precinct",
+      "url": "https://lookup.boe.ohio.gov/vtrapp/tuscarawas/ballotlist.aspx"
+    }
+  ],
+  "results": {
+    "status": "upcoming",
+    "links": [
+      {
+        "label": "Board of Elections: election results",
+        "url": "https://www.boe.ohio.gov/tuscarawas/"
+      }
+    ]
+  },
+  "contests": [
+    {
+      "id": "congress-6",
+      "group": "U.S. House",
+      "office": "Representative to Congress",
+      "detail": "6th District",
+      "candidates": [
+        {
+          "name": "Elizabeth Ann Kirtley",
+          "party": "DEM"
+        },
+        {
+          "name": "Michael A. Rulli",
+          "party": "REP"
+        }
+      ],
+      "sources": [
+        "tuscarawas-46day",
+        "tuscarawas-candiss"
+      ]
+    },
+    {
+      "id": "senate-31",
+      "group": "Ohio General Assembly",
+      "office": "State Senator",
+      "detail": "31st District",
+      "candidates": [
+        {
+          "name": "Laura Sirot",
+          "party": "DEM"
+        },
+        {
+          "name": "Al Landis",
+          "party": "REP"
+        }
+      ],
+      "sources": [
+        "tuscarawas-46day",
+        "tuscarawas-candiss"
+      ]
+    },
+    {
+      "id": "rep-51",
+      "group": "Ohio General Assembly",
+      "office": "State Representative",
+      "detail": "51st District",
+      "candidates": [
+        {
+          "name": "Amanda Fontana",
+          "party": "DEM"
+        },
+        {
+          "name": "Jodi Salvo",
+          "party": "REP"
+        }
+      ],
+      "sources": [
+        "tuscarawas-46day",
+        "tuscarawas-candiss"
+      ]
+    },
+    {
+      "id": "commissioner",
+      "group": "County offices",
+      "office": "County Commissioner",
+      "detail": "Full term commencing January 1, 2027",
+      "candidates": [
+        {
+          "name": "Kent A. Watson",
+          "party": "DEM"
+        },
+        {
+          "name": "Kristin R. Zemis",
+          "party": "REP"
+        }
+      ],
+      "sources": [
+        "tuscarawas-46day",
+        "tuscarawas-candiss"
+      ]
+    },
+    {
+      "id": "auditor",
+      "group": "County offices",
+      "office": "County Auditor",
+      "detail": "Full term commencing March 8, 2027",
+      "candidates": [
+        {
+          "name": "Joe Rinehart",
+          "party": "DEM"
+        },
+        {
+          "name": "Lisa Contini",
+          "party": "REP"
+        }
+      ],
+      "sources": [
+        "tuscarawas-46day",
+        "tuscarawas-candiss"
+      ]
+    },
+    {
+      "id": "prosecutor",
+      "group": "County offices",
+      "office": "Prosecuting Attorney",
+      "detail": "Unexpired term ending December 31, 2028",
+      "candidates": [
+        {
+          "name": "R. Scott Deedrick",
+          "party": "REP"
+        }
+      ],
+      "sources": [
+        "tuscarawas-46day",
+        "tuscarawas-candiss"
+      ]
+    },
+    {
+      "id": "cp-0101",
+      "group": "Court of Common Pleas",
+      "office": "Judge of the Court of Common Pleas",
+      "detail": "Unexpired term ending December 31, 2028 · no party label on the ballot",
+      "candidates": [
+        {
+          "name": "Ryan Styer"
+        },
+        {
+          "name": "Christine M. Weimer"
+        }
+      ],
+      "sources": [
+        "tuscarawas-46day",
+        "tuscarawas-candiss"
+      ]
+    },
+    {
+      "id": "cp-0102",
+      "group": "Court of Common Pleas",
+      "office": "Judge of the Court of Common Pleas",
+      "detail": "Full term commencing January 2, 2027 · no party label on the ballot",
+      "candidates": [
+        {
+          "name": "Michael J. Ernest"
+        }
+      ],
+      "sources": [
+        "tuscarawas-46day",
+        "tuscarawas-candiss"
+      ]
+    },
+    {
+      "id": "cp-probate",
+      "group": "Court of Common Pleas",
+      "office": "Judge of the Court of Common Pleas, Probate Division",
+      "detail": "Full term commencing February 9, 2027 · no party label on the ballot",
+      "candidates": [
+        {
+          "name": "Adam W. Wilgus"
+        }
+      ],
+      "sources": [
+        "tuscarawas-46day",
+        "tuscarawas-candiss"
+      ]
+    }
+  ],
+  "issues": [
+    {
+      "id": "issue-4",
+      "kind": "levy",
+      "jurisdiction": "Claymont City School District",
+      "title": "Tax levy decrease (by petition): 5 mills to 2 mills, current operating expenses and general permanent improvements",
+      "area": "Claymont City School District (precincts 0029–0032, 0057/1, 0057/2, 0058/1, 0059/1, 0065/1, 0074/1, 0077/2)",
+      "places": [
+        "Dennison Village",
+        "Mill Township",
+        "Rush Township",
+        "Uhrichsville City",
+        "Union Township",
+        "Warwick Township"
+      ],
+      "number": "Issue 4",
+      "levy": {
+        "type": "Decrease (by petition)",
+        "purpose": "Current operating expenses and general permanent improvements (continuing levy approved March 17, 2020).",
+        "mills": "From 5 mills to 2 mills",
+        "term": "Continuing period of time",
+        "estimate": "Now $1,309,022 a year ($127 for each $100,000 of market value); after the decrease $523,609 a year ($51 for each $100,000)"
+      },
+      "text": "Shall the rate of tax be reduced from 5 mills to 2 mills?",
+      "sources": [
+        "tuscarawas-46day",
+        "tuscarawas-candiss"
+      ]
+    },
+    {
+      "id": "issue-5",
+      "kind": "levy",
+      "jurisdiction": "Arrowhead Joint Fire District",
+      "title": "Tax levy (renewal): Current expenses",
+      "area": "Arrowhead Joint Fire District (precincts 0036/1, 0037/1, 0037/2: Gnadenhutten and Clay Township)",
+      "places": [
+        "Clay Township",
+        "Gnadenhutten Village"
+      ],
+      "levy": {
+        "type": "Renewal",
+        "purpose": "Current expenses.",
+        "mills": "4 mills",
+        "term": "5 years, commencing in 2027",
+        "firstDue": "2028",
+        "estimate": "$225,855 a year; $79 for each $100,000 of market value"
+      },
+      "number": "Issue 5",
+      "sources": [
+        "tuscarawas-46day",
+        "tuscarawas-candiss"
+      ]
+    },
+    {
+      "id": "issue-6",
+      "kind": "levy",
+      "jurisdiction": "Sandy Valley Local School District (Stark, Carroll and Tuscarawas)",
+      "title": "Tax levy (renewal): Current operating expenses",
+      "area": "Sandy Valley Local School District, Tuscarawas County part (precincts 0069/1, 0070/1)",
+      "places": [
+        "Sandy Township"
+      ],
+      "levy": {
+        "type": "Renewal",
+        "purpose": "Current operating expenses.",
+        "mills": "2.3 mills",
+        "term": "5 years, commencing in 2027",
+        "firstDue": "2028",
+        "estimate": "$750,000 a year; $81 for each $100,000 of market value"
+      },
+      "number": "Issue 6",
+      "sources": [
+        "tuscarawas-46day",
+        "tuscarawas-candiss"
+      ]
+    },
+    {
+      "id": "issue-7",
+      "kind": "levy",
+      "jurisdiction": "Goshen Township Fire District",
+      "title": "Tax levy (renewal): Fire and ambulance",
+      "area": "Goshen Township Fire District (precincts 0047/1–0047/3, 0048/1–0048/2, 0049/1–0049/2, 0050/1–0050/2)",
+      "places": [
+        "Goshen Township"
+      ],
+      "levy": {
+        "type": "Renewal",
+        "purpose": "Fire and ambulance.",
+        "mills": "2.15 mills",
+        "term": "5 years, commencing in 2027",
+        "firstDue": "2028",
+        "estimate": "$224,788 a year; $53 for each $100,000 of market value"
+      },
+      "number": "Issue 7",
+      "sources": [
+        "tuscarawas-46day",
+        "tuscarawas-candiss"
+      ]
+    },
+    {
+      "id": "issue-8",
+      "kind": "levy",
+      "jurisdiction": "Tuscarawas County",
+      "title": "Tax levy (additional): Community programs and services authorized by the county board of developmental disabilities, and developmental disabilities facilities",
+      "area": "All of Tuscarawas County",
+      "levy": {
+        "type": "Additional",
+        "purpose": "Community programs and services authorized by the county board of developmental disabilities, and developmental disabilities facilities.",
+        "mills": "1.2 mills",
+        "term": "10 years, commencing in 2026",
+        "firstDue": "2027",
+        "estimate": "$4,214,524 a year; $42 for each $100,000 of market value"
+      },
+      "number": "Issue 8",
+      "sources": [
+        "tuscarawas-46day",
+        "tuscarawas-candiss"
+      ]
+    },
+    {
+      "id": "issue-9",
+      "kind": "levy",
+      "jurisdiction": "City of New Philadelphia",
+      "title": "Tax levy (additional): Parks and recreation",
+      "area": "City of New Philadelphia",
+      "places": [
+        "New Philadelphia City"
+      ],
+      "levy": {
+        "type": "Additional",
+        "purpose": "Parks and recreation.",
+        "mills": "2.4 mills",
+        "term": "5 years, commencing in 2026",
+        "firstDue": "2027",
+        "estimate": "$1,335,678 a year; $84 for each $100,000 of market value"
+      },
+      "number": "Issue 9",
+      "sources": [
+        "tuscarawas-46day",
+        "tuscarawas-candiss"
+      ]
+    },
+    {
+      "id": "issue-10",
+      "kind": "levy",
+      "jurisdiction": "City of Uhrichsville",
+      "title": "Tax levy (renewal): Current expenses",
+      "area": "City of Uhrichsville",
+      "places": [
+        "Uhrichsville City"
+      ],
+      "levy": {
+        "type": "Renewal",
+        "purpose": "Current expenses.",
+        "mills": "2.8 mills",
+        "term": "5 years, commencing in 2026",
+        "firstDue": "2027",
+        "estimate": "$141,637 a year; $41 for each $100,000 of market value"
+      },
+      "number": "Issue 10",
+      "sources": [
+        "tuscarawas-46day",
+        "tuscarawas-candiss"
+      ]
+    },
+    {
+      "id": "issue-11",
+      "kind": "question",
+      "jurisdiction": "Village of Barnhill",
+      "title": "Surrender of corporate powers (by petition)",
+      "area": "Village of Barnhill",
+      "places": [
+        "Barnhill Village"
+      ],
+      "number": "Issue 11",
+      "text": "Shall the village known as Village of Barnhill surrender its corporate power?",
+      "sources": [
+        "tuscarawas-46day",
+        "tuscarawas-candiss"
+      ]
+    },
+    {
+      "id": "issue-12",
+      "kind": "levy",
+      "jurisdiction": "Village of Bolivar",
+      "title": "Tax levy (renewal): Street construction projects",
+      "area": "Village of Bolivar",
+      "places": [
+        "Bolivar Village"
+      ],
+      "levy": {
+        "type": "Renewal",
+        "purpose": "Street construction projects.",
+        "mills": "2.9 mills",
+        "term": "5 years, commencing in 2027",
+        "firstDue": "2028",
+        "estimate": "$33,396 a year; $40 for each $100,000 of market value"
+      },
+      "number": "Issue 12",
+      "sources": [
+        "tuscarawas-46day",
+        "tuscarawas-candiss"
+      ]
+    },
+    {
+      "id": "issue-13",
+      "kind": "levy",
+      "jurisdiction": "Village of Bolivar",
+      "title": "Tax levy (renewal): Current expenses",
+      "area": "Village of Bolivar",
+      "places": [
+        "Bolivar Village"
+      ],
+      "levy": {
+        "type": "Renewal",
+        "purpose": "Current expenses.",
+        "mills": "1.8 mills",
+        "term": "5 years, commencing in 2027",
+        "firstDue": "2028",
+        "estimate": "$20,729 a year; $25 for each $100,000 of market value"
+      },
+      "number": "Issue 13",
+      "sources": [
+        "tuscarawas-46day",
+        "tuscarawas-candiss"
+      ]
+    },
+    {
+      "id": "issue-14",
+      "kind": "levy",
+      "jurisdiction": "Village of Dennison",
+      "title": "Tax levy (renewal): Current operating expenses",
+      "area": "Village of Dennison",
+      "places": [
+        "Dennison Village"
+      ],
+      "levy": {
+        "type": "Renewal",
+        "purpose": "Current operating expenses.",
+        "mills": "1.5 mills",
+        "term": "5 years, commencing in 2027",
+        "firstDue": "2028",
+        "estimate": "$48,988 a year; $25 for each $100,000 of market value"
+      },
+      "number": "Issue 14",
+      "sources": [
+        "tuscarawas-46day",
+        "tuscarawas-candiss"
+      ]
+    },
+    {
+      "id": "issue-15",
+      "kind": "levy",
+      "jurisdiction": "Village of Gnadenhutten",
+      "title": "Tax levy (renewal): Current operating expenses",
+      "area": "Village of Gnadenhutten",
+      "places": [
+        "Gnadenhutten Village"
+      ],
+      "levy": {
+        "type": "Renewal",
+        "purpose": "Current operating expenses.",
+        "mills": "3 mills",
+        "term": "5 years, commencing in 2027",
+        "firstDue": "2028",
+        "estimate": "$38,174 a year; $27 for each $100,000 of market value"
+      },
+      "number": "Issue 15",
+      "sources": [
+        "tuscarawas-46day",
+        "tuscarawas-candiss"
+      ]
+    },
+    {
+      "id": "issue-16",
+      "kind": "levy",
+      "jurisdiction": "Village of Roswell",
+      "title": "Tax levy (renewal and increase): Current operating expenses (renewal of 5 mills and increase of 0.5 mill)",
+      "area": "Village of Roswell",
+      "places": [
+        "Roswell Village"
+      ],
+      "levy": {
+        "type": "Renewal and increase",
+        "purpose": "Current operating expenses (renewal of 5 mills and increase of 0.5 mill).",
+        "mills": "5.5 mills",
+        "term": "5 years, commencing in 2027",
+        "firstDue": "2028",
+        "estimate": "$10,547 a year; $110 for each $100,000 of market value"
+      },
+      "number": "Issue 16",
+      "sources": [
+        "tuscarawas-46day",
+        "tuscarawas-candiss"
+      ]
+    },
+    {
+      "id": "issue-17",
+      "kind": "levy",
+      "jurisdiction": "Village of Roswell",
+      "title": "Tax levy (renewal and increase): Refuse service for village residents (renewal of 5.5 mills and increase of 2.1 mills)",
+      "area": "Village of Roswell",
+      "places": [
+        "Roswell Village"
+      ],
+      "levy": {
+        "type": "Renewal and increase",
+        "purpose": "Refuse service for village residents (renewal of 5.5 mills and increase of 2.1 mills).",
+        "mills": "7.6 mills",
+        "term": "5 years, commencing in 2027",
+        "firstDue": "2028",
+        "estimate": "$17,056 a year; $182 for each $100,000 of market value"
+      },
+      "number": "Issue 17",
+      "sources": [
+        "tuscarawas-46day",
+        "tuscarawas-candiss"
+      ]
+    },
+    {
+      "id": "issue-18",
+      "kind": "levy",
+      "jurisdiction": "Village of Sugarcreek",
+      "title": "Tax levy (renewal): Current expenses",
+      "area": "Village of Sugarcreek",
+      "places": [
+        "Sugarcreek Village"
+      ],
+      "levy": {
+        "type": "Renewal",
+        "purpose": "Current expenses.",
+        "mills": "2 mills",
+        "term": "5 years, commencing in 2026",
+        "firstDue": "2027",
+        "estimate": "$147,585 a year; $33 for each $100,000 of market value"
+      },
+      "number": "Issue 18",
+      "sources": [
+        "tuscarawas-46day",
+        "tuscarawas-candiss"
+      ]
+    },
+    {
+      "id": "issue-19",
+      "kind": "levy",
+      "jurisdiction": "Village of Tuscarawas",
+      "title": "Tax levy (renewal): Park maintenance",
+      "area": "Village of Tuscarawas",
+      "places": [
+        "Tuscarawas Village"
+      ],
+      "levy": {
+        "type": "Renewal",
+        "purpose": "Park maintenance.",
+        "mills": "1 mill",
+        "term": "5 years, commencing in 2026",
+        "firstDue": "2027",
+        "estimate": "$13,870 a year; $19 for each $100,000 of market value"
+      },
+      "number": "Issue 19",
+      "sources": [
+        "tuscarawas-46day",
+        "tuscarawas-candiss"
+      ]
+    },
+    {
+      "id": "issue-20",
+      "kind": "levy",
+      "jurisdiction": "Village of Tuscarawas",
+      "title": "Tax levy (additional): Police protection for village residents",
+      "area": "Village of Tuscarawas",
+      "places": [
+        "Tuscarawas Village"
+      ],
+      "levy": {
+        "type": "Additional",
+        "purpose": "Police protection for village residents.",
+        "mills": "2.8 mills",
+        "term": "Continuing period of time, commencing in 2026",
+        "firstDue": "2027",
+        "estimate": "$69,315 a year; $98 for each $100,000 of market value"
+      },
+      "number": "Issue 20",
+      "sources": [
+        "tuscarawas-46day",
+        "tuscarawas-candiss"
+      ]
+    },
+    {
+      "id": "issue-21",
+      "kind": "levy",
+      "jurisdiction": "Bucks Township (excluding the Village of Baltic)",
+      "title": "Tax levy (additional): General construction, reconstruction, resurfacing and repair of streets, roads and bridges",
+      "area": "Bucks Township outside Baltic (precincts 0035/1–0035/3)",
+      "places": [
+        "Bucks Township"
+      ],
+      "levy": {
+        "type": "Additional",
+        "purpose": "General construction, reconstruction, resurfacing and repair of streets, roads and bridges.",
+        "mills": "2 mills",
+        "term": "5 years, commencing in 2026",
+        "firstDue": "2027",
+        "estimate": "$100,233 a year; $70 for each $100,000 of market value"
+      },
+      "number": "Issue 21",
+      "sources": [
+        "tuscarawas-46day",
+        "tuscarawas-candiss"
+      ]
+    },
+    {
+      "id": "issue-22",
+      "kind": "levy",
+      "jurisdiction": "Fairfield Township",
+      "title": "Tax levy (renewal): Fire apparatus and fire alarm lines, and emergency ambulance and emergency medical services",
+      "area": "Fairfield Township",
+      "places": [
+        "Fairfield Township"
+      ],
+      "levy": {
+        "type": "Renewal",
+        "purpose": "Fire apparatus and fire alarm lines, and emergency ambulance and emergency medical services.",
+        "mills": "1.5 mills",
+        "term": "5 years, commencing in 2027",
+        "firstDue": "2028",
+        "estimate": "$29,051 a year; $6 for each $100,000 of market value"
+      },
+      "number": "Issue 22",
+      "sources": [
+        "tuscarawas-46day",
+        "tuscarawas-candiss"
+      ]
+    },
+    {
+      "id": "issue-23",
+      "kind": "levy",
+      "jurisdiction": "Oxford Township (excluding the Village of Newcomerstown)",
+      "title": "Tax levy (renewal): Fire protection",
+      "area": "Oxford Township outside Newcomerstown (precinct 0063/1)",
+      "places": [
+        "Oxford Township"
+      ],
+      "levy": {
+        "type": "Renewal",
+        "purpose": "Fire protection.",
+        "mills": "0.85 mill",
+        "term": "5 years, commencing in 2026",
+        "firstDue": "2027",
+        "estimate": "$48,357 a year; $21 for each $100,000 of market value"
+      },
+      "number": "Issue 23",
+      "sources": [
+        "tuscarawas-46day",
+        "tuscarawas-candiss"
+      ]
+    },
+    {
+      "id": "issue-24",
+      "kind": "levy",
+      "jurisdiction": "Union Township",
+      "title": "Tax levy (renewal): Fire and ambulance services",
+      "area": "Union Township (precincts 0074/1, 0074/2, plus the Union Township parts of Roswell 0047/5 and Dennison 0057/2)",
+      "places": [
+        "Dennison Village",
+        "Roswell Village",
+        "Union Township"
+      ],
+      "levy": {
+        "type": "Renewal",
+        "purpose": "Fire and ambulance services.",
+        "mills": "1 mill",
+        "term": "5 years, commencing in 2027",
+        "firstDue": "2028",
+        "estimate": "$40,673 a year; $18 for each $100,000 of market value"
+      },
+      "number": "Issue 24",
+      "sources": [
+        "tuscarawas-46day",
+        "tuscarawas-candiss"
+      ]
+    },
+    {
+      "id": "issue-25",
+      "kind": "levy",
+      "jurisdiction": "Warren Township",
+      "title": "Tax levy (renewal): Maintaining and operating cemeteries",
+      "area": "Warren Township",
+      "places": [
+        "Warren Township"
+      ],
+      "levy": {
+        "type": "Renewal",
+        "purpose": "Maintaining and operating cemeteries.",
+        "mills": "0.4 mill",
+        "term": "5 years, commencing in 2027",
+        "firstDue": "2028",
+        "estimate": "$40,010 a year; $8 for each $100,000 of market value"
+      },
+      "number": "Issue 25",
+      "sources": [
+        "tuscarawas-46day",
+        "tuscarawas-candiss"
+      ]
+    },
+    {
+      "id": "issue-26",
+      "kind": "levy",
+      "jurisdiction": "Warren Township",
+      "title": "Tax levy (renewal): Fire protection and ambulance service",
+      "area": "Warren Township",
+      "places": [
+        "Warren Township"
+      ],
+      "levy": {
+        "type": "Renewal",
+        "purpose": "Fire protection and ambulance service.",
+        "mills": "0.3 mill",
+        "term": "5 years, commencing in 2027",
+        "firstDue": "2028",
+        "estimate": "$29,091 a year; $5 for each $100,000 of market value"
+      },
+      "number": "Issue 26",
+      "sources": [
+        "tuscarawas-46day",
+        "tuscarawas-candiss"
+      ]
+    },
+    {
+      "id": "issue-27",
+      "kind": "levy",
+      "jurisdiction": "Wayne Township",
+      "title": "Tax levy (renewal): Current expenses",
+      "area": "Wayne Township",
+      "places": [
+        "Wayne Township"
+      ],
+      "levy": {
+        "type": "Renewal",
+        "purpose": "Current expenses.",
+        "mills": "0.4 mill",
+        "term": "5 years, commencing in 2027",
+        "firstDue": "2028",
+        "estimate": "$21,523 a year; $8 for each $100,000 of market value"
+      },
+      "number": "Issue 27",
+      "sources": [
+        "tuscarawas-46day",
+        "tuscarawas-candiss"
+      ]
+    },
+    {
+      "id": "issue-28",
+      "kind": "liquor",
+      "jurisdiction": "City of Uhrichsville",
+      "title": "Local liquor option: Uhrichsville Duchess (Sunday)",
+      "area": "Uhrichsville precinct 1 (0029, all splits)",
+      "places": [
+        "Uhrichsville City"
+      ],
+      "number": "Issue 28",
+      "text": "Sunday sale of wine and mixed beverages by Englefield, Inc., dba Uhrichsville Duchess (D-6 permit applicant, off-premise sales), a carryout/grocery at 110 E. McCauley Drive, Uhrichsville.",
+      "sources": [
+        "tuscarawas-46day",
+        "tuscarawas-candiss"
+      ]
+    },
+    {
+      "id": "issue-29",
+      "kind": "liquor",
+      "jurisdiction": "Village of Bolivar",
+      "title": "Local liquor option: Army & Navy Union Garrison 1982 Bolivar (Sunday)",
+      "area": "Bolivar Village precinct (0052, all splits)",
+      "places": [
+        "Bolivar Village"
+      ],
+      "number": "Issue 29",
+      "text": "Sunday sale of beer, wine and mixed beverages and spirituous liquor by Army & Navy Union Garrison 1982 Bolivar (D-6 permit applicant, on-premise sales), a non-profit veterans organization at 165 Canal Street, Bolivar.",
+      "sources": [
+        "tuscarawas-46day",
+        "tuscarawas-candiss"
+      ]
+    },
+    {
+      "id": "issue-30",
+      "kind": "liquor",
+      "jurisdiction": "Village of Dennison",
+      "title": "Local liquor option: Holy Moley Brewing Co. (Sunday)",
+      "area": "Dennison Village precinct 2 (0058, all splits)",
+      "places": [
+        "Dennison Village"
+      ],
+      "number": "Issue 30",
+      "text": "Sunday sale of spirituous liquor by O.B.M. Productions, L.L.C., dba Holy Moley Brewing Co. (D-6 permit holder, on-premise sales), a brewery at 306 Grant St., Dennison.",
+      "sources": [
+        "tuscarawas-46day",
+        "tuscarawas-candiss"
+      ]
+    }
+  ]
+}

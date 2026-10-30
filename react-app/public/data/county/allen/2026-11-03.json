@@ -1,0 +1,372 @@
+{
+  "scope": "county",
+  "county": "Allen",
+  "fips": "39003",
+  "election": "2026-11-03",
+  "retrieved": "2026-10-30",
+  "notes": [
+    "Taken from the Board of Elections' 46-day election notice, which lists every contest and issue with the precincts that vote on it. Issue wording is the Board's; the full wording is on the sample ballot.",
+    "Candidates are listed alphabetically by last name, not in ballot order: Ohio rotates the order of names from precinct to precinct. Certified write-in candidates are not printed on the ballot and are not listed.",
+    "\"Where you live\" uses the state voter file: a district or school levy is shown for a city, village or township when any of its voters live in that district. Your exact ballot depends on your precinct.",
+    "The Board's notice does not give local issue numbers; see your sample ballot for them."
+  ],
+  "places": [
+    "Amanda Township",
+    "American Township",
+    "Auglaize Township",
+    "Bath Township",
+    "Beaverdam Village",
+    "Bluffton Village",
+    "Cairo Village",
+    "Delphos City",
+    "Elida Village",
+    "Harrod Village",
+    "Jackson Township",
+    "Lafayette Village",
+    "Lima City",
+    "Marion Township",
+    "Monroe Township",
+    "Perry Township",
+    "Richland Township",
+    "Shawnee Township",
+    "Spencer Township",
+    "Spencerville Village",
+    "Sugar Creek Township"
+  ],
+  "sources": {
+    "allen-46day": {
+      "label": "Allen County Board of Elections: 46-day election notice (FWAB), November 3, 2026 General Election (revised 9/8/2026)",
+      "url": "https://allen.boe.ohio.gov/2026/07/23/general-election-november-3-2026/"
+    }
+  },
+  "links": [
+    {
+      "label": "Board of Elections",
+      "url": "https://allen.boe.ohio.gov/"
+    },
+    {
+      "label": "General Election, November 3, 2026",
+      "url": "https://allen.boe.ohio.gov/2026/07/23/general-election-november-3-2026/"
+    },
+    {
+      "label": "Sample ballots by precinct",
+      "url": "https://lookup.boe.ohio.gov/vtrapp/allen/ballotlist.aspx"
+    }
+  ],
+  "results": {
+    "status": "upcoming",
+    "links": [
+      {
+        "label": "Board of Elections: election results",
+        "url": "https://allen.boe.ohio.gov/"
+      }
+    ]
+  },
+  "contests": [
+    {
+      "id": "congress-4",
+      "group": "U.S. House",
+      "office": "Representative to Congress",
+      "detail": "4th District",
+      "candidates": [
+        {
+          "name": "Jim Jordan",
+          "party": "REP"
+        },
+        {
+          "name": "Joshua D. Kolasinski",
+          "party": "DEM"
+        },
+        {
+          "name": "Tracey L. Tackett",
+          "party": "Nonparty"
+        }
+      ],
+      "sources": [
+        "allen-46day"
+      ]
+    },
+    {
+      "id": "rep-78",
+      "group": "Ohio General Assembly",
+      "office": "State Representative",
+      "detail": "78th District",
+      "candidates": [
+        {
+          "name": "Jeffrey R. Givan",
+          "party": "DEM"
+        },
+        {
+          "name": "Matt Huffman",
+          "party": "REP"
+        }
+      ],
+      "sources": [
+        "allen-46day"
+      ]
+    },
+    {
+      "id": "appeals-3-0209",
+      "group": "Ohio Court of Appeals",
+      "office": "Judge of the Court of Appeals",
+      "detail": "3rd District · term commencing February 9, 2027",
+      "candidates": [
+        {
+          "name": "Mark C. Miller",
+          "party": "REP"
+        }
+      ],
+      "sources": [
+        "allen-46day"
+      ]
+    },
+    {
+      "id": "commissioner",
+      "group": "County offices",
+      "office": "County Commissioner",
+      "detail": "Term commencing January 1, 2027",
+      "candidates": [
+        {
+          "name": "Lew Modic",
+          "party": "DEM"
+        },
+        {
+          "name": "Brian Winegardner",
+          "party": "REP"
+        }
+      ],
+      "sources": [
+        "allen-46day"
+      ]
+    },
+    {
+      "id": "auditor",
+      "group": "County offices",
+      "office": "County Auditor",
+      "detail": "Term commencing March 8, 2027",
+      "candidates": [
+        {
+          "name": "Rachael S. Gilroy",
+          "party": "REP"
+        }
+      ],
+      "sources": [
+        "allen-46day"
+      ]
+    },
+    {
+      "id": "cp-probate",
+      "group": "Court of Common Pleas",
+      "office": "Judge of the Court of Common Pleas, Probate Division",
+      "detail": "Term commencing February 9, 2027 · no party label on the ballot",
+      "candidates": [
+        {
+          "name": "Todd E. Kohlrieser"
+        }
+      ],
+      "sources": [
+        "allen-46day"
+      ]
+    }
+  ],
+  "issues": [
+    {
+      "id": "lima-referendum-022-26",
+      "kind": "question",
+      "jurisdiction": "City of Lima",
+      "title": "Referendum on Ordinance No. 022-26 (Cable Road Improvement Project land acquisition)",
+      "area": "Lima City (all precincts, 1A–7C)",
+      "places": [
+        "Lima City"
+      ],
+      "text": "Shall ordinance no. 022-26 proposing the Mayor purchase or accept donations of real property for the Cable Road Improvement Project (PID 112573) along Cable Road, from Latham Avenue to College Park West Drive, be approved? (Referendum by petition.)",
+      "sources": [
+        "allen-46day"
+      ]
+    },
+    {
+      "id": "delphos-csd-current",
+      "kind": "levy",
+      "jurisdiction": "Delphos City School District",
+      "title": "Tax levy (renewal): Current expenses",
+      "area": "Delphos City School District (Delphos 1A, 1B, 2A, 2B, Marion A, B, Spencer A)",
+      "places": [
+        "Delphos City",
+        "Marion Township",
+        "Spencer Township"
+      ],
+      "levy": {
+        "type": "Renewal",
+        "purpose": "Current expenses.",
+        "mills": "5.5 mills",
+        "term": "5 years, commencing in 2027",
+        "firstDue": "2028",
+        "estimate": "$929,532 a year; $83 for each $100,000 of market value"
+      },
+      "sources": [
+        "allen-46day"
+      ]
+    },
+    {
+      "id": "lima-csd-pi-current",
+      "kind": "levy",
+      "jurisdiction": "Lima City School District",
+      "title": "Tax levy (renewal): Acquisition, construction, enlargement, renovation and financing of general permanent improvements, and current operating expenses",
+      "area": "Lima City School District (Lima 1A–7C, American E and K)",
+      "places": [
+        "American Township",
+        "Lima City"
+      ],
+      "levy": {
+        "type": "Renewal",
+        "purpose": "Acquisition, construction, enlargement, renovation and financing of general permanent improvements, and current operating expenses.",
+        "mills": "5.99 mills",
+        "term": "5 years, commencing in 2027",
+        "firstDue": "2028",
+        "estimate": "$1,836,189 a year; $142 for each $100,000 of market value"
+      },
+      "sources": [
+        "allen-46day"
+      ]
+    },
+    {
+      "id": "perry-lsd-current",
+      "kind": "levy",
+      "jurisdiction": "Perry Local School District",
+      "title": "Tax levy (renewal): Current expenses",
+      "area": "Perry Local School District (Lima 5D, 6C, Perry A, B, C)",
+      "places": [
+        "Lima City",
+        "Perry Township"
+      ],
+      "levy": {
+        "type": "Renewal",
+        "purpose": "Current expenses.",
+        "mills": "4.9 mills",
+        "term": "5 years, commencing in 2026",
+        "firstDue": "2027",
+        "estimate": "$605,689 a year; $89 for each $100,000 of market value"
+      },
+      "sources": [
+        "allen-46day"
+      ]
+    },
+    {
+      "id": "spencerville-lsd-income-tax",
+      "kind": "question",
+      "jurisdiction": "Spencerville Local School District",
+      "title": "School district income tax: 1% renewal for 5 years, for current expenses",
+      "area": "Spencerville Local School District (Amanda E, N, Spencerville A, B, Spencer A)",
+      "places": [
+        "Amanda Township",
+        "Spencer Township",
+        "Spencerville Village"
+      ],
+      "text": "Annual income tax of 1% on the school district income of individuals, to renew an income tax expiring at the end of 2027, for 5 years, beginning January 1, 2028, for current expenses.",
+      "sources": [
+        "allen-46day"
+      ]
+    },
+    {
+      "id": "monroe-twp-fire",
+      "kind": "levy",
+      "jurisdiction": "Monroe Township",
+      "title": "Tax levy (renewal): Fire apparatus, buildings, water supply, fire alarm lines, firefighters, and ambulance, paramedic or other emergency medical services",
+      "area": "Monroe Township and Cairo Village (Cairo, Monroe E, W)",
+      "places": [
+        "Cairo Village",
+        "Monroe Township"
+      ],
+      "levy": {
+        "type": "Renewal",
+        "purpose": "Fire apparatus, buildings, water supply, fire alarm lines, firefighters, and ambulance, paramedic or other emergency medical services.",
+        "mills": "0.5 mill",
+        "term": "5 years, commencing in 2026",
+        "firstDue": "2027",
+        "estimate": "$26,644 a year; $9 for each $100,000 of market value"
+      },
+      "sources": [
+        "allen-46day"
+      ]
+    },
+    {
+      "id": "perry-twp-fire-1",
+      "kind": "levy",
+      "jurisdiction": "Perry Township",
+      "title": "Tax levy (renewal): Fire apparatus, buildings, water supply, fire-alarm communications, firefighting, EMS, administrative or communications personnel, and ambulance, paramedic or other emergency medical services",
+      "area": "Perry Township (Perry A, B, C)",
+      "places": [
+        "Perry Township"
+      ],
+      "levy": {
+        "type": "Renewal",
+        "purpose": "Fire apparatus, buildings, water supply, fire-alarm communications, firefighting, EMS, administrative or communications personnel, and ambulance, paramedic or other emergency medical services.",
+        "mills": "1 mill",
+        "term": "5 years, commencing in 2027",
+        "firstDue": "2028",
+        "estimate": "$123,771 a year; $19 for each $100,000 of market value"
+      },
+      "note": "Perry Township has two fire/EMS renewals on this ballot (1 mill and 1.5 mills).",
+      "sources": [
+        "allen-46day"
+      ]
+    },
+    {
+      "id": "perry-twp-fire-1-5",
+      "kind": "levy",
+      "jurisdiction": "Perry Township",
+      "title": "Tax levy (renewal): Fire apparatus, buildings, water supply, fire-alarm communications, firefighting, EMS, administrative or communications personnel, and ambulance, paramedic or other emergency medical services",
+      "area": "Perry Township (Perry A, B, C)",
+      "places": [
+        "Perry Township"
+      ],
+      "levy": {
+        "type": "Renewal",
+        "purpose": "Fire apparatus, buildings, water supply, fire-alarm communications, firefighting, EMS, administrative or communications personnel, and ambulance, paramedic or other emergency medical services.",
+        "mills": "1.5 mills",
+        "term": "5 years, commencing in 2027",
+        "firstDue": "2028",
+        "estimate": "$185,656 a year; $29 for each $100,000 of market value"
+      },
+      "note": "Perry Township has two fire/EMS renewals on this ballot (1 mill and 1.5 mills).",
+      "sources": [
+        "allen-46day"
+      ]
+    },
+    {
+      "id": "sugar-creek-twp-current",
+      "kind": "levy",
+      "jurisdiction": "Sugar Creek Township",
+      "title": "Tax levy (renewal): Current expenses",
+      "area": "Sugar Creek Township (Sugar Creek)",
+      "places": [
+        "Sugar Creek Township"
+      ],
+      "levy": {
+        "type": "Renewal",
+        "purpose": "Current expenses.",
+        "mills": "2 mills",
+        "term": "5 years, commencing in 2027",
+        "firstDue": "2028",
+        "estimate": "$85,210 a year; $33 for each $100,000 of market value"
+      },
+      "sources": [
+        "allen-46day"
+      ]
+    },
+    {
+      "id": "liquor-richland-a-racetrac",
+      "kind": "liquor",
+      "jurisdiction": "Richland Township",
+      "title": "Local liquor option: RaceTrac (Sunday)",
+      "area": "Richland Township precinct Richland A",
+      "places": [
+        "Richland Township"
+      ],
+      "text": "Sunday sale of wine and mixed beverages by RaceTrac, Inc., an applicant for a D-6 liquor permit, operating a carryout/grocery store at 6452 Reppert Road, Lima (local option for a particular use at a business location, by petition).",
+      "sources": [
+        "allen-46day"
+      ]
+    }
+  ]
+}

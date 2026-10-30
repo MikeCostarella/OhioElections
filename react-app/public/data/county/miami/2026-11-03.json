@@ -1,0 +1,513 @@
+{
+  "scope": "county",
+  "county": "Miami",
+  "fips": "39109",
+  "election": "2026-11-03",
+  "retrieved": "2026-10-30",
+  "notes": [
+    "Taken from the Board of Elections' 46-day election notice, which lists every contest and issue with the precincts that vote on it. Issue wording is the Board's summary; the full wording is on the sample ballot.",
+    "Candidates are listed alphabetically by last name, not in ballot order: Ohio rotates the order of names from precinct to precinct. Certified write-in candidates are not printed on the ballot and are not listed.",
+    "\"Where you live\" uses the state voter file: a district or school levy is shown for a city, village or township when any of its voters live in that district. Your exact ballot depends on your precinct.",
+    "The Board's notice does not give local issue numbers; see your sample ballot for them.",
+    "Piqua also holds a city special election on November 3, 2026 (three recall questions and a charter amendment), on its own ballot. The Board's special-election notice says the ward candidates' names would be published after October 16; they are not listed here."
+  ],
+  "places": [
+    "Bethel Township",
+    "Bradford Village",
+    "Brown Township",
+    "Casstown Village",
+    "Concord Township",
+    "Covington Village",
+    "Elizabeth Township",
+    "Fletcher Village",
+    "Huber Heights City",
+    "Laura Village",
+    "Lostcreek Township",
+    "Ludlow Falls Village",
+    "Monroe Township",
+    "Newberry Township",
+    "Newton Township",
+    "Piqua City",
+    "Pleasant Hill Village",
+    "Potsdam Village",
+    "Springcreek Township",
+    "Staunton Township",
+    "Tipp City",
+    "Troy City",
+    "Union City",
+    "Union Township",
+    "Washington Township",
+    "West Milton Village"
+  ],
+  "sources": {
+    "miami-46day": {
+      "label": "Miami County Board of Elections: 46-day election notice (FWAB), November 3, 2026 General Election",
+      "url": "https://www.boe.ohio.gov/miami/c/upload/FWAB_11November46Day.pdf"
+    },
+    "miami-piqua-special": {
+      "label": "Miami County Board of Elections: 46-day election notice (FWAB), November 3, 2026 Piqua Special Election",
+      "url": "https://www.boe.ohio.gov/miami/c/upload/FWAB__PiquaSpecialNovember3,2026.pdf"
+    }
+  },
+  "links": [
+    {
+      "label": "Board of Elections",
+      "url": "https://www.boe.ohio.gov/miami/"
+    },
+    {
+      "label": "Election info",
+      "url": "https://www.boe.ohio.gov/miami/election-info/"
+    },
+    {
+      "label": "Sample ballots by precinct",
+      "url": "https://lookup.boe.ohio.gov/vtrapp/miami/ballotlist.aspx"
+    }
+  ],
+  "results": {
+    "status": "upcoming",
+    "links": [
+      {
+        "label": "Board of Elections: election results",
+        "url": "https://www.boe.ohio.gov/miami/election-info/"
+      }
+    ]
+  },
+  "contests": [
+    {
+      "id": "congress-8",
+      "group": "U.S. House",
+      "office": "Representative to Congress",
+      "detail": "8th District (Hamilton, Butler (part), Preble, Darke and Miami (part) counties)",
+      "area": "Concord Township, Monroe Township, Tipp City, Troy City, Union City, Union Township, West Milton Village",
+      "places": [
+        "Concord Township",
+        "Monroe Township",
+        "Tipp City",
+        "Troy City",
+        "Union City",
+        "Union Township",
+        "West Milton Village"
+      ],
+      "candidates": [
+        {
+          "name": "Warren Davidson",
+          "party": "REP"
+        },
+        {
+          "name": "Vanessa Enoch",
+          "party": "DEM"
+        }
+      ],
+      "sources": [
+        "miami-46day"
+      ]
+    },
+    {
+      "id": "congress-15",
+      "group": "U.S. House",
+      "office": "Representative to Congress",
+      "detail": "15th District",
+      "area": "Bethel Township, Bradford Village, Brown Township, Casstown Village, Covington Village, Elizabeth Township, Fletcher Village, Huber Heights City, Laura Village, Lostcreek Township, Ludlow Falls Village, Newberry Township, Newton Township, Piqua City, Pleasant Hill Village, Potsdam Village, Springcreek Township, Staunton Township, Troy City, Union Township, Washington Township",
+      "places": [
+        "Bethel Township",
+        "Bradford Village",
+        "Brown Township",
+        "Casstown Village",
+        "Covington Village",
+        "Elizabeth Township",
+        "Fletcher Village",
+        "Huber Heights City",
+        "Laura Village",
+        "Lostcreek Township",
+        "Ludlow Falls Village",
+        "Newberry Township",
+        "Newton Township",
+        "Piqua City",
+        "Pleasant Hill Village",
+        "Potsdam Village",
+        "Springcreek Township",
+        "Staunton Township",
+        "Troy City",
+        "Union Township",
+        "Washington Township"
+      ],
+      "candidates": [
+        {
+          "name": "Brennan Barrington",
+          "party": "LIB"
+        },
+        {
+          "name": "Mike Carey",
+          "party": "REP"
+        },
+        {
+          "name": "Don Leonard",
+          "party": "DEM"
+        }
+      ],
+      "sources": [
+        "miami-46day"
+      ]
+    },
+    {
+      "id": "senate-5",
+      "group": "Ohio General Assembly",
+      "office": "State Senator",
+      "detail": "5th District",
+      "candidates": [
+        {
+          "name": "Jeffrey Harris",
+          "party": "DEM"
+        },
+        {
+          "name": "Phil Plummer",
+          "party": "REP"
+        }
+      ],
+      "sources": [
+        "miami-46day"
+      ]
+    },
+    {
+      "id": "rep-80",
+      "group": "Ohio General Assembly",
+      "office": "State Representative",
+      "detail": "80th District",
+      "candidates": [
+        {
+          "name": "Johnathan Newman",
+          "party": "REP"
+        },
+        {
+          "name": "Katie Koehler Wagner",
+          "party": "DEM"
+        }
+      ],
+      "sources": [
+        "miami-46day"
+      ]
+    },
+    {
+      "id": "appeals-2-0209",
+      "group": "Ohio Court of Appeals",
+      "office": "Judge of the Court of Appeals",
+      "detail": "2nd District · term commencing February 9, 2027",
+      "candidates": [
+        {
+          "name": "Chris Epley",
+          "party": "REP"
+        }
+      ],
+      "sources": [
+        "miami-46day"
+      ]
+    },
+    {
+      "id": "commissioner",
+      "group": "County offices",
+      "office": "County Commissioner",
+      "detail": "Term commencing January 1, 2027",
+      "candidates": [
+        {
+          "name": "Ted Mercer",
+          "party": "REP"
+        },
+        {
+          "name": "Bill Whitten",
+          "party": "DEM"
+        }
+      ],
+      "sources": [
+        "miami-46day"
+      ]
+    },
+    {
+      "id": "auditor",
+      "group": "County offices",
+      "office": "County Auditor",
+      "detail": "Term commencing March 8, 2027",
+      "candidates": [
+        {
+          "name": "Matthew W. Gearhardt",
+          "party": "REP"
+        }
+      ],
+      "sources": [
+        "miami-46day"
+      ]
+    },
+    {
+      "id": "cp-0209",
+      "group": "Court of Common Pleas",
+      "office": "Judge of the Court of Common Pleas",
+      "detail": "Term commencing February 9, 2027 · no party label on the ballot",
+      "candidates": [
+        {
+          "name": "Jeannine N. Pratt"
+        }
+      ],
+      "sources": [
+        "miami-46day"
+      ]
+    },
+    {
+      "id": "cp-juvenile-probate",
+      "group": "Court of Common Pleas",
+      "office": "Judge of the Court of Common Pleas, Juvenile/Probate Division",
+      "detail": "Term commencing February 9, 2027 · no party label on the ballot",
+      "candidates": [
+        {
+          "name": "Katherine Kemp Severt"
+        }
+      ],
+      "sources": [
+        "miami-46day"
+      ]
+    }
+  ],
+  "issues": [
+    {
+      "id": "tri-county-mental-health",
+      "kind": "levy",
+      "jurisdiction": "Tri-County Board of Recovery and Mental Health Services (Darke, Miami and Shelby counties)",
+      "title": "Tax levy (renewal): Counseling and supportive services to children and adults through alcohol and drug addiction programs and mental health programs",
+      "area": "All of Miami County",
+      "levy": {
+        "type": "Renewal",
+        "purpose": "Counseling and supportive services to children and adults through alcohol and drug addiction programs and mental health programs.",
+        "mills": "0.6 mill",
+        "term": "5 years, commencing in 2027",
+        "firstDue": "2028",
+        "estimate": "$2,596,848 a year; $10 for each $100,000 of the county auditor's market value"
+      },
+      "sources": [
+        "miami-46day"
+      ]
+    },
+    {
+      "id": "park-district",
+      "kind": "levy",
+      "jurisdiction": "Miami County Park District",
+      "title": "Tax levy (additional): Maintenance and improvement of the Park District's nature reserves, preserves and facilities, and its programs",
+      "area": "All of Miami County",
+      "levy": {
+        "type": "Additional",
+        "purpose": "Maintenance and improvement of the Park District's nature reserves, preserves and facilities, and its programs.",
+        "mills": "1.4 mills",
+        "term": "10 years, commencing in 2026",
+        "firstDue": "2027",
+        "estimate": "$5,966,102 a year; $49 for each $100,000 of the county auditor's market value"
+      },
+      "note": "Replaces the operations now funded by the District's existing 1.5-mill levy: the Board of Park Commissioners has resolved not to collect that levy if this one passes.",
+      "sources": [
+        "miami-46day"
+      ]
+    },
+    {
+      "id": "casstown-operating",
+      "kind": "levy",
+      "jurisdiction": "Village of Casstown",
+      "title": "Tax levy (renewal): General operating expenses",
+      "area": "Casstown Village (precinct 057/1)",
+      "places": [
+        "Casstown Village"
+      ],
+      "levy": {
+        "type": "Renewal",
+        "purpose": "General operating expenses.",
+        "mills": "0.3 mill",
+        "term": "5 years, commencing in 2027",
+        "firstDue": "2028",
+        "estimate": "$10,478 a year; $56 for each $100,000 of the county auditor's market value"
+      },
+      "sources": [
+        "miami-46day"
+      ]
+    },
+    {
+      "id": "monroe-twp-community-services",
+      "kind": "levy",
+      "jurisdiction": "Monroe Township (incorporated and unincorporated areas)",
+      "title": "Tax levy (renewal): Current expenses of Tipp Monroe Community Services and its recreational and enrichment programs and activities",
+      "area": "Monroe Township and Tipp City",
+      "places": [
+        "Monroe Township",
+        "Tipp City"
+      ],
+      "levy": {
+        "type": "Renewal",
+        "purpose": "Current expenses of Tipp Monroe Community Services and its recreational and enrichment programs and activities.",
+        "mills": "0.5 mill",
+        "term": "5 years, commencing in 2027",
+        "firstDue": "2028",
+        "estimate": "$248,022 a year; $10 for each $100,000 of the county auditor's market value"
+      },
+      "sources": [
+        "miami-46day"
+      ]
+    },
+    {
+      "id": "troy-csd-operating",
+      "kind": "levy",
+      "jurisdiction": "Troy City School District",
+      "title": "Tax levy (renewal): Current expenses",
+      "area": "Troy City School District",
+      "places": [
+        "Concord Township",
+        "Monroe Township",
+        "Newton Township",
+        "Staunton Township",
+        "Tipp City",
+        "Troy City",
+        "Union Township",
+        "Washington Township"
+      ],
+      "levy": {
+        "type": "Renewal",
+        "purpose": "Current expenses.",
+        "mills": "5.8 mills",
+        "term": "5 years, commencing in 2026",
+        "firstDue": "2027",
+        "estimate": "$4,630,513 a year; $111 for each $100,000 of the county auditor's market value"
+      },
+      "sources": [
+        "miami-46day"
+      ]
+    },
+    {
+      "id": "bethel-fire-district",
+      "kind": "levy",
+      "jurisdiction": "Bethel Township Fire District One",
+      "title": "Tax levy (renewal): Fire and emergency medical services",
+      "area": "Bethel Township Fire District One (precincts 046–049)",
+      "places": [
+        "Bethel Township"
+      ],
+      "levy": {
+        "type": "Renewal",
+        "purpose": "Fire and emergency medical services.",
+        "mills": "4.9 mills",
+        "term": "5 years, commencing in 2027",
+        "firstDue": "2028",
+        "estimate": "$795,046 a year; $103 for each $100,000 of the county auditor's market value"
+      },
+      "sources": [
+        "miami-46day"
+      ]
+    },
+    {
+      "id": "concord-twp-fire-ems",
+      "kind": "levy",
+      "jurisdiction": "Concord Township (unincorporated area)",
+      "title": "Tax levy (renewal): Fire protection, ambulance and emergency medical services",
+      "area": "Concord Township unincorporated area (precincts 051–055)",
+      "places": [
+        "Concord Township"
+      ],
+      "levy": {
+        "type": "Renewal",
+        "purpose": "Fire protection, ambulance and emergency medical services.",
+        "mills": "3.7 mills",
+        "term": "5 years, commencing in 2027",
+        "firstDue": "2028",
+        "estimate": "$668,475 a year; $70 for each $100,000 of the county auditor's market value"
+      },
+      "sources": [
+        "miami-46day"
+      ]
+    },
+    {
+      "id": "monroe-fire-district",
+      "kind": "levy",
+      "jurisdiction": "Monroe Township Fire District One",
+      "title": "Tax levy (renewal and increase): Fire protection and emergency medical services (renewal of 4 mills and increase of 2 mills)",
+      "area": "Monroe Township Fire District One (precincts 058–062)",
+      "places": [
+        "Monroe Township"
+      ],
+      "levy": {
+        "type": "Renewal and increase",
+        "purpose": "Fire protection and emergency medical services (renewal of 4 mills and increase of 2 mills).",
+        "mills": "6 mills",
+        "term": "5 years, commencing in 2027",
+        "firstDue": "2028",
+        "estimate": "$1,332,732 a year; $160 for each $100,000 of the county auditor's market value"
+      },
+      "sources": [
+        "miami-46day"
+      ]
+    },
+    {
+      "id": "liquor-phill-exchange",
+      "kind": "liquor",
+      "jurisdiction": "Village of Pleasant Hill",
+      "title": "Local liquor option: The PHill Exchange (beer)",
+      "area": "Pleasant Hill precinct 068/1",
+      "places": [
+        "Pleasant Hill Village"
+      ],
+      "text": "Sale of beer by The PHill Exchange LLC, a D-1 permit holder (restaurant/stationary food truck), 210 W. High St., Pleasant Hill.",
+      "sources": [
+        "miami-46day"
+      ]
+    },
+    {
+      "id": "piqua-charter-data-center",
+      "kind": "question",
+      "jurisdiction": "City of Piqua",
+      "title": "Charter amendment: prohibit construction of a data center",
+      "area": "All Piqua precincts (001–016)",
+      "places": [
+        "Piqua City"
+      ],
+      "text": "Add Section 138 to the Piqua City Charter prohibiting construction of a data center: one or more buildings or facilities on a single or aggregated parcel used primarily for digital information services, with an aggregate monthly demand or peak load over 25 megawatts. The section is self-executing.",
+      "note": "Listed in the general-election notice under \"Special Election\".",
+      "sources": [
+        "miami-46day",
+        "miami-piqua-special"
+      ]
+    },
+    {
+      "id": "piqua-recall-vetter",
+      "kind": "question",
+      "jurisdiction": "City of Piqua",
+      "title": "Recall: James D. Vetter, Ward One Commissioner and Mayor",
+      "area": "All Piqua precincts (001–016)",
+      "places": [
+        "Piqua City"
+      ],
+      "text": "Shall Ward One Commissioner and Mayor James D. Vetter be removed from the Piqua City Commission by recall?",
+      "sources": [
+        "miami-piqua-special"
+      ]
+    },
+    {
+      "id": "piqua-recall-walker",
+      "kind": "question",
+      "jurisdiction": "City of Piqua",
+      "title": "Recall: William Frederick Walker, Ward Three Commissioner",
+      "area": "All Piqua precincts (001–016)",
+      "places": [
+        "Piqua City"
+      ],
+      "text": "Shall Ward Three Commissioner William Frederick Walker be removed from the Piqua City Commission by recall?",
+      "sources": [
+        "miami-piqua-special"
+      ]
+    },
+    {
+      "id": "piqua-recall-debrosse",
+      "kind": "question",
+      "jurisdiction": "City of Piqua",
+      "title": "Recall: Frank DeBrosse, Ward Five Commissioner and Vice Mayor",
+      "area": "All Piqua precincts (001–016)",
+      "places": [
+        "Piqua City"
+      ],
+      "text": "Shall Ward Five Commissioner and Vice Mayor Frank DeBrosse be removed from the Piqua City Commission by recall?",
+      "sources": [
+        "miami-piqua-special"
+      ]
+    }
+  ]
+}

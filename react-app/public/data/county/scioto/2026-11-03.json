@@ -1,0 +1,500 @@
+{
+  "scope": "county",
+  "county": "Scioto",
+  "fips": "39145",
+  "election": "2026-11-03",
+  "retrieved": "2026-10-30",
+  "notes": [
+    "Taken from the Board of Elections' 46-day election notice, which lists every contest and issue with the precincts that vote on it, checked against the Board's precinct sample ballots. Issue wording is from the sample ballots.",
+    "Candidates are listed alphabetically by last name, not in ballot order: Ohio rotates the order of names from precinct to precinct. Certified write-in candidates are not printed on the ballot and are not listed.",
+    "\"Where you live\" uses the state voter file: a district or school levy is shown for a city, village or township when any of its voters live in that district. Your exact ballot depends on your precinct.",
+    "The Board's notice and sample ballots do not give local issue numbers.",
+    "Court of Appeals: the 46-day notice lists Peter B. Abele for the 4th District seat, but the Board's sample ballots list Jayme Hartley Fountain (Republican) and Todd L. Grace (Democratic); the sample ballots are shown here."
+  ],
+  "places": [
+    "Bloom Township",
+    "Brush Creek Township",
+    "Clay Township",
+    "Green Township",
+    "Harrison Township",
+    "Jefferson Township",
+    "Madison Township",
+    "Morgan Township",
+    "New Boston Village",
+    "Nile Township",
+    "Otway Village",
+    "Porter Township",
+    "Portsmouth City",
+    "Rarden Township",
+    "Rarden Village",
+    "Rush Township",
+    "South Webster Village",
+    "Union Township",
+    "Valley Township",
+    "Vernon Township",
+    "Washington Township"
+  ],
+  "sources": {
+    "scioto-46day": {
+      "label": "Scioto County Board of Elections: 46-day election notice (FWAB), November 3, 2026 General Election (revised September 18, 2026)",
+      "url": "https://www.boe.ohio.gov/scioto/c/upload/FWAB_11November46Day.pdf"
+    },
+    "scioto-ballots": {
+      "label": "Scioto County Board of Elections: precinct sample ballots, November 3, 2026 General Election (election data updated October 12, 2026)",
+      "url": "https://lookup.boe.ohio.gov/vtrapp/scioto/ballotlist.aspx"
+    }
+  },
+  "links": [
+    {
+      "label": "Board of Elections",
+      "url": "https://www.boe.ohio.gov/scioto/"
+    },
+    {
+      "label": "Federal write-in absentee ballot notices",
+      "url": "https://www.boe.ohio.gov/scioto/election-info/federal-write-in-absentee-ballots/"
+    },
+    {
+      "label": "Sample ballots by precinct",
+      "url": "https://lookup.boe.ohio.gov/vtrapp/scioto/ballotlist.aspx"
+    }
+  ],
+  "results": {
+    "status": "upcoming",
+    "links": [
+      {
+        "label": "Board of Elections: election results",
+        "url": "https://www.boe.ohio.gov/scioto/election-info/election-results/"
+      }
+    ]
+  },
+  "contests": [
+    {
+      "id": "congress-2",
+      "group": "U.S. House",
+      "office": "Representative to Congress",
+      "detail": "2nd District",
+      "candidates": [
+        {
+          "name": "Jen Mazzuckelli",
+          "party": "DEM"
+        },
+        {
+          "name": "David J. Taylor",
+          "party": "REP"
+        }
+      ],
+      "sources": [
+        "scioto-46day",
+        "scioto-ballots"
+      ]
+    },
+    {
+      "id": "rep-90",
+      "group": "Ohio General Assembly",
+      "office": "State Representative",
+      "detail": "90th District",
+      "candidates": [
+        {
+          "name": "Collin Docterman",
+          "party": "DEM"
+        },
+        {
+          "name": "Justin Pizzulli",
+          "party": "REP"
+        }
+      ],
+      "sources": [
+        "scioto-46day",
+        "scioto-ballots"
+      ]
+    },
+    {
+      "id": "appeals-4-0209",
+      "group": "Ohio Court of Appeals",
+      "office": "Judge of the Court of Appeals",
+      "detail": "4th District · full term commencing February 9, 2027",
+      "candidates": [
+        {
+          "name": "Jayme Hartley Fountain",
+          "party": "REP"
+        },
+        {
+          "name": "Todd L. Grace",
+          "party": "DEM"
+        }
+      ],
+      "sources": [
+        "scioto-ballots",
+        "scioto-46day"
+      ]
+    },
+    {
+      "id": "commissioner-0101",
+      "group": "County offices",
+      "office": "County Commissioner",
+      "detail": "Full term commencing January 1, 2027",
+      "candidates": [
+        {
+          "name": "Steven Will Mault",
+          "party": "REP"
+        },
+        {
+          "name": "Abby Spears",
+          "party": "DEM"
+        }
+      ],
+      "sources": [
+        "scioto-46day",
+        "scioto-ballots"
+      ]
+    },
+    {
+      "id": "commissioner-0102",
+      "group": "County offices",
+      "office": "County Commissioner",
+      "detail": "Unexpired term ending January 1, 2029",
+      "candidates": [
+        {
+          "name": "Merit Smith",
+          "party": "REP"
+        }
+      ],
+      "sources": [
+        "scioto-46day",
+        "scioto-ballots"
+      ]
+    },
+    {
+      "id": "auditor",
+      "group": "County offices",
+      "office": "County Auditor",
+      "detail": "Full term commencing March 8, 2027",
+      "candidates": [
+        {
+          "name": "Christopher Blackburn",
+          "party": "REP"
+        },
+        {
+          "name": "Tricia M. Eichenlaub",
+          "party": "DEM"
+        }
+      ],
+      "sources": [
+        "scioto-46day",
+        "scioto-ballots"
+      ]
+    },
+    {
+      "id": "cp-0101",
+      "group": "Court of Common Pleas",
+      "office": "Judge of the Court of Common Pleas",
+      "detail": "Full term commencing January 1, 2027 · no party label on the ballot",
+      "candidates": [
+        {
+          "name": "Mark E. Kuhn"
+        }
+      ],
+      "sources": [
+        "scioto-46day",
+        "scioto-ballots"
+      ]
+    },
+    {
+      "id": "cp-0210",
+      "group": "Court of Common Pleas",
+      "office": "Judge of the Court of Common Pleas",
+      "detail": "Full term commencing February 10, 2027 · no party label on the ballot",
+      "candidates": [
+        {
+          "name": "Howard H. Harcha III"
+        }
+      ],
+      "sources": [
+        "scioto-46day",
+        "scioto-ballots"
+      ]
+    },
+    {
+      "id": "cp-probate-juvenile",
+      "group": "Court of Common Pleas",
+      "office": "Judge of the Court of Common Pleas, Probate and Juvenile Division",
+      "detail": "Full term commencing February 9, 2027 · no party label on the ballot",
+      "candidates": [
+        {
+          "name": "Rebecca L. Bennett"
+        }
+      ],
+      "sources": [
+        "scioto-46day",
+        "scioto-ballots"
+      ]
+    }
+  ],
+  "issues": [
+    {
+      "id": "portsmouth-streets",
+      "kind": "levy",
+      "jurisdiction": "City of Portsmouth",
+      "title": "Tax levy (renewal): Operations, maintenance of equipment and capital improvements of street resurfacing",
+      "area": "Portsmouth 1-A through 6-C",
+      "places": [
+        "Portsmouth City"
+      ],
+      "levy": {
+        "type": "Renewal",
+        "purpose": "Operations, maintenance of equipment and capital improvements of street resurfacing.",
+        "mills": "1.5 mills",
+        "term": "5 years, commencing in 2027",
+        "firstDue": "2028",
+        "estimate": "$382,516 a year; $39 for each $100,000 of market value"
+      },
+      "sources": [
+        "scioto-46day",
+        "scioto-ballots"
+      ]
+    },
+    {
+      "id": "new-boston-flood",
+      "kind": "levy",
+      "jurisdiction": "Village of New Boston",
+      "title": "Tax levy (renewal): Flood defense",
+      "area": "New Boston 1-A and 2-A",
+      "places": [
+        "New Boston Village"
+      ],
+      "levy": {
+        "type": "Renewal",
+        "purpose": "Flood defense.",
+        "mills": "1 mill",
+        "term": "5 years, commencing in 2027",
+        "firstDue": "2028",
+        "estimate": "$32,189 a year; $7 for each $100,000 of market value"
+      },
+      "sources": [
+        "scioto-46day",
+        "scioto-ballots"
+      ]
+    },
+    {
+      "id": "otway-fire",
+      "kind": "levy",
+      "jurisdiction": "Village of Otway",
+      "title": "Tax levy (renewal): Fire protection",
+      "area": "Otway/Brush Creek precinct (Otway split)",
+      "places": [
+        "Otway Village"
+      ],
+      "levy": {
+        "type": "Renewal",
+        "purpose": "Fire protection.",
+        "mills": "1 mill",
+        "term": "5 years, commencing in 2026",
+        "firstDue": "2027",
+        "estimate": "$893 a year; $24 for each $100,000 of market value"
+      },
+      "sources": [
+        "scioto-46day",
+        "scioto-ballots"
+      ]
+    },
+    {
+      "id": "otway-current",
+      "kind": "levy",
+      "jurisdiction": "Village of Otway",
+      "title": "Tax levy (renewal): Current expenses",
+      "area": "Otway/Brush Creek precinct (Otway split)",
+      "places": [
+        "Otway Village"
+      ],
+      "levy": {
+        "type": "Renewal",
+        "purpose": "Current expenses.",
+        "mills": "3 mills",
+        "term": "5 years, commencing in 2026",
+        "firstDue": "2027",
+        "estimate": "$2,690 a year; $73 for each $100,000 of market value"
+      },
+      "sources": [
+        "scioto-46day",
+        "scioto-ballots"
+      ]
+    },
+    {
+      "id": "rarden-surrender",
+      "kind": "question",
+      "jurisdiction": "Village of Rarden",
+      "title": "Surrender of corporate powers (by petition)",
+      "area": "Rarden Vil/Twp precinct (Rarden Village split)",
+      "places": [
+        "Rarden Village"
+      ],
+      "text": "Shall the village known as Village of Rarden, Ohio, surrender its corporate power?",
+      "sources": [
+        "scioto-46day",
+        "scioto-ballots"
+      ]
+    },
+    {
+      "id": "south-webster-current",
+      "kind": "levy",
+      "jurisdiction": "Village of South Webster",
+      "title": "Tax levy (renewal and decrease): Current expenses (renewal of part of an existing 5.5-mill levy, a reduction of 0.5 mill)",
+      "area": "South Webster Village",
+      "places": [
+        "South Webster Village"
+      ],
+      "levy": {
+        "type": "Renewal and decrease",
+        "purpose": "Current expenses (renewal of part of an existing 5.5-mill levy, a reduction of 0.5 mill).",
+        "mills": "5 mills",
+        "term": "5 years, commencing in 2026",
+        "firstDue": "2027",
+        "estimate": "$52,044 a year; $134 for each $100,000 of market value"
+      },
+      "sources": [
+        "scioto-46day",
+        "scioto-ballots"
+      ]
+    },
+    {
+      "id": "clay-twp-police",
+      "kind": "levy",
+      "jurisdiction": "Clay Township",
+      "title": "Tax levy (renewal): Police protection: motor vehicles, communications, payment of salaries or equipment used directly in the operation of the police department, and ambulance/emergency medical service by a police department",
+      "area": "Clay Township A, B, C and D",
+      "places": [
+        "Clay Township"
+      ],
+      "levy": {
+        "type": "Renewal",
+        "purpose": "Police protection: motor vehicles, communications, payment of salaries or equipment used directly in the operation of the police department, and ambulance/emergency medical service by a police department.",
+        "mills": "3.8 mills",
+        "term": "3 years, commencing in 2026",
+        "firstDue": "2027",
+        "estimate": "$287,634 a year; $92 for each $100,000 of market value"
+      },
+      "sources": [
+        "scioto-46day",
+        "scioto-ballots"
+      ]
+    },
+    {
+      "id": "nile-twp-cemeteries",
+      "kind": "levy",
+      "jurisdiction": "Nile Township",
+      "title": "Tax levy (renewal and decrease): Maintaining and operating cemeteries (renewal of part of an existing 1-mill levy, a reduction of 0.5 mill)",
+      "area": "Nile Township A, B and C",
+      "places": [
+        "Nile Township"
+      ],
+      "levy": {
+        "type": "Renewal and decrease",
+        "purpose": "Maintaining and operating cemeteries (renewal of part of an existing 1-mill levy, a reduction of 0.5 mill).",
+        "mills": "0.5 mill",
+        "term": "5 years, commencing in 2027",
+        "firstDue": "2028",
+        "estimate": "$33,943 a year; $17 for each $100,000 of market value"
+      },
+      "sources": [
+        "scioto-46day",
+        "scioto-ballots"
+      ]
+    },
+    {
+      "id": "nile-twp-police",
+      "kind": "levy",
+      "jurisdiction": "Nile Township",
+      "title": "Tax levy (renewal and decrease): Providing police protection (renewal of part of an existing 3-mill levy, a reduction of 1 mill)",
+      "area": "Nile Township A, B and C",
+      "places": [
+        "Nile Township"
+      ],
+      "levy": {
+        "type": "Renewal and decrease",
+        "purpose": "Providing police protection (renewal of part of an existing 3-mill levy, a reduction of 1 mill).",
+        "mills": "2 mills",
+        "term": "3 years, commencing in 2026",
+        "firstDue": "2027",
+        "estimate": "$135,775 a year; $70 for each $100,000 of market value"
+      },
+      "sources": [
+        "scioto-46day",
+        "scioto-ballots"
+      ]
+    },
+    {
+      "id": "porter-twp-roads",
+      "kind": "levy",
+      "jurisdiction": "Porter Township",
+      "title": "Tax levy (renewal): Personnel and equipment expenditures associated with road maintenance",
+      "area": "Porter A through I",
+      "places": [
+        "Porter Township"
+      ],
+      "levy": {
+        "type": "Renewal",
+        "purpose": "Personnel and equipment expenditures associated with road maintenance.",
+        "mills": "0.5 mill",
+        "term": "5 years, commencing in 2027",
+        "firstDue": "2028",
+        "estimate": "$109,335 a year; $12 for each $100,000 of market value"
+      },
+      "sources": [
+        "scioto-46day",
+        "scioto-ballots"
+      ]
+    },
+    {
+      "id": "washington-twp-police",
+      "kind": "levy",
+      "jurisdiction": "Washington Township",
+      "title": "Tax levy (renewal): Police protection, including motor vehicles, communications, payment of salaries or equipment used directly in the operation of the police department",
+      "area": "Washington A through E",
+      "places": [
+        "Washington Township"
+      ],
+      "levy": {
+        "type": "Renewal",
+        "purpose": "Police protection, including motor vehicles, communications, payment of salaries or equipment used directly in the operation of the police department.",
+        "mills": "1 mill",
+        "term": "5 years, commencing in 2027",
+        "firstDue": "2028",
+        "estimate": "$59,836 a year; $24 for each $100,000 of market value"
+      },
+      "sources": [
+        "scioto-46day",
+        "scioto-ballots"
+      ]
+    },
+    {
+      "id": "liquor-twin-wheelersburg",
+      "kind": "liquor",
+      "jurisdiction": "Porter Township",
+      "title": "Local liquor option: Twin-Wheelersburg LLC (D-5 permit)",
+      "area": "Porter Township precinct Porter C",
+      "places": [
+        "Porter Township"
+      ],
+      "text": "Sale of beer, wine and mixed beverages and spirituous liquor by Twin-Wheelersburg LLC, an applicant for a D-5 liquor permit, operating a family restaurant at 9095 Ohio River Road, Wheelersburg (by petition).",
+      "sources": [
+        "scioto-46day",
+        "scioto-ballots"
+      ]
+    },
+    {
+      "id": "liquor-twin-wheelersburg-sunday",
+      "kind": "liquor",
+      "jurisdiction": "Porter Township",
+      "title": "Local liquor option: Twin-Wheelersburg LLC (Sunday)",
+      "area": "Porter Township precinct Porter C",
+      "places": [
+        "Porter Township"
+      ],
+      "text": "Sunday sale of beer, wine and mixed beverages and spirituous liquor by Twin-Wheelersburg LLC, an applicant for a D-6 liquor permit, operating a family restaurant at 9095 Ohio River Road, Wheelersburg (by petition).",
+      "sources": [
+        "scioto-46day",
+        "scioto-ballots"
+      ]
+    }
+  ]
+}

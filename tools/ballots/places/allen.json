@@ -1,0 +1,434 @@
+{
+ "BEAVERDAM VILLAGE": {
+  "voters": 180,
+  "EXEMPTED_VILL_SCHOOL_DISTRICT": {
+   "BLUFFTON EX VILL SD (ALLEN)": 180
+  },
+  "CONGRESSIONAL_DISTRICT": {
+   "04": 180
+  },
+  "STATE_REPRESENTATIVE_DISTRICT": {
+   "78": 180
+  },
+  "STATE_SENATE_DISTRICT": {
+   "12": 180
+  },
+  "COURT_OF_APPEALS": {
+   "03": 180
+  },
+  "TWP_OF_VILLAGE": {
+   "Township Richland": 180
+  }
+ },
+ "BLUFFTON VILLAGE": {
+  "voters": 2479,
+  "EXEMPTED_VILL_SCHOOL_DISTRICT": {
+   "BLUFFTON EX VILL SD (ALLEN)": 2479
+  },
+  "CONGRESSIONAL_DISTRICT": {
+   "04": 2479
+  },
+  "STATE_REPRESENTATIVE_DISTRICT": {
+   "78": 2479
+  },
+  "STATE_SENATE_DISTRICT": {
+   "12": 2479
+  },
+  "COURT_OF_APPEALS": {
+   "03": 2479
+  },
+  "TWP_OF_VILLAGE": {
+   "Township Richland": 2479
+  }
+ },
+ "CAIRO VILLAGE": {
+  "voters": 325,
+  "LOCAL_SCHOOL_DISTRICT": {
+   "BATH LOCAL SD (ALLEN)": 325
+  },
+  "CONGRESSIONAL_DISTRICT": {
+   "04": 325
+  },
+  "STATE_REPRESENTATIVE_DISTRICT": {
+   "78": 325
+  },
+  "STATE_SENATE_DISTRICT": {
+   "12": 325
+  },
+  "COURT_OF_APPEALS": {
+   "03": 325
+  },
+  "TWP_OF_VILLAGE": {
+   "Township Monroe": 325
+  }
+ },
+ "DELPHOS CITY": {
+  "voters": 2372,
+  "CITY_SCHOOL_DISTRICT": {
+   "DELPHOS CITY SD": 2372
+  },
+  "CONGRESSIONAL_DISTRICT": {
+   "04": 2372
+  },
+  "STATE_REPRESENTATIVE_DISTRICT": {
+   "78": 2372
+  },
+  "STATE_SENATE_DISTRICT": {
+   "12": 2372
+  },
+  "COURT_OF_APPEALS": {
+   "03": 2372
+  },
+  "TWP_OF_CITY": {
+   "Township Marion": 2372
+  }
+ },
+ "ELIDA VILLAGE": {
+  "voters": 1371,
+  "LOCAL_SCHOOL_DISTRICT": {
+   "ELIDA LOCAL SD (ALLEN)": 1371
+  },
+  "CONGRESSIONAL_DISTRICT": {
+   "04": 1371
+  },
+  "STATE_REPRESENTATIVE_DISTRICT": {
+   "78": 1371
+  },
+  "STATE_SENATE_DISTRICT": {
+   "12": 1371
+  },
+  "COURT_OF_APPEALS": {
+   "03": 1371
+  },
+  "TWP_OF_VILLAGE": {
+   "Township American": 1371
+  }
+ },
+ "HARROD VILLAGE": {
+  "voters": 237,
+  "LOCAL_SCHOOL_DISTRICT": {
+   "ALLEN EAST LOCAL SD (ALLEN)": 237
+  },
+  "CONGRESSIONAL_DISTRICT": {
+   "04": 237
+  },
+  "STATE_REPRESENTATIVE_DISTRICT": {
+   "78": 237
+  },
+  "STATE_SENATE_DISTRICT": {
+   "12": 237
+  },
+  "COURT_OF_APPEALS": {
+   "03": 237
+  },
+  "TWP_OF_VILLAGE": {
+   "Township Auglaize": 237
+  }
+ },
+ "LAFAYETTE VILLAGE": {
+  "voters": 225,
+  "LOCAL_SCHOOL_DISTRICT": {
+   "ALLEN EAST LOCAL SD (ALLEN)": 225
+  },
+  "CONGRESSIONAL_DISTRICT": {
+   "04": 225
+  },
+  "STATE_REPRESENTATIVE_DISTRICT": {
+   "78": 225
+  },
+  "STATE_SENATE_DISTRICT": {
+   "12": 225
+  },
+  "COURT_OF_APPEALS": {
+   "03": 225
+  },
+  "TWP_OF_VILLAGE": {
+   "Township Jackson": 225
+  }
+ },
+ "LIMA CITY": {
+  "voters": 18951,
+  "CITY_SCHOOL_DISTRICT": {
+   "LIMA CITY SD": 15599
+  },
+  "CONGRESSIONAL_DISTRICT": {
+   "04": 18951
+  },
+  "STATE_REPRESENTATIVE_DISTRICT": {
+   "78": 18951
+  },
+  "STATE_SENATE_DISTRICT": {
+   "12": 18951
+  },
+  "COURT_OF_APPEALS": {
+   "03": 18951
+  },
+  "LOCAL_SCHOOL_DISTRICT": {
+   "ELIDA LOCAL SD (ALLEN)": 2493,
+   "SHAWNEE LOCAL SD (ALLEN)": 696,
+   "PERRY LOCAL SD (ALLEN)": 101,
+   "BATH LOCAL SD (ALLEN)": 62
+  },
+  "TWP_OF_CITY": {
+   "Township American": 16
+  }
+ },
+ "SPENCERVILLE VILLAGE": {
+  "voters": 1248,
+  "LOCAL_SCHOOL_DISTRICT": {
+   "SPENCERVILLE LOCAL SD (ALLEN)": 1248
+  },
+  "CONGRESSIONAL_DISTRICT": {
+   "04": 1248
+  },
+  "STATE_REPRESENTATIVE_DISTRICT": {
+   "78": 1248
+  },
+  "STATE_SENATE_DISTRICT": {
+   "12": 1248
+  },
+  "COURT_OF_APPEALS": {
+   "03": 1248
+  },
+  "TWP_OF_VILLAGE": {
+   "Township Spencer": 1248
+  }
+ },
+ "Township Amanda": {
+  "voters": 1451,
+  "LOCAL_SCHOOL_DISTRICT": {
+   "SPENCERVILLE LOCAL SD (ALLEN)": 741,
+   "SHAWNEE LOCAL SD (ALLEN)": 482,
+   "ELIDA LOCAL SD (ALLEN)": 228
+  },
+  "CONGRESSIONAL_DISTRICT": {
+   "04": 1451
+  },
+  "STATE_REPRESENTATIVE_DISTRICT": {
+   "78": 1451
+  },
+  "STATE_SENATE_DISTRICT": {
+   "12": 1451
+  },
+  "COURT_OF_APPEALS": {
+   "03": 1451
+  }
+ },
+ "Township American": {
+  "voters": 8530,
+  "LOCAL_SCHOOL_DISTRICT": {
+   "ELIDA LOCAL SD (ALLEN)": 6420,
+   "SHAWNEE LOCAL SD (ALLEN)": 1948
+  },
+  "CONGRESSIONAL_DISTRICT": {
+   "04": 8530
+  },
+  "STATE_REPRESENTATIVE_DISTRICT": {
+   "78": 8530
+  },
+  "STATE_SENATE_DISTRICT": {
+   "12": 8530
+  },
+  "COURT_OF_APPEALS": {
+   "03": 8530
+  },
+  "CITY_SCHOOL_DISTRICT": {
+   "LIMA CITY SD": 162
+  }
+ },
+ "Township Auglaize": {
+  "voters": 1591,
+  "LOCAL_SCHOOL_DISTRICT": {
+   "ALLEN EAST LOCAL SD (ALLEN)": 1582,
+   "WAYNESFIELD-GOSHEN LOCAL SD (AUGLAIZE)": 9
+  },
+  "CONGRESSIONAL_DISTRICT": {
+   "04": 1591
+  },
+  "STATE_REPRESENTATIVE_DISTRICT": {
+   "78": 1591
+  },
+  "STATE_SENATE_DISTRICT": {
+   "12": 1591
+  },
+  "COURT_OF_APPEALS": {
+   "03": 1591
+  }
+ },
+ "Township Bath": {
+  "voters": 6226,
+  "LOCAL_SCHOOL_DISTRICT": {
+   "BATH LOCAL SD (ALLEN)": 6226
+  },
+  "CONGRESSIONAL_DISTRICT": {
+   "04": 6226
+  },
+  "STATE_REPRESENTATIVE_DISTRICT": {
+   "78": 6226
+  },
+  "STATE_SENATE_DISTRICT": {
+   "12": 6226
+  },
+  "COURT_OF_APPEALS": {
+   "03": 6226
+  }
+ },
+ "Township Jackson": {
+  "voters": 2020,
+  "LOCAL_SCHOOL_DISTRICT": {
+   "ALLEN EAST LOCAL SD (ALLEN)": 2020
+  },
+  "CONGRESSIONAL_DISTRICT": {
+   "04": 2020
+  },
+  "STATE_REPRESENTATIVE_DISTRICT": {
+   "78": 2020
+  },
+  "STATE_SENATE_DISTRICT": {
+   "12": 2020
+  },
+  "COURT_OF_APPEALS": {
+   "03": 2020
+  }
+ },
+ "Township Marion": {
+  "voters": 1834,
+  "LOCAL_SCHOOL_DISTRICT": {
+   "ELIDA LOCAL SD (ALLEN)": 709
+  },
+  "CONGRESSIONAL_DISTRICT": {
+   "04": 1834
+  },
+  "STATE_REPRESENTATIVE_DISTRICT": {
+   "78": 1834
+  },
+  "STATE_SENATE_DISTRICT": {
+   "12": 1834
+  },
+  "COURT_OF_APPEALS": {
+   "03": 1834
+  },
+  "CITY_SCHOOL_DISTRICT": {
+   "DELPHOS CITY SD": 1125
+  }
+ },
+ "Township Monroe": {
+  "voters": 1109,
+  "LOCAL_SCHOOL_DISTRICT": {
+   "COLUMBUS GROVE LOCAL SD (PUTNAM)": 347,
+   "BATH LOCAL SD (ALLEN)": 462
+  },
+  "CONGRESSIONAL_DISTRICT": {
+   "04": 1109
+  },
+  "STATE_REPRESENTATIVE_DISTRICT": {
+   "78": 1109
+  },
+  "STATE_SENATE_DISTRICT": {
+   "12": 1109
+  },
+  "COURT_OF_APPEALS": {
+   "03": 1109
+  },
+  "EXEMPTED_VILL_SCHOOL_DISTRICT": {
+   "BLUFFTON EX VILL SD (ALLEN)": 300
+  }
+ },
+ "Township Perry": {
+  "voters": 2158,
+  "LOCAL_SCHOOL_DISTRICT": {
+   "PERRY LOCAL SD (ALLEN)": 2136,
+   "ALLEN EAST LOCAL SD (ALLEN)": 22
+  },
+  "CONGRESSIONAL_DISTRICT": {
+   "04": 2158
+  },
+  "STATE_REPRESENTATIVE_DISTRICT": {
+   "78": 2158
+  },
+  "STATE_SENATE_DISTRICT": {
+   "12": 2158
+  },
+  "COURT_OF_APPEALS": {
+   "03": 2158
+  }
+ },
+ "Township Richland": {
+  "voters": 1304,
+  "EXEMPTED_VILL_SCHOOL_DISTRICT": {
+   "BLUFFTON EX VILL SD (ALLEN)": 1279
+  },
+  "CONGRESSIONAL_DISTRICT": {
+   "04": 1304
+  },
+  "STATE_REPRESENTATIVE_DISTRICT": {
+   "78": 1304
+  },
+  "STATE_SENATE_DISTRICT": {
+   "12": 1304
+  },
+  "COURT_OF_APPEALS": {
+   "03": 1304
+  },
+  "LOCAL_SCHOOL_DISTRICT": {
+   "PANDORA-GILBOA LOCAL SD (PUTNAM)": 25
+  }
+ },
+ "Township Shawnee": {
+  "voters": 9070,
+  "LOCAL_SCHOOL_DISTRICT": {
+   "SHAWNEE LOCAL SD (ALLEN)": 9070
+  },
+  "CONGRESSIONAL_DISTRICT": {
+   "04": 9070
+  },
+  "STATE_REPRESENTATIVE_DISTRICT": {
+   "78": 9070
+  },
+  "STATE_SENATE_DISTRICT": {
+   "12": 9070
+  },
+  "COURT_OF_APPEALS": {
+   "03": 9070
+  }
+ },
+ "Township Spencer": {
+  "voters": 583,
+  "LOCAL_SCHOOL_DISTRICT": {
+   "SPENCERVILLE LOCAL SD (ALLEN)": 480
+  },
+  "CONGRESSIONAL_DISTRICT": {
+   "04": 583
+  },
+  "STATE_REPRESENTATIVE_DISTRICT": {
+   "78": 583
+  },
+  "STATE_SENATE_DISTRICT": {
+   "12": 583
+  },
+  "COURT_OF_APPEALS": {
+   "03": 583
+  },
+  "CITY_SCHOOL_DISTRICT": {
+   "DELPHOS CITY SD": 103
+  }
+ },
+ "Township Sugar Creek": {
+  "voters": 807,
+  "LOCAL_SCHOOL_DISTRICT": {
+   "ELIDA LOCAL SD (ALLEN)": 807
+  },
+  "CONGRESSIONAL_DISTRICT": {
+   "04": 807
+  },
+  "STATE_REPRESENTATIVE_DISTRICT": {
+   "78": 807
+  },
+  "STATE_SENATE_DISTRICT": {
+   "12": 807
+  },
+  "COURT_OF_APPEALS": {
+   "03": 807
+  }
+ }
+}

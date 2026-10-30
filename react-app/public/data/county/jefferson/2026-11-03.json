@@ -1,0 +1,693 @@
+{
+  "scope": "county",
+  "county": "Jefferson",
+  "fips": "39081",
+  "election": "2026-11-03",
+  "retrieved": "2026-10-30",
+  "notes": [
+    "Taken from the Board of Elections' 46-day election notice, which lists every contest and issue with the precincts that vote on it, checked against the Board's candidate list, issue list and precinct sample ballots. Levy figures are from the sample ballots; the full wording is on your sample ballot.",
+    "Candidates are listed alphabetically by last name, not in ballot order: Ohio rotates the order of names from precinct to precinct. Certified write-in candidates are not printed on the ballot and are not listed.",
+    "\"Where you live\" uses the state voter file: a district or school levy is shown for a city, village or township when any of its voters live in that district. Your exact ballot depends on your precinct."
+  ],
+  "places": [
+    "Adena Village",
+    "Amsterdam Village",
+    "Bergholz Village",
+    "Bloomingdale Village",
+    "Brush Creek Township",
+    "Cross Creek Township",
+    "Dillonvale Village",
+    "Empire Village",
+    "Irondale Village",
+    "Island Creek Township",
+    "Knox Township",
+    "Mingo Junction Village",
+    "Mount Pleasant Township",
+    "Mount Pleasant Village",
+    "New Alexandria Village",
+    "Rayland Village",
+    "Richmond Village",
+    "Ross Township",
+    "Salem Township",
+    "Saline Township",
+    "Smithfield Township",
+    "Springfield Township",
+    "Steubenville City",
+    "Steubenville Township",
+    "Stratton Village",
+    "Tiltonsville Village",
+    "Toronto City",
+    "Warren Township",
+    "Wayne Township",
+    "Wells Township",
+    "Wintersville Village",
+    "Yorkville Village"
+  ],
+  "sources": {
+    "jefferson-46day": {
+      "label": "Jefferson County Board of Elections: 46-day election notice (FWAB), November 3, 2026 General Election",
+      "url": "https://www.boe.ohio.gov/jefferson/c/upload/FWAB_11November46Day.pdf"
+    },
+    "jefferson-cand": {
+      "label": "Jefferson County Board of Elections: candidate list, November 3, 2026 General Election (10/15/2026)",
+      "url": "https://www.boe.ohio.gov/jefferson/c/upload/ELECTION_Candidates.pdf"
+    },
+    "jefferson-ballots": {
+      "label": "Jefferson County Board of Elections: sample ballots for every precinct, November 3, 2026 General Election",
+      "url": "https://lookup.boe.ohio.gov/vtrapp/jefferson/ballotlist.aspx"
+    },
+    "jefferson-issues": {
+      "label": "Jefferson County Board of Elections: issue list report, November 3, 2026 General Election (8/5/2026)",
+      "url": "https://www.boe.ohio.gov/jefferson/c/upload/ELECTION_Issues.pdf"
+    }
+  },
+  "links": [
+    {
+      "label": "Board of Elections",
+      "url": "https://www.boe.ohio.gov/jefferson/"
+    },
+    {
+      "label": "Election info",
+      "url": "https://www.boe.ohio.gov/jefferson/election-info/"
+    },
+    {
+      "label": "Sample ballots by precinct",
+      "url": "https://lookup.boe.ohio.gov/vtrapp/jefferson/ballotlist.aspx"
+    }
+  ],
+  "results": {
+    "status": "upcoming",
+    "links": [
+      {
+        "label": "Board of Elections: election results",
+        "url": "https://www.boe.ohio.gov/jefferson/election-info/election-results/"
+      }
+    ]
+  },
+  "contests": [
+    {
+      "id": "congress-6",
+      "group": "U.S. House",
+      "office": "Representative to Congress",
+      "detail": "6th District",
+      "candidates": [
+        {
+          "name": "Elizabeth Kirtley",
+          "party": "DEM"
+        },
+        {
+          "name": "Michael A. Rulli",
+          "party": "REP"
+        }
+      ],
+      "sources": [
+        "jefferson-46day",
+        "jefferson-cand",
+        "jefferson-ballots"
+      ]
+    },
+    {
+      "id": "rep-96",
+      "group": "Ohio General Assembly",
+      "office": "State Representative",
+      "detail": "96th District",
+      "candidates": [
+        {
+          "name": "Ron Ferguson",
+          "party": "REP"
+        },
+        {
+          "name": "Charrie L. Foglio",
+          "party": "DEM"
+        }
+      ],
+      "sources": [
+        "jefferson-46day",
+        "jefferson-cand",
+        "jefferson-ballots"
+      ]
+    },
+    {
+      "id": "appeals-7-0209",
+      "group": "Ohio Court of Appeals",
+      "office": "Judge of the Court of Appeals",
+      "detail": "7th District · full term commencing February 9, 2027",
+      "candidates": [
+        {
+          "name": "Molly K. Johnson",
+          "party": "REP"
+        }
+      ],
+      "sources": [
+        "jefferson-46day",
+        "jefferson-cand",
+        "jefferson-ballots"
+      ]
+    },
+    {
+      "id": "appeals-7-0210",
+      "group": "Ohio Court of Appeals",
+      "office": "Judge of the Court of Appeals",
+      "detail": "7th District · full term commencing February 10, 2027",
+      "candidates": [
+        {
+          "name": "Mark Anthony Hanni",
+          "party": "REP"
+        },
+        {
+          "name": "Katherine Rudzik",
+          "party": "DEM"
+        }
+      ],
+      "sources": [
+        "jefferson-46day",
+        "jefferson-cand",
+        "jefferson-ballots"
+      ]
+    },
+    {
+      "id": "commissioner",
+      "group": "County offices",
+      "office": "County Commissioner",
+      "detail": "Full term commencing January 1, 2027",
+      "candidates": [
+        {
+          "name": "Brent G. Nemeth",
+          "party": "DEM"
+        },
+        {
+          "name": "Eric Timmons",
+          "party": "REP"
+        }
+      ],
+      "sources": [
+        "jefferson-46day",
+        "jefferson-cand",
+        "jefferson-ballots"
+      ]
+    },
+    {
+      "id": "auditor",
+      "group": "County offices",
+      "office": "County Auditor",
+      "detail": "Term commencing March 8, 2027",
+      "candidates": [
+        {
+          "name": "E. J. Conn",
+          "party": "REP"
+        }
+      ],
+      "sources": [
+        "jefferson-46day",
+        "jefferson-cand",
+        "jefferson-ballots"
+      ]
+    },
+    {
+      "id": "cp-0101",
+      "group": "Court of Common Pleas",
+      "office": "Judge of the Court of Common Pleas",
+      "detail": "Full term commencing January 1, 2027 · no party label on the ballot",
+      "candidates": [
+        {
+          "name": "Michelle Garcia Miller"
+        }
+      ],
+      "sources": [
+        "jefferson-46day",
+        "jefferson-cand",
+        "jefferson-ballots"
+      ]
+    },
+    {
+      "id": "cp-0209",
+      "group": "Court of Common Pleas",
+      "office": "Judge of the Court of Common Pleas",
+      "detail": "Full term commencing February 9, 2027 · no party label on the ballot",
+      "candidates": [
+        {
+          "name": "Michael C. Bednar"
+        }
+      ],
+      "sources": [
+        "jefferson-46day",
+        "jefferson-cand",
+        "jefferson-ballots"
+      ]
+    },
+    {
+      "id": "cp-probate-juvenile",
+      "group": "Court of Common Pleas",
+      "office": "Judge of the Court of Common Pleas, Probate/Juvenile Division",
+      "detail": "Full term commencing February 9, 2027 · no party label on the ballot",
+      "candidates": [
+        {
+          "name": "Frank W. Noble, Jr."
+        }
+      ],
+      "sources": [
+        "jefferson-46day",
+        "jefferson-cand",
+        "jefferson-ballots"
+      ]
+    }
+  ],
+  "issues": [
+    {
+      "id": "issue-4",
+      "kind": "levy",
+      "jurisdiction": "Edison Local School District (Jefferson, Carroll and Harrison)",
+      "title": "Tax levy (renewal (fixed sum)): Current expenses ($1,049,150 a year)",
+      "area": "Edison Local School District (Brush Creek, Island Creek, Mt. Tabor, Pleasant Hill 1–2, Two Ridge, Welsmar, Wintringer, Stratton, Grant, New Somerset, Ross, Richmond, Salem, Shelley, Saline, Amsterdam and Elk; some precincts in part)",
+      "places": [
+        "Amsterdam Village",
+        "Bergholz Village",
+        "Brush Creek Township",
+        "Empire Village",
+        "Irondale Village",
+        "Island Creek Township",
+        "Knox Township",
+        "Richmond Village",
+        "Ross Township",
+        "Salem Township",
+        "Saline Township",
+        "Springfield Township",
+        "Stratton Village"
+      ],
+      "levy": {
+        "type": "Renewal (fixed sum)",
+        "purpose": "Current expenses ($1,049,150 a year).",
+        "mills": "1.85 mills (estimated average)",
+        "term": "5 years, commencing in 2027",
+        "firstDue": "2028",
+        "estimate": "$1,049,150 a year; $65 for each $100,000 of market value"
+      },
+      "number": "Issue 4",
+      "sources": [
+        "jefferson-46day",
+        "jefferson-issues",
+        "jefferson-ballots"
+      ]
+    },
+    {
+      "id": "issue-5",
+      "kind": "levy",
+      "jurisdiction": "Jefferson County Joint Vocational School District (Jefferson, Belmont, Carroll and Harrison)",
+      "title": "Tax levy (renewal): 0.67 mill for current expenses and 0.33 mill for reconditioning or acquiring tools, equipment or furnishings and for repairing, improving, renovating, expanding or reconstructing buildings and sites",
+      "area": "Jefferson County Joint Vocational School District (Jefferson, Belmont, Carroll and Harrison)",
+      "levy": {
+        "type": "Renewal",
+        "purpose": "0.67 mill for current expenses and 0.33 mill for reconditioning or acquiring tools, equipment or furnishings and for repairing, improving, renovating, expanding or reconstructing buildings and sites.",
+        "mills": "1 mill",
+        "term": "10 years, commencing in 2027",
+        "firstDue": "2028",
+        "estimate": "$1,999,864 a year; $32 for each $100,000 of market value"
+      },
+      "number": "Issue 5",
+      "note": "One of two separate 1-mill JVS renewals on the ballot (see Issue 6).",
+      "sources": [
+        "jefferson-46day",
+        "jefferson-issues",
+        "jefferson-ballots"
+      ]
+    },
+    {
+      "id": "issue-6",
+      "kind": "levy",
+      "jurisdiction": "Jefferson County Joint Vocational School District (Jefferson, Belmont, Carroll and Harrison)",
+      "title": "Tax levy (renewal): 0.67 mill for current expenses and 0.33 mill for purchasing equipment for buildings and improving buildings",
+      "area": "Jefferson County Joint Vocational School District (Jefferson, Belmont, Carroll and Harrison)",
+      "levy": {
+        "type": "Renewal",
+        "purpose": "0.67 mill for current expenses and 0.33 mill for purchasing equipment for buildings and improving buildings.",
+        "mills": "1 mill",
+        "term": "10 years, commencing in 2027",
+        "firstDue": "2028",
+        "estimate": "$1,934,109 a year; $30 for each $100,000 of market value"
+      },
+      "number": "Issue 6",
+      "note": "One of two separate 1-mill JVS renewals on the ballot (see Issue 5).",
+      "sources": [
+        "jefferson-46day",
+        "jefferson-issues",
+        "jefferson-ballots"
+      ]
+    },
+    {
+      "id": "issue-7",
+      "kind": "levy",
+      "jurisdiction": "Warren Township Park District (Jefferson and Belmont)",
+      "title": "Tax levy (additional): Parks and recreational purposes",
+      "area": "Tiltonsville (including Rayland), Yorkville and Glen Robbins precincts; also part of Belmont County",
+      "places": [
+        "Rayland Village",
+        "Tiltonsville Village",
+        "Warren Township",
+        "Yorkville Village"
+      ],
+      "levy": {
+        "type": "Additional",
+        "purpose": "Parks and recreational purposes.",
+        "mills": "1 mill",
+        "term": "5 years, commencing in 2026",
+        "firstDue": "2027",
+        "estimate": "$123,905 a year; $35 for each $100,000 of market value"
+      },
+      "number": "Issue 7",
+      "sources": [
+        "jefferson-46day",
+        "jefferson-issues",
+        "jefferson-ballots"
+      ]
+    },
+    {
+      "id": "issue-8",
+      "kind": "levy",
+      "jurisdiction": "Jefferson County",
+      "title": "Tax levy (renewal): Community programs and services of the county Board of Developmental Disabilities, and acquiring, building, renovating, financing, maintaining and operating developmental disabilities facilities",
+      "area": "Jefferson County",
+      "levy": {
+        "type": "Renewal",
+        "purpose": "Community programs and services of the county Board of Developmental Disabilities, and acquiring, building, renovating, financing, maintaining and operating developmental disabilities facilities.",
+        "mills": "1.7 mills",
+        "term": "10 years, commencing in 2027",
+        "firstDue": "2028",
+        "estimate": "$2,141,041 a year; $19 for each $100,000 of market value"
+      },
+      "number": "Issue 8",
+      "sources": [
+        "jefferson-46day",
+        "jefferson-issues",
+        "jefferson-ballots"
+      ]
+    },
+    {
+      "id": "issue-9",
+      "kind": "levy",
+      "jurisdiction": "Jefferson County",
+      "title": "Tax levy (renewal): Operation of the county 9-1-1 system",
+      "area": "Jefferson County",
+      "levy": {
+        "type": "Renewal",
+        "purpose": "Operation of the county 9-1-1 system.",
+        "mills": "1.5 mills",
+        "term": "5 years, commencing in 2027",
+        "firstDue": "2028",
+        "estimate": "$2,482,785 a year; $35 for each $100,000 of market value"
+      },
+      "number": "Issue 9",
+      "note": "The 46-day notice says commencing in 2028, first due in 2029; the Board's issue list and sample ballots say commencing in 2027, first due in 2028, which is shown here.",
+      "sources": [
+        "jefferson-46day",
+        "jefferson-issues",
+        "jefferson-ballots"
+      ]
+    },
+    {
+      "id": "issue-10",
+      "kind": "levy",
+      "jurisdiction": "Village of Amsterdam",
+      "title": "Tax levy (renewal): Recreation, operation and maintenance",
+      "area": "Village of Amsterdam",
+      "places": [
+        "Amsterdam Village"
+      ],
+      "levy": {
+        "type": "Renewal",
+        "purpose": "Recreation, operation and maintenance.",
+        "mills": "3 mills",
+        "term": "5 years, commencing in 2027",
+        "firstDue": "2028",
+        "estimate": "$12,206 a year; $86 for each $100,000 of market value"
+      },
+      "number": "Issue 10",
+      "sources": [
+        "jefferson-46day",
+        "jefferson-issues",
+        "jefferson-ballots"
+      ]
+    },
+    {
+      "id": "issue-11",
+      "kind": "levy",
+      "jurisdiction": "Village of Irondale",
+      "title": "Tax levy (renewal): Current expenses",
+      "area": "Village of Irondale (Saline precinct, part)",
+      "places": [
+        "Irondale Village"
+      ],
+      "levy": {
+        "type": "Renewal",
+        "purpose": "Current expenses.",
+        "mills": "4 mills",
+        "term": "5 years, commencing in 2027",
+        "firstDue": "2028",
+        "estimate": "$11,648 a year; $102 for each $100,000 of market value"
+      },
+      "number": "Issue 11",
+      "sources": [
+        "jefferson-46day",
+        "jefferson-issues",
+        "jefferson-ballots"
+      ]
+    },
+    {
+      "id": "issue-12",
+      "kind": "levy",
+      "jurisdiction": "Village of Mount Pleasant",
+      "title": "Tax levy (renewal): Current expenses",
+      "area": "Village of Mount Pleasant (Emerson precinct, part)",
+      "places": [
+        "Mount Pleasant Village"
+      ],
+      "levy": {
+        "type": "Renewal",
+        "purpose": "Current expenses.",
+        "mills": "8 mills",
+        "term": "5 years, commencing in 2026",
+        "firstDue": "2027",
+        "estimate": "$23,527 a year; $115 for each $100,000 of market value"
+      },
+      "number": "Issue 12",
+      "sources": [
+        "jefferson-46day",
+        "jefferson-issues",
+        "jefferson-ballots"
+      ]
+    },
+    {
+      "id": "issue-13",
+      "kind": "levy",
+      "jurisdiction": "Village of Mount Pleasant",
+      "title": "Tax levy (renewal): Maintaining and operating the village's cemeteries",
+      "area": "Village of Mount Pleasant (Emerson precinct, part)",
+      "places": [
+        "Mount Pleasant Village"
+      ],
+      "levy": {
+        "type": "Renewal",
+        "purpose": "Maintaining and operating the village's cemeteries.",
+        "mills": "1 mill",
+        "term": "5 years, commencing in 2026",
+        "firstDue": "2027",
+        "estimate": "$4,902 a year; $26 for each $100,000 of market value"
+      },
+      "number": "Issue 13",
+      "sources": [
+        "jefferson-46day",
+        "jefferson-issues",
+        "jefferson-ballots"
+      ]
+    },
+    {
+      "id": "issue-14",
+      "kind": "levy",
+      "jurisdiction": "Village of Rayland",
+      "title": "Tax levy (renewal): Current police protection",
+      "area": "Village of Rayland (Tiltonsville precinct, part)",
+      "places": [
+        "Rayland Village"
+      ],
+      "levy": {
+        "type": "Renewal",
+        "purpose": "Current police protection.",
+        "mills": "4 mills",
+        "term": "5 years, commencing in 2026",
+        "firstDue": "2027",
+        "estimate": "$20,609 a year; $104 for each $100,000 of market value"
+      },
+      "number": "Issue 14",
+      "sources": [
+        "jefferson-46day",
+        "jefferson-issues",
+        "jefferson-ballots"
+      ]
+    },
+    {
+      "id": "issue-15",
+      "kind": "levy",
+      "jurisdiction": "Village of Richmond",
+      "title": "Tax levy (renewal): Current expenses",
+      "area": "Village of Richmond",
+      "places": [
+        "Richmond Village"
+      ],
+      "levy": {
+        "type": "Renewal",
+        "purpose": "Current expenses.",
+        "mills": "2 mills",
+        "term": "5 years, commencing in 2027",
+        "firstDue": "2028",
+        "estimate": "$12,004 a year; $45 for each $100,000 of market value"
+      },
+      "number": "Issue 15",
+      "sources": [
+        "jefferson-46day",
+        "jefferson-issues",
+        "jefferson-ballots"
+      ]
+    },
+    {
+      "id": "issue-16",
+      "kind": "levy",
+      "jurisdiction": "Village of Stratton",
+      "title": "Tax levy (renewal): Police and fire expenses",
+      "area": "Village of Stratton",
+      "places": [
+        "Stratton Village"
+      ],
+      "levy": {
+        "type": "Renewal",
+        "purpose": "Police and fire expenses.",
+        "mills": "5 mills",
+        "term": "5 years, commencing in 2027",
+        "firstDue": "2028",
+        "estimate": "$205,862 a year; $139 for each $100,000 of market value"
+      },
+      "number": "Issue 16",
+      "sources": [
+        "jefferson-46day",
+        "jefferson-issues",
+        "jefferson-ballots"
+      ]
+    },
+    {
+      "id": "issue-17",
+      "kind": "liquor",
+      "jurisdiction": "Smithfield Township (Piney Fork precinct)",
+      "title": "Local liquor option: Adena American Legion Post 525 (Sunday)",
+      "area": "Piney Fork precinct, split 068-2",
+      "places": [
+        "Adena Village"
+      ],
+      "number": "Issue 17",
+      "text": "Sunday sale of wine and mixed beverages and spirituous liquor by AL Post 525 Gilbert Koontz dba Adena American Legion Post 525 (D-6 permit applicant, on-premise sales), a veterans service organization at 75 Hanna Ave., Adena.",
+      "sources": [
+        "jefferson-46day",
+        "jefferson-issues",
+        "jefferson-ballots"
+      ]
+    },
+    {
+      "id": "issue-18",
+      "kind": "levy",
+      "jurisdiction": "Salem Township",
+      "title": "Tax levy (renewal): Fire protection",
+      "area": "Salem Township (Richmond, Salem and Shelley precincts)",
+      "places": [
+        "Richmond Village",
+        "Salem Township"
+      ],
+      "levy": {
+        "type": "Renewal",
+        "purpose": "Fire protection.",
+        "mills": "1.5 mills",
+        "term": "5 years, commencing in 2027",
+        "firstDue": "2028",
+        "estimate": "$195,021 a year; $43 for each $100,000 of market value"
+      },
+      "number": "Issue 18",
+      "sources": [
+        "jefferson-46day",
+        "jefferson-issues",
+        "jefferson-ballots"
+      ]
+    },
+    {
+      "id": "issue-19",
+      "kind": "levy",
+      "jurisdiction": "Mount Pleasant Township (unincorporated)",
+      "title": "Tax levy (additional): Fire and emergency medical services",
+      "area": "Mount Pleasant Township outside the villages of Dillonvale and Mount Pleasant (Emerson precinct, part)",
+      "places": [
+        "Mount Pleasant Township"
+      ],
+      "levy": {
+        "type": "Additional",
+        "purpose": "Fire and emergency medical services.",
+        "mills": "4 mills",
+        "term": "Continuing period of time, commencing in 2026",
+        "firstDue": "2027",
+        "estimate": "$275,811 a year; $140 for each $100,000 of market value"
+      },
+      "number": "Issue 19",
+      "sources": [
+        "jefferson-46day",
+        "jefferson-issues",
+        "jefferson-ballots"
+      ]
+    },
+    {
+      "id": "issue-20",
+      "kind": "levy",
+      "jurisdiction": "Saline Township",
+      "title": "Tax levy (renewal): Ambulance and emergency medical services",
+      "area": "Saline Township (Saline precinct, including Irondale, and Stratton precinct, part)",
+      "places": [
+        "Irondale Village",
+        "Saline Township",
+        "Stratton Village"
+      ],
+      "levy": {
+        "type": "Renewal",
+        "purpose": "Ambulance and emergency medical services.",
+        "mills": "2.5 mills",
+        "term": "5 years, commencing in 2027",
+        "firstDue": "2028",
+        "estimate": "$163,497 a year; $38 for each $100,000 of market value"
+      },
+      "number": "Issue 20",
+      "sources": [
+        "jefferson-46day",
+        "jefferson-issues",
+        "jefferson-ballots"
+      ]
+    },
+    {
+      "id": "issue-21",
+      "kind": "levy",
+      "jurisdiction": "Saline Township",
+      "title": "Tax levy (additional): Current operating expenses of the Saline Township Police Department",
+      "area": "Saline Township (Saline precinct, including Irondale, and Stratton precinct, part)",
+      "places": [
+        "Irondale Village",
+        "Saline Township",
+        "Stratton Village"
+      ],
+      "levy": {
+        "type": "Additional",
+        "purpose": "Current operating expenses of the Saline Township Police Department.",
+        "mills": "3 mills",
+        "term": "5 years, commencing in 2026",
+        "firstDue": "2027",
+        "estimate": "$212,349 a year; $105 for each $100,000 of market value"
+      },
+      "number": "Issue 21",
+      "sources": [
+        "jefferson-46day",
+        "jefferson-issues",
+        "jefferson-ballots"
+      ]
+    }
+  ]
+}

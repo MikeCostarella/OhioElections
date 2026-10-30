@@ -1,0 +1,629 @@
+{
+  "scope": "county",
+  "county": "Belmont",
+  "fips": "39013",
+  "election": "2026-11-03",
+  "retrieved": "2026-10-30",
+  "notes": [
+    "Taken from the Board of Elections' 46-day election notice, which lists every contest and issue with the precincts that vote on it (the Board's issues list for this election was not yet posted). Issue wording is the Board's; the full wording is on the sample ballot.",
+    "Candidates are listed alphabetically by last name, not in ballot order: Ohio rotates the order of names from precinct to precinct. Certified write-in candidates are not printed on the ballot and are not listed.",
+    "\"Where you live\" uses the state voter file: a district or school levy is shown for a city, village or township when any of its voters live in that district. Your exact ballot depends on your precinct.",
+    "The Board's notice does not give local issue numbers; see your sample ballot for them."
+  ],
+  "places": [
+    "Barnesville Village",
+    "Bellaire Village",
+    "Belmont Village",
+    "Bethesda Village",
+    "Bridgeport Village",
+    "Brookside Village",
+    "Colerain Township",
+    "Flushing Township",
+    "Flushing Village",
+    "Goshen Township",
+    "Holloway Village",
+    "Kirkwood Township",
+    "Martins Ferry City",
+    "Mead Township",
+    "Morristown Village",
+    "Pease Township",
+    "Powhatan Point Village",
+    "Pultney Township",
+    "Richland Township",
+    "Shadyside Village",
+    "Smith Township",
+    "Somerset Township",
+    "St. Clairsville City",
+    "Union Township",
+    "Warren Township",
+    "Washington Township",
+    "Wayne Township",
+    "Wheeling Township",
+    "Wilson Village",
+    "York Township",
+    "Yorkville Village"
+  ],
+  "sources": {
+    "belmont-46day": {
+      "label": "Belmont County Board of Elections: 46-day election notice (FWAB), November 3, 2026 General Election (revised 9/18/2026)",
+      "url": "https://www.boe.ohio.gov/belmont/c/upload/FWAB_11November46Day.pdf"
+    }
+  },
+  "links": [
+    {
+      "label": "Board of Elections",
+      "url": "https://www.boe.ohio.gov/belmont/"
+    },
+    {
+      "label": "Candidates & issues",
+      "url": "https://www.boe.ohio.gov/belmont/election-info/candidates-issues/"
+    },
+    {
+      "label": "Sample ballots by precinct",
+      "url": "https://lookup.boe.ohio.gov/vtrapp/belmont/ballotlist.aspx"
+    }
+  ],
+  "results": {
+    "status": "upcoming",
+    "links": [
+      {
+        "label": "Board of Elections: election results",
+        "url": "https://www.boe.ohio.gov/belmont/election-info/election-results/"
+      }
+    ]
+  },
+  "contests": [
+    {
+      "id": "congress-6",
+      "group": "U.S. House",
+      "office": "Representative to Congress",
+      "detail": "6th District",
+      "candidates": [
+        {
+          "name": "Elizabeth Kirtley",
+          "party": "DEM"
+        },
+        {
+          "name": "Michael A. Rulli",
+          "party": "REP"
+        }
+      ],
+      "sources": [
+        "belmont-46day"
+      ]
+    },
+    {
+      "id": "rep-95",
+      "group": "Ohio General Assembly",
+      "office": "State Representative",
+      "detail": "95th District",
+      "area": "Barnesville Village, Belmont Village, Bethesda Village, Flushing Township, Flushing Village, Goshen Township, Holloway Village, Kirkwood Township, Morristown Village, Richland Township, Smith Township, St. Clairsville City, Union Township, Warren Township, Wheeling Township",
+      "places": [
+        "Barnesville Village",
+        "Belmont Village",
+        "Bethesda Village",
+        "Flushing Township",
+        "Flushing Village",
+        "Goshen Township",
+        "Holloway Village",
+        "Kirkwood Township",
+        "Morristown Village",
+        "Richland Township",
+        "Smith Township",
+        "St. Clairsville City",
+        "Union Township",
+        "Warren Township",
+        "Wheeling Township"
+      ],
+      "candidates": [
+        {
+          "name": "Paul Cameron",
+          "party": "DEM"
+        },
+        {
+          "name": "Ty Moore",
+          "party": "REP"
+        }
+      ],
+      "sources": [
+        "belmont-46day"
+      ]
+    },
+    {
+      "id": "rep-96",
+      "group": "Ohio General Assembly",
+      "office": "State Representative",
+      "detail": "96th District",
+      "area": "Bellaire Village, Bridgeport Village, Brookside Village, Colerain Township, Martins Ferry City, Mead Township, Pease Township, Powhatan Point Village, Pultney Township, Shadyside Village, Somerset Township, Washington Township, Wayne Township, Wilson Village, York Township, Yorkville Village",
+      "places": [
+        "Bellaire Village",
+        "Bridgeport Village",
+        "Brookside Village",
+        "Colerain Township",
+        "Martins Ferry City",
+        "Mead Township",
+        "Pease Township",
+        "Powhatan Point Village",
+        "Pultney Township",
+        "Shadyside Village",
+        "Somerset Township",
+        "Washington Township",
+        "Wayne Township",
+        "Wilson Village",
+        "York Township",
+        "Yorkville Village"
+      ],
+      "candidates": [
+        {
+          "name": "Ron Ferguson",
+          "party": "REP"
+        },
+        {
+          "name": "Charrie L. Foglio",
+          "party": "DEM"
+        }
+      ],
+      "sources": [
+        "belmont-46day"
+      ]
+    },
+    {
+      "id": "appeals-7-0209",
+      "group": "Ohio Court of Appeals",
+      "office": "Judge of the Court of Appeals",
+      "detail": "7th District · full term commencing February 9, 2027",
+      "candidates": [
+        {
+          "name": "Molly K. Johnson",
+          "party": "REP"
+        }
+      ],
+      "sources": [
+        "belmont-46day"
+      ]
+    },
+    {
+      "id": "appeals-7-0210",
+      "group": "Ohio Court of Appeals",
+      "office": "Judge of the Court of Appeals",
+      "detail": "7th District · full term commencing February 10, 2027",
+      "candidates": [
+        {
+          "name": "Mark Anthony Hanni",
+          "party": "REP"
+        },
+        {
+          "name": "Katherine Rudzik",
+          "party": "DEM"
+        }
+      ],
+      "sources": [
+        "belmont-46day"
+      ]
+    },
+    {
+      "id": "commissioner",
+      "group": "County offices",
+      "office": "County Commissioner",
+      "detail": "Full term commencing January 1, 2027",
+      "candidates": [
+        {
+          "name": "Dominic DeFelice",
+          "party": "REP"
+        },
+        {
+          "name": "Franklin Cecil Shaffer Jr.",
+          "party": "DEM"
+        }
+      ],
+      "sources": [
+        "belmont-46day"
+      ]
+    },
+    {
+      "id": "auditor",
+      "group": "County offices",
+      "office": "County Auditor",
+      "detail": "Full term commencing March 8, 2027",
+      "candidates": [
+        {
+          "name": "Josh Meyer",
+          "party": "REP"
+        }
+      ],
+      "sources": [
+        "belmont-46day"
+      ]
+    },
+    {
+      "id": "cp-0101",
+      "group": "Court of Common Pleas",
+      "office": "Judge of the Court of Common Pleas",
+      "detail": "Full term commencing January 1, 2027 · no party label on the ballot",
+      "candidates": [
+        {
+          "name": "Kevin Flanagan"
+        }
+      ],
+      "sources": [
+        "belmont-46day"
+      ]
+    },
+    {
+      "id": "cp-0209",
+      "group": "Court of Common Pleas",
+      "office": "Judge of the Court of Common Pleas",
+      "detail": "Full term commencing February 9, 2027 · no party label on the ballot",
+      "candidates": [
+        {
+          "name": "Chris Berhalter"
+        }
+      ],
+      "sources": [
+        "belmont-46day"
+      ]
+    },
+    {
+      "id": "cp-probate",
+      "group": "Court of Common Pleas",
+      "office": "Judge of the Court of Common Pleas, Probate Division",
+      "detail": "Full term commencing February 9, 2027 · no party label on the ballot",
+      "candidates": [
+        {
+          "name": "Albert E. Davies"
+        }
+      ],
+      "sources": [
+        "belmont-46day"
+      ]
+    }
+  ],
+  "issues": [
+    {
+      "id": "county-senior-services",
+      "kind": "levy",
+      "jurisdiction": "Belmont County",
+      "title": "Tax levy (renewal and decrease): Providing and maintaining senior services and facilities, including transportation, nutrition and in-home services to elderly residents",
+      "area": "Belmont County (all precincts)",
+      "levy": {
+        "type": "Renewal and decrease",
+        "purpose": "Providing and maintaining senior services and facilities, including transportation, nutrition and in-home services to elderly residents.",
+        "mills": "0.75 mill",
+        "term": "5 years, commencing in 2027",
+        "firstDue": "2028",
+        "estimate": "$1,410,000 a year; $15 for each $100,000 of market value"
+      },
+      "note": "A renewal of part of an existing levy, being a reduction of 0.75 mill.",
+      "sources": [
+        "belmont-46day"
+      ]
+    },
+    {
+      "id": "county-911-radio",
+      "kind": "levy",
+      "jurisdiction": "Belmont County",
+      "title": "Tax levy (renewal): Belmont County 911 public safety emergency radio communications system and equipment (radios, infrastructure, dispatch consoles, pagers, mobile data terminals, next generation 911), maintenance and operations, excluding salaries",
+      "area": "Belmont County (all precincts)",
+      "levy": {
+        "type": "Renewal",
+        "purpose": "Belmont County 911 public safety emergency radio communications system and equipment (radios, infrastructure, dispatch consoles, pagers, mobile data terminals, next generation 911), maintenance and operations, excluding salaries.",
+        "mills": "0.75 mill",
+        "term": "5 years, commencing in 2027",
+        "firstDue": "2028",
+        "estimate": "$1,675,000 a year; $22 for each $100,000 of market value"
+      },
+      "sources": [
+        "belmont-46day"
+      ]
+    },
+    {
+      "id": "bridgeport-fire",
+      "kind": "levy",
+      "jurisdiction": "Village of Bridgeport",
+      "title": "Tax levy (renewal): Replacing or repairing fire and emergency apparatus and equipment, and providing personnel and training for firefighting and emergency medical services",
+      "area": "Bridgeport Village 1 and 2",
+      "places": [
+        "Bridgeport Village"
+      ],
+      "levy": {
+        "type": "Renewal",
+        "purpose": "Replacing or repairing fire and emergency apparatus and equipment, and providing personnel and training for firefighting and emergency medical services.",
+        "mills": "4 mills",
+        "term": "4 years, commencing in 2027",
+        "firstDue": "2028",
+        "estimate": "$99,000 a year; $104 for each $100,000 of market value"
+      },
+      "sources": [
+        "belmont-46day"
+      ]
+    },
+    {
+      "id": "holloway-police",
+      "kind": "levy",
+      "jurisdiction": "Village of Holloway",
+      "title": "Tax levy (additional): Police protection and general law enforcement within corporation limits",
+      "area": "Village of Holloway",
+      "places": [
+        "Holloway Village"
+      ],
+      "levy": {
+        "type": "Additional",
+        "purpose": "Police protection and general law enforcement within corporation limits.",
+        "mills": "3 mills",
+        "term": "5 years, commencing in 2026",
+        "firstDue": "2027",
+        "estimate": "$13,000 a year; $105 for each $100,000 of market value"
+      },
+      "sources": [
+        "belmont-46day"
+      ]
+    },
+    {
+      "id": "holloway-current-1-5",
+      "kind": "levy",
+      "jurisdiction": "Village of Holloway",
+      "title": "Tax levy (renewal): Current expenses",
+      "area": "Village of Holloway",
+      "places": [
+        "Holloway Village"
+      ],
+      "levy": {
+        "type": "Renewal",
+        "purpose": "Current expenses.",
+        "mills": "1.5 mills",
+        "term": "5 years, commencing in 2026",
+        "firstDue": "2027",
+        "estimate": "$5,000 a year; $33 for each $100,000 of market value"
+      },
+      "sources": [
+        "belmont-46day"
+      ]
+    },
+    {
+      "id": "holloway-current-1-9",
+      "kind": "levy",
+      "jurisdiction": "Village of Holloway",
+      "title": "Tax levy (renewal): Current expenses",
+      "area": "Village of Holloway",
+      "places": [
+        "Holloway Village"
+      ],
+      "levy": {
+        "type": "Renewal",
+        "purpose": "Current expenses.",
+        "mills": "1.9 mills",
+        "term": "5 years, commencing in 2026",
+        "firstDue": "2027",
+        "estimate": "$7,000 a year"
+      },
+      "note": "The Board's notice prints the cost as \"$42,000 for each $100,000\" of market value, apparently a misprint; see your sample ballot for the figure.",
+      "sources": [
+        "belmont-46day"
+      ]
+    },
+    {
+      "id": "holloway-fire",
+      "kind": "levy",
+      "jurisdiction": "Village of Holloway",
+      "title": "Tax levy (renewal): Fire protection",
+      "area": "Village of Holloway",
+      "places": [
+        "Holloway Village"
+      ],
+      "levy": {
+        "type": "Renewal",
+        "purpose": "Fire protection.",
+        "mills": "1 mill",
+        "term": "5 years, commencing in 2026",
+        "firstDue": "2027",
+        "estimate": "$3,000 a year; $22 for each $100,000 of market value"
+      },
+      "sources": [
+        "belmont-46day"
+      ]
+    },
+    {
+      "id": "holloway-roads",
+      "kind": "levy",
+      "jurisdiction": "Village of Holloway",
+      "title": "Tax levy (renewal): Roads and bridges",
+      "area": "Village of Holloway",
+      "places": [
+        "Holloway Village"
+      ],
+      "levy": {
+        "type": "Renewal",
+        "purpose": "Roads and bridges.",
+        "mills": "6 mills",
+        "term": "5 years, commencing in 2026",
+        "firstDue": "2027",
+        "estimate": "$22,000 a year; $149 for each $100,000 of market value"
+      },
+      "sources": [
+        "belmont-46day"
+      ]
+    },
+    {
+      "id": "flushing-twp-fire",
+      "kind": "levy",
+      "jurisdiction": "Flushing Township (excluding the Villages of Flushing and Holloway)",
+      "title": "Tax levy (additional): Fire protection with the volunteer fire departments covering areas of Flushing Township",
+      "area": "Flushing Township (precincts 047/1, 047/2)",
+      "places": [
+        "Flushing Township"
+      ],
+      "levy": {
+        "type": "Additional",
+        "purpose": "Fire protection with the volunteer fire departments covering areas of Flushing Township.",
+        "mills": "2.5 mills",
+        "term": "5 years, commencing in 2026",
+        "firstDue": "2027",
+        "estimate": "$89,000 a year; $88 for each $100,000 of market value"
+      },
+      "sources": [
+        "belmont-46day"
+      ]
+    },
+    {
+      "id": "flushing-twp-roads",
+      "kind": "levy",
+      "jurisdiction": "Flushing Township (excluding the Villages of Flushing and Holloway)",
+      "title": "Tax levy (renewal): Road and bridge maintenance",
+      "area": "Flushing Township (precincts 047/1, 047/2)",
+      "places": [
+        "Flushing Township"
+      ],
+      "levy": {
+        "type": "Renewal",
+        "purpose": "Road and bridge maintenance.",
+        "mills": "2.5 mills",
+        "term": "5 years, commencing in 2026",
+        "firstDue": "2027",
+        "estimate": "$77,000 a year; $67 for each $100,000 of market value"
+      },
+      "sources": [
+        "belmont-46day"
+      ]
+    },
+    {
+      "id": "mead-twp-roads",
+      "kind": "levy",
+      "jurisdiction": "Mead Township (excluding the Village of Shadyside)",
+      "title": "Tax levy (renewal): General construction, reconstruction, resurfacing and repair of roads and bridges",
+      "area": "Mead Township 1 and 2",
+      "places": [
+        "Mead Township"
+      ],
+      "levy": {
+        "type": "Renewal",
+        "purpose": "General construction, reconstruction, resurfacing and repair of roads and bridges.",
+        "mills": "1 mill",
+        "term": "5 years, commencing in 2027",
+        "firstDue": "2028",
+        "estimate": "$130,000 a year; $19 for each $100,000 of market value"
+      },
+      "sources": [
+        "belmont-46day"
+      ]
+    },
+    {
+      "id": "somerset-twp-roads",
+      "kind": "levy",
+      "jurisdiction": "Somerset Township",
+      "title": "Tax levy (renewal and increase): General construction, reconstruction, resurfacing and repairs of roads and bridges within Somerset Township",
+      "area": "Somerset Township 1 and 2",
+      "places": [
+        "Somerset Township"
+      ],
+      "levy": {
+        "type": "Renewal and increase",
+        "purpose": "General construction, reconstruction, resurfacing and repairs of roads and bridges within Somerset Township.",
+        "mills": "1.5 mills",
+        "term": "5 years, commencing in 2027",
+        "firstDue": "2028",
+        "estimate": "$73,000 a year; $31 for each $100,000 of market value"
+      },
+      "note": "A renewal of 1.3 mills of an existing levy and an increase of 0.2 mill.",
+      "sources": [
+        "belmont-46day"
+      ]
+    },
+    {
+      "id": "martins-ferry-csd-income-tax",
+      "kind": "question",
+      "jurisdiction": "Martins Ferry City School District",
+      "title": "School district income tax: 0.75% on earned income for 5 years, for current expenses",
+      "area": "Martins Ferry 1-A, 2-A, 3-A, 3-B, 4-A; Colerain Township 1, 2/2, 3, 4/1, 4/4, 5/1, 5/3; Pease Township 3/3, 4/1, 4/4, 4/7, 5/3",
+      "places": [
+        "Colerain Township",
+        "Martins Ferry City",
+        "Pease Township"
+      ],
+      "text": "Shall an annual income tax of 0.75% on the earned income of individuals residing in the school district be imposed by the Martins Ferry City School District, for 5 years, beginning January 1, 2027, for the purpose of current expenses?",
+      "sources": [
+        "belmont-46day"
+      ]
+    },
+    {
+      "id": "barnesville-library",
+      "kind": "levy",
+      "jurisdiction": "Barnesville Hutton Memorial Library",
+      "title": "Tax levy (renewal): Current expenses",
+      "area": "Barnesville Village 1–3; Flushing Township/1; Goshen Township/2; Kirkwood Township/1 and /3; Somerset Township 1 and 2; Warren Township; Wayne Township/1",
+      "places": [
+        "Barnesville Village",
+        "Flushing Township",
+        "Goshen Township",
+        "Kirkwood Township",
+        "Somerset Township",
+        "Warren Township",
+        "Wayne Township"
+      ],
+      "levy": {
+        "type": "Renewal",
+        "purpose": "Current expenses.",
+        "mills": "1 mill",
+        "term": "5 years, commencing in 2027",
+        "firstDue": "2028",
+        "estimate": "$222,000 a year; $23 for each $100,000 of market value"
+      },
+      "sources": [
+        "belmont-46day"
+      ]
+    },
+    {
+      "id": "st-clairsville-library",
+      "kind": "levy",
+      "jurisdiction": "St. Clairsville Public Library",
+      "title": "Tax levy (renewal): Current expenses",
+      "area": "St. Clairsville 1-A through 4-B; Colerain Township 2/1, 4/2; Richland Township 1–5, 6/2, 7/2; Smith Township/2; Union Township 2/1; Wheeling Township 1/1, 2/1",
+      "places": [
+        "Colerain Township",
+        "Richland Township",
+        "Smith Township",
+        "St. Clairsville City",
+        "Union Township",
+        "Wheeling Township"
+      ],
+      "levy": {
+        "type": "Renewal",
+        "purpose": "Current expenses.",
+        "mills": "0.5 mill",
+        "term": "5 years, commencing in 2027",
+        "firstDue": "2028",
+        "estimate": "$281,000 a year; $13 for each $100,000 of market value"
+      },
+      "sources": [
+        "belmont-46day"
+      ]
+    },
+    {
+      "id": "liquor-bellaire-sons-of-italy",
+      "kind": "liquor",
+      "jurisdiction": "Village of Bellaire",
+      "title": "Local liquor option: Sons of Italy #754 (Sunday)",
+      "area": "Bellaire Village precinct 2",
+      "places": [
+        "Bellaire Village"
+      ],
+      "text": "Sunday sale of beer, wine and mixed beverages, and spirituous liquor by Sons of Italy #754, an applicant for a D-6 liquor permit and holder of a D-5 permit (a 501(c)(8) not-for-profit fraternal organization), at 3348 Belmont St., Bellaire.",
+      "sources": [
+        "belmont-46day"
+      ]
+    },
+    {
+      "id": "liquor-powhatan-toms-carryout",
+      "kind": "liquor",
+      "jurisdiction": "Village of Powhatan Point",
+      "title": "Local liquor option: Tom's Carryout (Sunday)",
+      "area": "Powhatan Point Village precinct",
+      "places": [
+        "Powhatan Point Village"
+      ],
+      "text": "Sunday sale of beer, wine and mixed beverages by Quick Food N Gas, dba Tom's Carryout, an applicant for a D-6 liquor permit (convenience store), at 329 Hwy 7 N, Powhatan Point.",
+      "sources": [
+        "belmont-46day"
+      ]
+    }
+  ]
+}

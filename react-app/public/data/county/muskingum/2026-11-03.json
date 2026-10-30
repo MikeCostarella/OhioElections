@@ -1,0 +1,550 @@
+{
+  "scope": "county",
+  "county": "Muskingum",
+  "fips": "39119",
+  "election": "2026-11-03",
+  "retrieved": "2026-10-30",
+  "notes": [
+    "Taken from the Board of Elections' 46-day election notice, which lists every contest and issue with the precincts that vote on it. Issue wording is the Board's summary; the full wording is on the sample ballot.",
+    "Candidates are listed alphabetically by last name, not in ballot order: Ohio rotates the order of names from precinct to precinct. Certified write-in candidates are not printed on the ballot and are not listed.",
+    "\"Where you live\" uses the state voter file: a district or school levy is shown for a city, village or township when any of its voters live in that district. Your exact ballot depends on your precinct.",
+    "The Board's notice does not give local issue numbers; see your sample ballot for them."
+  ],
+  "places": [
+    "Adamsville Township",
+    "Adamsville Village",
+    "Blue Rock Township",
+    "Brush Creek Township",
+    "Cass Township",
+    "Clay Township",
+    "Dresden Village",
+    "Falls Township",
+    "Frazeysburg Village",
+    "Fultonham Village",
+    "Gratiot Village",
+    "Harrison Township",
+    "Highland Township",
+    "Hopewell Township",
+    "Jackson Township",
+    "Jefferson Township",
+    "Licking Township",
+    "Madison Township",
+    "Meigs Township",
+    "Monroe Township",
+    "Muskingum Township",
+    "New Concord Village",
+    "Newton Township",
+    "Norwich Village",
+    "Perry Township",
+    "Philo Village",
+    "Rich Hill Township",
+    "Roseville Village",
+    "Salem Township",
+    "Salt Creek Township",
+    "South Zanesville Village",
+    "Springfield Township",
+    "Union Township",
+    "Washington Township",
+    "Wayne Township",
+    "Zanesville City"
+  ],
+  "sources": {
+    "muskingum-46day": {
+      "label": "Muskingum County Board of Elections: 46-day election notice (FWAB), November 3, 2026 General Election (revised 9/18/2026)",
+      "url": "https://www.boe.ohio.gov/muskingum/c/upload/FWAB_11November46Day.pdf"
+    }
+  },
+  "links": [
+    {
+      "label": "Board of Elections",
+      "url": "https://www.boe.ohio.gov/muskingum/"
+    },
+    {
+      "label": "Election information",
+      "url": "https://www.boe.ohio.gov/muskingum/election-information/"
+    },
+    {
+      "label": "Sample ballots by precinct",
+      "url": "https://lookup.boe.ohio.gov/vtrapp/muskingum/ballotlist.aspx"
+    }
+  ],
+  "results": {
+    "status": "upcoming",
+    "links": [
+      {
+        "label": "Board of Elections: election results",
+        "url": "https://www.boe.ohio.gov/muskingum/election-information/election-results/"
+      }
+    ]
+  },
+  "contests": [
+    {
+      "id": "congress-12",
+      "group": "U.S. House",
+      "office": "Representative to Congress",
+      "detail": "12th District · full 2-year term commencing January 3, 2027",
+      "candidates": [
+        {
+          "name": "Troy Balderson",
+          "party": "REP"
+        },
+        {
+          "name": "Jerrad Christian",
+          "party": "DEM"
+        }
+      ],
+      "sources": [
+        "muskingum-46day"
+      ]
+    },
+    {
+      "id": "senate-31",
+      "group": "Ohio General Assembly",
+      "office": "State Senator",
+      "detail": "31st District · full 4-year term commencing January 1, 2027",
+      "candidates": [
+        {
+          "name": "Al Landis",
+          "party": "REP"
+        },
+        {
+          "name": "Laura Sirot",
+          "party": "DEM"
+        }
+      ],
+      "sources": [
+        "muskingum-46day"
+      ]
+    },
+    {
+      "id": "rep-97",
+      "group": "Ohio General Assembly",
+      "office": "State Representative",
+      "detail": "97th District · full 2-year term commencing January 1, 2027",
+      "candidates": [
+        {
+          "name": "Kris Geis",
+          "party": "Nonparty"
+        },
+        {
+          "name": "Tim Godwin",
+          "party": "LIB"
+        },
+        {
+          "name": "Adam P. Holmes",
+          "party": "REP"
+        }
+      ],
+      "sources": [
+        "muskingum-46day"
+      ]
+    },
+    {
+      "id": "appeals-5",
+      "group": "Ohio Court of Appeals",
+      "office": "Judge of the Court of Appeals",
+      "detail": "5th District · term commencing February 9, 2027",
+      "candidates": [
+        {
+          "name": "Matthew George",
+          "party": "REP"
+        }
+      ],
+      "sources": [
+        "muskingum-46day"
+      ]
+    },
+    {
+      "id": "commissioner",
+      "group": "County offices",
+      "office": "County Commissioner",
+      "detail": "Full 4-year term commencing January 1, 2027",
+      "candidates": [
+        {
+          "name": "Melissa Bell",
+          "party": "REP"
+        }
+      ],
+      "sources": [
+        "muskingum-46day"
+      ]
+    },
+    {
+      "id": "auditor",
+      "group": "County offices",
+      "office": "County Auditor",
+      "detail": "Full 4-year term commencing March 8, 2027",
+      "candidates": [
+        {
+          "name": "Tina M. Huebner",
+          "party": "REP"
+        }
+      ],
+      "sources": [
+        "muskingum-46day"
+      ]
+    },
+    {
+      "id": "cp-gen",
+      "group": "Court of Common Pleas",
+      "office": "Judge of the Court of Common Pleas",
+      "detail": "Full 6-year term commencing January 1, 2027 · no party label on the ballot",
+      "candidates": [
+        {
+          "name": "Gerald Anderson"
+        }
+      ],
+      "sources": [
+        "muskingum-46day"
+      ]
+    },
+    {
+      "id": "cp-dr",
+      "group": "Court of Common Pleas",
+      "office": "Judge of the Court of Common Pleas, Domestic Relations Division",
+      "detail": "Full 6-year term commencing January 2, 2027 · no party label on the ballot",
+      "candidates": [
+        {
+          "name": "Maria N. Kalis"
+        }
+      ],
+      "sources": [
+        "muskingum-46day"
+      ]
+    },
+    {
+      "id": "cp-probate-juvenile",
+      "group": "Court of Common Pleas",
+      "office": "Judge of the Court of Common Pleas, Probate and Juvenile Division",
+      "detail": "Full 6-year term commencing February 9, 2027 · no party label on the ballot",
+      "candidates": [
+        {
+          "name": "Eric D. Martin"
+        }
+      ],
+      "sources": [
+        "muskingum-46day"
+      ]
+    }
+  ],
+  "issues": [
+    {
+      "id": "frazeysburg-police",
+      "kind": "levy",
+      "jurisdiction": "Village of Frazeysburg",
+      "title": "Tax levy (additional): Providing and maintaining police department, equipment and personnel",
+      "area": "Frazeysburg precinct 33/1",
+      "places": [
+        "Frazeysburg Village"
+      ],
+      "levy": {
+        "type": "Additional",
+        "purpose": "Providing and maintaining police department, equipment and personnel.",
+        "mills": "3 mills",
+        "term": "5 years, commencing in 2026",
+        "firstDue": "2027"
+      },
+      "sources": [
+        "muskingum-46day"
+      ]
+    },
+    {
+      "id": "norwich-current",
+      "kind": "levy",
+      "jurisdiction": "Village of Norwich",
+      "title": "Tax levy (additional): Current expenses",
+      "area": "Norwich precinct 60/2",
+      "places": [
+        "Norwich Village"
+      ],
+      "levy": {
+        "type": "Additional",
+        "purpose": "Current expenses.",
+        "mills": "4 mills",
+        "term": "5 years, commencing in 2026",
+        "firstDue": "2027"
+      },
+      "sources": [
+        "muskingum-46day"
+      ]
+    },
+    {
+      "id": "philo-roads",
+      "kind": "levy",
+      "jurisdiction": "Village of Philo",
+      "title": "Tax levy (additional): General construction, reconstruction, resurfacing and repair of streets, roads and bridges",
+      "area": "Philo precinct 28/2",
+      "places": [
+        "Philo Village"
+      ],
+      "levy": {
+        "type": "Additional",
+        "purpose": "General construction, reconstruction, resurfacing and repair of streets, roads and bridges.",
+        "mills": "7.25 mills",
+        "term": "5 years, commencing in 2026",
+        "firstDue": "2027"
+      },
+      "sources": [
+        "muskingum-46day"
+      ]
+    },
+    {
+      "id": "roseville-current",
+      "kind": "levy",
+      "jurisdiction": "Village of Roseville (Muskingum and Perry counties)",
+      "title": "Tax levy (renewal): Current expenses",
+      "area": "Roseville precinct 19/2",
+      "places": [
+        "Roseville Village"
+      ],
+      "levy": {
+        "type": "Renewal",
+        "purpose": "Current expenses.",
+        "mills": "4 mills",
+        "term": "5 years, commencing in 2027",
+        "firstDue": "2028"
+      },
+      "sources": [
+        "muskingum-46day"
+      ]
+    },
+    {
+      "id": "south-zanesville-fire",
+      "kind": "levy",
+      "jurisdiction": "Village of South Zanesville",
+      "title": "Tax levy (additional): Providing fire protection and ambulance or emergency medical services",
+      "area": "South Zanesville precincts 47/2, 55/1",
+      "places": [
+        "South Zanesville Village"
+      ],
+      "levy": {
+        "type": "Additional",
+        "purpose": "Providing fire protection and ambulance or emergency medical services.",
+        "mills": "3 mills",
+        "term": "5 years, commencing in 2026",
+        "firstDue": "2027"
+      },
+      "sources": [
+        "muskingum-46day"
+      ]
+    },
+    {
+      "id": "blue-rock-cemeteries",
+      "kind": "levy",
+      "jurisdiction": "Blue Rock Township",
+      "title": "Tax levy (renewal): Maintaining and operating cemeteries",
+      "area": "Blue Rock Township precinct 16/1",
+      "places": [
+        "Blue Rock Township"
+      ],
+      "levy": {
+        "type": "Renewal",
+        "purpose": "Maintaining and operating cemeteries.",
+        "mills": "0.4 mill",
+        "term": "5 years, commencing in 2027",
+        "firstDue": "2028"
+      },
+      "sources": [
+        "muskingum-46day"
+      ]
+    },
+    {
+      "id": "brush-creek-fire",
+      "kind": "levy",
+      "jurisdiction": "Brush Creek Township",
+      "title": "Tax levy (additional): Providing fire protection, ambulance or emergency medical services, and underwater rescue and recovery equipment",
+      "area": "Brush Creek Township precinct 17/1",
+      "places": [
+        "Brush Creek Township"
+      ],
+      "levy": {
+        "type": "Additional",
+        "purpose": "Providing fire protection, ambulance or emergency medical services, and underwater rescue and recovery equipment.",
+        "mills": "0.5 mill",
+        "term": "5 years, commencing in 2026",
+        "firstDue": "2027"
+      },
+      "sources": [
+        "muskingum-46day"
+      ]
+    },
+    {
+      "id": "licking-twp-roads",
+      "kind": "levy",
+      "jurisdiction": "Licking Township",
+      "title": "Tax levy (renewal): General construction, reconstruction, resurfacing and repair of streets, roads and bridges",
+      "area": "Licking Township precincts 37/1, 37/2, 38/1",
+      "places": [
+        "Licking Township"
+      ],
+      "levy": {
+        "type": "Renewal",
+        "purpose": "General construction, reconstruction, resurfacing and repair of streets, roads and bridges.",
+        "mills": "1 mill",
+        "term": "5 years, commencing in 2026",
+        "firstDue": "2027"
+      },
+      "sources": [
+        "muskingum-46day"
+      ]
+    },
+    {
+      "id": "rich-hill-cemeteries",
+      "kind": "levy",
+      "jurisdiction": "Rich Hill Township",
+      "title": "Tax levy (renewal): Maintaining and operating cemeteries",
+      "area": "Rich Hill Township precincts 52/1, 52/2",
+      "places": [
+        "Rich Hill Township"
+      ],
+      "levy": {
+        "type": "Renewal",
+        "purpose": "Maintaining and operating cemeteries.",
+        "mills": "0.25 mill",
+        "term": "5 years, commencing in 2026",
+        "firstDue": "2027"
+      },
+      "sources": [
+        "muskingum-46day"
+      ]
+    },
+    {
+      "id": "washington-twp-fire",
+      "kind": "levy",
+      "jurisdiction": "Washington Township",
+      "title": "Tax levy (renewal): Providing fire protection, ambulance or emergency medical services, and underwater rescue and recovery equipment",
+      "area": "Washington Township precincts 62/1, 63/1, 63/2, 64/1",
+      "places": [
+        "Washington Township"
+      ],
+      "levy": {
+        "type": "Renewal",
+        "purpose": "Providing fire protection, ambulance or emergency medical services, and underwater rescue and recovery equipment.",
+        "mills": "2.5 mills",
+        "term": "5 years, commencing in 2027",
+        "firstDue": "2028"
+      },
+      "sources": [
+        "muskingum-46day"
+      ]
+    },
+    {
+      "id": "springfield-twp-fire",
+      "kind": "levy",
+      "jurisdiction": "Springfield Township (unincorporated area)",
+      "title": "Tax levy (renewal): Providing fire protection, ambulance or emergency medical services, and underwater rescue and recovery equipment",
+      "area": "Springfield Township precincts 56/1, 56/2, 57/1, 58/1 (unincorporated area)",
+      "places": [
+        "Springfield Township"
+      ],
+      "levy": {
+        "type": "Renewal",
+        "purpose": "Providing fire protection, ambulance or emergency medical services, and underwater rescue and recovery equipment.",
+        "mills": "0.7 mill",
+        "term": "5 years, commencing in 2026",
+        "firstDue": "2027"
+      },
+      "sources": [
+        "muskingum-46day"
+      ]
+    },
+    {
+      "id": "liquor-crystal-springs-d6",
+      "kind": "liquor",
+      "jurisdiction": "Hopewell Township",
+      "title": "Local liquor option: The Golf Club at Crystal Springs (D-6 permit, Sunday)",
+      "area": "Hopewell A precinct (30, all splits)",
+      "places": [
+        "Hopewell Township"
+      ],
+      "text": "Local option (D-6 permit): The Golf Club at Crystal Springs, L.L.C., 745 N. Hopewell Road, Hopewell.",
+      "sources": [
+        "muskingum-46day"
+      ]
+    },
+    {
+      "id": "liquor-crystal-springs-d2-d3",
+      "kind": "liquor",
+      "jurisdiction": "Hopewell Township",
+      "title": "Local liquor option: The Golf Club at Crystal Springs (D-2 and D-3 permits)",
+      "area": "Hopewell A precinct (30, all splits)",
+      "places": [
+        "Hopewell Township"
+      ],
+      "text": "Local option (D-2 and D-3 permits): on/off-premise sales of wine and mixed beverages, and on-premise sales of spirituous liquor, by The Golf Club at Crystal Springs, L.L.C., 745 N. Hopewell Road, Hopewell.",
+      "sources": [
+        "muskingum-46day"
+      ]
+    },
+    {
+      "id": "liquor-dresden-705-main",
+      "kind": "liquor",
+      "jurisdiction": "Village of Dresden",
+      "title": "Local liquor option: 705 Main Street, Dresden (wine and mixed beverages)",
+      "area": "Dresden North precinct (35, all splits)",
+      "places": [
+        "Dresden Village"
+      ],
+      "text": "Local option (D-2 and D-2X permits): sale of wine and mixed beverages, on/off-premise sales, at 705 Main Street, Dresden. The Board's notice does not name the permit holder.",
+      "sources": [
+        "muskingum-46day"
+      ]
+    },
+    {
+      "id": "liquor-dillon-duchess",
+      "kind": "liquor",
+      "jurisdiction": "Muskingum Township",
+      "title": "Local liquor option: Dillon Duchess (Sunday)",
+      "area": "Muskingum A precinct (42, all splits)",
+      "places": [
+        "Muskingum Township"
+      ],
+      "text": "Local option: Sunday sale of wine and mixed beverages, or spirituous liquor, on-premise, off-premise or on/off-premise sales, by Englefield, Inc., dba Dillon Duchess, 5955 Newark Rd., Nashport.",
+      "sources": [
+        "muskingum-46day"
+      ]
+    },
+    {
+      "id": "liquor-lp-nashport-shell",
+      "kind": "liquor",
+      "jurisdiction": "Muskingum Township",
+      "title": "Local liquor option: LP Nashport Shell (Sunday)",
+      "area": "Muskingum B precinct (43, all splits)",
+      "places": [
+        "Muskingum Township"
+      ],
+      "text": "Local option: Sunday sale of beer, or wine and mixed beverages, or spirituous liquor, on-premise, off-premise or on/off-premise sales, by LP Ohio LLC, dba LP Nashport Shell, 6220 Frazeysburg Rd., Nashport.",
+      "sources": [
+        "muskingum-46day"
+      ]
+    },
+    {
+      "id": "liquor-norwich-shell",
+      "kind": "liquor",
+      "jurisdiction": "Perry Township",
+      "title": "Local liquor option: Norwich Shell (Sunday)",
+      "area": "Perry North precinct (50, all splits)",
+      "places": [
+        "Perry Township"
+      ],
+      "text": "Local option: Sunday sale of wine and mixed beverages, and spirituous liquor, on/off-premise sales, by MW Retail, L.L.C., dba Norwich Shell, 8490 E. Pike, Norwich (Perry Township).",
+      "sources": [
+        "muskingum-46day"
+      ]
+    },
+    {
+      "id": "liquor-south-60-marathon",
+      "kind": "liquor",
+      "jurisdiction": "Wayne Township",
+      "title": "Local liquor option: South 60 Marathon (Sunday)",
+      "area": "Wayne A precinct (65, all splits)",
+      "places": [
+        "Wayne Township"
+      ],
+      "text": "Local option: Sunday sale of beer, or wine and mixed beverages, or spirituous liquor, on-premise, off-premise or on/off-premise sales, by LP South 60 Market LLC, aka South 60 Marathon, 2040 S. River Rd., Zanesville.",
+      "sources": [
+        "muskingum-46day"
+      ]
+    }
+  ]
+}
