@@ -242,3 +242,6 @@ Data notes:
 - Shared items reuse ids and wording: Edison LSD and Jefferson County JVSD (Harrison), Loudonville-Perrysville, its library, Triway LSD and Wayne JVSD (Holmes), Alexander LSD (Meigs, Vinton), Paulding EVSD (Putnam, Paulding), Ridgedale LSD, Wyandot East Fire, Wynford LSD and MHRS (Wyandot).
 - Wynford LSD is 1.75% on Wyandot's ballots (notice 1.74%).
 
+# Oct 30, 2026 (candidate search)
+
+- Clicking a candidate's name opens a Google search for that person in a new tab. The search adds the office and "Ohio", and for county and local races the county name, so common names find the right person. Joint tickets (Governor / Lt. Governor) get a separate link for each name. Names look the same as before until hovered.

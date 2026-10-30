@@ -76,6 +76,8 @@ code { background: rgba(255,255,255,0.06); padding: 1px 5px; border-radius: 4px;
 .cands { list-style: none; margin: 2px 0 0; padding: 0; display: flex; flex-direction: column; gap: 4px; }
 .cands li { display: flex; align-items: baseline; flex-wrap: wrap; gap: 4px 8px; }
 .cand-name { color: var(--text-main); }
+.cand-name a { color: inherit; text-decoration: none; }
+.cand-name a:hover, .cand-name a:focus-visible { color: var(--text-accent); text-decoration: underline; text-underline-offset: 2px; }
 .party-tag, .kind-tag, .issue-num { font-size: 10.5px; letter-spacing: 0.06em; border: 1px solid var(--border-card); border-radius: 4px; padding: 0 5px; color: var(--text-muted); background: rgba(255,255,255,0.03); }
 .issue-num { color: var(--text-main); border-color: var(--border-accent); }
 .cand-note { width: 100%; font-size: 11.5px; color: var(--text-muted-2); }

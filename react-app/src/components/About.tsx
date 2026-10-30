@@ -14,6 +14,7 @@ export default function About({ loadedCounties }: { loadedCounties: string[] }) 
       <h2>How it is presented</h2>
       <ul>
         <li>Candidates are listed alphabetically by last name. Ohio rotates the order of names from precinct to precinct, so there is no single "ballot order".</li>
+        <li>Clicking a candidate's name opens a Google search for that person in a new tab. Google's results are not part of this app.</li>
         <li>Party labels are exactly as the Board prints them. Common pleas judges carry no party label on Ohio's general-election ballot.</li>
         <li>No ratings, endorsements or commentary. Issue wording is the Board's.</li>
         <li>Picking your city, village or township narrows the list to what that place votes on. Issues follow precinct lines, so for your exact ballot use your county's ballot lookup or the <a href={SOS.sampleBallot} target="_blank" rel="noopener noreferrer">Secretary of State's sample-ballot page</a>.</li>

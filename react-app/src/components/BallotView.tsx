@@ -46,7 +46,28 @@ function shortSource(label: string): string {
   return county ? `${county} ${kind}` : kind;
 }
 
-function ContestCard({ c, sources, place }: { c: Contest; sources: Record<string, Source>; place: string }) {
+/** Google search for a candidate, in a new tab. Local races add the county so common names find the right person. */
+function googleUrl(name: string, office: string, county?: string): string {
+  const q = [name, office, county ? `${county} County` : "", "Ohio"].filter(Boolean).join(" ");
+  return `https://www.google.com/search?q=${encodeURIComponent(q)}`;
+}
+
+/** A candidate's name as a search link; a joint ticket ("Amy Acton / David Pepper") gets one link per person. */
+function CandidateName({ name, office, county }: { name: string; office: string; county?: string }) {
+  const people = name.split(" / ");
+  return (
+    <span className="cand-name">
+      {people.map((n, i) => (
+        <span key={n}>
+          {i > 0 && " / "}
+          <a href={googleUrl(n, office, county)} target="_blank" rel="noopener noreferrer" title={`Search Google for ${n}`}>{n}</a>
+        </span>
+      ))}
+    </span>
+  );
+}
+
+function ContestCard({ c, sources, place, county }: { c: Contest; sources: Record<string, Source>; place: string; county?: string }) {
   const cands = [...c.candidates].sort(byLastName);
   return (
     <article className="card contest">
@@ -55,7 +76,7 @@ function ContestCard({ c, sources, place }: { c: Contest; sources: Record<string
       <ul className="cands">
         {cands.map((k) => (
           <li key={k.name}>
-            <span className="cand-name">{k.name}</span>
+            <CandidateName name={k.name} office={c.office} county={county} />
             {k.party && <span className="party-tag" title="Party as printed by the Board of Elections">{k.party}</span>}
             {k.note && <span className="cand-note">{k.note}</span>}
           </li>
@@ -121,6 +142,7 @@ export default function BallotView({ county, state, local, place }: Props) {
   }, [local, place, kinds, q]);
 
   const sources = { ...state.sources, ...(local?.sources ?? {}) };
+  const stateIds = new Set(state.contests.map((c) => c.id));
   const toggleKind = (k: string) => setKinds((prev) => { const n = new Set(prev); if (n.has(k)) n.delete(k); else n.add(k); return n.size ? n : prev; });
   const localTotal = local ? local.issues.filter((i) => appliesTo(i, place)).length : 0;
 
@@ -139,7 +161,7 @@ export default function BallotView({ county, state, local, place }: Props) {
         {group(contests, (c) => c.group).map(([g, cs]) => (
           <div key={g} className="group">
             <h4 className="group-title">{g}</h4>
-            <div className="grid">{cs.map((c) => <ContestCard key={c.id} c={c} sources={sources} place={place} />)}</div>
+            <div className="grid">{cs.map((c) => <ContestCard key={c.id} c={c} sources={sources} place={place} county={stateIds.has(c.id) ? undefined : county.name} />)}</div>
           </div>
         ))}
       </section>
