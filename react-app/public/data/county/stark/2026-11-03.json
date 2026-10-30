@@ -1,0 +1,1030 @@
+{
+  "scope": "county",
+  "county": "Stark",
+  "fips": "39151",
+  "election": "2026-11-03",
+  "retrieved": "2026-10-30",
+  "notes": [
+    "Taken from the Board of Elections' candidates list and its questions and issues list, which gives each issue as a one-line summary; the full wording is on the sample ballot.",
+    "Candidates are listed alphabetically by last name, not in ballot order: Ohio rotates the order of names from precinct to precinct. Certified write-in candidates are not printed on the ballot and are not listed.",
+    "\"Where you live\" uses the state voter file: a district or school levy is shown for a city, village or township when any of its voters live in that district. Your exact ballot depends on your precinct.",
+    "Issues marked \"boundaries not mapped\" are for special districts (park, ambulance or similar) whose boundaries are not in the voter file; they stay listed for every place."
+  ],
+  "places": [
+    "Alliance City",
+    "Beach City Village",
+    "Bethlehem Township",
+    "Brewster Village",
+    "Canal Fulton City",
+    "Canton City",
+    "Canton Township",
+    "East Canton Village",
+    "East Sparta Village",
+    "Hartville Village",
+    "Hills & Dales Village",
+    "Jackson Township",
+    "Lake Township",
+    "Lawrence Township",
+    "Lexington Township",
+    "Louisville City",
+    "Magnolia Village",
+    "Marlboro Township",
+    "Massillon City",
+    "Meyers Lake Village",
+    "Minerva Village",
+    "Navarre Village",
+    "Nimishillen Township",
+    "North Canton City",
+    "Osnaburg Township",
+    "Paris Township",
+    "Perry Township",
+    "Pike Township",
+    "Plain Township",
+    "Sandy Township",
+    "Sugar Creek Township",
+    "Tuscarawas Township",
+    "Washington Township",
+    "Waynesburg Village",
+    "Wilmot Village"
+  ],
+  "sources": {
+    "stark-cand": {
+      "label": "Stark County Board of Elections: candidates list, November 3, 2026 General Election (10/15/2026)",
+      "url": "https://www.starkcountyohio.gov/Board%20of%20Elections/Candidates%20List%20General.pdf"
+    },
+    "stark-issues": {
+      "label": "Stark County Board of Elections: questions and issues list, November 3, 2026 General Election",
+      "url": "https://www.starkcountyohio.gov/Board%20of%20Elections/General%202026_issues%20list_w%20numbers.pdf"
+    }
+  },
+  "links": [
+    {
+      "label": "Board of Elections",
+      "url": "https://www.starkcountyohio.gov/government/offices/board_of_elections/index.php"
+    },
+    {
+      "label": "Ohio sample ballot lookup",
+      "url": "https://www.ohiosos.gov/elections/voters/toolkit/sample-ballot/"
+    }
+  ],
+  "results": {
+    "status": "upcoming",
+    "links": [
+      {
+        "label": "Board of Elections: election results",
+        "url": "https://www.starkcountyohio.gov/government/offices/board_of_elections/index.php"
+      }
+    ]
+  },
+  "contests": [
+    {
+      "id": "congress-6",
+      "group": "U.S. House",
+      "office": "Representative to Congress",
+      "detail": "6th District",
+      "area": "Alliance City, Beach City Village, Bethlehem Township, Brewster Village, Canal Fulton City, Canton City, Canton Township, East Canton Village, East Sparta Village, Hartville Village, Jackson Township, Lake Township, Lawrence Township, Lexington Township, Louisville City, Magnolia Village, Marlboro Township, Massillon City, Meyers Lake Village, Minerva Village, Navarre Village, Nimishillen Township, Osnaburg Township, Paris Township, Perry Township, Pike Township, Sandy Township, Sugar Creek Township, Tuscarawas Township, Washington Township, Waynesburg Village, Wilmot Village",
+      "places": [
+        "Alliance City",
+        "Beach City Village",
+        "Bethlehem Township",
+        "Brewster Village",
+        "Canal Fulton City",
+        "Canton City",
+        "Canton Township",
+        "East Canton Village",
+        "East Sparta Village",
+        "Hartville Village",
+        "Jackson Township",
+        "Lake Township",
+        "Lawrence Township",
+        "Lexington Township",
+        "Louisville City",
+        "Magnolia Village",
+        "Marlboro Township",
+        "Massillon City",
+        "Meyers Lake Village",
+        "Minerva Village",
+        "Navarre Village",
+        "Nimishillen Township",
+        "Osnaburg Township",
+        "Paris Township",
+        "Perry Township",
+        "Pike Township",
+        "Sandy Township",
+        "Sugar Creek Township",
+        "Tuscarawas Township",
+        "Washington Township",
+        "Waynesburg Village",
+        "Wilmot Village"
+      ],
+      "candidates": [
+        {
+          "name": "Elizabeth Kirtley",
+          "party": "DEM"
+        },
+        {
+          "name": "Michael A. Rulli",
+          "party": "REP"
+        }
+      ],
+      "sources": [
+        "stark-cand"
+      ]
+    },
+    {
+      "id": "congress-13",
+      "group": "U.S. House",
+      "office": "Representative to Congress",
+      "detail": "13th District",
+      "area": "Canton City, Canton Township, Hills & Dales Village, Jackson Township, Lake Township, North Canton City, Osnaburg Township, Plain Township",
+      "places": [
+        "Canton City",
+        "Canton Township",
+        "Hills & Dales Village",
+        "Jackson Township",
+        "Lake Township",
+        "North Canton City",
+        "Osnaburg Township",
+        "Plain Township"
+      ],
+      "candidates": [
+        {
+          "name": "Emilia Sykes",
+          "party": "DEM"
+        },
+        {
+          "name": "Sandeep Dixit",
+          "party": "Non-party"
+        },
+        {
+          "name": "Carey Coleman",
+          "party": "REP"
+        }
+      ],
+      "sources": [
+        "stark-cand"
+      ]
+    },
+    {
+      "id": "appeals-5",
+      "group": "Ohio Court of Appeals",
+      "office": "Judge of the Court of Appeals",
+      "detail": "5th District · term commencing February 9, 2027",
+      "candidates": [
+        {
+          "name": "Matthew George",
+          "party": "REP"
+        }
+      ],
+      "sources": [
+        "stark-cand"
+      ]
+    },
+    {
+      "id": "senate-29",
+      "group": "Ohio General Assembly",
+      "office": "State Senator",
+      "detail": "29th District",
+      "area": "Alliance City, Canal Fulton City, Canton City, Canton Township, East Canton Village, Hartville Village, Hills & Dales Village, Jackson Township, Lake Township, Lawrence Township, Lexington Township, Louisville City, Magnolia Village, Marlboro Township, Massillon City, Meyers Lake Village, Minerva Village, Nimishillen Township, North Canton City, Osnaburg Township, Paris Township, Perry Township, Plain Township, Sandy Township, Tuscarawas Township, Washington Township, Waynesburg Village",
+      "places": [
+        "Alliance City",
+        "Canal Fulton City",
+        "Canton City",
+        "Canton Township",
+        "East Canton Village",
+        "Hartville Village",
+        "Hills & Dales Village",
+        "Jackson Township",
+        "Lake Township",
+        "Lawrence Township",
+        "Lexington Township",
+        "Louisville City",
+        "Magnolia Village",
+        "Marlboro Township",
+        "Massillon City",
+        "Meyers Lake Village",
+        "Minerva Village",
+        "Nimishillen Township",
+        "North Canton City",
+        "Osnaburg Township",
+        "Paris Township",
+        "Perry Township",
+        "Plain Township",
+        "Sandy Township",
+        "Tuscarawas Township",
+        "Washington Township",
+        "Waynesburg Village"
+      ],
+      "candidates": [
+        {
+          "name": "Thomas West",
+          "party": "DEM"
+        },
+        {
+          "name": "Jane Timken",
+          "party": "REP"
+        }
+      ],
+      "sources": [
+        "stark-cand"
+      ]
+    },
+    {
+      "id": "senate-31",
+      "group": "Ohio General Assembly",
+      "office": "State Senator",
+      "detail": "31st District",
+      "area": "Beach City Village, Bethlehem Township, Brewster Village, East Sparta Village, Navarre Village, Perry Township, Pike Township, Sugar Creek Township, Tuscarawas Township, Wilmot Village",
+      "places": [
+        "Beach City Village",
+        "Bethlehem Township",
+        "Brewster Village",
+        "East Sparta Village",
+        "Navarre Village",
+        "Perry Township",
+        "Pike Township",
+        "Sugar Creek Township",
+        "Tuscarawas Township",
+        "Wilmot Village"
+      ],
+      "candidates": [
+        {
+          "name": "Laura Sirot",
+          "party": "DEM"
+        },
+        {
+          "name": "Al Landis",
+          "party": "REP"
+        }
+      ],
+      "sources": [
+        "stark-cand"
+      ]
+    },
+    {
+      "id": "rep-48",
+      "group": "Ohio General Assembly",
+      "office": "State Representative",
+      "detail": "48th District",
+      "area": "Alliance City, Canton City, Hartville Village, Lake Township, Lexington Township, Louisville City, Marlboro Township, Nimishillen Township, North Canton City, Plain Township, Washington Township",
+      "places": [
+        "Alliance City",
+        "Canton City",
+        "Hartville Village",
+        "Lake Township",
+        "Lexington Township",
+        "Louisville City",
+        "Marlboro Township",
+        "Nimishillen Township",
+        "North Canton City",
+        "Plain Township",
+        "Washington Township"
+      ],
+      "candidates": [
+        {
+          "name": "Nick Morris",
+          "party": "DEM"
+        },
+        {
+          "name": "Christina M. Hagan",
+          "party": "REP"
+        }
+      ],
+      "sources": [
+        "stark-cand"
+      ]
+    },
+    {
+      "id": "rep-49",
+      "group": "Ohio General Assembly",
+      "office": "State Representative",
+      "detail": "49th District",
+      "area": "Canton City, Canton Township, Hills & Dales Village, Jackson Township, Osnaburg Township, Plain Township",
+      "places": [
+        "Canton City",
+        "Canton Township",
+        "Hills & Dales Village",
+        "Jackson Township",
+        "Osnaburg Township",
+        "Plain Township"
+      ],
+      "candidates": [
+        {
+          "name": "Krista L. Allison",
+          "party": "DEM"
+        },
+        {
+          "name": "Jim Thomas",
+          "party": "REP"
+        }
+      ],
+      "sources": [
+        "stark-cand"
+      ]
+    },
+    {
+      "id": "rep-50",
+      "group": "Ohio General Assembly",
+      "office": "State Representative",
+      "detail": "50th District",
+      "area": "Canal Fulton City, Canton Township, East Canton Village, Jackson Township, Lawrence Township, Magnolia Village, Massillon City, Meyers Lake Village, Minerva Village, Osnaburg Township, Paris Township, Perry Township, Sandy Township, Tuscarawas Township, Washington Township, Waynesburg Village",
+      "places": [
+        "Canal Fulton City",
+        "Canton Township",
+        "East Canton Village",
+        "Jackson Township",
+        "Lawrence Township",
+        "Magnolia Village",
+        "Massillon City",
+        "Meyers Lake Village",
+        "Minerva Village",
+        "Osnaburg Township",
+        "Paris Township",
+        "Perry Township",
+        "Sandy Township",
+        "Tuscarawas Township",
+        "Washington Township",
+        "Waynesburg Village"
+      ],
+      "candidates": [
+        {
+          "name": "Rylan Zachary Finzer",
+          "party": "DEM"
+        },
+        {
+          "name": "Matthew Kishman",
+          "party": "REP"
+        }
+      ],
+      "sources": [
+        "stark-cand"
+      ]
+    },
+    {
+      "id": "rep-51",
+      "group": "Ohio General Assembly",
+      "office": "State Representative",
+      "detail": "51th District",
+      "area": "Beach City Village, Bethlehem Township, Brewster Village, East Sparta Village, Navarre Village, Perry Township, Pike Township, Sugar Creek Township, Tuscarawas Township, Wilmot Village",
+      "places": [
+        "Beach City Village",
+        "Bethlehem Township",
+        "Brewster Village",
+        "East Sparta Village",
+        "Navarre Village",
+        "Perry Township",
+        "Pike Township",
+        "Sugar Creek Township",
+        "Tuscarawas Township",
+        "Wilmot Village"
+      ],
+      "candidates": [
+        {
+          "name": "Amanda Fontana",
+          "party": "DEM"
+        },
+        {
+          "name": "Jodi Salvo",
+          "party": "REP"
+        }
+      ],
+      "sources": [
+        "stark-cand"
+      ]
+    },
+    {
+      "id": "commissioner",
+      "group": "County offices",
+      "office": "County Commissioner",
+      "candidates": [
+        {
+          "name": "Tony M. Townsend",
+          "party": "DEM"
+        },
+        {
+          "name": "Alan Harold",
+          "party": "REP"
+        }
+      ],
+      "sources": [
+        "stark-cand"
+      ]
+    },
+    {
+      "id": "auditor",
+      "group": "County offices",
+      "office": "County Auditor",
+      "candidates": [
+        {
+          "name": "Chalice E. Brown",
+          "party": "DEM"
+        },
+        {
+          "name": "Angela Kinsey",
+          "party": "REP"
+        }
+      ],
+      "sources": [
+        "stark-cand"
+      ]
+    },
+    {
+      "id": "cp-gen-0101",
+      "group": "Court of Common Pleas",
+      "office": "Judge of the Court of Common Pleas, General Division",
+      "detail": "Term commencing January 1, 2027 · no party label on the ballot",
+      "candidates": [
+        {
+          "name": "Kristin G. Farmer"
+        }
+      ],
+      "sources": [
+        "stark-cand"
+      ]
+    },
+    {
+      "id": "cp-gen-0104",
+      "group": "Court of Common Pleas",
+      "office": "Judge of the Court of Common Pleas, General Division",
+      "detail": "Term commencing January 4, 2027 · no party label on the ballot",
+      "candidates": [
+        {
+          "name": "Frank G. Forchione"
+        }
+      ],
+      "sources": [
+        "stark-cand"
+      ]
+    },
+    {
+      "id": "cp-gen-0209",
+      "group": "Court of Common Pleas",
+      "office": "Judge of the Court of Common Pleas, General Division",
+      "detail": "Term commencing February 9, 2027 · no party label on the ballot",
+      "candidates": [
+        {
+          "name": "Kristen S. Moore"
+        },
+        {
+          "name": "Jennifer L. Dave"
+        }
+      ],
+      "sources": [
+        "stark-cand"
+      ]
+    },
+    {
+      "id": "cp-probate",
+      "group": "Court of Common Pleas",
+      "office": "Judge of the Court of Common Pleas, Probate Division",
+      "detail": "no party label on the ballot",
+      "candidates": [
+        {
+          "name": "Curt Werren"
+        }
+      ],
+      "sources": [
+        "stark-cand"
+      ]
+    }
+  ],
+  "issues": [
+    {
+      "id": "issue-4",
+      "kind": "levy",
+      "jurisdiction": "Stark County District Library",
+      "title": "Tax levy (renewal and increase): Current expenses (renewal of 2 mills and increase of 0.3 mill)",
+      "area": "Stark County District Library",
+      "levy": {
+        "type": "Renewal and increase",
+        "purpose": "Current expenses (renewal of 2 mills and increase of 0.3 mill).",
+        "mills": "2.3 mills",
+        "term": "8 years, commencing in 2027"
+      },
+      "number": "Issue 4",
+      "sources": [
+        "stark-issues"
+      ]
+    },
+    {
+      "id": "wayne-jvsd",
+      "kind": "levy",
+      "jurisdiction": "Wayne County Joint Vocational School District (Wayne, Ashland, Holmes, Medina and Stark)",
+      "title": "Tax levy (renewal): General permanent improvements",
+      "area": "Wayne County Joint Vocational School District (Wayne, Ashland, Holmes, Medina and Stark)",
+      "coverage": "unknown",
+      "levy": {
+        "type": "Renewal",
+        "purpose": "General permanent improvements.",
+        "mills": "0.5 mill",
+        "term": "5 years, commencing in 2027"
+      },
+      "note": "Listed without an issue number on the Board's list.",
+      "sources": [
+        "stark-issues"
+      ]
+    },
+    {
+      "id": "issue-6",
+      "kind": "levy",
+      "jurisdiction": "Sandy Valley Local School District (Stark, Carroll and Tuscarawas)",
+      "title": "Tax levy (renewal): Current expenses",
+      "area": "Sandy Valley Local School District (Stark, Carroll and Tuscarawas)",
+      "places": [
+        "East Sparta Village",
+        "Magnolia Village",
+        "Pike Township",
+        "Sandy Township",
+        "Waynesburg Village"
+      ],
+      "levy": {
+        "type": "Renewal",
+        "purpose": "Current expenses.",
+        "mills": "2.3 mills",
+        "term": "5 years, commencing in 2027"
+      },
+      "number": "Issue 6",
+      "sources": [
+        "stark-issues"
+      ]
+    },
+    {
+      "id": "issue-7",
+      "kind": "levy",
+      "jurisdiction": "Massillon City School District",
+      "title": "Tax levy (renewal): Current expenses",
+      "area": "Massillon City School District",
+      "places": [
+        "Massillon City",
+        "Perry Township",
+        "Tuscarawas Township"
+      ],
+      "levy": {
+        "type": "Renewal",
+        "purpose": "Current expenses.",
+        "mills": "4.9 mills",
+        "term": "5 years, commencing in 2027"
+      },
+      "number": "Issue 7",
+      "sources": [
+        "stark-issues"
+      ]
+    },
+    {
+      "id": "issue-8",
+      "kind": "levy",
+      "jurisdiction": "Alliance City School District (Stark, Columbiana and Mahoning)",
+      "title": "Tax levy (renewal): General permanent improvements",
+      "area": "Alliance City School District (Stark, Columbiana and Mahoning)",
+      "places": [
+        "Alliance City",
+        "Lexington Township",
+        "Washington Township"
+      ],
+      "levy": {
+        "type": "Renewal",
+        "purpose": "General permanent improvements.",
+        "mills": "2 mills",
+        "term": "5 years, commencing in 2027"
+      },
+      "number": "Issue 8",
+      "sources": [
+        "stark-issues"
+      ]
+    },
+    {
+      "id": "issue-10",
+      "kind": "levy",
+      "jurisdiction": "Village of East Sparta",
+      "title": "Tax levy (renewal): Current expenses",
+      "area": "Village of East Sparta",
+      "places": [
+        "East Sparta Village"
+      ],
+      "levy": {
+        "type": "Renewal",
+        "purpose": "Current expenses.",
+        "mills": "6.5 mills",
+        "term": "5 years, commencing in 2026"
+      },
+      "number": "Issue 10",
+      "sources": [
+        "stark-issues"
+      ]
+    },
+    {
+      "id": "issue-11",
+      "kind": "levy",
+      "jurisdiction": "Village of East Sparta",
+      "title": "Tax levy (renewal): Police",
+      "area": "Village of East Sparta",
+      "places": [
+        "East Sparta Village"
+      ],
+      "levy": {
+        "type": "Renewal",
+        "purpose": "Police.",
+        "mills": "3 mills",
+        "term": "5 years, commencing in 2026"
+      },
+      "number": "Issue 11",
+      "sources": [
+        "stark-issues"
+      ]
+    },
+    {
+      "id": "issue-13",
+      "kind": "levy",
+      "jurisdiction": "Village of Beach City",
+      "title": "Tax levy (additional): Roads",
+      "area": "Village of Beach City",
+      "places": [
+        "Beach City Village"
+      ],
+      "levy": {
+        "type": "Additional",
+        "purpose": "Roads.",
+        "mills": "5 mills",
+        "term": "5 years, commencing in 2026"
+      },
+      "number": "Issue 13",
+      "sources": [
+        "stark-issues"
+      ]
+    },
+    {
+      "id": "issue-17",
+      "kind": "levy",
+      "jurisdiction": "Village of Magnolia (Stark and Carroll)",
+      "title": "Tax levy (renewal): Police",
+      "area": "Village of Magnolia (Stark and Carroll)",
+      "places": [
+        "Magnolia Village"
+      ],
+      "levy": {
+        "type": "Renewal",
+        "purpose": "Police.",
+        "mills": "4 mills",
+        "term": "5 years, commencing in 2027"
+      },
+      "number": "Issue 17",
+      "sources": [
+        "stark-issues"
+      ]
+    },
+    {
+      "id": "issue-22",
+      "kind": "levy",
+      "jurisdiction": "Pike Township Fire District",
+      "title": "Tax levy (renewal): Fire",
+      "area": "Pike Township Fire District",
+      "places": [
+        "Pike Township"
+      ],
+      "levy": {
+        "type": "Renewal",
+        "purpose": "Fire.",
+        "mills": "1 mill",
+        "term": "5 years, commencing in 2027"
+      },
+      "number": "Issue 22",
+      "sources": [
+        "stark-issues"
+      ]
+    },
+    {
+      "id": "issue-23",
+      "kind": "levy",
+      "jurisdiction": "Nimishillen Township",
+      "title": "Tax levy (additional): Fire",
+      "area": "Nimishillen Township",
+      "places": [
+        "Nimishillen Township"
+      ],
+      "levy": {
+        "type": "Additional",
+        "purpose": "Fire.",
+        "mills": "3 mills",
+        "term": "5 years, commencing in 2027"
+      },
+      "number": "Issue 23",
+      "sources": [
+        "stark-issues"
+      ]
+    },
+    {
+      "id": "issue-24",
+      "kind": "levy",
+      "jurisdiction": "Lake Township Fire District",
+      "title": "Tax levy (additional): Fire",
+      "area": "Lake Township Fire District",
+      "places": [
+        "Lake Township"
+      ],
+      "levy": {
+        "type": "Additional",
+        "purpose": "Fire.",
+        "mills": "2.75 mills",
+        "term": "5 years, commencing in 2026"
+      },
+      "number": "Issue 24",
+      "sources": [
+        "stark-issues"
+      ]
+    },
+    {
+      "id": "issue-25",
+      "kind": "levy",
+      "jurisdiction": "Lawrence Township Fire District",
+      "title": "Tax levy (renewal): Fire",
+      "area": "Lawrence Township Fire District",
+      "places": [
+        "Lawrence Township"
+      ],
+      "levy": {
+        "type": "Renewal",
+        "purpose": "Fire.",
+        "mills": "0.5 mill",
+        "term": "5 years, commencing in 2027"
+      },
+      "number": "Issue 25",
+      "sources": [
+        "stark-issues"
+      ]
+    },
+    {
+      "id": "issue-26",
+      "kind": "levy",
+      "jurisdiction": "Plain Township Road District",
+      "title": "Tax levy (renewal): Roads",
+      "area": "Plain Township Road District",
+      "places": [
+        "Plain Township"
+      ],
+      "levy": {
+        "type": "Renewal",
+        "purpose": "Roads.",
+        "mills": "1.5 mills",
+        "term": "5 years, commencing in 2027"
+      },
+      "number": "Issue 26",
+      "sources": [
+        "stark-issues"
+      ]
+    },
+    {
+      "id": "issue-27",
+      "kind": "levy",
+      "jurisdiction": "Marlboro Township",
+      "title": "Tax levy (renewal): Roads",
+      "area": "Marlboro Township",
+      "places": [
+        "Marlboro Township"
+      ],
+      "levy": {
+        "type": "Renewal",
+        "purpose": "Roads.",
+        "mills": "2 mills",
+        "term": "5 years, commencing in 2027"
+      },
+      "number": "Issue 27",
+      "sources": [
+        "stark-issues"
+      ]
+    },
+    {
+      "id": "issue-28",
+      "kind": "levy",
+      "jurisdiction": "Paris Township Road District Number One",
+      "title": "Tax levy (additional): Roads",
+      "area": "Paris Township Road District Number One",
+      "places": [
+        "Paris Township"
+      ],
+      "levy": {
+        "type": "Additional",
+        "purpose": "Roads.",
+        "mills": "2 mills",
+        "term": "5 years, commencing in 2026"
+      },
+      "number": "Issue 28",
+      "sources": [
+        "stark-issues"
+      ]
+    },
+    {
+      "id": "issue-29",
+      "kind": "levy",
+      "jurisdiction": "Lexington Township",
+      "title": "Tax levy (additional): Roads",
+      "area": "Lexington Township",
+      "places": [
+        "Lexington Township"
+      ],
+      "levy": {
+        "type": "Additional",
+        "purpose": "Roads.",
+        "mills": "1.5 mills",
+        "term": "5 years, commencing in 2027"
+      },
+      "number": "Issue 29",
+      "sources": [
+        "stark-issues"
+      ]
+    },
+    {
+      "id": "issue-30",
+      "kind": "levy",
+      "jurisdiction": "Perry Township",
+      "title": "Tax levy (renewal): Roads",
+      "area": "Perry Township",
+      "places": [
+        "Perry Township"
+      ],
+      "levy": {
+        "type": "Renewal",
+        "purpose": "Roads.",
+        "mills": "2 mills",
+        "term": "5 years, commencing in 2026"
+      },
+      "number": "Issue 30",
+      "sources": [
+        "stark-issues"
+      ]
+    },
+    {
+      "id": "issue-5",
+      "kind": "levy",
+      "jurisdiction": "Plain Local School District",
+      "title": "Bond issue: $116,802,000 for school buildings and facilities",
+      "area": "Plain Local School District",
+      "places": [
+        "Canton City",
+        "Hills & Dales Village",
+        "Jackson Township",
+        "Lake Township",
+        "Nimishillen Township",
+        "North Canton City",
+        "Plain Township"
+      ],
+      "number": "Issue 5",
+      "levy": {
+        "type": "Bond issue",
+        "purpose": "Constructing, furnishing, equipping, renovating and improving school district buildings and facilities and their sites, and demolishing existing buildings.",
+        "mills": "3.5 mills",
+        "term": "Up to 37 years, commencing in 2026",
+        "estimate": "$116,802,000 principal"
+      },
+      "sources": [
+        "stark-issues"
+      ]
+    },
+    {
+      "id": "issue-9",
+      "kind": "question",
+      "jurisdiction": "Stark Area Regional Transit Authority (SARTA)",
+      "title": "Continuation of 0.25% sales and use tax for transit, 10 years",
+      "area": "All of Stark County",
+      "number": "Issue 9",
+      "text": "Continuation of the 0.25% sales and use tax for all transit purposes, for 10 years.",
+      "sources": [
+        "stark-issues"
+      ]
+    },
+    {
+      "id": "issue-18",
+      "kind": "question",
+      "jurisdiction": "Village of Navarre",
+      "title": "Additional 0.25% income tax for police",
+      "area": "Village of Navarre",
+      "places": [
+        "Navarre Village"
+      ],
+      "number": "Issue 18",
+      "text": "Additional ¼% income tax, for police purposes.",
+      "sources": [
+        "stark-issues"
+      ]
+    },
+    {
+      "id": "issue-19",
+      "kind": "question",
+      "jurisdiction": "Village of Wilmot",
+      "title": "Additional 0.25% income tax for village operations",
+      "area": "Village of Wilmot",
+      "places": [
+        "Wilmot Village"
+      ],
+      "number": "Issue 19",
+      "text": "Additional ¼% income tax, for general use of operations, maintenance, new equipment, extension, enlargement of village services and facilities and capital improvements.",
+      "sources": [
+        "stark-issues"
+      ]
+    },
+    {
+      "id": "issue-12",
+      "kind": "liquor",
+      "jurisdiction": "City of Alliance",
+      "title": "Local liquor option: Mom's Drive Thru (Sunday)",
+      "area": "Precinct Alliance 1-B",
+      "places": [
+        "Alliance City"
+      ],
+      "number": "Issue 12",
+      "text": "Sunday sales of wine and mixed beverages; Hanny Rahi, L.L.C., dba Mom's Drive Thru, 840 Diehl Court, Alliance.",
+      "sources": [
+        "stark-issues"
+      ]
+    },
+    {
+      "id": "issue-14",
+      "kind": "liquor",
+      "jurisdiction": "Lake Township",
+      "title": "Local liquor option: Hartville Mini Mart (wine and mixed beverages)",
+      "area": "Precinct Lake Township A",
+      "places": [
+        "Lake Township"
+      ],
+      "number": "Issue 14",
+      "text": "Sale of wine and mixed beverages; CNEPAL, L.L.C., dba Hartville Mini Mart, 260 S. Prospect Avenue, Hartville.",
+      "sources": [
+        "stark-issues"
+      ]
+    },
+    {
+      "id": "issue-15",
+      "kind": "liquor",
+      "jurisdiction": "Lake Township",
+      "title": "Local liquor option: Hartville Mini Mart (beer)",
+      "area": "Precinct Lake Township A",
+      "places": [
+        "Lake Township"
+      ],
+      "number": "Issue 15",
+      "text": "Sale of beer; CNEPAL, L.L.C., dba Hartville Mini Mart, 260 S. Prospect Avenue, Hartville.",
+      "sources": [
+        "stark-issues"
+      ]
+    },
+    {
+      "id": "issue-16",
+      "kind": "liquor",
+      "jurisdiction": "Paris Township",
+      "title": "Local liquor option: Tipsy Teller Urban Winery (Sunday)",
+      "area": "Precinct Paris Township A",
+      "places": [
+        "Paris Township"
+      ],
+      "number": "Issue 16",
+      "text": "Sunday sales of wine and mixed beverages; Tipsy Farmer Winery LLC, dba Tipsy Teller Urban Winery LLC, 123 N. Main Street, Minerva.",
+      "sources": [
+        "stark-issues"
+      ]
+    },
+    {
+      "id": "issue-20",
+      "kind": "liquor",
+      "jurisdiction": "City of Canal Fulton",
+      "title": "Local liquor option: Dragonfly Tea Room & Gift Shop (Sunday)",
+      "area": "Precinct Canal Fulton B",
+      "places": [
+        "Canal Fulton City"
+      ],
+      "number": "Issue 20",
+      "text": "Sunday sales of beer, wine and mixed beverages; Dragonfly Tea Room & Gift Shop, LLC, 215 Market St. W, Canal Fulton.",
+      "sources": [
+        "stark-issues"
+      ]
+    },
+    {
+      "id": "issue-21",
+      "kind": "liquor",
+      "jurisdiction": "City of Massillon",
+      "title": "Local liquor option: 9th St Event Center (Sunday)",
+      "area": "Precinct Massillon 5-B",
+      "places": [
+        "Massillon City"
+      ],
+      "number": "Issue 21",
+      "text": "Sunday sales of wine and mixed beverages and spirituous liquor; Lamoore Enterprises Inc, dba 9th St Event Center, 1008 9th St. SW, 1st Fl Unit C only, Massillon.",
+      "sources": [
+        "stark-issues"
+      ]
+    },
+    {
+      "id": "issue-31",
+      "kind": "liquor",
+      "jurisdiction": "Lake Township",
+      "title": "Local liquor option: The Cedar Room",
+      "area": "Precinct Lake Township 10",
+      "places": [
+        "Lake Township"
+      ],
+      "number": "Issue 31",
+      "text": "Sale of beer, wine and mixed beverages; The Boyd Wholesale Group, LLC d/b/a The Cedar Room, 13069 Cleveland Ave., Uniontown.",
+      "sources": [
+        "stark-issues"
+      ]
+    }
+  ]
+}

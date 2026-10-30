@@ -1,7 +1,7 @@
 from lib import County, NOTE_ORDER, NOTE_PLACES
 
 def build():
-    c = County("cuyahoga", "Cuyahoga", "39035")
+    c = County("cuyahoga", "Cuyahoga", "39035", bare=None)
     c.src("cuyahoga-cand", "Cuyahoga County Board of Elections: November 3, 2026 General Election candidate list (10/15/2026)",
           "https://boe.cuyahogacounty.gov/docs/default-source/boe/candidates-page/candidate-list.pdf")
     c.src("cuyahoga-issues", "Cuyahoga County Board of Elections: issues list, November 3, 2026 General Election",

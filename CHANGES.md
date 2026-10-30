@@ -29,3 +29,14 @@ Data notes (Trumbull):
 - Statewide: Greg Levy (other-party) added to the U.S. Senate race. He is on the Columbiana, Lake, Ashtabula and Cuyahoga Boards' lists; the Trumbull 46-day notice and the Mahoning filings list leave him out.
 - Source links are shortened to the county and document ("Lake candidate list"); the full title is in the tooltip.
 - Geauga from all 91 of the Board's official precinct sample ballots (downloaded with a one-off script). Its "Where you live" comes from the ballots themselves. Geauga reuses issue numbers across school districts (Issue 4 is Berkshire's income tax in 13 precincts and Kirtland's levy in one; Issue 5 is Cardinal's levy in 9 and Mentor's in one), so each is listed separately.
+
+# Oct 30, 2026 (Summit, Stark, Portage, Medina, Lorain)
+
+- Full ballots for Summit, Stark, Portage, Medina and Lorain (11 counties with local data now, plus Trumbull's original):
+  - Summit: the Board's candidate list and 60-day issue synopsis (20 contests, 53 issues).
+  - Stark: the Board's candidate list and numbered issues list (15 contests, 29 issues).
+  - Portage: the Board's updated 46-day notice (11 contests, 29 issues, including four Mogadore charter amendments).
+  - Medina: the Board's 46-day notice (10 contests, 35 issues, including Rittman's 15 charter amendments).
+  - Lorain: the Board's certified candidate and issues lists plus its 46-day notice for precincts (10 contests, 35 issues).
+- "Where you live" comes from each county's SoS voter file, as before. Stark's file lists townships by bare name ("JACKSON"); the generator adds "Township" (`County(bare=...)`). Odd SoS names are renamed: Summit's NORTHFIELD CTR TP and SAGAMORE HLS TWP, Portage's SHALERSVILLE TOWNSHP, Lorain's ROCHESTER TWP & VIL.
+- Stark's fire and road districts are shown for their township. The Wayne County JVSD levy (on Stark's list with no issue number) is marked "boundaries not mapped".

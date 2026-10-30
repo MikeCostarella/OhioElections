@@ -1,0 +1,1450 @@
+{
+  "scope": "county",
+  "county": "Summit",
+  "fips": "39153",
+  "election": "2026-11-03",
+  "retrieved": "2026-10-30",
+  "notes": [
+    "Taken from the Board of Elections' official candidate list and issue synopsis. Long charter amendments are condensed; the full wording is in the Board's issue synopsis and on the sample ballot.",
+    "Candidates are listed alphabetically by last name, not in ballot order: Ohio rotates the order of names from precinct to precinct. Certified write-in candidates are not printed on the ballot and are not listed.",
+    "\"Where you live\" uses the state voter file: a district or school levy is shown for a city, village or township when any of its voters live in that district. Your exact ballot depends on your precinct.",
+    "County Council at-large is a vote for up to three of the six candidates."
+  ],
+  "places": [
+    "Akron City",
+    "Barberton City",
+    "Bath Township",
+    "Boston Heights Village",
+    "Boston Township",
+    "Clinton Village",
+    "Copley Township",
+    "Coventry Township",
+    "Cuyahoga Falls City",
+    "Fairlawn City",
+    "Green City",
+    "Hudson City",
+    "Lakemore Village",
+    "Macedonia City",
+    "Mogadore Village",
+    "Munroe Falls City",
+    "New Franklin City",
+    "Northfield Center Township",
+    "Northfield Village",
+    "Norton City",
+    "Peninsula Village",
+    "Reminderville City",
+    "Richfield Township",
+    "Richfield Village",
+    "Sagamore Hills Township",
+    "Silver Lake Village",
+    "Springfield Township",
+    "Stow City",
+    "Tallmadge City",
+    "Twinsburg City",
+    "Twinsburg Township"
+  ],
+  "sources": {
+    "summit-cand": {
+      "label": "Summit County Board of Elections: official candidate list, November 3, 2026 General Election",
+      "url": "https://www.boe.ohio.gov/summit/c/upload/Election_CandidateList.pdf"
+    },
+    "summit-issues": {
+      "label": "Summit County Board of Elections: issue synopsis, November 3, 2026 General Election",
+      "url": "https://www.boe.ohio.gov/summit/c/upload/Election_60IssueSynopsis.pdf"
+    }
+  },
+  "links": [
+    {
+      "label": "Board of Elections",
+      "url": "https://www.boe.ohio.gov/summit/"
+    },
+    {
+      "label": "What's on my ballot?",
+      "url": "https://lookup.boe.ohio.gov/vtrapp/summit/pollfinder.aspx"
+    }
+  ],
+  "results": {
+    "status": "upcoming",
+    "links": [
+      {
+        "label": "Board of Elections: election results",
+        "url": "https://www.boe.ohio.gov/summit/elections"
+      }
+    ]
+  },
+  "contests": [
+    {
+      "id": "congress-13",
+      "group": "U.S. House",
+      "office": "Representative to Congress",
+      "detail": "13th District",
+      "candidates": [
+        {
+          "name": "Carey Coleman",
+          "party": "REP"
+        },
+        {
+          "name": "Sandeep Dixit",
+          "party": "Nonparty"
+        },
+        {
+          "name": "Emilia Sykes",
+          "party": "DEM"
+        }
+      ],
+      "sources": [
+        "summit-cand"
+      ]
+    },
+    {
+      "id": "senate-27",
+      "group": "Ohio General Assembly",
+      "office": "State Senator",
+      "detail": "27th District",
+      "area": "Barberton City, Bath Township, Boston Heights Village, Boston Township, Copley Township, Cuyahoga Falls City, Macedonia City, Northfield Center Township, Northfield Village, Norton City, Peninsula Village, Reminderville City, Richfield Township, Richfield Village, Sagamore Hills Township, Twinsburg City, Twinsburg Township",
+      "places": [
+        "Barberton City",
+        "Bath Township",
+        "Boston Heights Village",
+        "Boston Township",
+        "Copley Township",
+        "Cuyahoga Falls City",
+        "Macedonia City",
+        "Northfield Center Township",
+        "Northfield Village",
+        "Norton City",
+        "Peninsula Village",
+        "Reminderville City",
+        "Richfield Township",
+        "Richfield Village",
+        "Sagamore Hills Township",
+        "Twinsburg City",
+        "Twinsburg Township"
+      ],
+      "candidates": [
+        {
+          "name": "Steve Demetriou",
+          "party": "REP"
+        },
+        {
+          "name": "Mike Roberto",
+          "party": "DEM"
+        }
+      ],
+      "sources": [
+        "summit-cand"
+      ]
+    },
+    {
+      "id": "rep-31",
+      "group": "Ohio General Assembly",
+      "office": "State Representative",
+      "detail": "31st District",
+      "area": "Barberton City, Bath Township, Boston Heights Village, Boston Township, Copley Township, Cuyahoga Falls City, Norton City, Peninsula Village, Richfield Township, Richfield Village",
+      "places": [
+        "Barberton City",
+        "Bath Township",
+        "Boston Heights Village",
+        "Boston Township",
+        "Copley Township",
+        "Cuyahoga Falls City",
+        "Norton City",
+        "Peninsula Village",
+        "Richfield Township",
+        "Richfield Village"
+      ],
+      "candidates": [
+        {
+          "name": "Mike Kahoe",
+          "party": "REP"
+        },
+        {
+          "name": "J. Noah Spinner",
+          "party": "DEM"
+        }
+      ],
+      "sources": [
+        "summit-cand"
+      ]
+    },
+    {
+      "id": "rep-32",
+      "group": "Ohio General Assembly",
+      "office": "State Representative",
+      "detail": "32nd District",
+      "area": "Akron City, Clinton Village, Coventry Township, Green City, Lakemore Village, Mogadore Village, New Franklin City, Springfield Township",
+      "places": [
+        "Akron City",
+        "Clinton Village",
+        "Coventry Township",
+        "Green City",
+        "Lakemore Village",
+        "Mogadore Village",
+        "New Franklin City",
+        "Springfield Township"
+      ],
+      "candidates": [
+        {
+          "name": "Jack K. Daniels",
+          "party": "REP"
+        },
+        {
+          "name": "Djordjije Popovic",
+          "party": "DEM"
+        }
+      ],
+      "sources": [
+        "summit-cand"
+      ]
+    },
+    {
+      "id": "rep-33",
+      "group": "Ohio General Assembly",
+      "office": "State Representative",
+      "detail": "33rd District",
+      "area": "Akron City, Bath Township, Cuyahoga Falls City, Fairlawn City",
+      "places": [
+        "Akron City",
+        "Bath Township",
+        "Cuyahoga Falls City",
+        "Fairlawn City"
+      ],
+      "candidates": [
+        {
+          "name": "Napoleon Rodgers, Jr.",
+          "party": "REP"
+        },
+        {
+          "name": "Veronica Sims",
+          "party": "DEM"
+        }
+      ],
+      "sources": [
+        "summit-cand"
+      ]
+    },
+    {
+      "id": "rep-34",
+      "group": "Ohio General Assembly",
+      "office": "State Representative",
+      "detail": "34th District",
+      "area": "Akron City, Hudson City, Munroe Falls City, Silver Lake Village, Stow City, Tallmadge City",
+      "places": [
+        "Akron City",
+        "Hudson City",
+        "Munroe Falls City",
+        "Silver Lake Village",
+        "Stow City",
+        "Tallmadge City"
+      ],
+      "candidates": [
+        {
+          "name": "Derrick Hall",
+          "party": "DEM"
+        },
+        {
+          "name": "Craig A. Shubert",
+          "party": "REP"
+        }
+      ],
+      "sources": [
+        "summit-cand"
+      ]
+    },
+    {
+      "id": "rep-35",
+      "group": "Ohio General Assembly",
+      "office": "State Representative",
+      "detail": "35th District",
+      "area": "Macedonia City, Northfield Center Township, Northfield Village, Reminderville City, Sagamore Hills Township, Twinsburg City, Twinsburg Township",
+      "places": [
+        "Macedonia City",
+        "Northfield Center Township",
+        "Northfield Village",
+        "Reminderville City",
+        "Sagamore Hills Township",
+        "Twinsburg City",
+        "Twinsburg Township"
+      ],
+      "candidates": [
+        {
+          "name": "Samantha Salamon",
+          "party": "DEM"
+        },
+        {
+          "name": "Vik Sandhu",
+          "party": "REP"
+        }
+      ],
+      "sources": [
+        "summit-cand"
+      ]
+    },
+    {
+      "id": "appeals-9-0209",
+      "group": "Ohio Court of Appeals",
+      "office": "Judge of the Court of Appeals",
+      "detail": "9th District · term commencing February 9, 2027",
+      "candidates": [
+        {
+          "name": "Cynthia Curtin",
+          "party": "REP"
+        },
+        {
+          "name": "Betty Sutton",
+          "party": "DEM"
+        }
+      ],
+      "sources": [
+        "summit-cand"
+      ]
+    },
+    {
+      "id": "appeals-9-ute",
+      "group": "Ohio Court of Appeals",
+      "office": "Judge of the Court of Appeals",
+      "detail": "9th District · unexpired term ending February 9, 2029",
+      "candidates": [
+        {
+          "name": "Tavia Galonski",
+          "party": "DEM"
+        },
+        {
+          "name": "Nathan Manning",
+          "party": "REP"
+        }
+      ],
+      "sources": [
+        "summit-cand"
+      ]
+    },
+    {
+      "id": "council-at-large",
+      "group": "County offices",
+      "office": "Summit County Council at Large (vote for up to 3)",
+      "detail": "Term commencing January 1, 2027",
+      "candidates": [
+        {
+          "name": "Shane R. Barker",
+          "party": "REP"
+        },
+        {
+          "name": "Jonathon D. Bollas",
+          "party": "REP"
+        },
+        {
+          "name": "John Chapman",
+          "party": "REP"
+        },
+        {
+          "name": "Erin Dickinson",
+          "party": "DEM"
+        },
+        {
+          "name": "John A. Donofrio",
+          "party": "DEM"
+        },
+        {
+          "name": "Elizabeth Walters",
+          "party": "DEM"
+        }
+      ],
+      "sources": [
+        "summit-cand"
+      ]
+    },
+    {
+      "id": "cp-0",
+      "group": "Court of Common Pleas",
+      "office": "Common Pleas Court Judge",
+      "detail": "Term commencing January 2, 2027 · no party label on the ballot",
+      "candidates": [
+        {
+          "name": "Tania Nemer"
+        },
+        {
+          "name": "Tammy O'Brien"
+        }
+      ],
+      "sources": [
+        "summit-cand"
+      ]
+    },
+    {
+      "id": "cp-1",
+      "group": "Court of Common Pleas",
+      "office": "Common Pleas Court Judge",
+      "detail": "Term commencing January 3, 2027 · no party label on the ballot",
+      "candidates": [
+        {
+          "name": "Kelly L. McLaughlin"
+        }
+      ],
+      "sources": [
+        "summit-cand"
+      ]
+    },
+    {
+      "id": "cp-2",
+      "group": "Court of Common Pleas",
+      "office": "Common Pleas Court Judge",
+      "detail": "Term commencing January 5, 2027 · no party label on the ballot",
+      "candidates": [
+        {
+          "name": "Alison McCarty"
+        },
+        {
+          "name": "Job Esau Perry"
+        }
+      ],
+      "sources": [
+        "summit-cand"
+      ]
+    },
+    {
+      "id": "cp-3",
+      "group": "Court of Common Pleas",
+      "office": "Common Pleas Court Judge",
+      "detail": "Term commencing January 6, 2027 · no party label on the ballot",
+      "candidates": [
+        {
+          "name": "Kate A. Makra"
+        },
+        {
+          "name": "Mary Margaret Rowlands"
+        }
+      ],
+      "sources": [
+        "summit-cand"
+      ]
+    },
+    {
+      "id": "cp-4",
+      "group": "Court of Common Pleas",
+      "office": "Common Pleas Court Judge",
+      "detail": "Term commencing February 9, 2027 · no party label on the ballot",
+      "candidates": [
+        {
+          "name": "Christine L. Croce"
+        },
+        {
+          "name": "John Galonski"
+        }
+      ],
+      "sources": [
+        "summit-cand"
+      ]
+    },
+    {
+      "id": "cp-5",
+      "group": "Court of Common Pleas",
+      "office": "Common Pleas Court Judge",
+      "detail": "Term commencing May 1, 2027 · no party label on the ballot",
+      "candidates": [
+        {
+          "name": "Joe Darwal"
+        },
+        {
+          "name": "Joy Malek Oldfield"
+        }
+      ],
+      "sources": [
+        "summit-cand"
+      ]
+    },
+    {
+      "id": "cp-6",
+      "group": "Court of Common Pleas",
+      "office": "Juvenile Court Judge",
+      "detail": "Term commencing January 1, 2027 · no party label on the ballot",
+      "candidates": [
+        {
+          "name": "Amy Corrigall Jones"
+        },
+        {
+          "name": "David Lombardi"
+        }
+      ],
+      "sources": [
+        "summit-cand"
+      ]
+    },
+    {
+      "id": "cp-7",
+      "group": "Court of Common Pleas",
+      "office": "Domestic Relations Judge",
+      "detail": "Term commencing January 4, 2027 · no party label on the ballot",
+      "candidates": [
+        {
+          "name": "Katarina Cook"
+        },
+        {
+          "name": "Lisa Dean"
+        }
+      ],
+      "sources": [
+        "summit-cand"
+      ]
+    },
+    {
+      "id": "cp-8",
+      "group": "Court of Common Pleas",
+      "office": "Probate Court Judge",
+      "detail": "Term commencing February 9, 2027 · no party label on the ballot",
+      "candidates": [
+        {
+          "name": "Steve Elliott"
+        },
+        {
+          "name": "Diana Stevenson"
+        }
+      ],
+      "sources": [
+        "summit-cand"
+      ]
+    },
+    {
+      "id": "hudson-w2",
+      "group": "Municipal offices",
+      "office": "Hudson City Council, Ward 2",
+      "detail": "Unexpired term ending December 1, 2026 · Ward 2 voters only",
+      "area": "Hudson Ward 2",
+      "places": [
+        "Hudson City"
+      ],
+      "candidates": [
+        {
+          "name": "Phil Trendell"
+        },
+        {
+          "name": "Dan White"
+        }
+      ],
+      "sources": [
+        "summit-cand"
+      ]
+    }
+  ],
+  "issues": [
+    {
+      "id": "issue-4",
+      "kind": "levy",
+      "jurisdiction": "Aurora City School District (Portage and Summit)",
+      "title": "Bond issue: $96,200,000 for a new elementary school, transportation facility and building improvements",
+      "area": "Aurora City School District (Portage and Summit)",
+      "places": [
+        "Reminderville City"
+      ],
+      "number": "Issue 4",
+      "levy": {
+        "type": "Bond issue",
+        "purpose": "Constructing, furnishing and equipping a new elementary school and transportation facility, and renovating and improving school buildings and sites.",
+        "mills": "4.26 mills (estimated average)",
+        "term": "Up to 37 years",
+        "estimate": "$96,200,000 principal; $149 for each $100,000 of market value"
+      },
+      "sources": [
+        "summit-issues"
+      ]
+    },
+    {
+      "id": "issue-5",
+      "kind": "question",
+      "jurisdiction": "Barberton City School District",
+      "title": "School district income tax: 1% for 5 years",
+      "area": "Barberton City School District",
+      "places": [
+        "Barberton City",
+        "Coventry Township",
+        "Norton City"
+      ],
+      "number": "Issue 5",
+      "text": "Shall an annual income tax of one percent (1.00%) on the earned income of individuals residing in the school district be imposed by the Barberton City School District, for 5 years, beginning January 1, 2027, for the purpose of current expenses?",
+      "sources": [
+        "summit-issues"
+      ]
+    },
+    {
+      "id": "issue-6",
+      "kind": "levy",
+      "jurisdiction": "Cuyahoga Falls City School District",
+      "title": "Tax levy (additional): Current expenses",
+      "area": "Cuyahoga Falls City School District",
+      "places": [
+        "Cuyahoga Falls City",
+        "Silver Lake Village"
+      ],
+      "levy": {
+        "type": "Additional",
+        "purpose": "Current expenses.",
+        "mills": "5.5 mills",
+        "term": "5 years, commencing in 2026",
+        "firstDue": "2027",
+        "estimate": "$6,148,893 a year; $193 for each $100,000 of market value"
+      },
+      "number": "Issue 6",
+      "sources": [
+        "summit-issues"
+      ]
+    },
+    {
+      "id": "issue-7",
+      "kind": "question",
+      "jurisdiction": "Norton City School District",
+      "title": "School district income tax: 0.75%, continuing",
+      "area": "Norton City School District",
+      "places": [
+        "Barberton City",
+        "New Franklin City",
+        "Norton City"
+      ],
+      "number": "Issue 7",
+      "text": "Shall an annual income tax of point seven five percent (0.75%) on the earned income of individuals residing in the school district be imposed by the Norton City School District, for a continuing period of time, beginning January 1, 2027, for the purpose of current operating expenses?",
+      "sources": [
+        "summit-issues"
+      ]
+    },
+    {
+      "id": "issue-8",
+      "kind": "levy",
+      "jurisdiction": "Stow-Munroe Falls City School District (Summit and Portage)",
+      "title": "Tax levy (renewal): Current operating expenses of the district",
+      "area": "Stow-Munroe Falls City School District (Summit and Portage)",
+      "places": [
+        "Cuyahoga Falls City",
+        "Hudson City",
+        "Munroe Falls City",
+        "Stow City"
+      ],
+      "levy": {
+        "type": "Renewal",
+        "purpose": "Current operating expenses of the district.",
+        "mills": "3.17 mills (estimated average)",
+        "term": "5 years, commencing in 2026",
+        "firstDue": "2027",
+        "estimate": "$4,631,284 a year (fixed sum); $97 for each $100,000 of market value"
+      },
+      "number": "Issue 8",
+      "sources": [
+        "summit-issues"
+      ]
+    },
+    {
+      "id": "issue-9",
+      "kind": "question",
+      "jurisdiction": "Tallmadge City School District (Summit and Portage)",
+      "title": "School district income tax: 1%, continuing",
+      "area": "Tallmadge City School District (Summit and Portage)",
+      "places": [
+        "Munroe Falls City",
+        "Tallmadge City"
+      ],
+      "number": "Issue 9",
+      "text": "Shall an annual income tax of one percent (1.00%) on the earned income of individuals residing in the school district be imposed by the Tallmadge City School District, for a continuing period of time, beginning January 1, 2027, for the purpose of current expenses?",
+      "sources": [
+        "summit-issues"
+      ]
+    },
+    {
+      "id": "issue-10",
+      "kind": "levy",
+      "jurisdiction": "Stark County District Library (Stark and Summit)",
+      "title": "Tax levy (renewal and increase): Current expenses (renewal of 2 mills and increase of 0.3 mill)",
+      "area": "Stark County District Library (Stark and Summit)",
+      "coverage": "unknown",
+      "levy": {
+        "type": "Renewal and increase",
+        "purpose": "Current expenses (renewal of 2 mills and increase of 0.3 mill).",
+        "mills": "2.3 mills",
+        "term": "8 years, commencing in 2027",
+        "firstDue": "2028",
+        "estimate": "$14,949,218 a year; $55 for each $100,000 of market value"
+      },
+      "number": "Issue 10",
+      "sources": [
+        "summit-issues"
+      ]
+    },
+    {
+      "id": "issue-11",
+      "kind": "question",
+      "jurisdiction": "City of Akron",
+      "title": "Charter amendment: Section 101b (rental security deposits and application fees)",
+      "area": "City of Akron",
+      "places": [
+        "Akron City"
+      ],
+      "number": "Issue 11",
+      "text": "Enact Section 101b to require property owners or operators to permit security deposits for residential rentals to be paid over three or six month periods; require operators to inform tenants of that right, criminalizing failure to notify; ban fees, charges, deposits or other payments before executing rental agreements; and criminalize collecting an application fee for residential rentals.",
+      "sources": [
+        "summit-issues"
+      ]
+    },
+    {
+      "id": "issue-12",
+      "kind": "question",
+      "jurisdiction": "City of Akron",
+      "title": "Charter amendment: Section 100a (anti-discrimination protections; criminal history in housing)",
+      "area": "City of Akron",
+      "places": [
+        "Akron City"
+      ],
+      "number": "Issue 12",
+      "text": "Enact Section 100a to add the City's existing codified anti-discrimination protections to the Charter; with exceptions for sex offenders and arson offenders, prohibit declining to rent to, or engage in real estate transactions with, an individual on the basis of criminal history, making individuals with criminal histories a protected class for renting, home sales and other real estate transactions; give the Akron Civil Rights Commission jurisdiction over real estate discrimination claims in Akron; and require City Council to enact implementing legislation within 90 days.",
+      "sources": [
+        "summit-issues"
+      ]
+    },
+    {
+      "id": "issue-13",
+      "kind": "question",
+      "jurisdiction": "City of Akron",
+      "title": "Charter amendment: Section 68a (police oversight board and Independent Police Auditor)",
+      "area": "City of Akron",
+      "places": [
+        "Akron City"
+      ],
+      "number": "Issue 13",
+      "text": "Amend Section 68a to change the composition and appointment process of the citizens' police oversight board (fewer Council appointees; one-third of members selected by the Board from a list provided by a committee of members of qualifying civil rights organizations); set procedures and deadlines for the Mayor, Police Chief and Council to respond to the Independent Police Auditor's recommendations; and authorize the Auditor's office to subpoena records and compel attendance and testimony.",
+      "sources": [
+        "summit-issues"
+      ]
+    },
+    {
+      "id": "issue-14",
+      "kind": "liquor",
+      "jurisdiction": "City of Akron",
+      "title": "Local liquor option: Sunday sales, Akron 4-F (off-premises)",
+      "area": "Akron precinct 4-F",
+      "places": [
+        "Akron City"
+      ],
+      "number": "Issue 14",
+      "text": "Shall the sale of wine and mixed beverages, of the same types as may be legally sold in this precinct on other days of the week, be permitted in this Akron 4-F for consumption off the premises where sold on Sunday?",
+      "sources": [
+        "summit-issues"
+      ]
+    },
+    {
+      "id": "issue-15",
+      "kind": "liquor",
+      "jurisdiction": "City of Akron",
+      "title": "Local liquor option: Oakhill Foodmart",
+      "area": "Akron precinct 6-C",
+      "places": [
+        "Akron City"
+      ],
+      "number": "Issue 15",
+      "text": "Shall the sale of wine and mixed beverages be permitted by Sunrise Petroleum, Inc. doing business as Oakhill Foodmart an applicant for a C2 liquor permit, who is engaged in the business of operating a full-service convenience store and foodmart at 2514 Mogadore Rd., Akron, Ohio 44312, in this precinct?",
+      "sources": [
+        "summit-issues"
+      ]
+    },
+    {
+      "id": "issue-16",
+      "kind": "liquor",
+      "jurisdiction": "City of Akron",
+      "title": "Local liquor option: Oakhill Foodmart (Sunday)",
+      "area": "Akron precinct 6-C",
+      "places": [
+        "Akron City"
+      ],
+      "number": "Issue 16",
+      "text": "Shall the sale of wine and mixed beverages be permitted for sale on Sunday by Sunrise Petroleum, Inc. doing business as Oakhill Foodmart an applicant for a D6 liquor permit who is engaged in the business of operating a full-service convenience store and foodmart at 2514 Mogadore Rd., Akron, Ohio 44312, in this precinct?",
+      "sources": [
+        "summit-issues"
+      ]
+    },
+    {
+      "id": "issue-17",
+      "kind": "question",
+      "jurisdiction": "City of Barberton",
+      "title": "Charter amendment: Sections 4.02 and 6.03 (Division of Parks and Recreation)",
+      "area": "City of Barberton",
+      "places": [
+        "Barberton City"
+      ],
+      "number": "Issue 17",
+      "text": "Shall Section 4.02 be amended to establish a Division of Parks and Recreation under the direct reporting of the Director of Public Service and shall Section 6.03 be amended to require the Parks and Recreation Commission to serve in an advisory capacity?",
+      "sources": [
+        "summit-issues"
+      ]
+    },
+    {
+      "id": "issue-18",
+      "kind": "question",
+      "jurisdiction": "City of Barberton",
+      "title": "Charter amendment: Section 5.11 (public posting places)",
+      "area": "City of Barberton",
+      "places": [
+        "Barberton City"
+      ],
+      "number": "Issue 18",
+      "text": "Shall Section 5.11 be amended to remove the requirement that six (6) public places in the municipality be established if public posting is selected as the medium?",
+      "sources": [
+        "summit-issues"
+      ]
+    },
+    {
+      "id": "issue-19",
+      "kind": "question",
+      "jurisdiction": "City of Barberton",
+      "title": "Charter amendment: Article 7 (non-partisan municipal elections)",
+      "area": "City of Barberton",
+      "places": [
+        "Barberton City"
+      ],
+      "number": "Issue 19",
+      "text": "Shall Article 7 be amended to require non-partisan municipal elections?",
+      "sources": [
+        "summit-issues"
+      ]
+    },
+    {
+      "id": "issue-20",
+      "kind": "liquor",
+      "jurisdiction": "City of Cuyahoga Falls",
+      "title": "Local liquor option: Club 2209 on the Riverfront / Barro di Mario (Sunday)",
+      "area": "Cuyahoga Falls precinct 4-C",
+      "places": [
+        "Cuyahoga Falls City"
+      ],
+      "number": "Issue 20",
+      "text": "Shall the sale of wine and mixed beverages, and spirituous liquor be permitted for sale on Sunday by Calabria, Inc., dba Club 2209 on the Riverfront/Barro di Mario an applicant for a D-6 liquor permit who is engaged in the business of operating a bar at 2209 Front Street, Cuyahoga Falls, Ohio 44221, in this precinct?",
+      "sources": [
+        "summit-issues"
+      ]
+    },
+    {
+      "id": "issue-21",
+      "kind": "question",
+      "jurisdiction": "City of Green",
+      "title": "Charter amendment: Section 4.8 (notice of special Council meetings)",
+      "area": "City of Green",
+      "places": [
+        "Green City"
+      ],
+      "number": "Issue 21",
+      "text": "Shall Section 4.8 of the Charter of the City of Green be amended to replace the option of leaving a copy of the notice at the usual place of residence of the Mayor and Council members and substitute email with read receipt as a form of notification for special Council meetings?",
+      "sources": [
+        "summit-issues"
+      ]
+    },
+    {
+      "id": "issue-22",
+      "kind": "question",
+      "jurisdiction": "City of Green",
+      "title": "Charter amendment: Section 4.11 (publishing ordinances and notices)",
+      "area": "City of Green",
+      "places": [
+        "Green City"
+      ],
+      "number": "Issue 22",
+      "text": "Shall Section 4.11 of the Charter of the City of Green be amended to eliminate the requirement of the posting of ordinances and resolutions and other public notices in at least five public places within the City and add the Central Administration Building, and electronic/online equivalent of a newspaper of general circulation in the City, or the City's website for 30 days as a method of publication for ordinances, resolutions, and other public notices?",
+      "sources": [
+        "summit-issues"
+      ]
+    },
+    {
+      "id": "issue-23",
+      "kind": "question",
+      "jurisdiction": "City of Green",
+      "title": "Charter amendment: Section 7.4 (Parks and Recreation Board)",
+      "area": "City of Green",
+      "places": [
+        "Green City"
+      ],
+      "number": "Issue 23",
+      "text": "Shall Section 7.4 of the Charter of the City of Green be amended to clarify the powers and duties of the Parks and Recreation Board?",
+      "sources": [
+        "summit-issues"
+      ]
+    },
+    {
+      "id": "issue-24",
+      "kind": "question",
+      "jurisdiction": "City of Green",
+      "title": "Charter amendment: Section 8.2 (income tax allocation to parks and recreation)",
+      "area": "City of Green",
+      "places": [
+        "Green City"
+      ],
+      "number": "Issue 24",
+      "text": "Shall Section 8.2 of the Charter of the City of Green be amended to modify the allocation of annual income tax revenue funds to the City Parks and Recreation Program?",
+      "sources": [
+        "summit-issues"
+      ]
+    },
+    {
+      "id": "issue-25",
+      "kind": "question",
+      "jurisdiction": "City of Green",
+      "title": "Charter amendment: Section 9.2 (publishing Charter Review recommendations)",
+      "area": "City of Green",
+      "places": [
+        "Green City"
+      ],
+      "number": "Issue 25",
+      "text": "Shall Section 9.2 of the Charter of the City of Green be amended to allow Council to use the electronic/online equivalent of a newspaper of general circulation in the City as a method of publication for Charter Review Commission recommendations?",
+      "sources": [
+        "summit-issues"
+      ]
+    },
+    {
+      "id": "issue-26",
+      "kind": "question",
+      "jurisdiction": "City of Green",
+      "title": "Charter amendment: Section 9.2 (charter review every five years)",
+      "area": "City of Green",
+      "places": [
+        "Green City"
+      ],
+      "number": "Issue 26",
+      "text": "Shall Section 9.2 of the Charter of the City of Green be amended to require the City Charter be reviewed every five (5) years?",
+      "sources": [
+        "summit-issues"
+      ]
+    },
+    {
+      "id": "issue-27",
+      "kind": "question",
+      "jurisdiction": "City of Hudson",
+      "title": "Natural gas aggregation",
+      "area": "City of Hudson",
+      "places": [
+        "Hudson City"
+      ],
+      "number": "Issue 27",
+      "text": "Shall the City of Hudson, Ohio have the authority to aggregate the retail natural gas loads located in the City, and for that purpose, enter into service agreements to facilitate for those loads the sale and purchase of natural gas, such aggregation to occur automatically for eligible local utility customers except where any person is under contract or elects to opt out, all in accordance with Section 4929.26 of the Ohio Revised Code?",
+      "sources": [
+        "summit-issues"
+      ]
+    },
+    {
+      "id": "issue-28",
+      "kind": "levy",
+      "jurisdiction": "City of Munroe Falls",
+      "title": "Tax levy (additional (replacing an expiring 2 mills)): General construction, reconstruction, resurfacing, and repair of streets, roads, and bridges",
+      "area": "City of Munroe Falls",
+      "places": [
+        "Munroe Falls City"
+      ],
+      "levy": {
+        "type": "Additional (replacing an expiring 2 mills)",
+        "purpose": "General construction, reconstruction, resurfacing, and repair of streets, roads, and bridges.",
+        "mills": "2 mills",
+        "term": "10 years, commencing in 2026",
+        "firstDue": "2027",
+        "estimate": "$342,816 a year; $70 for each $100,000 of market value"
+      },
+      "number": "Issue 28",
+      "sources": [
+        "summit-issues"
+      ]
+    },
+    {
+      "id": "issue-29",
+      "kind": "question",
+      "jurisdiction": "City of Norton (Summit and Wayne)",
+      "title": "Charter amendment: Article II, Section 2.09 (Mayor's salary)",
+      "area": "City of Norton (Summit and Wayne)",
+      "places": [
+        "Norton City"
+      ],
+      "number": "Issue 29",
+      "text": "Change the Mayor's salary rate in the Charter from $11,250 to $15,000, unless otherwise approved by the voters for the next term of office.",
+      "sources": [
+        "summit-issues"
+      ]
+    },
+    {
+      "id": "issue-30",
+      "kind": "question",
+      "jurisdiction": "City of Norton (Summit and Wayne)",
+      "title": "Charter amendment: Article III, Section 3.08 (Council salaries)",
+      "area": "City of Norton (Summit and Wayne)",
+      "places": [
+        "Norton City"
+      ],
+      "number": "Issue 30",
+      "text": "Change Council members' salary rate from $7,500 to $10,000 and the President of Council's from $8,500 to $11,000, unless otherwise approved by the voters for the next term of office.",
+      "sources": [
+        "summit-issues"
+      ]
+    },
+    {
+      "id": "issue-31",
+      "kind": "question",
+      "jurisdiction": "City of Norton (Summit and Wayne)",
+      "title": "Charter amendment: Article IV, Section 4.03 (Administrative Officer supervision of Finance and Law)",
+      "area": "City of Norton (Summit and Wayne)",
+      "places": [
+        "Norton City"
+      ],
+      "number": "Issue 31",
+      "text": "Place the Department of Finance and Department of Law under the direct administrative supervision of the Administrative Officer, while preserving the existing appointment and removal provisions and the legally vested fiscal and professional legal duties of those offices.",
+      "sources": [
+        "summit-issues"
+      ]
+    },
+    {
+      "id": "issue-32",
+      "kind": "question",
+      "jurisdiction": "City of Norton (Summit and Wayne)",
+      "title": "Charter amendment: Article V, Section 5.03.B (Board of Control contract approval)",
+      "area": "City of Norton (Summit and Wayne)",
+      "places": [
+        "Norton City"
+      ],
+      "number": "Issue 32",
+      "text": "Raise the contract amount requiring Board of Control approval from five thousand dollars to ten thousand dollars.",
+      "sources": [
+        "summit-issues"
+      ]
+    },
+    {
+      "id": "issue-33",
+      "kind": "question",
+      "jurisdiction": "City of Norton (Summit and Wayne)",
+      "title": "Charter amendment: Title of the chief legal officer",
+      "area": "City of Norton (Summit and Wayne)",
+      "places": [
+        "Norton City"
+      ],
+      "number": "Issue 33",
+      "text": "Change the title of the City's chief legal officer from Solicitor to Director of Law, without changing the appointment, qualifications, powers, duties, suspension or removal provisions applicable to that office.",
+      "sources": [
+        "summit-issues"
+      ]
+    },
+    {
+      "id": "issue-34",
+      "kind": "question",
+      "jurisdiction": "City of Stow",
+      "title": "Ordinance: compensation of the Mayor, Law Director and Finance Director",
+      "area": "City of Stow",
+      "places": [
+        "Stow City"
+      ],
+      "number": "Issue 34",
+      "text": "Set the base annual salary of the Mayor, Law Director and Finance Director at $100,000 each effective January 2, 2028 (increases of 24%, 23% and 23% over the salaries set in 2011 and 2013), and from January 2, 2029 increase each year by no less than the aggregate of the City's collective bargaining units' annual percentage increase.",
+      "sources": [
+        "summit-issues"
+      ]
+    },
+    {
+      "id": "issue-35",
+      "kind": "question",
+      "jurisdiction": "City of Stow",
+      "title": "Charter amendment: Section 3.06 (Acting Mayor)",
+      "area": "City of Stow",
+      "places": [
+        "Stow City"
+      ],
+      "number": "Issue 35",
+      "text": "Amend Section 3.06 so that the President of Council, or a member of Council designated by majority vote, becomes Acting Mayor when the Mayor is temporarily absent, inaccessible or unable to serve, or until Council elects a Mayor after a vacancy; if the President of Council cannot serve as Acting Mayor, Council chooses a designee by majority vote; a Council member acting as Mayor gives up Council voting power while doing so.",
+      "sources": [
+        "summit-issues"
+      ]
+    },
+    {
+      "id": "issue-36",
+      "kind": "question",
+      "jurisdiction": "City of Stow",
+      "title": "Charter amendment: new Section 6.08 (Acting Finance Director)",
+      "area": "City of Stow",
+      "places": [
+        "Stow City"
+      ],
+      "number": "Issue 36",
+      "text": "Add Section 6.08 so that the Assistant Director of the General Division becomes Acting Finance Director when the Finance Director is temporarily absent, inaccessible or unable to serve; if that position is vacant, the Mayor appoints an Acting Finance Director from within the Finance Department.",
+      "sources": [
+        "summit-issues"
+      ]
+    },
+    {
+      "id": "issue-37",
+      "kind": "question",
+      "jurisdiction": "City of Stow",
+      "title": "Charter amendment: new Section 9.07 (Acting Law Director)",
+      "area": "City of Stow",
+      "places": [
+        "Stow City"
+      ],
+      "number": "Issue 37",
+      "text": "Add Section 9.07 so that the Deputy Law Director becomes Acting Law Director when the Law Director is temporarily absent, inaccessible or unable to serve; if that position is vacant, the Mayor appoints an Acting Law Director from within the Law Department.",
+      "sources": [
+        "summit-issues"
+      ]
+    },
+    {
+      "id": "issue-38",
+      "kind": "question",
+      "jurisdiction": "City of Twinsburg",
+      "title": "Zoning amendment: 2570 Post Road",
+      "area": "City of Twinsburg",
+      "places": [
+        "Twinsburg City"
+      ],
+      "number": "Issue 38",
+      "text": "Shall Ordinance 2026-093 rezoning 3.2 acres of land located at 2570 Post Road (and further identified as Parcel No. 64-02608) from PF (Public Facilities Zone) to R-3 Single Unit Residential Zone Use be approved?",
+      "sources": [
+        "summit-issues"
+      ]
+    },
+    {
+      "id": "issue-39",
+      "kind": "question",
+      "jurisdiction": "Village of Boston Heights",
+      "title": "Municipal income tax: 0.25% increase for safety services",
+      "area": "Village of Boston Heights",
+      "places": [
+        "Boston Heights Village"
+      ],
+      "number": "Issue 39",
+      "text": "A 0.25% increase in the income tax, effective January 1, 2027, for safety services, including a Safety Service Center for the police department and village offices, updating the fire station, fire and EMS personnel and equipment, and police department operations and personnel.",
+      "sources": [
+        "summit-issues"
+      ]
+    },
+    {
+      "id": "issue-40",
+      "kind": "levy",
+      "jurisdiction": "Village of Boston Heights",
+      "title": "Tax levy (renewal): General construction, reconstruction, resurfacing and repair of streets, roads, and bridges",
+      "area": "Village of Boston Heights",
+      "places": [
+        "Boston Heights Village"
+      ],
+      "levy": {
+        "type": "Renewal",
+        "purpose": "General construction, reconstruction, resurfacing and repair of streets, roads, and bridges.",
+        "mills": "2.75 mills",
+        "term": "5 years, commencing in 2027",
+        "firstDue": "2028",
+        "estimate": "$237,772 a year; $61 for each $100,000 of market value"
+      },
+      "number": "Issue 40",
+      "sources": [
+        "summit-issues"
+      ]
+    },
+    {
+      "id": "issue-41",
+      "kind": "levy",
+      "jurisdiction": "Village of Boston Heights",
+      "title": "Tax levy (renewal): Providing and maintaining fire operations",
+      "area": "Village of Boston Heights",
+      "places": [
+        "Boston Heights Village"
+      ],
+      "levy": {
+        "type": "Renewal",
+        "purpose": "Providing and maintaining fire operations.",
+        "mills": "0.75 mill",
+        "term": "3 years, commencing in 2027",
+        "firstDue": "2028",
+        "estimate": "$64,847 a year; $17 for each $100,000 of market value"
+      },
+      "number": "Issue 41",
+      "sources": [
+        "summit-issues"
+      ]
+    },
+    {
+      "id": "issue-42",
+      "kind": "question",
+      "jurisdiction": "Village of Mogadore (Summit and Portage)",
+      "title": "Charter amendment: Article V (Fiscal Officer and Clerk)",
+      "area": "Village of Mogadore (Summit and Portage)",
+      "places": [
+        "Mogadore Village"
+      ],
+      "number": "Issue 42",
+      "text": "Shall Article V of the Charter of the Village of Mogadore, Ohio be changed and amended to eliminate the appointed office of Clerk-Treasurer and to create the appointed offices of Fiscal Officer to perform the fiscal functions of the Village and Clerk to perform the municipal clerk functions of the Village?",
+      "sources": [
+        "summit-issues"
+      ]
+    },
+    {
+      "id": "issue-43",
+      "kind": "question",
+      "jurisdiction": "Village of Mogadore (Summit and Portage)",
+      "title": "Charter amendment: Article IV, Section 4.03 (Acting Mayor)",
+      "area": "Village of Mogadore (Summit and Portage)",
+      "places": [
+        "Mogadore Village"
+      ],
+      "number": "Issue 43",
+      "text": "Shall Article IV Section 4.03 of the Charter of the Village of Mogadore, Ohio be changed and amended to clarify the circumstances where the incapacity or absence of the Mayor, or vacancy in the Office of Mayor, require the Council President or other member of Council to serve as the Acting Mayor and/or to preside over Council meetings?",
+      "sources": [
+        "summit-issues"
+      ]
+    },
+    {
+      "id": "issue-44",
+      "kind": "question",
+      "jurisdiction": "Village of Mogadore (Summit and Portage)",
+      "title": "Charter amendment: Article III, Section 3.12 (publishing ordinances online)",
+      "area": "Village of Mogadore (Summit and Portage)",
+      "places": [
+        "Mogadore Village"
+      ],
+      "number": "Issue 44",
+      "text": "Shall Article III Section 3.12 of the Charter of the Village of Mogadore, Ohio be changed and amended to require that every ordinance or resolution adopted by the Village Council be published by posting a copy of the same on the Village's website, which shall be accessible to the general public, within five (5) days of the effective date of the same, and remain on the Village's website for no less than five (5) years thereafter?",
+      "sources": [
+        "summit-issues"
+      ]
+    },
+    {
+      "id": "issue-45",
+      "kind": "question",
+      "jurisdiction": "Village of Mogadore (Summit and Portage)",
+      "title": "Charter amendment: Article X (Board of Zoning Appeals)",
+      "area": "Village of Mogadore (Summit and Portage)",
+      "places": [
+        "Mogadore Village"
+      ],
+      "number": "Issue 45",
+      "text": "Shall Article X of the Charter of the Village of Mogadore, Ohio be changed and amended to reduce the number of members of the Village of Mogadore's Board of Zoning Appeals from seven (7) to five (5) members?",
+      "sources": [
+        "summit-issues"
+      ]
+    },
+    {
+      "id": "issue-46",
+      "kind": "levy",
+      "jurisdiction": "Village of Mogadore (Summit and Portage)",
+      "title": "Tax levy (renewal and increase): Fire and emergency medical service personnel and related costs (renewal of 3.5 mills and increase of 1.23 mills)",
+      "area": "Village of Mogadore (Summit and Portage)",
+      "places": [
+        "Mogadore Village"
+      ],
+      "levy": {
+        "type": "Renewal and increase",
+        "purpose": "Fire and emergency medical service personnel and related costs (renewal of 3.5 mills and increase of 1.23 mills).",
+        "mills": "4.73 mills",
+        "term": "5 years, commencing in 2027",
+        "firstDue": "2028",
+        "estimate": "$500,686 a year; $135 for each $100,000 of market value"
+      },
+      "number": "Issue 46",
+      "sources": [
+        "summit-issues"
+      ]
+    },
+    {
+      "id": "issue-47",
+      "kind": "question",
+      "jurisdiction": "Village of Peninsula",
+      "title": "Advisory election: short-term home rentals",
+      "area": "Village of Peninsula",
+      "places": [
+        "Peninsula Village"
+      ],
+      "number": "Issue 47",
+      "text": "Shall the Village of Peninsula prohibit all short-term home rentals, except when the owner is residing on site at the time of the rental? (Short-term home rentals are defined as home rentals for less than 30 consecutive days.)",
+      "sources": [
+        "summit-issues"
+      ]
+    },
+    {
+      "id": "issue-48",
+      "kind": "levy",
+      "jurisdiction": "Bath Township",
+      "title": "Tax levy (renewal and increase): General construction, reconstruction, resurfacing and repair of streets, roads and bridges (renewal of 2 mills and increase of 1.4 mills)",
+      "area": "Bath Township",
+      "places": [
+        "Bath Township"
+      ],
+      "levy": {
+        "type": "Renewal and increase",
+        "purpose": "General construction, reconstruction, resurfacing and repair of streets, roads and bridges (renewal of 2 mills and increase of 1.4 mills).",
+        "mills": "3.4 mills",
+        "term": "5 years, commencing in 2027",
+        "firstDue": "2028",
+        "estimate": "$2,294,616 a year; $94 for each $100,000 of market value"
+      },
+      "number": "Issue 48",
+      "sources": [
+        "summit-issues"
+      ]
+    },
+    {
+      "id": "issue-49",
+      "kind": "levy",
+      "jurisdiction": "Copley Township",
+      "title": "Tax levy (additional): Fire apparatus, equipment, buildings, firefighting and emergency medical service personnel, and related costs",
+      "area": "Copley Township",
+      "places": [
+        "Copley Township"
+      ],
+      "levy": {
+        "type": "Additional",
+        "purpose": "Fire apparatus, equipment, buildings, firefighting and emergency medical service personnel, and related costs.",
+        "mills": "1.7 mills",
+        "term": "3 years, commencing in 2026",
+        "firstDue": "2027",
+        "estimate": "$1,378,825 a year; $60 for each $100,000 of market value"
+      },
+      "number": "Issue 49",
+      "sources": [
+        "summit-issues"
+      ]
+    },
+    {
+      "id": "issue-50",
+      "kind": "levy",
+      "jurisdiction": "Coventry Township",
+      "title": "Tax levy (renewal and decrease): Township operations under its police contract with the Summit County Sheriff (renewal with a reduction of 0.25 mill)",
+      "area": "Coventry Township",
+      "places": [
+        "Coventry Township"
+      ],
+      "levy": {
+        "type": "Renewal and decrease",
+        "purpose": "Township operations under its police contract with the Summit County Sheriff (renewal with a reduction of 0.25 mill).",
+        "mills": "4.75 mills",
+        "term": "5 years, commencing in 2027",
+        "firstDue": "2028",
+        "estimate": "$1,353,006 a year; $115 for each $100,000 of market value"
+      },
+      "number": "Issue 50",
+      "sources": [
+        "summit-issues"
+      ]
+    },
+    {
+      "id": "issue-51",
+      "kind": "levy",
+      "jurisdiction": "Coventry Township",
+      "title": "Tax levy (renewal): Fire apparatus, buildings, firefighters, and ambulance and emergency medical services",
+      "area": "Coventry Township",
+      "places": [
+        "Coventry Township"
+      ],
+      "levy": {
+        "type": "Renewal",
+        "purpose": "Fire apparatus, buildings, firefighters, and ambulance and emergency medical services.",
+        "mills": "3.25 mills",
+        "term": "5 years, commencing in 2027",
+        "firstDue": "2028",
+        "estimate": "$942,573 a year; $80 for each $100,000 of market value"
+      },
+      "number": "Issue 51",
+      "sources": [
+        "summit-issues"
+      ]
+    },
+    {
+      "id": "issue-52",
+      "kind": "levy",
+      "jurisdiction": "Coventry Township",
+      "title": "Tax levy (renewal): Road improvement",
+      "area": "Coventry Township",
+      "places": [
+        "Coventry Township"
+      ],
+      "levy": {
+        "type": "Renewal",
+        "purpose": "Road improvement.",
+        "mills": "2.5 mills",
+        "term": "5 years, commencing in 2027",
+        "firstDue": "2028",
+        "estimate": "$725,056 a year; $62 for each $100,000 of market value"
+      },
+      "number": "Issue 52",
+      "sources": [
+        "summit-issues"
+      ]
+    },
+    {
+      "id": "issue-53",
+      "kind": "levy",
+      "jurisdiction": "Coventry Township",
+      "title": "Tax levy (renewal): Current expenses",
+      "area": "Coventry Township",
+      "places": [
+        "Coventry Township"
+      ],
+      "levy": {
+        "type": "Renewal",
+        "purpose": "Current expenses.",
+        "mills": "0.95 mill",
+        "term": "5 years, commencing in 2026",
+        "firstDue": "2027",
+        "estimate": "$275,521 a year; $23 for each $100,000 of market value"
+      },
+      "number": "Issue 53",
+      "sources": [
+        "summit-issues"
+      ]
+    },
+    {
+      "id": "issue-54",
+      "kind": "levy",
+      "jurisdiction": "Northfield Center Township",
+      "title": "Tax levy (additional): General construction, reconstruction, resurfacing, and repair of streets, roads, and bridges",
+      "area": "Northfield Center Township",
+      "places": [
+        "Northfield Center Township"
+      ],
+      "levy": {
+        "type": "Additional",
+        "purpose": "General construction, reconstruction, resurfacing, and repair of streets, roads, and bridges.",
+        "mills": "2 mills",
+        "term": "5 years, commencing in 2026",
+        "firstDue": "2027",
+        "estimate": "$485,312 a year; $70 for each $100,000 of market value"
+      },
+      "number": "Issue 54",
+      "sources": [
+        "summit-issues"
+      ]
+    },
+    {
+      "id": "issue-55",
+      "kind": "levy",
+      "jurisdiction": "Springfield Township",
+      "title": "Tax levy (additional (replacing an expiring 2 mills)): Fire apparatus, equipment, buildings, firefighting and emergency medical service personnel, and related costs of the Springfield Township Fire Department",
+      "area": "Springfield Township",
+      "places": [
+        "Springfield Township"
+      ],
+      "levy": {
+        "type": "Additional (replacing an expiring 2 mills)",
+        "purpose": "Fire apparatus, equipment, buildings, firefighting and emergency medical service personnel, and related costs of the Springfield Township Fire Department.",
+        "mills": "1.9 mills",
+        "term": "Continuing period of time, commencing in 2026",
+        "firstDue": "2027",
+        "estimate": "$786,001 a year; $67 for each $100,000 of market value"
+      },
+      "number": "Issue 55",
+      "sources": [
+        "summit-issues"
+      ]
+    },
+    {
+      "id": "issue-56",
+      "kind": "levy",
+      "jurisdiction": "Twinsburg Township",
+      "title": "Tax levy (additional): General construction, reconstruction, resurfacing, and repair of streets, roads, and bridges",
+      "area": "Twinsburg Township",
+      "places": [
+        "Twinsburg Township"
+      ],
+      "levy": {
+        "type": "Additional",
+        "purpose": "General construction, reconstruction, resurfacing, and repair of streets, roads, and bridges.",
+        "mills": "1.69 mills",
+        "term": "Continuing period of time, commencing in 2026",
+        "firstDue": "2027",
+        "estimate": "$412,593 a year; $59 for each $100,000 of market value"
+      },
+      "number": "Issue 56",
+      "sources": [
+        "summit-issues"
+      ]
+    }
+  ]
+}

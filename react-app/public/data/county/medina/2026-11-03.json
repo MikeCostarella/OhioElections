@@ -1,0 +1,885 @@
+{
+  "scope": "county",
+  "county": "Medina",
+  "fips": "39103",
+  "election": "2026-11-03",
+  "retrieved": "2026-10-30",
+  "notes": [
+    "Taken from the Board of Elections' 46-day election notice, which lists every contest and issue with the precincts that vote on it. Issue wording is the notice's summary; the full wording is on the sample ballot.",
+    "Candidates are listed alphabetically by last name, not in ballot order: Ohio rotates the order of names from precinct to precinct. Certified write-in candidates are not printed on the ballot and are not listed.",
+    "\"Where you live\" uses the state voter file: a district or school levy is shown for a city, village or township when any of its voters live in that district. Your exact ballot depends on your precinct."
+  ],
+  "places": [
+    "Brunswick City",
+    "Brunswick Hills Township",
+    "Chatham Township",
+    "Chippewa Lake Village",
+    "Creston Village",
+    "Gloria Glens Park Village",
+    "Granger Township",
+    "Guilford Township",
+    "Harrisville Township",
+    "Hinckley Township",
+    "Homer Township",
+    "Lafayette Township",
+    "Litchfield Township",
+    "Liverpool Township",
+    "Lodi Village",
+    "Medina City",
+    "Medina Township",
+    "Montville Township",
+    "Rittman City",
+    "Seville Village",
+    "Sharon Township",
+    "Spencer Township",
+    "Spencer Village",
+    "Wadsworth City",
+    "Wadsworth Township",
+    "Westfield Center Village",
+    "Westfield Township",
+    "York Township"
+  ],
+  "sources": {
+    "medina-46day": {
+      "label": "Medina County Board of Elections: 46-day election notice, November 3, 2026 General Election (revised 9/18/2026)",
+      "url": "https://www.boe.ohio.gov/medina/c/upload/FWAB_11November46Day.pdf"
+    }
+  },
+  "links": [
+    {
+      "label": "Board of Elections",
+      "url": "https://www.boe.ohio.gov/medina/"
+    },
+    {
+      "label": "Sample ballots by precinct",
+      "url": "https://lookup.boe.ohio.gov/vtrapp/medina/ballotlist.aspx"
+    }
+  ],
+  "results": {
+    "status": "upcoming",
+    "links": [
+      {
+        "label": "Board of Elections",
+        "url": "https://www.boe.ohio.gov/medina/"
+      }
+    ]
+  },
+  "contests": [
+    {
+      "id": "congress-7",
+      "group": "U.S. House",
+      "office": "Representative to Congress",
+      "detail": "7th District",
+      "candidates": [
+        {
+          "name": "Brian Poindexter",
+          "party": "DEM"
+        },
+        {
+          "name": "Max Miller",
+          "party": "REP"
+        }
+      ],
+      "sources": [
+        "medina-46day"
+      ]
+    },
+    {
+      "id": "rep-66",
+      "group": "Ohio General Assembly",
+      "office": "State Representative",
+      "detail": "66th District",
+      "area": "Chippewa Lake Village, Creston Village, Gloria Glens Park Village, Granger Township, Guilford Township, Harrisville Township, Hinckley Township, Lafayette Township, Lodi Village, Medina City, Medina Township, Montville Township, Rittman City, Seville Village, Sharon Township, Wadsworth City, Wadsworth Township, Westfield Center Village, Westfield Township",
+      "places": [
+        "Chippewa Lake Village",
+        "Creston Village",
+        "Gloria Glens Park Village",
+        "Granger Township",
+        "Guilford Township",
+        "Harrisville Township",
+        "Hinckley Township",
+        "Lafayette Township",
+        "Lodi Village",
+        "Medina City",
+        "Medina Township",
+        "Montville Township",
+        "Rittman City",
+        "Seville Village",
+        "Sharon Township",
+        "Wadsworth City",
+        "Wadsworth Township",
+        "Westfield Center Village",
+        "Westfield Township"
+      ],
+      "candidates": [
+        {
+          "name": "Chris Nardo",
+          "party": "DEM"
+        },
+        {
+          "name": "Justin P. Peroli",
+          "party": "LIB"
+        },
+        {
+          "name": "Sean M. Hutson",
+          "party": "REP"
+        }
+      ],
+      "sources": [
+        "medina-46day"
+      ]
+    },
+    {
+      "id": "rep-67",
+      "group": "Ohio General Assembly",
+      "office": "State Representative",
+      "detail": "67th District",
+      "area": "Brunswick City, Brunswick Hills Township, Chatham Township, Homer Township, Litchfield Township, Liverpool Township, Spencer Township, Spencer Village, York Township",
+      "places": [
+        "Brunswick City",
+        "Brunswick Hills Township",
+        "Chatham Township",
+        "Homer Township",
+        "Litchfield Township",
+        "Liverpool Township",
+        "Spencer Township",
+        "Spencer Village",
+        "York Township"
+      ],
+      "candidates": [
+        {
+          "name": "Heather L. Sample",
+          "party": "DEM"
+        },
+        {
+          "name": "Melanie Miller",
+          "party": "REP"
+        }
+      ],
+      "sources": [
+        "medina-46day"
+      ]
+    },
+    {
+      "id": "appeals-9-0209",
+      "group": "Ohio Court of Appeals",
+      "office": "Judge of the Court of Appeals",
+      "detail": "9th District · full term commencing February 9, 2027",
+      "candidates": [
+        {
+          "name": "Betty Sutton",
+          "party": "DEM"
+        },
+        {
+          "name": "Cynthia Curtin",
+          "party": "REP"
+        }
+      ],
+      "sources": [
+        "medina-46day"
+      ]
+    },
+    {
+      "id": "appeals-9-0210",
+      "group": "Ohio Court of Appeals",
+      "office": "Judge of the Court of Appeals",
+      "detail": "9th District · unexpired term ending February 9, 2029",
+      "candidates": [
+        {
+          "name": "Tavia Galonski",
+          "party": "DEM"
+        },
+        {
+          "name": "Nathan Manning",
+          "party": "REP"
+        }
+      ],
+      "sources": [
+        "medina-46day"
+      ]
+    },
+    {
+      "id": "commissioner",
+      "group": "County offices",
+      "office": "County Commissioner",
+      "detail": "Full term commencing January 1, 2027",
+      "candidates": [
+        {
+          "name": "Cheryl Minichiello",
+          "party": "DEM"
+        },
+        {
+          "name": "Julie A. McNabb",
+          "party": "REP"
+        }
+      ],
+      "sources": [
+        "medina-46day"
+      ]
+    },
+    {
+      "id": "recorder",
+      "group": "County offices",
+      "office": "County Recorder",
+      "detail": "Unexpired term ending December 31, 2028",
+      "candidates": [
+        {
+          "name": "Bradford Scott Quade",
+          "party": "DEM"
+        },
+        {
+          "name": "Sharon A. Ray",
+          "party": "REP"
+        }
+      ],
+      "sources": [
+        "medina-46day"
+      ]
+    },
+    {
+      "id": "auditor",
+      "group": "County offices",
+      "office": "County Auditor",
+      "detail": "Full term commencing March 8, 2027",
+      "candidates": [
+        {
+          "name": "Carol Brenstuhl",
+          "party": "DEM"
+        },
+        {
+          "name": "Rick Dumperth",
+          "party": "REP"
+        }
+      ],
+      "sources": [
+        "medina-46day"
+      ]
+    },
+    {
+      "id": "cp-gen",
+      "group": "Court of Common Pleas",
+      "office": "Judge of the Court of Common Pleas, General Division",
+      "detail": "Full term commencing January 1, 2027 · no party label on the ballot",
+      "candidates": [
+        {
+          "name": "Ben Fuchs"
+        },
+        {
+          "name": "Matthew K. Razavi"
+        }
+      ],
+      "sources": [
+        "medina-46day"
+      ]
+    },
+    {
+      "id": "cp-juv-probate",
+      "group": "Court of Common Pleas",
+      "office": "Judge of the Court of Common Pleas, Juvenile/Probate Division",
+      "detail": "Full term commencing February 9, 2027 · no party label on the ballot",
+      "candidates": [
+        {
+          "name": "Mike Conway"
+        },
+        {
+          "name": "Kevin W. Dunn"
+        }
+      ],
+      "sources": [
+        "medina-46day"
+      ]
+    }
+  ],
+  "issues": [
+    {
+      "id": "medina-sidewalks",
+      "kind": "question",
+      "jurisdiction": "City of Medina",
+      "title": "Amendment to Sections 161.01, 161.03(A) and 162.013(A) of the Codified Ordinances: sidewalks in the 0.25% income tax allocation",
+      "area": "Medina City wards 1–4, plus splits 080/2-LFTD and 118/2-YKTA",
+      "places": [
+        "Medina City"
+      ],
+      "text": "An amendment to Sections 161.01, 161.03(A), and 162.013(A) of the Codified Ordinances of the City of Medina to include the installation, maintenance, repair and/or replacement of sidewalks as a permitted expense within the 0.25% income tax allocation that is currently restricted for improvements for streets, storm water, and utility improvements?",
+      "sources": [
+        "medina-46day"
+      ]
+    },
+    {
+      "id": "rittman-charter-1",
+      "kind": "question",
+      "jurisdiction": "City of Rittman (Wayne and Medina counties)",
+      "title": "Proposed charter amendment #1: Section 9.05",
+      "area": "Precinct splits 068/2-GUTA and 068/3-GUTA",
+      "places": [
+        "Rittman City"
+      ],
+      "text": "Eliminate outdated language regarding the civil service status of employees and add a new section allowing for the removal of a member of City Council by other members of City Council for bad behavior, criminal conduct, or absenteeism.",
+      "sources": [
+        "medina-46day"
+      ]
+    },
+    {
+      "id": "rittman-charter-2",
+      "kind": "question",
+      "jurisdiction": "City of Rittman (Wayne and Medina counties)",
+      "title": "Proposed charter amendment #2: Articles III, IV, VII, XII and XIII",
+      "area": "Precinct splits 068/2-GUTA and 068/3-GUTA",
+      "places": [
+        "Rittman City"
+      ],
+      "text": "Change the date of the organizational meeting, change the date that elected officials take office, and change the deadline that nominating petitions for elective offices in the municipality must be submitted to the Board of Elections.",
+      "sources": [
+        "medina-46day"
+      ]
+    },
+    {
+      "id": "rittman-charter-3",
+      "kind": "question",
+      "jurisdiction": "City of Rittman (Wayne and Medina counties)",
+      "title": "Proposed charter amendment #3: Section 3.06",
+      "area": "Precinct splits 068/2-GUTA and 068/3-GUTA",
+      "places": [
+        "Rittman City"
+      ],
+      "text": "Allow City Council to hold executive sessions for any reason allowable by Ohio Revised Code.",
+      "sources": [
+        "medina-46day"
+      ]
+    },
+    {
+      "id": "rittman-charter-4",
+      "kind": "question",
+      "jurisdiction": "City of Rittman (Wayne and Medina counties)",
+      "title": "Proposed charter amendment #4: Section 4.03",
+      "area": "Precinct splits 068/2-GUTA and 068/3-GUTA",
+      "places": [
+        "Rittman City"
+      ],
+      "text": "Clarify language that the Mayor, when invited, is only an attendee and does not preside over executive sessions of City Council.",
+      "sources": [
+        "medina-46day"
+      ]
+    },
+    {
+      "id": "rittman-charter-5",
+      "kind": "question",
+      "jurisdiction": "City of Rittman (Wayne and Medina counties)",
+      "title": "Proposed charter amendment #5: Section 4.05",
+      "area": "Precinct splits 068/2-GUTA and 068/3-GUTA",
+      "places": [
+        "Rittman City"
+      ],
+      "text": "Clarify the procedure by which a member of City Council is nominated to and can become Mayor in the event the office of Mayor becomes vacant.",
+      "sources": [
+        "medina-46day"
+      ]
+    },
+    {
+      "id": "rittman-charter-6",
+      "kind": "question",
+      "jurisdiction": "City of Rittman (Wayne and Medina counties)",
+      "title": "Proposed charter amendment #6: Section 5.01",
+      "area": "Precinct splits 068/2-GUTA and 068/3-GUTA",
+      "places": [
+        "Rittman City"
+      ],
+      "text": "Require an annual review of the Municipal Manager by City Council.",
+      "sources": [
+        "medina-46day"
+      ]
+    },
+    {
+      "id": "rittman-charter-7",
+      "kind": "question",
+      "jurisdiction": "City of Rittman (Wayne and Medina counties)",
+      "title": "Proposed charter amendment #7: Articles VI and IX",
+      "area": "Precinct splits 068/2-GUTA and 068/3-GUTA",
+      "places": [
+        "Rittman City"
+      ],
+      "text": "Change language to reflect that the Fire and EMS departments have merged into one department.",
+      "sources": [
+        "medina-46day"
+      ]
+    },
+    {
+      "id": "rittman-charter-8",
+      "kind": "question",
+      "jurisdiction": "City of Rittman (Wayne and Medina counties)",
+      "title": "Proposed charter amendment #8: Section 6.05",
+      "area": "Precinct splits 068/2-GUTA and 068/3-GUTA",
+      "places": [
+        "Rittman City"
+      ],
+      "text": "Require that the Law Director be an attorney-in-fact in good standing with the State Bar Association and oversee representation of the City in all cases as well as provide direct representation.",
+      "sources": [
+        "medina-46day"
+      ]
+    },
+    {
+      "id": "rittman-charter-9",
+      "kind": "question",
+      "jurisdiction": "City of Rittman (Wayne and Medina counties)",
+      "title": "Proposed charter amendment #9: Section 9.01",
+      "area": "Precinct splits 068/2-GUTA and 068/3-GUTA",
+      "places": [
+        "Rittman City"
+      ],
+      "text": "Update old language concerning the establishment of a Civil Service Commission if Rittman became a city, as Rittman is already a city.",
+      "sources": [
+        "medina-46day"
+      ]
+    },
+    {
+      "id": "rittman-charter-10",
+      "kind": "question",
+      "jurisdiction": "City of Rittman (Wayne and Medina counties)",
+      "title": "Proposed charter amendment #10: Section 9.02",
+      "area": "Precinct splits 068/2-GUTA and 068/3-GUTA",
+      "places": [
+        "Rittman City"
+      ],
+      "text": "Change the term an individual serves on the Civil Service Commission from six (6) years to three (3) years.",
+      "sources": [
+        "medina-46day"
+      ]
+    },
+    {
+      "id": "rittman-charter-11",
+      "kind": "question",
+      "jurisdiction": "City of Rittman (Wayne and Medina counties)",
+      "title": "Proposed charter amendment #11: Section 11.01",
+      "area": "Precinct splits 068/2-GUTA and 068/3-GUTA",
+      "places": [
+        "Rittman City"
+      ],
+      "text": "Add a member of City Council to serve on the Cemetery Board.",
+      "sources": [
+        "medina-46day"
+      ]
+    },
+    {
+      "id": "rittman-charter-12",
+      "kind": "question",
+      "jurisdiction": "City of Rittman (Wayne and Medina counties)",
+      "title": "Proposed charter amendment #12: Section 12.02",
+      "area": "Precinct splits 068/2-GUTA and 068/3-GUTA",
+      "places": [
+        "Rittman City"
+      ],
+      "text": "Change the deadline for submitting the budget to City Council from January 1st to December 31st and clarify language.",
+      "sources": [
+        "medina-46day"
+      ]
+    },
+    {
+      "id": "rittman-charter-13",
+      "kind": "question",
+      "jurisdiction": "City of Rittman (Wayne and Medina counties)",
+      "title": "Proposed charter amendment #13: Section 12.06",
+      "area": "Precinct splits 068/2-GUTA and 068/3-GUTA",
+      "places": [
+        "Rittman City"
+      ],
+      "text": "Require an annual review of the Finance Director by City Council.",
+      "sources": [
+        "medina-46day"
+      ]
+    },
+    {
+      "id": "rittman-charter-14",
+      "kind": "question",
+      "jurisdiction": "City of Rittman (Wayne and Medina counties)",
+      "title": "Proposed charter amendment #14: Section 13.04",
+      "area": "Precinct splits 068/2-GUTA and 068/3-GUTA",
+      "places": [
+        "Rittman City"
+      ],
+      "text": "Reduce the residency requirement to be eligible to be an elected officer of the municipality from two (2) years to one (1) year.",
+      "sources": [
+        "medina-46day"
+      ]
+    },
+    {
+      "id": "rittman-charter-15",
+      "kind": "question",
+      "jurisdiction": "City of Rittman (Wayne and Medina counties)",
+      "title": "Proposed charter amendment #15: Section 16.01",
+      "area": "Precinct splits 068/2-GUTA and 068/3-GUTA",
+      "places": [
+        "Rittman City"
+      ],
+      "text": "Amend the schedule in which the Charter Review Commission convenes to intentionally misalign it with the election of new members of City Council.",
+      "sources": [
+        "medina-46day"
+      ]
+    },
+    {
+      "id": "wadsworth-ems",
+      "kind": "levy",
+      "jurisdiction": "City of Wadsworth",
+      "title": "Tax levy (renewal and increase): Ambulance and emergency medical services (renew 3 mills, increase 1 mill)",
+      "area": "Wadsworth City wards 1–4, plus splits 109/2-SHTD, 113/3-WDTB, 114/2-WDTC, 114/3-WDTC",
+      "places": [
+        "Wadsworth City"
+      ],
+      "levy": {
+        "type": "Renewal and increase",
+        "purpose": "Ambulance and emergency medical services (renew 3 mills, increase 1 mill).",
+        "mills": "4 mills",
+        "term": "5 years, commencing in 2027",
+        "firstDue": "2028"
+      },
+      "sources": [
+        "medina-46day"
+      ]
+    },
+    {
+      "id": "wadsworth-fire",
+      "kind": "levy",
+      "jurisdiction": "City of Wadsworth",
+      "title": "Tax levy (renewal and decrease): Fire apparatus, equipment, buildings, water supply and fire-alarm communications (renew 1.5 mills, reduce 1 mill)",
+      "area": "Wadsworth City wards 1–4, plus splits 109/2-SHTD, 113/3-WDTB, 114/2-WDTC, 114/3-WDTC",
+      "places": [
+        "Wadsworth City"
+      ],
+      "levy": {
+        "type": "Renewal and decrease",
+        "purpose": "Fire apparatus, equipment, buildings, water supply and fire-alarm communications (renew 1.5 mills, reduce 1 mill).",
+        "mills": "0.5 mill",
+        "term": "5 years, commencing in 2026",
+        "firstDue": "2027"
+      },
+      "sources": [
+        "medina-46day"
+      ]
+    },
+    {
+      "id": "lodi-current",
+      "kind": "levy",
+      "jurisdiction": "Village of Lodi",
+      "title": "Tax levy (renewal): Current operating expenses",
+      "area": "Village of Lodi",
+      "places": [
+        "Lodi Village"
+      ],
+      "levy": {
+        "type": "Renewal",
+        "purpose": "Current operating expenses.",
+        "mills": "3 mills",
+        "term": "5 years, commencing in 2026",
+        "firstDue": "2027"
+      },
+      "sources": [
+        "medina-46day"
+      ]
+    },
+    {
+      "id": "canaan-fire",
+      "kind": "levy",
+      "jurisdiction": "Canaan Township (Wayne and Medina counties)",
+      "title": "Tax levy (additional): Fire and emergency medical services",
+      "area": "One precinct split in Medina County: 116/2-WSTA",
+      "places": [
+        "Westfield Township"
+      ],
+      "levy": {
+        "type": "Additional",
+        "purpose": "Fire and emergency medical services.",
+        "mills": "2.5 mills",
+        "term": "3 years, commencing in 2026",
+        "firstDue": "2027"
+      },
+      "sources": [
+        "medina-46day"
+      ]
+    },
+    {
+      "id": "chatham-cemeteries",
+      "kind": "levy",
+      "jurisdiction": "Chatham Township",
+      "title": "Tax levy (renewal): Maintaining and operating cemeteries",
+      "area": "Chatham Township",
+      "places": [
+        "Chatham Township"
+      ],
+      "levy": {
+        "type": "Renewal",
+        "purpose": "Maintaining and operating cemeteries.",
+        "mills": "0.5 mill",
+        "term": "5 years, commencing in 2027",
+        "firstDue": "2028"
+      },
+      "sources": [
+        "medina-46day"
+      ]
+    },
+    {
+      "id": "guilford-ems",
+      "kind": "levy",
+      "jurisdiction": "Guilford Township",
+      "title": "Tax levy (renewal): Ambulance service and medical emergency service",
+      "area": "Guilford Township A and B, Seville Village A and B",
+      "places": [
+        "Guilford Township",
+        "Seville Village"
+      ],
+      "levy": {
+        "type": "Renewal",
+        "purpose": "Ambulance service and medical emergency service.",
+        "mills": "2.5 mills",
+        "term": "5 years, commencing in 2026",
+        "firstDue": "2027"
+      },
+      "sources": [
+        "medina-46day"
+      ]
+    },
+    {
+      "id": "harrisville-cemeteries",
+      "kind": "levy",
+      "jurisdiction": "Harrisville Township",
+      "title": "Tax levy (additional): Maintaining and operating cemeteries",
+      "area": "Harrisville Township A, Lodi Village A and B",
+      "places": [
+        "Harrisville Township",
+        "Lodi Village"
+      ],
+      "levy": {
+        "type": "Additional",
+        "purpose": "Maintaining and operating cemeteries.",
+        "mills": "0.75 mill",
+        "term": "5 years, commencing in 2026",
+        "firstDue": "2027"
+      },
+      "sources": [
+        "medina-46day"
+      ]
+    },
+    {
+      "id": "hinckley-police",
+      "kind": "levy",
+      "jurisdiction": "Hinckley Township",
+      "title": "Tax levy (additional): Police department vehicles, equipment, buildings and personnel, police protection contracts, and related costs",
+      "area": "Hinckley Township",
+      "places": [
+        "Hinckley Township"
+      ],
+      "levy": {
+        "type": "Additional",
+        "purpose": "Police department vehicles, equipment, buildings and personnel, police protection contracts, and related costs.",
+        "mills": "2 mills",
+        "term": "5 years, commencing in 2026",
+        "firstDue": "2027"
+      },
+      "sources": [
+        "medina-46day"
+      ]
+    },
+    {
+      "id": "litchfield-roads",
+      "kind": "levy",
+      "jurisdiction": "Litchfield Township",
+      "title": "Tax levy (renewal): Road and bridge construction and the repair of township roads",
+      "area": "Litchfield Township",
+      "places": [
+        "Litchfield Township"
+      ],
+      "levy": {
+        "type": "Renewal",
+        "purpose": "Road and bridge construction and the repair of township roads.",
+        "mills": "1 mill",
+        "term": "5 years, commencing in 2026",
+        "firstDue": "2027"
+      },
+      "sources": [
+        "medina-46day"
+      ]
+    },
+    {
+      "id": "litchfield-fire",
+      "kind": "levy",
+      "jurisdiction": "Litchfield Township",
+      "title": "Tax levy (additional): Fire and EMS",
+      "area": "Litchfield Township",
+      "places": [
+        "Litchfield Township"
+      ],
+      "levy": {
+        "type": "Additional",
+        "purpose": "Fire and EMS.",
+        "mills": "3 mills",
+        "term": "5 years, commencing in 2026",
+        "firstDue": "2027"
+      },
+      "sources": [
+        "medina-46day"
+      ]
+    },
+    {
+      "id": "liverpool-fire-add",
+      "kind": "levy",
+      "jurisdiction": "Liverpool Township",
+      "title": "Tax levy (additional): Fire and EMS",
+      "area": "Liverpool Township",
+      "places": [
+        "Liverpool Township"
+      ],
+      "levy": {
+        "type": "Additional",
+        "purpose": "Fire and EMS.",
+        "mills": "1.5 mills",
+        "term": "5 years, commencing in 2026",
+        "firstDue": "2027"
+      },
+      "sources": [
+        "medina-46day"
+      ]
+    },
+    {
+      "id": "liverpool-fire-ren",
+      "kind": "levy",
+      "jurisdiction": "Liverpool Township",
+      "title": "Tax levy (renewal): Fire and EMS",
+      "area": "Liverpool Township",
+      "places": [
+        "Liverpool Township"
+      ],
+      "levy": {
+        "type": "Renewal",
+        "purpose": "Fire and EMS.",
+        "mills": "2 mills",
+        "term": "5 years, commencing in 2026",
+        "firstDue": "2027"
+      },
+      "sources": [
+        "medina-46day"
+      ]
+    },
+    {
+      "id": "sharon-fire",
+      "kind": "levy",
+      "jurisdiction": "Sharon Township",
+      "title": "Tax levy (renewal): Fire and EMS",
+      "area": "Sharon Township",
+      "places": [
+        "Sharon Township"
+      ],
+      "levy": {
+        "type": "Renewal",
+        "purpose": "Fire and EMS.",
+        "mills": "1.1 mills",
+        "term": "5 years, commencing in 2026",
+        "firstDue": "2027"
+      },
+      "sources": [
+        "medina-46day"
+      ]
+    },
+    {
+      "id": "westfield-jfd",
+      "kind": "levy",
+      "jurisdiction": "Westfield Joint Fire District",
+      "title": "Tax levy (additional): Fire and emergency medical services",
+      "area": "Westfield Center Village; Westfield Township A and B",
+      "places": [
+        "Westfield Center Village",
+        "Westfield Township"
+      ],
+      "levy": {
+        "type": "Additional",
+        "purpose": "Fire and emergency medical services.",
+        "mills": "3.1 mills",
+        "term": "5 years, commencing in 2026",
+        "firstDue": "2027"
+      },
+      "sources": [
+        "medina-46day"
+      ]
+    },
+    {
+      "id": "wayne-jvsd",
+      "kind": "levy",
+      "jurisdiction": "Wayne County Joint Vocational School District",
+      "title": "Tax levy (renewal): General permanent improvements",
+      "area": "Precinct splits 068/3-GUTA, 070/2-HRTA, 113/1-WDTB, 116/2-WSTA, 116/3-WSTA",
+      "places": [
+        "Guilford Township",
+        "Harrisville Township",
+        "Wadsworth Township",
+        "Westfield Township"
+      ],
+      "levy": {
+        "type": "Renewal",
+        "purpose": "General permanent improvements.",
+        "mills": "0.5 mill",
+        "term": "5 years, commencing in 2027",
+        "firstDue": "2028"
+      },
+      "sources": [
+        "medina-46day"
+      ]
+    },
+    {
+      "id": "york-bond",
+      "kind": "levy",
+      "jurisdiction": "York Township",
+      "title": "Bond issue: fire station addition",
+      "area": "York Township",
+      "places": [
+        "York Township"
+      ],
+      "text": "Bond issue, principal $5,050,000, estimated 1 mill, 29 years, commencing 2026, first due 2027, for constructing a fire station addition and related improvements; furnishing and equipping the same; and improving the sites thereof.",
+      "sources": [
+        "medina-46day"
+      ]
+    },
+    {
+      "id": "wadsworth-csd-income",
+      "kind": "question",
+      "jurisdiction": "Wadsworth City School District",
+      "title": "School district income tax: 1% additional, 5 years, for current expenses",
+      "area": "Wadsworth City School District",
+      "places": [
+        "Guilford Township",
+        "Montville Township",
+        "Sharon Township",
+        "Wadsworth City",
+        "Wadsworth Township"
+      ],
+      "text": "Income tax (additional), 1%, 5 years, commencing January 1, 2027, for current expenses.",
+      "sources": [
+        "medina-46day"
+      ]
+    },
+    {
+      "id": "liquor-meijer",
+      "kind": "liquor",
+      "jurisdiction": "City of Medina",
+      "title": "Local liquor option: Meijer Express #335 (Sunday)",
+      "area": "Medina City precinct 1-C",
+      "places": [
+        "Medina City"
+      ],
+      "text": "Sunday sale of wine and mixed beverages, off-premise sales, by Meijer Stores Limited Partnership (dba Express #335), NW corner of Pearl Road and the Meijer store access drive, Medina.",
+      "sources": [
+        "medina-46day"
+      ]
+    },
+    {
+      "id": "liquor-casa-conrique",
+      "kind": "liquor",
+      "jurisdiction": "City of Medina",
+      "title": "Local liquor option: Casa Conrique (Sunday)",
+      "area": "Medina City precinct 2-A",
+      "places": [
+        "Medina City"
+      ],
+      "text": "Sunday sale of wine and mixed beverages and spirituous liquor, on/off-premise sales, by Conrique Valadez, LLC (dba Casa Conrique), 111 W. Liberty Street, Medina.",
+      "sources": [
+        "medina-46day"
+      ]
+    }
+  ]
+}

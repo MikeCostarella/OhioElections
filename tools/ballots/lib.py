@@ -27,11 +27,21 @@ def display(raw: str, typed=True) -> str:
 
 
 class County:
-    def __init__(self, slug, name, fips):
+    def __init__(self, slug, name, fips, rename=None, bare="Township"):
+        """rename: raw SoS name -> display name. bare: suffix for raw names with no CITY/VILLAGE/TWP word
+        (Stark's file lists townships as plain "JACKSON"); None leaves them as they are (Cuyahoga)."""
         self.slug, self.name, self.fips = slug, name, fips
         self.raw = json.load(open(os.path.join(os.path.dirname(__file__), "places", f"{slug}.json")))
         self.raw.pop("?", None)
-        self.names = {r: display(r) for r in self.raw}
+        rename = rename or {}
+        def nm(r):
+            if r in rename:
+                return rename[r]
+            d = display(r)
+            if bare and not re.search(r"\b(City|Village|Township)$", d):
+                d += " " + bare
+            return d
+        self.names = {r: nm(r) for r in self.raw}
         self.places = sorted(self.names.values())
         self.sources = {}
         self.contests = []

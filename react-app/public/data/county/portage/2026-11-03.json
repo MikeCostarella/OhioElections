@@ -1,0 +1,881 @@
+{
+  "scope": "county",
+  "county": "Portage",
+  "fips": "39133",
+  "election": "2026-11-03",
+  "retrieved": "2026-10-30",
+  "notes": [
+    "Taken from the Board of Elections' updated 46-day election notice, which lists every contest and issue with the precincts that vote on it. Issue wording is the notice's summary; the full wording is on the sample ballot.",
+    "Candidates are listed alphabetically by last name, not in ballot order: Ohio rotates the order of names from precinct to precinct. Certified write-in candidates are not printed on the ballot and are not listed.",
+    "\"Where you live\" uses the state voter file: a district or school levy is shown for a city, village or township when any of its voters live in that district. Your exact ballot depends on your precinct."
+  ],
+  "places": [
+    "Atwater Township",
+    "Aurora City",
+    "Brimfield Township",
+    "Charlestown Township",
+    "Deerfield Township",
+    "Edinburg Township",
+    "Franklin Township",
+    "Freedom Township",
+    "Garrettsville Village",
+    "Hiram Township",
+    "Hiram Village",
+    "Kent City",
+    "Mantua Township",
+    "Mantua Village",
+    "Mogadore Village",
+    "Nelson Township",
+    "Palmyra Township",
+    "Paris Township",
+    "Randolph Township",
+    "Ravenna City",
+    "Ravenna Township",
+    "Rootstown Township",
+    "Shalersville Township",
+    "Streetsboro City",
+    "Suffield Township",
+    "Sugar Bush Knolls Village",
+    "Tallmadge City",
+    "Windham Township",
+    "Windham Village"
+  ],
+  "sources": {
+    "portage-46day": {
+      "label": "Portage County Board of Elections: updated 46-day election notice, November 3, 2026 General Election",
+      "url": "https://www.portagecounty-oh.gov/sites/g/files/vyhlif3706/f/uploads/november_3_2026_46_day_notice_update.pdf"
+    }
+  },
+  "links": [
+    {
+      "label": "Board of Elections",
+      "url": "https://www.portagecounty-oh.gov/board-elections"
+    },
+    {
+      "label": "Sample ballots by precinct",
+      "url": "https://lookup.boe.ohio.gov/vtrapp/portage/ballotlist.aspx"
+    }
+  ],
+  "results": {
+    "status": "upcoming",
+    "links": [
+      {
+        "label": "Board of Elections",
+        "url": "https://www.portagecounty-oh.gov/board-elections"
+      }
+    ]
+  },
+  "contests": [
+    {
+      "id": "congress-13",
+      "group": "U.S. House",
+      "office": "Representative to Congress",
+      "detail": "13th District",
+      "area": "Franklin Township, Kent City, Streetsboro City, Sugar Bush Knolls Village",
+      "places": [
+        "Franklin Township",
+        "Kent City",
+        "Streetsboro City",
+        "Sugar Bush Knolls Village"
+      ],
+      "candidates": [
+        {
+          "name": "Emilia Sykes",
+          "party": "DEM"
+        },
+        {
+          "name": "Carey Coleman",
+          "party": "REP"
+        },
+        {
+          "name": "Sandeep Dixit",
+          "party": "Non-party"
+        }
+      ],
+      "sources": [
+        "portage-46day"
+      ]
+    },
+    {
+      "id": "congress-14",
+      "group": "U.S. House",
+      "office": "Representative to Congress",
+      "detail": "14th District",
+      "area": "Atwater Township, Aurora City, Brimfield Township, Charlestown Township, Deerfield Township, Edinburg Township, Freedom Township, Garrettsville Village, Hiram Township, Hiram Village, Mantua Township, Mantua Village, Mogadore Village, Nelson Township, Palmyra Township, Paris Township, Randolph Township, Ravenna City, Ravenna Township, Rootstown Township, Shalersville Township, Suffield Township, Tallmadge City, Windham Township, Windham Village",
+      "places": [
+        "Atwater Township",
+        "Aurora City",
+        "Brimfield Township",
+        "Charlestown Township",
+        "Deerfield Township",
+        "Edinburg Township",
+        "Freedom Township",
+        "Garrettsville Village",
+        "Hiram Township",
+        "Hiram Village",
+        "Mantua Township",
+        "Mantua Village",
+        "Mogadore Village",
+        "Nelson Township",
+        "Palmyra Township",
+        "Paris Township",
+        "Randolph Township",
+        "Ravenna City",
+        "Ravenna Township",
+        "Rootstown Township",
+        "Shalersville Township",
+        "Suffield Township",
+        "Tallmadge City",
+        "Windham Township",
+        "Windham Village"
+      ],
+      "candidates": [
+        {
+          "name": "Maria Jukic",
+          "party": "DEM"
+        },
+        {
+          "name": "David P. Joyce",
+          "party": "REP"
+        }
+      ],
+      "sources": [
+        "portage-46day"
+      ]
+    },
+    {
+      "id": "senate-27",
+      "group": "Ohio General Assembly",
+      "office": "State Senator",
+      "detail": "27th District",
+      "candidates": [
+        {
+          "name": "Mike Roberto",
+          "party": "DEM"
+        },
+        {
+          "name": "Steve Demetriou",
+          "party": "REP"
+        }
+      ],
+      "sources": [
+        "portage-46day"
+      ]
+    },
+    {
+      "id": "rep-35",
+      "group": "Ohio General Assembly",
+      "office": "State Representative",
+      "detail": "35th District",
+      "area": "Aurora City, Mantua Township, Streetsboro City",
+      "places": [
+        "Aurora City",
+        "Mantua Township",
+        "Streetsboro City"
+      ],
+      "candidates": [
+        {
+          "name": "Samantha Salamon",
+          "party": "DEM"
+        },
+        {
+          "name": "Vik Sandhu",
+          "party": "REP"
+        }
+      ],
+      "sources": [
+        "portage-46day"
+      ]
+    },
+    {
+      "id": "rep-72",
+      "group": "Ohio General Assembly",
+      "office": "State Representative",
+      "detail": "72nd District",
+      "area": "Atwater Township, Brimfield Township, Charlestown Township, Deerfield Township, Edinburg Township, Franklin Township, Freedom Township, Garrettsville Village, Hiram Township, Hiram Village, Kent City, Mantua Village, Mogadore Village, Nelson Township, Palmyra Township, Paris Township, Randolph Township, Ravenna City, Ravenna Township, Rootstown Township, Shalersville Township, Suffield Township, Sugar Bush Knolls Village, Tallmadge City, Windham Township, Windham Village",
+      "places": [
+        "Atwater Township",
+        "Brimfield Township",
+        "Charlestown Township",
+        "Deerfield Township",
+        "Edinburg Township",
+        "Franklin Township",
+        "Freedom Township",
+        "Garrettsville Village",
+        "Hiram Township",
+        "Hiram Village",
+        "Kent City",
+        "Mantua Village",
+        "Mogadore Village",
+        "Nelson Township",
+        "Palmyra Township",
+        "Paris Township",
+        "Randolph Township",
+        "Ravenna City",
+        "Ravenna Township",
+        "Rootstown Township",
+        "Shalersville Township",
+        "Suffield Township",
+        "Sugar Bush Knolls Village",
+        "Tallmadge City",
+        "Windham Township",
+        "Windham Village"
+      ],
+      "candidates": [
+        {
+          "name": "Jeff Clapper",
+          "party": "DEM"
+        },
+        {
+          "name": "Michael Fricke",
+          "party": "LIB"
+        },
+        {
+          "name": "Heidi Workman",
+          "party": "REP"
+        }
+      ],
+      "sources": [
+        "portage-46day"
+      ]
+    },
+    {
+      "id": "appeals-11-0209",
+      "group": "Ohio Court of Appeals",
+      "office": "Judge of the Court of Appeals",
+      "detail": "11th District · term commencing February 9, 2027",
+      "candidates": [
+        {
+          "name": "Marisa L. Cornachio",
+          "party": "REP"
+        }
+      ],
+      "sources": [
+        "portage-46day"
+      ]
+    },
+    {
+      "id": "appeals-11-0210",
+      "group": "Ohio Court of Appeals",
+      "office": "Judge of the Court of Appeals",
+      "detail": "11th District · term commencing February 10, 2027",
+      "candidates": [
+        {
+          "name": "Robert J. Patton",
+          "party": "REP"
+        }
+      ],
+      "sources": [
+        "portage-46day"
+      ]
+    },
+    {
+      "id": "commissioner",
+      "group": "County offices",
+      "office": "County Commissioner",
+      "candidates": [
+        {
+          "name": "Jenny D. Adams",
+          "party": "DEM"
+        },
+        {
+          "name": "Mike Tinlin",
+          "party": "REP"
+        }
+      ],
+      "sources": [
+        "portage-46day"
+      ]
+    },
+    {
+      "id": "auditor",
+      "group": "County offices",
+      "office": "County Auditor",
+      "candidates": [
+        {
+          "name": "Matt Kelly",
+          "party": "REP"
+        }
+      ],
+      "sources": [
+        "portage-46day"
+      ]
+    },
+    {
+      "id": "cp-gen",
+      "group": "Court of Common Pleas",
+      "office": "Judge of the Court of Common Pleas, General Division",
+      "detail": "no party label on the ballot",
+      "candidates": [
+        {
+          "name": "Becky L. Doherty"
+        }
+      ],
+      "sources": [
+        "portage-46day"
+      ]
+    },
+    {
+      "id": "cp-juv-probate",
+      "group": "Court of Common Pleas",
+      "office": "Judge of the Court of Common Pleas, Juvenile/Probate Division",
+      "detail": "no party label on the ballot",
+      "candidates": [
+        {
+          "name": "Patricia J. Smith"
+        }
+      ],
+      "sources": [
+        "portage-46day"
+      ]
+    }
+  ],
+  "issues": [
+    {
+      "id": "issue-4",
+      "kind": "levy",
+      "jurisdiction": "Aurora City School District (Portage and Summit)",
+      "title": "Bond issue: $96,200,000 for an elementary school and other building improvements",
+      "area": "Aurora City School District (Portage and Summit)",
+      "places": [
+        "Aurora City"
+      ],
+      "number": "Issue 4",
+      "levy": {
+        "type": "Bond issue",
+        "purpose": "Elementary school building and other building improvements.",
+        "mills": "4.26 mills",
+        "term": "37 years, commencing in 2026",
+        "estimate": "$96,200,000 bond"
+      },
+      "sources": [
+        "portage-46day"
+      ]
+    },
+    {
+      "id": "issue-5",
+      "kind": "levy",
+      "jurisdiction": "Ravenna City School District",
+      "title": "Tax levy (renewal): General permanent improvements",
+      "area": "Ravenna City, Ravenna Township, Charlestown Township A split 2, Shalersville Township D split 2",
+      "places": [
+        "Charlestown Township",
+        "Ravenna City",
+        "Ravenna Township",
+        "Shalersville Township"
+      ],
+      "levy": {
+        "type": "Renewal",
+        "purpose": "General permanent improvements.",
+        "mills": "2.9 mills",
+        "term": "Continuing period of time, commencing in 2027",
+        "estimate": "$60 for each $100,000 of the Auditor's market value"
+      },
+      "number": "Issue 5",
+      "sources": [
+        "portage-46day"
+      ]
+    },
+    {
+      "id": "issue-6",
+      "kind": "levy",
+      "jurisdiction": "Stow-Munroe Falls City School District (Summit and Portage)",
+      "title": "Tax levy (renewal): Current expenses",
+      "area": "Franklin Township A, split 2",
+      "places": [
+        "Franklin Township"
+      ],
+      "levy": {
+        "type": "Renewal",
+        "purpose": "Current expenses.",
+        "mills": "3.17 mills",
+        "term": "5 years, commencing in 2026",
+        "estimate": "$97 for each $100,000 of the Auditor's market value"
+      },
+      "number": "Issue 6",
+      "sources": [
+        "portage-46day"
+      ]
+    },
+    {
+      "id": "issue-7",
+      "kind": "levy",
+      "jurisdiction": "Streetsboro City School District",
+      "title": "Tax levy (renewal): Current expenses (3.6 mills) and general permanent improvements (1.5 mills)",
+      "area": "Streetsboro City except Streetsboro City 4B, split 2",
+      "places": [
+        "Streetsboro City"
+      ],
+      "levy": {
+        "type": "Renewal",
+        "purpose": "Current expenses (3.6 mills) and general permanent improvements (1.5 mills).",
+        "mills": "5.1 mills",
+        "term": "5 years, commencing in 2026",
+        "estimate": "$96 for each $100,000 of the Auditor's market value"
+      },
+      "number": "Issue 7",
+      "sources": [
+        "portage-46day"
+      ]
+    },
+    {
+      "id": "issue-9",
+      "kind": "levy",
+      "jurisdiction": "Crestwood Local School District",
+      "title": "Tax levy (renewal): General permanent improvements",
+      "area": "Hiram Village, Hiram Township A and B split 1, Mantua Township, Mantua Village, Shalersville Township A–D split 1",
+      "places": [
+        "Hiram Township",
+        "Hiram Village",
+        "Mantua Township",
+        "Mantua Village",
+        "Shalersville Township"
+      ],
+      "levy": {
+        "type": "Renewal",
+        "purpose": "General permanent improvements.",
+        "mills": "3.5 mills",
+        "term": "5 years, commencing in 2027",
+        "estimate": "$26 for each $100,000 of the Auditor's market value"
+      },
+      "number": "Issue 9",
+      "sources": [
+        "portage-46day"
+      ]
+    },
+    {
+      "id": "issue-10",
+      "kind": "levy",
+      "jurisdiction": "West Branch Local School District (Mahoning and Portage)",
+      "title": "Tax levy (additional): General permanent improvements",
+      "area": "Deerfield Township B, split 2",
+      "places": [
+        "Deerfield Township"
+      ],
+      "levy": {
+        "type": "Additional",
+        "purpose": "General permanent improvements.",
+        "mills": "1 mill",
+        "term": "5 years, commencing in 2026",
+        "estimate": "$35 for each $100,000 of the Auditor's market value"
+      },
+      "number": "Issue 10",
+      "sources": [
+        "portage-46day"
+      ]
+    },
+    {
+      "id": "issue-11",
+      "kind": "levy",
+      "jurisdiction": "Garrettsville, Freedom, Nelson Joint Fire District",
+      "title": "Tax levy (renewal): Fire and emergency medical services",
+      "area": "Garrettsville, Freedom, Nelson Joint Fire District",
+      "places": [
+        "Freedom Township",
+        "Garrettsville Village",
+        "Nelson Township"
+      ],
+      "levy": {
+        "type": "Renewal",
+        "purpose": "Fire and emergency medical services.",
+        "mills": "3.2 mills",
+        "term": "5 years, commencing in 2027",
+        "estimate": "$85 for each $100,000 of the Auditor's market value"
+      },
+      "number": "Issue 11",
+      "sources": [
+        "portage-46day"
+      ]
+    },
+    {
+      "id": "issue-12",
+      "kind": "levy",
+      "jurisdiction": "Stark County District Library",
+      "title": "Tax levy (renewal and increase): Current expenses",
+      "area": "Suffield Township C, split 2",
+      "places": [
+        "Suffield Township"
+      ],
+      "levy": {
+        "type": "Renewal and increase",
+        "purpose": "Current expenses.",
+        "mills": "2.3 mills",
+        "term": "8 years, commencing in 2027",
+        "estimate": "$55 for each $100,000 of the Auditor's market value"
+      },
+      "number": "Issue 12",
+      "sources": [
+        "portage-46day"
+      ]
+    },
+    {
+      "id": "issue-13",
+      "kind": "levy",
+      "jurisdiction": "Portage County Job and Family Services",
+      "title": "Tax levy (additional): Public assistance and human services",
+      "area": "All of Portage County",
+      "levy": {
+        "type": "Additional",
+        "purpose": "Public assistance and human services.",
+        "mills": "0.4 mill",
+        "term": "5 years, commencing in 2026",
+        "estimate": "$14 for each $100,000 of the Auditor's market value"
+      },
+      "number": "Issue 13",
+      "sources": [
+        "portage-46day"
+      ]
+    },
+    {
+      "id": "issue-14",
+      "kind": "levy",
+      "jurisdiction": "Portage County Mental Health and Recovery Board",
+      "title": "Tax levy (renewal): Current expenses",
+      "area": "All of Portage County",
+      "levy": {
+        "type": "Renewal",
+        "purpose": "Current expenses.",
+        "mills": "0.3 mill",
+        "term": "10 years, commencing in 2027",
+        "estimate": "$6 for each $100,000 of the Auditor's market value"
+      },
+      "number": "Issue 14",
+      "sources": [
+        "portage-46day"
+      ]
+    },
+    {
+      "id": "issue-17",
+      "kind": "levy",
+      "jurisdiction": "City of Aurora",
+      "title": "Tax levy (renewal): Roads and bridges",
+      "area": "City of Aurora",
+      "places": [
+        "Aurora City"
+      ],
+      "levy": {
+        "type": "Renewal",
+        "purpose": "Roads and bridges.",
+        "mills": "0.9 mill",
+        "term": "5 years, commencing in 2026",
+        "estimate": "$16 for each $100,000 of the Auditor's market value"
+      },
+      "number": "Issue 17",
+      "sources": [
+        "portage-46day"
+      ]
+    },
+    {
+      "id": "issue-19",
+      "kind": "levy",
+      "jurisdiction": "Village of Hiram",
+      "title": "Tax levy (renewal): Current expenses",
+      "area": "Village of Hiram",
+      "places": [
+        "Hiram Village"
+      ],
+      "levy": {
+        "type": "Renewal",
+        "purpose": "Current expenses.",
+        "mills": "4.4 mills",
+        "term": "5 years, commencing in 2026",
+        "estimate": "$99 for each $100,000 of the Auditor's market value"
+      },
+      "number": "Issue 19",
+      "sources": [
+        "portage-46day"
+      ]
+    },
+    {
+      "id": "issue-20",
+      "kind": "levy",
+      "jurisdiction": "Village of Mogadore (Portage and Summit)",
+      "title": "Tax levy (renewal and increase): Fire and emergency medical services",
+      "area": "Village of Mogadore (Portage and Summit)",
+      "places": [
+        "Mogadore Village"
+      ],
+      "levy": {
+        "type": "Renewal and increase",
+        "purpose": "Fire and emergency medical services.",
+        "mills": "4.73 mills",
+        "term": "5 years, commencing in 2027",
+        "estimate": "$135 for each $100,000 of the Auditor's market value"
+      },
+      "number": "Issue 20",
+      "sources": [
+        "portage-46day"
+      ]
+    },
+    {
+      "id": "issue-27",
+      "kind": "levy",
+      "jurisdiction": "Brimfield Township",
+      "title": "Tax levy (additional): Fire and emergency medical services",
+      "area": "Brimfield Township",
+      "places": [
+        "Brimfield Township"
+      ],
+      "levy": {
+        "type": "Additional",
+        "purpose": "Fire and emergency medical services.",
+        "mills": "1.95 mills",
+        "term": "5 years, commencing in 2026",
+        "estimate": "$68 for each $100,000 of the Auditor's market value"
+      },
+      "number": "Issue 27",
+      "sources": [
+        "portage-46day"
+      ]
+    },
+    {
+      "id": "issue-28",
+      "kind": "levy",
+      "jurisdiction": "Deerfield Township",
+      "title": "Tax levy (renewal and increase): Fire and emergency medical services",
+      "area": "Deerfield Township",
+      "places": [
+        "Deerfield Township"
+      ],
+      "levy": {
+        "type": "Renewal and increase",
+        "purpose": "Fire and emergency medical services.",
+        "mills": "2.75 mills",
+        "term": "5 years, commencing in 2027",
+        "estimate": "$66 for each $100,000 of the Auditor's market value"
+      },
+      "number": "Issue 28",
+      "sources": [
+        "portage-46day"
+      ]
+    },
+    {
+      "id": "issue-29",
+      "kind": "levy",
+      "jurisdiction": "Franklin Township",
+      "title": "Tax levy (renewal): Roads and bridges",
+      "area": "Franklin Township",
+      "places": [
+        "Franklin Township"
+      ],
+      "levy": {
+        "type": "Renewal",
+        "purpose": "Roads and bridges.",
+        "mills": "2 mills",
+        "term": "5 years, commencing in 2026",
+        "estimate": "$17 for each $100,000 of the Auditor's market value"
+      },
+      "number": "Issue 29",
+      "sources": [
+        "portage-46day"
+      ]
+    },
+    {
+      "id": "issue-30",
+      "kind": "levy",
+      "jurisdiction": "Paris Township",
+      "title": "Tax levy (renewal): Fire and emergency medical services",
+      "area": "Paris Township",
+      "places": [
+        "Paris Township"
+      ],
+      "levy": {
+        "type": "Renewal",
+        "purpose": "Fire and emergency medical services.",
+        "mills": "2 mills",
+        "term": "5 years, commencing in 2027",
+        "estimate": "$22 for each $100,000 of the Auditor's market value"
+      },
+      "number": "Issue 30",
+      "sources": [
+        "portage-46day"
+      ]
+    },
+    {
+      "id": "issue-32",
+      "kind": "levy",
+      "jurisdiction": "Ravenna Township",
+      "title": "Tax levy (additional): Emergency medical services",
+      "area": "Ravenna Township",
+      "places": [
+        "Ravenna Township"
+      ],
+      "levy": {
+        "type": "Additional",
+        "purpose": "Emergency medical services.",
+        "mills": "4.5 mills",
+        "term": "5 years, commencing in 2027",
+        "estimate": "$158 for each $100,000 of the Auditor's market value"
+      },
+      "number": "Issue 32",
+      "sources": [
+        "portage-46day"
+      ]
+    },
+    {
+      "id": "issue-8",
+      "kind": "question",
+      "jurisdiction": "Tallmadge City School District (Summit and Portage)",
+      "title": "School district income tax: 1% on earned income for current expenses",
+      "area": "Brimfield Township E, split 2",
+      "places": [
+        "Brimfield Township"
+      ],
+      "number": "Issue 8",
+      "text": "Earned income tax of 1%, for current expenses, for a continuing period of time, commencing January 1, 2027.",
+      "sources": [
+        "portage-46day"
+      ]
+    },
+    {
+      "id": "issue-15",
+      "kind": "question",
+      "jurisdiction": "City of Ravenna",
+      "title": "Additional 0.25% income tax for fire, police and city hall facilities",
+      "area": "City of Ravenna",
+      "places": [
+        "Ravenna City"
+      ],
+      "number": "Issue 15",
+      "text": "Additional income tax of 0.25%, for facilities for fire, police and city hall, for 30 years, commencing January 1, 2027.",
+      "sources": [
+        "portage-46day"
+      ]
+    },
+    {
+      "id": "issue-16",
+      "kind": "question",
+      "jurisdiction": "City of Kent",
+      "title": "Income tax: reallocate the 0.25% income tax and extend it for a continuing period",
+      "area": "City of Kent",
+      "places": [
+        "Kent City"
+      ],
+      "number": "Issue 16",
+      "text": "Reallocation of the 0.25% income tax and extension of its term to a continuing period of time.",
+      "sources": [
+        "portage-46day"
+      ]
+    },
+    {
+      "id": "issue-21",
+      "kind": "question",
+      "jurisdiction": "Village of Mogadore (Portage and Summit)",
+      "title": "Charter amendment: Article III, Section 3.12",
+      "area": "Village of Mogadore (Portage and Summit)",
+      "places": [
+        "Mogadore Village"
+      ],
+      "number": "Issue 21",
+      "text": "Posting of ordinances or resolutions.",
+      "sources": [
+        "portage-46day"
+      ]
+    },
+    {
+      "id": "issue-22",
+      "kind": "question",
+      "jurisdiction": "Village of Mogadore (Portage and Summit)",
+      "title": "Charter amendment: Article IV, Section 4.03",
+      "area": "Village of Mogadore (Portage and Summit)",
+      "places": [
+        "Mogadore Village"
+      ],
+      "number": "Issue 22",
+      "text": "Mayoral absence.",
+      "sources": [
+        "portage-46day"
+      ]
+    },
+    {
+      "id": "issue-23",
+      "kind": "question",
+      "jurisdiction": "Village of Mogadore (Portage and Summit)",
+      "title": "Charter amendment: Article V",
+      "area": "Village of Mogadore (Portage and Summit)",
+      "places": [
+        "Mogadore Village"
+      ],
+      "number": "Issue 23",
+      "text": "Change the Clerk-Treasurer position to separate Clerk and Fiscal Officer positions.",
+      "sources": [
+        "portage-46day"
+      ]
+    },
+    {
+      "id": "issue-24",
+      "kind": "question",
+      "jurisdiction": "Village of Mogadore (Portage and Summit)",
+      "title": "Charter amendment: Article X",
+      "area": "Village of Mogadore (Portage and Summit)",
+      "places": [
+        "Mogadore Village"
+      ],
+      "number": "Issue 24",
+      "text": "Change Board of Zoning Appeals membership from 7 to 5.",
+      "sources": [
+        "portage-46day"
+      ]
+    },
+    {
+      "id": "issue-31",
+      "kind": "question",
+      "jurisdiction": "Paris Township",
+      "title": "Repeal of zoning in the township",
+      "area": "Paris Township",
+      "places": [
+        "Paris Township"
+      ],
+      "number": "Issue 31",
+      "text": "Shall zoning in Paris Township be repealed? (summary)",
+      "sources": [
+        "portage-46day"
+      ]
+    },
+    {
+      "id": "issue-18",
+      "kind": "liquor",
+      "jurisdiction": "Village of Garrettsville",
+      "title": "Local liquor option: Silver Crik Saloon (Sunday)",
+      "area": "Precinct Garrettsville Village A",
+      "places": [
+        "Garrettsville Village"
+      ],
+      "number": "Issue 18",
+      "text": "Sunday sales of wine and mixed beverages and spirituous liquor; Stan Leigh Corp., dba Silver Crik Saloon.",
+      "sources": [
+        "portage-46day"
+      ]
+    },
+    {
+      "id": "issue-25",
+      "kind": "liquor",
+      "jurisdiction": "Atwater Township",
+      "title": "Local liquor option: The Watering Hole",
+      "area": "Precinct Atwater Township B",
+      "places": [
+        "Atwater Township"
+      ],
+      "number": "Issue 25",
+      "text": "Sale of wine and mixed beverages at a particular location; K.J.'s Watering Hole, L.L.C., dba The Watering Hole.",
+      "sources": [
+        "portage-46day"
+      ]
+    },
+    {
+      "id": "issue-26",
+      "kind": "liquor",
+      "jurisdiction": "Atwater Township",
+      "title": "Local liquor option: The Watering Hole (Sunday)",
+      "area": "Precinct Atwater Township B",
+      "places": [
+        "Atwater Township"
+      ],
+      "number": "Issue 26",
+      "text": "Sunday sales of wine and mixed beverages; K.J.'s Watering Hole, L.L.C., dba The Watering Hole.",
+      "sources": [
+        "portage-46day"
+      ]
+    }
+  ]
+}

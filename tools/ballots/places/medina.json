@@ -1,0 +1,575 @@
+{
+ "BRUNSWICK CITY": {
+  "voters": 23887,
+  "CITY_SCHOOL_DISTRICT": {
+   "BRUNSWICK CITY SD": 23887
+  },
+  "CONGRESSIONAL_DISTRICT": {
+   "07": 23887
+  },
+  "STATE_REPRESENTATIVE_DISTRICT": {
+   "67": 23887
+  },
+  "STATE_SENATE_DISTRICT": {
+   "22": 23887
+  },
+  "COURT_OF_APPEALS": {
+   "09": 23887
+  }
+ },
+ "Brunswick Hills TWP": {
+  "voters": 7779,
+  "CITY_SCHOOL_DISTRICT": {
+   "BRUNSWICK CITY SD": 7603
+  },
+  "CONGRESSIONAL_DISTRICT": {
+   "07": 7779
+  },
+  "STATE_REPRESENTATIVE_DISTRICT": {
+   "67": 7779
+  },
+  "STATE_SENATE_DISTRICT": {
+   "22": 7779
+  },
+  "COURT_OF_APPEALS": {
+   "09": 7779
+  },
+  "LOCAL_SCHOOL_DISTRICT": {
+   "HIGHLAND LOCAL SD (MEDINA)": 176
+  }
+ },
+ "CHIPPEWA LAKE VILLAGE": {
+  "voters": 486,
+  "LOCAL_SCHOOL_DISTRICT": {
+   "CLOVERLEAF LOCAL SD (MEDINA)": 486
+  },
+  "CONGRESSIONAL_DISTRICT": {
+   "07": 486
+  },
+  "STATE_REPRESENTATIVE_DISTRICT": {
+   "66": 486
+  },
+  "STATE_SENATE_DISTRICT": {
+   "22": 486
+  },
+  "COURT_OF_APPEALS": {
+   "09": 486
+  },
+  "TWP_OF_VILLAGE": {
+   "Lafayette TWP": 486
+  }
+ },
+ "CRESTON VILLAGE": {
+  "voters": 60,
+  "LOCAL_SCHOOL_DISTRICT": {
+   "NORWAYNE LOCAL SD (WAYNE)": 60
+  },
+  "CONGRESSIONAL_DISTRICT": {
+   "07": 60
+  },
+  "STATE_REPRESENTATIVE_DISTRICT": {
+   "66": 60
+  },
+  "STATE_SENATE_DISTRICT": {
+   "22": 60
+  },
+  "COURT_OF_APPEALS": {
+   "09": 60
+  },
+  "TWP_OF_VILLAGE": {
+   "Canaan TWP": 60
+  }
+ },
+ "Chatham TWP": {
+  "voters": 1674,
+  "LOCAL_SCHOOL_DISTRICT": {
+   "CLOVERLEAF LOCAL SD (MEDINA)": 1674
+  },
+  "CONGRESSIONAL_DISTRICT": {
+   "07": 1674
+  },
+  "STATE_REPRESENTATIVE_DISTRICT": {
+   "67": 1674
+  },
+  "STATE_SENATE_DISTRICT": {
+   "22": 1674
+  },
+  "COURT_OF_APPEALS": {
+   "09": 1674
+  }
+ },
+ "GLORIA GLENS PARK VILLAGE": {
+  "voters": 262,
+  "LOCAL_SCHOOL_DISTRICT": {
+   "CLOVERLEAF LOCAL SD (MEDINA)": 262
+  },
+  "CONGRESSIONAL_DISTRICT": {
+   "07": 262
+  },
+  "STATE_REPRESENTATIVE_DISTRICT": {
+   "66": 262
+  },
+  "STATE_SENATE_DISTRICT": {
+   "22": 262
+  },
+  "COURT_OF_APPEALS": {
+   "09": 262
+  }
+ },
+ "Granger TWP": {
+  "voters": 3605,
+  "LOCAL_SCHOOL_DISTRICT": {
+   "HIGHLAND LOCAL SD (MEDINA)": 3560
+  },
+  "CONGRESSIONAL_DISTRICT": {
+   "07": 3605
+  },
+  "STATE_REPRESENTATIVE_DISTRICT": {
+   "66": 3605
+  },
+  "STATE_SENATE_DISTRICT": {
+   "22": 3605
+  },
+  "COURT_OF_APPEALS": {
+   "09": 3605
+  },
+  "CITY_SCHOOL_DISTRICT": {
+   "MEDINA CITY SD": 45
+  }
+ },
+ "Guilford TWP": {
+  "voters": 2282,
+  "LOCAL_SCHOOL_DISTRICT": {
+   "CLOVERLEAF LOCAL SD (MEDINA)": 1147
+  },
+  "CONGRESSIONAL_DISTRICT": {
+   "07": 2282
+  },
+  "STATE_REPRESENTATIVE_DISTRICT": {
+   "66": 2282
+  },
+  "STATE_SENATE_DISTRICT": {
+   "22": 2282
+  },
+  "COURT_OF_APPEALS": {
+   "09": 2282
+  },
+  "CITY_SCHOOL_DISTRICT": {
+   "WADSWORTH CITY SD": 1135
+  }
+ },
+ "Harrisville TWP": {
+  "voters": 1283,
+  "LOCAL_SCHOOL_DISTRICT": {
+   "CLOVERLEAF LOCAL SD (MEDINA)": 1241,
+   "NORWAYNE LOCAL SD (WAYNE)": 42
+  },
+  "CONGRESSIONAL_DISTRICT": {
+   "07": 1283
+  },
+  "STATE_REPRESENTATIVE_DISTRICT": {
+   "66": 1283
+  },
+  "STATE_SENATE_DISTRICT": {
+   "22": 1283
+  },
+  "COURT_OF_APPEALS": {
+   "09": 1283
+  }
+ },
+ "Hinckley TWP": {
+  "voters": 6582,
+  "CITY_SCHOOL_DISTRICT": {
+   "BRUNSWICK CITY SD": 1375
+  },
+  "CONGRESSIONAL_DISTRICT": {
+   "07": 6582
+  },
+  "STATE_REPRESENTATIVE_DISTRICT": {
+   "66": 6582
+  },
+  "STATE_SENATE_DISTRICT": {
+   "22": 6582
+  },
+  "COURT_OF_APPEALS": {
+   "09": 6582
+  },
+  "LOCAL_SCHOOL_DISTRICT": {
+   "HIGHLAND LOCAL SD (MEDINA)": 5207
+  }
+ },
+ "Homer TWP": {
+  "voters": 699,
+  "LOCAL_SCHOOL_DISTRICT": {
+   "BLACK RIVER LOCAL SD (MEDINA)": 699
+  },
+  "CONGRESSIONAL_DISTRICT": {
+   "07": 699
+  },
+  "STATE_REPRESENTATIVE_DISTRICT": {
+   "67": 699
+  },
+  "STATE_SENATE_DISTRICT": {
+   "22": 699
+  },
+  "COURT_OF_APPEALS": {
+   "09": 699
+  }
+ },
+ "LODI VILLAGE": {
+  "voters": 1729,
+  "LOCAL_SCHOOL_DISTRICT": {
+   "CLOVERLEAF LOCAL SD (MEDINA)": 1729
+  },
+  "CONGRESSIONAL_DISTRICT": {
+   "07": 1729
+  },
+  "STATE_REPRESENTATIVE_DISTRICT": {
+   "66": 1729
+  },
+  "STATE_SENATE_DISTRICT": {
+   "22": 1729
+  },
+  "COURT_OF_APPEALS": {
+   "09": 1729
+  },
+  "TWP_OF_VILLAGE": {
+   "Harrisville TWP": 1729
+  }
+ },
+ "Lafayette TWP": {
+  "voters": 4701,
+  "LOCAL_SCHOOL_DISTRICT": {
+   "CLOVERLEAF LOCAL SD (MEDINA)": 3395
+  },
+  "CONGRESSIONAL_DISTRICT": {
+   "07": 4701
+  },
+  "STATE_REPRESENTATIVE_DISTRICT": {
+   "66": 4701
+  },
+  "STATE_SENATE_DISTRICT": {
+   "22": 4701
+  },
+  "COURT_OF_APPEALS": {
+   "09": 4701
+  },
+  "CITY_SCHOOL_DISTRICT": {
+   "MEDINA CITY SD": 1306
+  }
+ },
+ "Litchfield TWP": {
+  "voters": 2394,
+  "LOCAL_SCHOOL_DISTRICT": {
+   "BUCKEYE LOCAL SD (MEDINA)": 2394
+  },
+  "CONGRESSIONAL_DISTRICT": {
+   "07": 2394
+  },
+  "STATE_REPRESENTATIVE_DISTRICT": {
+   "67": 2394
+  },
+  "STATE_SENATE_DISTRICT": {
+   "22": 2394
+  },
+  "COURT_OF_APPEALS": {
+   "09": 2394
+  }
+ },
+ "Liverpool TWP": {
+  "voters": 4674,
+  "LOCAL_SCHOOL_DISTRICT": {
+   "BUCKEYE LOCAL SD (MEDINA)": 4674
+  },
+  "CONGRESSIONAL_DISTRICT": {
+   "07": 4674
+  },
+  "STATE_REPRESENTATIVE_DISTRICT": {
+   "67": 4674
+  },
+  "STATE_SENATE_DISTRICT": {
+   "22": 4674
+  },
+  "COURT_OF_APPEALS": {
+   "09": 4674
+  }
+ },
+ "MEDINA CITY": {
+  "voters": 17929,
+  "CITY_SCHOOL_DISTRICT": {
+   "MEDINA CITY SD": 16589
+  },
+  "CONGRESSIONAL_DISTRICT": {
+   "07": 17929
+  },
+  "STATE_REPRESENTATIVE_DISTRICT": {
+   "66": 17929
+  },
+  "STATE_SENATE_DISTRICT": {
+   "22": 17929
+  },
+  "COURT_OF_APPEALS": {
+   "09": 17929
+  },
+  "LOCAL_SCHOOL_DISTRICT": {
+   "BUCKEYE LOCAL SD (MEDINA)": 1340
+  },
+  "TWP_OF_CITY": {
+   "York TWP": 10,
+   "Lafayette TWP": 2
+  }
+ },
+ "Medina TWP": {
+  "voters": 7390,
+  "CITY_SCHOOL_DISTRICT": {
+   "MEDINA CITY SD": 7353
+  },
+  "CONGRESSIONAL_DISTRICT": {
+   "07": 7390
+  },
+  "STATE_REPRESENTATIVE_DISTRICT": {
+   "66": 7390
+  },
+  "STATE_SENATE_DISTRICT": {
+   "22": 7390
+  },
+  "COURT_OF_APPEALS": {
+   "09": 7390
+  },
+  "LOCAL_SCHOOL_DISTRICT": {
+   "HIGHLAND LOCAL SD (MEDINA)": 37
+  }
+ },
+ "Montville TWP": {
+  "voters": 10282,
+  "LOCAL_SCHOOL_DISTRICT": {
+   "HIGHLAND LOCAL SD (MEDINA)": 1764
+  },
+  "CONGRESSIONAL_DISTRICT": {
+   "07": 10282
+  },
+  "STATE_REPRESENTATIVE_DISTRICT": {
+   "66": 10282
+  },
+  "STATE_SENATE_DISTRICT": {
+   "22": 10282
+  },
+  "COURT_OF_APPEALS": {
+   "09": 10282
+  },
+  "CITY_SCHOOL_DISTRICT": {
+   "MEDINA CITY SD": 8501,
+   "WADSWORTH CITY SD": 17
+  }
+ },
+ "RITTMAN CITY": {
+  "voters": 92,
+  "EXEMPTED_VILL_SCHOOL_DISTRICT": {
+   "RITTMAN EX VILL SD (WAYNE)": 63
+  },
+  "CONGRESSIONAL_DISTRICT": {
+   "07": 92
+  },
+  "STATE_REPRESENTATIVE_DISTRICT": {
+   "66": 92
+  },
+  "STATE_SENATE_DISTRICT": {
+   "22": 92
+  },
+  "COURT_OF_APPEALS": {
+   "09": 92
+  },
+  "TWP_OF_CITY": {
+   "Rittman TWP": 92
+  },
+  "LOCAL_SCHOOL_DISTRICT": {
+   "CLOVERLEAF LOCAL SD (MEDINA)": 29
+  }
+ },
+ "SEVILLE VILLAGE": {
+  "voters": 2063,
+  "LOCAL_SCHOOL_DISTRICT": {
+   "CLOVERLEAF LOCAL SD (MEDINA)": 2063
+  },
+  "CONGRESSIONAL_DISTRICT": {
+   "07": 2063
+  },
+  "STATE_REPRESENTATIVE_DISTRICT": {
+   "66": 2063
+  },
+  "STATE_SENATE_DISTRICT": {
+   "22": 2063
+  },
+  "COURT_OF_APPEALS": {
+   "09": 2063
+  },
+  "TWP_OF_VILLAGE": {
+   "Guilford TWP": 2063
+  }
+ },
+ "SPENCER VILLAGE": {
+  "voters": 395,
+  "LOCAL_SCHOOL_DISTRICT": {
+   "BLACK RIVER LOCAL SD (MEDINA)": 395
+  },
+  "CONGRESSIONAL_DISTRICT": {
+   "07": 395
+  },
+  "STATE_REPRESENTATIVE_DISTRICT": {
+   "67": 395
+  },
+  "STATE_SENATE_DISTRICT": {
+   "22": 395
+  },
+  "COURT_OF_APPEALS": {
+   "09": 395
+  },
+  "TWP_OF_VILLAGE": {
+   "Spencer TWP": 395
+  }
+ },
+ "Sharon TWP": {
+  "voters": 4837,
+  "LOCAL_SCHOOL_DISTRICT": {
+   "HIGHLAND LOCAL SD (MEDINA)": 4755
+  },
+  "CONGRESSIONAL_DISTRICT": {
+   "07": 4837
+  },
+  "STATE_REPRESENTATIVE_DISTRICT": {
+   "66": 4837
+  },
+  "STATE_SENATE_DISTRICT": {
+   "22": 4837
+  },
+  "COURT_OF_APPEALS": {
+   "09": 4837
+  },
+  "CITY_SCHOOL_DISTRICT": {
+   "WADSWORTH CITY SD": 59,
+   "MEDINA CITY SD": 23
+  }
+ },
+ "Spencer TWP": {
+  "voters": 1227,
+  "LOCAL_SCHOOL_DISTRICT": {
+   "BLACK RIVER LOCAL SD (MEDINA)": 1227
+  },
+  "CONGRESSIONAL_DISTRICT": {
+   "07": 1227
+  },
+  "STATE_REPRESENTATIVE_DISTRICT": {
+   "67": 1227
+  },
+  "STATE_SENATE_DISTRICT": {
+   "22": 1227
+  },
+  "COURT_OF_APPEALS": {
+   "09": 1227
+  }
+ },
+ "WADSWORTH CITY": {
+  "voters": 16551,
+  "CITY_SCHOOL_DISTRICT": {
+   "WADSWORTH CITY SD": 15685
+  },
+  "CONGRESSIONAL_DISTRICT": {
+   "07": 16551
+  },
+  "STATE_REPRESENTATIVE_DISTRICT": {
+   "66": 16551
+  },
+  "STATE_SENATE_DISTRICT": {
+   "22": 16551
+  },
+  "COURT_OF_APPEALS": {
+   "09": 16551
+  },
+  "LOCAL_SCHOOL_DISTRICT": {
+   "HIGHLAND LOCAL SD (MEDINA)": 866
+  },
+  "TWP_OF_CITY": {
+   "Sharon TWP": 257,
+   "Wadsworth TWP": 173
+  }
+ },
+ "WESTFIELD CENTER VILLAGE": {
+  "voters": 947,
+  "LOCAL_SCHOOL_DISTRICT": {
+   "CLOVERLEAF LOCAL SD (MEDINA)": 947
+  },
+  "CONGRESSIONAL_DISTRICT": {
+   "07": 947
+  },
+  "STATE_REPRESENTATIVE_DISTRICT": {
+   "66": 947
+  },
+  "STATE_SENATE_DISTRICT": {
+   "22": 947
+  },
+  "COURT_OF_APPEALS": {
+   "09": 947
+  },
+  "TWP_OF_VILLAGE": {
+   "Westfield TWP": 947
+  }
+ },
+ "Wadsworth TWP": {
+  "voters": 3236,
+  "CITY_SCHOOL_DISTRICT": {
+   "WADSWORTH CITY SD": 3221
+  },
+  "CONGRESSIONAL_DISTRICT": {
+   "07": 3236
+  },
+  "STATE_REPRESENTATIVE_DISTRICT": {
+   "66": 3236
+  },
+  "STATE_SENATE_DISTRICT": {
+   "22": 3236
+  },
+  "COURT_OF_APPEALS": {
+   "09": 3236
+  },
+  "EXEMPTED_VILL_SCHOOL_DISTRICT": {
+   "RITTMAN EX VILL SD (WAYNE)": 15
+  }
+ },
+ "Westfield TWP": {
+  "voters": 1990,
+  "LOCAL_SCHOOL_DISTRICT": {
+   "CLOVERLEAF LOCAL SD (MEDINA)": 1943,
+   "NORWAYNE LOCAL SD (WAYNE)": 47
+  },
+  "CONGRESSIONAL_DISTRICT": {
+   "07": 1990
+  },
+  "STATE_REPRESENTATIVE_DISTRICT": {
+   "66": 1990
+  },
+  "STATE_SENATE_DISTRICT": {
+   "22": 1990
+  },
+  "COURT_OF_APPEALS": {
+   "09": 1990
+  }
+ },
+ "York TWP": {
+  "voters": 3316,
+  "LOCAL_SCHOOL_DISTRICT": {
+   "BUCKEYE LOCAL SD (MEDINA)": 3316
+  },
+  "CONGRESSIONAL_DISTRICT": {
+   "07": 3316
+  },
+  "STATE_REPRESENTATIVE_DISTRICT": {
+   "67": 3316
+  },
+  "STATE_SENATE_DISTRICT": {
+   "22": 3316
+  },
+  "COURT_OF_APPEALS": {
+   "09": 3316
+  }
+ }
+}
