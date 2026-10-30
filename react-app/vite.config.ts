@@ -32,8 +32,18 @@ export default defineConfig({
         ],
       },
       workbox: {
-        // Ballot files are a few KB per county; precache them so the ballot reads offline.
         globPatterns: ["**/*.{js,css,html,png,svg,json}"],
+        // Ballot data changes as counties are added: fetch it network-first so a new deploy shows at once,
+        // and fall back to the cached copy offline. (Precaching it served a stale index until the new
+        // service worker took over.)
+        globIgnores: ["data/**"],
+        runtimeCaching: [
+          {
+            urlPattern: ({ url }) => url.pathname.startsWith(`${BASE}data/`),
+            handler: "NetworkFirst",
+            options: { cacheName: "ballot-data", networkTimeoutSeconds: 5, expiration: { maxEntries: 200 } },
+          },
+        ],
         maximumFileSizeToCacheInBytes: 5 * 1024 * 1024,
       },
     }),

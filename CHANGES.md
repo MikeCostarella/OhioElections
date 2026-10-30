@@ -59,3 +59,7 @@ Data notes:
 - Lucas: the Swanton Public Library levy (Fulton and Lucas) is "boundaries not mapped". QuikTrip's liquor option (Issue 11) is "wine and mixed beverages" on the notice and "Sunday sales" on the issue list; the notice's wording is used.
 - Franklin has no Issue 39 in any Board document.
 
+# Oct 30, 2026 (fresh ballot data)
+
+- Ballot data (`data/**`) is no longer precached by the service worker. It is fetched network-first (cached copy used offline), so newly added counties show right after a deploy instead of after the old service worker is replaced. Previously a browser that had opened the app earlier kept showing "Only the statewide races..." for counties added since.
+
