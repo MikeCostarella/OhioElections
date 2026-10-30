@@ -19,8 +19,10 @@ Adding a county: summarise its voter file with `place_summary.py`, write `<count
 
 ## Notes for adding more counties
 
-Done for 2026-11-03: Trumbull (hand-written), Mahoning, Columbiana, Ashtabula, Lake, Cuyahoga, Geauga, Summit, Stark, Portage, Medina, Lorain, Franklin, Hamilton, Montgomery, Lucas, Butler, Warren, Delaware, Clermont, Licking, Greene.
-Next by size: Fairfield, Clark, Wood, Richland, Wayne.
+Done for 2026-11-03: Trumbull (hand-written), Mahoning, Columbiana, Ashtabula, Lake, Cuyahoga, Geauga, Summit, Stark, Portage, Medina, Lorain, Franklin, Hamilton, Montgomery, Lucas, Butler, Warren, Delaware, Clermont, Licking, Greene, Fairfield, Clark, Wood, Richland, Wayne.
+Next by size: Miami, Allen, Tuscarawas, Muskingum, Ross (61 counties left, these included).
+
+**Scanned notices.** Wood's 46-day notice has no text layer; it was read with Tesseract.js OCR in the browser on pdf.js-rendered pages. Check another Board list (candidates, Q&I) against the OCR.
 
 **Unnumbered issues.** Delaware, Clermont and Licking print no local issue numbers in their notices: use descriptive ids and the "see your sample ballot" note (licking.py). Joint vocational districts can be placed from the notice's precinct list (clermont.py, medina.py).
 

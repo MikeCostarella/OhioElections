@@ -2,10 +2,12 @@
  "2026-11-03": [
   "ashtabula",
   "butler",
+  "clark",
   "clermont",
   "columbiana",
   "cuyahoga",
   "delaware",
+  "fairfield",
   "franklin",
   "geauga",
   "greene",
@@ -18,9 +20,12 @@
   "medina",
   "montgomery",
   "portage",
+  "richland",
   "stark",
   "summit",
   "trumbull",
-  "warren"
+  "warren",
+  "wayne",
+  "wood"
  ]
 }

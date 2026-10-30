@@ -1,0 +1,827 @@
+{
+  "scope": "county",
+  "county": "Richland",
+  "fips": "39139",
+  "election": "2026-11-03",
+  "retrieved": "2026-10-30",
+  "notes": [
+    "Taken from the Board of Elections' 46-day election notice, which lists every contest and issue with the precincts that vote on it. Issue wording is condensed from the notice; the full wording is on the sample ballot.",
+    "Candidates are listed alphabetically by last name, not in ballot order: Ohio rotates the order of names from precinct to precinct. Certified write-in candidates are not printed on the ballot and are not listed.",
+    "\"Where you live\" uses the state voter file: a district or school levy is shown for a city, village or township when any of its voters live in that district. Your exact ballot depends on your precinct.",
+    "The Board's notice does not give local issue numbers; see your sample ballot for them."
+  ],
+  "places": [
+    "Bellville Village",
+    "Blooming Grove Township",
+    "Butler Township",
+    "Butler Village",
+    "Cass Township",
+    "Crestline Village",
+    "Franklin Township",
+    "Jackson Township",
+    "Jefferson Township",
+    "Lexington Village",
+    "Lucas Village",
+    "Madison Township",
+    "Mansfield City",
+    "Mifflin Township",
+    "Monroe Township",
+    "Ontario City",
+    "Perry Township",
+    "Plymouth Township",
+    "Plymouth Village",
+    "Sandusky Township",
+    "Sharon Township",
+    "Shelby City",
+    "Shiloh Village",
+    "Springfield Township",
+    "Troy Township",
+    "Washington Township",
+    "Weller Township",
+    "Worthington Township"
+  ],
+  "sources": {
+    "richland-46day": {
+      "label": "Richland County Board of Elections: 46-day election notice (FWAB), November 3, 2026 General Election (revised 9/8/2026)",
+      "url": "https://www.boe.ohio.gov/richland/c/upload/FWAB_11November46Day.pdf"
+    }
+  },
+  "links": [
+    {
+      "label": "Board of Elections",
+      "url": "https://www.boe.ohio.gov/richland/"
+    },
+    {
+      "label": "Election information",
+      "url": "https://www.boe.ohio.gov/richland/election-info/"
+    },
+    {
+      "label": "Candidate list",
+      "url": "https://lookup.boe.ohio.gov/vtrapp/richland/cfis.aspx"
+    },
+    {
+      "label": "Questions and issues list",
+      "url": "https://lookup.boe.ohio.gov/vtrapp/richland/webqis/default.aspx"
+    },
+    {
+      "label": "Sample ballots by precinct",
+      "url": "https://lookup.boe.ohio.gov/vtrapp/richland/ballotlist.aspx"
+    }
+  ],
+  "results": {
+    "status": "upcoming",
+    "links": [
+      {
+        "label": "Board of Elections: election results",
+        "url": "https://www.boe.ohio.gov/richland/election-info/election-results/"
+      }
+    ]
+  },
+  "contests": [
+    {
+      "id": "congress-4",
+      "group": "U.S. House",
+      "office": "Representative to Congress",
+      "detail": "4th District",
+      "area": "Bellville Village, Butler Village, Jefferson Township, Lexington Village, Lucas Village, Madison Township, Mansfield City, Monroe Township, Perry Township, Troy Township, Washington Township, Worthington Township",
+      "places": [
+        "Bellville Village",
+        "Butler Village",
+        "Jefferson Township",
+        "Lexington Village",
+        "Lucas Village",
+        "Madison Township",
+        "Mansfield City",
+        "Monroe Township",
+        "Perry Township",
+        "Troy Township",
+        "Washington Township",
+        "Worthington Township"
+      ],
+      "candidates": [
+        {
+          "name": "Jim Jordan",
+          "party": "REP"
+        },
+        {
+          "name": "Joshua D. Kolasinski",
+          "party": "DEM"
+        },
+        {
+          "name": "Tracey L. Tackett",
+          "party": "Nonparty"
+        }
+      ],
+      "sources": [
+        "richland-46day"
+      ]
+    },
+    {
+      "id": "congress-5",
+      "group": "U.S. House",
+      "office": "Representative to Congress",
+      "detail": "5th District",
+      "area": "Blooming Grove Township, Butler Township, Cass Township, Crestline Village, Franklin Township, Jackson Township, Madison Township, Mansfield City, Mifflin Township, Ontario City, Plymouth Township, Plymouth Village, Sandusky Township, Sharon Township, Shelby City, Shiloh Village, Springfield Township, Washington Township, Weller Township",
+      "places": [
+        "Blooming Grove Township",
+        "Butler Township",
+        "Cass Township",
+        "Crestline Village",
+        "Franklin Township",
+        "Jackson Township",
+        "Madison Township",
+        "Mansfield City",
+        "Mifflin Township",
+        "Ontario City",
+        "Plymouth Township",
+        "Plymouth Village",
+        "Sandusky Township",
+        "Sharon Township",
+        "Shelby City",
+        "Shiloh Village",
+        "Springfield Township",
+        "Washington Township",
+        "Weller Township"
+      ],
+      "candidates": [
+        {
+          "name": "Bob Latta",
+          "party": "REP"
+        },
+        {
+          "name": "Brian A. Shaver",
+          "party": "DEM"
+        },
+        {
+          "name": "Michael J. Veloff",
+          "party": "LIB"
+        }
+      ],
+      "sources": [
+        "richland-46day"
+      ]
+    },
+    {
+      "id": "rep-76",
+      "group": "Ohio General Assembly",
+      "office": "State Representative",
+      "detail": "76th District",
+      "candidates": [
+        {
+          "name": "Marilyn S. John",
+          "party": "REP"
+        },
+        {
+          "name": "Colton Stidam",
+          "party": "DEM"
+        }
+      ],
+      "sources": [
+        "richland-46day"
+      ]
+    },
+    {
+      "id": "appeals-5",
+      "group": "Ohio Court of Appeals",
+      "office": "Judge of the Court of Appeals",
+      "detail": "5th District · term commencing February 9, 2027",
+      "candidates": [
+        {
+          "name": "Matthew George",
+          "party": "REP"
+        }
+      ],
+      "sources": [
+        "richland-46day"
+      ]
+    },
+    {
+      "id": "commissioner",
+      "group": "County offices",
+      "office": "County Commissioner",
+      "detail": "Term commencing January 1, 2027",
+      "candidates": [
+        {
+          "name": "Mark Kaufmann",
+          "party": "DEM"
+        },
+        {
+          "name": "Cliff Mears",
+          "party": "REP"
+        }
+      ],
+      "sources": [
+        "richland-46day"
+      ]
+    },
+    {
+      "id": "auditor",
+      "group": "County offices",
+      "office": "County Auditor",
+      "detail": "Term commencing March 8, 2027",
+      "candidates": [
+        {
+          "name": "Patrick W. Dropsey",
+          "party": "REP"
+        }
+      ],
+      "sources": [
+        "richland-46day"
+      ]
+    },
+    {
+      "id": "clerk-of-courts",
+      "group": "County offices",
+      "office": "Clerk of the Court of Common Pleas",
+      "detail": "Unexpired term ending December 31, 2028",
+      "candidates": [
+        {
+          "name": "Heidi Ewing",
+          "party": "REP"
+        }
+      ],
+      "sources": [
+        "richland-46day"
+      ]
+    },
+    {
+      "id": "cp-gen",
+      "group": "Court of Common Pleas",
+      "office": "Judge of the Court of Common Pleas, General Division",
+      "detail": "Term commencing February 9, 2027 · no party label on the ballot",
+      "candidates": [
+        {
+          "name": "Phillip S. Naumoff"
+        }
+      ],
+      "sources": [
+        "richland-46day"
+      ]
+    },
+    {
+      "id": "cp-probate",
+      "group": "Court of Common Pleas",
+      "office": "Judge of the Court of Common Pleas, Probate Division",
+      "detail": "Term commencing February 9, 2027 · no party label on the ballot",
+      "candidates": [
+        {
+          "name": "Kelly L. Badnell"
+        },
+        {
+          "name": "Robert A. Franco"
+        }
+      ],
+      "sources": [
+        "richland-46day"
+      ]
+    }
+  ],
+  "issues": [
+    {
+      "id": "galion-council-president-term",
+      "kind": "question",
+      "jurisdiction": "City of Galion (Crawford and Richland counties)",
+      "title": "Change the term of the President of Council from 2 years to 4 years",
+      "area": "City of Galion, Richland County part (precinct Sandusky, split 3)",
+      "places": [
+        "Sandusky Township"
+      ],
+      "text": "Change of term: President of Council, from 2 years to 4 years.",
+      "sources": [
+        "richland-46day"
+      ]
+    },
+    {
+      "id": "galion-council-at-large-term",
+      "kind": "question",
+      "jurisdiction": "City of Galion (Crawford and Richland counties)",
+      "title": "Change the terms of at-large members of Council from 2 years to 4 years",
+      "area": "City of Galion, Richland County part (precinct Sandusky, split 3)",
+      "places": [
+        "Sandusky Township"
+      ],
+      "text": "Change the terms of office for at-large members of Council from 2 years to 4 years.",
+      "sources": [
+        "richland-46day"
+      ]
+    },
+    {
+      "id": "shelby-health",
+      "kind": "levy",
+      "jurisdiction": "City of Shelby",
+      "title": "Tax levy (renewal): General operation of the Shelby Department of Health",
+      "area": "Shelby 1-A, 1-B, 2-A, 2-B, 3-A, 3-B, 4-A, 4-B",
+      "places": [
+        "Shelby City"
+      ],
+      "levy": {
+        "type": "Renewal",
+        "purpose": "General operation of the Shelby Department of Health.",
+        "mills": "0.9 mill",
+        "term": "5 years, commencing in 2027",
+        "firstDue": "2028"
+      },
+      "sources": [
+        "richland-46day"
+      ]
+    },
+    {
+      "id": "shelby-parks",
+      "kind": "levy",
+      "jurisdiction": "City of Shelby",
+      "title": "Tax levy (renewal): General operation of the Shelby Parks Department",
+      "area": "Shelby 1-A, 1-B, 2-A, 2-B, 3-A, 3-B, 4-A, 4-B",
+      "places": [
+        "Shelby City"
+      ],
+      "levy": {
+        "type": "Renewal",
+        "purpose": "General operation of the Shelby Parks Department.",
+        "mills": "0.5 mill",
+        "term": "5 years, commencing in 2027",
+        "firstDue": "2028"
+      },
+      "sources": [
+        "richland-46day"
+      ]
+    },
+    {
+      "id": "bellville-cemetery",
+      "kind": "levy",
+      "jurisdiction": "Village of Bellville",
+      "title": "Tax levy (renewal): Maintaining and operating the village cemetery",
+      "area": "Bellville (precinct Jefferson A)",
+      "places": [
+        "Bellville Village"
+      ],
+      "levy": {
+        "type": "Renewal",
+        "purpose": "Maintaining and operating the village cemetery.",
+        "mills": "2 mills",
+        "term": "5 years, commencing in 2027",
+        "firstDue": "2028"
+      },
+      "sources": [
+        "richland-46day"
+      ]
+    },
+    {
+      "id": "bellville-police",
+      "kind": "levy",
+      "jurisdiction": "Village of Bellville",
+      "title": "Tax levy (renewal): Police department: motor vehicles, communications, equipment and buildings; salaries of police, communications and administrative personnel; ambulance or emergency medical services operated by the police department; and related costs",
+      "area": "Bellville (precinct Jefferson A)",
+      "places": [
+        "Bellville Village"
+      ],
+      "levy": {
+        "type": "Renewal",
+        "purpose": "Police department: motor vehicles, communications, equipment and buildings; salaries of police, communications and administrative personnel; ambulance or emergency medical services operated by the police department; and related costs.",
+        "mills": "3 mills",
+        "term": "5 years, commencing in 2027",
+        "firstDue": "2028"
+      },
+      "sources": [
+        "richland-46day"
+      ]
+    },
+    {
+      "id": "lexington-parks",
+      "kind": "levy",
+      "jurisdiction": "Village of Lexington",
+      "title": "Tax levy (renewal): Parks and recreational purposes",
+      "area": "Lexington B, C, E",
+      "places": [
+        "Lexington Village"
+      ],
+      "levy": {
+        "type": "Renewal",
+        "purpose": "Parks and recreational purposes.",
+        "mills": "1 mill",
+        "term": "5 years, commencing in 2027",
+        "firstDue": "2028"
+      },
+      "sources": [
+        "richland-46day"
+      ]
+    },
+    {
+      "id": "lucas-income-tax",
+      "kind": "question",
+      "jurisdiction": "Village of Lucas",
+      "title": "Municipal income tax: additional 0.75%",
+      "area": "Lucas (precinct Monroe A, split 2)",
+      "places": [
+        "Lucas Village"
+      ],
+      "text": "Additional 0.75 per cent income tax for general municipal operations, maintenance, new equipment, extension and enlargement of municipal services and facilities, and capital improvements. The notice gives the start as January 1, 2026.",
+      "sources": [
+        "richland-46day"
+      ]
+    },
+    {
+      "id": "plymouth-cemetery",
+      "kind": "levy",
+      "jurisdiction": "Village of Plymouth (Richland and Huron counties)",
+      "title": "Tax levy (renewal): Operating and maintaining the village cemetery",
+      "area": "Plymouth, Richland County part (precinct Plymouth, split 3)",
+      "places": [
+        "Plymouth Village"
+      ],
+      "levy": {
+        "type": "Renewal",
+        "purpose": "Operating and maintaining the village cemetery.",
+        "mills": "1 mill",
+        "term": "5 years, commencing in 2027",
+        "firstDue": "2028"
+      },
+      "sources": [
+        "richland-46day"
+      ]
+    },
+    {
+      "id": "shiloh-current",
+      "kind": "levy",
+      "jurisdiction": "Village of Shiloh",
+      "title": "Tax levy (renewal): Current expenses",
+      "area": "Shiloh (precinct Cass, split 2)",
+      "places": [
+        "Shiloh Village"
+      ],
+      "levy": {
+        "type": "Renewal",
+        "purpose": "Current expenses.",
+        "mills": "2.5 mills",
+        "term": "5 years, commencing in 2026",
+        "firstDue": "2027"
+      },
+      "sources": [
+        "richland-46day"
+      ]
+    },
+    {
+      "id": "jefferson-twp-roads",
+      "kind": "levy",
+      "jurisdiction": "Jefferson Township (excluding the Village of Bellville)",
+      "title": "Tax levy (renewal): Construction, reconstruction, resurfacing and repair of township roads and bridges",
+      "area": "Jefferson Township C, D",
+      "places": [
+        "Jefferson Township"
+      ],
+      "levy": {
+        "type": "Renewal",
+        "purpose": "Construction, reconstruction, resurfacing and repair of township roads and bridges.",
+        "mills": "2 mills",
+        "term": "5 years, commencing in 2027",
+        "firstDue": "2028"
+      },
+      "sources": [
+        "richland-46day"
+      ]
+    },
+    {
+      "id": "madison-twp-fire",
+      "kind": "levy",
+      "jurisdiction": "Madison Township",
+      "title": "Tax levy (additional): Fire protection and emergency medical services: fire apparatus and equipment, buildings and sites, fire alarm lines, firefighting and EMS personnel, ambulance equipment and services, and related costs",
+      "area": "Madison Township A, D, E, G, I, O, plus Mansfield 1-D (splits 1 and 7)",
+      "places": [
+        "Madison Township",
+        "Mansfield City"
+      ],
+      "levy": {
+        "type": "Additional",
+        "purpose": "Fire protection and emergency medical services: fire apparatus and equipment, buildings and sites, fire alarm lines, firefighting and EMS personnel, ambulance equipment and services, and related costs.",
+        "mills": "2.5 mills",
+        "term": "5 years, commencing in 2026",
+        "firstDue": "2027"
+      },
+      "sources": [
+        "richland-46day"
+      ]
+    },
+    {
+      "id": "madison-twp-roads",
+      "kind": "levy",
+      "jurisdiction": "Madison Township",
+      "title": "Tax levy (additional): Construction, reconstruction, resurfacing and repair of streets, roads and bridges",
+      "area": "Madison Township A, D, E, G, I, O, plus Mansfield 1-D (splits 1 and 7)",
+      "places": [
+        "Madison Township",
+        "Mansfield City"
+      ],
+      "levy": {
+        "type": "Additional",
+        "purpose": "Construction, reconstruction, resurfacing and repair of streets, roads and bridges.",
+        "mills": "4 mills",
+        "term": "5 years, commencing in 2026",
+        "firstDue": "2027"
+      },
+      "sources": [
+        "richland-46day"
+      ]
+    },
+    {
+      "id": "madison-twp-gas-aggregation",
+      "kind": "question",
+      "jurisdiction": "Madison Township",
+      "title": "Natural gas aggregation (opt-out)",
+      "area": "Madison Township A, D, E, G, I, O, plus Mansfield 1-D (splits 1 and 7)",
+      "places": [
+        "Madison Township",
+        "Mansfield City"
+      ],
+      "text": "Shall the Township of Madison have the authority to aggregate the retail natural gas loads located in the township, and enter into service agreements for the sale and purchase of natural gas, such aggregation to occur automatically except where any person elects to opt out?",
+      "sources": [
+        "richland-46day"
+      ]
+    },
+    {
+      "id": "mifflin-twp-gas-aggregation",
+      "kind": "question",
+      "jurisdiction": "Mifflin Township",
+      "title": "Natural gas aggregation (opt-out), unincorporated area",
+      "area": "Mifflin Township A–E",
+      "places": [
+        "Mifflin Township"
+      ],
+      "text": "Shall the Township of Mifflin have the authority to aggregate the retail natural gas loads located in the unincorporated areas of the township, and for that purpose, enter into service agreements to facilitate for those loads the sale and purchase of natural gas, such aggregation to occur automatically for eligible local utility customers except where any person is under contract or elects to opt out?",
+      "sources": [
+        "richland-46day"
+      ]
+    },
+    {
+      "id": "monroe-twp-roads",
+      "kind": "levy",
+      "jurisdiction": "Monroe Township (excluding the Village of Lucas)",
+      "title": "Tax levy (renewal): Construction, reconstruction, resurfacing and repair of roads and bridges",
+      "area": "Monroe Township A (splits 1 and 3), B",
+      "places": [
+        "Monroe Township"
+      ],
+      "levy": {
+        "type": "Renewal",
+        "purpose": "Construction, reconstruction, resurfacing and repair of roads and bridges.",
+        "mills": "0.75 mill",
+        "term": "5 years, commencing in 2027",
+        "firstDue": "2028"
+      },
+      "sources": [
+        "richland-46day"
+      ]
+    },
+    {
+      "id": "sandusky-twp-roads",
+      "kind": "levy",
+      "jurisdiction": "Sandusky Township (excluding the Village of Crestline and the City of Galion)",
+      "title": "Tax levy (renewal): Construction, reconstruction, resurfacing and repair of township roads and bridges",
+      "area": "Sandusky Township (splits 2, 4 and 5)",
+      "places": [
+        "Sandusky Township"
+      ],
+      "levy": {
+        "type": "Renewal",
+        "purpose": "Construction, reconstruction, resurfacing and repair of township roads and bridges.",
+        "mills": "1.5 mills",
+        "term": "5 years, commencing in 2027",
+        "firstDue": "2028"
+      },
+      "sources": [
+        "richland-46day"
+      ]
+    },
+    {
+      "id": "ashland-csd-current",
+      "kind": "levy",
+      "jurisdiction": "Ashland City School District (Ashland and Richland counties)",
+      "title": "Tax levy (renewal): Current expenses",
+      "area": "Ashland City School District, Richland County part (precinct Mifflin A, split 1)",
+      "places": [
+        "Mifflin Township"
+      ],
+      "levy": {
+        "type": "Renewal",
+        "purpose": "Current expenses.",
+        "mills": "9.9 mills",
+        "term": "Continuing, commencing in 2027",
+        "firstDue": "2028"
+      },
+      "sources": [
+        "richland-46day"
+      ]
+    },
+    {
+      "id": "crestline-evsd-income-tax",
+      "kind": "question",
+      "jurisdiction": "Crestline Exempted Village School District (Crawford and Richland counties)",
+      "title": "School district income tax: additional 0.75%, continuing, for current expenses",
+      "area": "Crestline Exempted Village School District, Richland County part (precinct Sandusky, splits 1 and 2)",
+      "places": [
+        "Crestline Village",
+        "Sandusky Township"
+      ],
+      "text": "Additional income tax of 0.75% for a continuing period of time, commencing January 1, 2027, for current expenses.",
+      "sources": [
+        "richland-46day"
+      ]
+    },
+    {
+      "id": "lexington-lsd-income-tax",
+      "kind": "question",
+      "jurisdiction": "Lexington Local School District (Richland and Morrow counties)",
+      "title": "School district income tax: additional 0.75%, 10 years, for current expenses",
+      "area": "Lexington Local School District, Richland County part (parts of Mansfield 1-A, 1-B, 1-D, 1-E, 1-F; Perry; Lexington B, C, E; Troy A, B; Washington B, C, D, F)",
+      "places": [
+        "Lexington Village",
+        "Mansfield City",
+        "Perry Township",
+        "Troy Township",
+        "Washington Township"
+      ],
+      "text": "Additional income tax of 0.75% for 10 years, commencing January 1, 2027, for current expenses.",
+      "sources": [
+        "richland-46day"
+      ]
+    },
+    {
+      "id": "lexington-lsd-current",
+      "kind": "levy",
+      "jurisdiction": "Lexington Local School District (Richland and Morrow counties)",
+      "title": "Tax levy (renewal): Current expenses",
+      "area": "Lexington Local School District, Richland County part (parts of Mansfield 1-A, 1-B, 1-D, 1-E, 1-F; Perry; Lexington B, C, E; Troy A, B; Washington B, C, D, F)",
+      "places": [
+        "Lexington Village",
+        "Mansfield City",
+        "Perry Township",
+        "Troy Township",
+        "Washington Township"
+      ],
+      "levy": {
+        "type": "Renewal",
+        "purpose": "Current expenses.",
+        "mills": "4.8 mills",
+        "term": "5 years, commencing in 2026",
+        "firstDue": "2027"
+      },
+      "sources": [
+        "richland-46day"
+      ]
+    },
+    {
+      "id": "loudonville-perrysville-bond-income-tax",
+      "kind": "levy",
+      "jurisdiction": "Loudonville-Perrysville Exempted Village School District (Ashland and Richland counties)",
+      "title": "School district income tax (0.25%, 30 years) and bond issue ($16,400,000)",
+      "area": "Monroe Township A (split 1), B (split 1)",
+      "places": [
+        "Monroe Township"
+      ],
+      "levy": {
+        "type": "Income tax and bond issue",
+        "purpose": "Income tax for current expenses; bonds for constructing, renovating, repairing, expanding, furnishing and equipping school facilities and improving their sites.",
+        "mills": "2.85 mills (bond, estimated average)",
+        "term": "Income tax 30 years from January 1, 2027; bonds up to 37 years",
+        "firstDue": "2028",
+        "estimate": "$16,400,000 principal; $100 for each $100,000 of market value (bond)"
+      },
+      "text": "Impose an annual income tax of 0.25% on the school district income of individuals, for a period of 30 years, beginning January 1, 2027, for the purpose of current expenses; and issue bonds for constructing school facilities, renovating, repairing, expanding, improving, and constructing additions to school facilities, furnishing and equipping the same, and improving the sites thereof, in the principal amount of $16,400,000, to be repaid annually over a maximum period of 37 years, and levy a property tax outside the ten-mill limitation estimated by the county auditor to average over the bond repayment period 2.85 mills, which amounts to $100 for each $100,000 of the county auditor's market value, to pay the annual debt charges on the bonds and on any notes issued in anticipation of those bonds.",
+      "sources": [
+        "richland-46day"
+      ]
+    },
+    {
+      "id": "madison-lsd-current",
+      "kind": "levy",
+      "jurisdiction": "Madison Local School District",
+      "title": "Tax levy (renewal): Renewal of two existing taxes for current expenses",
+      "area": "Madison Local School District (Madison Township A, D, E, G, I, O; Mifflin Township A–E; Washington A, D; parts of Mansfield 1-C, 1-D, 1-F, 2-F, 5-A, 5-B, 6-B, 6-E)",
+      "places": [
+        "Madison Township",
+        "Mansfield City",
+        "Mifflin Township",
+        "Washington Township"
+      ],
+      "levy": {
+        "type": "Renewal",
+        "purpose": "Renewal of two existing taxes for current expenses.",
+        "mills": "14.4 mills",
+        "term": "5 years, commencing in 2027",
+        "firstDue": "2028"
+      },
+      "sources": [
+        "richland-46day"
+      ]
+    },
+    {
+      "id": "south-central-lsd-improvements",
+      "kind": "levy",
+      "jurisdiction": "South Central Local School District (Huron and Richland counties)",
+      "title": "Tax levy (renewal): General improvements",
+      "area": "South Central Local School District, Richland County part (Blooming Grove split 4, Butler Township split 3)",
+      "places": [
+        "Blooming Grove Township",
+        "Butler Township"
+      ],
+      "levy": {
+        "type": "Renewal",
+        "purpose": "General improvements.",
+        "mills": "1 mill",
+        "term": "5 years, commencing in 2027",
+        "firstDue": "2028"
+      },
+      "sources": [
+        "richland-46day"
+      ]
+    },
+    {
+      "id": "loudonville-library",
+      "kind": "levy",
+      "jurisdiction": "Loudonville Public Library (Ashland and Richland counties)",
+      "title": "Tax levy (renewal): Current expenses",
+      "area": "Monroe Township A (split 1), B (split 1)",
+      "places": [
+        "Monroe Township"
+      ],
+      "levy": {
+        "type": "Renewal",
+        "purpose": "Current expenses.",
+        "mills": "0.8 mill",
+        "term": "5 years, commencing in 2027",
+        "firstDue": "2028"
+      },
+      "sources": [
+        "richland-46day"
+      ]
+    },
+    {
+      "id": "liquor-mansfield-lexington-ave",
+      "kind": "liquor",
+      "jurisdiction": "City of Mansfield",
+      "title": "Local liquor option: Lexington Ave. Drive Thru (Sunday)",
+      "area": "Mansfield precinct 2-C",
+      "places": [
+        "Mansfield City"
+      ],
+      "text": "Sunday sale of wine and mixed beverages and spirituous liquor, off-premise sales of wine and mixed beverages and on-premise sales of spirituous liquor, by Baba 1313, Inc., dba Lexington Ave. Drive Thru, 261 Lexington Ave., Mansfield.",
+      "sources": [
+        "richland-46day"
+      ]
+    },
+    {
+      "id": "liquor-mansfield-kingwood",
+      "kind": "liquor",
+      "jurisdiction": "City of Mansfield",
+      "title": "Local liquor option: Kingwood Center Gardens (Sunday)",
+      "area": "Mansfield precinct 4-B",
+      "places": [
+        "Mansfield City"
+      ],
+      "text": "Sunday sale of wine and mixed beverages and spirituous liquor, on/off-premise sales of wine and mixed beverages and on-premise sales of spirituous liquor, by Charles Kelley King 3# Trust dba Kingwood Center Gardens, 50 N. Trimble Rd., Mansfield.",
+      "sources": [
+        "richland-46day"
+      ]
+    },
+    {
+      "id": "liquor-shelby-legends",
+      "kind": "liquor",
+      "jurisdiction": "City of Shelby",
+      "title": "Local liquor option: Legends Sports Grill & Pub (Sunday)",
+      "area": "Shelby precinct 1-A",
+      "places": [
+        "Shelby City"
+      ],
+      "text": "Sunday sale of wine and mixed beverages and spirituous liquor, on/off-premise sales of wine and mixed beverages and on-premise sales of spirituous liquor, by LJR Enterprises, Inc., dba Legends Sports Grill & Pub, 63 W. Main St., Shelby.",
+      "sources": [
+        "richland-46day"
+      ]
+    },
+    {
+      "id": "liquor-shelby-carry-out",
+      "kind": "liquor",
+      "jurisdiction": "City of Shelby",
+      "title": "Local liquor option: Shelby Carry Out (Sunday)",
+      "area": "Shelby precinct 1-B",
+      "places": [
+        "Shelby City"
+      ],
+      "text": "Sunday sale of wine and mixed beverages, off-premise sales, by NY Singh, LLC dba Shelby Carry Out, 116 N. Gamble St., Shelby.",
+      "sources": [
+        "richland-46day"
+      ]
+    },
+    {
+      "id": "liquor-shelby-vfw-291",
+      "kind": "liquor",
+      "jurisdiction": "City of Shelby",
+      "title": "Local liquor option: Ralph Phillips VFW 291 (Sunday)",
+      "area": "Shelby precinct 2-B",
+      "places": [
+        "Shelby City"
+      ],
+      "text": "Sunday sale of wine and mixed beverages and spirituous liquor, on-premise sales, by VFW Post 0291 George Broderick dba Ralph Phillips VFW 291, 34 W. Main St., Shelby.",
+      "sources": [
+        "richland-46day"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,523 @@
+{
+  "scope": "county",
+  "county": "Fairfield",
+  "fips": "39045",
+  "election": "2026-11-03",
+  "retrieved": "2026-10-30",
+  "notes": [
+    "Taken from the Board of Elections' 46-day election notice, which lists every contest and issue with the precincts that vote on it, checked against the Board's certified candidates and issues list. Issue wording is the Board's ballot wording, condensed where long; the full wording is on the sample ballot.",
+    "Candidates are listed alphabetically by last name, not in ballot order: Ohio rotates the order of names from precinct to precinct. Certified write-in candidates are not printed on the ballot and are not listed.",
+    "\"Where you live\" uses the state voter file: a district or school levy is shown for a city, village or township when any of its voters live in that district. Your exact ballot depends on your precinct.",
+    "The Board's notice gives no local issue numbers except for the two City of Columbus charter amendments (#8 and #9); see your sample ballot for the others."
+  ],
+  "places": [
+    "Amanda Township",
+    "Amanda Village",
+    "Baltimore Village",
+    "Berne Township",
+    "Bloom Township",
+    "Bremen Village",
+    "Buckeye Lake Village",
+    "Canal Winchester City",
+    "Carroll Village",
+    "Clearcreek Township",
+    "Columbus City",
+    "Greenfield Township",
+    "Hocking Township",
+    "Lancaster City",
+    "Liberty Township",
+    "Lithopolis Village",
+    "Madison Township",
+    "Millersport Village",
+    "Pickerington City",
+    "Pleasant Township",
+    "Pleasantville Village",
+    "Reynoldsburg City",
+    "Richland Township",
+    "Rushcreek Township",
+    "Rushville Village",
+    "Stoutsville Village",
+    "Sugar Grove Village",
+    "Thurston Village",
+    "Violet Township",
+    "Walnut Township",
+    "West Rushville Village"
+  ],
+  "sources": {
+    "fairfield-46day": {
+      "label": "Fairfield County Board of Elections: 46-day election notice (FWAB), November 3, 2026 General Election (revised 9/16/2026)",
+      "url": "https://www.boe.ohio.gov/fairfield/c/upload/FWAB_11November46Day.pdf"
+    },
+    "fairfield-cand": {
+      "label": "Fairfield County Board of Elections: 2026 General Election certified candidates and issues (issues revised 9/9/2026)",
+      "url": "https://www.boe.ohio.gov/fairfield/c/upload/Election_Candidates.pdf"
+    }
+  },
+  "links": [
+    {
+      "label": "Board of Elections",
+      "url": "https://www.boe.ohio.gov/fairfield/"
+    },
+    {
+      "label": "Election information",
+      "url": "https://www.boe.ohio.gov/fairfield/election-info/"
+    },
+    {
+      "label": "Sample ballots by precinct",
+      "url": "https://lookup.boe.ohio.gov/vtrapp/fairfield/ballotlist.aspx"
+    }
+  ],
+  "results": {
+    "status": "upcoming",
+    "links": [
+      {
+        "label": "Board of Elections: election results",
+        "url": "https://www.boe.ohio.gov/fairfield/election-info/election-results/"
+      }
+    ]
+  },
+  "contests": [
+    {
+      "id": "congress-12",
+      "group": "U.S. House",
+      "office": "Representative to Congress",
+      "detail": "12th District",
+      "candidates": [
+        {
+          "name": "Troy Balderson",
+          "party": "REP"
+        },
+        {
+          "name": "Jerrad Christian",
+          "party": "DEM"
+        }
+      ],
+      "sources": [
+        "fairfield-46day",
+        "fairfield-cand"
+      ]
+    },
+    {
+      "id": "rep-69",
+      "group": "Ohio General Assembly",
+      "office": "State Representative",
+      "detail": "69th District (also in Licking and Perry counties)",
+      "area": "Amanda Township, Amanda Village, Berne Township, Bloom Township, Bremen Village, Canal Winchester City, Clearcreek Township, Hocking Township, Lithopolis Village, Madison Township, Richland Township, Rushcreek Township, Rushville Village, Stoutsville Village, Sugar Grove Village, West Rushville Village",
+      "places": [
+        "Amanda Township",
+        "Amanda Village",
+        "Berne Township",
+        "Bloom Township",
+        "Bremen Village",
+        "Canal Winchester City",
+        "Clearcreek Township",
+        "Hocking Township",
+        "Lithopolis Village",
+        "Madison Township",
+        "Richland Township",
+        "Rushcreek Township",
+        "Rushville Village",
+        "Stoutsville Village",
+        "Sugar Grove Village",
+        "West Rushville Village"
+      ],
+      "candidates": [
+        {
+          "name": "Kevin D. Miller",
+          "party": "REP"
+        },
+        {
+          "name": "Amy Rigsby",
+          "party": "DEM"
+        }
+      ],
+      "sources": [
+        "fairfield-46day",
+        "fairfield-cand"
+      ]
+    },
+    {
+      "id": "rep-73",
+      "group": "Ohio General Assembly",
+      "office": "State Representative",
+      "detail": "73rd District",
+      "area": "Baltimore Village, Buckeye Lake Village, Canal Winchester City, Carroll Village, Columbus City, Greenfield Township, Lancaster City, Liberty Township, Millersport Village, Pickerington City, Pleasant Township, Pleasantville Village, Reynoldsburg City, Thurston Village, Violet Township, Walnut Township",
+      "places": [
+        "Baltimore Village",
+        "Buckeye Lake Village",
+        "Canal Winchester City",
+        "Carroll Village",
+        "Columbus City",
+        "Greenfield Township",
+        "Lancaster City",
+        "Liberty Township",
+        "Millersport Village",
+        "Pickerington City",
+        "Pleasant Township",
+        "Pleasantville Village",
+        "Reynoldsburg City",
+        "Thurston Village",
+        "Violet Township",
+        "Walnut Township"
+      ],
+      "candidates": [
+        {
+          "name": "Jeff LaRe",
+          "party": "REP"
+        },
+        {
+          "name": "Whittney Wood",
+          "party": "DEM"
+        }
+      ],
+      "sources": [
+        "fairfield-46day",
+        "fairfield-cand"
+      ]
+    },
+    {
+      "id": "appeals-5",
+      "group": "Ohio Court of Appeals",
+      "office": "Judge of the Court of Appeals",
+      "detail": "5th District · term commencing February 9, 2027",
+      "candidates": [
+        {
+          "name": "Matthew George",
+          "party": "REP"
+        }
+      ],
+      "sources": [
+        "fairfield-46day",
+        "fairfield-cand"
+      ]
+    },
+    {
+      "id": "commissioner",
+      "group": "County offices",
+      "office": "County Commissioner",
+      "detail": "Term commencing January 1, 2027",
+      "candidates": [
+        {
+          "name": "Jeffrey Fix",
+          "party": "REP"
+        }
+      ],
+      "sources": [
+        "fairfield-46day",
+        "fairfield-cand"
+      ]
+    },
+    {
+      "id": "auditor",
+      "group": "County offices",
+      "office": "County Auditor",
+      "detail": "Term commencing March 8, 2027",
+      "candidates": [
+        {
+          "name": "Carri L. Brown",
+          "party": "REP"
+        }
+      ],
+      "sources": [
+        "fairfield-46day",
+        "fairfield-cand"
+      ]
+    },
+    {
+      "id": "cp-gen",
+      "group": "Court of Common Pleas",
+      "office": "Judge of the Court of Common Pleas, General Division",
+      "detail": "Term commencing February 9, 2027 · no party label on the ballot",
+      "candidates": [
+        {
+          "name": "David Andrew Trimmer"
+        }
+      ],
+      "sources": [
+        "fairfield-46day",
+        "fairfield-cand"
+      ]
+    },
+    {
+      "id": "cp-probate-juvenile",
+      "group": "Court of Common Pleas",
+      "office": "Judge of the Court of Common Pleas, Juvenile/Probate Division",
+      "detail": "Term commencing February 9, 2027 · no party label on the ballot",
+      "candidates": [
+        {
+          "name": "Terre L. Vandervoort"
+        }
+      ],
+      "sources": [
+        "fairfield-46day",
+        "fairfield-cand"
+      ]
+    }
+  ],
+  "issues": [
+    {
+      "id": "pickerington-lsd-tax",
+      "kind": "question",
+      "jurisdiction": "Pickerington Local School District (Fairfield and Franklin)",
+      "title": "School district income tax increase: 0.75% for 10 years",
+      "area": "Columbus precincts A–F, Liberty Township A and D (Pickerington parts), Pickerington A–Q, Violet Township A–R",
+      "places": [
+        "Columbus City",
+        "Liberty Township",
+        "Pickerington City",
+        "Reynoldsburg City",
+        "Violet Township"
+      ],
+      "text": "Shall an annual income tax of 0.75 per cent on the school district income of individuals be imposed by Pickerington Local School District, for 10 years, beginning January 1, 2027, for the purpose of current expenses?",
+      "sources": [
+        "fairfield-46day",
+        "fairfield-cand"
+      ]
+    },
+    {
+      "id": "pickerington-library",
+      "kind": "levy",
+      "jurisdiction": "Pickerington Public Library (Fairfield and Franklin)",
+      "title": "Tax levy (additional): Current expenses",
+      "area": "Columbus precincts A–F, Liberty Township A and D (Pickerington parts), Pickerington A–Q, Violet Township A–R",
+      "places": [
+        "Columbus City",
+        "Liberty Township",
+        "Pickerington City",
+        "Reynoldsburg City",
+        "Violet Township"
+      ],
+      "levy": {
+        "type": "Additional",
+        "purpose": "Current expenses.",
+        "mills": "1.5 mills",
+        "term": "Continuing, commencing in 2026",
+        "firstDue": "2027",
+        "estimate": "$4,104,440 a year; $53 for each $100,000 of market value"
+      },
+      "sources": [
+        "fairfield-46day",
+        "fairfield-cand"
+      ]
+    },
+    {
+      "id": "swl-bond",
+      "kind": "levy",
+      "jurisdiction": "Southwest Licking Local School District (Licking and Fairfield counties)",
+      "title": "Bond issue: $80,710,000 for school facilities",
+      "area": "Liberty Township A–D (Southwest Licking parts)",
+      "places": [
+        "Liberty Township"
+      ],
+      "levy": {
+        "type": "Bond issue",
+        "purpose": "Constructing, renovating, expanding, furnishing and equipping school facilities, improving their sites, and acquiring real estate.",
+        "mills": "2.87 mills (estimated average)",
+        "term": "Up to 35 years",
+        "firstDue": "2027",
+        "estimate": "$80,710,000 principal; $100 for each $100,000 of market value"
+      },
+      "text": "Bond issue, principal $80,710,000, maximum 35 years, estimated average 2.87 mills ($100 per $100,000 of market value), commencing in 2026, first due in 2027, for constructing school facilities and renovating, repairing, expanding, improving, and constructing additions to school facilities; furnishing and equipping the same; improving the sites thereof; and acquiring real estate and interests therein.",
+      "sources": [
+        "fairfield-46day",
+        "fairfield-cand"
+      ]
+    },
+    {
+      "id": "swl-income-tax",
+      "kind": "question",
+      "jurisdiction": "Southwest Licking Local School District (Licking and Fairfield counties)",
+      "title": "School district income tax: replace the 0.75% tax on school district income with a 2% tax on earned income, continuing, for current operating expenses",
+      "area": "Liberty Township A–D (Southwest Licking parts)",
+      "places": [
+        "Liberty Township"
+      ],
+      "text": "Shall the existing tax of 0.75% on the school district income of individuals imposed by the Southwest Licking Local School District be replaced by a tax of 2% on the earned income of individuals residing in the school district for a continuing period of time, beginning January 1, 2027, for the purpose of paying the cost of current operating expenses? If the new tax is not approved, the existing tax will remain in effect under its original authority, for the remainder of its previously approved term.",
+      "sources": [
+        "fairfield-46day",
+        "fairfield-cand"
+      ]
+    },
+    {
+      "id": "pataskala-library",
+      "kind": "levy",
+      "jurisdiction": "Pataskala Public Library (Licking and Fairfield counties)",
+      "title": "Tax levy (renewal): Current expenses of the library",
+      "area": "Liberty Township A–D (Southwest Licking parts)",
+      "places": [
+        "Liberty Township"
+      ],
+      "levy": {
+        "type": "Renewal",
+        "purpose": "Current expenses of the library.",
+        "mills": "1 mill",
+        "term": "5 years, commencing in 2027",
+        "firstDue": "2028",
+        "estimate": "$901,850 a year; $21 per $100,000 of market value"
+      },
+      "sources": [
+        "fairfield-46day",
+        "fairfield-cand"
+      ]
+    },
+    {
+      "id": "issue-8",
+      "kind": "question",
+      "jurisdiction": "City of Columbus",
+      "title": "Charter amendment (by petition): council members elected only by voters in their district",
+      "area": "Columbus precincts A–F (Fairfield County part)",
+      "places": [
+        "Columbus City"
+      ],
+      "number": "Issue 8",
+      "text": "This proposed charter amendment would limit the ability to vote for candidates for Columbus City Council to only those electors living within the districts that those candidates seek to represent. Ballots within council districts would include both citywide races and the district race, and a recall election of a district council member could be started by a petition signed by district electors equal to at least 15% of the votes cast in the district in the preceding mayoral election. Shall the proposed charter amendment be approved?",
+      "sources": [
+        "fairfield-46day",
+        "fairfield-cand"
+      ]
+    },
+    {
+      "id": "issue-9",
+      "kind": "question",
+      "jurisdiction": "City of Columbus",
+      "title": "Charter amendment (by Council): district-only voting for district seats, at-large seats added, 13-member Council",
+      "area": "Columbus precincts A–F (Fairfield County part)",
+      "places": [
+        "Columbus City"
+      ],
+      "number": "Issue 9",
+      "text": "This proposed charter amendment would limit the ability to vote for candidates for Columbus City Council to only those electors living within the districts that those candidates seek to represent. It adds two at-large council members elected in 2027 and two more elected in 2029 (four-year terms), moving from a nine-member to an eleven- and then a thirteen-member Council; redraws the council district map in 2027 and raises the allowed population variance between districts from 1% to 7.5%; requires district candidates to have lived in their district for a year before the primary; updates expulsion, quorum and vote requirements; sets petition signature requirements (150 district / 250 at-large); and allows recall of district and at-large members by petition. Shall the proposed charter amendment be approved?",
+      "sources": [
+        "fairfield-46day",
+        "fairfield-cand"
+      ]
+    },
+    {
+      "id": "buckeye-lake-current",
+      "kind": "levy",
+      "jurisdiction": "Village of Buckeye Lake (Licking and Fairfield counties)",
+      "title": "Tax levy (renewal): Current operating expenses",
+      "area": "Walnut Township precinct A (Buckeye Lake Village part)",
+      "places": [
+        "Buckeye Lake Village"
+      ],
+      "levy": {
+        "type": "Renewal",
+        "purpose": "Current operating expenses.",
+        "mills": "5 mills",
+        "term": "5 years, commencing in 2027",
+        "firstDue": "2028",
+        "estimate": "$409,214 a year; $105 per $100,000 of market value"
+      },
+      "sources": [
+        "fairfield-46day",
+        "fairfield-cand"
+      ]
+    },
+    {
+      "id": "madison-twp-roads",
+      "kind": "levy",
+      "jurisdiction": "Madison Township (unincorporated territory)",
+      "title": "Tax levy (additional): General construction, reconstruction, resurfacing and repair of streets, roads and bridges",
+      "area": "Madison Township precinct A",
+      "places": [
+        "Madison Township"
+      ],
+      "levy": {
+        "type": "Additional",
+        "purpose": "General construction, reconstruction, resurfacing and repair of streets, roads and bridges.",
+        "mills": "1.5 mills",
+        "term": "Continuing period of time, commencing in 2026",
+        "firstDue": "2027",
+        "estimate": "$121,963 a year; $53 per $100,000 of market value"
+      },
+      "sources": [
+        "fairfield-46day",
+        "fairfield-cand"
+      ]
+    },
+    {
+      "id": "pleasant-twp-fire",
+      "kind": "levy",
+      "jurisdiction": "Pleasant Township",
+      "title": "Tax levy (additional): Providing and maintaining firefighting facilities, equipment, and personnel, including paramedics and other emergency medical services",
+      "area": "Pleasant Township A–F (includes the Pleasant Township part of Pleasantville Village)",
+      "places": [
+        "Pleasant Township",
+        "Pleasantville Village"
+      ],
+      "levy": {
+        "type": "Additional",
+        "purpose": "Providing and maintaining firefighting facilities, equipment, and personnel, including paramedics and other emergency medical services.",
+        "mills": "2 mills",
+        "term": "Continuing period of time, commencing in 2026",
+        "firstDue": "2027",
+        "estimate": "$689,992 a year; $70 per $100,000 of market value"
+      },
+      "sources": [
+        "fairfield-46day",
+        "fairfield-cand"
+      ]
+    },
+    {
+      "id": "liquor-los-mariachis",
+      "kind": "liquor",
+      "jurisdiction": "City of Lancaster",
+      "title": "Local liquor option: Los Mariachis",
+      "area": "Lancaster precinct 1-E",
+      "places": [
+        "Lancaster City"
+      ],
+      "text": "Sale of beer, wine and mixed beverages, and spirituous liquor by Los Mariachis of Lancaster, L.L.C., dba Los Mariachis (D-1, D-2, D-3 permits), a restaurant at 1707 River Valley Circle North, Lancaster.",
+      "sources": [
+        "fairfield-46day",
+        "fairfield-cand"
+      ]
+    },
+    {
+      "id": "liquor-los-mariachis-sunday",
+      "kind": "liquor",
+      "jurisdiction": "City of Lancaster",
+      "title": "Local liquor option: Los Mariachis (Sunday)",
+      "area": "Lancaster precinct 1-E",
+      "places": [
+        "Lancaster City"
+      ],
+      "text": "Sunday sale of wine and mixed beverages and spirituous liquor by Los Mariachis of Lancaster, L.L.C., dba Los Mariachis (D-6 permit), a restaurant at 1707 River Valley Circle North, Lancaster.",
+      "sources": [
+        "fairfield-46day",
+        "fairfield-cand"
+      ]
+    },
+    {
+      "id": "liquor-walmart-3792",
+      "kind": "liquor",
+      "jurisdiction": "City of Lancaster",
+      "title": "Local liquor option: Walmart 3792 (Sunday)",
+      "area": "Lancaster precinct 1-E",
+      "places": [
+        "Lancaster City"
+      ],
+      "text": "Sunday sale of wine and mixed beverages by Wal Mart Stores East, L.P., dba Walmart 3792 (D-6 permit), a grocery store at 2687 N. Memorial Drive, Lancaster.",
+      "sources": [
+        "fairfield-46day",
+        "fairfield-cand"
+      ]
+    },
+    {
+      "id": "liquor-east-lancaster-duchess",
+      "kind": "liquor",
+      "jurisdiction": "City of Lancaster",
+      "title": "Local liquor option: East Lancaster Duchess (Sunday)",
+      "area": "Lancaster precinct 5-A",
+      "places": [
+        "Lancaster City"
+      ],
+      "text": "Sunday sale of wine and mixed beverages by Englefield, Inc., dba East Lancaster Duchess (D-6 permit), a carryout/grocery store at 561 E. Main Street, Lancaster.",
+      "sources": [
+        "fairfield-46day",
+        "fairfield-cand"
+      ]
+    }
+  ]
+}

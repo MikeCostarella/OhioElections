@@ -1,0 +1,977 @@
+{
+  "scope": "county",
+  "county": "Clark",
+  "fips": "39023",
+  "election": "2026-11-03",
+  "retrieved": "2026-10-30",
+  "notes": [
+    "Taken from the Board of Elections' 46-day election notice, which lists every contest and issue with the precincts that vote on it. Issue wording is the Board's summary; the full wording is on the sample ballot.",
+    "Candidates are listed alphabetically by last name, not in ballot order: Ohio rotates the order of names from precinct to precinct. Certified write-in candidates are not printed on the ballot and are not listed.",
+    "\"Where you live\" uses the state voter file: a district or school levy is shown for a city, village or township when any of its voters live in that district. Your exact ballot depends on your precinct.",
+    "The Board's notice does not give local issue numbers; see your sample ballot for them."
+  ],
+  "places": [
+    "Bethel Township",
+    "Catawba Village",
+    "Clifton Village",
+    "Donnelsville Village",
+    "Enon Village",
+    "German Township",
+    "Green Township",
+    "Harmony Township",
+    "Mad River Township",
+    "Madison Township",
+    "Moorefield Township",
+    "New Carlisle City",
+    "North Hampton Village",
+    "Pike Township",
+    "Pleasant Township",
+    "South Charleston Village",
+    "South Vienna Village",
+    "Springfield City",
+    "Springfield Township",
+    "Tremont City Village"
+  ],
+  "sources": {
+    "clark-46day": {
+      "label": "Clark County Board of Elections: 46-day election notice (FWAB), November 3, 2026 General Election",
+      "url": "https://www.boe.ohio.gov/clark/c/upload/FWAB_11November46Day.pdf"
+    }
+  },
+  "links": [
+    {
+      "label": "Board of Elections",
+      "url": "https://www.boe.ohio.gov/clark/"
+    },
+    {
+      "label": "Election info",
+      "url": "https://www.boe.ohio.gov/clark/election-info/"
+    },
+    {
+      "label": "Sample ballots by precinct",
+      "url": "https://lookup.boe.ohio.gov/vtrapp/clark/ballotlist.aspx"
+    }
+  ],
+  "results": {
+    "status": "upcoming",
+    "links": [
+      {
+        "label": "Board of Elections: election results",
+        "url": "https://www.boe.ohio.gov/clark/election-info/election-results/"
+      }
+    ]
+  },
+  "contests": [
+    {
+      "id": "congress-4",
+      "group": "U.S. House",
+      "office": "Representative to Congress",
+      "detail": "4th District",
+      "area": "Bethel Township, Catawba Village, Donnelsville Village, German Township, Mad River Township, Moorefield Township, New Carlisle City, North Hampton Village, Pike Township, Pleasant Township, Springfield City, Springfield Township, Tremont City Village",
+      "places": [
+        "Bethel Township",
+        "Catawba Village",
+        "Donnelsville Village",
+        "German Township",
+        "Mad River Township",
+        "Moorefield Township",
+        "New Carlisle City",
+        "North Hampton Village",
+        "Pike Township",
+        "Pleasant Township",
+        "Springfield City",
+        "Springfield Township",
+        "Tremont City Village"
+      ],
+      "candidates": [
+        {
+          "name": "Jim Jordan",
+          "party": "REP"
+        },
+        {
+          "name": "Joshua D. Kolasinski",
+          "party": "DEM"
+        },
+        {
+          "name": "Tracey L. Tackett",
+          "party": "Nonparty"
+        }
+      ],
+      "sources": [
+        "clark-46day"
+      ]
+    },
+    {
+      "id": "congress-15",
+      "group": "U.S. House",
+      "office": "Representative to Congress",
+      "detail": "15th District",
+      "area": "Bethel Township, Clifton Village, Enon Village, Green Township, Harmony Township, Mad River Township, Madison Township, South Charleston Village, South Vienna Village",
+      "places": [
+        "Bethel Township",
+        "Clifton Village",
+        "Enon Village",
+        "Green Township",
+        "Harmony Township",
+        "Mad River Township",
+        "Madison Township",
+        "South Charleston Village",
+        "South Vienna Village"
+      ],
+      "candidates": [
+        {
+          "name": "Brennan Barrington",
+          "party": "LIB"
+        },
+        {
+          "name": "Mike Carey",
+          "party": "REP"
+        },
+        {
+          "name": "Don Leonard",
+          "party": "DEM"
+        }
+      ],
+      "sources": [
+        "clark-46day"
+      ]
+    },
+    {
+      "id": "rep-71",
+      "group": "Ohio General Assembly",
+      "office": "State Representative",
+      "detail": "71st District",
+      "area": "Clifton Village, Enon Village, Green Township, Harmony Township, Mad River Township, Madison Township, South Charleston Village, South Vienna Village",
+      "places": [
+        "Clifton Village",
+        "Enon Village",
+        "Green Township",
+        "Harmony Township",
+        "Mad River Township",
+        "Madison Township",
+        "South Charleston Village",
+        "South Vienna Village"
+      ],
+      "candidates": [
+        {
+          "name": "Levi Dean",
+          "party": "REP"
+        },
+        {
+          "name": "Krista Magaw",
+          "party": "DEM"
+        }
+      ],
+      "sources": [
+        "clark-46day"
+      ]
+    },
+    {
+      "id": "rep-74",
+      "group": "Ohio General Assembly",
+      "office": "State Representative",
+      "detail": "74th District",
+      "area": "Bethel Township, Catawba Village, Donnelsville Village, German Township, Moorefield Township, New Carlisle City, North Hampton Village, Pike Township, Pleasant Township, Springfield City, Springfield Township, Tremont City Village",
+      "places": [
+        "Bethel Township",
+        "Catawba Village",
+        "Donnelsville Village",
+        "German Township",
+        "Moorefield Township",
+        "New Carlisle City",
+        "North Hampton Village",
+        "Pike Township",
+        "Pleasant Township",
+        "Springfield City",
+        "Springfield Township",
+        "Tremont City Village"
+      ],
+      "candidates": [
+        {
+          "name": "Darrell E. Jackson",
+          "party": "DEM"
+        },
+        {
+          "name": "Bernard Willis",
+          "party": "REP"
+        }
+      ],
+      "sources": [
+        "clark-46day"
+      ]
+    },
+    {
+      "id": "appeals-2-0209",
+      "group": "Ohio Court of Appeals",
+      "office": "Judge of the Court of Appeals",
+      "detail": "2nd District · term commencing February 9, 2027",
+      "candidates": [
+        {
+          "name": "Chris Epley",
+          "party": "REP"
+        }
+      ],
+      "sources": [
+        "clark-46day"
+      ]
+    },
+    {
+      "id": "commissioner",
+      "group": "County offices",
+      "office": "County Commissioner",
+      "candidates": [
+        {
+          "name": "Sasha Rittenhouse",
+          "party": "REP"
+        },
+        {
+          "name": "Bradley Soles",
+          "party": "DEM"
+        }
+      ],
+      "sources": [
+        "clark-46day"
+      ]
+    },
+    {
+      "id": "commissioner-unexpired",
+      "group": "County offices",
+      "office": "County Commissioner",
+      "detail": "Unexpired term ending January 1, 2029",
+      "candidates": [
+        {
+          "name": "Seth Evans",
+          "party": "Nonparty"
+        },
+        {
+          "name": "Greg R. Kaffenbarger",
+          "party": "REP"
+        }
+      ],
+      "sources": [
+        "clark-46day"
+      ]
+    },
+    {
+      "id": "auditor",
+      "group": "County offices",
+      "office": "County Auditor",
+      "candidates": [
+        {
+          "name": "Hillary Hamilton",
+          "party": "REP"
+        }
+      ],
+      "sources": [
+        "clark-46day"
+      ]
+    },
+    {
+      "id": "recorder",
+      "group": "County offices",
+      "office": "County Recorder",
+      "detail": "Unexpired term ending December 31, 2028",
+      "candidates": [
+        {
+          "name": "Bonnie Sakaitis",
+          "party": "REP"
+        }
+      ],
+      "sources": [
+        "clark-46day"
+      ]
+    },
+    {
+      "id": "coroner",
+      "group": "County offices",
+      "office": "County Coroner",
+      "detail": "Unexpired term ending December 31, 2028",
+      "candidates": [
+        {
+          "name": "Aamir Khan",
+          "party": "DEM"
+        },
+        {
+          "name": "Joel Macy",
+          "party": "REP"
+        }
+      ],
+      "sources": [
+        "clark-46day"
+      ]
+    },
+    {
+      "id": "cp-probate",
+      "group": "Court of Common Pleas",
+      "office": "Judge of the Court of Common Pleas, Probate Division",
+      "detail": "No party label on the ballot",
+      "candidates": [
+        {
+          "name": "Richard P. Carey"
+        }
+      ],
+      "sources": [
+        "clark-46day"
+      ]
+    }
+  ],
+  "issues": [
+    {
+      "id": "harmony-ems-69816",
+      "kind": "levy",
+      "jurisdiction": "Harmony Township (including the Village of South Vienna)",
+      "title": "Tax levy (renewal): Ambulance service and emergency medical services",
+      "area": "Harmony Township and South Vienna Village (Harm 1 and Harm 2)",
+      "places": [
+        "Harmony Township",
+        "South Vienna Village"
+      ],
+      "levy": {
+        "type": "Renewal",
+        "purpose": "Ambulance service and emergency medical services.",
+        "mills": "1 mill",
+        "term": "5 years, commencing in 2027",
+        "firstDue": "2028",
+        "estimate": "$69,816 a year; $35 for each $100,000 of appraised value"
+      },
+      "sources": [
+        "clark-46day"
+      ]
+    },
+    {
+      "id": "harmony-ems-73201",
+      "kind": "levy",
+      "jurisdiction": "Harmony Township (including the Village of South Vienna)",
+      "title": "Tax levy (renewal): Ambulance service and emergency medical services",
+      "area": "Harmony Township and South Vienna Village (Harm 1 and Harm 2)",
+      "places": [
+        "Harmony Township",
+        "South Vienna Village"
+      ],
+      "levy": {
+        "type": "Renewal",
+        "purpose": "Ambulance service and emergency medical services.",
+        "mills": "1 mill",
+        "term": "5 years, commencing in 2027",
+        "firstDue": "2028",
+        "estimate": "$73,201 a year; $35 for each $100,000 of appraised value"
+      },
+      "note": "Harmony Township has two 1-mill ambulance/EMS renewals on this ballot.",
+      "sources": [
+        "clark-46day"
+      ]
+    },
+    {
+      "id": "green-ems",
+      "kind": "levy",
+      "jurisdiction": "Green Township (including the Village of Clifton)",
+      "title": "Tax levy (additional): Ambulance service, emergency medical service, or both",
+      "area": "Green Township and Clifton Village, Clark County part (Green 1 and 2)",
+      "places": [
+        "Clifton Village",
+        "Green Township"
+      ],
+      "levy": {
+        "type": "Additional",
+        "purpose": "Ambulance service, emergency medical service, or both.",
+        "mills": "1.5 mills",
+        "term": "5 years, commencing in 2026",
+        "firstDue": "2027",
+        "estimate": "$204,302 a year; $53 for each $100,000 of market value"
+      },
+      "sources": [
+        "clark-46day"
+      ]
+    },
+    {
+      "id": "springfield-twp-police",
+      "kind": "levy",
+      "jurisdiction": "Springfield Township",
+      "title": "Tax levy (additional): Police protection",
+      "area": "Springfield Township (T-1 to T-8), plus Springfield City 1 (split 2) and 26 (splits 2 and 3)",
+      "places": [
+        "Springfield City",
+        "Springfield Township"
+      ],
+      "levy": {
+        "type": "Additional",
+        "purpose": "Police protection.",
+        "mills": "0.5 mill",
+        "term": "5 years, commencing in 2026",
+        "firstDue": "2027",
+        "estimate": "$245,685 a year; $18 for each $100,000 of market value"
+      },
+      "sources": [
+        "clark-46day"
+      ]
+    },
+    {
+      "id": "clark-shawnee-lsd-tax",
+      "kind": "question",
+      "jurisdiction": "Clark-Shawnee Local School District",
+      "title": "School district income tax: 0.5% on earned income for 5 years, for current expenses",
+      "area": "Clark-Shawnee Local School District (Springfield City parts, Bethel 6 split 3, Springfield Township)",
+      "places": [
+        "Bethel Township",
+        "Springfield City",
+        "Springfield Township"
+      ],
+      "text": "Annual income tax of 0.5% on the earned income of individuals residing in the school district, for 5 years, beginning January 1, 2027, for current expenses.",
+      "sources": [
+        "clark-46day"
+      ]
+    },
+    {
+      "id": "southeastern-lsd-tax",
+      "kind": "question",
+      "jurisdiction": "Southeastern Local School District (Clark and Greene)",
+      "title": "School district income tax: 0.5% for 5 years, for current expenses",
+      "area": "Southeastern Local School District (Gree 2 split 1, Harm 1 split 2, Harm 2 split 3, Chas, Chas Twp)",
+      "places": [
+        "Green Township",
+        "Harmony Township",
+        "Madison Township",
+        "South Charleston Village"
+      ],
+      "text": "Proposed income tax of 0.50% on the school district income of individuals, for 5 years, beginning January 1, 2027, for current expenses.",
+      "sources": [
+        "clark-46day"
+      ]
+    },
+    {
+      "id": "bethel-police",
+      "kind": "levy",
+      "jurisdiction": "Bethel Township (unincorporated area)",
+      "title": "Tax levy (renewal): Police protection, including ambulance or emergency medical services operated by a police department",
+      "area": "Bethel Township unincorporated area (Beth 1–4, Beth 5 split 1, Beth 6)",
+      "places": [
+        "Bethel Township"
+      ],
+      "levy": {
+        "type": "Renewal",
+        "purpose": "Police protection, including ambulance or emergency medical services operated by a police department.",
+        "mills": "1.75 mills",
+        "term": "5 years, commencing in 2027",
+        "firstDue": "2028",
+        "estimate": "$398,541 a year; $61 for each $100,000 of market value"
+      },
+      "sources": [
+        "clark-46day"
+      ]
+    },
+    {
+      "id": "bethel-fire-370217",
+      "kind": "levy",
+      "jurisdiction": "Bethel Township (unincorporated area, including the Village of Donnelsville)",
+      "title": "Tax levy (renewal): Fire protection and ambulance, paramedic or other emergency medical services",
+      "area": "Bethel Township and Donnelsville Village (Beth 1–6)",
+      "places": [
+        "Bethel Township",
+        "Donnelsville Village"
+      ],
+      "levy": {
+        "type": "Renewal",
+        "purpose": "Fire protection and ambulance, paramedic or other emergency medical services.",
+        "mills": "2 mills",
+        "term": "5 years, commencing in 2027",
+        "firstDue": "2028",
+        "estimate": "$370,217 a year; $70 for each $100,000 of appraised value"
+      },
+      "note": "Bethel Township has three 2-mill fire renewals on this ballot.",
+      "sources": [
+        "clark-46day"
+      ]
+    },
+    {
+      "id": "bethel-fire-415580",
+      "kind": "levy",
+      "jurisdiction": "Bethel Township (unincorporated area, including the Village of Donnelsville)",
+      "title": "Tax levy (renewal): Fire protection and ambulance, paramedic or other emergency medical services",
+      "area": "Bethel Township and Donnelsville Village (Beth 1–6)",
+      "places": [
+        "Bethel Township",
+        "Donnelsville Village"
+      ],
+      "levy": {
+        "type": "Renewal",
+        "purpose": "Fire protection and ambulance, paramedic or other emergency medical services.",
+        "mills": "2 mills",
+        "term": "5 years, commencing in 2027",
+        "firstDue": "2028",
+        "estimate": "$415,580 a year; $70 for each $100,000 of market value"
+      },
+      "note": "Bethel Township has three 2-mill fire renewals on this ballot.",
+      "sources": [
+        "clark-46day"
+      ]
+    },
+    {
+      "id": "bethel-fire-219729",
+      "kind": "levy",
+      "jurisdiction": "Bethel Township (unincorporated area, including the Village of Donnelsville)",
+      "title": "Tax levy (renewal): Fire protection and ambulance, paramedic or other emergency medical services",
+      "area": "Bethel Township and Donnelsville Village (Beth 1–6)",
+      "places": [
+        "Bethel Township",
+        "Donnelsville Village"
+      ],
+      "levy": {
+        "type": "Renewal",
+        "purpose": "Fire protection and ambulance, paramedic or other emergency medical services.",
+        "mills": "2 mills",
+        "term": "5 years, commencing in 2027",
+        "firstDue": "2028",
+        "estimate": "$219,729 a year; $70 for each $100,000 of market value"
+      },
+      "note": "Bethel Township has three 2-mill fire renewals on this ballot.",
+      "sources": [
+        "clark-46day"
+      ]
+    },
+    {
+      "id": "donnelsville-current",
+      "kind": "levy",
+      "jurisdiction": "Village of Donnelsville",
+      "title": "Tax levy (renewal): Current operating expenses",
+      "area": "Donnelsville Village (Beth 5 split 2)",
+      "places": [
+        "Donnelsville Village"
+      ],
+      "levy": {
+        "type": "Renewal",
+        "purpose": "Current operating expenses.",
+        "mills": "7 mills",
+        "term": "5 years, commencing in 2027",
+        "firstDue": "2028",
+        "estimate": "$28,661 a year; $245 for each $100,000 of market value"
+      },
+      "sources": [
+        "clark-46day"
+      ]
+    },
+    {
+      "id": "south-charleston-income-tax",
+      "kind": "question",
+      "jurisdiction": "Village of South Charleston",
+      "title": "Municipal income tax: 0.25% renewal for 9 years, for streets and public highways",
+      "area": "South Charleston Village (Chas 1)",
+      "places": [
+        "South Charleston Village"
+      ],
+      "text": "Continue an existing 0.25% levy on income for 9 years, commencing January 1, 2027, for the care, supervision and control of public highways, streets, avenues, alleys, sidewalks, public grounds, bridges, aqueducts and viaducts within the Village of South Charleston.",
+      "sources": [
+        "clark-46day"
+      ]
+    },
+    {
+      "id": "new-carlisle-income-tax",
+      "kind": "question",
+      "jurisdiction": "City of New Carlisle",
+      "title": "Municipal income tax: additional 0.5% for fire and emergency medical services",
+      "area": "New Carlisle City (Carl 1–5)",
+      "places": [
+        "New Carlisle City"
+      ],
+      "text": "Ordinance providing for a 0.5% levy on income for fire and emergency medical services.",
+      "sources": [
+        "clark-46day"
+      ]
+    },
+    {
+      "id": "northwestern-lsd-pi",
+      "kind": "levy",
+      "jurisdiction": "Northwestern Local School District",
+      "title": "Tax levy (renewal): Permanent improvements",
+      "area": "Northwestern Local School District (Germ 1–5, Mfld 4 split 2, Pike 1 split 1, Pike 2)",
+      "places": [
+        "German Township",
+        "Moorefield Township",
+        "North Hampton Village",
+        "Pike Township",
+        "Springfield City",
+        "Tremont City Village"
+      ],
+      "levy": {
+        "type": "Renewal",
+        "purpose": "Permanent improvements.",
+        "mills": "1 mill",
+        "term": "5 years, commencing in 2026",
+        "firstDue": "2027",
+        "estimate": "$225,394 a year; $35 for each $100,000 of market value"
+      },
+      "sources": [
+        "clark-46day"
+      ]
+    },
+    {
+      "id": "northwestern-lsd-current",
+      "kind": "levy",
+      "jurisdiction": "Northwestern Local School District",
+      "title": "Tax levy (renewal): Current operating expenses (fixed sum of $1,756,160)",
+      "area": "Northwestern Local School District (Germ 1–5, Mfld 4 split 2, Pike 1 split 1, Pike 2)",
+      "places": [
+        "German Township",
+        "Moorefield Township",
+        "North Hampton Village",
+        "Pike Township",
+        "Springfield City",
+        "Tremont City Village"
+      ],
+      "levy": {
+        "type": "Renewal",
+        "purpose": "Current operating expenses (fixed sum of $1,756,160).",
+        "mills": "4.32 mills (estimated average)",
+        "term": "5 years, commencing in 2026",
+        "firstDue": "2027",
+        "estimate": "$151 for each $100,000 of market value"
+      },
+      "sources": [
+        "clark-46day"
+      ]
+    },
+    {
+      "id": "german-police",
+      "kind": "levy",
+      "jurisdiction": "German Township (excluding the Village of Tremont City)",
+      "title": "Tax levy (additional): Police protection, including ambulance or emergency medical services operated by a police department",
+      "area": "German Township unincorporated area (Germ 1–4, Germ 5 split 1)",
+      "places": [
+        "German Township"
+      ],
+      "levy": {
+        "type": "Additional",
+        "purpose": "Police protection, including ambulance or emergency medical services operated by a police department.",
+        "mills": "1 mill",
+        "term": "5 years, commencing in 2026",
+        "firstDue": "2027",
+        "estimate": "$133,459 a year; $35 for each $100,000 of market value"
+      },
+      "sources": [
+        "clark-46day"
+      ]
+    },
+    {
+      "id": "pleasant-ems",
+      "kind": "levy",
+      "jurisdiction": "Pleasant Township (including the Village of Catawba)",
+      "title": "Tax levy (renewal): Ambulance or emergency medical services operated by a fire department or firefighting company",
+      "area": "Pleasant Township and Catawba Village (Ples 1 and 2)",
+      "places": [
+        "Catawba Village",
+        "Pleasant Township"
+      ],
+      "levy": {
+        "type": "Renewal",
+        "purpose": "Ambulance or emergency medical services operated by a fire department or firefighting company.",
+        "mills": "1.8 mills",
+        "term": "5 years, commencing in 2027",
+        "firstDue": "2028",
+        "estimate": "$93,774 a year; $63 for each $100,000 of market value"
+      },
+      "sources": [
+        "clark-46day"
+      ]
+    },
+    {
+      "id": "tecumseh-lsd-current",
+      "kind": "levy",
+      "jurisdiction": "Tecumseh Local School District",
+      "title": "Tax levy (renewal): Current operating expenses (fixed sum of $712,000)",
+      "area": "Tecumseh Local School District (Carl 1–5, Beth 1–5, Beth 6 splits 1 and 2, Pike 1 split 2)",
+      "places": [
+        "Bethel Township",
+        "Donnelsville Village",
+        "New Carlisle City",
+        "Pike Township"
+      ],
+      "levy": {
+        "type": "Renewal",
+        "purpose": "Current operating expenses (fixed sum of $712,000).",
+        "mills": "1.31 mills (estimated average)",
+        "term": "5 years, commencing in 2027",
+        "firstDue": "2028",
+        "estimate": "$46 for each $100,000 of market value"
+      },
+      "sources": [
+        "clark-46day"
+      ]
+    },
+    {
+      "id": "springfield-gas-aggregation",
+      "kind": "question",
+      "jurisdiction": "City of Springfield",
+      "title": "Natural gas aggregation (opt-out)",
+      "area": "Springfield City 1–27, plus T-5 split 2, T-7 split 2 and T-8 split 2",
+      "places": [
+        "Springfield City"
+      ],
+      "text": "Authority to aggregate the retail natural gas loads in the City of Springfield and enter into service agreements for the sale and purchase of natural gas, with aggregation occurring automatically except where a person elects to opt out.",
+      "sources": [
+        "clark-46day"
+      ]
+    },
+    {
+      "id": "health-district",
+      "kind": "levy",
+      "jurisdiction": "Clark County Combined Health District (excluding the City of New Carlisle)",
+      "title": "Tax levy (renewal): Health district programs",
+      "area": "All of Clark County except New Carlisle (Carl 1–5)",
+      "places": [
+        "Bethel Township",
+        "Catawba Village",
+        "Clifton Village",
+        "Donnelsville Village",
+        "Enon Village",
+        "German Township",
+        "Green Township",
+        "Harmony Township",
+        "Mad River Township",
+        "Madison Township",
+        "Moorefield Township",
+        "North Hampton Village",
+        "Pike Township",
+        "Pleasant Township",
+        "South Charleston Village",
+        "South Vienna Village",
+        "Springfield City",
+        "Springfield Township",
+        "Tremont City Village"
+      ],
+      "levy": {
+        "type": "Renewal",
+        "purpose": "Health district programs.",
+        "mills": "1 mill",
+        "term": "5 years, commencing in 2027",
+        "firstDue": "2028",
+        "estimate": "$2,663,976 a year; $35 for each $100,000 of appraised value"
+      },
+      "sources": [
+        "clark-46day"
+      ]
+    },
+    {
+      "id": "liquor-youngs-jersey-dairy",
+      "kind": "liquor",
+      "jurisdiction": "Mad River Township",
+      "title": "Local liquor option: Young's Jersey Dairy (Sunday)",
+      "area": "Mad River Township precinct MR-5",
+      "places": [
+        "Mad River Township"
+      ],
+      "text": "Sunday sale of wine and mixed beverages and spirituous liquor by Youngs Jersey Dairy, Inc., dba Young's Jersey Dairy, a D-6 permit applicant (restaurant/entertainment venue), 6880 Springfield Xenia Road.",
+      "sources": [
+        "clark-46day"
+      ]
+    },
+    {
+      "id": "liquor-silver-swan",
+      "kind": "liquor",
+      "jurisdiction": "Springfield Township",
+      "title": "Local liquor option: Silver Swan Marathon (Sunday)",
+      "area": "Springfield Township precinct T-8",
+      "places": [
+        "Springfield Township"
+      ],
+      "text": "Sunday sale of wine and mixed beverages by Springfield Fuel Center, Inc., dba Silver Swan Marathon, a D-6 permit applicant (carryout/grocery store), 3880 E. National Road.",
+      "sources": [
+        "clark-46day"
+      ]
+    },
+    {
+      "id": "liquor-new-enon-brewing",
+      "kind": "liquor",
+      "jurisdiction": "Village of Enon",
+      "title": "Local liquor option: New Enon Brewing (Sunday)",
+      "area": "Enon precinct ENON 2",
+      "places": [
+        "Enon Village"
+      ],
+      "text": "Sunday sale of beer, wine and spirituous liquor by New Enon Brewing LLC, a D-6 permit applicant (brewery and winery with a taproom), 160 N. Xenia Dr., Enon.",
+      "sources": [
+        "clark-46day"
+      ]
+    },
+    {
+      "id": "liquor-food-fusion",
+      "kind": "liquor",
+      "jurisdiction": "City of Springfield",
+      "title": "Local liquor option: Food Fusion Restaurant (Sunday)",
+      "area": "Springfield precinct CITY 12",
+      "places": [
+        "Springfield City"
+      ],
+      "text": "Sunday sale of wine, mixed beverages and spirituous liquor by Food Fusion Restaurant, a D-6 permit applicant (full-service restaurant), 1805 W. First St.",
+      "sources": [
+        "clark-46day"
+      ]
+    },
+    {
+      "id": "liquor-new-carlisle-carl1-beer",
+      "kind": "liquor",
+      "jurisdiction": "City of New Carlisle",
+      "title": "Local liquor option: beer",
+      "area": "New Carlisle precinct CARL 1 (028)",
+      "places": [
+        "New Carlisle City"
+      ],
+      "text": "Sale of beer under permits for on-premises consumption only, and for both on-premises and off-premises consumption.",
+      "sources": [
+        "clark-46day"
+      ]
+    },
+    {
+      "id": "liquor-new-carlisle-carl1-liquor-glass",
+      "kind": "liquor",
+      "jurisdiction": "City of New Carlisle",
+      "title": "Local liquor option: spirituous liquor by the glass",
+      "area": "New Carlisle precinct CARL 1 (028)",
+      "places": [
+        "New Carlisle City"
+      ],
+      "text": "Sale of spirituous liquor by the glass.",
+      "sources": [
+        "clark-46day"
+      ]
+    },
+    {
+      "id": "liquor-new-carlisle-carl1-wine",
+      "kind": "liquor",
+      "jurisdiction": "City of New Carlisle",
+      "title": "Local liquor option: wine and mixed beverages",
+      "area": "New Carlisle precinct CARL 1 (028)",
+      "places": [
+        "New Carlisle City"
+      ],
+      "text": "Sale of wine and mixed beverages under permits for on-premise consumption only, and for both on-premise and off-premise consumption.",
+      "sources": [
+        "clark-46day"
+      ]
+    },
+    {
+      "id": "liquor-new-carlisle-carl1-sunday",
+      "kind": "liquor",
+      "jurisdiction": "City of New Carlisle",
+      "title": "Local liquor option: Sunday on-premises sales",
+      "area": "New Carlisle precinct CARL 1 (028)",
+      "places": [
+        "New Carlisle City"
+      ],
+      "text": "Sunday sale of intoxicating liquor, of the same types legally sold in the precinct on other days, for consumption on the premises where sold.",
+      "sources": [
+        "clark-46day"
+      ]
+    },
+    {
+      "id": "liquor-new-carlisle-carl4-beer",
+      "kind": "liquor",
+      "jurisdiction": "City of New Carlisle",
+      "title": "Local liquor option: beer",
+      "area": "New Carlisle precinct CARL 4 (031)",
+      "places": [
+        "New Carlisle City"
+      ],
+      "text": "Sale of beer under permits for on-premises consumption only, and for both on-premises and off-premises consumption.",
+      "sources": [
+        "clark-46day"
+      ]
+    },
+    {
+      "id": "liquor-new-carlisle-carl4-liquor-glass",
+      "kind": "liquor",
+      "jurisdiction": "City of New Carlisle",
+      "title": "Local liquor option: spirituous liquor by the glass",
+      "area": "New Carlisle precinct CARL 4 (031)",
+      "places": [
+        "New Carlisle City"
+      ],
+      "text": "Sale of spirituous liquor by the glass.",
+      "sources": [
+        "clark-46day"
+      ]
+    },
+    {
+      "id": "liquor-new-carlisle-carl4-wine",
+      "kind": "liquor",
+      "jurisdiction": "City of New Carlisle",
+      "title": "Local liquor option: wine and mixed beverages",
+      "area": "New Carlisle precinct CARL 4 (031)",
+      "places": [
+        "New Carlisle City"
+      ],
+      "text": "Sale of wine and mixed beverages under permits for on-premise consumption only, and for both on-premise and off-premise consumption.",
+      "sources": [
+        "clark-46day"
+      ]
+    },
+    {
+      "id": "liquor-new-carlisle-carl4-sunday",
+      "kind": "liquor",
+      "jurisdiction": "City of New Carlisle",
+      "title": "Local liquor option: Sunday on-premises sales",
+      "area": "New Carlisle precinct CARL 4 (031)",
+      "places": [
+        "New Carlisle City"
+      ],
+      "text": "Sunday sale of intoxicating liquor, of the same types legally sold in the precinct on other days, for consumption on the premises where sold.",
+      "sources": [
+        "clark-46day"
+      ]
+    },
+    {
+      "id": "liquor-new-carlisle-carl5-beer",
+      "kind": "liquor",
+      "jurisdiction": "City of New Carlisle",
+      "title": "Local liquor option: beer",
+      "area": "New Carlisle precinct CARL 5 (032)",
+      "places": [
+        "New Carlisle City"
+      ],
+      "text": "Sale of beer under permits for on-premises consumption only, and for both on-premises and off-premises consumption.",
+      "sources": [
+        "clark-46day"
+      ]
+    },
+    {
+      "id": "liquor-new-carlisle-carl5-liquor-glass",
+      "kind": "liquor",
+      "jurisdiction": "City of New Carlisle",
+      "title": "Local liquor option: spirituous liquor by the glass",
+      "area": "New Carlisle precinct CARL 5 (032)",
+      "places": [
+        "New Carlisle City"
+      ],
+      "text": "Sale of spirituous liquor by the glass.",
+      "sources": [
+        "clark-46day"
+      ]
+    },
+    {
+      "id": "liquor-new-carlisle-carl5-wine",
+      "kind": "liquor",
+      "jurisdiction": "City of New Carlisle",
+      "title": "Local liquor option: wine and mixed beverages",
+      "area": "New Carlisle precinct CARL 5 (032)",
+      "places": [
+        "New Carlisle City"
+      ],
+      "text": "Sale of wine and mixed beverages under permits for on-premise consumption only, and for both on-premise and off-premise consumption.",
+      "sources": [
+        "clark-46day"
+      ]
+    },
+    {
+      "id": "liquor-new-carlisle-carl5-sunday",
+      "kind": "liquor",
+      "jurisdiction": "City of New Carlisle",
+      "title": "Local liquor option: Sunday on-premises sales",
+      "area": "New Carlisle precinct CARL 5 (032)",
+      "places": [
+        "New Carlisle City"
+      ],
+      "text": "Sunday sale of intoxicating liquor, of the same types legally sold in the precinct on other days, for consumption on the premises where sold.",
+      "sources": [
+        "clark-46day"
+      ]
+    }
+  ]
+}

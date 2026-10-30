@@ -81,3 +81,21 @@ Data notes:
 - Delaware: the notice names precincts by number; they match the Board's precinct names in alphabetical order (checked against the voter file). Township levies that reach into a city or village (Berlin, Concord, Orange) include that place, with the exact precincts in the area text.
 - Licking: Heath is added to House 68 by hand (the notice lists a Heath precinct the voter file puts elsewhere). Obvious typos in the Board's issue wording are corrected.
 
+# Oct 30, 2026 (Fairfield, Clark, Wood, Richland, Wayne)
+
+- Full ballots for Fairfield, Clark, Wood, Richland and Wayne (26 counties with local data now, plus Trumbull's original), each from the Board's 46-day FWAB notice:
+  - Fairfield: 8 contests, 14 issues, checked against the certified candidates and issues list.
+  - Clark: 11 contests, 36 issues (12 New Carlisle liquor options). The notice is the Board's only posted ballot document.
+  - Wood: 10 contests, 24 issues, checked against the certified candidate list and Q&I list. The notice is a scanned PDF (read with OCR); its numeric precinct codes were matched to names using the Board's May 2026 precinct results.
+  - Richland: 9 contests, 30 issues. The notice is the only Board document readable without the lookup search form.
+  - Wayne: 11 contests, 42 issues, checked against the Board's 256-page all-precinct sample ballots. Includes the Doylestown and Chippewa Township merger questions and their merger-commission elections (vote for up to 5; new "Township offices" group).
+
+Data notes:
+- None of the five print local issue numbers (Wayne numbers only State Issue 3); issues have descriptive ids and the sample-ballot note.
+- Shared issues reuse the neighbouring county's ids and wording: Fairfield's Pickerington LSD/library and Columbus Issues 8–9 (Franklin) and Southwest Licking/Pataskala library/Buckeye Lake (Licking); Clark's Southeastern LSD income tax (Greene); Wayne's Rittman charter amendments (Medina), Norton charter amendments (Summit), Wayne JVSD (Stark) and Canaan fire (Medina).
+- Rittman amendment #8 (Section 6.05): Medina's notice says the Law Director must be an "attorney-in-fact", Wayne's says "attorney-at-law"; each county's file follows its own Board.
+- Wood's voter file splits townships into precinct pieces (Lake Twp East/Latcha/North/Union, Perrysburg Twp Belmont/…/PRBG Fallen Timbers, Portage West, …); each is renamed to its township. Where the notice's congressional and House precinct lists disagree with the voter file, the voter file is used. Herringshaw withdrew from the commissioner race (Ryan E. Lee is the Republican).
+- Wayne: the SoS file's "FREDERICKTOWN VILLAGE" is Fredericksburg. Burbank has two identical 3-mill current-expense renewals; both are on the ballot.
+- Clark: Harmony Township's two 1-mill EMS renewals and Bethel Township's three 2-mill fire renewals differ only in the amount collected; each is noted. The probate judge's term start isn't in the notice and is left off.
+- Richland: Galion's two council-term questions apply to its small Richland piece (precinct Sandusky split 3) and are shown under Sandusky Township. The Village of Lucas income tax prints "commencing 1/1/2026", kept as printed.
+

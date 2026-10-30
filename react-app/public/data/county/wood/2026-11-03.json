@@ -1,0 +1,933 @@
+{
+  "scope": "county",
+  "county": "Wood",
+  "fips": "39173",
+  "election": "2026-11-03",
+  "retrieved": "2026-10-30",
+  "notes": [
+    "Taken from the Board of Elections' 46-day election notice, which lists every contest and issue with the precincts that vote on it, checked against the Board's certified candidate list and questions and issues list. Issue wording is the Board's summary; the full wording is on the sample ballot.",
+    "Candidates are listed alphabetically by last name, not in ballot order: Ohio rotates the order of names from precinct to precinct. Certified write-in candidates are not printed on the ballot and are not listed.",
+    "\"Where you live\" uses the state voter file: a district or school levy is shown for a city, village or township when any of its voters live in that district. Your exact ballot depends on your precinct.",
+    "The Board's notice and issues list do not give local issue numbers; see your sample ballot for them."
+  ],
+  "places": [
+    "Bairdstown Village",
+    "Bloom Township",
+    "Bloomdale Village",
+    "Bowling Green City",
+    "Bradner Village",
+    "Center Township",
+    "Custar Village",
+    "Cygnet Village",
+    "Fostoria City",
+    "Freedom Township",
+    "Grand Rapids Township",
+    "Grand Rapids Village",
+    "Haskins Village",
+    "Henry Township",
+    "Hoytville Village",
+    "Jackson Township",
+    "Jerry City Village",
+    "Lake Township",
+    "Liberty Township",
+    "Luckey Village",
+    "Middleton Township",
+    "Millbury Village",
+    "Milton Township",
+    "Montgomery Township",
+    "North Baltimore Village",
+    "Northwood City",
+    "Pemberville Village",
+    "Perry Township",
+    "Perrysburg City",
+    "Perrysburg Township",
+    "Plain Township",
+    "Portage Township",
+    "Portage Village",
+    "Risingsun Village",
+    "Rossford City",
+    "Tontogany Village",
+    "Troy Township",
+    "Walbridge Village",
+    "Washington Township",
+    "Wayne Village",
+    "Webster Township",
+    "West Millgrove Village",
+    "West Milton Village",
+    "Weston Township",
+    "Weston Village"
+  ],
+  "sources": {
+    "wood-46day": {
+      "label": "Wood County Board of Elections: 46-day election notice (FWAB), November 3, 2026 General Election (September 18, 2026)",
+      "url": "https://boe.woodcountyohio.gov/DocumentCenter/View/1022/46-Day-Notice"
+    },
+    "wood-cand": {
+      "label": "Wood County Board of Elections: certified candidate list, November 3, 2026 General Election (certified 8/26/2026)",
+      "url": "https://boe.woodcountyohio.gov/DocumentCenter/View/1006/Candidate-List"
+    },
+    "wood-issues": {
+      "label": "Wood County Board of Elections: certified questions and issues list, November 3, 2026 General Election (September 3, 2026)",
+      "url": "https://boe.woodcountyohio.gov/DocumentCenter/View/1005/Q-and-I-List"
+    }
+  },
+  "links": [
+    {
+      "label": "Board of Elections",
+      "url": "https://boe.woodcountyohio.gov/"
+    },
+    {
+      "label": "Am I registered? / What's on my ballot? / Where do I vote?",
+      "url": "https://votertools.woodcountyohio.gov/TEDElectionLink/VoterServices/launchpad"
+    }
+  ],
+  "results": {
+    "status": "upcoming",
+    "links": [
+      {
+        "label": "Board of Elections: election results",
+        "url": "https://boe.woodcountyohio.gov/174/Election-Results"
+      }
+    ]
+  },
+  "contests": [
+    {
+      "id": "congress-5",
+      "group": "U.S. House",
+      "office": "Representative to Congress",
+      "detail": "5th District",
+      "area": "Bairdstown Village, Bloom Township, Bloomdale Village, Bowling Green City, Bradner Village, Center Township, Custar Village, Cygnet Village, Fostoria City, Freedom Township, Grand Rapids Township, Grand Rapids Village, Haskins Village, Henry Township, Hoytville Village, Jackson Township, Jerry City Village, Lake Township, Liberty Township, Luckey Village, Middleton Township, Millbury Village, Milton Township, Montgomery Township, North Baltimore Village, Pemberville Village, Perry Township, Perrysburg City, Perrysburg Township, Plain Township, Portage Township, Portage Village, Risingsun Village, Tontogany Village, Troy Township, Walbridge Village, Washington Township, Wayne Village, Webster Township, West Millgrove Village, West Milton Village, Weston Township, Weston Village",
+      "places": [
+        "Bairdstown Village",
+        "Bloom Township",
+        "Bloomdale Village",
+        "Bowling Green City",
+        "Bradner Village",
+        "Center Township",
+        "Custar Village",
+        "Cygnet Village",
+        "Fostoria City",
+        "Freedom Township",
+        "Grand Rapids Township",
+        "Grand Rapids Village",
+        "Haskins Village",
+        "Henry Township",
+        "Hoytville Village",
+        "Jackson Township",
+        "Jerry City Village",
+        "Lake Township",
+        "Liberty Township",
+        "Luckey Village",
+        "Middleton Township",
+        "Millbury Village",
+        "Milton Township",
+        "Montgomery Township",
+        "North Baltimore Village",
+        "Pemberville Village",
+        "Perry Township",
+        "Perrysburg City",
+        "Perrysburg Township",
+        "Plain Township",
+        "Portage Township",
+        "Portage Village",
+        "Risingsun Village",
+        "Tontogany Village",
+        "Troy Township",
+        "Walbridge Village",
+        "Washington Township",
+        "Wayne Village",
+        "Webster Township",
+        "West Millgrove Village",
+        "West Milton Village",
+        "Weston Township",
+        "Weston Village"
+      ],
+      "candidates": [
+        {
+          "name": "Bob Latta",
+          "party": "REP"
+        },
+        {
+          "name": "Brian A. Shaver",
+          "party": "DEM"
+        },
+        {
+          "name": "Michael J. Veloff",
+          "party": "LIB"
+        }
+      ],
+      "sources": [
+        "wood-46day",
+        "wood-cand"
+      ]
+    },
+    {
+      "id": "congress-9",
+      "group": "U.S. House",
+      "office": "Representative to Congress",
+      "detail": "9th District",
+      "area": "Middleton Township, Northwood City, Perrysburg City, Perrysburg Township, Rossford City",
+      "places": [
+        "Middleton Township",
+        "Northwood City",
+        "Perrysburg City",
+        "Perrysburg Township",
+        "Rossford City"
+      ],
+      "candidates": [
+        {
+          "name": "Marcy Kaptur",
+          "party": "DEM"
+        },
+        {
+          "name": "Derek Merrin",
+          "party": "REP"
+        }
+      ],
+      "sources": [
+        "wood-46day",
+        "wood-cand"
+      ]
+    },
+    {
+      "id": "rep-44",
+      "group": "Ohio General Assembly",
+      "office": "State Representative",
+      "detail": "44th District (also in Lucas County)",
+      "area": "Northwood City, Perrysburg Township, Rossford City",
+      "places": [
+        "Northwood City",
+        "Perrysburg Township",
+        "Rossford City"
+      ],
+      "candidates": [
+        {
+          "name": "David J. Fournier",
+          "party": "DEM"
+        },
+        {
+          "name": "Edward L. Schimmel",
+          "party": "REP"
+        },
+        {
+          "name": "Lyndsey A. Stough",
+          "party": "Nonparty"
+        }
+      ],
+      "sources": [
+        "wood-46day",
+        "wood-cand"
+      ]
+    },
+    {
+      "id": "rep-75",
+      "group": "Ohio General Assembly",
+      "office": "State Representative",
+      "detail": "75th District",
+      "area": "Bairdstown Village, Bloom Township, Bloomdale Village, Bowling Green City, Bradner Village, Center Township, Custar Village, Cygnet Village, Fostoria City, Freedom Township, Grand Rapids Township, Grand Rapids Village, Haskins Village, Henry Township, Hoytville Village, Jackson Township, Jerry City Village, Lake Township, Liberty Township, Luckey Village, Middleton Township, Millbury Village, Milton Township, Montgomery Township, North Baltimore Village, Pemberville Village, Perry Township, Perrysburg City, Perrysburg Township, Plain Township, Portage Township, Portage Village, Risingsun Village, Tontogany Village, Troy Township, Walbridge Village, Washington Township, Wayne Village, Webster Township, West Millgrove Village, West Milton Village, Weston Township, Weston Village",
+      "places": [
+        "Bairdstown Village",
+        "Bloom Township",
+        "Bloomdale Village",
+        "Bowling Green City",
+        "Bradner Village",
+        "Center Township",
+        "Custar Village",
+        "Cygnet Village",
+        "Fostoria City",
+        "Freedom Township",
+        "Grand Rapids Township",
+        "Grand Rapids Village",
+        "Haskins Village",
+        "Henry Township",
+        "Hoytville Village",
+        "Jackson Township",
+        "Jerry City Village",
+        "Lake Township",
+        "Liberty Township",
+        "Luckey Village",
+        "Middleton Township",
+        "Millbury Village",
+        "Milton Township",
+        "Montgomery Township",
+        "North Baltimore Village",
+        "Pemberville Village",
+        "Perry Township",
+        "Perrysburg City",
+        "Perrysburg Township",
+        "Plain Township",
+        "Portage Township",
+        "Portage Village",
+        "Risingsun Village",
+        "Tontogany Village",
+        "Troy Township",
+        "Walbridge Village",
+        "Washington Township",
+        "Wayne Village",
+        "Webster Township",
+        "West Millgrove Village",
+        "West Milton Village",
+        "Weston Township",
+        "Weston Village"
+      ],
+      "candidates": [
+        {
+          "name": "Haraz N. Ghanbari",
+          "party": "REP"
+        },
+        {
+          "name": "Richard J. Rettig",
+          "party": "DEM"
+        }
+      ],
+      "sources": [
+        "wood-46day",
+        "wood-cand"
+      ]
+    },
+    {
+      "id": "appeals-6-0209",
+      "group": "Ohio Court of Appeals",
+      "office": "Judge of the Court of Appeals",
+      "detail": "6th District · full term commencing February 9, 2027",
+      "candidates": [
+        {
+          "name": "Michael R. Goulding",
+          "party": "REP"
+        }
+      ],
+      "sources": [
+        "wood-46day",
+        "wood-cand"
+      ]
+    },
+    {
+      "id": "appeals-6-0210",
+      "group": "Ohio Court of Appeals",
+      "office": "Judge of the Court of Appeals",
+      "detail": "6th District · full term commencing February 10, 2027",
+      "candidates": [
+        {
+          "name": "Myron C. Duhart",
+          "party": "DEM"
+        },
+        {
+          "name": "CJ Kamm",
+          "party": "REP"
+        }
+      ],
+      "sources": [
+        "wood-46day",
+        "wood-cand"
+      ]
+    },
+    {
+      "id": "commissioner",
+      "group": "County offices",
+      "office": "County Commissioner",
+      "detail": "Term commencing January 1, 2027",
+      "candidates": [
+        {
+          "name": "Joseph R. DeMare",
+          "party": "Nonparty"
+        },
+        {
+          "name": "Ryan E. Lee",
+          "party": "REP"
+        },
+        {
+          "name": "Brenna Reynolds",
+          "party": "DEM"
+        }
+      ],
+      "sources": [
+        "wood-46day",
+        "wood-cand"
+      ]
+    },
+    {
+      "id": "auditor",
+      "group": "County offices",
+      "office": "County Auditor",
+      "detail": "Term commencing March 8, 2027",
+      "candidates": [
+        {
+          "name": "Matthew R. Oestreich",
+          "party": "REP"
+        },
+        {
+          "name": "Mark Wongrowski",
+          "party": "DEM"
+        }
+      ],
+      "sources": [
+        "wood-46day",
+        "wood-cand"
+      ]
+    },
+    {
+      "id": "cp-gen",
+      "group": "Court of Common Pleas",
+      "office": "Judge of the Court of Common Pleas",
+      "detail": "Term commencing January 1, 2027 · no party label on the ballot",
+      "candidates": [
+        {
+          "name": "Paul A. Dobson"
+        },
+        {
+          "name": "Joel M. Kuhlman"
+        }
+      ],
+      "sources": [
+        "wood-46day",
+        "wood-cand"
+      ]
+    },
+    {
+      "id": "cp-probate",
+      "group": "Court of Common Pleas",
+      "office": "Judge of the Court of Common Pleas, Probate Division",
+      "detail": "Term commencing February 9, 2027 · no party label on the ballot",
+      "candidates": [
+        {
+          "name": "Megan E. Newlove"
+        },
+        {
+          "name": "Doug Ruck"
+        }
+      ],
+      "sources": [
+        "wood-46day",
+        "wood-cand"
+      ]
+    }
+  ],
+  "issues": [
+    {
+      "id": "wood-senior",
+      "kind": "levy",
+      "jurisdiction": "Wood County",
+      "title": "Tax levy (renewal): Providing or maintaining senior services or facilities",
+      "area": "Wood County",
+      "levy": {
+        "type": "Renewal",
+        "purpose": "Providing or maintaining senior services or facilities.",
+        "mills": "1 mill",
+        "term": "5 years, commencing in 2026",
+        "firstDue": "2027"
+      },
+      "sources": [
+        "wood-46day",
+        "wood-issues"
+      ]
+    },
+    {
+      "id": "wcdpl",
+      "kind": "levy",
+      "jurisdiction": "Wood County District Public Library",
+      "title": "Tax levy (renewal): Current expenses",
+      "area": "Wood County District Public Library district: Bowling Green, Lake Township (with Millbury and Walbridge), Northwood (except part of precinct D), Jackson Township and Portage West, and parts of Center, Freedom, Liberty, Middleton, Milton, Montgomery, Perry, Perrysburg, Plain, Troy and Webster townships",
+      "places": [
+        "Bowling Green City",
+        "Bradner Village",
+        "Center Township",
+        "Custar Village",
+        "Freedom Township",
+        "Hoytville Village",
+        "Jackson Township",
+        "Lake Township",
+        "Liberty Township",
+        "Middleton Township",
+        "Millbury Village",
+        "Milton Township",
+        "Montgomery Township",
+        "Northwood City",
+        "Perry Township",
+        "Perrysburg Township",
+        "Plain Township",
+        "Portage Township",
+        "Portage Village",
+        "Risingsun Village",
+        "Troy Township",
+        "Walbridge Village",
+        "Webster Township",
+        "West Milton Village"
+      ],
+      "levy": {
+        "type": "Renewal",
+        "purpose": "Current expenses.",
+        "mills": "0.8 mill",
+        "term": "6 years, commencing in 2027",
+        "firstDue": "2028"
+      },
+      "sources": [
+        "wood-46day",
+        "wood-issues"
+      ]
+    },
+    {
+      "id": "bowling-green-parks",
+      "kind": "levy",
+      "jurisdiction": "City of Bowling Green",
+      "title": "Tax levy (renewal and increase): Recreational purposes of Bowling Green City Parks and Recreation",
+      "area": "City of Bowling Green",
+      "places": [
+        "Bowling Green City"
+      ],
+      "levy": {
+        "type": "Renewal and increase",
+        "purpose": "Recreational purposes of Bowling Green City Parks and Recreation.",
+        "mills": "2.95 mills (renewal of 2 mills plus an increase of 0.95 mill)",
+        "term": "5 years, commencing in 2026",
+        "firstDue": "2027"
+      },
+      "sources": [
+        "wood-46day",
+        "wood-issues"
+      ]
+    },
+    {
+      "id": "fostoria-current",
+      "kind": "levy",
+      "jurisdiction": "City of Fostoria (Hancock, Seneca and Wood)",
+      "title": "Tax levy (renewal): Current expenses",
+      "area": "Fostoria City (Wood County part)",
+      "places": [
+        "Fostoria City"
+      ],
+      "levy": {
+        "type": "Renewal",
+        "purpose": "Current expenses.",
+        "mills": "6 mills",
+        "term": "5 years, commencing in 2027",
+        "firstDue": "2028"
+      },
+      "sources": [
+        "wood-46day",
+        "wood-issues"
+      ]
+    },
+    {
+      "id": "center-fire",
+      "kind": "levy",
+      "jurisdiction": "Center Township",
+      "title": "Tax levy (renewal): Fire and ambulance",
+      "area": "Center Township",
+      "places": [
+        "Center Township"
+      ],
+      "levy": {
+        "type": "Renewal",
+        "purpose": "Fire and ambulance.",
+        "mills": "1.2 mills",
+        "term": "4 years, commencing in 2026",
+        "firstDue": "2027"
+      },
+      "sources": [
+        "wood-46day",
+        "wood-issues"
+      ]
+    },
+    {
+      "id": "freedom-fire",
+      "kind": "levy",
+      "jurisdiction": "Freedom Township",
+      "title": "Tax levy (renewal): Fire and ambulance",
+      "area": "Freedom Township (including Pemberville Village)",
+      "places": [
+        "Freedom Township",
+        "Pemberville Village"
+      ],
+      "levy": {
+        "type": "Renewal",
+        "purpose": "Fire and ambulance.",
+        "mills": "3 mills",
+        "term": "3 years, commencing in 2026",
+        "firstDue": "2027"
+      },
+      "sources": [
+        "wood-46day",
+        "wood-issues"
+      ]
+    },
+    {
+      "id": "jackson-roads",
+      "kind": "levy",
+      "jurisdiction": "Jackson Township",
+      "title": "Tax levy (renewal): Streets and bridges",
+      "area": "Jackson Township (including Hoytville Village)",
+      "places": [
+        "Hoytville Village",
+        "Jackson Township"
+      ],
+      "levy": {
+        "type": "Renewal",
+        "purpose": "Streets and bridges.",
+        "mills": "3 mills",
+        "term": "5 years, commencing in 2027",
+        "firstDue": "2028"
+      },
+      "sources": [
+        "wood-46day",
+        "wood-issues"
+      ]
+    },
+    {
+      "id": "milton-roads",
+      "kind": "levy",
+      "jurisdiction": "Milton Township",
+      "title": "Tax levy (renewal): Streets and bridges",
+      "area": "Milton Township (including Custar and West Milton villages)",
+      "places": [
+        "Custar Village",
+        "Milton Township",
+        "West Milton Village"
+      ],
+      "levy": {
+        "type": "Renewal",
+        "purpose": "Streets and bridges.",
+        "mills": "2.5 mills",
+        "term": "5 years, commencing in 2026",
+        "firstDue": "2027"
+      },
+      "sources": [
+        "wood-46day",
+        "wood-issues"
+      ]
+    },
+    {
+      "id": "perry-fire",
+      "kind": "levy",
+      "jurisdiction": "Perry Township",
+      "title": "Tax levy (renewal): Fire protection",
+      "area": "Perry Township (including West Millgrove Village)",
+      "places": [
+        "Perry Township",
+        "West Millgrove Village"
+      ],
+      "levy": {
+        "type": "Renewal",
+        "purpose": "Fire protection.",
+        "mills": "2 mills",
+        "term": "3 years, commencing in 2027",
+        "firstDue": "2028"
+      },
+      "sources": [
+        "wood-46day",
+        "wood-issues"
+      ]
+    },
+    {
+      "id": "perrysburg-twp-fire",
+      "kind": "levy",
+      "jurisdiction": "Perrysburg Township",
+      "title": "Tax levy (additional): Fire and EMS",
+      "area": "Perrysburg Township",
+      "places": [
+        "Perrysburg Township"
+      ],
+      "levy": {
+        "type": "Additional",
+        "purpose": "Fire and EMS.",
+        "mills": "3.5 mills",
+        "term": "5 years, commencing in 2026",
+        "firstDue": "2027"
+      },
+      "sources": [
+        "wood-46day",
+        "wood-issues"
+      ]
+    },
+    {
+      "id": "webster-fire",
+      "kind": "levy",
+      "jurisdiction": "Webster Township",
+      "title": "Tax levy (renewal): EMS and fire",
+      "area": "Webster Township",
+      "places": [
+        "Webster Township"
+      ],
+      "levy": {
+        "type": "Renewal",
+        "purpose": "EMS and fire.",
+        "mills": "3.1 mills",
+        "term": "3 years, commencing in 2027",
+        "firstDue": "2028"
+      },
+      "sources": [
+        "wood-46day",
+        "wood-issues"
+      ]
+    },
+    {
+      "id": "grand-rapids-streets",
+      "kind": "levy",
+      "jurisdiction": "Village of Grand Rapids",
+      "title": "Tax levy (renewal): Street construction and reconstruction",
+      "area": "Village of Grand Rapids",
+      "places": [
+        "Grand Rapids Village"
+      ],
+      "levy": {
+        "type": "Renewal",
+        "purpose": "Street construction and reconstruction.",
+        "mills": "2 mills",
+        "term": "5 years, commencing in 2027",
+        "firstDue": "2028"
+      },
+      "sources": [
+        "wood-46day",
+        "wood-issues"
+      ]
+    },
+    {
+      "id": "risingsun-current-1",
+      "kind": "levy",
+      "jurisdiction": "Village of Risingsun",
+      "title": "Tax levy (renewal): Current expenses",
+      "area": "Village of Risingsun",
+      "places": [
+        "Risingsun Village"
+      ],
+      "levy": {
+        "type": "Renewal",
+        "purpose": "Current expenses.",
+        "mills": "1.3 mills",
+        "term": "4 years, commencing in 2027",
+        "firstDue": "2028"
+      },
+      "sources": [
+        "wood-46day",
+        "wood-issues"
+      ]
+    },
+    {
+      "id": "risingsun-current-2",
+      "kind": "levy",
+      "jurisdiction": "Village of Risingsun",
+      "title": "Tax levy (renewal): Current expenses",
+      "area": "Village of Risingsun",
+      "places": [
+        "Risingsun Village"
+      ],
+      "levy": {
+        "type": "Renewal",
+        "purpose": "Current expenses.",
+        "mills": "6.3 mills",
+        "term": "5 years, commencing in 2027",
+        "firstDue": "2028"
+      },
+      "sources": [
+        "wood-46day",
+        "wood-issues"
+      ]
+    },
+    {
+      "id": "risingsun-parks",
+      "kind": "levy",
+      "jurisdiction": "Village of Risingsun",
+      "title": "Tax levy (additional): Maintenance and improvements of parks",
+      "area": "Village of Risingsun",
+      "places": [
+        "Risingsun Village"
+      ],
+      "levy": {
+        "type": "Additional",
+        "purpose": "Maintenance and improvements of parks.",
+        "mills": "0.5 mill",
+        "term": "5 years, commencing in 2027",
+        "firstDue": "2028"
+      },
+      "sources": [
+        "wood-46day",
+        "wood-issues"
+      ]
+    },
+    {
+      "id": "eastwood-bond",
+      "kind": "levy",
+      "jurisdiction": "Eastwood Local School District",
+      "title": "School district income tax (0.5%) and bond issue ($54,965,000)",
+      "area": "Eastwood Local School District",
+      "places": [
+        "Center Township",
+        "Freedom Township",
+        "Luckey Village",
+        "Middleton Township",
+        "Montgomery Township",
+        "Pemberville Village",
+        "Perrysburg Township",
+        "Troy Township",
+        "Webster Township"
+      ],
+      "levy": {
+        "type": "Income tax and bond issue",
+        "purpose": "Income tax; bonds for constructing school facilities.",
+        "mills": "6.49 mills (bond)",
+        "term": "Income tax beginning January 1, 2027; bonds up to 37 years",
+        "estimate": "$54,965,000 principal"
+      },
+      "text": "Income tax of 0.5% beginning January 1, 2027, and bonds of $54,965,000 for constructing school facilities, repaid over a maximum of 37 years, with a levy estimated at 6.49 mills.",
+      "sources": [
+        "wood-46day",
+        "wood-issues"
+      ]
+    },
+    {
+      "id": "lake-income-tax",
+      "kind": "question",
+      "jurisdiction": "Lake Local School District",
+      "title": "School district income tax: 1%, continuing",
+      "area": "Lake Local School District",
+      "places": [
+        "Lake Township",
+        "Millbury Village",
+        "Northwood City",
+        "Perrysburg Township",
+        "Troy Township",
+        "Walbridge Village"
+      ],
+      "text": "Shall an annual income tax of 1% on the earned income of individuals residing in the school district be imposed by the Lake Local School District, for a continuing period of time, beginning January 1, 2027?",
+      "sources": [
+        "wood-46day",
+        "wood-issues"
+      ]
+    },
+    {
+      "id": "mccomb-bond",
+      "kind": "levy",
+      "jurisdiction": "McComb Local School District (Hancock and Wood)",
+      "title": "School district income tax (0.25%) and bond issue ($23,815,000)",
+      "area": "McComb Local School District (Wood County part: Jackson Township precincts 340 splits 1 and 4)",
+      "places": [
+        "Hoytville Village",
+        "Jackson Township"
+      ],
+      "levy": {
+        "type": "Income tax and bond issue",
+        "purpose": "Income tax; bonds for constructing school facilities.",
+        "mills": "6.99 mills (bond)",
+        "term": "Income tax beginning January 1, 2027; bonds up to 37 years",
+        "estimate": "$23,815,000 principal"
+      },
+      "text": "Income tax of 0.25% beginning January 1, 2027, and bonds of $23,815,000 for constructing school facilities, repaid over a maximum of 37 years, with a levy estimated at 6.99 mills.",
+      "sources": [
+        "wood-46day",
+        "wood-issues"
+      ]
+    },
+    {
+      "id": "north-baltimore-income-tax",
+      "kind": "question",
+      "jurisdiction": "North Baltimore Local School District",
+      "title": "School district income tax: 1%, 5 years, for current expenses",
+      "area": "North Baltimore Local School District",
+      "places": [
+        "Bloom Township",
+        "Henry Township",
+        "North Baltimore Village"
+      ],
+      "text": "Shall an annual income tax of 1% on the earned income of individuals residing in the school district be imposed by the North Baltimore Local School District, for 5 years, beginning January 1, 2028, for the purpose of current expenses?",
+      "sources": [
+        "wood-46day",
+        "wood-issues"
+      ]
+    },
+    {
+      "id": "lake-twp-roads",
+      "kind": "levy",
+      "jurisdiction": "Lake Township Road District",
+      "title": "Tax levy (additional): Streets and roads",
+      "area": "Lake Township (unincorporated: East, North, Latcha and Union precincts)",
+      "places": [
+        "Lake Township"
+      ],
+      "levy": {
+        "type": "Additional",
+        "purpose": "Streets and roads.",
+        "mills": "2 mills",
+        "term": "5 years, commencing in 2026",
+        "firstDue": "2027"
+      },
+      "sources": [
+        "wood-46day",
+        "wood-issues"
+      ]
+    },
+    {
+      "id": "middleton-twp-roads",
+      "kind": "levy",
+      "jurisdiction": "Middleton Township Road District",
+      "title": "Tax levy (renewal): Streets and bridges",
+      "area": "Middleton Township (unincorporated: precincts North, South and Dunbridge)",
+      "places": [
+        "Middleton Township"
+      ],
+      "levy": {
+        "type": "Renewal",
+        "purpose": "Streets and bridges.",
+        "mills": "2 mills",
+        "term": "3 years, commencing in 2026",
+        "firstDue": "2027"
+      },
+      "sources": [
+        "wood-46day",
+        "wood-issues"
+      ]
+    },
+    {
+      "id": "south-east-ambulance",
+      "kind": "levy",
+      "jurisdiction": "South East Ambulance District",
+      "title": "Tax levy (additional): Ambulance service and emergency medical services",
+      "area": "Montgomery Township precincts West, NE and SE (including Bradner, Risingsun and Wayne villages)",
+      "places": [
+        "Bradner Village",
+        "Montgomery Township",
+        "Risingsun Village",
+        "Wayne Village"
+      ],
+      "levy": {
+        "type": "Additional",
+        "purpose": "Ambulance service and emergency medical services.",
+        "mills": "3 mills",
+        "term": "5 years, commencing in 2026",
+        "firstDue": "2027"
+      },
+      "sources": [
+        "wood-46day",
+        "wood-issues"
+      ]
+    },
+    {
+      "id": "liquor-woodbury-market",
+      "kind": "liquor",
+      "jurisdiction": "Lake Township",
+      "title": "Local liquor option: Woodbury Market Inc. (Sunday)",
+      "area": "Lake Township East precinct (370)",
+      "places": [
+        "Lake Township"
+      ],
+      "text": "Sunday sales by Woodbury Market Inc. in this precinct.",
+      "sources": [
+        "wood-46day",
+        "wood-issues"
+      ]
+    },
+    {
+      "id": "liquor-pinky-blinders",
+      "kind": "liquor",
+      "jurisdiction": "City of Perrysburg",
+      "title": "Local liquor option: Pinky Blinders, LLC (Sunday)",
+      "area": "Perrysburg precinct B (700)",
+      "places": [
+        "Perrysburg City"
+      ],
+      "text": "Sunday sales by Pinky Blinders, LLC in this precinct.",
+      "sources": [
+        "wood-46day",
+        "wood-issues"
+      ]
+    }
+  ]
+}

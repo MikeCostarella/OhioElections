@@ -1,0 +1,1115 @@
+{
+  "scope": "county",
+  "county": "Wayne",
+  "fips": "39169",
+  "election": "2026-11-03",
+  "retrieved": "2026-10-30",
+  "notes": [
+    "Taken from the Board of Elections' 46-day election notice, which lists every contest and issue with the precincts that vote on it, checked against the Board's sample ballots. Issue wording is the Board's summary; the full wording is on the sample ballot.",
+    "Candidates are listed alphabetically by last name, not in ballot order: Ohio rotates the order of names from precinct to precinct. Certified write-in candidates are not printed on the ballot and are not listed.",
+    "\"Where you live\" uses the state voter file: a district or school levy is shown for a city, village or township when any of its voters live in that district. Your exact ballot depends on your precinct.",
+    "Wayne County's ballots do not number local issues (only State Issue 3 has a number); they are listed here in the Board's order."
+  ],
+  "places": [
+    "Apple Creek Village",
+    "Baughman Township",
+    "Burbank Village",
+    "Canaan Township",
+    "Chester Township",
+    "Chippewa Township",
+    "Clinton Township",
+    "Congress Township",
+    "Congress Village",
+    "Creston Village",
+    "Dalton Village",
+    "Doylestown Village",
+    "East Union Township",
+    "Franklin Township",
+    "Fredericksburg Village",
+    "Green Township",
+    "Marshallville Village",
+    "Milton Township",
+    "Mount Eaton Village",
+    "Norton City",
+    "Orrville City",
+    "Paint Township",
+    "Plain Township",
+    "Rittman City",
+    "Salt Creek Township",
+    "Shreve Village",
+    "Smithville Village",
+    "Sugar Creek Township",
+    "Wayne Township",
+    "West Salem Village",
+    "Wooster City",
+    "Wooster Township"
+  ],
+  "sources": {
+    "wayne-46day": {
+      "label": "Wayne County Board of Elections: 46-day election notice (FWAB), November 3, 2026 General Election (revised 10/16/2026)",
+      "url": "https://www.waynecountyoh.gov/wp-content/uploads/2026/10/Form-120-46-Day-FWAB-Gen-26-10162026-0910.pdf"
+    },
+    "wayne-samples": {
+      "label": "Wayne County Board of Elections: sample ballots for every precinct, November 3, 2026 General Election (9/19/2026)",
+      "url": "https://www.waynecountyoh.gov/wp-content/uploads/2026/09/Sample-Ballots-ALL-WATERMARK-09192026-1352.pdf"
+    }
+  },
+  "links": [
+    {
+      "label": "Board of Elections",
+      "url": "https://www.waynecountyoh.gov/"
+    },
+    {
+      "label": "Sample ballots",
+      "url": "https://www.waynecountyoh.gov/sampleballots/"
+    },
+    {
+      "label": "Sample ballots by precinct",
+      "url": "https://lookup.boe.ohio.gov/vtrapp/wayne/ballotlist.aspx"
+    }
+  ],
+  "results": {
+    "status": "upcoming",
+    "links": [
+      {
+        "label": "Board of Elections: election results",
+        "url": "https://www.waynecountyoh.gov/election-results-past-election-results/"
+      }
+    ]
+  },
+  "contests": [
+    {
+      "id": "congress-6",
+      "group": "U.S. House",
+      "office": "Representative to Congress",
+      "detail": "6th District",
+      "area": "Apple Creek Village, Baughman Township, Clinton Township, Dalton Village, East Union Township, Franklin Township, Fredericksburg Village, Marshallville Village, Mount Eaton Village, Paint Township, Plain Township, Salt Creek Township, Shreve Village, Sugar Creek Township, Wooster City, Wooster Township",
+      "places": [
+        "Apple Creek Village",
+        "Baughman Township",
+        "Clinton Township",
+        "Dalton Village",
+        "East Union Township",
+        "Franklin Township",
+        "Fredericksburg Village",
+        "Marshallville Village",
+        "Mount Eaton Village",
+        "Paint Township",
+        "Plain Township",
+        "Salt Creek Township",
+        "Shreve Village",
+        "Sugar Creek Township",
+        "Wooster City",
+        "Wooster Township"
+      ],
+      "candidates": [
+        {
+          "name": "Elizabeth Kirtley",
+          "party": "DEM"
+        },
+        {
+          "name": "Michael A. Rulli",
+          "party": "REP"
+        }
+      ],
+      "sources": [
+        "wayne-46day",
+        "wayne-samples"
+      ]
+    },
+    {
+      "id": "congress-7",
+      "group": "U.S. House",
+      "office": "Representative to Congress",
+      "detail": "7th District",
+      "area": "Burbank Village, Canaan Township, Chester Township, Chippewa Township, Congress Township, Congress Village, Creston Village, Doylestown Village, Green Township, Milton Township, Norton City, Orrville City, Rittman City, Smithville Village, Wayne Township, West Salem Village, Wooster City, Wooster Township",
+      "places": [
+        "Burbank Village",
+        "Canaan Township",
+        "Chester Township",
+        "Chippewa Township",
+        "Congress Township",
+        "Congress Village",
+        "Creston Village",
+        "Doylestown Village",
+        "Green Township",
+        "Milton Township",
+        "Norton City",
+        "Orrville City",
+        "Rittman City",
+        "Smithville Village",
+        "Wayne Township",
+        "West Salem Village",
+        "Wooster City",
+        "Wooster Township"
+      ],
+      "candidates": [
+        {
+          "name": "Brian Poindexter",
+          "party": "DEM"
+        },
+        {
+          "name": "Max Miller",
+          "party": "REP"
+        }
+      ],
+      "sources": [
+        "wayne-46day",
+        "wayne-samples"
+      ]
+    },
+    {
+      "id": "senate-31",
+      "group": "Ohio General Assembly",
+      "office": "State Senator",
+      "detail": "31st District",
+      "candidates": [
+        {
+          "name": "Laura Sirot",
+          "party": "DEM"
+        },
+        {
+          "name": "Al Landis",
+          "party": "REP"
+        }
+      ],
+      "sources": [
+        "wayne-46day",
+        "wayne-samples"
+      ]
+    },
+    {
+      "id": "rep-77",
+      "group": "Ohio General Assembly",
+      "office": "State Representative",
+      "detail": "77th District",
+      "candidates": [
+        {
+          "name": "Brooke Dillon",
+          "party": "DEM"
+        },
+        {
+          "name": "Meredith Craig",
+          "party": "REP"
+        }
+      ],
+      "sources": [
+        "wayne-46day",
+        "wayne-samples"
+      ]
+    },
+    {
+      "id": "appeals-9-0209",
+      "group": "Ohio Court of Appeals",
+      "office": "Judge of the Court of Appeals",
+      "detail": "9th District · full term commencing February 9, 2027",
+      "candidates": [
+        {
+          "name": "Betty Sutton",
+          "party": "DEM"
+        },
+        {
+          "name": "Cynthia Curtin",
+          "party": "REP"
+        }
+      ],
+      "sources": [
+        "wayne-46day",
+        "wayne-samples"
+      ]
+    },
+    {
+      "id": "appeals-9-0210",
+      "group": "Ohio Court of Appeals",
+      "office": "Judge of the Court of Appeals",
+      "detail": "9th District · unexpired term ending February 9, 2029",
+      "candidates": [
+        {
+          "name": "Tavia Galonski",
+          "party": "DEM"
+        },
+        {
+          "name": "Nathan Manning",
+          "party": "REP"
+        }
+      ],
+      "sources": [
+        "wayne-46day",
+        "wayne-samples"
+      ]
+    },
+    {
+      "id": "commissioner",
+      "group": "County offices",
+      "office": "County Commissioner",
+      "detail": "Full term commencing January 1, 2027",
+      "candidates": [
+        {
+          "name": "Jonathan Hofstetter",
+          "party": "REP"
+        }
+      ],
+      "sources": [
+        "wayne-46day",
+        "wayne-samples"
+      ]
+    },
+    {
+      "id": "auditor",
+      "group": "County offices",
+      "office": "County Auditor",
+      "detail": "Full term commencing March 8, 2027",
+      "candidates": [
+        {
+          "name": "Russell Robertson",
+          "party": "REP"
+        }
+      ],
+      "sources": [
+        "wayne-46day",
+        "wayne-samples"
+      ]
+    },
+    {
+      "id": "cp-probate-juvenile",
+      "group": "Court of Common Pleas",
+      "office": "Judge of the Court of Common Pleas, Probate and Juvenile Division",
+      "detail": "Full term commencing February 9, 2027 · no party label on the ballot",
+      "candidates": [
+        {
+          "name": "Latecia Eileen Wiles"
+        }
+      ],
+      "sources": [
+        "wayne-46day",
+        "wayne-samples"
+      ]
+    },
+    {
+      "id": "doylestown-merger-commission",
+      "group": "Municipal offices",
+      "office": "Member of Merger Commission (Village of Doylestown)",
+      "detail": "Vote for not more than 5 · for the commission voted on in the merger question · no party label on the ballot",
+      "area": "Doylestown Village (precincts 56/1, 57/1)",
+      "places": [
+        "Doylestown Village"
+      ],
+      "candidates": [
+        {
+          "name": "Misty Hray"
+        },
+        {
+          "name": "Madeline Rock"
+        },
+        {
+          "name": "Tony Lindeman"
+        },
+        {
+          "name": "Marie Lepley"
+        },
+        {
+          "name": "Dean Porr"
+        }
+      ],
+      "sources": [
+        "wayne-46day",
+        "wayne-samples"
+      ]
+    },
+    {
+      "id": "chippewa-merger-commission",
+      "group": "Township offices",
+      "office": "Member of Merger Commission (Chippewa Township)",
+      "detail": "Vote for not more than 5 · for the commission voted on in the merger question · no party label on the ballot",
+      "area": "Chippewa Township (precincts 53/1, 53/2, 53/3, 54/1, 54/2, 55/1, 55/2, 58/1)",
+      "places": [
+        "Chippewa Township",
+        "Norton City"
+      ],
+      "candidates": [
+        {
+          "name": "Lesa Miller"
+        },
+        {
+          "name": "Jeanien Frantz"
+        },
+        {
+          "name": "Mark Tetzel"
+        },
+        {
+          "name": "Megan Busson"
+        },
+        {
+          "name": "Nick Kukta"
+        }
+      ],
+      "sources": [
+        "wayne-46day",
+        "wayne-samples"
+      ]
+    }
+  ],
+  "issues": [
+    {
+      "id": "chippewa-lsd-income",
+      "kind": "question",
+      "jurisdiction": "Chippewa Local School District",
+      "title": "School district income tax: 1% renewal, 5 years, for current operating expenses",
+      "area": "Chippewa Local School District (precincts 10/2, 53/1, 54/1, 55/1, 55/2, 56/1, 57/1, 58/1, 80/4)",
+      "places": [
+        "Chippewa Township",
+        "Doylestown Village",
+        "Milton Township",
+        "Norton City",
+        "Rittman City"
+      ],
+      "text": "Shall an annual income tax of 1.00% on the earned income of individuals residing in the school district be imposed by the Chippewa Local School District to renew an income tax expiring at the end of 2027, for 5 years, beginning January 1, 2028, for the purpose of providing for the current operating expenses of the school district?",
+      "sources": [
+        "wayne-46day",
+        "wayne-samples"
+      ]
+    },
+    {
+      "id": "dalton-lsd-pi",
+      "kind": "levy",
+      "jurisdiction": "Dalton Local School District",
+      "title": "Tax levy (renewal): General, on-going permanent improvements",
+      "area": "Dalton Local School District (precincts 43/2, 87/1, 87/3, 88/1, 88/3, 89/1)",
+      "places": [
+        "Baughman Township",
+        "Dalton Village",
+        "Sugar Creek Township"
+      ],
+      "levy": {
+        "type": "Renewal",
+        "purpose": "General, on-going permanent improvements.",
+        "mills": "2 mills",
+        "term": "5 years, commencing in 2027",
+        "firstDue": "2028",
+        "estimate": "$244,127 a year; $28 for each $100,000 of market value"
+      },
+      "sources": [
+        "wayne-46day",
+        "wayne-samples"
+      ]
+    },
+    {
+      "id": "northwestern-lsd-current",
+      "kind": "levy",
+      "jurisdiction": "Northwestern Local School District (Wayne and Ashland)",
+      "title": "Tax levy (renewal (fixed sum)): Current operating expenses ($456,400 a year)",
+      "area": "Northwestern Local School District (precincts 50/1, 51/1, 65/1, 66/1, 67/1, 67/2, 84/3, 85/3)",
+      "places": [
+        "Chester Township",
+        "Congress Township",
+        "Congress Village",
+        "Plain Township",
+        "West Salem Village"
+      ],
+      "levy": {
+        "type": "Renewal (fixed sum)",
+        "purpose": "Current operating expenses ($456,400 a year).",
+        "mills": "1.8 mills (estimated average)",
+        "term": "5 years, commencing in 2026",
+        "firstDue": "2027",
+        "estimate": "$456,400 a year; $63 for each $100,000 of market value"
+      },
+      "sources": [
+        "wayne-46day",
+        "wayne-samples"
+      ]
+    },
+    {
+      "id": "orrville-csd-income",
+      "kind": "question",
+      "jurisdiction": "Orrville City School District",
+      "title": "School district income tax: 1% additional, 5 years, for current expenses",
+      "area": "Orrville City School District (precincts 1/1, 1/2, 2/1, 3/1, 5/1, 6/1, 43/1, 44/1, 68/2, 75/2, 88/2)",
+      "places": [
+        "Baughman Township",
+        "East Union Township",
+        "Green Township",
+        "Orrville City",
+        "Sugar Creek Township"
+      ],
+      "text": "Shall an annual income tax of 1.00% on the earned income of individuals residing in the school district be imposed by the Orrville City School District, for 5 years, beginning January 1, 2027, for the purpose of current expenses?",
+      "sources": [
+        "wayne-46day",
+        "wayne-samples"
+      ]
+    },
+    {
+      "id": "triway-lsd-income",
+      "kind": "question",
+      "jurisdiction": "Triway Local School District (Wayne and Holmes)",
+      "title": "School district income tax: 0.75% additional, 3 years, for current expenses",
+      "area": "Triway Local School District (precincts 15/2, 15/3, 15/5, 62/1, 63/1, 73/1, 74/1, 84/1, 85/1, 92/3, 97/1, 98/1, 99/1)",
+      "places": [
+        "Clinton Township",
+        "Franklin Township",
+        "Plain Township",
+        "Shreve Village",
+        "Wayne Township",
+        "Wooster City",
+        "Wooster Township"
+      ],
+      "text": "Shall an annual income tax of 0.75% on the earned income of individuals residing in the school district be imposed by the Triway Local School District, for 3 years, beginning January 1, 2027, for the purpose of current expenses?",
+      "sources": [
+        "wayne-46day",
+        "wayne-samples"
+      ]
+    },
+    {
+      "id": "wayne-jvsd",
+      "kind": "levy",
+      "jurisdiction": "Wayne County Joint Vocational School District (Wayne, Ashland, Holmes, Medina and Stark)",
+      "title": "Tax levy (renewal): General permanent improvements",
+      "area": "All precincts except 43/3, 44/4, 44/5, 53/3, 62/2, 83/3 and 84/2 (parts of Baughman, Chippewa, Clinton, Paint and Plain townships)",
+      "places": [
+        "Apple Creek Village",
+        "Baughman Township",
+        "Burbank Village",
+        "Canaan Township",
+        "Chester Township",
+        "Chippewa Township",
+        "Clinton Township",
+        "Congress Township",
+        "Congress Village",
+        "Creston Village",
+        "Dalton Village",
+        "Doylestown Village",
+        "East Union Township",
+        "Franklin Township",
+        "Fredericksburg Village",
+        "Green Township",
+        "Marshallville Village",
+        "Milton Township",
+        "Mount Eaton Village",
+        "Norton City",
+        "Orrville City",
+        "Paint Township",
+        "Plain Township",
+        "Rittman City",
+        "Salt Creek Township",
+        "Shreve Village",
+        "Smithville Village",
+        "Sugar Creek Township",
+        "Wayne Township",
+        "West Salem Village",
+        "Wooster City",
+        "Wooster Township"
+      ],
+      "levy": {
+        "type": "Renewal",
+        "purpose": "General permanent improvements.",
+        "mills": "0.5 mill",
+        "term": "5 years, commencing in 2027",
+        "firstDue": "2028",
+        "estimate": "$1,480,860 a year; $11 for each $100,000 of market value"
+      },
+      "sources": [
+        "wayne-46day",
+        "wayne-samples"
+      ]
+    },
+    {
+      "id": "norton-charter-1",
+      "kind": "question",
+      "jurisdiction": "City of Norton (Summit and Wayne)",
+      "title": "Charter amendment: Article II, Section 2.09 (Mayor's salary)",
+      "area": "Norton City precinct 55/2 (Chippewa 3)",
+      "places": [
+        "Norton City"
+      ],
+      "text": "Change the Mayor's salary rate in the Charter from $11,250 to $15,000, unless otherwise approved by the voters for the next term of office.",
+      "sources": [
+        "wayne-46day",
+        "wayne-samples"
+      ]
+    },
+    {
+      "id": "norton-charter-2",
+      "kind": "question",
+      "jurisdiction": "City of Norton (Summit and Wayne)",
+      "title": "Charter amendment: Article III, Section 3.08 (Council salaries)",
+      "area": "Norton City precinct 55/2 (Chippewa 3)",
+      "places": [
+        "Norton City"
+      ],
+      "text": "Change Council members' salary rate from $7,500 to $10,000 and the President of Council's from $8,500 to $11,000, unless otherwise approved by the voters for the next term of office.",
+      "sources": [
+        "wayne-46day",
+        "wayne-samples"
+      ]
+    },
+    {
+      "id": "norton-charter-3",
+      "kind": "question",
+      "jurisdiction": "City of Norton (Summit and Wayne)",
+      "title": "Charter amendment: Article IV, Section 4.03 (Administrative Officer supervision of Finance and Law)",
+      "area": "Norton City precinct 55/2 (Chippewa 3)",
+      "places": [
+        "Norton City"
+      ],
+      "text": "Place the Department of Finance and Department of Law under the direct administrative supervision of the Administrative Officer, while preserving the existing appointment and removal provisions and the legally vested fiscal and professional legal duties of those offices.",
+      "sources": [
+        "wayne-46day",
+        "wayne-samples"
+      ]
+    },
+    {
+      "id": "norton-charter-4",
+      "kind": "question",
+      "jurisdiction": "City of Norton (Summit and Wayne)",
+      "title": "Charter amendment: Article V, Section 5.03.B (Board of Control contract approval)",
+      "area": "Norton City precinct 55/2 (Chippewa 3)",
+      "places": [
+        "Norton City"
+      ],
+      "text": "Raise the contract amount requiring Board of Control approval from five thousand dollars to ten thousand dollars.",
+      "sources": [
+        "wayne-46day",
+        "wayne-samples"
+      ]
+    },
+    {
+      "id": "norton-charter-5",
+      "kind": "question",
+      "jurisdiction": "City of Norton (Summit and Wayne)",
+      "title": "Charter amendment: Title of the chief legal officer",
+      "area": "Norton City precinct 55/2 (Chippewa 3)",
+      "places": [
+        "Norton City"
+      ],
+      "text": "Change the title of the City's chief legal officer from Solicitor to Director of Law, without changing the appointment, qualifications, powers, duties, suspension or removal provisions applicable to that office.",
+      "sources": [
+        "wayne-46day",
+        "wayne-samples"
+      ]
+    },
+    {
+      "id": "rittman-charter-1",
+      "kind": "question",
+      "jurisdiction": "City of Rittman (Wayne and Medina counties)",
+      "title": "Proposed charter amendment #1: Section 9.05",
+      "area": "Rittman City precincts 10/1, 10/2, 11/1, 12/1, 12/2, 13/1",
+      "places": [
+        "Rittman City"
+      ],
+      "text": "Eliminate outdated language regarding the civil service status of employees and add a new section allowing for the removal of a member of City Council by other members of City Council for bad behavior, criminal conduct, or absenteeism.",
+      "sources": [
+        "wayne-46day",
+        "wayne-samples"
+      ]
+    },
+    {
+      "id": "rittman-charter-2",
+      "kind": "question",
+      "jurisdiction": "City of Rittman (Wayne and Medina counties)",
+      "title": "Proposed charter amendment #2: Articles III, IV, VII, XII and XIII",
+      "area": "Rittman City precincts 10/1, 10/2, 11/1, 12/1, 12/2, 13/1",
+      "places": [
+        "Rittman City"
+      ],
+      "text": "Change the date of the organizational meeting, change the date that elected officials take office, and change the deadline that nominating petitions for elective offices in the municipality must be submitted to the Board of Elections.",
+      "sources": [
+        "wayne-46day",
+        "wayne-samples"
+      ]
+    },
+    {
+      "id": "rittman-charter-3",
+      "kind": "question",
+      "jurisdiction": "City of Rittman (Wayne and Medina counties)",
+      "title": "Proposed charter amendment #3: Section 3.06",
+      "area": "Rittman City precincts 10/1, 10/2, 11/1, 12/1, 12/2, 13/1",
+      "places": [
+        "Rittman City"
+      ],
+      "text": "Allow City Council to hold executive sessions for any reason allowable by Ohio Revised Code.",
+      "sources": [
+        "wayne-46day",
+        "wayne-samples"
+      ]
+    },
+    {
+      "id": "rittman-charter-4",
+      "kind": "question",
+      "jurisdiction": "City of Rittman (Wayne and Medina counties)",
+      "title": "Proposed charter amendment #4: Section 4.03",
+      "area": "Rittman City precincts 10/1, 10/2, 11/1, 12/1, 12/2, 13/1",
+      "places": [
+        "Rittman City"
+      ],
+      "text": "Clarify language that the Mayor, when invited, is only an attendee and does not preside over executive sessions of City Council.",
+      "sources": [
+        "wayne-46day",
+        "wayne-samples"
+      ]
+    },
+    {
+      "id": "rittman-charter-5",
+      "kind": "question",
+      "jurisdiction": "City of Rittman (Wayne and Medina counties)",
+      "title": "Proposed charter amendment #5: Section 4.05",
+      "area": "Rittman City precincts 10/1, 10/2, 11/1, 12/1, 12/2, 13/1",
+      "places": [
+        "Rittman City"
+      ],
+      "text": "Clarify the procedure by which a member of City Council is nominated to and can become Mayor in the event the office of Mayor becomes vacant.",
+      "sources": [
+        "wayne-46day",
+        "wayne-samples"
+      ]
+    },
+    {
+      "id": "rittman-charter-6",
+      "kind": "question",
+      "jurisdiction": "City of Rittman (Wayne and Medina counties)",
+      "title": "Proposed charter amendment #6: Section 5.01",
+      "area": "Rittman City precincts 10/1, 10/2, 11/1, 12/1, 12/2, 13/1",
+      "places": [
+        "Rittman City"
+      ],
+      "text": "Require an annual review of the Municipal Manager by City Council.",
+      "sources": [
+        "wayne-46day",
+        "wayne-samples"
+      ]
+    },
+    {
+      "id": "rittman-charter-7",
+      "kind": "question",
+      "jurisdiction": "City of Rittman (Wayne and Medina counties)",
+      "title": "Proposed charter amendment #7: Articles VI and IX",
+      "area": "Rittman City precincts 10/1, 10/2, 11/1, 12/1, 12/2, 13/1",
+      "places": [
+        "Rittman City"
+      ],
+      "text": "Change language to reflect that the Fire and EMS departments have merged into one department.",
+      "sources": [
+        "wayne-46day",
+        "wayne-samples"
+      ]
+    },
+    {
+      "id": "rittman-charter-8",
+      "kind": "question",
+      "jurisdiction": "City of Rittman (Wayne and Medina counties)",
+      "title": "Proposed charter amendment #8: Section 6.05",
+      "area": "Rittman City precincts 10/1, 10/2, 11/1, 12/1, 12/2, 13/1",
+      "places": [
+        "Rittman City"
+      ],
+      "text": "Require that the Law Director be an attorney-at-law in good standing with the state bar association and oversee representation of the City in all cases as well as provide direct representation.",
+      "sources": [
+        "wayne-46day",
+        "wayne-samples"
+      ]
+    },
+    {
+      "id": "rittman-charter-9",
+      "kind": "question",
+      "jurisdiction": "City of Rittman (Wayne and Medina counties)",
+      "title": "Proposed charter amendment #9: Section 9.01",
+      "area": "Rittman City precincts 10/1, 10/2, 11/1, 12/1, 12/2, 13/1",
+      "places": [
+        "Rittman City"
+      ],
+      "text": "Update old language concerning the establishment of a Civil Service Commission if Rittman became a city, as Rittman is already a city.",
+      "sources": [
+        "wayne-46day",
+        "wayne-samples"
+      ]
+    },
+    {
+      "id": "rittman-charter-10",
+      "kind": "question",
+      "jurisdiction": "City of Rittman (Wayne and Medina counties)",
+      "title": "Proposed charter amendment #10: Section 9.02",
+      "area": "Rittman City precincts 10/1, 10/2, 11/1, 12/1, 12/2, 13/1",
+      "places": [
+        "Rittman City"
+      ],
+      "text": "Change the term an individual serves on the Civil Service Commission from six (6) years to three (3) years.",
+      "sources": [
+        "wayne-46day",
+        "wayne-samples"
+      ]
+    },
+    {
+      "id": "rittman-charter-11",
+      "kind": "question",
+      "jurisdiction": "City of Rittman (Wayne and Medina counties)",
+      "title": "Proposed charter amendment #11: Section 11.01",
+      "area": "Rittman City precincts 10/1, 10/2, 11/1, 12/1, 12/2, 13/1",
+      "places": [
+        "Rittman City"
+      ],
+      "text": "Add a member of City Council to serve on the Cemetery Board.",
+      "sources": [
+        "wayne-46day",
+        "wayne-samples"
+      ]
+    },
+    {
+      "id": "rittman-charter-12",
+      "kind": "question",
+      "jurisdiction": "City of Rittman (Wayne and Medina counties)",
+      "title": "Proposed charter amendment #12: Section 12.02",
+      "area": "Rittman City precincts 10/1, 10/2, 11/1, 12/1, 12/2, 13/1",
+      "places": [
+        "Rittman City"
+      ],
+      "text": "Change the deadline for submitting the budget to City Council from January 1st to December 31st and clarify language.",
+      "sources": [
+        "wayne-46day",
+        "wayne-samples"
+      ]
+    },
+    {
+      "id": "rittman-charter-13",
+      "kind": "question",
+      "jurisdiction": "City of Rittman (Wayne and Medina counties)",
+      "title": "Proposed charter amendment #13: Section 12.06",
+      "area": "Rittman City precincts 10/1, 10/2, 11/1, 12/1, 12/2, 13/1",
+      "places": [
+        "Rittman City"
+      ],
+      "text": "Require an annual review of the Finance Director by City Council.",
+      "sources": [
+        "wayne-46day",
+        "wayne-samples"
+      ]
+    },
+    {
+      "id": "rittman-charter-14",
+      "kind": "question",
+      "jurisdiction": "City of Rittman (Wayne and Medina counties)",
+      "title": "Proposed charter amendment #14: Section 13.04",
+      "area": "Rittman City precincts 10/1, 10/2, 11/1, 12/1, 12/2, 13/1",
+      "places": [
+        "Rittman City"
+      ],
+      "text": "Reduce the residency requirement to be eligible to be an elected officer of the municipality from two (2) years to one (1) year.",
+      "sources": [
+        "wayne-46day",
+        "wayne-samples"
+      ]
+    },
+    {
+      "id": "rittman-charter-15",
+      "kind": "question",
+      "jurisdiction": "City of Rittman (Wayne and Medina counties)",
+      "title": "Proposed charter amendment #15: Section 16.01",
+      "area": "Rittman City precincts 10/1, 10/2, 11/1, 12/1, 12/2, 13/1",
+      "places": [
+        "Rittman City"
+      ],
+      "text": "Amend the schedule in which the Charter Review Commission convenes to intentionally misalign it with the election of new members of City Council.",
+      "sources": [
+        "wayne-46day",
+        "wayne-samples"
+      ]
+    },
+    {
+      "id": "burbank-current-1",
+      "kind": "levy",
+      "jurisdiction": "Village of Burbank",
+      "title": "Tax levy (renewal): Current expenses",
+      "area": "Burbank Village (precinct 45/2)",
+      "places": [
+        "Burbank Village"
+      ],
+      "levy": {
+        "type": "Renewal",
+        "purpose": "Current expenses.",
+        "mills": "3 mills",
+        "term": "5 years, commencing in 2027",
+        "firstDue": "2028",
+        "estimate": "$9,156 a year; $42 for each $100,000 of market value"
+      },
+      "note": "The ballot carries two separate 3-mill renewals with identical wording.",
+      "sources": [
+        "wayne-46day",
+        "wayne-samples"
+      ]
+    },
+    {
+      "id": "burbank-current-2",
+      "kind": "levy",
+      "jurisdiction": "Village of Burbank",
+      "title": "Tax levy (renewal): Current expenses",
+      "area": "Burbank Village (precinct 45/2)",
+      "places": [
+        "Burbank Village"
+      ],
+      "levy": {
+        "type": "Renewal",
+        "purpose": "Current expenses.",
+        "mills": "3 mills",
+        "term": "5 years, commencing in 2027",
+        "firstDue": "2028",
+        "estimate": "$9,156 a year; $42 for each $100,000 of market value"
+      },
+      "note": "The ballot carries two separate 3-mill renewals with identical wording.",
+      "sources": [
+        "wayne-46day",
+        "wayne-samples"
+      ]
+    },
+    {
+      "id": "burbank-current-3",
+      "kind": "levy",
+      "jurisdiction": "Village of Burbank",
+      "title": "Tax levy (renewal): Current expenses",
+      "area": "Burbank Village (precinct 45/2)",
+      "places": [
+        "Burbank Village"
+      ],
+      "levy": {
+        "type": "Renewal",
+        "purpose": "Current expenses.",
+        "mills": "4 mills",
+        "term": "5 years, commencing in 2027",
+        "firstDue": "2028",
+        "estimate": "$12,951 a year; $63 for each $100,000 of market value"
+      },
+      "sources": [
+        "wayne-46day",
+        "wayne-samples"
+      ]
+    },
+    {
+      "id": "doylestown-advisory-rentals",
+      "kind": "question",
+      "jurisdiction": "Village of Doylestown",
+      "title": "Advisory question: zoning to permit and regulate short-term rental properties",
+      "area": "Doylestown Village (precincts 56/1, 57/1)",
+      "places": [
+        "Doylestown Village"
+      ],
+      "text": "Should the Village Council consider adopting zoning regulations to permit and regulate short-term rental properties within the BD Downtown Business District and BG General Business District?",
+      "sources": [
+        "wayne-46day",
+        "wayne-samples"
+      ]
+    },
+    {
+      "id": "doylestown-advisory-dispensaries",
+      "kind": "question",
+      "jurisdiction": "Village of Doylestown",
+      "title": "Advisory question: zoning to permit adult-use marijuana dispensaries",
+      "area": "Doylestown Village (precincts 56/1, 57/1)",
+      "places": [
+        "Doylestown Village"
+      ],
+      "text": "Should the Village Council consider adopting zoning regulations to permit adult-use marijuana dispensaries within the BD Downtown Business District and BG General Business District?",
+      "sources": [
+        "wayne-46day",
+        "wayne-samples"
+      ]
+    },
+    {
+      "id": "smithville-ordinance",
+      "kind": "question",
+      "jurisdiction": "Village of Smithville",
+      "title": "Initiative ordinance: repeal photo traffic enforcement (Ordinance 2025-4)",
+      "area": "Smithville Village (precinct 77/1)",
+      "places": [
+        "Smithville Village"
+      ],
+      "text": "An ordinance proposed by initiative petition repealing Ordinance 2025-4, \"An ordinance providing for photo traffic enforcement within the Village of Smithville,\" enacted by the Village Council on March 18, 2025. Shall the proposed ordinance to repeal Ordinance 2025-4 be adopted?",
+      "sources": [
+        "wayne-46day",
+        "wayne-samples"
+      ]
+    },
+    {
+      "id": "doylestown-merger",
+      "kind": "question",
+      "jurisdiction": "Village of Doylestown",
+      "title": "Merger commission: merger with Chippewa Township",
+      "area": "Doylestown Village (precincts 56/1, 57/1)",
+      "places": [
+        "Doylestown Village"
+      ],
+      "text": "Shall a commission be chosen to draw up a statement of conditions for merger of the political subdivisions of the Village of Doylestown and Chippewa Township?",
+      "sources": [
+        "wayne-46day",
+        "wayne-samples"
+      ]
+    },
+    {
+      "id": "chippewa-merger",
+      "kind": "question",
+      "jurisdiction": "Chippewa Township",
+      "title": "Merger commission: merger with the Village of Doylestown",
+      "area": "Chippewa Township (precincts 53/1, 53/2, 53/3, 54/1, 54/2, 55/1, 55/2, 58/1)",
+      "places": [
+        "Chippewa Township",
+        "Norton City"
+      ],
+      "text": "Shall a commission be chosen to draw up a statement of conditions for merger of the political subdivisions of the Village of Doylestown and Chippewa Township?",
+      "sources": [
+        "wayne-46day",
+        "wayne-samples"
+      ]
+    },
+    {
+      "id": "canaan-fire",
+      "kind": "levy",
+      "jurisdiction": "Canaan Township (Wayne and Medina counties)",
+      "title": "Tax levy (additional): Fire and emergency medical services",
+      "area": "Canaan Township precincts 45/1, 45/2, 46/1, 47/1, 47/2 (including Burbank and Creston)",
+      "places": [
+        "Burbank Village",
+        "Canaan Township",
+        "Creston Village"
+      ],
+      "levy": {
+        "type": "Additional",
+        "purpose": "Fire and emergency medical services.",
+        "mills": "2.5 mills",
+        "term": "3 years, commencing in 2026",
+        "firstDue": "2027",
+        "estimate": "$395,115 a year; $88 for each $100,000 of market value"
+      },
+      "sources": [
+        "wayne-46day",
+        "wayne-samples"
+      ]
+    },
+    {
+      "id": "chester-roads",
+      "kind": "levy",
+      "jurisdiction": "Chester Township",
+      "title": "Tax levy (renewal): General construction, reconstruction, resurfacing, and repair of streets, roads, and bridges",
+      "area": "Chester Township (precincts 50/1, 50/2, 51/1)",
+      "places": [
+        "Chester Township"
+      ],
+      "levy": {
+        "type": "Renewal",
+        "purpose": "General construction, reconstruction, resurfacing, and repair of streets, roads, and bridges.",
+        "mills": "1.9 mills",
+        "term": "5 years, commencing in 2026",
+        "firstDue": "2027",
+        "estimate": "$70,956 a year; $20 for each $100,000 of market value"
+      },
+      "sources": [
+        "wayne-46day",
+        "wayne-samples"
+      ]
+    },
+    {
+      "id": "clinton-fire",
+      "kind": "levy",
+      "jurisdiction": "Clinton Township",
+      "title": "Tax levy (renewal): Fire and ambulance protection",
+      "area": "Clinton Township precincts 62/1, 62/2, 63/1 (including Shreve)",
+      "places": [
+        "Clinton Township",
+        "Shreve Village"
+      ],
+      "levy": {
+        "type": "Renewal",
+        "purpose": "Fire and ambulance protection.",
+        "mills": "1.5 mills",
+        "term": "4 years, commencing in 2027",
+        "firstDue": "2028",
+        "estimate": "$98,495 a year; $30 for each $100,000 of market value"
+      },
+      "sources": [
+        "wayne-46day",
+        "wayne-samples"
+      ]
+    },
+    {
+      "id": "wooster-twp-fire-building",
+      "kind": "levy",
+      "jurisdiction": "Wooster Township",
+      "title": "Tax levy (additional): Construction, improvement or maintenance of a building for firefighting and emergency medical services",
+      "area": "Wooster Township precincts 97/1, 97/2, 97/3, 98/1, 99/1, 99/2, 99/3, plus Wooster City splits 15/3 and 33/2",
+      "places": [
+        "Wooster City",
+        "Wooster Township"
+      ],
+      "levy": {
+        "type": "Additional",
+        "purpose": "Construction, improvement or maintenance of a building for firefighting and emergency medical services.",
+        "mills": "1.5 mills",
+        "term": "5 years, commencing in 2026",
+        "firstDue": "2027",
+        "estimate": "$343,342 a year; $53 for each $100,000 of market value"
+      },
+      "sources": [
+        "wayne-46day",
+        "wayne-samples"
+      ]
+    },
+    {
+      "id": "liquor-gigis-diner",
+      "kind": "liquor",
+      "jurisdiction": "Baughman Township",
+      "title": "Local liquor option: GiGi's Diner (Sunday)",
+      "area": "Baughman Township precinct 2 (44/1–44/5, including Marshallville)",
+      "places": [
+        "Baughman Township",
+        "Marshallville Village"
+      ],
+      "text": "Sunday sale of beer, wine and mixed beverages, and spirituous liquor by GiGi's Diner LLC (D-6 permit applicant), a diner at 1 North Main Street, Marshallville.",
+      "sources": [
+        "wayne-46day",
+        "wayne-samples"
+      ]
+    },
+    {
+      "id": "liquor-lincoln-way-vineyards",
+      "kind": "liquor",
+      "jurisdiction": "Plain Township",
+      "title": "Local liquor option: Lincoln Way Vineyards (Sunday)",
+      "area": "Plain Township precinct 1 (84/1–84/3)",
+      "places": [
+        "Plain Township"
+      ],
+      "text": "Sunday sale of beer, wine and mixed beverages by Lincoln Way Vineyards, Inc. (D-6 permit applicant; A-1C and A-2 permit holder), a winery and brewery at 9050 W. Old Lincoln Way, Wooster.",
+      "sources": [
+        "wayne-46day",
+        "wayne-samples"
+      ]
+    },
+    {
+      "id": "liquor-legion-651",
+      "kind": "liquor",
+      "jurisdiction": "Salt Creek Township",
+      "title": "Local liquor option: Fredericksburg American Legion Post 651",
+      "area": "Salt Creek Township precinct 1 (86/1, 86/2, including Fredericksburg)",
+      "places": [
+        "Fredericksburg Village",
+        "Salt Creek Township"
+      ],
+      "text": "Sale of beer, wine and mixed beverages, and spirituous liquor by Fredericksburg American Legion Post 651 (D-4 permit applicant), 6353 Harrison Rd., Fredericksburg.",
+      "sources": [
+        "wayne-46day",
+        "wayne-samples"
+      ]
+    },
+    {
+      "id": "liquor-legion-651-sunday",
+      "kind": "liquor",
+      "jurisdiction": "Salt Creek Township",
+      "title": "Local liquor option: Fredericksburg American Legion Post 651 (Sunday)",
+      "area": "Salt Creek Township precinct 1 (86/1, 86/2, including Fredericksburg)",
+      "places": [
+        "Fredericksburg Village",
+        "Salt Creek Township"
+      ],
+      "text": "Sunday sale of beer, wine and mixed beverages, and spirituous liquor by Fredericksburg American Legion Post 651 (D-6 and D-4 permit applicant), 6353 Harrison Rd., Fredericksburg.",
+      "sources": [
+        "wayne-46day",
+        "wayne-samples"
+      ]
+    }
+  ]
+}
