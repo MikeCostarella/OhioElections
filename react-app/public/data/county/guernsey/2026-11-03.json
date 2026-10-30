@@ -1,0 +1,648 @@
+{
+  "scope": "county",
+  "county": "Guernsey",
+  "fips": "39059",
+  "election": "2026-11-03",
+  "retrieved": "2026-10-30",
+  "notes": [
+    "Taken from the Board of Elections' 46-day election notice, which lists every contest and issue with the precincts that vote on it, checked against the Board's precinct sample ballots (which give the full ballot wording and the auditor's estimates).",
+    "Candidates are listed alphabetically by last name, not in ballot order: Ohio rotates the order of names from precinct to precinct. Certified write-in candidates are not printed on the ballot and are not listed.",
+    "\"Where you live\" uses the state voter file: a district or school levy is shown for a city, village or township when any of its voters live in that district. Your exact ballot depends on your precinct.",
+    "The Board's notice and sample ballots do not give local issue numbers; see your sample ballot."
+  ],
+  "places": [
+    "Adams Township",
+    "Byesville Village",
+    "Cambridge City",
+    "Cambridge Township",
+    "Center Township",
+    "Cumberland Village",
+    "Fairview Village",
+    "Jackson Township",
+    "Jefferson Township",
+    "Knox Township",
+    "Liberty Township",
+    "Londonderry Township",
+    "Lore City Village",
+    "Madison Township",
+    "Millwood Township",
+    "Monroe Township",
+    "Old Washington Village",
+    "Oxford Township",
+    "Pleasant City Village",
+    "Quaker City Village",
+    "Richland Township",
+    "Senecaville Village",
+    "Spencer Township",
+    "Valley Township",
+    "Washington Township",
+    "Westland Township",
+    "Wheeling Township",
+    "Wills Township"
+  ],
+  "sources": {
+    "guernsey-46day": {
+      "label": "Guernsey County Board of Elections: 46-day election notice (FWAB), November 3, 2026 General Election (updated 10/7/2026)",
+      "url": "https://boe.guernseycounty.gov/wp-content/uploads/2026/10/46-day-notice-Nov.-3-2026-General-update-10-7-26.pdf"
+    },
+    "guernsey-ballots": {
+      "label": "Guernsey County Board of Elections: official sample ballots for all 35 precincts, November 3, 2026 (state ballot lookup; full ballot wording)",
+      "url": "https://lookup.boe.ohio.gov/vtrapp/guernsey/ballotlist.aspx"
+    }
+  },
+  "links": [
+    {
+      "label": "Board of Elections",
+      "url": "https://boe.guernseycounty.gov/"
+    },
+    {
+      "label": "Sample ballots by precinct",
+      "url": "https://lookup.boe.ohio.gov/vtrapp/guernsey/ballotlist.aspx"
+    }
+  ],
+  "results": {
+    "status": "upcoming",
+    "links": [
+      {
+        "label": "Board of Elections: election results",
+        "url": "https://boe.guernseycounty.gov/"
+      }
+    ]
+  },
+  "contests": [
+    {
+      "id": "congress-12",
+      "group": "U.S. House",
+      "office": "Representative to Congress",
+      "detail": "12th District · 2-year term",
+      "candidates": [
+        {
+          "name": "Troy Balderson",
+          "party": "REP"
+        },
+        {
+          "name": "Jerrad Christian",
+          "party": "DEM"
+        }
+      ],
+      "sources": [
+        "guernsey-46day",
+        "guernsey-ballots"
+      ]
+    },
+    {
+      "id": "senate-31",
+      "group": "Ohio General Assembly",
+      "office": "State Senator",
+      "detail": "31st District",
+      "area": "Adams Township, Byesville Village, Cambridge City, Cambridge Township, Cumberland Village, Jackson Township, Knox Township, Liberty Township, Pleasant City Village, Spencer Township, Valley Township, Westland Township, Wheeling Township",
+      "places": [
+        "Adams Township",
+        "Byesville Village",
+        "Cambridge City",
+        "Cambridge Township",
+        "Cumberland Village",
+        "Jackson Township",
+        "Knox Township",
+        "Liberty Township",
+        "Pleasant City Village",
+        "Spencer Township",
+        "Valley Township",
+        "Westland Township",
+        "Wheeling Township"
+      ],
+      "candidates": [
+        {
+          "name": "Al Landis",
+          "party": "REP"
+        },
+        {
+          "name": "Laura Sirot",
+          "party": "DEM"
+        }
+      ],
+      "sources": [
+        "guernsey-46day",
+        "guernsey-ballots"
+      ]
+    },
+    {
+      "id": "rep-95",
+      "group": "Ohio General Assembly",
+      "office": "State Representative",
+      "detail": "95th District",
+      "area": "Center Township, Fairview Village, Jefferson Township, Londonderry Township, Lore City Village, Madison Township, Millwood Township, Monroe Township, Old Washington Village, Oxford Township, Quaker City Village, Richland Township, Senecaville Village, Washington Township, Wills Township",
+      "places": [
+        "Center Township",
+        "Fairview Village",
+        "Jefferson Township",
+        "Londonderry Township",
+        "Lore City Village",
+        "Madison Township",
+        "Millwood Township",
+        "Monroe Township",
+        "Old Washington Village",
+        "Oxford Township",
+        "Quaker City Village",
+        "Richland Township",
+        "Senecaville Village",
+        "Washington Township",
+        "Wills Township"
+      ],
+      "candidates": [
+        {
+          "name": "Paul Cameron",
+          "party": "DEM"
+        },
+        {
+          "name": "Ty Moore",
+          "party": "REP"
+        }
+      ],
+      "sources": [
+        "guernsey-46day",
+        "guernsey-ballots"
+      ]
+    },
+    {
+      "id": "rep-97",
+      "group": "Ohio General Assembly",
+      "office": "State Representative",
+      "detail": "97th District",
+      "area": "Adams Township, Byesville Village, Cambridge City, Cambridge Township, Cumberland Village, Jackson Township, Knox Township, Liberty Township, Pleasant City Village, Spencer Township, Valley Township, Westland Township, Wheeling Township",
+      "places": [
+        "Adams Township",
+        "Byesville Village",
+        "Cambridge City",
+        "Cambridge Township",
+        "Cumberland Village",
+        "Jackson Township",
+        "Knox Township",
+        "Liberty Township",
+        "Pleasant City Village",
+        "Spencer Township",
+        "Valley Township",
+        "Westland Township",
+        "Wheeling Township"
+      ],
+      "candidates": [
+        {
+          "name": "Kris Geis",
+          "party": "Nonparty"
+        },
+        {
+          "name": "Tim Godwin",
+          "party": "LIB"
+        },
+        {
+          "name": "Adam P. Holmes",
+          "party": "REP"
+        }
+      ],
+      "sources": [
+        "guernsey-46day",
+        "guernsey-ballots"
+      ]
+    },
+    {
+      "id": "appeals-5",
+      "group": "Ohio Court of Appeals",
+      "office": "Judge of the Court of Appeals",
+      "detail": "5th District · term commencing February 9, 2027",
+      "candidates": [
+        {
+          "name": "Matthew George",
+          "party": "REP"
+        }
+      ],
+      "sources": [
+        "guernsey-46day",
+        "guernsey-ballots"
+      ]
+    },
+    {
+      "id": "commissioner",
+      "group": "County offices",
+      "office": "County Commissioner",
+      "detail": "Full term commencing January 1, 2027",
+      "candidates": [
+        {
+          "name": "Tom Hannon",
+          "party": "DEM"
+        },
+        {
+          "name": "Dave Wilson",
+          "party": "REP"
+        }
+      ],
+      "sources": [
+        "guernsey-46day",
+        "guernsey-ballots"
+      ]
+    },
+    {
+      "id": "auditor",
+      "group": "County offices",
+      "office": "County Auditor",
+      "detail": "4-year term",
+      "candidates": [
+        {
+          "name": "Cory Johnson",
+          "party": "REP"
+        }
+      ],
+      "sources": [
+        "guernsey-46day",
+        "guernsey-ballots"
+      ]
+    },
+    {
+      "id": "cp-probate-juvenile",
+      "group": "Court of Common Pleas",
+      "office": "Judge of the Court of Common Pleas, Probate/Juvenile Division",
+      "detail": "Full term commencing February 9, 2027 · no party label on the ballot",
+      "candidates": [
+        {
+          "name": "David B. Bennett"
+        }
+      ],
+      "sources": [
+        "guernsey-46day",
+        "guernsey-ballots"
+      ]
+    }
+  ],
+  "issues": [
+    {
+      "id": "library",
+      "kind": "levy",
+      "jurisdiction": "Guernsey County District Public Library",
+      "title": "Tax levy (renewal): Current expenses",
+      "area": "Guernsey County (all 35 precincts)",
+      "levy": {
+        "type": "Renewal",
+        "purpose": "Current expenses.",
+        "mills": "1 mill",
+        "term": "5 years, commencing in 2027",
+        "firstDue": "2028",
+        "estimate": "$962,977 a year; $19 for each $100,000 of market value"
+      },
+      "sources": [
+        "guernsey-46day",
+        "guernsey-ballots"
+      ]
+    },
+    {
+      "id": "senior-meals-on-wheels",
+      "kind": "levy",
+      "jurisdiction": "Guernsey County",
+      "title": "Tax levy (renewal): Guernsey County Senior Citizens Center, Inc. Meals on Wheels Program: maintaining and operating the Meals on Wheels Program for senior citizens",
+      "area": "Guernsey County (all 35 precincts)",
+      "levy": {
+        "type": "Renewal",
+        "purpose": "Guernsey County Senior Citizens Center, Inc. Meals on Wheels Program: maintaining and operating the Meals on Wheels Program for senior citizens.",
+        "mills": "0.75 mill",
+        "term": "5 years, commencing in 2027",
+        "firstDue": "2028",
+        "estimate": "$914,994 a year; $22 for each $100,000 of market value"
+      },
+      "sources": [
+        "guernsey-46day",
+        "guernsey-ballots"
+      ]
+    },
+    {
+      "id": "sheriff-911",
+      "kind": "levy",
+      "jurisdiction": "Guernsey County",
+      "title": "Tax levy (renewal): Maintaining and operating the Guernsey County Sheriff's Department enhanced 911 system",
+      "area": "Guernsey County (all 35 precincts)",
+      "levy": {
+        "type": "Renewal",
+        "purpose": "Maintaining and operating the Guernsey County Sheriff's Department enhanced 911 system.",
+        "mills": "1 mill",
+        "term": "5 years, commencing in 2027",
+        "firstDue": "2028",
+        "estimate": "$1,060,439 a year; $23 for each $100,000 of market value"
+      },
+      "sources": [
+        "guernsey-46day",
+        "guernsey-ballots"
+      ]
+    },
+    {
+      "id": "children-services",
+      "kind": "levy",
+      "jurisdiction": "Guernsey County",
+      "title": "Tax levy (additional): Providing funds for children services (Guernsey County Children Services)",
+      "area": "Guernsey County (all 35 precincts)",
+      "levy": {
+        "type": "Additional",
+        "purpose": "Providing funds for children services (Guernsey County Children Services).",
+        "mills": "1.25 mills",
+        "term": "10 years, commencing in 2026",
+        "firstDue": "2027",
+        "estimate": "$1,753,704 a year; $44 for each $100,000 of market value"
+      },
+      "sources": [
+        "guernsey-46day",
+        "guernsey-ballots"
+      ]
+    },
+    {
+      "id": "old-washington-current",
+      "kind": "levy",
+      "jurisdiction": "Village of Old Washington",
+      "title": "Tax levy (renewal): Current expenses",
+      "area": "Old Washington - Wills precinct (035, split 1 Old Washington only)",
+      "places": [
+        "Old Washington Village"
+      ],
+      "levy": {
+        "type": "Renewal",
+        "purpose": "Current expenses.",
+        "mills": "1 mill",
+        "term": "5 years, commencing in 2027",
+        "firstDue": "2028",
+        "estimate": "$1,530 a year; $7 for each $100,000 of market value"
+      },
+      "sources": [
+        "guernsey-46day",
+        "guernsey-ballots"
+      ]
+    },
+    {
+      "id": "pleasant-city-streets",
+      "kind": "levy",
+      "jurisdiction": "Village of Pleasant City",
+      "title": "Tax levy (renewal): Street improvement and maintenance",
+      "area": "Pleasant City - Valley B precinct (032, split 1 Pleasant City only)",
+      "places": [
+        "Pleasant City Village"
+      ],
+      "levy": {
+        "type": "Renewal",
+        "purpose": "Street improvement and maintenance.",
+        "mills": "3 mills",
+        "term": "5 years, commencing in 2026",
+        "firstDue": "2027",
+        "estimate": "$11,578 a year; $76 for each $100,000 of market value"
+      },
+      "sources": [
+        "guernsey-46day",
+        "guernsey-ballots"
+      ]
+    },
+    {
+      "id": "knox-garbage",
+      "kind": "levy",
+      "jurisdiction": "Knox Township",
+      "title": "Tax levy (renewal): Disposal of garbage and refuse",
+      "area": "Knox precinct (021)",
+      "places": [
+        "Knox Township"
+      ],
+      "levy": {
+        "type": "Renewal",
+        "purpose": "Disposal of garbage and refuse.",
+        "mills": "0.75 mill",
+        "term": "5 years, commencing in 2027",
+        "firstDue": "2028",
+        "estimate": "$16,236 a year; $22 for each $100,000 of market value"
+      },
+      "sources": [
+        "guernsey-46day",
+        "guernsey-ballots"
+      ]
+    },
+    {
+      "id": "knox-cemeteries",
+      "kind": "levy",
+      "jurisdiction": "Knox Township",
+      "title": "Tax levy (renewal): Maintaining and operating cemeteries",
+      "area": "Knox precinct (021)",
+      "places": [
+        "Knox Township"
+      ],
+      "levy": {
+        "type": "Renewal",
+        "purpose": "Maintaining and operating cemeteries.",
+        "mills": "0.5 mill",
+        "term": "5 years, commencing in 2027",
+        "firstDue": "2028",
+        "estimate": "$9,557 a year; $13 for each $100,000 of market value"
+      },
+      "sources": [
+        "guernsey-46day",
+        "guernsey-ballots"
+      ]
+    },
+    {
+      "id": "liberty-cemeteries",
+      "kind": "levy",
+      "jurisdiction": "Liberty Township",
+      "title": "Tax levy (renewal): Maintaining and operating cemeteries",
+      "area": "Liberty precinct (022)",
+      "places": [
+        "Liberty Township"
+      ],
+      "levy": {
+        "type": "Renewal",
+        "purpose": "Maintaining and operating cemeteries.",
+        "mills": "0.5 mill",
+        "term": "5 years, commencing in 2027",
+        "firstDue": "2028",
+        "estimate": "$11,152 a year; $9 for each $100,000 of market value"
+      },
+      "sources": [
+        "guernsey-46day",
+        "guernsey-ballots"
+      ]
+    },
+    {
+      "id": "londonderry-fire",
+      "kind": "levy",
+      "jurisdiction": "Londonderry Township",
+      "title": "Tax levy (renewal and decrease): Fire protection",
+      "area": "Londonderry - Washington precinct (023, split 1 Londonderry Township only)",
+      "places": [
+        "Londonderry Township"
+      ],
+      "levy": {
+        "type": "Renewal and decrease",
+        "purpose": "Fire protection.",
+        "mills": "0.5 mill",
+        "term": "5 years, commencing in 2027",
+        "firstDue": "2028",
+        "estimate": "$23,389 a year; $8 for each $100,000 of market value"
+      },
+      "note": "A renewal of part of an existing 1-mill levy, being a reduction of 0.5 mill.",
+      "sources": [
+        "guernsey-46day",
+        "guernsey-ballots"
+      ]
+    },
+    {
+      "id": "spencer-cemeteries",
+      "kind": "levy",
+      "jurisdiction": "Spencer Township (including Cumberland Village)",
+      "title": "Tax levy (renewal): Maintaining and operating cemeteries",
+      "area": "Cumberland - Spencer precinct (030)",
+      "places": [
+        "Cumberland Village",
+        "Spencer Township"
+      ],
+      "levy": {
+        "type": "Renewal",
+        "purpose": "Maintaining and operating cemeteries.",
+        "mills": "0.6 mill",
+        "term": "5 years, commencing in 2027",
+        "firstDue": "2028",
+        "estimate": "$16,269 a year; $11 for each $100,000 of market value"
+      },
+      "sources": [
+        "guernsey-46day",
+        "guernsey-ballots"
+      ]
+    },
+    {
+      "id": "washington-twp-fire",
+      "kind": "levy",
+      "jurisdiction": "Washington Township",
+      "title": "Tax levy (renewal): Fire protection",
+      "area": "Londonderry - Washington precinct (023, split 2 Washington Township only)",
+      "places": [
+        "Washington Township"
+      ],
+      "levy": {
+        "type": "Renewal",
+        "purpose": "Fire protection.",
+        "mills": "1 mill",
+        "term": "5 years, commencing in 2027",
+        "firstDue": "2028",
+        "estimate": "$33,074 a year; $27 for each $100,000 of market value"
+      },
+      "sources": [
+        "guernsey-46day",
+        "guernsey-ballots"
+      ]
+    },
+    {
+      "id": "westland-fire-ems",
+      "kind": "levy",
+      "jurisdiction": "Westland Township",
+      "title": "Tax levy (renewal): Fire protection, ambulance, and emergency medical services",
+      "area": "Westland A and Westland B precincts (033, 034)",
+      "places": [
+        "Westland Township"
+      ],
+      "levy": {
+        "type": "Renewal",
+        "purpose": "Fire protection, ambulance, and emergency medical services.",
+        "mills": "1.6 mills",
+        "term": "5 years, commencing in 2026",
+        "firstDue": "2027",
+        "estimate": "$110,729 a year; $39 for each $100,000 of market value"
+      },
+      "sources": [
+        "guernsey-46day",
+        "guernsey-ballots"
+      ]
+    },
+    {
+      "id": "westland-fire",
+      "kind": "levy",
+      "jurisdiction": "Westland Township",
+      "title": "Tax levy (renewal): Fire protection",
+      "area": "Westland A and Westland B precincts (033, 034)",
+      "places": [
+        "Westland Township"
+      ],
+      "levy": {
+        "type": "Renewal",
+        "purpose": "Fire protection.",
+        "mills": "0.4 mill",
+        "term": "5 years, commencing in 2027",
+        "firstDue": "2028",
+        "estimate": "$29,536 a year; $11 for each $100,000 of market value"
+      },
+      "sources": [
+        "guernsey-46day",
+        "guernsey-ballots"
+      ]
+    },
+    {
+      "id": "cambridge-csd-current",
+      "kind": "levy",
+      "jurisdiction": "Cambridge City School District",
+      "title": "Tax levy (renewal): Current operating expenses (fixed sum of $1,455,000 a year, outside the ten-mill limitation)",
+      "area": "Cambridge City School District precincts",
+      "places": [
+        "Cambridge City",
+        "Cambridge Township",
+        "Jefferson Township",
+        "Knox Township",
+        "Liberty Township",
+        "Monroe Township",
+        "Wheeling Township"
+      ],
+      "levy": {
+        "type": "Renewal",
+        "purpose": "Current operating expenses (fixed sum of $1,455,000 a year, outside the ten-mill limitation).",
+        "mills": "3.8 mills (estimated average)",
+        "term": "5 years, commencing in 2027",
+        "firstDue": "2028",
+        "estimate": "$1,455,000 a year; $133 for each $100,000 of market value"
+      },
+      "sources": [
+        "guernsey-46day",
+        "guernsey-ballots"
+      ]
+    },
+    {
+      "id": "liquor-thirsty-turtle",
+      "kind": "liquor",
+      "jurisdiction": "City of Cambridge",
+      "title": "Local liquor option: Thirsty Turtle (Sunday sales)",
+      "area": "Cambridge 4-B precinct (0008)",
+      "places": [
+        "Cambridge City"
+      ],
+      "text": "Local option (by petition, Sunday sales): sale of wine and mixed beverages, or spirituous liquor, on Sunday by Thirsty Turtle LLC, Thirsty Turtle, an applicant for a D-6 liquor permit engaged in the business of a tavern at 1023 Wheeling Avenue, Cambridge.",
+      "sources": [
+        "guernsey-46day",
+        "guernsey-ballots"
+      ]
+    },
+    {
+      "id": "liquor-cbi-d5",
+      "kind": "liquor",
+      "jurisdiction": "Village of Byesville",
+      "title": "Local liquor option: Southeastern Ohio Center for Business and Innovation (CBI)",
+      "area": "Byesville A precinct (0018)",
+      "places": [
+        "Byesville Village"
+      ],
+      "text": "Local option (by petition): sale of wine and mixed beverages and spirituous liquor by Southeastern Ohio Center for Business and Innovation dba CBI, an applicant for a D-5 liquor permit, operating a catering / reception hall at 212 Main Avenue, Byesville.",
+      "sources": [
+        "guernsey-46day",
+        "guernsey-ballots"
+      ]
+    },
+    {
+      "id": "liquor-cbi-sunday",
+      "kind": "liquor",
+      "jurisdiction": "Village of Byesville",
+      "title": "Local liquor option: Southeastern Ohio Center for Business and Innovation (CBI) (Sunday sales)",
+      "area": "Byesville A precinct (0018)",
+      "places": [
+        "Byesville Village"
+      ],
+      "text": "Local option (by petition, Sunday sales): sale of wine and mixed beverages and spirituous liquor on Sunday by Southeastern Ohio Center for Business and Innovation dba CBI, an applicant for a D-6 liquor permit, operating a catering / reception hall at 212 Main Avenue, Byesville.",
+      "sources": [
+        "guernsey-46day",
+        "guernsey-ballots"
+      ]
+    }
+  ]
+}

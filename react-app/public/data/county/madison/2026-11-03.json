@@ -1,0 +1,596 @@
+{
+  "scope": "county",
+  "county": "Madison",
+  "fips": "39097",
+  "election": "2026-11-03",
+  "retrieved": "2026-10-30",
+  "notes": [
+    "Taken from the Board of Elections' 46-day election notice, candidate list and certified issues list, checked against the Board's sample ballots for all 40 precinct splits. Issue wording is the ballot's.",
+    "Candidates are listed alphabetically by last name, not in ballot order: Ohio rotates the order of names from precinct to precinct. Certified write-in candidates are not printed on the ballot and are not listed.",
+    "\"Where you live\" uses the state voter file: a district or school levy is shown for a city, village or township when any of its voters live in that district. Your exact ballot depends on your precinct.",
+    "Madison County's ballots do not number local issues (only statewide Issue 3 is numbered); the Village of West Jefferson's charter amendments are labelled #1 to #7 on the ballot."
+  ],
+  "places": [
+    "Canaan Township",
+    "Darby Township",
+    "Deercreek Township",
+    "Fairfield Township",
+    "Jefferson Township",
+    "London City",
+    "Midway Village",
+    "Monroe Township",
+    "Mt. Sterling Village",
+    "Oak Run Township",
+    "Paint Township",
+    "Pike Township",
+    "Plain City Village",
+    "Pleasant Township",
+    "Range Township",
+    "Somerford Township",
+    "South Solon Village",
+    "Stokes Township",
+    "Union Township",
+    "West Jefferson Village"
+  ],
+  "sources": {
+    "madison-46day": {
+      "label": "Madison County Board of Elections: 46-day election notice (FWAB), November 3, 2026 General Election",
+      "url": "https://www.boe.ohio.gov/madison/c/upload/FWAB_11November46Day.pdf"
+    },
+    "madison-candidates": {
+      "label": "Madison County Board of Elections: candidate list, November 3, 2026 General Election (updated 10/24/2026)",
+      "url": "https://www.boe.ohio.gov/madison/c/upload/ELECTION_Candidates.pdf"
+    },
+    "madison-issues": {
+      "label": "Madison County Board of Elections: certified issues (final), November 3, 2026 General Election",
+      "url": "https://www.boe.ohio.gov/madison/c/upload/ELECTION_Issues.pdf"
+    },
+    "madison-ballots": {
+      "label": "Madison County Board of Elections: sample ballots for all 40 precinct splits, November 3, 2026 (state ballot lookup)",
+      "url": "https://lookup.boe.ohio.gov/vtrapp/madison/ballotlist.aspx"
+    }
+  },
+  "links": [
+    {
+      "label": "Board of Elections",
+      "url": "https://www.boe.ohio.gov/madison/"
+    },
+    {
+      "label": "Election information",
+      "url": "https://www.boe.ohio.gov/madison/election-info/"
+    },
+    {
+      "label": "Sample ballots by precinct",
+      "url": "https://lookup.boe.ohio.gov/vtrapp/madison/ballotlist.aspx"
+    }
+  ],
+  "results": {
+    "status": "upcoming",
+    "links": [
+      {
+        "label": "Board of Elections: election results",
+        "url": "https://www.boe.ohio.gov/madison/election-info/election-results/"
+      }
+    ]
+  },
+  "contests": [
+    {
+      "id": "congress-15",
+      "group": "U.S. House",
+      "office": "Representative to Congress",
+      "detail": "15th District",
+      "candidates": [
+        {
+          "name": "Brennan Barrington",
+          "party": "LIB"
+        },
+        {
+          "name": "Mike Carey",
+          "party": "REP"
+        },
+        {
+          "name": "Don Leonard",
+          "party": "DEM"
+        }
+      ],
+      "sources": [
+        "madison-46day",
+        "madison-candidates"
+      ]
+    },
+    {
+      "id": "senate-3",
+      "group": "Ohio General Assembly",
+      "office": "State Senator",
+      "detail": "3rd District · full term commencing January 1, 2027",
+      "candidates": [
+        {
+          "name": "Stacie A. Baker",
+          "party": "DEM"
+        },
+        {
+          "name": "Michele Reynolds",
+          "party": "REP"
+        }
+      ],
+      "sources": [
+        "madison-46day",
+        "madison-candidates"
+      ]
+    },
+    {
+      "id": "rep-12",
+      "group": "Ohio General Assembly",
+      "office": "State Representative",
+      "detail": "12th District · full term commencing January 1, 2027",
+      "candidates": [
+        {
+          "name": "Brian Stewart",
+          "party": "REP"
+        },
+        {
+          "name": "Lee Yarsky",
+          "party": "DEM"
+        }
+      ],
+      "sources": [
+        "madison-46day",
+        "madison-candidates"
+      ]
+    },
+    {
+      "id": "appeals-12-0101",
+      "group": "Ohio Court of Appeals",
+      "office": "Judge of the Court of Appeals",
+      "detail": "12th District (Butler, Brown, Clermont, Clinton, Fayette, Madison, Preble and Warren counties) · full term commencing January 1, 2027",
+      "candidates": [
+        {
+          "name": "Matthew Byrne",
+          "party": "REP",
+          "note": "Withdrew September 16, 2026; his name may still appear on the ballot, but votes for him will not count"
+        },
+        {
+          "name": "Willa Concannon",
+          "party": "Write-in"
+        }
+      ],
+      "sources": [
+        "madison-46day",
+        "madison-candidates",
+        "madison-ballots"
+      ]
+    },
+    {
+      "id": "appeals-12-0209",
+      "group": "Ohio Court of Appeals",
+      "office": "Judge of the Court of Appeals",
+      "detail": "12th District (Butler, Brown, Clermont, Clinton, Fayette, Madison, Preble and Warren counties) · full term commencing February 9, 2027",
+      "candidates": [
+        {
+          "name": "Robert A. Hendrickson",
+          "party": "REP"
+        }
+      ],
+      "sources": [
+        "madison-46day",
+        "madison-candidates"
+      ]
+    },
+    {
+      "id": "commissioner",
+      "group": "County offices",
+      "office": "County Commissioner",
+      "detail": "Full term commencing January 1, 2027",
+      "candidates": [
+        {
+          "name": "Tony K. Xenikis",
+          "party": "REP"
+        }
+      ],
+      "sources": [
+        "madison-46day",
+        "madison-candidates"
+      ]
+    },
+    {
+      "id": "auditor",
+      "group": "County offices",
+      "office": "County Auditor",
+      "detail": "Full term commencing March 8, 2027",
+      "candidates": [
+        {
+          "name": "Ashley Cooper",
+          "party": "REP"
+        },
+        {
+          "name": "Jennifer S. Hunter",
+          "party": "Nonparty"
+        }
+      ],
+      "sources": [
+        "madison-46day",
+        "madison-candidates"
+      ]
+    },
+    {
+      "id": "cp-probate-juv",
+      "group": "Court of Common Pleas",
+      "office": "Judge of the Court of Common Pleas, Probate/Juvenile Division",
+      "detail": "Full term commencing February 9, 2027 · no party label on the ballot",
+      "candidates": [
+        {
+          "name": "Christopher J. Brown"
+        }
+      ],
+      "sources": [
+        "madison-46day",
+        "madison-candidates"
+      ]
+    }
+  ],
+  "issues": [
+    {
+      "id": "madison-ems-district",
+      "kind": "levy",
+      "jurisdiction": "Madison County Emergency Medical District",
+      "title": "Tax levy (additional): Ambulance service, emergency medical service, or both",
+      "area": "Deercreek, Union, Monroe, Paint, Oak Run and Somerford townships (including Choctaw Lake East and West)",
+      "places": [
+        "Deercreek Township",
+        "Monroe Township",
+        "Oak Run Township",
+        "Paint Township",
+        "Somerford Township",
+        "Union Township"
+      ],
+      "levy": {
+        "type": "Additional",
+        "purpose": "Ambulance service, emergency medical service, or both.",
+        "mills": "4.75 mills",
+        "term": "5 years, commencing in 2027",
+        "firstDue": "2028",
+        "estimate": "$2,199,290 a year; $167 for each $100,000 of the county auditor's market value"
+      },
+      "note": "The ballot gives $167 per $100,000 of market value; the Board's issues list and 46-day notice give $166.25. The collection estimate is the same as the Central Townships Joint Fire District levy's in all the Board's documents.",
+      "sources": [
+        "madison-issues",
+        "madison-ballots",
+        "madison-46day"
+      ]
+    },
+    {
+      "id": "central-townships-fire",
+      "kind": "levy",
+      "jurisdiction": "Central Townships Joint Fire District",
+      "title": "Tax levy (additional): Current expenses; fire apparatus, mechanical resuscitators, underwater rescue and recovery equipment and appliances, buildings and sites, water supply, fire-alarm communications, firefighting, emergency medical service, administrative and communications personnel, ambulance equipment, and ambulance, paramedic or other emergency medical services",
+      "area": "Deercreek, Union, Monroe, Paint, Oak Run and Somerford townships (including Choctaw Lake East and West)",
+      "places": [
+        "Deercreek Township",
+        "Monroe Township",
+        "Oak Run Township",
+        "Paint Township",
+        "Somerford Township",
+        "Union Township"
+      ],
+      "levy": {
+        "type": "Additional",
+        "purpose": "Current expenses; fire apparatus, mechanical resuscitators, underwater rescue and recovery equipment and appliances, buildings and sites, water supply, fire-alarm communications, firefighting, emergency medical service, administrative and communications personnel, ambulance equipment, and ambulance, paramedic or other emergency medical services.",
+        "mills": "4.75 mills",
+        "term": "5 years, commencing in 2027",
+        "firstDue": "2028",
+        "estimate": "$2,199,290 a year; $166 for each $100,000 of the county auditor's market value"
+      },
+      "sources": [
+        "madison-issues",
+        "madison-ballots",
+        "madison-46day"
+      ]
+    },
+    {
+      "id": "sterling-ambulance-renewal",
+      "kind": "levy",
+      "jurisdiction": "Sterling Joint Ambulance District",
+      "title": "Tax levy (renewal): Current expenses",
+      "area": "Range, Stokes and Pleasant townships, Mt. Sterling, Midway and South Solon (Paint/Range/Stokes splits 2-6, Mt. Sterling, Pleasant 1-3)",
+      "places": [
+        "Midway Village",
+        "Mt. Sterling Village",
+        "Pleasant Township",
+        "Range Township",
+        "South Solon Village",
+        "Stokes Township"
+      ],
+      "levy": {
+        "type": "Renewal",
+        "purpose": "Current expenses.",
+        "mills": "1.8 mills",
+        "term": "5 years, commencing in 2027",
+        "firstDue": "2028",
+        "estimate": "$489,825 a year; $36 for each $100,000 of the county auditor's appraised value"
+      },
+      "sources": [
+        "madison-issues",
+        "madison-ballots",
+        "madison-46day"
+      ]
+    },
+    {
+      "id": "tri-county-fire-additional",
+      "kind": "levy",
+      "jurisdiction": "Tri-County Joint Fire District",
+      "title": "Tax levy (additional): Current expenses; fire apparatus, mechanical resuscitators, underwater rescue and recovery equipment, buildings and sites, water supply, fire-alarm communications, firefighting, emergency medical, administrative and communications personnel, ambulance equipment, and ambulance, paramedic or other emergency medical services",
+      "area": "Pleasant Township and Mt. Sterling (precincts Mt. Sterling and Pleasant 1-3)",
+      "places": [
+        "Mt. Sterling Village",
+        "Pleasant Township"
+      ],
+      "levy": {
+        "type": "Additional",
+        "purpose": "Current expenses; fire apparatus, mechanical resuscitators, underwater rescue and recovery equipment, buildings and sites, water supply, fire-alarm communications, firefighting, emergency medical, administrative and communications personnel, ambulance equipment, and ambulance, paramedic or other emergency medical services.",
+        "mills": "2.5 mills",
+        "term": "5 years, commencing in 2027",
+        "firstDue": "2028",
+        "estimate": "$710,410 a year; $88 for each $100,000 of the county auditor's market value"
+      },
+      "sources": [
+        "madison-issues",
+        "madison-ballots",
+        "madison-46day"
+      ]
+    },
+    {
+      "id": "jefferson-lsd-pi",
+      "kind": "levy",
+      "jurisdiction": "Jefferson Local School District",
+      "title": "Tax levy (additional): Permanent improvements",
+      "area": "West Jefferson A and B, Jefferson Twp A (split 1), Jefferson Township B",
+      "places": [
+        "Jefferson Township",
+        "West Jefferson Village"
+      ],
+      "levy": {
+        "type": "Additional",
+        "purpose": "Permanent improvements.",
+        "mills": "2.55 mills",
+        "term": "5 years, commencing in 2026",
+        "firstDue": "2027",
+        "estimate": "$859,370 a year; $89 for each $100,000 of the county auditor's market value"
+      },
+      "sources": [
+        "madison-issues",
+        "madison-ballots",
+        "madison-46day"
+      ]
+    },
+    {
+      "id": "miami-trace-renewal",
+      "kind": "levy",
+      "jurisdiction": "Miami Trace Local School District (Fayette, Clinton, Highland, Pickaway and Ross)",
+      "title": "Tax levy (renewal): Current operating expenses (fixed-sum levy of $1,900,000 a year)",
+      "area": "Parts of Range and Pleasant townships (Paint/Range/Stokes split 4, Pleasant split 2)",
+      "places": [
+        "Pleasant Township",
+        "Range Township"
+      ],
+      "levy": {
+        "type": "Renewal",
+        "purpose": "Current operating expenses (fixed-sum levy of $1,900,000 a year).",
+        "mills": "2.2 mills (estimated average)",
+        "term": "5 years, commencing in 2027",
+        "firstDue": "2028",
+        "estimate": "$1,900,000 a year; $77 for each $100,000 of market value"
+      },
+      "note": "A fixed-sum levy renewing an existing levy. The county auditor certified the district's carry-over balance in excess of the preceding year's general fund expenditures as $0 (0%).",
+      "sources": [
+        "madison-issues",
+        "madison-ballots"
+      ]
+    },
+    {
+      "id": "range-twp-fire",
+      "kind": "levy",
+      "jurisdiction": "Range Township",
+      "title": "Tax levy (renewal): Fire protection",
+      "area": "Range Township, including Midway (Paint/Range/Stokes splits 2-4)",
+      "places": [
+        "Midway Village",
+        "Range Township"
+      ],
+      "levy": {
+        "type": "Renewal",
+        "purpose": "Fire protection.",
+        "mills": "1.7 mills",
+        "term": "5 years, commencing in 2027",
+        "firstDue": "2028",
+        "estimate": "$45,940 a year; $12 for each $100,000 of the county auditor's market value"
+      },
+      "sources": [
+        "madison-issues",
+        "madison-ballots"
+      ]
+    },
+    {
+      "id": "darby-twp-zoning",
+      "kind": "question",
+      "jurisdiction": "Darby Township (unincorporated area)",
+      "title": "Township zoning plan (replacing the Madison County Zoning Resolution)",
+      "area": "Darby 1 and 2",
+      "places": [
+        "Darby Township"
+      ],
+      "text": "A zoning plan regulating the buildings and structures and use of lots and land in the unincorporated area of Darby Township, Madison County, Ohio, as a replacement for the Madison County Zoning Resolution. Shall the zoning plan for the unincorporated area of Darby Township as adopted by the board of township trustees be approved?",
+      "sources": [
+        "madison-issues",
+        "madison-ballots",
+        "madison-46day"
+      ]
+    },
+    {
+      "id": "london-current",
+      "kind": "levy",
+      "jurisdiction": "City of London",
+      "title": "Tax levy (renewal): Current expenses",
+      "area": "London 1-A, 1-B, 2, 3 and 4",
+      "places": [
+        "London City"
+      ],
+      "levy": {
+        "type": "Renewal",
+        "purpose": "Current expenses.",
+        "mills": "2.1 mills",
+        "term": "5 years, commencing in 2027",
+        "firstDue": "2028",
+        "estimate": "$439,585 a year; $43 for each $100,000 of the county auditor's appraised value"
+      },
+      "sources": [
+        "madison-issues",
+        "madison-ballots",
+        "madison-46day"
+      ]
+    },
+    {
+      "id": "london-gas-aggregation",
+      "kind": "question",
+      "jurisdiction": "City of London",
+      "title": "Natural gas aggregation (opt-out)",
+      "area": "London 1-A, 1-B, 2, 3 and 4",
+      "places": [
+        "London City"
+      ],
+      "text": "Shall the City of London have the authority to aggregate the retail natural gas loads located in the City of London, and for that purpose, enter into service agreements to facilitate for those loads the sale and purchase of natural gas, such aggregation to occur automatically except where any person elects to opt out?",
+      "sources": [
+        "madison-issues",
+        "madison-ballots",
+        "madison-46day"
+      ]
+    },
+    {
+      "id": "liquor-london-4-one-stop",
+      "kind": "liquor",
+      "jurisdiction": "City of London",
+      "title": "Local liquor option: London One Stop (Sunday sales)",
+      "area": "London precinct 4",
+      "places": [
+        "London City"
+      ],
+      "text": "Shall the sale of wine and mixed beverages be permitted for sale on Sunday by London Gas & Food, Inc., dba London One Stop, an applicant for a D-6 liquor permit who is engaged in the business of operating a carryout/grocery store at 157 S Main St, London, Ohio 43140 in this precinct?",
+      "sources": [
+        "madison-issues",
+        "madison-ballots",
+        "madison-46day"
+      ]
+    },
+    {
+      "id": "west-jefferson-charter-1",
+      "kind": "question",
+      "jurisdiction": "Village of West Jefferson",
+      "title": "Charter amendment #1: Office of the Mayor",
+      "area": "West Jefferson A and B",
+      "places": [
+        "West Jefferson Village"
+      ],
+      "text": "3.01 Election and Term, 3.02 Qualifications, 3.04 Executive and Administrative Powers, 3.05 Veto Power, 3.06 Acting Mayor, 3.07 Vacancy, and 3.09 Training and Continuing Education. Shall the proposed charter amendment, as reported by the charter commission of the Village of West Jefferson be adopted?",
+      "sources": [
+        "madison-issues",
+        "madison-ballots",
+        "madison-46day"
+      ]
+    },
+    {
+      "id": "west-jefferson-charter-2",
+      "kind": "question",
+      "jurisdiction": "Village of West Jefferson",
+      "title": "Charter amendment #2: The Council",
+      "area": "West Jefferson A and B",
+      "places": [
+        "West Jefferson Village"
+      ],
+      "text": "4.02 Composition and Term, 4.03 Qualifications, 4.04 President and Vice President of Council, 4.06 Removal, 4.07 Vacancies, and 4.16 Compensation. Shall the proposed charter amendment, as reported by the charter commission of the Village of West Jefferson be adopted?",
+      "sources": [
+        "madison-issues",
+        "madison-ballots",
+        "madison-46day"
+      ]
+    },
+    {
+      "id": "west-jefferson-charter-3",
+      "kind": "question",
+      "jurisdiction": "Village of West Jefferson",
+      "title": "Charter amendment #3: The Clerk of Council",
+      "area": "West Jefferson A and B",
+      "places": [
+        "West Jefferson Village"
+      ],
+      "text": "4.08 Clerk of Council. Shall the proposed charter amendment, as reported by the charter commission of the Village of West Jefferson be adopted?",
+      "sources": [
+        "madison-issues",
+        "madison-ballots",
+        "madison-46day"
+      ]
+    },
+    {
+      "id": "west-jefferson-charter-4",
+      "kind": "question",
+      "jurisdiction": "Village of West Jefferson",
+      "title": "Charter amendment #4: Meetings, Notice, Legislation and Executive Session",
+      "area": "West Jefferson A and B",
+      "places": [
+        "West Jefferson Village"
+      ],
+      "text": "4.09 Regular Meetings, 4.10 Special Meetings, 4.11 Legislative Procedure, 4.12 Public Notice, 4.14 Emergency Ordinances, 4.19 Emergency Meetings, and 4.21 Executive Session. Shall the proposed charter amendment, as reported by the charter commission of the Village of West Jefferson be adopted?",
+      "sources": [
+        "madison-issues",
+        "madison-ballots",
+        "madison-46day"
+      ]
+    },
+    {
+      "id": "west-jefferson-charter-5",
+      "kind": "question",
+      "jurisdiction": "Village of West Jefferson",
+      "title": "Charter amendment #5: Executive Directors and Administration",
+      "area": "West Jefferson A and B",
+      "places": [
+        "West Jefferson Village"
+      ],
+      "text": "5.01 Appointment and Vacancy of Director of Finance, 5.02 Powers and Duties of Director of Finance, 6.02 Qualifications, 6.03 Duties in General, 7.01 Appointment, 7.03 Police Department, 7.06 Qualifications for Police Chief, 8.02 Powers and Duties, 9.01 Director of Law, 9.02 Qualifications, 9.03 General Powers and Duties, 9.04 Taxpayer Standing to Bring Suit on Behalf of Municipality, 9.05 Conflict of Interest, and 11.02 Classified and Unclassified Service. Shall the proposed charter amendment, as reported by the charter commission of the Village of West Jefferson be adopted?",
+      "sources": [
+        "madison-issues",
+        "madison-ballots",
+        "madison-46day"
+      ]
+    },
+    {
+      "id": "west-jefferson-charter-6",
+      "kind": "question",
+      "jurisdiction": "Village of West Jefferson",
+      "title": "Charter amendment #6: Planning and Zoning Commission",
+      "area": "West Jefferson A and B",
+      "places": [
+        "West Jefferson Village"
+      ],
+      "text": "10.01 Planning and Zoning Commission - Composition and Procedure, 10.02 Planning and Zoning Commission - Organization, 10.03 Planning and Zoning Commission - Powers and Duties; Appeals, 10.04 Mandatory Referral to the Planning and Zoning Commission, 10.05 Public Hearings by Council, and 10.06 Action by Council. Shall the proposed charter amendment, as reported by the charter commission of the Village of West Jefferson be adopted?",
+      "sources": [
+        "madison-issues",
+        "madison-ballots",
+        "madison-46day"
+      ]
+    },
+    {
+      "id": "west-jefferson-charter-7",
+      "kind": "question",
+      "jurisdiction": "Village of West Jefferson",
+      "title": "Charter amendment #7: General Powers, Nominations of Candidates, Conflict of Interest, Anti-Nepotism, and Technical and Formatting of Charter",
+      "area": "West Jefferson A and B",
+      "places": [
+        "West Jefferson Village"
+      ],
+      "text": "2.01 Municipal Powers, 13.01 Nominations, 18.01 Personal Interest, 18.02 Hiring and/or Appointment Procedures, 18.07 Effect of the Charter Upon Existing Laws and Rights, and 19.01 Corrections to the Charter. Shall the proposed charter amendment, as reported by the charter commission of the Village of West Jefferson be adopted?",
+      "sources": [
+        "madison-issues",
+        "madison-ballots",
+        "madison-46day"
+      ]
+    }
+  ]
+}

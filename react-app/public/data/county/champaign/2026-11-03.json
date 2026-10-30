@@ -1,0 +1,479 @@
+{
+  "scope": "county",
+  "county": "Champaign",
+  "fips": "39021",
+  "election": "2026-11-03",
+  "retrieved": "2026-10-30",
+  "notes": [
+    "Taken from the Board of Elections' 46-day election notice, which lists every contest and issue with the precincts that vote on it and gives the full ballot wording of each issue, checked against the Board's sample ballots for all 51 precinct splits. Where the two differ, the sample ballot's wording is used.",
+    "Candidates are listed alphabetically by last name, not in ballot order: Ohio rotates the order of names from precinct to precinct. Certified write-in candidates are not printed on the ballot and are not listed.",
+    "\"Where you live\" uses the state voter file: a district or school levy is shown for a city, village or township when any of its voters live in that district. Your exact ballot depends on your precinct.",
+    "The Board's ballots do not give local issue numbers."
+  ],
+  "places": [
+    "Adams Township",
+    "Christiansburg Village",
+    "Concord Township",
+    "Goshen Township",
+    "Harrison Township",
+    "Jackson Township",
+    "Johnson Township",
+    "Mad River Township",
+    "Mechanicsburg Village",
+    "Mutual Village",
+    "North Lewisburg Village",
+    "Rush Township",
+    "Salem Township",
+    "St. Paris Village",
+    "Union Township",
+    "Urbana City",
+    "Urbana Township",
+    "Wayne Township",
+    "Woodstock Village"
+  ],
+  "sources": {
+    "champaign-46day": {
+      "label": "Champaign County Board of Elections: 46-day election notice (FWAB), November 3, 2026 General Election (revised 9/14/2026)",
+      "url": "https://www.boe.ohio.gov/champaign/c/upload/FWAB_11November46Day.pdf"
+    },
+    "champaign-ballots": {
+      "label": "Champaign County Board of Elections: official sample ballots for all 51 precinct splits, November 3, 2026 (state ballot lookup)",
+      "url": "https://lookup.boe.ohio.gov/vtrapp/champaign/ballotlist.aspx"
+    }
+  },
+  "links": [
+    {
+      "label": "Board of Elections",
+      "url": "https://www.boe.ohio.gov/champaign/"
+    },
+    {
+      "label": "Election info",
+      "url": "https://www.boe.ohio.gov/champaign/election-info/"
+    },
+    {
+      "label": "Sample ballots by precinct",
+      "url": "https://lookup.boe.ohio.gov/vtrapp/champaign/ballotlist.aspx"
+    },
+    {
+      "label": "Who are my elected officials?",
+      "url": "https://lookup.boe.ohio.gov/vtrapp/champaign/cnm.aspx"
+    }
+  ],
+  "results": {
+    "status": "upcoming",
+    "links": [
+      {
+        "label": "Board of Elections: election results",
+        "url": "https://www.boe.ohio.gov/champaign/election-info/election-results/"
+      }
+    ]
+  },
+  "contests": [
+    {
+      "id": "congress-4",
+      "group": "U.S. House",
+      "office": "Representative to Congress",
+      "detail": "4th District",
+      "candidates": [
+        {
+          "name": "Jim Jordan",
+          "party": "REP"
+        },
+        {
+          "name": "Joshua D. Kolasinski",
+          "party": "DEM"
+        },
+        {
+          "name": "Tracey L. Tackett",
+          "party": "Nonparty"
+        }
+      ],
+      "sources": [
+        "champaign-46day",
+        "champaign-ballots"
+      ]
+    },
+    {
+      "id": "rep-85",
+      "group": "Ohio General Assembly",
+      "office": "State Representative",
+      "detail": "85th District",
+      "candidates": [
+        {
+          "name": "Tim Barhorst",
+          "party": "REP"
+        },
+        {
+          "name": "Victoria Maddox",
+          "party": "DEM"
+        }
+      ],
+      "sources": [
+        "champaign-46day",
+        "champaign-ballots"
+      ]
+    },
+    {
+      "id": "appeals-2-0209",
+      "group": "Ohio Court of Appeals",
+      "office": "Judge of the Court of Appeals",
+      "detail": "2nd District · term commencing February 9, 2027",
+      "candidates": [
+        {
+          "name": "Chris Epley",
+          "party": "REP"
+        }
+      ],
+      "sources": [
+        "champaign-46day",
+        "champaign-ballots"
+      ]
+    },
+    {
+      "id": "commissioner",
+      "group": "County offices",
+      "office": "County Commissioner",
+      "detail": "Full 4-year term commencing January 1, 2027",
+      "candidates": [
+        {
+          "name": "Karen T. Bailey",
+          "party": "REP"
+        },
+        {
+          "name": "Jacob McKee",
+          "party": "DEM"
+        },
+        {
+          "name": "Todd Woodruff",
+          "party": "Nonparty"
+        }
+      ],
+      "sources": [
+        "champaign-46day",
+        "champaign-ballots"
+      ]
+    },
+    {
+      "id": "auditor",
+      "group": "County offices",
+      "office": "County Auditor",
+      "detail": "Full 4-year term commencing March 8, 2027",
+      "candidates": [
+        {
+          "name": "John Patrick Ritchie",
+          "party": "Nonparty"
+        },
+        {
+          "name": "Nino Vitale",
+          "party": "REP"
+        }
+      ],
+      "sources": [
+        "champaign-46day",
+        "champaign-ballots"
+      ]
+    },
+    {
+      "id": "cp-juv-dr-probate-0209",
+      "group": "Court of Common Pleas",
+      "office": "Judge of the Court of Common Pleas, Juvenile/Domestic/Probate Division",
+      "detail": "Full 6-year term commencing February 9, 2027 · no party label on the ballot",
+      "candidates": [
+        {
+          "name": "Lori L. Reisinger"
+        }
+      ],
+      "sources": [
+        "champaign-46day",
+        "champaign-ballots"
+      ]
+    },
+    {
+      "id": "cp-juv-dr-probate-0210",
+      "group": "Court of Common Pleas",
+      "office": "Judge of the Court of Common Pleas, Juvenile/Domestic/Probate Division",
+      "detail": "Full 6-year term commencing February 10, 2027 · no party label on the ballot",
+      "candidates": [
+        {
+          "name": "Brett A. Gilbert"
+        }
+      ],
+      "sources": [
+        "champaign-46day",
+        "champaign-ballots"
+      ]
+    },
+    {
+      "id": "mayor-urbana",
+      "group": "Municipal offices",
+      "office": "Mayor, City of Urbana",
+      "detail": "Unexpired term ending December 31, 2027 · printed with the recall question and filled only if Mayor Bill Bean is recalled · no party label on the ballot",
+      "area": "Urbana 1-A to 4-B (all city precincts)",
+      "places": [
+        "Urbana City"
+      ],
+      "candidates": [
+        {
+          "name": "Eugene E. Fields, Jr."
+        }
+      ],
+      "sources": [
+        "champaign-46day",
+        "champaign-ballots"
+      ]
+    }
+  ],
+  "issues": [
+    {
+      "id": "health-district",
+      "kind": "levy",
+      "jurisdiction": "Champaign County (Champaign Health District)",
+      "title": "Tax levy (renewal): Operation of the Champaign Health District",
+      "area": "Champaign County (Champaign Health District)",
+      "levy": {
+        "type": "Renewal",
+        "purpose": "Operation of the Champaign Health District.",
+        "mills": "0.4 mill",
+        "term": "5 years, commencing in 2027",
+        "firstDue": "2028",
+        "estimate": "$303,400 a year; $6 for each $100,000 of market value"
+      },
+      "note": "The sample ballots give $6 for each $100,000 of market value; the Board's 46-day notice gives $14.",
+      "sources": [
+        "champaign-46day",
+        "champaign-ballots"
+      ]
+    },
+    {
+      "id": "dd-levy",
+      "kind": "levy",
+      "jurisdiction": "Champaign County",
+      "title": "Tax levy (additional): Community developmental disabilities programs and services, and developmental disabilities facilities (Champaign County Board of Developmental Disabilities)",
+      "area": "Champaign County",
+      "levy": {
+        "type": "Additional",
+        "purpose": "Community developmental disabilities programs and services, and developmental disabilities facilities (Champaign County Board of Developmental Disabilities).",
+        "mills": "1.5 mills",
+        "term": "5 years, commencing in 2027",
+        "firstDue": "2028",
+        "estimate": "$2,412,660 a year; $53 for each $100,000 of market value"
+      },
+      "sources": [
+        "champaign-46day",
+        "champaign-ballots"
+      ]
+    },
+    {
+      "id": "urbana-charter-data-center",
+      "kind": "question",
+      "jurisdiction": "City of Urbana",
+      "title": "Charter amendment: prohibit the construction of data centers (new Section 8.07)",
+      "area": "Urbana 1-A to 4-B (all city precincts)",
+      "places": [
+        "Urbana City"
+      ],
+      "text": "Shall Article VIII of the Charter of the City of Urbana be amended to add Section 8.07, to read as follows? Article VIII, Section 8.07. Prohibition of a Data Center. (A) the construction of a data center is hereby prohibited. (B) as used in this Section, \"construction\" shall mean the erection of one or more buildings, infrastructure, facilities and related activities, which include preparations and modifications for same, for a common purpose. (C) as used in this Section, \"data center\" shall mean one or more buildings or physical facilities or infrastructure, located on a single real property parcel or on contiguous, adjacent, or otherwise aggregated real property parcels that are used primarily or exclusively for digital information services such as the management, storage, processing and dissemination of electronic data and information, including but not limited to the implementation of artificial intelligence, through the use of computer systems, servers, networking equipment, and related components, including equipment cooling systems, or virtual currency mining. (D) this Section shall not apply to data centers, as defined in this section, whose sole purpose is to serve as a dedicated facility that supports the computing needs of a single organization or enterprise not otherwise engaged in the business of management, storage, processing, and/or dissemination of electronic data and information and which is wholly owned by that enterprise, and which has an aggregate monthly demand or peak load of less than seven-point-five (7.5) megawatts, however derived from any energy source, or a combination thereof. (E) this Section is self-executing.",
+      "sources": [
+        "champaign-46day",
+        "champaign-ballots"
+      ]
+    },
+    {
+      "id": "urbana-mayor-recall",
+      "kind": "question",
+      "jurisdiction": "City of Urbana",
+      "title": "Recall of Mayor Bill Bean (by petition)",
+      "area": "Urbana 1-A to 4-B (all city precincts)",
+      "places": [
+        "Urbana City"
+      ],
+      "text": "Shall BILL BEAN be removed from the office of MAYOR of the CITY OF URBANA BY RECALL?",
+      "note": "The same ballot box elects a successor for the unexpired term ending December 31, 2027 (Eugene E. Fields, Jr. is the only candidate); see the Mayor contest.",
+      "sources": [
+        "champaign-46day",
+        "champaign-ballots"
+      ]
+    },
+    {
+      "id": "goshen-memorial-park",
+      "kind": "levy",
+      "jurisdiction": "Goshen Township (Goshen Township Memorial Park)",
+      "title": "Tax levy (renewal): Township memorial park district: purchasing, appropriating, operating, maintaining and improving land for park and recreational purposes",
+      "area": "Mechanicsburg, Goshen North, Goshen South",
+      "places": [
+        "Goshen Township",
+        "Mechanicsburg Village"
+      ],
+      "levy": {
+        "type": "Renewal",
+        "purpose": "Township memorial park district: purchasing, appropriating, operating, maintaining and improving land for park and recreational purposes.",
+        "mills": "1 mill",
+        "term": "5 years, commencing in 2027",
+        "firstDue": "2028",
+        "estimate": "$55,500 a year; $13 for each $100,000 of market value"
+      },
+      "sources": [
+        "champaign-46day",
+        "champaign-ballots"
+      ]
+    },
+    {
+      "id": "rush-roads",
+      "kind": "levy",
+      "jurisdiction": "Rush Township (excluding the villages of Woodstock and North Lewisburg)",
+      "title": "Tax levy (renewal): General construction, reconstruction, resurfacing and repair of roads and bridges",
+      "area": "Rush (split 1)",
+      "places": [
+        "Rush Township"
+      ],
+      "levy": {
+        "type": "Renewal",
+        "purpose": "General construction, reconstruction, resurfacing and repair of roads and bridges.",
+        "mills": "1 mill",
+        "term": "5 years, commencing in 2027",
+        "firstDue": "2028",
+        "estimate": "$11,000 a year; $6 for each $100,000 of market value"
+      },
+      "sources": [
+        "champaign-46day",
+        "champaign-ballots"
+      ]
+    },
+    {
+      "id": "salem-fire-ems",
+      "kind": "levy",
+      "jurisdiction": "Salem Township",
+      "title": "Tax levy (renewal): Fire and EMS services",
+      "area": "Salem North, Salem South, plus Urbana 4-A and 4-B (split 2)",
+      "places": [
+        "Salem Township",
+        "Urbana City"
+      ],
+      "levy": {
+        "type": "Renewal",
+        "purpose": "Fire and EMS services.",
+        "mills": "3 mills",
+        "term": "5 years, commencing in 2027",
+        "firstDue": "2028",
+        "estimate": "$210,500 a year; $64 for each $100,000 of market value"
+      },
+      "sources": [
+        "champaign-46day",
+        "champaign-ballots"
+      ]
+    },
+    {
+      "id": "wayne-roads",
+      "kind": "levy",
+      "jurisdiction": "Wayne Township",
+      "title": "Tax levy (renewal): General construction, reconstruction, resurfacing and repair of roads",
+      "area": "Wayne North, Wayne South",
+      "places": [
+        "Wayne Township"
+      ],
+      "levy": {
+        "type": "Renewal",
+        "purpose": "General construction, reconstruction, resurfacing and repair of roads.",
+        "mills": "2.5 mills",
+        "term": "5 years, commencing in 2027",
+        "firstDue": "2028",
+        "estimate": "$68,500 a year; $24 for each $100,000 of market value"
+      },
+      "sources": [
+        "champaign-46day",
+        "champaign-ballots"
+      ]
+    },
+    {
+      "id": "northwestern-lsd-pi",
+      "kind": "levy",
+      "jurisdiction": "Northwestern Local School District (Clark and Champaign)",
+      "title": "Tax levy (renewal): Permanent improvements",
+      "area": "Northwestern Local School District, Champaign County part (Mad River A split 3, Urbana South split 2)",
+      "places": [
+        "Mad River Township",
+        "Urbana Township"
+      ],
+      "levy": {
+        "type": "Renewal",
+        "purpose": "Permanent improvements.",
+        "mills": "1 mill",
+        "term": "5 years, commencing in 2026",
+        "firstDue": "2027",
+        "estimate": "$225,394 a year; $35 for each $100,000 of market value"
+      },
+      "sources": [
+        "champaign-46day",
+        "champaign-ballots"
+      ]
+    },
+    {
+      "id": "northwestern-lsd-current",
+      "kind": "levy",
+      "jurisdiction": "Northwestern Local School District (Clark and Champaign)",
+      "title": "Tax levy (renewal): Current operating expenses (fixed sum of $1,756,160)",
+      "area": "Northwestern Local School District, Champaign County part (Mad River A split 3, Urbana South split 2)",
+      "places": [
+        "Mad River Township",
+        "Urbana Township"
+      ],
+      "levy": {
+        "type": "Renewal",
+        "purpose": "Current operating expenses (fixed sum of $1,756,160).",
+        "mills": "4.32 mills (estimated average)",
+        "term": "5 years, commencing in 2026",
+        "firstDue": "2027",
+        "estimate": "$151 for each $100,000 of market value"
+      },
+      "sources": [
+        "champaign-46day",
+        "champaign-ballots"
+      ]
+    },
+    {
+      "id": "johnson-st-paris-fire",
+      "kind": "levy",
+      "jurisdiction": "Johnson St. Paris Fire District",
+      "title": "Tax levy (renewal): Providing and maintaining fire apparatus, appliances, buildings or sites",
+      "area": "St Paris (splits 1 and 2), Johnson",
+      "places": [
+        "Johnson Township",
+        "St. Paris Village"
+      ],
+      "levy": {
+        "type": "Renewal",
+        "purpose": "Providing and maintaining fire apparatus, appliances, buildings or sites.",
+        "mills": "2.25 mills",
+        "term": "5 years, commencing in 2027",
+        "firstDue": "2028",
+        "estimate": "$153,000 a year; $35 for each $100,000 of market value"
+      },
+      "sources": [
+        "champaign-46day",
+        "champaign-ballots"
+      ]
+    },
+    {
+      "id": "urbana-twp-fire-ems",
+      "kind": "levy",
+      "jurisdiction": "Urbana Township (unincorporated, excluding the City of Urbana)",
+      "title": "Tax levy (additional): Fire and emergency medical (ambulance) services, including payment of firefighting companies or permanent, part-time or volunteer firefighters and EMS",
+      "area": "Urbana North, Urbana South (splits 1 and 2)",
+      "places": [
+        "Urbana Township"
+      ],
+      "levy": {
+        "type": "Additional",
+        "purpose": "Fire and emergency medical (ambulance) services, including payment of firefighting companies or permanent, part-time or volunteer firefighters and EMS.",
+        "mills": "4 mills",
+        "term": "Continuing, commencing in 2026",
+        "firstDue": "2027",
+        "estimate": "$525,000 a year; $140 for each $100,000 of market value"
+      },
+      "sources": [
+        "champaign-46day",
+        "champaign-ballots"
+      ]
+    }
+  ]
+}

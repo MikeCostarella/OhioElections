@@ -171,3 +171,27 @@ Data notes:
 - Renames: Ashland's "<NAME>-COMBINED" townships (Clearcreek is "Clear Creek Township"), Brown's "MT. ORAB" (Mount Orab), Logan's "DEGRAFF" (DeGraff), Ottawa's "PUT- IN- BAY TWP", "PUT-IN-BAY VILLAGE" and "CATAWBA TWP" (Catawba Island Township).
 - Darke's County Coroner seat has no valid candidate filed and is not listed.
 
+# Oct 30, 2026 (Madison, Fulton, Mercer, Preble, Champaign, Defiance, Guernsey, Williams, Coshocton, Perry)
+
+- Full ballots for ten more counties (66 with local data now, plus Trumbull's original), each from the Board's 46-day FWAB notice, cross-checked against precinct sample ballots or ballot proofs where available:
+  - Madison: 8 contests, 18 issues (notice, candidate list, final issues list, all 40 sample ballots; seven West Jefferson charter amendments).
+  - Fulton: 9 contests, 20 issues (Issues 1–20; the Board's ballot proofs for all 37 styles).
+  - Mercer: 7 contests, 6 issues (notice only; the Board is now at mercercountyoh.gov and doesn't use the state ballot lookup).
+  - Preble: 10 contests, 9 issues (Issues 4–12; incl. a Lanier Township trustee race).
+  - Champaign: 8 contests, 12 issues (all 51 sample ballots; Urbana's data-center charter amendment and the recall of Mayor Bill Bean with its successor race).
+  - Defiance: 10 contests, 8 issues (all 46 sample ballots; Defiance City data-center charter amendment).
+  - Guernsey: 8 contests, 18 issues (all 35 sample ballots; Board site boe.guernseycounty.gov).
+  - Williams: 8 contests, 10 issues (Issues 4–13; all 44 sample ballots; Board site williamscountyoh.gov).
+  - Coshocton: 8 contests, 5 issues (Issues 2–6; Board site coshocton.boe.ohio.gov).
+  - Perry: 12 contests, 21 issues.
+
+Data notes:
+- Shared items reuse ids and wording: Four County ADAMhs (Defiance, Fulton, Williams), Central Local LSD (Defiance, Williams), Evergreen LSD and Swanton library (Lucas, Fulton), College Corner fire (Butler Issue 9, Preble Issue 6), Roseville (Muskingum, Perry), Northwestern LSD (Clark, Champaign), Miami Trace, Sterling Joint Ambulance and Tri-County Joint Fire (Pickaway, Madison), 12th District Court of Appeals (Madison, Preble as in Butler/Warren/Clermont/Clinton).
+- Madison's notice leaves out the Range Township fire renewal and the Miami Trace renewal; both are on its issues list and ballots and are included. The Madison EMS levy is $167 per $100,000 on the ballot ($166.25 in the notice and issues list).
+- Champaign's health levy is $6 per $100,000 on every ballot but $14 in the notice (0.4 mill works out to about $14); the ballot figure is shown, with a note.
+- Fulton: probate judge Stiriz is shown without a party, as for all Common Pleas judges, though the Board's ballot proofs print "Republican" under her name (noted). Matthew Althaus (LIB, 9th District) is on the notice but on none of the ballot proofs and is not listed, as in Lucas, Wood, Erie and Ottawa.
+- Williams' notice prints the ADAMhs levy as ".07 mill"; the ballots say 0.7.
+- Defiance: the newer notice (10/15) puts Ney Village in the Washington Township fire levy; the 9/17 sample ballots don't. The notice is followed.
+- Mercer's auditor term is "3/14/2027" as printed; Perry's Common Pleas General Division term "commencing 7-6-2028" as printed in two Board documents.
+- Renames: Perry's "MONDAY CREEK TOWNSHP", Williams' "SAINT JOSEPH TWP" (St. Joseph Township), Madison's "MT. STERLING VILLAGE" (Mt. Sterling Village, the Board's spelling).
+

@@ -1,0 +1,699 @@
+{
+  "scope": "county",
+  "county": "Fulton",
+  "fips": "39051",
+  "election": "2026-11-03",
+  "retrieved": "2026-10-30",
+  "notes": [
+    "Taken from the Board of Elections' 46-day election notice, which lists every contest and issue with the precincts that vote on it, checked against the Board's ballot proofs for every precinct and its issue list. Issue wording is from the ballot proofs.",
+    "Candidates are listed alphabetically by last name, not in ballot order: Ohio rotates the order of names from precinct to precinct. Certified write-in candidates are not printed on the ballot and are not listed.",
+    "\"Where you live\" uses the state voter file: a district or school levy is shown for a city, village or township when any of its voters live in that district. Your exact ballot depends on your precinct.",
+    "Local issue numbers run 1 to 20. Fulton County also numbers the Pettisville Local School District levy \"Issue 3\", the same number as the statewide question; both appear on Pettisville ballots."
+  ],
+  "places": [
+    "Amboy Township",
+    "Archbold Village",
+    "Chesterfield Township",
+    "Clinton Township",
+    "Delta Village",
+    "Dover Township",
+    "Fayette Village",
+    "Franklin Township",
+    "Fulton Township",
+    "German Township",
+    "Gorham Township",
+    "Lyons Village",
+    "Metamora Village",
+    "Pike Township",
+    "Royalton Township",
+    "Swancreek Township",
+    "Swanton Village",
+    "Wauseon City",
+    "York Township"
+  ],
+  "sources": {
+    "fulton-46day": {
+      "label": "Fulton County Board of Elections: 46-day election notice (FWAB), November 3, 2026 General Election (revised September 18, 2026)",
+      "url": "https://www.boe.ohio.gov/fulton/c/upload/FWAB_11November46Day.pdf"
+    },
+    "fulton-proofs": {
+      "label": "Fulton County Board of Elections: ballot proofs for review, every precinct, November 3, 2026 General Election",
+      "url": "https://www.boe.ohio.gov/fulton/c/upload/Ballot_BallotProofs.pdf"
+    },
+    "fulton-issues": {
+      "label": "Fulton County Board of Elections: issue list report, November 3, 2026 General Election (August 11, 2026)",
+      "url": "https://www.boe.ohio.gov/fulton/c/upload/Election_IssuesList.pdf"
+    }
+  },
+  "links": [
+    {
+      "label": "Board of Elections",
+      "url": "https://www.boe.ohio.gov/fulton/"
+    },
+    {
+      "label": "Election information",
+      "url": "https://www.boe.ohio.gov/fulton/election-info/"
+    },
+    {
+      "label": "Candidate filings",
+      "url": "https://lookup.boe.ohio.gov/vtrapp/fulton/cfis.aspx"
+    },
+    {
+      "label": "Am I registered? / Sample ballot",
+      "url": "https://lookup.boe.ohio.gov/vtrapp/fulton/vtrlookup.aspx"
+    },
+    {
+      "label": "Sample ballots by precinct",
+      "url": "https://lookup.boe.ohio.gov/vtrapp/fulton/ballotlist.aspx"
+    },
+    {
+      "label": "Precincts and polling locations",
+      "url": "https://www.boe.ohio.gov/fulton/precinct-and-polling-location-info/"
+    }
+  ],
+  "results": {
+    "status": "upcoming",
+    "links": [
+      {
+        "label": "Board of Elections: election results",
+        "url": "https://www.boe.ohio.gov/fulton/election-info/election-results/"
+      }
+    ]
+  },
+  "contests": [
+    {
+      "id": "congress-9",
+      "group": "U.S. House",
+      "office": "Representative to Congress",
+      "detail": "9th District",
+      "candidates": [
+        {
+          "name": "Marcy Kaptur",
+          "party": "DEM"
+        },
+        {
+          "name": "Derek Merrin",
+          "party": "REP"
+        }
+      ],
+      "sources": [
+        "fulton-46day",
+        "fulton-proofs"
+      ]
+    },
+    {
+      "id": "senate-1",
+      "group": "Ohio General Assembly",
+      "office": "State Senator",
+      "detail": "1st District · full term commencing January 1, 2027",
+      "candidates": [
+        {
+          "name": "Craig S. Riedel",
+          "party": "REP"
+        }
+      ],
+      "sources": [
+        "fulton-46day",
+        "fulton-proofs"
+      ]
+    },
+    {
+      "id": "rep-81",
+      "group": "Ohio General Assembly",
+      "office": "State Representative",
+      "detail": "81st District",
+      "candidates": [
+        {
+          "name": "Patti Rockey",
+          "party": "REP"
+        },
+        {
+          "name": "David Swanson",
+          "party": "DEM"
+        }
+      ],
+      "sources": [
+        "fulton-46day",
+        "fulton-proofs"
+      ]
+    },
+    {
+      "id": "appeals-6-0209",
+      "group": "Ohio Court of Appeals",
+      "office": "Judge of the Court of Appeals",
+      "detail": "6th District · full term commencing February 9, 2027",
+      "candidates": [
+        {
+          "name": "Michael R. Goulding",
+          "party": "REP"
+        }
+      ],
+      "sources": [
+        "fulton-46day",
+        "fulton-proofs"
+      ]
+    },
+    {
+      "id": "appeals-6-0210",
+      "group": "Ohio Court of Appeals",
+      "office": "Judge of the Court of Appeals",
+      "detail": "6th District · full term commencing February 10, 2027",
+      "candidates": [
+        {
+          "name": "Myron C. Duhart",
+          "party": "DEM"
+        },
+        {
+          "name": "CJ Kamm",
+          "party": "REP"
+        }
+      ],
+      "sources": [
+        "fulton-46day",
+        "fulton-proofs"
+      ]
+    },
+    {
+      "id": "commissioner",
+      "group": "County offices",
+      "office": "County Commissioner",
+      "detail": "Full term commencing January 1, 2027",
+      "candidates": [
+        {
+          "name": "Brinda S. Miller",
+          "party": "Nonparty"
+        },
+        {
+          "name": "Jeff Rupp",
+          "party": "REP"
+        }
+      ],
+      "sources": [
+        "fulton-46day",
+        "fulton-proofs"
+      ]
+    },
+    {
+      "id": "commissioner-unexpired",
+      "group": "County offices",
+      "office": "County Commissioner",
+      "detail": "Unexpired term ending January 2, 2029",
+      "candidates": [
+        {
+          "name": "Ronald J. Lumbrezer",
+          "party": "REP"
+        }
+      ],
+      "sources": [
+        "fulton-46day",
+        "fulton-proofs"
+      ]
+    },
+    {
+      "id": "auditor",
+      "group": "County offices",
+      "office": "County Auditor",
+      "detail": "Full term commencing March 8, 2027",
+      "candidates": [
+        {
+          "name": "Brett J. Kolb",
+          "party": "REP"
+        }
+      ],
+      "sources": [
+        "fulton-46day",
+        "fulton-proofs"
+      ]
+    },
+    {
+      "id": "cp-probate-juv",
+      "group": "Court of Common Pleas",
+      "office": "Judge of the Court of Common Pleas, Probate/Juvenile Division",
+      "detail": "Full term commencing February 9, 2027 · the Board's ballot proofs print \"Republican\" under the name",
+      "candidates": [
+        {
+          "name": "Stacey L. Stiriz"
+        }
+      ],
+      "sources": [
+        "fulton-46day",
+        "fulton-proofs"
+      ]
+    }
+  ],
+  "issues": [
+    {
+      "id": "issue-1",
+      "kind": "question",
+      "jurisdiction": "Evergreen Local School District (Fulton and Lucas)",
+      "title": "School district income tax: 0.25% renewal, 5 years",
+      "area": "Evergreen Local School District (Fulton County part: Amboy/Metamora, Chesterfield, Fulton 012/1, Pike 018/2, Royalton/Lyons)",
+      "places": [
+        "Amboy Township",
+        "Chesterfield Township",
+        "Fulton Township",
+        "Lyons Village",
+        "Metamora Village",
+        "Pike Township",
+        "Royalton Township"
+      ],
+      "number": "Issue 1",
+      "text": "Shall an annual income tax of 0.25% on the school district income of individuals residing in the school district be imposed by the Evergreen Local School District to renew an income tax expiring at the end of 2027 for 5 years, beginning January 1, 2028, for the purpose of providing for current expenses?",
+      "sources": [
+        "fulton-46day",
+        "fulton-proofs",
+        "fulton-issues"
+      ]
+    },
+    {
+      "id": "four-county-adamhs",
+      "kind": "levy",
+      "jurisdiction": "Four County ADAMhs Board (Defiance, Fulton, Henry and Williams)",
+      "title": "Tax levy (renewal): Current expenses of the Four County Board of Alcohol, Drug Addiction and Mental Health Services District",
+      "area": "Fulton County",
+      "levy": {
+        "type": "Renewal",
+        "purpose": "Current expenses of the Four County Board of Alcohol, Drug Addiction and Mental Health Services District.",
+        "mills": "0.7 mill",
+        "term": "5 years, commencing in 2027",
+        "firstDue": "2028",
+        "estimate": "$2,293,020 a year; $13 for each $100,000 of market value"
+      },
+      "number": "Issue 2",
+      "sources": [
+        "fulton-46day",
+        "fulton-proofs",
+        "fulton-issues"
+      ]
+    },
+    {
+      "id": "issue-3",
+      "kind": "levy",
+      "jurisdiction": "Pettisville Local School District (Fulton and Henry)",
+      "title": "Tax levy (renewal): General permanent improvements",
+      "area": "Pettisville Local School District (Fulton County part: Pettisville 009/1 and 009/2, Dover 010/2)",
+      "places": [
+        "Clinton Township",
+        "Dover Township",
+        "German Township"
+      ],
+      "levy": {
+        "type": "Renewal",
+        "purpose": "General permanent improvements.",
+        "mills": "2.5 mills",
+        "term": "5 years, commencing in 2026",
+        "firstDue": "2027",
+        "estimate": "$188,972 per year"
+      },
+      "number": "Issue 3",
+      "sources": [
+        "fulton-46day",
+        "fulton-proofs",
+        "fulton-issues"
+      ]
+    },
+    {
+      "id": "issue-4",
+      "kind": "levy",
+      "jurisdiction": "Swanton Public Library (Fulton and Lucas)",
+      "title": "Tax levy (renewal): Current expenses of the Swanton Public Library",
+      "area": "Swanton Local School District (Fulton County part: Fulton 012/2, Swanton Fulton, Swanton Swancreek, Swancreek East One, Swancreek East Two 023/1)",
+      "places": [
+        "Fulton Township",
+        "Swancreek Township",
+        "Swanton Village"
+      ],
+      "levy": {
+        "type": "Renewal",
+        "purpose": "Current expenses of the Swanton Public Library.",
+        "mills": "1 mill",
+        "term": "5 years, commencing in 2026",
+        "firstDue": "2027",
+        "estimate": "$220,002 per year"
+      },
+      "number": "Issue 4",
+      "sources": [
+        "fulton-46day",
+        "fulton-proofs",
+        "fulton-issues"
+      ]
+    },
+    {
+      "id": "issue-5",
+      "kind": "question",
+      "jurisdiction": "Wauseon Exempted Village School District",
+      "title": "School district income tax: 1.75% renewal, continuing",
+      "area": "Wauseon Exempted Village School District (Wauseon One–Five, Clinton East, Dover 010/1, York 029/2)",
+      "places": [
+        "Clinton Township",
+        "Dover Township",
+        "Wauseon City",
+        "York Township"
+      ],
+      "number": "Issue 5",
+      "text": "Shall an annual income tax of 1.75% on the earned income of individuals residing in the school district be imposed by the Wauseon Exempted Village School District to renew an income tax expiring at the end of 2027, for a continuing period of time, beginning January 1, 2028, for the purpose of current expenses?",
+      "sources": [
+        "fulton-46day",
+        "fulton-proofs",
+        "fulton-issues"
+      ]
+    },
+    {
+      "id": "issue-6",
+      "kind": "liquor",
+      "jurisdiction": "Village of Archbold",
+      "title": "Local liquor option: Casey's General Store #5152 (Sunday)",
+      "area": "Archbold precinct Archbold Three",
+      "places": [
+        "Archbold Village"
+      ],
+      "number": "Issue 6",
+      "text": "Shall the sale of wine and mixed beverages be permitted for sale on Sunday by Casey's Marketing Co., doing business as Casey's General Store #5152, an applicant for a D-6 liquor permit, at 705 S. Defiance Street, Archbold, in this precinct?",
+      "sources": [
+        "fulton-46day",
+        "fulton-proofs",
+        "fulton-issues"
+      ]
+    },
+    {
+      "id": "issue-7",
+      "kind": "liquor",
+      "jurisdiction": "Village of Archbold",
+      "title": "Local liquor option: Archbold One Stop Center (Sunday)",
+      "area": "Archbold precinct Archbold Three",
+      "places": [
+        "Archbold Village"
+      ],
+      "number": "Issue 7",
+      "text": "Shall the sale of wine and mixed beverages be permitted for sale on Sunday by Archbold One Stop Center, L.L.C., dba Archbold One Stop Center (Marathon), an applicant for a D-6 liquor permit, at 1191 S. Defiance Street, Archbold, in this precinct?",
+      "sources": [
+        "fulton-46day",
+        "fulton-proofs",
+        "fulton-issues"
+      ]
+    },
+    {
+      "id": "issue-8",
+      "kind": "question",
+      "jurisdiction": "City of Wauseon",
+      "title": "Charter amendment: new Section 6.10 (Department of Building and Zoning)",
+      "area": "City of Wauseon",
+      "places": [
+        "Wauseon City"
+      ],
+      "number": "Issue 8",
+      "text": "Shall the Charter of the City of Wauseon be amended to include a new Section 6.10 which would create a new Department of Building and Zoning?",
+      "sources": [
+        "fulton-46day",
+        "fulton-proofs",
+        "fulton-issues"
+      ]
+    },
+    {
+      "id": "issue-9",
+      "kind": "levy",
+      "jurisdiction": "City of Wauseon",
+      "title": "Tax levy (additional): Parks and recreation",
+      "area": "City of Wauseon",
+      "places": [
+        "Wauseon City"
+      ],
+      "levy": {
+        "type": "Additional",
+        "purpose": "Parks and recreation.",
+        "mills": "1.6 mills",
+        "term": "5 years, commencing in 2026",
+        "firstDue": "2027",
+        "estimate": "$292,394 per year"
+      },
+      "number": "Issue 9",
+      "sources": [
+        "fulton-46day",
+        "fulton-proofs",
+        "fulton-issues"
+      ]
+    },
+    {
+      "id": "issue-10",
+      "kind": "levy",
+      "jurisdiction": "Village of Delta",
+      "title": "Tax levy (renewal): Police department: motor vehicles, communications, other equipment, buildings and sites used directly in its operation, salaries of police personnel, and the officers' contribution required under section 742.33 of the Revised Code",
+      "area": "Village of Delta",
+      "places": [
+        "Delta Village"
+      ],
+      "levy": {
+        "type": "Renewal",
+        "purpose": "Police department: motor vehicles, communications, other equipment, buildings and sites used directly in its operation, salaries of police personnel, and the officers' contribution required under section 742.33 of the Revised Code.",
+        "mills": "5 mills",
+        "term": "5 years, commencing in 2027",
+        "firstDue": "2028",
+        "estimate": "$242,064 per year"
+      },
+      "number": "Issue 10",
+      "sources": [
+        "fulton-46day",
+        "fulton-proofs",
+        "fulton-issues"
+      ]
+    },
+    {
+      "id": "issue-11",
+      "kind": "question",
+      "jurisdiction": "Village of Delta",
+      "title": "Municipal income tax: change the use of the existing 0.5% water-fund income tax",
+      "area": "Village of Delta",
+      "places": [
+        "Delta Village"
+      ],
+      "number": "Issue 11",
+      "text": "Shall Ordinance No. 19-2026, modifying the authorized use of the previously approved 0.5% municipal income tax revenue currently dedicated to the water fund, so that such revenue may be used for the general fund and/or police fund for employee wages, employee benefits, operating expenditures, and capital expenditures, be passed?",
+      "sources": [
+        "fulton-46day",
+        "fulton-proofs",
+        "fulton-issues"
+      ]
+    },
+    {
+      "id": "issue-12",
+      "kind": "levy",
+      "jurisdiction": "Village of Lyons",
+      "title": "Tax levy (renewal): Current operating expenses",
+      "area": "Village of Lyons",
+      "places": [
+        "Lyons Village"
+      ],
+      "levy": {
+        "type": "Renewal",
+        "purpose": "Current operating expenses.",
+        "mills": "4.1 mills",
+        "term": "5 years, commencing in 2027",
+        "firstDue": "2028",
+        "estimate": "$34,715 per year"
+      },
+      "number": "Issue 12",
+      "sources": [
+        "fulton-46day",
+        "fulton-proofs",
+        "fulton-issues"
+      ]
+    },
+    {
+      "id": "issue-13",
+      "kind": "levy",
+      "jurisdiction": "Village of Lyons",
+      "title": "Tax levy (renewal): Parks and recreation",
+      "area": "Village of Lyons",
+      "places": [
+        "Lyons Village"
+      ],
+      "levy": {
+        "type": "Renewal",
+        "purpose": "Parks and recreation.",
+        "mills": "0.5 mill",
+        "term": "5 years, commencing in 2027",
+        "firstDue": "2028",
+        "estimate": "$4,234 per year"
+      },
+      "number": "Issue 13",
+      "sources": [
+        "fulton-46day",
+        "fulton-proofs",
+        "fulton-issues"
+      ]
+    },
+    {
+      "id": "issue-14",
+      "kind": "levy",
+      "jurisdiction": "Amboy Township",
+      "title": "Tax levy (renewal): Fire apparatus, equipment, buildings and sites, firefighting and emergency medical service personnel, ambulance equipment and emergency medical services",
+      "area": "Amboy Township (precinct Amboy/Metamora)",
+      "places": [
+        "Amboy Township",
+        "Metamora Village"
+      ],
+      "levy": {
+        "type": "Renewal",
+        "purpose": "Fire apparatus, equipment, buildings and sites, firefighting and emergency medical service personnel, ambulance equipment and emergency medical services.",
+        "mills": "1 mill",
+        "term": "5 years, commencing in 2027",
+        "firstDue": "2028",
+        "estimate": "$68,563 per year"
+      },
+      "number": "Issue 14",
+      "sources": [
+        "fulton-46day",
+        "fulton-proofs",
+        "fulton-issues"
+      ]
+    },
+    {
+      "id": "issue-15",
+      "kind": "levy",
+      "jurisdiction": "Chesterfield Township",
+      "title": "Tax levy (renewal): Fire apparatus, appliances, buildings and sites, firefighting and emergency medical service personnel, ambulance equipment and emergency medical services",
+      "area": "Chesterfield Township",
+      "places": [
+        "Chesterfield Township"
+      ],
+      "levy": {
+        "type": "Renewal",
+        "purpose": "Fire apparatus, appliances, buildings and sites, firefighting and emergency medical service personnel, ambulance equipment and emergency medical services.",
+        "mills": "0.7 mill",
+        "term": "5 years, commencing in 2027",
+        "firstDue": "2028",
+        "estimate": "$35,721 per year"
+      },
+      "number": "Issue 15",
+      "sources": [
+        "fulton-46day",
+        "fulton-proofs",
+        "fulton-issues"
+      ]
+    },
+    {
+      "id": "issue-16",
+      "kind": "levy",
+      "jurisdiction": "Clinton Township (including the City of Wauseon)",
+      "title": "Tax levy (renewal): Current expenses",
+      "area": "Clinton Township, including the City of Wauseon (Wauseon One–Five, Clinton East, Pettisville 009/1)",
+      "places": [
+        "Clinton Township",
+        "Wauseon City"
+      ],
+      "levy": {
+        "type": "Renewal",
+        "purpose": "Current expenses.",
+        "mills": "0.3 mill",
+        "term": "5 years, commencing in 2026",
+        "firstDue": "2027",
+        "estimate": "$71,967 per year"
+      },
+      "number": "Issue 16",
+      "sources": [
+        "fulton-46day",
+        "fulton-proofs",
+        "fulton-issues"
+      ]
+    },
+    {
+      "id": "issue-17",
+      "kind": "levy",
+      "jurisdiction": "Clinton Township (including the City of Wauseon)",
+      "title": "Tax levy (additional): Fire protection",
+      "area": "Clinton Township, including the City of Wauseon (Wauseon One–Five, Clinton East, Pettisville 009/1)",
+      "places": [
+        "Clinton Township",
+        "Wauseon City"
+      ],
+      "levy": {
+        "type": "Additional",
+        "purpose": "Fire protection.",
+        "mills": "1 mill",
+        "term": "5 years, commencing in 2026",
+        "firstDue": "2027",
+        "estimate": "$271,603 per year"
+      },
+      "number": "Issue 17",
+      "sources": [
+        "fulton-46day",
+        "fulton-proofs",
+        "fulton-issues"
+      ]
+    },
+    {
+      "id": "issue-18",
+      "kind": "levy",
+      "jurisdiction": "Clinton Township (including the City of Wauseon)",
+      "title": "Tax levy (renewal): Maintenance and operation of the cemeteries in Clinton Township",
+      "area": "Clinton Township, including the City of Wauseon (Wauseon One–Five, Clinton East, Pettisville 009/1)",
+      "places": [
+        "Clinton Township",
+        "Wauseon City"
+      ],
+      "levy": {
+        "type": "Renewal",
+        "purpose": "Maintenance and operation of the cemeteries in Clinton Township.",
+        "mills": "0.15 mill",
+        "term": "5 years, commencing in 2026",
+        "firstDue": "2027",
+        "estimate": "$32,787 per year"
+      },
+      "number": "Issue 18",
+      "sources": [
+        "fulton-46day",
+        "fulton-proofs",
+        "fulton-issues"
+      ]
+    },
+    {
+      "id": "issue-19",
+      "kind": "levy",
+      "jurisdiction": "Clinton Township (including the City of Wauseon)",
+      "title": "Tax levy (additional): Road improvements",
+      "area": "Clinton Township, including the City of Wauseon (Wauseon One–Five, Clinton East, Pettisville 009/1)",
+      "places": [
+        "Clinton Township",
+        "Wauseon City"
+      ],
+      "levy": {
+        "type": "Additional",
+        "purpose": "Road improvements.",
+        "mills": "1 mill",
+        "term": "5 years, commencing in 2026",
+        "firstDue": "2027",
+        "estimate": "$271,613 per year"
+      },
+      "number": "Issue 19",
+      "sources": [
+        "fulton-46day",
+        "fulton-proofs",
+        "fulton-issues"
+      ]
+    },
+    {
+      "id": "issue-20",
+      "kind": "levy",
+      "jurisdiction": "York Township (excluding the Village of Delta)",
+      "title": "Tax levy (renewal): General construction, reconstruction, resurfacing and repair of roads",
+      "area": "York Township outside Delta (Delta Two 027/1, Delta Three 028/1, York 029/1 and 029/2)",
+      "places": [
+        "York Township"
+      ],
+      "levy": {
+        "type": "Renewal",
+        "purpose": "General construction, reconstruction, resurfacing and repair of roads.",
+        "mills": "1 mill",
+        "term": "5 years, commencing in 2026",
+        "firstDue": "2027",
+        "estimate": "$70,555 per year"
+      },
+      "number": "Issue 20",
+      "sources": [
+        "fulton-46day",
+        "fulton-proofs",
+        "fulton-issues"
+      ]
+    }
+  ]
+}

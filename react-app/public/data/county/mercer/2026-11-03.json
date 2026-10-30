@@ -1,0 +1,313 @@
+{
+  "scope": "county",
+  "county": "Mercer",
+  "fips": "39107",
+  "election": "2026-11-03",
+  "retrieved": "2026-10-30",
+  "notes": [
+    "Taken from the Board of Elections' 46-day election notice, which lists every contest and issue with the precincts that vote on it and gives the ballot wording of each issue.",
+    "Candidates are listed alphabetically by last name, not in ballot order: Ohio rotates the order of names from precinct to precinct. Certified write-in candidates are not printed on the ballot and are not listed.",
+    "\"Where you live\" uses the state voter file: a district or school levy is shown for a city, village or township when any of its voters live in that district. Your exact ballot depends on your precinct.",
+    "The Board's notice does not give local issue numbers; see your sample ballot for them."
+  ],
+  "places": [
+    "Blackcreek Township",
+    "Burkettsville Village",
+    "Butler Township",
+    "Celina City",
+    "Center Township",
+    "Chickasaw Village",
+    "Coldwater Village",
+    "Dublin Township",
+    "Fort Recovery Village",
+    "Franklin Township",
+    "Gibson Township",
+    "Granville Township",
+    "Hopewell Township",
+    "Jefferson Township",
+    "Liberty Township",
+    "Marion Township",
+    "Mendon Village",
+    "Montezuma Village",
+    "Recovery Township",
+    "Rockford Village",
+    "St. Henry Village",
+    "Union Township",
+    "Washington Township"
+  ],
+  "sources": {
+    "mercer-46day": {
+      "label": "Mercer County Board of Elections: 46-day election notice (FWAB), November 3, 2026 General Election (updated 10/15/2026)",
+      "url": "https://www.mercercountyoh.gov/bskpdf/46-day--updated-10-15-26/"
+    }
+  },
+  "links": [
+    {
+      "label": "Board of Elections",
+      "url": "https://www.mercercountyoh.gov/county-services/elections/"
+    },
+    {
+      "label": "Voter information",
+      "url": "https://www.mercercountyoh.gov/county-services/elections/board-of-elections-voter-information/"
+    },
+    {
+      "label": "Sample ballot (look up your registration)",
+      "url": "https://www.mercercountyoh.gov/county-services/elections/sample-ballot/"
+    }
+  ],
+  "results": {
+    "status": "upcoming",
+    "links": [
+      {
+        "label": "Board of Elections: election results",
+        "url": "https://www.mercercountyoh.gov/county-services/elections/board-of-elections-election-results/"
+      }
+    ]
+  },
+  "contests": [
+    {
+      "id": "congress-4",
+      "group": "U.S. House",
+      "office": "Representative to Congress",
+      "detail": "4th District",
+      "candidates": [
+        {
+          "name": "Jim Jordan",
+          "party": "REP"
+        },
+        {
+          "name": "Joshua D. Kolasinski",
+          "party": "DEM"
+        },
+        {
+          "name": "Tracey L. Tackett",
+          "party": "Nonparty"
+        }
+      ],
+      "sources": [
+        "mercer-46day"
+      ]
+    },
+    {
+      "id": "rep-84",
+      "group": "Ohio General Assembly",
+      "office": "State Representative",
+      "detail": "84th District",
+      "candidates": [
+        {
+          "name": "Arienne C. Childrey",
+          "party": "DEM"
+        },
+        {
+          "name": "Angie King",
+          "party": "REP"
+        }
+      ],
+      "sources": [
+        "mercer-46day"
+      ]
+    },
+    {
+      "id": "appeals-3-0209",
+      "group": "Ohio Court of Appeals",
+      "office": "Judge of the Court of Appeals",
+      "detail": "3rd District · full term commencing February 9, 2027",
+      "candidates": [
+        {
+          "name": "Mark C. Miller",
+          "party": "REP"
+        }
+      ],
+      "sources": [
+        "mercer-46day"
+      ]
+    },
+    {
+      "id": "commissioner",
+      "group": "County offices",
+      "office": "County Commissioner",
+      "detail": "Full term commencing January 1, 2027",
+      "candidates": [
+        {
+          "name": "David Buschur",
+          "party": "REP"
+        }
+      ],
+      "sources": [
+        "mercer-46day"
+      ]
+    },
+    {
+      "id": "auditor",
+      "group": "County offices",
+      "office": "County Auditor",
+      "detail": "Full term commencing March 14, 2027",
+      "candidates": [
+        {
+          "name": "Jeffrey S. Larmore",
+          "party": "REP"
+        }
+      ],
+      "sources": [
+        "mercer-46day"
+      ]
+    },
+    {
+      "id": "coroner",
+      "group": "County offices",
+      "office": "County Coroner",
+      "detail": "Unexpired term ending December 31, 2028",
+      "candidates": [
+        {
+          "name": "Alyssa Tobe",
+          "party": "REP"
+        }
+      ],
+      "sources": [
+        "mercer-46day"
+      ]
+    },
+    {
+      "id": "cp-probate-juvenile",
+      "group": "Court of Common Pleas",
+      "office": "Judge of the Court of Common Pleas, Probate/Juvenile Division",
+      "detail": "Full term commencing February 9, 2027 · no party label on the ballot",
+      "candidates": [
+        {
+          "name": "Matthew L. Gilmore"
+        }
+      ],
+      "sources": [
+        "mercer-46day"
+      ]
+    }
+  ],
+  "issues": [
+    {
+      "id": "center-twp-fire",
+      "kind": "levy",
+      "jurisdiction": "Township of Center",
+      "title": "Tax levy (renewal): Fire protection",
+      "area": "Center Township (precinct Center 12.1)",
+      "places": [
+        "Center Township"
+      ],
+      "levy": {
+        "type": "Renewal",
+        "purpose": "Fire protection.",
+        "mills": "1.95 mills",
+        "term": "5 years, commencing in 2027",
+        "firstDue": "2028",
+        "estimate": "$68,214 a year; $38 for each $100,000 of the county auditor's market value"
+      },
+      "sources": [
+        "mercer-46day"
+      ]
+    },
+    {
+      "id": "dublin-twp-fire",
+      "kind": "levy",
+      "jurisdiction": "Township of Dublin",
+      "title": "Tax levy (renewal): Fire protection",
+      "area": "Dublin Township (precinct Dublin 27.1)",
+      "places": [
+        "Dublin Township"
+      ],
+      "levy": {
+        "type": "Renewal",
+        "purpose": "Fire protection.",
+        "mills": "2.2 mills",
+        "term": "5 years, commencing in 2027",
+        "firstDue": "2028",
+        "estimate": "$111,355 a year; $46 for each $100,000 of the county auditor's market value"
+      },
+      "sources": [
+        "mercer-46day"
+      ]
+    },
+    {
+      "id": "hopewell-twp-fire",
+      "kind": "levy",
+      "jurisdiction": "Township of Hopewell",
+      "title": "Tax levy (renewal and increase): Fire protection (renewal of 1.95 mills and an increase of 0.30 mill)",
+      "area": "Hopewell Township (precincts Hopewell 33.1, 33.2)",
+      "places": [
+        "Hopewell Township"
+      ],
+      "levy": {
+        "type": "Renewal and increase",
+        "purpose": "Fire protection (renewal of 1.95 mills and an increase of 0.30 mill).",
+        "mills": "2.25 mills",
+        "term": "5 years, commencing in 2027",
+        "firstDue": "2028",
+        "estimate": "$94,550 a year; $49 for each $100,000 of the county auditor's market value"
+      },
+      "sources": [
+        "mercer-46day"
+      ]
+    },
+    {
+      "id": "liberty-twp-fire",
+      "kind": "levy",
+      "jurisdiction": "Township of Liberty",
+      "title": "Tax levy (renewal): Fire protection",
+      "area": "Liberty Township (precincts Liberty 34.1–34.3)",
+      "places": [
+        "Liberty Township"
+      ],
+      "levy": {
+        "type": "Renewal",
+        "purpose": "Fire protection.",
+        "mills": "1.4 mills",
+        "term": "5 years, commencing in 2027",
+        "firstDue": "2028",
+        "estimate": "$40,274 a year; $27 for each $100,000 of the county auditor's market value"
+      },
+      "sources": [
+        "mercer-46day"
+      ]
+    },
+    {
+      "id": "marion-twp-fire",
+      "kind": "levy",
+      "jurisdiction": "Township of Marion",
+      "title": "Tax levy (renewal): Fire protection",
+      "area": "Marion Township (precincts Marion East 29.1–29.4, Marion West 30.1–30.2)",
+      "places": [
+        "Marion Township"
+      ],
+      "levy": {
+        "type": "Renewal",
+        "purpose": "Fire protection.",
+        "mills": "2.4 mills",
+        "term": "5 years, commencing in 2027",
+        "firstDue": "2028",
+        "estimate": "$272,060 a year; $54 for each $100,000 of the county auditor's market value"
+      },
+      "sources": [
+        "mercer-46day"
+      ]
+    },
+    {
+      "id": "mendon-operating",
+      "kind": "levy",
+      "jurisdiction": "Village of Mendon",
+      "title": "Tax levy (renewal): Current operating expenses",
+      "area": "Mendon Village (precinct Mendon Village 28.1)",
+      "places": [
+        "Mendon Village"
+      ],
+      "levy": {
+        "type": "Renewal",
+        "purpose": "Current operating expenses.",
+        "mills": "2.6 mills",
+        "term": "5 years, commencing in 2026",
+        "firstDue": "2027",
+        "estimate": "$10,296 a year; $33 for each $100,000 of the county auditor's market value"
+      },
+      "sources": [
+        "mercer-46day"
+      ]
+    }
+  ]
+}

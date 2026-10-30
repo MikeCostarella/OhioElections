@@ -1,0 +1,310 @@
+{
+  "scope": "county",
+  "county": "Coshocton",
+  "fips": "39031",
+  "election": "2026-11-03",
+  "retrieved": "2026-10-30",
+  "notes": [
+    "Taken from the Board of Elections' 46-day election notice, which lists every contest and issue with the precincts that vote on it. Issue details are summarised from the notice's ballot wording; the full wording is on the sample ballot.",
+    "Candidates are listed alphabetically by last name, not in ballot order: Ohio rotates the order of names from precinct to precinct. Certified write-in candidates are not printed on the ballot and are not listed.",
+    "\"Where you live\" uses the state voter file: a district or school levy is shown for a city, village or township when any of its voters live in that district. Your exact ballot depends on your precinct."
+  ],
+  "places": [
+    "Adams Township",
+    "Bedford Township",
+    "Bethlehem Township",
+    "Clark Township",
+    "Conesville Village",
+    "Coshocton City",
+    "Crawford Township",
+    "Franklin Township",
+    "Jackson Township",
+    "Jefferson Township",
+    "Keene Township",
+    "Lafayette Township",
+    "Linton Township",
+    "Millcreek Township",
+    "Monroe Township",
+    "Nellie Village",
+    "New Castle Township",
+    "Oxford Township",
+    "Perry Township",
+    "Pike Township",
+    "Plainfield Village",
+    "Tiverton Township",
+    "Tuscarawas Township",
+    "Virginia Township",
+    "Warsaw Village",
+    "Washington Township",
+    "West Lafayette Village",
+    "White Eyes Township"
+  ],
+  "sources": {
+    "coshocton-46day": {
+      "label": "Coshocton County Board of Elections: 46-day election notice (FWAB), November 3, 2026 General Election (revised 9/15/2026)",
+      "url": "https://www.coshocton.boe.ohio.gov/wp-content/uploads/sites/5/2026/09/46-Day-FWAB.pdf"
+    }
+  },
+  "links": [
+    {
+      "label": "Board of Elections",
+      "url": "https://www.coshocton.boe.ohio.gov/"
+    },
+    {
+      "label": "Election information",
+      "url": "https://www.coshocton.boe.ohio.gov/november-5-2024-general-election-information/"
+    },
+    {
+      "label": "Sample ballots by precinct",
+      "url": "https://lookup.boe.ohio.gov/vtrapp/coshocton/ballotlist.aspx"
+    }
+  ],
+  "results": {
+    "status": "upcoming",
+    "links": [
+      {
+        "label": "Board of Elections: election results",
+        "url": "https://www.coshocton.boe.ohio.gov/election-results/"
+      }
+    ]
+  },
+  "contests": [
+    {
+      "id": "congress-12",
+      "group": "U.S. House",
+      "office": "Representative to Congress",
+      "detail": "12th District",
+      "candidates": [
+        {
+          "name": "Troy Balderson",
+          "party": "REP"
+        },
+        {
+          "name": "Jerrad Christian",
+          "party": "DEM"
+        }
+      ],
+      "sources": [
+        "coshocton-46day"
+      ]
+    },
+    {
+      "id": "senate-19",
+      "group": "Ohio General Assembly",
+      "office": "State Senator",
+      "detail": "19th District",
+      "candidates": [
+        {
+          "name": "Scott Charland",
+          "party": "DEM"
+        },
+        {
+          "name": "Ryan Rivers",
+          "party": "REP"
+        }
+      ],
+      "sources": [
+        "coshocton-46day"
+      ]
+    },
+    {
+      "id": "rep-98",
+      "group": "Ohio General Assembly",
+      "office": "State Representative",
+      "detail": "98th District",
+      "candidates": [
+        {
+          "name": "Scott Grund",
+          "party": "DEM"
+        },
+        {
+          "name": "Mark A. Hiner",
+          "party": "REP"
+        }
+      ],
+      "sources": [
+        "coshocton-46day"
+      ]
+    },
+    {
+      "id": "appeals-5",
+      "group": "Ohio Court of Appeals",
+      "office": "Judge of the Court of Appeals",
+      "detail": "5th District · term commencing February 9, 2027",
+      "candidates": [
+        {
+          "name": "Matthew George",
+          "party": "REP"
+        }
+      ],
+      "sources": [
+        "coshocton-46day"
+      ]
+    },
+    {
+      "id": "commissioner",
+      "group": "County offices",
+      "office": "County Commissioner",
+      "candidates": [
+        {
+          "name": "W. Chuck Ellis",
+          "party": "REP"
+        }
+      ],
+      "sources": [
+        "coshocton-46day"
+      ]
+    },
+    {
+      "id": "auditor",
+      "group": "County offices",
+      "office": "County Auditor",
+      "candidates": [
+        {
+          "name": "Janette L. Donaker",
+          "party": "REP"
+        }
+      ],
+      "sources": [
+        "coshocton-46day"
+      ]
+    },
+    {
+      "id": "engineer",
+      "group": "County offices",
+      "office": "County Engineer",
+      "detail": "Unexpired term ending December 31, 2028",
+      "candidates": [
+        {
+          "name": "Joshua D. Kempf",
+          "party": "REP"
+        }
+      ],
+      "sources": [
+        "coshocton-46day"
+      ]
+    },
+    {
+      "id": "cp-probate-juvenile",
+      "group": "Court of Common Pleas",
+      "office": "Judge of the Court of Common Pleas, Juvenile and Probate Division",
+      "detail": "Full term commencing February 9, 2027 · no party label on the ballot",
+      "candidates": [
+        {
+          "name": "Jason W. Given"
+        }
+      ],
+      "sources": [
+        "coshocton-46day"
+      ]
+    }
+  ],
+  "issues": [
+    {
+      "id": "issue-2",
+      "kind": "levy",
+      "jurisdiction": "Three Rivers Fire District",
+      "title": "Tax levy (renewal): Fire protection",
+      "area": "Three Rivers Fire District (precincts Keene, Millcreek RV, Millcreek WH, Tuscarawas RV, Tuscarawas CC, Tuscarawas RDW)",
+      "places": [
+        "Keene Township",
+        "Millcreek Township",
+        "Tuscarawas Township"
+      ],
+      "levy": {
+        "type": "Renewal",
+        "purpose": "Fire protection.",
+        "mills": "2 mills",
+        "term": "5 years, commencing in 2027",
+        "firstDue": "2028",
+        "estimate": "$156,298 a year; $32 for each $100,000 of market value"
+      },
+      "number": "Issue 2",
+      "sources": [
+        "coshocton-46day"
+      ]
+    },
+    {
+      "id": "issue-3",
+      "kind": "levy",
+      "jurisdiction": "Coshocton County",
+      "title": "Tax levy (renewal): Operation and maintenance of Coshocton County Emergency Medical Services",
+      "area": "All of Coshocton County",
+      "levy": {
+        "type": "Renewal",
+        "purpose": "Operation and maintenance of Coshocton County Emergency Medical Services.",
+        "mills": "3 mills",
+        "term": "5 years, commencing in 2027",
+        "firstDue": "2028",
+        "estimate": "$2,158,953 a year; $62 for each $100,000 of market value"
+      },
+      "number": "Issue 3",
+      "sources": [
+        "coshocton-46day"
+      ]
+    },
+    {
+      "id": "issue-4",
+      "kind": "levy",
+      "jurisdiction": "Coshocton County",
+      "title": "Tax levy (renewal): Current expenses of the Coshocton County District Library",
+      "area": "All of Coshocton County",
+      "levy": {
+        "type": "Renewal",
+        "purpose": "Current expenses of the Coshocton County District Library.",
+        "mills": "0.5 mill",
+        "term": "5 years, commencing in 2027",
+        "firstDue": "2028",
+        "estimate": "$400,237 a year; $12 for each $100,000 of market value"
+      },
+      "number": "Issue 4",
+      "sources": [
+        "coshocton-46day"
+      ]
+    },
+    {
+      "id": "issue-5",
+      "kind": "levy",
+      "jurisdiction": "Clark Township",
+      "title": "Tax levy (additional): General construction, reconstruction, resurfacing and repair of streets, roads and bridges",
+      "area": "Clark Township (precincts Clark RV, Clark WH)",
+      "places": [
+        "Clark Township"
+      ],
+      "levy": {
+        "type": "Additional",
+        "purpose": "General construction, reconstruction, resurfacing and repair of streets, roads and bridges.",
+        "mills": "1 mill",
+        "term": "5 years, commencing in 2026",
+        "firstDue": "2027",
+        "estimate": "$18,641 a year; $35 for each $100,000 of market value"
+      },
+      "number": "Issue 5",
+      "sources": [
+        "coshocton-46day"
+      ]
+    },
+    {
+      "id": "issue-6",
+      "kind": "levy",
+      "jurisdiction": "Jackson Township",
+      "title": "Tax levy (renewal): Fire protection services",
+      "area": "Jackson Township (precinct Jackson)",
+      "places": [
+        "Jackson Township"
+      ],
+      "levy": {
+        "type": "Renewal",
+        "purpose": "Fire protection services.",
+        "mills": "2.5 mills",
+        "term": "5 years, commencing in 2027",
+        "firstDue": "2028",
+        "estimate": "$80,738 a year; $44 for each $100,000 of market value"
+      },
+      "number": "Issue 6",
+      "sources": [
+        "coshocton-46day"
+      ]
+    }
+  ]
+}

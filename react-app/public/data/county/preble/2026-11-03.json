@@ -1,0 +1,446 @@
+{
+  "scope": "county",
+  "county": "Preble",
+  "fips": "39135",
+  "election": "2026-11-03",
+  "retrieved": "2026-10-30",
+  "notes": [
+    "Taken from the Board of Elections' 46-day election notice, which lists every contest and issue with the precincts that vote on it and gives each local issue's full ballot wording.",
+    "Candidates are listed alphabetically by last name, not in ballot order: Ohio rotates the order of names from precinct to precinct. Certified write-in candidates are not printed on the ballot and are not listed.",
+    "\"Where you live\" uses the state voter file: a district or school levy is shown for a city, village or township when any of its voters live in that district. Your exact ballot depends on your precinct.",
+    "College Corner lies partly in Butler County and Verona partly in Montgomery County. Only the Preble County parts vote on this Board's ballot."
+  ],
+  "places": [
+    "Camden Village",
+    "College Corner Village",
+    "Dixon Township",
+    "Eaton City",
+    "Eldorado Village",
+    "Gasper Township",
+    "Gratis Township",
+    "Gratis Village",
+    "Harrison Township",
+    "Israel Township",
+    "Jackson Township",
+    "Jefferson Township",
+    "Lanier Township",
+    "Lewisburg Village",
+    "Monroe Township",
+    "New Paris Village",
+    "Somers Township",
+    "Twin Township",
+    "Verona Village",
+    "Washington Township",
+    "West Alexandria Village",
+    "West Elkton Village",
+    "West Manchester Village"
+  ],
+  "sources": {
+    "preble-46day": {
+      "label": "Preble County Board of Elections: 46-day election notice (FWAB), November 3, 2026 General Election (revised 10/15/2026)",
+      "url": "https://www.boe.ohio.gov/preble/c/upload/FWAB_11November46Day.pdf"
+    },
+    "preble-withdrawn": {
+      "label": "Preble County Board of Elections: Candidate Withdrawal and Write-in list, November 3, 2026 General Election",
+      "url": "https://www.boe.ohio.gov/preble/c/pdf/WithdrawlAndWriteinList.pdf"
+    }
+  },
+  "links": [
+    {
+      "label": "Board of Elections",
+      "url": "https://www.boe.ohio.gov/preble/"
+    },
+    {
+      "label": "Election info",
+      "url": "https://www.boe.ohio.gov/preble/election-info/"
+    },
+    {
+      "label": "Sample ballots by precinct",
+      "url": "https://lookup.boe.ohio.gov/vtrapp/preble/ballotlist.aspx"
+    }
+  ],
+  "results": {
+    "status": "upcoming",
+    "links": [
+      {
+        "label": "Board of Elections: election results",
+        "url": "https://www.boe.ohio.gov/preble/election-info/"
+      }
+    ]
+  },
+  "contests": [
+    {
+      "id": "congress-8",
+      "group": "U.S. House",
+      "office": "Representative to Congress",
+      "detail": "8th District (Hamilton, Butler (part), Preble, Darke and Miami (part) counties)",
+      "candidates": [
+        {
+          "name": "Warren Davidson",
+          "party": "REP"
+        },
+        {
+          "name": "Vanessa Enoch",
+          "party": "DEM"
+        }
+      ],
+      "sources": [
+        "preble-46day"
+      ]
+    },
+    {
+      "id": "senate-5",
+      "group": "Ohio General Assembly",
+      "office": "State Senator",
+      "detail": "5th District",
+      "candidates": [
+        {
+          "name": "Jeffrey Harris",
+          "party": "DEM"
+        },
+        {
+          "name": "Phil Plummer",
+          "party": "REP"
+        }
+      ],
+      "sources": [
+        "preble-46day"
+      ]
+    },
+    {
+      "id": "rep-40",
+      "group": "Ohio General Assembly",
+      "office": "State Representative",
+      "detail": "40th District",
+      "candidates": [
+        {
+          "name": "Rodney Creech",
+          "party": "REP"
+        },
+        {
+          "name": "Timothy B. Hornbacker",
+          "party": "DEM"
+        },
+        {
+          "name": "Joshua A. Umbaugh",
+          "party": "LIB"
+        }
+      ],
+      "sources": [
+        "preble-46day"
+      ]
+    },
+    {
+      "id": "appeals-12-0101",
+      "group": "Ohio Court of Appeals",
+      "office": "Judge of the Court of Appeals",
+      "detail": "12th District (Butler, Brown, Clermont, Clinton, Fayette, Madison, Preble and Warren counties) · full term commencing January 1, 2027",
+      "candidates": [
+        {
+          "name": "Matthew Byrne",
+          "party": "REP",
+          "note": "Withdrew September 16, 2026; his name may still appear on the ballot, but votes for him will not count"
+        },
+        {
+          "name": "Willa Concannon",
+          "party": "Write-in"
+        }
+      ],
+      "sources": [
+        "preble-46day",
+        "preble-withdrawn"
+      ]
+    },
+    {
+      "id": "appeals-12-0209",
+      "group": "Ohio Court of Appeals",
+      "office": "Judge of the Court of Appeals",
+      "detail": "12th District (Butler, Brown, Clermont, Clinton, Fayette, Madison, Preble and Warren counties) · full term commencing February 9, 2027",
+      "candidates": [
+        {
+          "name": "Robert A. Hendrickson",
+          "party": "REP"
+        }
+      ],
+      "sources": [
+        "preble-46day"
+      ]
+    },
+    {
+      "id": "commissioner",
+      "group": "County offices",
+      "office": "County Commissioner",
+      "detail": "Full term commencing January 1, 2027",
+      "candidates": [
+        {
+          "name": "Harold Niehaus",
+          "party": "REP"
+        }
+      ],
+      "sources": [
+        "preble-46day"
+      ]
+    },
+    {
+      "id": "auditor",
+      "group": "County offices",
+      "office": "County Auditor",
+      "candidates": [
+        {
+          "name": "Lavon Wright",
+          "party": "REP"
+        }
+      ],
+      "sources": [
+        "preble-46day"
+      ]
+    },
+    {
+      "id": "clerk-of-courts",
+      "group": "County offices",
+      "office": "Clerk of the Court of Common Pleas",
+      "detail": "Unexpired term ending December 31, 2028",
+      "candidates": [
+        {
+          "name": "Shonda Haynes",
+          "party": "REP"
+        }
+      ],
+      "sources": [
+        "preble-46day"
+      ]
+    },
+    {
+      "id": "cp-probate-juv",
+      "group": "Court of Common Pleas",
+      "office": "Judge of the Court of Common Pleas, Probate/Juvenile Division",
+      "detail": "Full term commencing February 9, 2027 · no party label on the ballot",
+      "candidates": [
+        {
+          "name": "Jenifer K. Overmyer"
+        }
+      ],
+      "sources": [
+        "preble-46day"
+      ]
+    },
+    {
+      "id": "lanier-trustee",
+      "group": "Township offices",
+      "office": "Township Trustee (Lanier Township)",
+      "detail": "Unexpired term ending December 31, 2029 · no party label on the ballot",
+      "area": "Lanier Township (incl. West Alexandria Village South precinct)",
+      "places": [
+        "Lanier Township",
+        "West Alexandria Village"
+      ],
+      "candidates": [
+        {
+          "name": "Jason Earich"
+        },
+        {
+          "name": "Cooper Shockey"
+        }
+      ],
+      "sources": [
+        "preble-46day"
+      ]
+    }
+  ],
+  "issues": [
+    {
+      "id": "issue-4",
+      "kind": "levy",
+      "jurisdiction": "Preble County",
+      "title": "Tax levy (renewal): Senior citizen services and facilities, through the Preble County Council on Aging, Inc. or its successor",
+      "area": "Preble County",
+      "levy": {
+        "type": "Renewal",
+        "purpose": "Senior citizen services and facilities, through the Preble County Council on Aging, Inc. or its successor.",
+        "mills": "1.5 mills",
+        "term": "5 years, commencing in 2027",
+        "firstDue": "2028",
+        "estimate": "$1,558,850 a year; $39 for each $100,000 of the county auditor's market value"
+      },
+      "number": "Issue 4",
+      "sources": [
+        "preble-46day"
+      ]
+    },
+    {
+      "id": "issue-5",
+      "kind": "levy",
+      "jurisdiction": "Village of Camden",
+      "title": "Tax levy (renewal): Police operating expenses",
+      "area": "Camden Village (precincts 063 Camden Village 1, 065 Camden Village 2)",
+      "places": [
+        "Camden Village"
+      ],
+      "levy": {
+        "type": "Renewal",
+        "purpose": "Police operating expenses.",
+        "mills": "6 mills",
+        "term": "5 years, commencing in 2027",
+        "firstDue": "2028",
+        "estimate": "$100,990 a year; $113 for each $100,000 of the county auditor's market value"
+      },
+      "number": "Issue 5",
+      "sources": [
+        "preble-46day"
+      ]
+    },
+    {
+      "id": "issue-6",
+      "kind": "levy",
+      "jurisdiction": "Village of College Corner (Preble and Butler)",
+      "title": "Tax levy (renewal): Fire",
+      "area": "Village of College Corner (Preble and Butler)",
+      "places": [
+        "College Corner Village"
+      ],
+      "levy": {
+        "type": "Renewal",
+        "purpose": "Fire.",
+        "mills": "5.2 mills",
+        "term": "5 years, commencing in 2026",
+        "firstDue": "2027",
+        "estimate": "$12,270 a year; $29 for each $100,000 of the county auditor's market value"
+      },
+      "number": "Issue 6",
+      "note": "Filed with the Preble County Board of Elections; Butler County's ballot numbers it Issue 9.",
+      "text": "Fire apparatus, equipment and appliances, buildings and sites, water supply, fire-alarm communications, payment of firefighters (including the firefighter employers' pension contribution), ambulance equipment, and ambulance, paramedic or other emergency medical services operated by a fire department or firefighting company, and other related costs.",
+      "sources": [
+        "preble-46day"
+      ]
+    },
+    {
+      "id": "issue-7",
+      "kind": "levy",
+      "jurisdiction": "Village of West Elkton",
+      "title": "Tax levy (renewal): Emergency medical services",
+      "area": "Village of West Elkton",
+      "places": [
+        "West Elkton Village"
+      ],
+      "levy": {
+        "type": "Renewal",
+        "purpose": "Emergency medical services.",
+        "mills": "1.25 mills",
+        "term": "5 years, commencing in 2026",
+        "firstDue": "2027",
+        "estimate": "$3,310 a year; $12 for each $100,000 of the county auditor's market value"
+      },
+      "number": "Issue 7",
+      "sources": [
+        "preble-46day"
+      ]
+    },
+    {
+      "id": "issue-8",
+      "kind": "levy",
+      "jurisdiction": "Village of Lewisburg",
+      "title": "Tax levy (renewal): Parks and recreation",
+      "area": "Lewisburg Village (precincts 089 North, 091 South)",
+      "places": [
+        "Lewisburg Village"
+      ],
+      "levy": {
+        "type": "Renewal",
+        "purpose": "Parks and recreation.",
+        "mills": "1 mill",
+        "term": "5 years, commencing in 2027",
+        "firstDue": "2028",
+        "estimate": "$29,690 a year; $23 for each $100,000 of the county auditor's market value"
+      },
+      "number": "Issue 8",
+      "sources": [
+        "preble-46day"
+      ]
+    },
+    {
+      "id": "issue-9",
+      "kind": "question",
+      "jurisdiction": "Village of West Alexandria",
+      "title": "Municipal income tax: increase from 1% to 2% for general operating expenses",
+      "area": "West Alexandria Village (precincts 105 North, 107 South)",
+      "places": [
+        "West Alexandria Village"
+      ],
+      "number": "Issue 9",
+      "text": "Shall the Ordinance providing for a 1 per cent levy increase on income from 1 per cent to 2 per cent for the purpose of general operating expenses, effective January 1, 2027, be passed?",
+      "sources": [
+        "preble-46day"
+      ]
+    },
+    {
+      "id": "issue-10",
+      "kind": "levy",
+      "jurisdiction": "Harrison Township",
+      "title": "Tax levy (additional): Maintaining and operating cemeteries",
+      "area": "Harrison Township, including Lewisburg and Verona villages",
+      "places": [
+        "Harrison Township",
+        "Lewisburg Village",
+        "Verona Village"
+      ],
+      "levy": {
+        "type": "Additional",
+        "purpose": "Maintaining and operating cemeteries.",
+        "mills": "1 mill",
+        "term": "Continuing period of time, commencing in 2026",
+        "firstDue": "2027",
+        "estimate": "$103,570 a year; $35 for each $100,000 of the county auditor's market value"
+      },
+      "number": "Issue 10",
+      "sources": [
+        "preble-46day"
+      ]
+    },
+    {
+      "id": "issue-11",
+      "kind": "levy",
+      "jurisdiction": "Jackson Township",
+      "title": "Tax levy (renewal): Fire protection and ambulance/emergency service",
+      "area": "Jackson Township",
+      "places": [
+        "Jackson Township"
+      ],
+      "levy": {
+        "type": "Renewal",
+        "purpose": "Fire protection and ambulance/emergency service.",
+        "mills": "2 mills",
+        "term": "3 years, commencing in 2027",
+        "firstDue": "2028",
+        "estimate": "$70,260 a year; $47 for each $100,000 of the county auditor's market value"
+      },
+      "number": "Issue 11",
+      "sources": [
+        "preble-46day"
+      ]
+    },
+    {
+      "id": "issue-12",
+      "kind": "levy",
+      "jurisdiction": "Monroe Township",
+      "title": "Tax levy (renewal): Cemetery maintenance",
+      "area": "Monroe Township, including Eldorado and West Manchester villages",
+      "places": [
+        "Eldorado Village",
+        "Monroe Township",
+        "West Manchester Village"
+      ],
+      "levy": {
+        "type": "Renewal",
+        "purpose": "Cemetery maintenance.",
+        "mills": "0.5 mill",
+        "term": "5 years, commencing in 2026",
+        "firstDue": "2027",
+        "estimate": "$27,270 a year; $27 for each $100,000 of the county auditor's market value"
+      },
+      "number": "Issue 12",
+      "sources": [
+        "preble-46day"
+      ]
+    }
+  ]
+}
