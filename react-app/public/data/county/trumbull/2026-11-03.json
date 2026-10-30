@@ -1,0 +1,973 @@
+{
+  "scope": "county",
+  "county": "Trumbull",
+  "fips": "39155",
+  "election": "2026-11-03",
+  "retrieved": "2026-10-30",
+  "notes": [
+    "Taken from the Board of Elections' candidate list, its running list of questions and issues, and its 46-day election notice. Candidates are listed alphabetically by last name, not in ballot order: Ohio rotates the order of names from precinct to precinct.",
+    "Issues apply only to voters in the precincts listed. Your exact ballot is on the Board's View Your Ballot page."
+  ],
+  "places": [
+    "Cortland City",
+    "Girard City",
+    "Hubbard City",
+    "Niles City",
+    "Warren City",
+    "Lordstown Village",
+    "McDonald Village",
+    "Newton Falls Village",
+    "Orangeville Village",
+    "West Farmington Village",
+    "Yankee Lake Village",
+    "Bazetta Township",
+    "Bloomfield Township",
+    "Braceville Township",
+    "Bristol Township",
+    "Brookfield Township",
+    "Champion Township",
+    "Farmington Township",
+    "Fowler Township",
+    "Greene Township",
+    "Gustavus Township",
+    "Hartford Township",
+    "Howland Township",
+    "Hubbard Township",
+    "Johnston Township",
+    "Kinsman Township",
+    "Liberty Township",
+    "Mecca Township",
+    "Mesopotamia Township",
+    "Newton Township",
+    "Southington Township",
+    "Vernon Township",
+    "Vienna Township",
+    "Warren Township",
+    "Weathersfield Township"
+  ],
+  "sources": {
+    "trumbull-cand": {
+      "label": "Trumbull County Board of Elections: candidates for the November 3, 2026 General Election",
+      "url": "https://boe.co.trumbull.oh.gov/pdfs/CAND%2011-3-26.pdf"
+    },
+    "trumbull-issues": {
+      "label": "Trumbull County Board of Elections: questions and issues for the November 3, 2026 General Election",
+      "url": "https://boe.co.trumbull.oh.gov/pdfs/Questions%20and%20Issues%20Running%20List%2011-3-26.pdf"
+    },
+    "trumbull-46day": {
+      "label": "Trumbull County Board of Elections: 46-day notice for the November 3, 2026 General Election",
+      "url": "https://boe.co.trumbull.oh.gov/pdfs/46%20day%20notice.pdf"
+    }
+  },
+  "links": [
+    {
+      "label": "View your ballot (Trumbull VoterView)",
+      "url": "https://trumbull-voterview.boe.ohio.gov/VoterView/RegistrantSearch.do"
+    },
+    {
+      "label": "Where do I vote?",
+      "url": "https://trumbull-voterview.boe.ohio.gov/VoterView/PollingPlaceSearch.do"
+    },
+    {
+      "label": "Board of Elections: current election",
+      "url": "https://boe.co.trumbull.oh.gov/boe_current.html"
+    }
+  ],
+  "results": {
+    "status": "upcoming",
+    "links": [
+      {
+        "label": "Board of Elections: election results",
+        "url": "https://boe.co.trumbull.oh.gov/boe_results.html"
+      },
+      {
+        "label": "Board of Elections: election summary (PDF)",
+        "url": "https://boe.co.trumbull.oh.gov/pdfs/Election%20Summary.pdf"
+      }
+    ]
+  },
+  "contests": [
+    {
+      "id": "congress-14",
+      "group": "U.S. House",
+      "office": "Representative to Congress",
+      "detail": "14th District",
+      "area": "All Trumbull County",
+      "candidates": [
+        {
+          "name": "David Joyce",
+          "party": "REP"
+        },
+        {
+          "name": "Maria Jukic",
+          "party": "DEM"
+        }
+      ],
+      "sources": [
+        "trumbull-cand",
+        "trumbull-46day"
+      ]
+    },
+    {
+      "id": "state-rep-64",
+      "group": "Ohio General Assembly",
+      "office": "State Representative",
+      "detail": "64th District",
+      "area": "Braceville Twp, Bristol Twp, Champion Twp, Farmington Twp, Howland Twp, Lordstown Vill, McDonald Vill, Newton Falls Vill, Newton Twp, Niles City, Southington Twp, Warren Twp, Warren City, Weathersfield Twp, W Farmington Vill",
+      "places": [
+        "Braceville Township",
+        "Bristol Township",
+        "Champion Township",
+        "Farmington Township",
+        "Howland Township",
+        "Lordstown Village",
+        "McDonald Village",
+        "Newton Falls Village",
+        "Newton Township",
+        "Niles City",
+        "Southington Township",
+        "Warren Township",
+        "Warren City",
+        "Weathersfield Township",
+        "West Farmington Village"
+      ],
+      "candidates": [
+        {
+          "name": "Nick Santucci",
+          "party": "REP"
+        }
+      ],
+      "sources": [
+        "trumbull-cand",
+        "trumbull-46day"
+      ]
+    },
+    {
+      "id": "state-rep-65",
+      "group": "Ohio General Assembly",
+      "office": "State Representative",
+      "detail": "65th District",
+      "area": "Bazetta Twp, Bloomfield Twp, Brookfield Twp, Cortland City, Fowler Twp, Girard City, Greene Twp, Gustavus Twp, Hartford Twp, Hubbard Twp, Hubbard City, Johnston Twp, Kinsman Twp, Liberty Twp, Mecca Twp, Mesopotamia Twp, Orangeville Vill, Vernon Twp, Vienna Twp, Yankee Lake Vill",
+      "places": [
+        "Bazetta Township",
+        "Bloomfield Township",
+        "Brookfield Township",
+        "Cortland City",
+        "Fowler Township",
+        "Girard City",
+        "Greene Township",
+        "Gustavus Township",
+        "Hartford Township",
+        "Hubbard Township",
+        "Hubbard City",
+        "Johnston Township",
+        "Kinsman Township",
+        "Liberty Township",
+        "Mecca Township",
+        "Mesopotamia Township",
+        "Orangeville Village",
+        "Vernon Township",
+        "Vienna Township",
+        "Yankee Lake Village"
+      ],
+      "candidates": [
+        {
+          "name": "John Barbo",
+          "party": "DEM",
+          "note": "Appointed by party to fill vacancy, 5/15/26"
+        },
+        {
+          "name": "David Thomas",
+          "party": "REP"
+        }
+      ],
+      "sources": [
+        "trumbull-cand",
+        "trumbull-46day"
+      ]
+    },
+    {
+      "id": "appeals-11-2027-02-09",
+      "group": "Ohio Court of Appeals",
+      "office": "Judge of the Court of Appeals",
+      "detail": "11th District · full term commencing February 9, 2027",
+      "area": "All Trumbull County",
+      "candidates": [
+        {
+          "name": "Marisa L. Cornachio",
+          "party": "REP"
+        }
+      ],
+      "sources": [
+        "trumbull-cand",
+        "trumbull-46day"
+      ]
+    },
+    {
+      "id": "appeals-11-2027-02-10",
+      "group": "Ohio Court of Appeals",
+      "office": "Judge of the Court of Appeals",
+      "detail": "11th District · full term commencing February 10, 2027",
+      "area": "All Trumbull County",
+      "candidates": [
+        {
+          "name": "Robert J. Patton",
+          "party": "REP"
+        }
+      ],
+      "sources": [
+        "trumbull-cand",
+        "trumbull-46day"
+      ]
+    },
+    {
+      "id": "commissioner-2027-01-01",
+      "group": "County offices",
+      "office": "County Commissioner",
+      "detail": "Full term commencing January 1, 2027",
+      "area": "All Trumbull County",
+      "candidates": [
+        {
+          "name": "Michael J. Hovis",
+          "party": "REP"
+        },
+        {
+          "name": "Kristen F. Rock",
+          "party": "DEM"
+        }
+      ],
+      "sources": [
+        "trumbull-cand",
+        "trumbull-46day"
+      ]
+    },
+    {
+      "id": "auditor",
+      "group": "County offices",
+      "office": "County Auditor",
+      "area": "All Trumbull County",
+      "candidates": [
+        {
+          "name": "Mike Loychik",
+          "party": "REP"
+        },
+        {
+          "name": "Edward D. Stredney",
+          "party": "DEM"
+        }
+      ],
+      "sources": [
+        "trumbull-cand",
+        "trumbull-46day"
+      ]
+    },
+    {
+      "id": "common-pleas-general-2027-01-01",
+      "group": "Court of Common Pleas",
+      "office": "Judge of the Court of Common Pleas, General Division",
+      "detail": "Full term commencing January 1, 2027 · no party label on the ballot",
+      "area": "All Trumbull County",
+      "candidates": [
+        {
+          "name": "Chris Becker"
+        },
+        {
+          "name": "Mary Ellen Ditchey"
+        }
+      ],
+      "sources": [
+        "trumbull-cand",
+        "trumbull-46day"
+      ]
+    },
+    {
+      "id": "common-pleas-probate-2027-02-09",
+      "group": "Court of Common Pleas",
+      "office": "Judge of the Court of Common Pleas, Probate Division",
+      "detail": "Full term commencing February 9, 2027 · no party label on the ballot",
+      "area": "All Trumbull County",
+      "candidates": [
+        {
+          "name": "Thomas A. Campbell"
+        }
+      ],
+      "sources": [
+        "trumbull-cand",
+        "trumbull-46day"
+      ]
+    }
+  ],
+  "issues": [
+    {
+      "id": "braceville-fire",
+      "kind": "levy",
+      "jurisdiction": "Braceville Township",
+      "title": "Tax levy (renewal): Providing and maintaining fire and EMS protection",
+      "area": "Braceville Twp B, C",
+      "places": [
+        "Braceville Township"
+      ],
+      "levy": {
+        "type": "Renewal",
+        "purpose": "Providing and maintaining fire and EMS protection.",
+        "mills": "1 mill",
+        "term": "5 years, commencing in 2027",
+        "firstDue": "2028"
+      },
+      "sources": [
+        "trumbull-issues",
+        "trumbull-46day"
+      ]
+    },
+    {
+      "id": "braceville-police",
+      "kind": "levy",
+      "jurisdiction": "Braceville Township",
+      "title": "Tax levy (renewal): Providing and maintaining police and EMS protection",
+      "area": "Braceville Twp B, C",
+      "places": [
+        "Braceville Township"
+      ],
+      "levy": {
+        "type": "Renewal",
+        "purpose": "Providing and maintaining police and EMS protection.",
+        "mills": "1 mill",
+        "term": "5 years, commencing in 2027",
+        "firstDue": "2028"
+      },
+      "sources": [
+        "trumbull-issues",
+        "trumbull-46day"
+      ]
+    },
+    {
+      "id": "braceville-roads",
+      "kind": "levy",
+      "jurisdiction": "Braceville Township",
+      "title": "Tax levy (renewal): The general construction, reconstruction, resurfacing and repair of streets, roads and bridges",
+      "area": "Braceville Twp B, C",
+      "places": [
+        "Braceville Township"
+      ],
+      "levy": {
+        "type": "Renewal",
+        "purpose": "The general construction, reconstruction, resurfacing and repair of streets, roads and bridges.",
+        "mills": "1 mill",
+        "term": "5 years, commencing in 2027",
+        "firstDue": "2028"
+      },
+      "sources": [
+        "trumbull-issues",
+        "trumbull-46day"
+      ]
+    },
+    {
+      "id": "cardinal-lsd",
+      "kind": "levy",
+      "jurisdiction": "Cardinal Local School District",
+      "title": "Tax levy (renewal): Current expenses",
+      "area": "Part Mesopotamia Twp A",
+      "places": [
+        "Mesopotamia Township"
+      ],
+      "levy": {
+        "type": "Renewal",
+        "purpose": "Current expenses.",
+        "mills": "9.7 mills",
+        "term": "5 years, commencing in 2027",
+        "firstDue": "2028"
+      },
+      "sources": [
+        "trumbull-issues",
+        "trumbull-46day"
+      ]
+    },
+    {
+      "id": "champion-police",
+      "kind": "levy",
+      "jurisdiction": "Champion Township",
+      "title": "Tax levy (renewal): Providing and maintaining police and EMS protection",
+      "area": "Champion Twp A, B, C, E, F, G, K",
+      "places": [
+        "Champion Township"
+      ],
+      "levy": {
+        "type": "Renewal",
+        "purpose": "Providing and maintaining police and EMS protection.",
+        "mills": "1 mill",
+        "term": "5 years, commencing in 2027",
+        "firstDue": "2028"
+      },
+      "sources": [
+        "trumbull-issues",
+        "trumbull-46day"
+      ]
+    },
+    {
+      "id": "farmington-roads",
+      "kind": "levy",
+      "jurisdiction": "Farmington Township",
+      "title": "Tax levy (renewal): The general construction, reconstruction, resurfacing and repair of streets, roads and bridges",
+      "area": "Farmington Twp",
+      "places": [
+        "Farmington Township"
+      ],
+      "levy": {
+        "type": "Renewal",
+        "purpose": "The general construction, reconstruction, resurfacing and repair of streets, roads and bridges.",
+        "mills": "2.5 mills",
+        "term": "5 years, commencing in 2026",
+        "firstDue": "2027"
+      },
+      "sources": [
+        "trumbull-issues",
+        "trumbull-46day"
+      ]
+    },
+    {
+      "id": "greene-zoning",
+      "kind": "question",
+      "jurisdiction": "Greene Township",
+      "title": "Proposed zoning referendum",
+      "area": "Greene Twp",
+      "places": [
+        "Greene Township"
+      ],
+      "text": "Shall the Zoning Plan for the unincorporated area of Greene Township, as adopted by the Greene Township Board of Trustees, be repealed?",
+      "sources": [
+        "trumbull-issues",
+        "trumbull-46day"
+      ]
+    },
+    {
+      "id": "gustavus-fire",
+      "kind": "levy",
+      "jurisdiction": "Gustavus Township",
+      "title": "Tax levy (renewal): Providing and maintaining fire and EMS protection",
+      "area": "Gustavus Twp",
+      "places": [
+        "Gustavus Township"
+      ],
+      "levy": {
+        "type": "Renewal",
+        "purpose": "Providing and maintaining fire and EMS protection.",
+        "mills": "2.8 mills",
+        "term": "4 years, commencing in 2026",
+        "firstDue": "2027"
+      },
+      "sources": [
+        "trumbull-issues",
+        "trumbull-46day"
+      ]
+    },
+    {
+      "id": "hubbard-data-centers",
+      "kind": "question",
+      "jurisdiction": "Hubbard City",
+      "title": "Proposed ordinance: ban on data centers",
+      "area": "All Hubbard City",
+      "places": [
+        "Hubbard City"
+      ],
+      "text": "Shall the Ordinance to approve or reject a ban on data centers within the City limits, be passed?",
+      "sources": [
+        "trumbull-issues",
+        "trumbull-46day"
+      ]
+    },
+    {
+      "id": "harding-park",
+      "kind": "levy",
+      "jurisdiction": "Hubbard Township Free Park (Harding Park)",
+      "title": "Tax levy (additional): For parks and recreational purposes",
+      "area": "All Hubbard City and Hubbard Twp",
+      "places": [
+        "Hubbard City",
+        "Hubbard Township"
+      ],
+      "levy": {
+        "type": "Additional",
+        "purpose": "For parks and recreational purposes.",
+        "mills": "1.07 mills",
+        "term": "Continuing period of time, commencing in 2026",
+        "firstDue": "2027"
+      },
+      "sources": [
+        "trumbull-issues",
+        "trumbull-46day"
+      ]
+    },
+    {
+      "id": "hubbard-twp-roads",
+      "kind": "levy",
+      "jurisdiction": "Hubbard Township",
+      "title": "Tax levy (renewal): The general construction, reconstruction, resurfacing and repair of streets, roads and bridges",
+      "area": "Hubbard Twp A, B, D, F",
+      "places": [
+        "Hubbard Township"
+      ],
+      "levy": {
+        "type": "Renewal",
+        "purpose": "The general construction, reconstruction, resurfacing and repair of streets, roads and bridges.",
+        "mills": "1 mill",
+        "term": "5 years, commencing in 2026",
+        "firstDue": "2027"
+      },
+      "sources": [
+        "trumbull-issues",
+        "trumbull-46day"
+      ]
+    },
+    {
+      "id": "lakeview-lsd",
+      "kind": "levy",
+      "jurisdiction": "Lakeview Local School District",
+      "title": "Tax levy (renewal): General permanent improvements",
+      "area": "Bazetta Twp B – G (excludes part of G), Cortland City A – H (excludes part of A); includes part Warren City 2G, Mecca A, Warren Twp E",
+      "places": [
+        "Bazetta Township",
+        "Cortland City",
+        "Warren City",
+        "Mecca Township",
+        "Warren Township"
+      ],
+      "levy": {
+        "type": "Renewal",
+        "purpose": "General permanent improvements.",
+        "mills": "1 mill",
+        "term": "5 years, commencing in 2027",
+        "firstDue": "2028"
+      },
+      "sources": [
+        "trumbull-issues",
+        "trumbull-46day"
+      ]
+    },
+    {
+      "id": "liberty-lsd",
+      "kind": "levy",
+      "jurisdiction": "Liberty Local School District",
+      "title": "Tax levy (renewal): Current expenses",
+      "area": "Liberty Twp A – N (excludes part of L); includes part Girard City 1A, 2A, 4C",
+      "places": [
+        "Liberty Township",
+        "Girard City"
+      ],
+      "levy": {
+        "type": "Renewal",
+        "purpose": "Current expenses.",
+        "mills": "2.3 mills",
+        "term": "5 years, commencing in 2026",
+        "firstDue": "2027"
+      },
+      "sources": [
+        "trumbull-issues",
+        "trumbull-46day"
+      ]
+    },
+    {
+      "id": "liberty-fire-1",
+      "kind": "levy",
+      "jurisdiction": "Liberty Township",
+      "title": "Tax levy (renewal): Providing and maintaining fire and EMS protection",
+      "area": "Liberty Twp A, B, C, D, E, G, J, L, N",
+      "places": [
+        "Liberty Township"
+      ],
+      "levy": {
+        "type": "Renewal",
+        "purpose": "Providing and maintaining fire and EMS protection.",
+        "mills": "1 mill",
+        "term": "5 years, commencing in 2027",
+        "firstDue": "2028"
+      },
+      "sources": [
+        "trumbull-issues",
+        "trumbull-46day"
+      ]
+    },
+    {
+      "id": "liberty-fire-2",
+      "kind": "levy",
+      "jurisdiction": "Liberty Township",
+      "title": "Tax levy (renewal): Providing and maintaining fire and EMS protection",
+      "area": "Liberty Twp A, B, C, D, E, G, J, L, N",
+      "places": [
+        "Liberty Township"
+      ],
+      "levy": {
+        "type": "Renewal",
+        "purpose": "Providing and maintaining fire and EMS protection.",
+        "mills": "2 mills",
+        "term": "5 years, commencing in 2027",
+        "firstDue": "2028"
+      },
+      "sources": [
+        "trumbull-issues",
+        "trumbull-46day"
+      ]
+    },
+    {
+      "id": "liberty-police",
+      "kind": "levy",
+      "jurisdiction": "Liberty Township",
+      "title": "Tax levy (renewal): Providing and maintaining police and EMS protection",
+      "area": "Liberty Twp A, B, C, D, E, G, J, L, N",
+      "places": [
+        "Liberty Township"
+      ],
+      "levy": {
+        "type": "Renewal",
+        "purpose": "Providing and maintaining police and EMS protection.",
+        "mills": "2 mills",
+        "term": "5 years, commencing in 2027",
+        "firstDue": "2028"
+      },
+      "sources": [
+        "trumbull-issues",
+        "trumbull-46day"
+      ]
+    },
+    {
+      "id": "lordstown-income-tax",
+      "kind": "question",
+      "jurisdiction": "Lordstown Village",
+      "title": "Proposed change in scope/purpose of income tax",
+      "area": "Lordstown Village A, B, C",
+      "places": [
+        "Lordstown Village"
+      ],
+      "text": "Shall the Ordinance allowing funds to be used for the purchase and/or construction of a new fire department building in addition to the previously approved income tax increase for providing and maintaining fire and EMS protection, be passed?",
+      "sources": [
+        "trumbull-issues",
+        "trumbull-46day"
+      ]
+    },
+    {
+      "id": "mathews-lsd",
+      "kind": "levy",
+      "jurisdiction": "Mathews Local School District",
+      "title": "Tax levy (renewal): Current expenses",
+      "area": "Fowler Twp A, C, Vienna Twp A, B, C; includes part Girard City 1B, Cortland City A",
+      "places": [
+        "Fowler Township",
+        "Vienna Township",
+        "Girard City",
+        "Cortland City"
+      ],
+      "levy": {
+        "type": "Renewal",
+        "purpose": "Current expenses.",
+        "mills": "2.95 mills",
+        "term": "5 years, commencing in 2027",
+        "firstDue": "2028"
+      },
+      "sources": [
+        "trumbull-issues",
+        "trumbull-46day"
+      ]
+    },
+    {
+      "id": "mcdonald-safety",
+      "kind": "levy",
+      "jurisdiction": "McDonald Village",
+      "title": "Tax levy (additional): Providing and maintaining police, fire, and EMS protection",
+      "area": "McDonald Village A, B, C",
+      "places": [
+        "McDonald Village"
+      ],
+      "levy": {
+        "type": "Additional",
+        "purpose": "Providing and maintaining police, fire, and EMS protection.",
+        "mills": "4.5 mills",
+        "term": "5 years, commencing in 2027",
+        "firstDue": "2028"
+      },
+      "sources": [
+        "trumbull-issues",
+        "trumbull-46day"
+      ]
+    },
+    {
+      "id": "mesopotamia-roads",
+      "kind": "levy",
+      "jurisdiction": "Mesopotamia Township",
+      "title": "Tax levy (renewal): The general construction, reconstruction, resurfacing and repair of streets, roads and bridges",
+      "area": "Mesopotamia Twp A",
+      "places": [
+        "Mesopotamia Township"
+      ],
+      "levy": {
+        "type": "Renewal",
+        "purpose": "The general construction, reconstruction, resurfacing and repair of streets, roads and bridges.",
+        "mills": "3 mills",
+        "term": "5 years, commencing in 2027",
+        "firstDue": "2028"
+      },
+      "sources": [
+        "trumbull-issues",
+        "trumbull-46day"
+      ]
+    },
+    {
+      "id": "mesopotamia-fire",
+      "kind": "levy",
+      "jurisdiction": "Mesopotamia Township",
+      "title": "Tax levy (renewal): Providing and maintaining fire and EMS protection",
+      "area": "Mesopotamia Twp A",
+      "places": [
+        "Mesopotamia Township"
+      ],
+      "levy": {
+        "type": "Renewal",
+        "purpose": "Providing and maintaining fire and EMS protection.",
+        "mills": "1 mill",
+        "term": "5 years, commencing in 2027",
+        "firstDue": "2028"
+      },
+      "sources": [
+        "trumbull-issues",
+        "trumbull-46day"
+      ]
+    },
+    {
+      "id": "newton-falls-jfd",
+      "kind": "levy",
+      "jurisdiction": "Newton Falls Joint Fire District",
+      "title": "Tax levy (renewal): EMS",
+      "area": "Newton Falls Village 1A – 4A, Newton Twp A, B, D",
+      "places": [
+        "Newton Falls Village",
+        "Newton Township"
+      ],
+      "levy": {
+        "type": "Renewal",
+        "purpose": "EMS.",
+        "mills": "4 mills",
+        "term": "5 years, commencing in 2026",
+        "firstDue": "2027"
+      },
+      "sources": [
+        "trumbull-issues",
+        "trumbull-46day"
+      ]
+    },
+    {
+      "id": "newton-gas",
+      "kind": "question",
+      "jurisdiction": "Newton Township",
+      "title": "Proposed natural gas aggregation",
+      "area": "Newton Twp A, B, D",
+      "places": [
+        "Newton Township"
+      ],
+      "text": "Shall the Board of Trustees of Newton Township have the authority to aggregate the retail natural gas loads located in the Township, and for that purpose, enter into service agreements to facilitate for those loads the sale and purchase of natural gas, such aggregation to occur automatically except where any person elects to opt out?",
+      "sources": [
+        "trumbull-issues",
+        "trumbull-46day"
+      ]
+    },
+    {
+      "id": "newton-falls-traffic",
+      "kind": "question",
+      "jurisdiction": "Newton Falls Village",
+      "title": "Proposed referendum on ordinance: photo traffic enforcement in school zones",
+      "area": "Newton Falls Village 1A, 2A, 3A, 4A",
+      "places": [
+        "Newton Falls Village"
+      ],
+      "text": "Shall the Ordinance proposing photo traffic enforcement in school zones be approved?",
+      "sources": [
+        "trumbull-issues"
+      ],
+      "note": "On the Board's issues list; not in its 46-day notice."
+    },
+    {
+      "id": "orangeville-current",
+      "kind": "levy",
+      "jurisdiction": "Orangeville Village",
+      "title": "Tax levy (renewal): Current expenses",
+      "area": "Includes part Hartford Twp A – Orangeville Village",
+      "places": [
+        "Orangeville Village",
+        "Hartford Township"
+      ],
+      "levy": {
+        "type": "Renewal",
+        "purpose": "Current expenses.",
+        "mills": "4.1 mills",
+        "term": "5 years, commencing in 2027",
+        "firstDue": "2028"
+      },
+      "sources": [
+        "trumbull-issues",
+        "trumbull-46day"
+      ]
+    },
+    {
+      "id": "southington-electric",
+      "kind": "question",
+      "jurisdiction": "Southington Township",
+      "title": "Proposed electric aggregation",
+      "area": "Southington Twp B, C, D",
+      "places": [
+        "Southington Township"
+      ],
+      "text": "Shall the Board of Trustees of Southington Township have the authority to aggregate the retail electric loads located in the Township, and for that purpose, enter into service agreements to facilitate for those loads the sale and purchase of electricity, such aggregation to occur automatically except where any person elects to opt out?",
+      "sources": [
+        "trumbull-issues",
+        "trumbull-46day"
+      ]
+    },
+    {
+      "id": "southington-gas",
+      "kind": "question",
+      "jurisdiction": "Southington Township",
+      "title": "Proposed natural gas aggregation",
+      "area": "Southington Twp B, C, D",
+      "places": [
+        "Southington Township"
+      ],
+      "text": "Shall the Board of Trustees of Southington Township have the authority to aggregate the retail natural gas loads located in the Township, and for that purpose, enter into service agreements to facilitate for those loads the sale and purchase of natural gas, such aggregation to occur automatically except where any person elects to opt out?",
+      "sources": [
+        "trumbull-issues",
+        "trumbull-46day"
+      ]
+    },
+    {
+      "id": "vienna-police",
+      "kind": "levy",
+      "jurisdiction": "Vienna Township",
+      "title": "Tax levy (renewal): Providing and maintaining police and EMS protection",
+      "area": "Vienna Twp A, B, C",
+      "places": [
+        "Vienna Township"
+      ],
+      "levy": {
+        "type": "Renewal",
+        "purpose": "Providing and maintaining police and EMS protection.",
+        "mills": "3 mills",
+        "term": "5 years, commencing in 2027",
+        "firstDue": "2028"
+      },
+      "sources": [
+        "trumbull-issues",
+        "trumbull-46day"
+      ]
+    },
+    {
+      "id": "warren-council-pay",
+      "kind": "question",
+      "jurisdiction": "Warren City",
+      "title": "Proposed ordinance: City Council pay raises",
+      "area": "All Warren City",
+      "places": [
+        "Warren City"
+      ],
+      "text": "Shall the Ordinance to immediately rescind and replace the pay raises for City Council in Warren, Ohio, and eliminate all future automatic increases for elected officials, be passed?",
+      "sources": [
+        "trumbull-issues",
+        "trumbull-46day"
+      ]
+    },
+    {
+      "id": "warren-csd",
+      "kind": "levy",
+      "jurisdiction": "Warren City School District",
+      "title": "Tax levy (renewal): Current expenses",
+      "area": "Warren City (excludes part of Warren City 1G, 2C, 2F, 2G, 3G, 3K, 3L, 5D, 5F, 5K, 6G, 7C, 7D); includes part Warren Twp D, E",
+      "places": [
+        "Warren City",
+        "Warren Township"
+      ],
+      "levy": {
+        "type": "Renewal",
+        "purpose": "Current expenses.",
+        "mills": "4.65 mills",
+        "term": "5 years, commencing in 2027",
+        "firstDue": "2028"
+      },
+      "sources": [
+        "trumbull-issues",
+        "trumbull-46day"
+      ]
+    },
+    {
+      "id": "liquor-niles-eastside",
+      "kind": "liquor",
+      "jurisdiction": "Niles City",
+      "title": "Local liquor option: Eastside Grill",
+      "area": "Niles City precinct 3C",
+      "places": [
+        "Niles City"
+      ],
+      "text": "On-premise sales of beer, wine and mixed beverages, spirituous liquor, Monday – Saturday.",
+      "sources": [
+        "trumbull-issues",
+        "trumbull-46day"
+      ]
+    },
+    {
+      "id": "liquor-cortland-casa-angel",
+      "kind": "liquor",
+      "jurisdiction": "Cortland City",
+      "title": "Local liquor option: Casa Angel",
+      "area": "Cortland City precinct F",
+      "places": [
+        "Cortland City"
+      ],
+      "text": "On/off-premise sales of beer, wine and mixed beverages and on-premise sales of spirituous liquor, Monday – Saturday.",
+      "sources": [
+        "trumbull-issues",
+        "trumbull-46day"
+      ],
+      "note": "The Board's issues list gives precinct F; its 46-day notice gives precinct H."
+    },
+    {
+      "id": "liquor-cortland-casa-angel-sunday",
+      "kind": "liquor",
+      "jurisdiction": "Cortland City",
+      "title": "Local liquor option: Casa Angel (Sunday)",
+      "area": "Cortland City precinct F",
+      "places": [
+        "Cortland City"
+      ],
+      "text": "On/off-premise sales of wine and mixed beverages and on-premise sales of spirituous liquor on Sunday.",
+      "sources": [
+        "trumbull-issues",
+        "trumbull-46day"
+      ],
+      "note": "The Board's issues list gives precinct F; its 46-day notice gives precinct H."
+    },
+    {
+      "id": "liquor-girard-legion",
+      "kind": "liquor",
+      "jurisdiction": "Girard City",
+      "title": "Local liquor option: Girard American Legion Post #235 (Sunday)",
+      "area": "Girard City precinct 3A",
+      "places": [
+        "Girard City"
+      ],
+      "text": "On-premise sales of spirituous liquor and mixed beverages on Sundays.",
+      "sources": [
+        "trumbull-issues",
+        "trumbull-46day"
+      ]
+    },
+    {
+      "id": "liquor-newton-duck-creek",
+      "kind": "liquor",
+      "jurisdiction": "Newton Township",
+      "title": "Local liquor option: Duck Creek Golf Club, Inc. (Sunday)",
+      "area": "Newton Township precinct D",
+      "places": [
+        "Newton Township"
+      ],
+      "text": "On-premise sales of spirituous liquor and on/off-premise sales of beer and wine and mixed beverages on Sundays.",
+      "sources": [
+        "trumbull-issues",
+        "trumbull-46day"
+      ]
+    }
+  ]
+}

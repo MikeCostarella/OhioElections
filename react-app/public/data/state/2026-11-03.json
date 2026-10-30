@@ -1,0 +1,127 @@
+{
+  "scope": "state",
+  "election": "2026-11-03",
+  "retrieved": "2026-10-30",
+  "notes": [
+    "Statewide contests and State Issue 3 appear on every Ohio ballot. Names and parties are as printed in the Trumbull County Board of Elections' 46-day election notice (Secretary of State Form 120), which lists the statewide races and issues every county carries."
+  ],
+  "sources": {
+    "trumbull-46day": {
+      "label": "Trumbull County Board of Elections: 46-day notice for the November 3, 2026 General Election",
+      "url": "https://boe.co.trumbull.oh.gov/pdfs/46%20day%20notice.pdf"
+    },
+    "sos-sample": {
+      "label": "Ohio Secretary of State: find your sample ballot",
+      "url": "https://www.ohiosos.gov/elections/voters/toolkit/sample-ballot/"
+    }
+  },
+  "contests": [
+    {
+      "id": "governor",
+      "group": "State executive offices",
+      "office": "Governor and Lieutenant Governor",
+      "candidates": [
+        { "name": "Amy Acton / David Pepper", "party": "DEM" },
+        { "name": "Don Kissick / James L. Mills", "party": "LIB" },
+        { "name": "Vivek Ramaswamy / Robert A. McColley", "party": "REP" }
+      ],
+      "sources": ["trumbull-46day"]
+    },
+    {
+      "id": "attorney-general",
+      "group": "State executive offices",
+      "office": "Attorney General",
+      "candidates": [
+        { "name": "Keith Faber", "party": "REP" },
+        { "name": "John J. Kulewicz", "party": "DEM" }
+      ],
+      "sources": ["trumbull-46day"]
+    },
+    {
+      "id": "auditor-of-state",
+      "group": "State executive offices",
+      "office": "Auditor of State",
+      "candidates": [
+        { "name": "Annette Blackwell", "party": "DEM" },
+        { "name": "Aidan Michael Jeffery", "party": "LIB" },
+        { "name": "Frank LaRose", "party": "REP" }
+      ],
+      "sources": ["trumbull-46day"]
+    },
+    {
+      "id": "secretary-of-state",
+      "group": "State executive offices",
+      "office": "Secretary of State",
+      "candidates": [
+        { "name": "Tom Pruss", "party": "LIB" },
+        { "name": "Allison Russo", "party": "DEM" },
+        { "name": "Robert Sprague", "party": "REP" }
+      ],
+      "sources": ["trumbull-46day"]
+    },
+    {
+      "id": "treasurer-of-state",
+      "group": "State executive offices",
+      "office": "Treasurer of State",
+      "candidates": [
+        { "name": "Jay Edwards", "party": "REP" },
+        { "name": "Seth Walsh", "party": "DEM" }
+      ],
+      "sources": ["trumbull-46day"]
+    },
+    {
+      "id": "us-senate",
+      "group": "U.S. Senate",
+      "office": "United States Senator",
+      "detail": "Unexpired term ending January 3, 2029",
+      "candidates": [
+        { "name": "Sherrod Brown", "party": "DEM" },
+        { "name": "Jon Husted", "party": "REP" },
+        { "name": "William B. Redpath", "party": "LIB" }
+      ],
+      "sources": ["trumbull-46day"]
+    },
+    {
+      "id": "supreme-court-2027-01-01",
+      "group": "Ohio Supreme Court",
+      "office": "Justice of the Supreme Court",
+      "detail": "Full term commencing January 1, 2027",
+      "candidates": [
+        { "name": "Daniel R. Hawkins", "party": "REP" },
+        { "name": "Marilyn Zayas", "party": "DEM" }
+      ],
+      "sources": ["trumbull-46day"]
+    },
+    {
+      "id": "supreme-court-2027-01-02",
+      "group": "Ohio Supreme Court",
+      "office": "Justice of the Supreme Court",
+      "detail": "Full term commencing January 2, 2027",
+      "candidates": [
+        { "name": "Jennifer Brunner", "party": "DEM" },
+        { "name": "Colleen O'Donnell", "party": "REP" }
+      ],
+      "sources": ["trumbull-46day"]
+    }
+  ],
+  "issues": [
+    {
+      "id": "state-issue-3",
+      "kind": "state",
+      "number": "Issue 3",
+      "jurisdiction": "State of Ohio",
+      "title": "Proposed constitutional amendment: to require voters to present photo identification in order to vote",
+      "area": "Statewide",
+      "text": "Proposed by joint resolution of the General Assembly to enact Section 5 of Article V of the Constitution of the State of Ohio. A majority yes vote is required for adoption.",
+      "bullets": [
+        "Require voters to present an approved form of government-issued photo identification in order to vote.",
+        "Allow state law to provide for an alternative method of verifying a voter's identity for a voter who has a sincere religious objection to being photographed and, therefore, does not possess an approved form of government-issued photo identification.",
+        "Require that voters who do not vote in person provide an approved form of government-issued photo identification, unless the law authorizes those persons to vote by providing a signature and at least one other specified unique identifier.",
+        "Define approved forms of government-issued photo identification as an unexpired Ohio driver license or state identification card; a United States passport or passport card; or a United States military identification card, Ohio National Guard identification card, or United States Department of Veterans Affairs identification card.",
+        "If approved, the amendment shall take effect immediately."
+      ],
+      "yesNo": "A YES vote means approval of the amendment. A NO vote means disapproval of the amendment.",
+      "sources": ["trumbull-46day"]
+    }
+  ]
+}
