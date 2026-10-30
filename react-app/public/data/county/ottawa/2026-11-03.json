@@ -1,0 +1,664 @@
+{
+  "scope": "county",
+  "county": "Ottawa",
+  "fips": "39123",
+  "election": "2026-11-03",
+  "retrieved": "2026-10-30",
+  "notes": [
+    "Taken from the Board of Elections' sample ballots, which give every precinct's ballot with the full wording of each issue, checked against the Board's candidate list and issues list. (The Board's 46-day notice is a scanned image.)",
+    "Candidates are listed alphabetically by last name, not in ballot order: Ohio rotates the order of names from precinct to precinct. Certified write-in candidates are not printed on the ballot and are not listed.",
+    "\"Where you live\" uses the state voter file: a district or school levy is shown for a city, village or township when any of its voters live in that district. Your exact ballot depends on your precinct.",
+    "Local issue numbers run 4 to 19; Issue 3 is the statewide question."
+  ],
+  "places": [
+    "Allen Township",
+    "Bay Township",
+    "Benton Township",
+    "Carroll Township",
+    "Catawba Island Township",
+    "Clay Center Village",
+    "Clay Township",
+    "Danbury Township",
+    "Elmore Village",
+    "Erie Township",
+    "Genoa Village",
+    "Harris Township",
+    "Marblehead Village",
+    "Oak Harbor Village",
+    "Port Clinton City",
+    "Portage Township",
+    "Put-in-Bay Township",
+    "Put-in-Bay Village",
+    "Rocky Ridge Village",
+    "Salem Township"
+  ],
+  "sources": {
+    "ottawa-sample": {
+      "label": "Ottawa County Board of Elections: sample ballots for every precinct, November 3, 2026 General Election",
+      "url": "https://boe.ottawa.oh.gov/wp-content/uploads/2026/09/2026-General-Election-Sample.pdf"
+    },
+    "ottawa-cand": {
+      "label": "Ottawa County Board of Elections: candidate list, November 3, 2026 General Election",
+      "url": "https://boe.ottawa.oh.gov/wp-content/uploads/2026/09/Candidates-GN26-1.csv"
+    },
+    "ottawa-issues": {
+      "label": "Ottawa County Board of Elections: November 2026 issues list",
+      "url": "https://boe.ottawa.oh.gov/wp-content/uploads/2026/10/November-2026-Issues.pdf"
+    }
+  },
+  "links": [
+    {
+      "label": "Board of Elections",
+      "url": "https://boe.ottawa.oh.gov/"
+    },
+    {
+      "label": "Sample ballots (all precincts)",
+      "url": "https://boe.ottawa.oh.gov/wp-content/uploads/2026/09/2026-General-Election-Sample.pdf"
+    },
+    {
+      "label": "46-day election notice",
+      "url": "https://boe.ottawa.oh.gov/wp-content/uploads/2026/09/46-Day-Notice-GN26.pdf"
+    }
+  ],
+  "results": {
+    "status": "upcoming",
+    "links": [
+      {
+        "label": "Board of Elections: past results",
+        "url": "https://boe.ottawa.oh.gov/past-results-election-summaries-absentee-ballot-request-totals/"
+      }
+    ]
+  },
+  "contests": [
+    {
+      "id": "congress-9",
+      "group": "U.S. House",
+      "office": "Representative to Congress",
+      "detail": "9th District",
+      "candidates": [
+        {
+          "name": "Marcy Kaptur",
+          "party": "DEM"
+        },
+        {
+          "name": "Derek Merrin",
+          "party": "REP"
+        }
+      ],
+      "sources": [
+        "ottawa-sample",
+        "ottawa-cand"
+      ]
+    },
+    {
+      "id": "rep-44",
+      "group": "Ohio General Assembly",
+      "office": "State Representative",
+      "detail": "44th District (also in Lucas and Wood Counties)",
+      "area": "Allen Township, Clay Center Village, Clay Township, Genoa Village",
+      "places": [
+        "Allen Township",
+        "Clay Center Village",
+        "Clay Township",
+        "Genoa Village"
+      ],
+      "candidates": [
+        {
+          "name": "David J. Fournier",
+          "party": "DEM"
+        },
+        {
+          "name": "Edward L. Schimmel",
+          "party": "REP"
+        },
+        {
+          "name": "Lyndsey A. Stough",
+          "party": "Nonparty"
+        }
+      ],
+      "sources": [
+        "ottawa-sample",
+        "ottawa-cand"
+      ]
+    },
+    {
+      "id": "rep-89",
+      "group": "Ohio General Assembly",
+      "office": "State Representative",
+      "detail": "89th District (also in Erie County)",
+      "area": "Bay Township, Benton Township, Carroll Township, Catawba Island Township, Danbury Township, Elmore Village, Erie Township, Harris Township, Marblehead Village, Oak Harbor Village, Port Clinton City, Portage Township, Put-in-Bay Township, Put-in-Bay Village, Rocky Ridge Village, Salem Township",
+      "places": [
+        "Bay Township",
+        "Benton Township",
+        "Carroll Township",
+        "Catawba Island Township",
+        "Danbury Township",
+        "Elmore Village",
+        "Erie Township",
+        "Harris Township",
+        "Marblehead Village",
+        "Oak Harbor Village",
+        "Port Clinton City",
+        "Portage Township",
+        "Put-in-Bay Township",
+        "Put-in-Bay Village",
+        "Rocky Ridge Village",
+        "Salem Township"
+      ],
+      "candidates": [
+        {
+          "name": "Easton Michael Retzke",
+          "party": "DEM"
+        },
+        {
+          "name": "Caleb Stidham",
+          "party": "REP"
+        }
+      ],
+      "sources": [
+        "ottawa-sample",
+        "ottawa-cand"
+      ]
+    },
+    {
+      "id": "appeals-6-0209",
+      "group": "Ohio Court of Appeals",
+      "office": "Judge of the Court of Appeals",
+      "detail": "6th District · full term commencing February 9, 2027",
+      "candidates": [
+        {
+          "name": "Michael R. Goulding",
+          "party": "REP"
+        }
+      ],
+      "sources": [
+        "ottawa-sample",
+        "ottawa-cand"
+      ]
+    },
+    {
+      "id": "appeals-6-0210",
+      "group": "Ohio Court of Appeals",
+      "office": "Judge of the Court of Appeals",
+      "detail": "6th District · full term commencing February 10, 2027",
+      "candidates": [
+        {
+          "name": "Myron C. Duhart",
+          "party": "DEM"
+        },
+        {
+          "name": "CJ Kamm",
+          "party": "REP"
+        }
+      ],
+      "sources": [
+        "ottawa-sample",
+        "ottawa-cand"
+      ]
+    },
+    {
+      "id": "commissioner",
+      "group": "County offices",
+      "office": "County Commissioner",
+      "detail": "Full term commencing January 1, 2027",
+      "candidates": [
+        {
+          "name": "Donald A. Douglas",
+          "party": "REP"
+        },
+        {
+          "name": "Susan Mulligan",
+          "party": "DEM"
+        }
+      ],
+      "sources": [
+        "ottawa-sample",
+        "ottawa-cand"
+      ]
+    },
+    {
+      "id": "auditor",
+      "group": "County offices",
+      "office": "County Auditor",
+      "candidates": [
+        {
+          "name": "Katherine Adams",
+          "party": "REP"
+        },
+        {
+          "name": "Michelle Kreager",
+          "party": "DEM"
+        }
+      ],
+      "sources": [
+        "ottawa-sample",
+        "ottawa-cand"
+      ]
+    },
+    {
+      "id": "clerk-of-courts",
+      "group": "County offices",
+      "office": "Clerk of the Court of Common Pleas",
+      "detail": "Unexpired term ending December 31, 2028",
+      "candidates": [
+        {
+          "name": "Christopher Enoch",
+          "party": "REP"
+        },
+        {
+          "name": "Jenni Meyers",
+          "party": "DEM"
+        }
+      ],
+      "sources": [
+        "ottawa-sample",
+        "ottawa-cand"
+      ]
+    },
+    {
+      "id": "engineer",
+      "group": "County offices",
+      "office": "County Engineer",
+      "detail": "Unexpired term ending December 31, 2028",
+      "candidates": [
+        {
+          "name": "Daniel Toris Jr.",
+          "party": "Nonparty"
+        }
+      ],
+      "sources": [
+        "ottawa-sample",
+        "ottawa-cand"
+      ]
+    },
+    {
+      "id": "coroner",
+      "group": "County offices",
+      "office": "County Coroner",
+      "detail": "Unexpired term ending December 31, 2028",
+      "candidates": [
+        {
+          "name": "Matthew N. Widmer",
+          "party": "REP"
+        }
+      ],
+      "sources": [
+        "ottawa-sample",
+        "ottawa-cand"
+      ]
+    },
+    {
+      "id": "cp-gen",
+      "group": "Court of Common Pleas",
+      "office": "Judge of the Court of Common Pleas",
+      "detail": "Full term commencing February 9, 2027 · no party label on the ballot",
+      "candidates": [
+        {
+          "name": "Bruce Winters"
+        }
+      ],
+      "sources": [
+        "ottawa-sample",
+        "ottawa-cand"
+      ]
+    },
+    {
+      "id": "cp-probate-juvenile",
+      "group": "Court of Common Pleas",
+      "office": "Judge of the Court of Common Pleas, Probate/Juvenile Division",
+      "detail": "Full term commencing February 9, 2027 · no party label on the ballot",
+      "candidates": [
+        {
+          "name": "Frederick C. Hany II"
+        }
+      ],
+      "sources": [
+        "ottawa-sample",
+        "ottawa-cand"
+      ]
+    }
+  ],
+  "issues": [
+    {
+      "id": "issue-4",
+      "kind": "levy",
+      "jurisdiction": "Genoa Area Local School District",
+      "title": "Tax levy (renewal): Current operating expenses",
+      "area": "Genoa Area Local School District, Ottawa County part (Allen 2 Genoa and Clay Center, Allen 3 and 4, Clay 1, 2, 3 Genoa Schools, Clay 4)",
+      "places": [
+        "Allen Township",
+        "Clay Center Village",
+        "Clay Township",
+        "Genoa Village"
+      ],
+      "levy": {
+        "type": "Renewal",
+        "purpose": "Current operating expenses.",
+        "mills": "4.75 mills (estimated average)",
+        "term": "5 years, commencing in 2027",
+        "firstDue": "2028",
+        "estimate": "$1,300,000 a year (fixed sum); $166 for each $100,000 of the county auditor's market value"
+      },
+      "number": "Issue 4",
+      "note": "A fixed-sum levy renewing an existing levy. The county auditor certified the district's carry-over balance in excess of the preceding year's general fund expenditures as $0 (0%).",
+      "sources": [
+        "ottawa-sample",
+        "ottawa-issues"
+      ]
+    },
+    {
+      "id": "issue-5",
+      "kind": "levy",
+      "jurisdiction": "Genoa Area Local School District",
+      "title": "Tax levy (renewal): Education technology",
+      "area": "Genoa Area Local School District, Ottawa County part (Allen 2 Genoa and Clay Center, Allen 3 and 4, Clay 1, 2, 3 Genoa Schools, Clay 4)",
+      "places": [
+        "Allen Township",
+        "Clay Center Village",
+        "Clay Township",
+        "Genoa Village"
+      ],
+      "levy": {
+        "type": "Renewal",
+        "purpose": "Education technology.",
+        "mills": "0.5 mill",
+        "term": "5 years, commencing in 2027",
+        "firstDue": "2028",
+        "estimate": "$112,841 a year; $13 for each $100,000 of the county auditor's market value"
+      },
+      "number": "Issue 5",
+      "sources": [
+        "ottawa-sample",
+        "ottawa-issues"
+      ]
+    },
+    {
+      "id": "issue-6",
+      "kind": "question",
+      "jurisdiction": "Lake Local School District (Wood and Ottawa)",
+      "title": "School district income tax: 1%, continuing, for current expenses",
+      "area": "Lake Local School District, Ottawa County part (Allen 2 Lake)",
+      "places": [
+        "Allen Township"
+      ],
+      "number": "Issue 6",
+      "text": "Shall an annual income tax of 1% on the earned income of individuals residing in the school district be imposed by the Lake Local School District, for a continuing period of time, beginning January 1, 2027, for the purpose of current expenses?",
+      "sources": [
+        "ottawa-sample",
+        "ottawa-issues"
+      ]
+    },
+    {
+      "id": "issue-7",
+      "kind": "levy",
+      "jurisdiction": "Ottawa County",
+      "title": "Tax levy (renewal): Necessary requirements of the County's alcohol, drug addiction, and mental health joint county service district",
+      "area": "Ottawa County",
+      "levy": {
+        "type": "Renewal",
+        "purpose": "Necessary requirements of the County's alcohol, drug addiction, and mental health joint county service district.",
+        "mills": "0.7 mill",
+        "term": "10 years, commencing in 2027",
+        "firstDue": "2028",
+        "estimate": "$1,482,063 a year; $25 for each $100,000 of the county auditor's market value"
+      },
+      "number": "Issue 7",
+      "note": "The joint county district is served by the Mental Health and Recovery Services Board of Seneca, Ottawa, Sandusky and Wyandot Counties (as named on Seneca County's ballot); Seneca County votes on its own renewal.",
+      "sources": [
+        "ottawa-sample",
+        "ottawa-issues"
+      ]
+    },
+    {
+      "id": "issue-8",
+      "kind": "levy",
+      "jurisdiction": "Village of Elmore",
+      "title": "Tax levy (renewal): General construction, reconstruction, resurfacing, and repair of the streets, roads, and bridges",
+      "area": "Elmore Village (Harris 1 Elmore)",
+      "places": [
+        "Elmore Village"
+      ],
+      "levy": {
+        "type": "Renewal",
+        "purpose": "General construction, reconstruction, resurfacing, and repair of the streets, roads, and bridges.",
+        "mills": "2.5 mills",
+        "term": "5 years, commencing in 2027",
+        "firstDue": "2028",
+        "estimate": "$57,607 a year; $55 for each $100,000 of the county auditor's market value"
+      },
+      "number": "Issue 8",
+      "sources": [
+        "ottawa-sample",
+        "ottawa-issues"
+      ]
+    },
+    {
+      "id": "issue-9",
+      "kind": "levy",
+      "jurisdiction": "Village of Genoa",
+      "title": "Tax levy (renewal): Operating, maintaining, and improving Veterans Memorial Park",
+      "area": "Genoa Village (Clay 1 and Clay 2 Genoa Vill)",
+      "places": [
+        "Genoa Village"
+      ],
+      "levy": {
+        "type": "Renewal",
+        "purpose": "Operating, maintaining, and improving Veterans Memorial Park.",
+        "mills": "1.3 mills",
+        "term": "5 years, commencing in 2027",
+        "firstDue": "2028",
+        "estimate": "$46,397 a year; $28 for each $100,000 of the county auditor's market value"
+      },
+      "number": "Issue 9",
+      "sources": [
+        "ottawa-sample",
+        "ottawa-issues"
+      ]
+    },
+    {
+      "id": "issue-10",
+      "kind": "levy",
+      "jurisdiction": "Village of Marblehead",
+      "title": "Tax levy (renewal and decrease): General construction, reconstruction, resurfacing, and repair of streets, roads, and bridges; constructing, rehabilitating, repairing, or maintaining sidewalks, walkways, trails, bicycle pathways, or similar improvements; or acquiring land for them",
+      "area": "Marblehead Village (Dan 1 Marblehead)",
+      "places": [
+        "Marblehead Village"
+      ],
+      "levy": {
+        "type": "Renewal and decrease",
+        "purpose": "General construction, reconstruction, resurfacing, and repair of streets, roads, and bridges; constructing, rehabilitating, repairing, or maintaining sidewalks, walkways, trails, bicycle pathways, or similar improvements; or acquiring land for them.",
+        "mills": "1 mill (renewal of part of an existing levy, being a reduction of 1 mill)",
+        "term": "5 years, commencing in 2026",
+        "firstDue": "2027",
+        "estimate": "$250,800 a year; $35 for each $100,000 of the county auditor's market value"
+      },
+      "number": "Issue 10",
+      "sources": [
+        "ottawa-sample",
+        "ottawa-issues"
+      ]
+    },
+    {
+      "id": "issue-11",
+      "kind": "question",
+      "jurisdiction": "Village of Oak Harbor",
+      "title": "Municipal income tax: 0.5% increase (to 1.5%) for police, streets and sidewalks",
+      "area": "Oak Harbor Village (Salem 1, 2 and 3 Oak Harbor)",
+      "places": [
+        "Oak Harbor Village"
+      ],
+      "number": "Issue 11",
+      "text": "Shall the Ordinance providing for a 0.5 per cent levy increase, for a total of one and one-half percent, on income for providing police protection, and street and sidewalk improvements, terminating existing property tax levies for those same purposes, while also allowing a one-half of one percent credit against additional tax be passed?",
+      "sources": [
+        "ottawa-sample",
+        "ottawa-issues"
+      ]
+    },
+    {
+      "id": "issue-12",
+      "kind": "levy",
+      "jurisdiction": "City of Port Clinton",
+      "title": "Tax levy (renewal): Fire protection: fire apparatus and equipment, buildings and sites, water supply, fire-alarm lines, firefighting and EMS personnel, and ambulance and emergency medical services",
+      "area": "Port Clinton City (PC 1A to 4A, including PC 1A Bay)",
+      "places": [
+        "Port Clinton City"
+      ],
+      "levy": {
+        "type": "Renewal",
+        "purpose": "Fire protection: fire apparatus and equipment, buildings and sites, water supply, fire-alarm lines, firefighting and EMS personnel, and ambulance and emergency medical services.",
+        "mills": "1.9 mills",
+        "term": "5 years, commencing in 2026",
+        "firstDue": "2027",
+        "estimate": "$279,000 a year; $37 for each $100,000 of the county auditor's market value"
+      },
+      "number": "Issue 12",
+      "sources": [
+        "ottawa-sample",
+        "ottawa-issues"
+      ]
+    },
+    {
+      "id": "issue-14",
+      "kind": "levy",
+      "jurisdiction": "Benton Township",
+      "title": "Tax levy (renewal): Maintaining and operating cemeteries",
+      "area": "Benton Township, including Rocky Ridge Village (Benton 2 and 3)",
+      "places": [
+        "Benton Township",
+        "Rocky Ridge Village"
+      ],
+      "levy": {
+        "type": "Renewal",
+        "purpose": "Maintaining and operating cemeteries.",
+        "mills": "0.5 mill",
+        "term": "5 years, commencing in 2027",
+        "firstDue": "2028",
+        "estimate": "$29,089 a year; $9 for each $100,000 of the county auditor's market value"
+      },
+      "number": "Issue 14",
+      "sources": [
+        "ottawa-sample",
+        "ottawa-issues"
+      ]
+    },
+    {
+      "id": "issue-16",
+      "kind": "levy",
+      "jurisdiction": "Clay Township",
+      "title": "Tax levy (renewal): Maintaining and operating cemeteries",
+      "area": "Clay Township, including Genoa Village (Clay 1 to 4)",
+      "places": [
+        "Clay Township",
+        "Genoa Village"
+      ],
+      "levy": {
+        "type": "Renewal",
+        "purpose": "Maintaining and operating cemeteries.",
+        "mills": "0.5 mill",
+        "term": "5 years, commencing in 2027",
+        "firstDue": "2028",
+        "estimate": "$47,000 a year; $10 for each $100,000 of the county auditor's market value"
+      },
+      "number": "Issue 16",
+      "sources": [
+        "ottawa-sample",
+        "ottawa-issues"
+      ]
+    },
+    {
+      "id": "issue-18",
+      "kind": "levy",
+      "jurisdiction": "Put-in-Bay Township (precinct Put-in-Bay Middle Bass)",
+      "title": "Tax levy (renewal): Fire protection: fire apparatus and equipment, buildings and sites, water supply, fire-alarm lines, firefighting and EMS personnel, and ambulance and emergency medical services",
+      "area": "Put-in-Bay Township, Middle Bass precinct (PIB Middle Bass)",
+      "places": [
+        "Put-in-Bay Township"
+      ],
+      "levy": {
+        "type": "Renewal",
+        "purpose": "Fire protection: fire apparatus and equipment, buildings and sites, water supply, fire-alarm lines, firefighting and EMS personnel, and ambulance and emergency medical services.",
+        "mills": "2 mills",
+        "term": "5 years, commencing in 2026",
+        "firstDue": "2027",
+        "estimate": "$62,146 a year; $41 for each $100,000 of the county auditor's market value"
+      },
+      "number": "Issue 18",
+      "sources": [
+        "ottawa-sample",
+        "ottawa-issues"
+      ]
+    },
+    {
+      "id": "issue-19",
+      "kind": "levy",
+      "jurisdiction": "Put-in-Bay Township (precinct Put-in-Bay Middle Bass)",
+      "title": "Tax levy (renewal): Maintenance and upkeep of the Middle Bass Town Hall",
+      "area": "Put-in-Bay Township, Middle Bass precinct (PIB Middle Bass)",
+      "places": [
+        "Put-in-Bay Township"
+      ],
+      "levy": {
+        "type": "Renewal",
+        "purpose": "Maintenance and upkeep of the Middle Bass Town Hall.",
+        "mills": "1 mill",
+        "term": "5 years, commencing in 2026",
+        "firstDue": "2027",
+        "estimate": "$31,073 a year; $20 for each $100,000 of the county auditor's market value"
+      },
+      "number": "Issue 19",
+      "sources": [
+        "ottawa-sample",
+        "ottawa-issues"
+      ]
+    },
+    {
+      "id": "issue-13",
+      "kind": "liquor",
+      "jurisdiction": "Allen Township",
+      "title": "Local liquor option: Chippewa Country Club (Sunday)",
+      "area": "Precinct Allen 2 (Allen Township, including Clay Center Village)",
+      "places": [
+        "Allen Township",
+        "Clay Center Village"
+      ],
+      "number": "Issue 13",
+      "text": "Shall the sale of wine and mixed beverages, and spirituous liquor be permitted for sale on Sunday by Chippewa Operations L.L.C., dba Chippewa Country Club an applicant for a D-6 liquor permit who is engaged in the business of operating a golf club at 23550 State Route 579, Curtice (Allen Township), OH 43412 in this precinct?",
+      "sources": [
+        "ottawa-sample",
+        "ottawa-issues"
+      ]
+    },
+    {
+      "id": "issue-15",
+      "kind": "liquor",
+      "jurisdiction": "Catawba Island Township",
+      "title": "Local liquor option: Midway Stop & Go (Sunday)",
+      "area": "Precinct Catawba Island 3",
+      "places": [
+        "Catawba Island Township"
+      ],
+      "number": "Issue 15",
+      "text": "Shall the sales of wine and mixed beverages be permitted for sale on Sunday by Midway Stop & Go, L.L.C., an applicant for a D-6 liquor permit who is engaged in the business of operating a carryout/grocery store at 1871 B NE Catawba Road, Port Clinton Catawba Island Township, OH 43452 in this precinct?",
+      "sources": [
+        "ottawa-sample",
+        "ottawa-issues"
+      ]
+    },
+    {
+      "id": "issue-17",
+      "kind": "liquor",
+      "jurisdiction": "Clay Township",
+      "title": "Local liquor option: Cocina de Carlos (Sunday)",
+      "area": "Precinct Clay 2 (Genoa Village)",
+      "places": [
+        "Genoa Village"
+      ],
+      "number": "Issue 17",
+      "text": "Shall the sale of beer, wine and mixed beverages, and spirituous liquor be permitted for sale on Sunday by Santoro Genoa LLC, dba Cocina de Carlos an applicant for a D-6 liquor permit who is engaged in the business of a full service restaurant at 22060 W State Route 51, Clay Township, Genoa, OH 43430 in this precinct?",
+      "sources": [
+        "ottawa-sample",
+        "ottawa-issues"
+      ]
+    }
+  ]
+}

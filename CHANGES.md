@@ -147,3 +147,27 @@ Data notes:
 - Where the ballots and the notice differ, the ballots are used: Huron's Norwalk fire levy is 0.9 mill (notice ".09"); Pickaway's Deercreek road levy amounts and years; Union's Northern Union fire levy also covers Jackson and York townships; Lawrence's Fayette Twp fire levy also covers South Point; Knox's 0.8-mill renewal is the Loudonville library's.
 - Voter-file names: Sandusky's Fremont, Clyde and Bellevue precinct pieces are merged; Riley Township's voters are coded as Rice Township (Riley has no place of its own; neither has a local issue). Knox's "GANN VILLAGE" is Brinkhaven. Marion's and Lawrence's "TWP." names and Marion's LaRue are renamed. Lawrence's file calls Fairland Local "FAIRLAWN LOCAL SD (SHELBY)".
 
+# Oct 30, 2026 (Darke, Ashland, Shelby, Auglaize, Brown, Logan, Crawford, Highland, Ottawa, Clinton)
+
+- Full ballots for ten more counties (56 with local data now, plus Trumbull's original), each from the Board's 46-day FWAB notice, cross-checked against precinct sample ballots and candidate/issues lists where posted:
+  - Darke: 8 contests, 6 issues (notice only).
+  - Ashland: 6 contests, 15 issues (notice, candidate and issues lists, all 68 sample ballots).
+  - Shelby: 6 contests, 9 issues.
+  - Auglaize: 9 contests, 12 issues.
+  - Brown: 10 contests, 7 issues.
+  - Logan: 8 contests, 8 issues (all 69 sample ballots).
+  - Crawford: 7 contests, 15 issues (Issues 4–18; the Board's own site, crawfordcountyohioboe.gov).
+  - Highland: 8 contests, 6 issues (Issues 1–6; all 65 sample ballots).
+  - Ottawa: 12 contests, 16 issues (Issues 4–19). The 46-day notice is a scanned image, so the spec is built from the Board's all-precinct sample-ballot PDF.
+  - Clinton: 7 contests, 18 issues (incl. four Wilmington zoning referendums by petition).
+
+Data notes:
+- 4th District Court of Appeals: Highland's notice marks Peter B. Abele "Withdrawn due to death"; his name stays on the printed ballots and a supplemental ballot lists Jayme Hartley Fountain (REP) vs Todd L. Grace (DEM). That is why the Scioto, Washington and Pickaway notices still show Abele.
+- Logan's notice leaves out the Court of Appeals and State Senate 1st District races; both are on its sample ballots and are included. (Tuscarawas's notice also leaves out the 5th District Court of Appeals race; it is still not listed there.)
+- 12th District Court of Appeals: Brown's and Clinton's notices also list write-ins Victor M. Haddad and Curt Carl Hartman, who withdrew later; only Willa Concannon is listed, as in Butler, Warren and Clermont.
+- Miami Trace LSD renewal ($1,900,000 fixed sum) is on the Ross, Pickaway, Highland and Clinton ballots; all four now name the district "(Fayette, Clinton, Highland, Pickaway and Ross)".
+- Shared items reuse ids and wording: Tri-County mental health (Miami, Darke, Shelby), Warren & Clinton recovery board (Warren Issue 6, Clinton), Spencerville LSD (Allen, Auglaize), Crestline EVSD and Galion's council questions (Richland, Crawford), Ashland CSD, Loudonville-Perrysville and its library (Richland, Knox, Ashland), Northwestern LSD and Wayne JVSD (Wayne, Ashland), Firelands Ambulance (Huron, Ashland), Lake Local income tax (Wood, Ottawa).
+- Where the ballots and the notice differ, the ballots are used: Ashland's Dale-Roy levy is 3 years (notice 5); Shelby's Houston Joint Ambulance levy is a renewal (notice "additional"). Ashland's Firelands Ambulance renewal is on its issues list and ballots but not its notice.
+- Renames: Ashland's "<NAME>-COMBINED" townships (Clearcreek is "Clear Creek Township"), Brown's "MT. ORAB" (Mount Orab), Logan's "DEGRAFF" (DeGraff), Ottawa's "PUT- IN- BAY TWP", "PUT-IN-BAY VILLAGE" and "CATAWBA TWP" (Catawba Island Township).
+- Darke's County Coroner seat has no valid candidate filed and is not listed.
+

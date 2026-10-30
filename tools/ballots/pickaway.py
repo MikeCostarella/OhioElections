@@ -68,7 +68,7 @@ def build():
            "and ambulance, paramedic or other emergency medical services.", "1.75 mills", "5 years, commencing in 2027", "2028", est("$186,540", "$61"), src=S)
     c.levy("walnut-twp-cemeteries", "Walnut Township", P("WALNUT TWP"), "Renewal", "Maintaining and operating township cemeteries.", "0.4 mill",
            "5 years, commencing in 2027", "2028", est("$72,913", "$8"), area="Walnut Township precincts Walnut-East and Walnut-West", src=S)
-    c.levy("miami-trace-renewal", "Miami Trace Local School District (Fayette, Pickaway and Ross)", SD("MIAMI TRACE LOCAL SD (FAYETTE)"), "Renewal",
+    c.levy("miami-trace-renewal", "Miami Trace Local School District (Fayette, Clinton, Highland, Pickaway and Ross)", SD("MIAMI TRACE LOCAL SD (FAYETTE)"), "Renewal",
            "Current operating expenses (fixed-sum levy of $1,900,000 a year).", "2.2 mills (estimated average)", "5 years, commencing in 2027", "2028",
            "$1,900,000 a year; $77 for each $100,000 of market value", area="Precincts Perry/New Holland 1 and 2", src=S)
     # Same issue as Franklin County's Issue 6 (franklin.py); unnumbered on Pickaway's ballot. The voter file puts part of

@@ -1,0 +1,432 @@
+{
+  "scope": "county",
+  "county": "Logan",
+  "fips": "39091",
+  "election": "2026-11-03",
+  "retrieved": "2026-10-30",
+  "notes": [
+    "Taken from the Board of Elections' 46-day election notice, which lists every contest and issue with the precincts that vote on it and gives the full ballot wording of each issue, checked against the Board's sample ballots for all 69 precinct splits. The notice leaves out the State Senate (1st District) and Court of Appeals races, which are taken from the sample ballots.",
+    "Candidates are listed alphabetically by last name, not in ballot order: Ohio rotates the order of names from precinct to precinct. Certified write-in candidates are not printed on the ballot and are not listed.",
+    "\"Where you live\" uses the state voter file: a district or school levy is shown for a city, village or township when any of its voters live in that district. Your exact ballot depends on your precinct.",
+    "The Board's notice does not give local issue numbers."
+  ],
+  "places": [
+    "Belle Center Village",
+    "Bellefontaine City",
+    "Bloomfield Township",
+    "Bokescreek Township",
+    "DeGraff Village",
+    "Harrison Township",
+    "Huntsville Village",
+    "Jefferson Township",
+    "Lake Township",
+    "Lakeview Village",
+    "Liberty Township",
+    "McArthur Township",
+    "Miami Township",
+    "Monroe Township",
+    "Perry Township",
+    "Pleasant Township",
+    "Quincy Village",
+    "Richland Township",
+    "Ridgeway Village",
+    "Rushcreek Township",
+    "Rushsylvania Village",
+    "Russells Point Village",
+    "Stokes Township",
+    "Union Township",
+    "Valley-Hi Village",
+    "Washington Township",
+    "West Liberty Village",
+    "West Mansfield Village",
+    "Zane Township",
+    "Zanesfield Village"
+  ],
+  "sources": {
+    "logan-46day": {
+      "label": "Logan County Board of Elections: 46-day election notice (FWAB), November 3, 2026 General Election (revised 9/17/2026)",
+      "url": "https://www.boe.ohio.gov/logan/c/upload/FWAB_11November46Day.pdf"
+    },
+    "logan-ballots": {
+      "label": "Logan County Board of Elections: official sample ballots for all 69 precinct splits, November 3, 2026 (state ballot lookup)",
+      "url": "https://lookup.boe.ohio.gov/vtrapp/logan/ballotlist.aspx"
+    }
+  },
+  "links": [
+    {
+      "label": "Board of Elections",
+      "url": "https://www.boe.ohio.gov/logan/"
+    },
+    {
+      "label": "Candidates & issues",
+      "url": "https://www.boe.ohio.gov/logan/election-info/candidates-issues/"
+    },
+    {
+      "label": "Sample ballots by precinct",
+      "url": "https://lookup.boe.ohio.gov/vtrapp/logan/ballotlist.aspx"
+    },
+    {
+      "label": "Who are my elected officials?",
+      "url": "https://lookup.boe.ohio.gov/vtrapp/logan/cnm.aspx"
+    }
+  ],
+  "results": {
+    "status": "upcoming",
+    "links": [
+      {
+        "label": "Board of Elections: election results",
+        "url": "https://www.boe.ohio.gov/logan/election-info/election-results/"
+      }
+    ]
+  },
+  "contests": [
+    {
+      "id": "congress-4",
+      "group": "U.S. House",
+      "office": "Representative to Congress",
+      "detail": "4th District",
+      "candidates": [
+        {
+          "name": "Jim Jordan",
+          "party": "REP"
+        },
+        {
+          "name": "Joshua D. Kolasinski",
+          "party": "DEM"
+        },
+        {
+          "name": "Tracey L. Tackett",
+          "party": "Nonparty"
+        }
+      ],
+      "sources": [
+        "logan-46day",
+        "logan-ballots"
+      ]
+    },
+    {
+      "id": "senate-1",
+      "group": "Ohio General Assembly",
+      "office": "State Senator",
+      "detail": "1st District · full term commencing January 1, 2027",
+      "area": "Bloomfield, Bokescreek, West Mansfield, McArthur, Richland, Belle Center, Rushcreek, Stokes, Lakeview, Washington, Russells Point, Huntsville",
+      "places": [
+        "Belle Center Village",
+        "Bloomfield Township",
+        "Bokescreek Township",
+        "Huntsville Village",
+        "Lakeview Village",
+        "McArthur Township",
+        "Richland Township",
+        "Ridgeway Village",
+        "Rushcreek Township",
+        "Rushsylvania Village",
+        "Russells Point Village",
+        "Stokes Township",
+        "Washington Township",
+        "West Mansfield Village"
+      ],
+      "candidates": [
+        {
+          "name": "Craig S. Riedel",
+          "party": "REP"
+        }
+      ],
+      "sources": [
+        "logan-ballots"
+      ]
+    },
+    {
+      "id": "rep-83",
+      "group": "Ohio General Assembly",
+      "office": "State Representative",
+      "detail": "83rd District",
+      "area": "Bloomfield, Bokescreek, West Mansfield, McArthur, Richland, Belle Center, Rushcreek, Stokes, Lakeview, Washington, Russells Point, Huntsville",
+      "places": [
+        "Belle Center Village",
+        "Bloomfield Township",
+        "Bokescreek Township",
+        "Huntsville Village",
+        "Lakeview Village",
+        "McArthur Township",
+        "Richland Township",
+        "Ridgeway Village",
+        "Rushcreek Township",
+        "Rushsylvania Village",
+        "Russells Point Village",
+        "Stokes Township",
+        "Washington Township",
+        "West Mansfield Village"
+      ],
+      "candidates": [
+        {
+          "name": "Sheila Coressel",
+          "party": "DEM"
+        },
+        {
+          "name": "Ty Mathews",
+          "party": "REP"
+        }
+      ],
+      "sources": [
+        "logan-46day",
+        "logan-ballots"
+      ]
+    },
+    {
+      "id": "rep-85",
+      "group": "Ohio General Assembly",
+      "office": "State Representative",
+      "detail": "85th District",
+      "area": "Bellefontaine, Harrison, Jefferson, Lake, Liberty, West Liberty, Miami/Quincy, DeGraff, Monroe, Perry, Pleasant, Union, Zane",
+      "places": [
+        "Bellefontaine City",
+        "DeGraff Village",
+        "Harrison Township",
+        "Jefferson Township",
+        "Lake Township",
+        "Liberty Township",
+        "Miami Township",
+        "Monroe Township",
+        "Perry Township",
+        "Pleasant Township",
+        "Quincy Village",
+        "Union Township",
+        "Valley-Hi Village",
+        "West Liberty Village",
+        "Zane Township",
+        "Zanesfield Village"
+      ],
+      "candidates": [
+        {
+          "name": "Tim Barhorst",
+          "party": "REP"
+        },
+        {
+          "name": "Victoria Maddox",
+          "party": "DEM"
+        }
+      ],
+      "sources": [
+        "logan-46day",
+        "logan-ballots"
+      ]
+    },
+    {
+      "id": "appeals-3-0209",
+      "group": "Ohio Court of Appeals",
+      "office": "Judge of the Court of Appeals",
+      "detail": "3rd District · full term commencing February 9, 2027",
+      "candidates": [
+        {
+          "name": "Mark C. Miller",
+          "party": "REP"
+        }
+      ],
+      "sources": [
+        "logan-ballots"
+      ]
+    },
+    {
+      "id": "commissioner",
+      "group": "County offices",
+      "office": "County Commissioner",
+      "detail": "Term commencing January 1, 2027",
+      "candidates": [
+        {
+          "name": "Michael E. Yoder",
+          "party": "REP"
+        }
+      ],
+      "sources": [
+        "logan-46day",
+        "logan-ballots"
+      ]
+    },
+    {
+      "id": "auditor",
+      "group": "County offices",
+      "office": "County Auditor",
+      "detail": "Term commencing March 8, 2027",
+      "candidates": [
+        {
+          "name": "Jack Reser",
+          "party": "REP"
+        }
+      ],
+      "sources": [
+        "logan-46day",
+        "logan-ballots"
+      ]
+    },
+    {
+      "id": "cp-family",
+      "group": "Court of Common Pleas",
+      "office": "Judge of the Court of Common Pleas, Family Division",
+      "detail": "Full 6-year term commencing February 9, 2027 · no party label on the ballot",
+      "candidates": [
+        {
+          "name": "Miranda Warren"
+        },
+        {
+          "name": "Sarah J. Warren"
+        }
+      ],
+      "sources": [
+        "logan-46day",
+        "logan-ballots"
+      ]
+    }
+  ],
+  "issues": [
+    {
+      "id": "dd-levy",
+      "kind": "levy",
+      "jurisdiction": "Logan County",
+      "title": "Tax levy (additional): Community developmental disabilities programs and services (Logan County Board of Developmental Disabilities)",
+      "area": "Logan County",
+      "levy": {
+        "type": "Additional",
+        "purpose": "Community developmental disabilities programs and services (Logan County Board of Developmental Disabilities).",
+        "mills": "2 mills",
+        "term": "5 years, commencing in 2026",
+        "firstDue": "2027",
+        "estimate": "$4,200,000 a year; $70 for each $100,000 of market value"
+      },
+      "sources": [
+        "logan-46day",
+        "logan-ballots"
+      ]
+    },
+    {
+      "id": "sales-tax",
+      "kind": "question",
+      "jurisdiction": "Logan County",
+      "title": "County sales and use tax: renewal of 0.5% for 5 years for permanent improvements",
+      "area": "Logan County",
+      "text": "The Board of County Commissioners of Logan County proposes to levy a sales and use tax in the amount of 0.5% for the purpose of providing additional revenue for the general fund for the acquisition, construction, equipping or repairing of a class or group of permanent improvements, to wit 25% for the county roads and bridges and storm water improvements limited to the right of way, 25% for use by the Sheriff for safety forces services and equipment, infrastructure of permanent improvements to service and protect the safety of all Logan County, 20% for township, roads and bridges and stormwater improvements within the right of way, 20% for city and village roads and bridges and stormwater within the right of way and 10% for economic development and land use planning for a period of 5 years. Shall the resolution of the Logan County Commissioners proposing the continuation of the current 0.5% sales and use tax be approved?",
+      "sources": [
+        "logan-46day",
+        "logan-ballots"
+      ]
+    },
+    {
+      "id": "west-liberty-current",
+      "kind": "levy",
+      "jurisdiction": "Village of West Liberty",
+      "title": "Tax levy (renewal): Current expense",
+      "area": "West Liberty 1",
+      "places": [
+        "West Liberty Village"
+      ],
+      "levy": {
+        "type": "Renewal",
+        "purpose": "Current expense.",
+        "mills": "5 mills",
+        "term": "5 years, commencing in 2027",
+        "firstDue": "2028",
+        "estimate": "$130,000 a year; $89 for each $100,000 of market value"
+      },
+      "sources": [
+        "logan-46day",
+        "logan-ballots"
+      ]
+    },
+    {
+      "id": "bellefontaine-csd-income-tax",
+      "kind": "question",
+      "jurisdiction": "Bellefontaine City School District",
+      "title": "School district income tax: 1% on earned income, continuing, for current expenses",
+      "area": "Bellefontaine (all wards), Harrison 1, Lake 1, Liberty 2, Union 1",
+      "places": [
+        "Bellefontaine City",
+        "Harrison Township",
+        "Lake Township",
+        "Liberty Township",
+        "Union Township"
+      ],
+      "text": "Shall an annual income tax of 1% on the earned income of individuals residing in the school district be imposed by the Bellefontaine City School District, for a continuing period of time, beginning January 1, 2027, for the purpose of current expenses?",
+      "sources": [
+        "logan-46day",
+        "logan-ballots"
+      ]
+    },
+    {
+      "id": "mcarthur-fire",
+      "kind": "levy",
+      "jurisdiction": "McArthur Township, excluding Huntsville",
+      "title": "Tax levy (renewal): Fire protection",
+      "area": "McArthur 1 and 2",
+      "places": [
+        "McArthur Township"
+      ],
+      "levy": {
+        "type": "Renewal",
+        "purpose": "Fire protection.",
+        "mills": "1.25 mills",
+        "term": "3 years, commencing in 2026",
+        "firstDue": "2027",
+        "estimate": "$57,000 a year; $24 for each $100,000 of market value"
+      },
+      "sources": [
+        "logan-46day",
+        "logan-ballots"
+      ]
+    },
+    {
+      "id": "indian-lake-ambulance",
+      "kind": "levy",
+      "jurisdiction": "Indian Lake Joint Ambulance District",
+      "title": "Tax levy (additional): Emergency medical services",
+      "area": "Stokes North 1, Stokes South-East 1, Stokes West 1–4, Lakeview 1, Washington North 1, Washington South 1, Russells Point 1",
+      "places": [
+        "Lakeview Village",
+        "Russells Point Village",
+        "Stokes Township",
+        "Washington Township"
+      ],
+      "levy": {
+        "type": "Additional",
+        "purpose": "Emergency medical services.",
+        "mills": "8 mills",
+        "term": "5 years, commencing in 2026",
+        "firstDue": "2027",
+        "estimate": "$4,150,000 a year; $280 for each $100,000 of market value"
+      },
+      "sources": [
+        "logan-46day",
+        "logan-ballots"
+      ]
+    },
+    {
+      "id": "liquor-speedway",
+      "kind": "liquor",
+      "jurisdiction": "City of Bellefontaine",
+      "title": "Local liquor option: Speedway #42739H (beer, wine and mixed beverages)",
+      "area": "Bellefontaine precinct Third Ward A",
+      "places": [
+        "Bellefontaine City"
+      ],
+      "text": "Sale of beer, wine and mixed beverages by 7 Eleven, Inc., dba Speedway #42739H, an applicant for C-1 and C-2 liquor permits, who is engaged in the business of operating a carryout/grocery store at 1330 U.S. Highway 68 N, Bellefontaine.",
+      "sources": [
+        "logan-46day",
+        "logan-ballots"
+      ]
+    },
+    {
+      "id": "liquor-speedway-sunday",
+      "kind": "liquor",
+      "jurisdiction": "City of Bellefontaine",
+      "title": "Local liquor option: Speedway #42739H (Sunday, wine and mixed beverages)",
+      "area": "Bellefontaine precinct Third Ward A",
+      "places": [
+        "Bellefontaine City"
+      ],
+      "text": "Sunday sale of wine and mixed beverages by 7 Eleven, Inc., dba Speedway #42739H, an applicant for a D-6 liquor permit, who is engaged in the business of operating a carryout/grocery store at 1330 U.S. Highway 68 N, Bellefontaine.",
+      "sources": [
+        "logan-46day",
+        "logan-ballots"
+      ]
+    }
+  ]
+}

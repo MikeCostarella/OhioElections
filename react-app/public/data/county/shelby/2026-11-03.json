@@ -1,0 +1,385 @@
+{
+  "scope": "county",
+  "county": "Shelby",
+  "fips": "39149",
+  "election": "2026-11-03",
+  "retrieved": "2026-10-30",
+  "notes": [
+    "Taken from the Board of Elections' 46-day election notice, which lists every contest and issue with the precincts that vote on it, checked against the Board's sample ballots (which give the full ballot wording).",
+    "Candidates are listed alphabetically by last name, not in ballot order: Ohio rotates the order of names from precinct to precinct. Certified write-in candidates are not printed on the ballot and are not listed.",
+    "\"Where you live\" uses the state voter file: a district or school levy is shown for a city, village or township when any of its voters live in that district. Your exact ballot depends on your precinct.",
+    "Only the Green Township levy has a local issue number in the Board's notice; see your sample ballot for the others."
+  ],
+  "places": [
+    "Anna Village",
+    "Botkins Village",
+    "Clinton Township",
+    "Cynthian Township",
+    "Dinsmore Township",
+    "Fort Loramie Village",
+    "Franklin Township",
+    "Green Township",
+    "Jackson Center Village",
+    "Jackson Township",
+    "Kettlersville Village",
+    "Lockington Village",
+    "Loramie Township",
+    "McLean Township",
+    "Orange Township",
+    "Perry Township",
+    "Port Jefferson Village",
+    "Russia Village",
+    "Salem Township",
+    "Sidney City",
+    "Turtlecreek Township",
+    "Van Buren Township",
+    "Washington Township"
+  ],
+  "sources": {
+    "shelby-46day": {
+      "label": "Shelby County Board of Elections: 46-day election notice (FWAB), November 3, 2026 General Election (revised 9/18/2026)",
+      "url": "https://www.boe.ohio.gov/shelby/c/upload/FWAB_11November46Day.pdf"
+    },
+    "shelby-ballots": {
+      "label": "Shelby County Board of Elections: sample ballots by precinct, November 3, 2026 General Election",
+      "url": "https://lookup.boe.ohio.gov/vtrapp/shelby/ballotlist.aspx"
+    }
+  },
+  "links": [
+    {
+      "label": "Board of Elections",
+      "url": "https://www.boe.ohio.gov/shelby/"
+    },
+    {
+      "label": "Election info",
+      "url": "https://www.boe.ohio.gov/shelby/election-info/"
+    },
+    {
+      "label": "Sample ballots by precinct",
+      "url": "https://lookup.boe.ohio.gov/vtrapp/shelby/ballotlist.aspx"
+    }
+  ],
+  "results": {
+    "status": "upcoming",
+    "links": [
+      {
+        "label": "Board of Elections: election results",
+        "url": "https://www.boe.ohio.gov/shelby/election-info/election-results/"
+      }
+    ]
+  },
+  "contests": [
+    {
+      "id": "congress-4",
+      "group": "U.S. House",
+      "office": "Representative to Congress",
+      "detail": "4th District",
+      "candidates": [
+        {
+          "name": "Jim Jordan",
+          "party": "REP"
+        },
+        {
+          "name": "Joshua D. Kolasinski",
+          "party": "DEM"
+        },
+        {
+          "name": "Tracey L. Tackett",
+          "party": "Nonparty"
+        }
+      ],
+      "sources": [
+        "shelby-46day",
+        "shelby-ballots"
+      ]
+    },
+    {
+      "id": "rep-85",
+      "group": "Ohio General Assembly",
+      "office": "State Representative",
+      "detail": "85th District",
+      "candidates": [
+        {
+          "name": "Tim Barhorst",
+          "party": "REP"
+        },
+        {
+          "name": "Victoria Maddox",
+          "party": "DEM"
+        }
+      ],
+      "sources": [
+        "shelby-46day",
+        "shelby-ballots"
+      ]
+    },
+    {
+      "id": "appeals-3-0209",
+      "group": "Ohio Court of Appeals",
+      "office": "Judge of the Court of Appeals",
+      "detail": "3rd District · full term commencing February 9, 2027",
+      "candidates": [
+        {
+          "name": "Mark C. Miller",
+          "party": "REP"
+        }
+      ],
+      "sources": [
+        "shelby-46day",
+        "shelby-ballots"
+      ]
+    },
+    {
+      "id": "commissioner",
+      "group": "County offices",
+      "office": "County Commissioner",
+      "detail": "Full term commencing January 1, 2027",
+      "candidates": [
+        {
+          "name": "David L. Spicer",
+          "party": "REP"
+        }
+      ],
+      "sources": [
+        "shelby-46day",
+        "shelby-ballots"
+      ]
+    },
+    {
+      "id": "auditor",
+      "group": "County offices",
+      "office": "County Auditor",
+      "detail": "Full term commencing March 8, 2027",
+      "candidates": [
+        {
+          "name": "Amy L. Berning",
+          "party": "REP"
+        }
+      ],
+      "sources": [
+        "shelby-46day",
+        "shelby-ballots"
+      ]
+    },
+    {
+      "id": "cp-probate-juvenile",
+      "group": "Court of Common Pleas",
+      "office": "Judge of the Court of Common Pleas, Probate/Juvenile Division",
+      "detail": "Full term commencing February 9, 2027 · no party label on the ballot",
+      "candidates": [
+        {
+          "name": "Jeffrey J. Beigel"
+        }
+      ],
+      "sources": [
+        "shelby-46day",
+        "shelby-ballots"
+      ]
+    }
+  ],
+  "issues": [
+    {
+      "id": "tri-county-mental-health",
+      "kind": "levy",
+      "jurisdiction": "Tri-County Board of Recovery and Mental Health Services (Darke, Miami and Shelby counties)",
+      "title": "Tax levy (renewal): Counseling and supportive services to children and adults through alcohol and drug addiction programs and mental health programs",
+      "area": "All of Shelby County",
+      "levy": {
+        "type": "Renewal",
+        "purpose": "Counseling and supportive services to children and adults through alcohol and drug addiction programs and mental health programs.",
+        "mills": "0.6 mill",
+        "term": "5 years, commencing in 2027",
+        "firstDue": "2028",
+        "estimate": "$2,596,848 a year; $10 for each $100,000 of the county auditor's market value"
+      },
+      "sources": [
+        "shelby-46day",
+        "shelby-ballots"
+      ]
+    },
+    {
+      "id": "issue-1",
+      "kind": "levy",
+      "jurisdiction": "Green Township",
+      "title": "Tax levy (renewal and increase): Ambulance and emergency medical services (renewal of 1.2 mills and increase of 0.3 mill)",
+      "area": "Green Township (precincts 0021/1, 0021/2)",
+      "places": [
+        "Green Township"
+      ],
+      "levy": {
+        "type": "Renewal and increase",
+        "purpose": "Ambulance and emergency medical services (renewal of 1.2 mills and increase of 0.3 mill).",
+        "mills": "1.5 mills",
+        "term": "5 years, commencing in 2027",
+        "firstDue": "2028",
+        "estimate": "$33,124 a year; $28 for each $100,000 of the county auditor's market value"
+      },
+      "number": "Issue 1",
+      "sources": [
+        "shelby-46day",
+        "shelby-ballots"
+      ]
+    },
+    {
+      "id": "washington-twp-fire-renewal",
+      "kind": "levy",
+      "jurisdiction": "Washington Township (excluding the Village of Lockington and the City of Sidney)",
+      "title": "Tax levy (renewal): General costs and expenses to operate; fire apparatus, appliances, buildings or sites, water supply, and permanent, part-time or volunteer firefighters",
+      "area": "Washington Township, excluding the Village of Lockington and the City of Sidney (precincts 0035/1, 0035/3)",
+      "places": [
+        "Washington Township"
+      ],
+      "levy": {
+        "type": "Renewal",
+        "purpose": "General costs and expenses to operate; fire apparatus, appliances, buildings or sites, water supply, and permanent, part-time or volunteer firefighters.",
+        "mills": "2 mills",
+        "term": "5 years, commencing in 2027",
+        "firstDue": "2028",
+        "estimate": "$73,448 a year; $37 for each $100,000 of the county auditor's market value"
+      },
+      "sources": [
+        "shelby-46day",
+        "shelby-ballots"
+      ]
+    },
+    {
+      "id": "washington-twp-fire-additional",
+      "kind": "levy",
+      "jurisdiction": "Washington Township (excluding the Village of Lockington and the City of Sidney)",
+      "title": "Tax levy (additional): Fire apparatus, appliances, buildings or sites, water supply, and permanent, part-time or volunteer firefighters",
+      "area": "Washington Township, excluding the Village of Lockington and the City of Sidney (precincts 0035/1, 0035/3)",
+      "places": [
+        "Washington Township"
+      ],
+      "levy": {
+        "type": "Additional",
+        "purpose": "Fire apparatus, appliances, buildings or sites, water supply, and permanent, part-time or volunteer firefighters.",
+        "mills": "2 mills",
+        "term": "5 years, commencing in 2026",
+        "firstDue": "2027",
+        "estimate": "$120,884 a year; $70 for each $100,000 of the county auditor's market value"
+      },
+      "sources": [
+        "shelby-46day",
+        "shelby-ballots"
+      ]
+    },
+    {
+      "id": "port-jefferson-fire",
+      "kind": "levy",
+      "jurisdiction": "Village of Port Jefferson",
+      "title": "Tax levy (renewal and increase): Fire apparatus, appliances, buildings or sites, water supply, and permanent, part-time or volunteer firefighters (renewal of 1 mill and increase of 0.5 mill)",
+      "area": "Port Jefferson Village (precinct 0030/2)",
+      "places": [
+        "Port Jefferson Village"
+      ],
+      "levy": {
+        "type": "Renewal and increase",
+        "purpose": "Fire apparatus, appliances, buildings or sites, water supply, and permanent, part-time or volunteer firefighters (renewal of 1 mill and increase of 0.5 mill).",
+        "mills": "1.5 mills",
+        "term": "3 years, commencing in 2027",
+        "firstDue": "2028",
+        "estimate": "$6,267 a year; $38 for each $100,000 of the county auditor's market value"
+      },
+      "sources": [
+        "shelby-46day",
+        "shelby-ballots"
+      ]
+    },
+    {
+      "id": "houston-fire-district",
+      "kind": "levy",
+      "jurisdiction": "Loramie Township, Houston Fire District",
+      "title": "Tax levy (renewal): Fire apparatus, appliances, buildings or sites, water supply, and permanent, part-time or volunteer firefighters",
+      "area": "Loramie Township, Houston Fire District (precinct 0024/1)",
+      "places": [
+        "Loramie Township"
+      ],
+      "levy": {
+        "type": "Renewal",
+        "purpose": "Fire apparatus, appliances, buildings or sites, water supply, and permanent, part-time or volunteer firefighters.",
+        "mills": "1 mill",
+        "term": "5 years, commencing in 2027",
+        "firstDue": "2028",
+        "estimate": "$21,347 a year; $19 for each $100,000 of the county auditor's market value"
+      },
+      "sources": [
+        "shelby-46day",
+        "shelby-ballots"
+      ]
+    },
+    {
+      "id": "loramie-fire-district",
+      "kind": "levy",
+      "jurisdiction": "Loramie Fire District",
+      "title": "Tax levy (renewal): Fire apparatus, appliances, buildings or sites, water supply, and permanent, part-time or volunteer firefighters",
+      "area": "Loramie Fire District (Cynthian 0015/1–2 and 0016/1–3, Fort Loramie 0026/1, McLean 0027/1–4, Turtle Creek 0032/1–5)",
+      "places": [
+        "Cynthian Township",
+        "Fort Loramie Village",
+        "McLean Township",
+        "Turtlecreek Township"
+      ],
+      "levy": {
+        "type": "Renewal",
+        "purpose": "Fire apparatus, appliances, buildings or sites, water supply, and permanent, part-time or volunteer firefighters.",
+        "mills": "2 mills",
+        "term": "3 years, commencing in 2027",
+        "firstDue": "2028",
+        "estimate": "$618,922 a year; $70 for each $100,000 of the county auditor's market value"
+      },
+      "sources": [
+        "shelby-46day",
+        "shelby-ballots"
+      ]
+    },
+    {
+      "id": "russia-fire-district",
+      "kind": "levy",
+      "jurisdiction": "Loramie Township, Russia Fire District (including the Village of Russia)",
+      "title": "Tax levy (renewal): Fire apparatus, appliances, buildings or sites, water supply, and permanent, part-time or volunteer firefighters",
+      "area": "Loramie Township Russia Fire District (precincts 0024/2–3, 0025/1–5)",
+      "places": [
+        "Loramie Township",
+        "Russia Village"
+      ],
+      "levy": {
+        "type": "Renewal",
+        "purpose": "Fire apparatus, appliances, buildings or sites, water supply, and permanent, part-time or volunteer firefighters.",
+        "mills": "1.74 mills",
+        "term": "5 years, commencing in 2027",
+        "firstDue": "2028",
+        "estimate": "$93,846 a year; $36 for each $100,000 of the county auditor's market value"
+      },
+      "sources": [
+        "shelby-46day",
+        "shelby-ballots"
+      ]
+    },
+    {
+      "id": "houston-ambulance-district",
+      "kind": "levy",
+      "jurisdiction": "Houston Joint Ambulance District",
+      "title": "Tax levy (renewal): Ambulance and emergency medical services",
+      "area": "Houston Joint Ambulance District (Loramie 0024/1–3, 0025/1 and 0025/3–5; Washington 0035/1–3)",
+      "places": [
+        "Lockington Village",
+        "Loramie Township",
+        "Washington Township"
+      ],
+      "levy": {
+        "type": "Renewal",
+        "purpose": "Ambulance and emergency medical services.",
+        "mills": "2 mills",
+        "term": "5 years, commencing in 2026",
+        "firstDue": "2027",
+        "estimate": "$218,679 a year; $50 for each $100,000 of the county auditor's market value"
+      },
+      "note": "The Board's 46-day notice lists this levy as additional; the sample ballot says renewal.",
+      "sources": [
+        "shelby-46day",
+        "shelby-ballots"
+      ]
+    }
+  ]
+}

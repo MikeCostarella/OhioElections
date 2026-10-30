@@ -68,7 +68,7 @@ def build():
             text="Shall an annual income tax of 0.5 per cent on the earned income of individuals residing in the school district be imposed by the Waverly City School District, "
                  "for a period of 5 years, beginning January 1, 2027, for the purpose of current expenses?",
             src=["ross-46day", "pike-46day"])
-    c.levy("miami-trace-renewal", "Miami Trace Local School District (Fayette, Pickaway and Ross)", SD("MIAMI TRACE LOCAL SD (FAYETTE)"), "Renewal",
+    c.levy("miami-trace-renewal", "Miami Trace Local School District (Fayette, Clinton, Highland, Pickaway and Ross)", SD("MIAMI TRACE LOCAL SD (FAYETTE)"), "Renewal",
            "Current operating expenses (fixed-sum levy of $1,900,000 a year).", "", "5 years", firstDue="2028", area="Precinct Concord Austin/2 (part of Concord Township)",
            note="The Ross Board's notice describes this as a fixed-sum levy renewing an existing levy for current operating expenses; "
                 "the term and first year due are from the Fayette County Board's notice. The Pickaway County ballot wording gives the sum "

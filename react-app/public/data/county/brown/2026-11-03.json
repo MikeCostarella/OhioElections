@@ -1,0 +1,423 @@
+{
+  "scope": "county",
+  "county": "Brown",
+  "fips": "39015",
+  "election": "2026-11-03",
+  "retrieved": "2026-10-30",
+  "notes": [
+    "Taken from the Board of Elections' 46-day election notice, which lists every contest and issue with the precincts that vote on it, checked against the Board's precinct sample ballots (which give the full ballot wording).",
+    "Candidates are listed alphabetically by last name, not in ballot order: Ohio rotates the order of names from precinct to precinct. Certified write-in candidates are not printed on the ballot and are not listed.",
+    "\"Where you live\" uses the state voter file: a district or school levy is shown for a city, village or township when any of its voters live in that district. Your exact ballot depends on your precinct.",
+    "The Board's notice and sample ballots do not give local issue numbers; see your sample ballot."
+  ],
+  "places": [
+    "Aberdeen Village",
+    "Byrd Township",
+    "Clark Township",
+    "Eagle Township",
+    "Fayetteville Village",
+    "Franklin Township",
+    "Georgetown Village",
+    "Green Township",
+    "Hamersville Village",
+    "Higginsport Village",
+    "Huntington Township",
+    "Jackson Township",
+    "Jefferson Township",
+    "Lewis Township",
+    "Mount Orab Village",
+    "Perry Township",
+    "Pike Township",
+    "Pleasant Township",
+    "Ripley Village",
+    "Russellville Village",
+    "Sardinia Village",
+    "Scott Township",
+    "Sterling Township",
+    "Union Township",
+    "Washington Township"
+  ],
+  "sources": {
+    "brown-46day": {
+      "label": "Brown County Board of Elections: 46-day election notice (FWAB), November 3, 2026 General Election",
+      "url": "https://www.boe.ohio.gov/brown/c/upload/FWAB_11November46Day.pdf"
+    },
+    "brown-ballots": {
+      "label": "Brown County Board of Elections: precinct sample ballots, November 3, 2026 General Election (full ballot wording)",
+      "url": "https://lookup.boe.ohio.gov/vtrapp/brown/ballotlist.aspx"
+    }
+  },
+  "links": [
+    {
+      "label": "Board of Elections",
+      "url": "https://www.boe.ohio.gov/brown/"
+    },
+    {
+      "label": "Election information",
+      "url": "https://www.boe.ohio.gov/brown/election-info/"
+    },
+    {
+      "label": "Sample ballots by precinct",
+      "url": "https://lookup.boe.ohio.gov/vtrapp/brown/ballotlist.aspx"
+    }
+  ],
+  "results": {
+    "status": "upcoming",
+    "links": [
+      {
+        "label": "Board of Elections: election results",
+        "url": "https://www.boe.ohio.gov/brown/election-info/election-results/"
+      }
+    ]
+  },
+  "contests": [
+    {
+      "id": "congress-2",
+      "group": "U.S. House",
+      "office": "Representative to Congress",
+      "detail": "2nd District · full term commencing January 3, 2027",
+      "candidates": [
+        {
+          "name": "Jen Mazzuckelli",
+          "party": "DEM"
+        },
+        {
+          "name": "David J. Taylor",
+          "party": "REP"
+        }
+      ],
+      "sources": [
+        "brown-46day",
+        "brown-ballots"
+      ]
+    },
+    {
+      "id": "rep-63",
+      "group": "Ohio General Assembly",
+      "office": "State Representative",
+      "detail": "63rd District (Clermont and part of Brown) · full term commencing January 1, 2027",
+      "area": "Clark Township, Fayetteville Village, Georgetown Village, Green Township, Hamersville Village, Higginsport Village, Lewis Township, Mount Orab Village, Perry Township, Pike Township, Pleasant Township, Scott Township, Sterling Township",
+      "places": [
+        "Clark Township",
+        "Fayetteville Village",
+        "Georgetown Village",
+        "Green Township",
+        "Hamersville Village",
+        "Higginsport Village",
+        "Lewis Township",
+        "Mount Orab Village",
+        "Perry Township",
+        "Pike Township",
+        "Pleasant Township",
+        "Scott Township",
+        "Sterling Township"
+      ],
+      "candidates": [
+        {
+          "name": "Adam C. Bird",
+          "party": "REP"
+        },
+        {
+          "name": "Debbie Davidson",
+          "party": "DEM"
+        }
+      ],
+      "sources": [
+        "brown-46day",
+        "brown-ballots"
+      ]
+    },
+    {
+      "id": "rep-90",
+      "group": "Ohio General Assembly",
+      "office": "State Representative",
+      "detail": "90th District · full term commencing January 1, 2027",
+      "area": "Aberdeen Village, Byrd Township, Eagle Township, Franklin Township, Huntington Township, Jackson Township, Jefferson Township, Ripley Village, Russellville Village, Sardinia Village, Union Township, Washington Township",
+      "places": [
+        "Aberdeen Village",
+        "Byrd Township",
+        "Eagle Township",
+        "Franklin Township",
+        "Huntington Township",
+        "Jackson Township",
+        "Jefferson Township",
+        "Ripley Village",
+        "Russellville Village",
+        "Sardinia Village",
+        "Union Township",
+        "Washington Township"
+      ],
+      "candidates": [
+        {
+          "name": "Collin Docterman",
+          "party": "DEM"
+        },
+        {
+          "name": "Justin Pizzulli",
+          "party": "REP"
+        }
+      ],
+      "sources": [
+        "brown-46day",
+        "brown-ballots"
+      ]
+    },
+    {
+      "id": "appeals-12-0101",
+      "group": "Ohio Court of Appeals",
+      "office": "Judge of the Court of Appeals",
+      "detail": "12th District (Butler, Brown, Clermont, Clinton, Fayette, Madison, Preble and Warren counties) · full term commencing January 1, 2027",
+      "candidates": [
+        {
+          "name": "Matthew Byrne",
+          "party": "REP",
+          "note": "Withdrawn; his name is still on the ballot, but votes for him will not count"
+        },
+        {
+          "name": "Willa Concannon",
+          "party": "Write-in"
+        }
+      ],
+      "sources": [
+        "brown-46day",
+        "brown-ballots"
+      ]
+    },
+    {
+      "id": "appeals-12-0209",
+      "group": "Ohio Court of Appeals",
+      "office": "Judge of the Court of Appeals",
+      "detail": "12th District (Butler, Brown, Clermont, Clinton, Fayette, Madison, Preble and Warren counties) · full term commencing February 9, 2027",
+      "candidates": [
+        {
+          "name": "Robert A. Hendrickson",
+          "party": "REP"
+        }
+      ],
+      "sources": [
+        "brown-46day",
+        "brown-ballots"
+      ]
+    },
+    {
+      "id": "commissioner",
+      "group": "County offices",
+      "office": "County Commissioner",
+      "detail": "Full term commencing January 1, 2027",
+      "candidates": [
+        {
+          "name": "Frank Fussnecker",
+          "party": "REP"
+        }
+      ],
+      "sources": [
+        "brown-46day",
+        "brown-ballots"
+      ]
+    },
+    {
+      "id": "auditor",
+      "group": "County offices",
+      "office": "County Auditor",
+      "detail": "Full term commencing March 8, 2027",
+      "candidates": [
+        {
+          "name": "Jill Hall",
+          "party": "REP"
+        }
+      ],
+      "sources": [
+        "brown-46day",
+        "brown-ballots"
+      ]
+    },
+    {
+      "id": "coroner",
+      "group": "County offices",
+      "office": "Coroner",
+      "detail": "Unexpired term ending December 31, 2028",
+      "candidates": [
+        {
+          "name": "Steven A. Battaglia",
+          "party": "DEM"
+        }
+      ],
+      "sources": [
+        "brown-46day",
+        "brown-ballots"
+      ]
+    },
+    {
+      "id": "cp-general",
+      "group": "Court of Common Pleas",
+      "office": "Judge of the Court of Common Pleas, General Division",
+      "detail": "Full term commencing February 9, 2027 · no party label on the ballot",
+      "candidates": [
+        {
+          "name": "Zac Corbin"
+        }
+      ],
+      "sources": [
+        "brown-46day",
+        "brown-ballots"
+      ]
+    },
+    {
+      "id": "cp-probate",
+      "group": "Court of Common Pleas",
+      "office": "Judge of the Court of Common Pleas, Probate Division",
+      "detail": "Full term commencing February 9, 2027 · no party label on the ballot",
+      "candidates": [
+        {
+          "name": "Val E. Lewis, II"
+        }
+      ],
+      "sources": [
+        "brown-46day",
+        "brown-ballots"
+      ]
+    }
+  ],
+  "issues": [
+    {
+      "id": "mount-orab-fire",
+      "kind": "levy",
+      "jurisdiction": "Village of Mount Orab",
+      "title": "Tax levy (renewal): Fire and EMS: fire apparatus and equipment, buildings and sites, fire-alarm communications, firefighting and emergency medical service personnel, and ambulance, paramedic or other emergency medical services operated by a fire department or firefighting company",
+      "area": "Mount Orab Village (precincts 0070, 0080 and 0081)",
+      "places": [
+        "Mount Orab Village"
+      ],
+      "levy": {
+        "type": "Renewal",
+        "purpose": "Fire and EMS: fire apparatus and equipment, buildings and sites, fire-alarm communications, firefighting and emergency medical service personnel, and ambulance, paramedic or other emergency medical services operated by a fire department or firefighting company.",
+        "mills": "2 mills",
+        "term": "5 years, commencing in 2026",
+        "firstDue": "2027",
+        "estimate": "$112,300 per year ($40 per $100,000 of market value)"
+      },
+      "sources": [
+        "brown-46day",
+        "brown-ballots"
+      ]
+    },
+    {
+      "id": "ripley-streets",
+      "kind": "levy",
+      "jurisdiction": "Village of Ripley",
+      "title": "Tax levy (additional): General construction, reconstruction, resurfacing and repair of streets, roads and bridges in municipal corporations",
+      "area": "Ripley Village (precinct 0310)",
+      "places": [
+        "Ripley Village"
+      ],
+      "levy": {
+        "type": "Additional",
+        "purpose": "General construction, reconstruction, resurfacing and repair of streets, roads and bridges in municipal corporations.",
+        "mills": "2.5 mills",
+        "term": "5 years, commencing in 2027",
+        "firstDue": "2028",
+        "estimate": "$82,521 per year ($88 per $100,000 of market value)"
+      },
+      "sources": [
+        "brown-46day",
+        "brown-ballots"
+      ]
+    },
+    {
+      "id": "russellville-ems",
+      "kind": "levy",
+      "jurisdiction": "Village of Russellville",
+      "title": "Tax levy (renewal): Ambulance service, emergency medical service, or both",
+      "area": "Russellville Village (precinct 0130/1, Jefferson Russ)",
+      "places": [
+        "Russellville Village"
+      ],
+      "levy": {
+        "type": "Renewal",
+        "purpose": "Ambulance service, emergency medical service, or both.",
+        "mills": "2 mills",
+        "term": "5 years, commencing in 2027",
+        "firstDue": "2028",
+        "estimate": "$19,494 per year ($70 per $100,000 of market value)"
+      },
+      "sources": [
+        "brown-46day",
+        "brown-ballots"
+      ]
+    },
+    {
+      "id": "russellville-fire",
+      "kind": "levy",
+      "jurisdiction": "Village of Russellville",
+      "title": "Tax levy (renewal): Fire and EMS: fire apparatus and equipment, buildings and sites, fire-alarm communications, firefighting and emergency medical service personnel, and ambulance, paramedic or other emergency medical services operated by a fire department or firefighting company",
+      "area": "Russellville Village (precinct 0130/1, Jefferson Russ)",
+      "places": [
+        "Russellville Village"
+      ],
+      "levy": {
+        "type": "Renewal",
+        "purpose": "Fire and EMS: fire apparatus and equipment, buildings and sites, fire-alarm communications, firefighting and emergency medical service personnel, and ambulance, paramedic or other emergency medical services operated by a fire department or firefighting company.",
+        "mills": "4 mills",
+        "term": "5 years, commencing in 2027",
+        "firstDue": "2028",
+        "estimate": "$38,988 per year ($140 per $100,000 of market value)"
+      },
+      "sources": [
+        "brown-46day",
+        "brown-ballots"
+      ]
+    },
+    {
+      "id": "green-twp-fire",
+      "kind": "levy",
+      "jurisdiction": "Green Township (unincorporated area)",
+      "title": "Tax levy (additional): Fire and EMS: fire apparatus and equipment, buildings and sites, fire-alarm communications, firefighting and emergency medical service personnel, and ambulance, paramedic or other emergency medical services operated by a fire department or firefighting company",
+      "area": "Green Township unincorporated area (precincts 0090 and 0091)",
+      "places": [
+        "Green Township"
+      ],
+      "levy": {
+        "type": "Additional",
+        "purpose": "Fire and EMS: fire apparatus and equipment, buildings and sites, fire-alarm communications, firefighting and emergency medical service personnel, and ambulance, paramedic or other emergency medical services operated by a fire department or firefighting company.",
+        "mills": "1 mill",
+        "term": "Continuing period of time, commencing in 2026",
+        "firstDue": "2027",
+        "estimate": "$50,656 per year ($35 per $100,000 of market value)"
+      },
+      "sources": [
+        "brown-46day",
+        "brown-ballots"
+      ]
+    },
+    {
+      "id": "liquor-wildflowers",
+      "kind": "liquor",
+      "jurisdiction": "Eagle Township",
+      "title": "Local liquor option: Wildflowers Reserve LLC",
+      "area": "Eagle Township precinct 0050 (all splits)",
+      "places": [
+        "Eagle Township"
+      ],
+      "text": "Local option for a particular location (by petition): sale of beer, wine and mixed beverages, and spirituous liquor by Wildflowers Reserve LLC, an applicant for D-1, D-2 and D-3 liquor permits, operating a full-service, family-oriented banquet and wedding facility at 12577 US Hwy 62, Eagle Twp., Sardinia.",
+      "sources": [
+        "brown-46day",
+        "brown-ballots"
+      ]
+    },
+    {
+      "id": "liquor-wildflowers-sunday",
+      "kind": "liquor",
+      "jurisdiction": "Eagle Township",
+      "title": "Local liquor option: Wildflowers Reserve LLC (Sunday)",
+      "area": "Eagle Township precinct 0050 (all splits)",
+      "places": [
+        "Eagle Township"
+      ],
+      "text": "Local option for a particular location (by petition): Sunday sale of wine and mixed beverages and spirituous liquor by Wildflowers Reserve LLC, an applicant for a D-6 liquor permit, operating a full-service, family-oriented banquet and wedding facility at 12577 US Hwy 62, Eagle Twp., Sardinia.",
+      "sources": [
+        "brown-46day",
+        "brown-ballots"
+      ]
+    }
+  ]
+}

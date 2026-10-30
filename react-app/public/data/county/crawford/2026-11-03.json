@@ -1,0 +1,538 @@
+{
+  "scope": "county",
+  "county": "Crawford",
+  "fips": "39033",
+  "election": "2026-11-03",
+  "retrieved": "2026-10-30",
+  "notes": [
+    "Taken from the Board of Elections' 46-day election notice, which lists every contest and issue with the precincts that vote on it, checked against the Board's candidate list and issues list (which gives the full ballot wording).",
+    "Candidates are listed alphabetically by last name, not in ballot order: Ohio rotates the order of names from precinct to precinct. Certified write-in candidates are not printed on the ballot and are not listed.",
+    "\"Where you live\" uses the state voter file: a district or school levy is shown for a city, village or township when any of its voters live in that district. Your exact ballot depends on your precinct.",
+    "Local issue numbers (4 to 18) are from the Board's notice; Issue 3 is the statewide question."
+  ],
+  "places": [
+    "Auburn Township",
+    "Bucyrus City",
+    "Bucyrus Township",
+    "Chatfield Township",
+    "Chatfield Village",
+    "Cranberry Township",
+    "Crestline Village",
+    "Dallas Township",
+    "Galion City",
+    "Holmes Township",
+    "Jackson Township",
+    "Jefferson Township",
+    "Liberty Township",
+    "Lykens Township",
+    "New Washington Village",
+    "North Robinson Village",
+    "Polk Township",
+    "Sandusky Township",
+    "Texas Township",
+    "Tiro Village",
+    "Tod Township",
+    "Vernon Township",
+    "Whetstone Township"
+  ],
+  "sources": {
+    "crawford-46day": {
+      "label": "Crawford County Board of Elections: 46-day election notice (FWAB), November 3, 2026 General Election",
+      "url": "https://crawfordcountyohioboe.gov/wp-content/uploads/46-Day-notice-11-3-2026.pdf"
+    },
+    "crawford-cand": {
+      "label": "Crawford County Board of Elections: candidates, November 3, 2026 General Election",
+      "url": "https://crawfordcountyohioboe.gov/wp-content/uploads/General-Election-Candidates-11-3-2026.pdf"
+    },
+    "crawford-issues": {
+      "label": "Crawford County Board of Elections: issues (ballot wording), November 3, 2026 General Election",
+      "url": "https://crawfordcountyohioboe.gov/wp-content/uploads/Final-General-Election-Issues-11-3-2026.pdf"
+    }
+  },
+  "links": [
+    {
+      "label": "Board of Elections",
+      "url": "https://crawfordcountyohioboe.gov/"
+    },
+    {
+      "label": "Voter tools",
+      "url": "https://crawfordcountyohioboe.gov/voter-tools/"
+    },
+    {
+      "label": "Who is running? (candidates and issues)",
+      "url": "https://crawfordcountyohioboe.gov/who-is-running/"
+    },
+    {
+      "label": "Am I registered? / Sample ballot",
+      "url": "https://crawford-voterview.boe.ohio.gov/VoterView/RegistrantSearch.do"
+    }
+  ],
+  "results": {
+    "status": "upcoming",
+    "links": [
+      {
+        "label": "Board of Elections",
+        "url": "https://crawfordcountyohioboe.gov/"
+      }
+    ]
+  },
+  "contests": [
+    {
+      "id": "congress-5",
+      "group": "U.S. House",
+      "office": "Representative to Congress",
+      "detail": "5th District",
+      "candidates": [
+        {
+          "name": "Bob Latta",
+          "party": "REP"
+        },
+        {
+          "name": "Brian A. Shaver",
+          "party": "DEM"
+        },
+        {
+          "name": "Michael J. Veloff",
+          "party": "LIB"
+        }
+      ],
+      "sources": [
+        "crawford-46day",
+        "crawford-cand"
+      ]
+    },
+    {
+      "id": "rep-87",
+      "group": "Ohio General Assembly",
+      "office": "State Representative",
+      "detail": "87th District · full term commencing January 1, 2027",
+      "candidates": [
+        {
+          "name": "Lora Covrett",
+          "party": "DEM"
+        },
+        {
+          "name": "Jeffrey A. McClain",
+          "party": "REP"
+        },
+        {
+          "name": "Craig Swartz",
+          "party": "Nonparty"
+        }
+      ],
+      "sources": [
+        "crawford-46day",
+        "crawford-cand"
+      ]
+    },
+    {
+      "id": "appeals-3-0209",
+      "group": "Ohio Court of Appeals",
+      "office": "Judge of the Court of Appeals",
+      "detail": "3rd District · full term commencing February 9, 2027",
+      "candidates": [
+        {
+          "name": "Mark C. Miller",
+          "party": "REP"
+        }
+      ],
+      "sources": [
+        "crawford-46day",
+        "crawford-cand"
+      ]
+    },
+    {
+      "id": "commissioner",
+      "group": "County offices",
+      "office": "County Commissioner",
+      "detail": "Full term commencing January 1, 2027",
+      "candidates": [
+        {
+          "name": "Tim Ley",
+          "party": "REP"
+        }
+      ],
+      "sources": [
+        "crawford-46day",
+        "crawford-cand"
+      ]
+    },
+    {
+      "id": "auditor",
+      "group": "County offices",
+      "office": "County Auditor",
+      "detail": "Full term commencing March 8, 2027",
+      "candidates": [
+        {
+          "name": "Robyn M. Sheets",
+          "party": "REP"
+        }
+      ],
+      "sources": [
+        "crawford-46day",
+        "crawford-cand"
+      ]
+    },
+    {
+      "id": "cp-gen",
+      "group": "Court of Common Pleas",
+      "office": "Judge of the Court of Common Pleas, General Division",
+      "detail": "Full term commencing February 9, 2027 · no party label on the ballot",
+      "candidates": [
+        {
+          "name": "Sean E. Leuthold"
+        }
+      ],
+      "sources": [
+        "crawford-46day",
+        "crawford-cand"
+      ]
+    },
+    {
+      "id": "cp-probate-juvenile",
+      "group": "Court of Common Pleas",
+      "office": "Judge of the Court of Common Pleas, Probate/Juvenile Division",
+      "detail": "Full term commencing February 9, 2027 · no party label on the ballot",
+      "candidates": [
+        {
+          "name": "Matthew E. Crall"
+        }
+      ],
+      "sources": [
+        "crawford-46day",
+        "crawford-cand"
+      ]
+    }
+  ],
+  "issues": [
+    {
+      "id": "crestline-evsd-income-tax",
+      "kind": "question",
+      "jurisdiction": "Crestline Exempted Village School District (Crawford and Richland counties)",
+      "title": "School district income tax: additional 0.75%, continuing, for current expenses",
+      "area": "Crestline Exempted Village School District, Crawford County part (Crestline 1A, 2A, 3A, 4A; Galion 2A split 3; Vernon Township split 3)",
+      "places": [
+        "Crestline Village",
+        "Galion City",
+        "Jackson Township",
+        "Vernon Township"
+      ],
+      "number": "Issue 4",
+      "text": "Shall an annual income tax of 0.75 percent on the earned income of individuals residing in the school district be imposed by the Crestline Exempted Village School District, for a continuing period of time, beginning January 1, 2027, for the purpose of current expenses?",
+      "sources": [
+        "crawford-46day",
+        "crawford-issues"
+      ]
+    },
+    {
+      "id": "issue-5",
+      "kind": "levy",
+      "jurisdiction": "Ridgedale Local School District (Marion, Crawford and Wyandot counties)",
+      "title": "Tax levy (renewal): Current expenses (fixed sum of $575,034)",
+      "area": "Ridgedale Local School District, Crawford County part (Dallas Township split 2)",
+      "places": [
+        "Dallas Township"
+      ],
+      "levy": {
+        "type": "Renewal",
+        "purpose": "Current expenses (fixed sum of $575,034).",
+        "mills": "2.44 mills (estimated average)",
+        "term": "5 years, commencing in 2027",
+        "firstDue": "2028",
+        "estimate": "$575,034 a year; $85 for each $100,000 of the county auditor's market value"
+      },
+      "number": "Issue 5",
+      "note": "The county auditor certified the district's carry-over balance above the prior year's general fund expenditures as $0 (0% of those expenditures).",
+      "sources": [
+        "crawford-46day",
+        "crawford-issues"
+      ]
+    },
+    {
+      "id": "issue-6",
+      "kind": "question",
+      "jurisdiction": "Wynford Local School District",
+      "title": "School district income tax: 1.75%, 10 years, for current expenses",
+      "area": "Wynford Local School District (Bucyrus 1B, 3A, 3B, 3C, 4A splits 2; Bucyrus Township split 3; Chatfield Township split 3; Dallas Township split 3; Holmes-Texas splits 2 and 4; Liberty Township split 2; Lykens-Tod splits 1 and 3)",
+      "places": [
+        "Bucyrus City",
+        "Bucyrus Township",
+        "Chatfield Township",
+        "Dallas Township",
+        "Holmes Township",
+        "Liberty Township",
+        "Lykens Township",
+        "Texas Township",
+        "Tod Township"
+      ],
+      "number": "Issue 6",
+      "text": "Shall an annual income tax of 1.75 percent on the earned income of individuals residing in the school district be imposed by the Wynford Local School District for 10 years, beginning January 1, 2027, for the purpose of current expenses?",
+      "sources": [
+        "crawford-46day",
+        "crawford-issues"
+      ]
+    },
+    {
+      "id": "issue-7",
+      "kind": "levy",
+      "jurisdiction": "Crawford County West Joint Ambulance District",
+      "title": "Tax levy (renewal): Ambulance service and emergency medical service",
+      "area": "Bucyrus Township, Dallas Township, Holmes-Texas (splits 1 and 2, Holmes Township), Lykens-Tod",
+      "places": [
+        "Bucyrus Township",
+        "Dallas Township",
+        "Holmes Township",
+        "Lykens Township",
+        "Tod Township"
+      ],
+      "levy": {
+        "type": "Renewal",
+        "purpose": "Ambulance service and emergency medical service.",
+        "mills": "1.5 mills",
+        "term": "5 years, commencing in 2026",
+        "firstDue": "2027",
+        "estimate": "$233,702 a year; $33 for each $100,000 of the county auditor's market value"
+      },
+      "number": "Issue 7",
+      "sources": [
+        "crawford-46day",
+        "crawford-issues"
+      ]
+    },
+    {
+      "id": "issue-8",
+      "kind": "levy",
+      "jurisdiction": "Life First Ambulance District",
+      "title": "Tax levy (renewal): Ambulance service and emergency medical service",
+      "area": "Auburn, Chatfield, Cranberry and Liberty townships (with Tiro, Chatfield and New Washington), Sandusky-Whetstone North (with part of North Robinson), Whetstone Township South",
+      "places": [
+        "Auburn Township",
+        "Chatfield Township",
+        "Chatfield Village",
+        "Cranberry Township",
+        "Liberty Township",
+        "New Washington Village",
+        "North Robinson Village",
+        "Sandusky Township",
+        "Tiro Village",
+        "Whetstone Township"
+      ],
+      "levy": {
+        "type": "Renewal",
+        "purpose": "Ambulance service and emergency medical service.",
+        "mills": "2 mills",
+        "term": "5 years, commencing in 2026",
+        "firstDue": "2027",
+        "estimate": "$761,676 a year; $43 for each $100,000 of the county auditor's market value"
+      },
+      "number": "Issue 8",
+      "sources": [
+        "crawford-46day",
+        "crawford-issues"
+      ]
+    },
+    {
+      "id": "issue-9",
+      "kind": "levy",
+      "jurisdiction": "Wyandot East Fire District",
+      "title": "Tax levy (renewal): Providing and maintaining fire protection services",
+      "area": "Lykens-Tod (splits 2 and 3, Tod Township)",
+      "places": [
+        "Tod Township"
+      ],
+      "levy": {
+        "type": "Renewal",
+        "purpose": "Providing and maintaining fire protection services.",
+        "mills": "2.5 mills",
+        "term": "5 years, commencing in 2026",
+        "firstDue": "2027",
+        "estimate": "$76,990 a year; $32 for each $100,000 of the county auditor's market value"
+      },
+      "number": "Issue 9",
+      "sources": [
+        "crawford-46day",
+        "crawford-issues"
+      ]
+    },
+    {
+      "id": "issue-10",
+      "kind": "question",
+      "jurisdiction": "City of Bucyrus",
+      "title": "Municipal income tax: 0.1%, 4 years, for city parks and the city pool",
+      "area": "Bucyrus 1A to 4B",
+      "places": [
+        "Bucyrus City"
+      ],
+      "number": "Issue 10",
+      "text": "Shall the Ordinance of the Bucyrus City Council providing for a one-tenth of one percent (0.100%) levy on income, for a period of four (4) years, commencing on January 1, 2027, to provide funds for operating, maintaining, repairing, reconstructing, renovating, equipping, furnishing and improving the City owned parks (Aumiller Park, Lions Field Park, Harmon Park, Picking Park and the Schines Art Park), including the City owned swimming pool and its ancillary facilities, concession stands, restrooms, parking, playground equipment and site improvements, and the payment of debt service charges on securities issued for those purposes, be passed?",
+      "sources": [
+        "crawford-46day",
+        "crawford-issues"
+      ]
+    },
+    {
+      "id": "galion-council-president-term",
+      "kind": "question",
+      "jurisdiction": "City of Galion (Crawford and Richland counties)",
+      "title": "Change the term of the President of Council from 2 years to 4 years",
+      "area": "Galion 1A to 4C",
+      "places": [
+        "Galion City"
+      ],
+      "number": "Issue 11",
+      "text": "Shall the term of office for the President of the legislative authority of the City of Galion be changed from two (2) years to four (4) years beginning January 1 after the next municipal election, be passed?",
+      "sources": [
+        "crawford-46day",
+        "crawford-issues"
+      ]
+    },
+    {
+      "id": "galion-council-at-large-term",
+      "kind": "question",
+      "jurisdiction": "City of Galion (Crawford and Richland counties)",
+      "title": "Change the terms of at-large members of Council from 2 years to 4 years",
+      "area": "Galion 1A to 4C",
+      "places": [
+        "Galion City"
+      ],
+      "number": "Issue 12",
+      "text": "Shall the terms of office for the legislative authority of the City of Galion be changed from two (2) years to four (4) years for its “at-large” members beginning January 1 after the next municipal election with the First, Second, Third, and Fourth Wards elected to a two (2) year term and then four (4) years thereafter, be passed?",
+      "sources": [
+        "crawford-46day",
+        "crawford-issues"
+      ]
+    },
+    {
+      "id": "issue-13",
+      "kind": "liquor",
+      "jurisdiction": "City of Galion",
+      "title": "Local liquor option: L.O.O.M. Lodge Galion (Sunday)",
+      "area": "Galion precinct 4B",
+      "places": [
+        "Galion City"
+      ],
+      "number": "Issue 13",
+      "text": "Shall the sale of wine and mixed beverages, and spirituous liquor be permitted for sale on Sunday by L.O.O.M. Lodge Galion an applicant for a D-6 liquor permit who is engaged in the business of operating a fraternal organization at 520 S. Market St., Galion, Ohio 44833 in this precinct?",
+      "sources": [
+        "crawford-46day",
+        "crawford-issues"
+      ]
+    },
+    {
+      "id": "issue-14",
+      "kind": "levy",
+      "jurisdiction": "Bucyrus Township",
+      "title": "Tax levy (renewal): Road improvement",
+      "area": "Bucyrus Township",
+      "places": [
+        "Bucyrus Township"
+      ],
+      "levy": {
+        "type": "Renewal",
+        "purpose": "Road improvement.",
+        "mills": "1 mill",
+        "term": "5 years, commencing in 2026",
+        "firstDue": "2027",
+        "estimate": "$25,144 a year; $15 for each $100,000 of the county auditor's market value"
+      },
+      "number": "Issue 14",
+      "sources": [
+        "crawford-46day",
+        "crawford-issues"
+      ]
+    },
+    {
+      "id": "issue-15",
+      "kind": "levy",
+      "jurisdiction": "Chatfield Township",
+      "title": "Tax levy (renewal): Protection against fire",
+      "area": "Chatfield Township (including Chatfield Village)",
+      "places": [
+        "Chatfield Township",
+        "Chatfield Village"
+      ],
+      "levy": {
+        "type": "Renewal",
+        "purpose": "Protection against fire.",
+        "mills": "1.8 mills",
+        "term": "5 years, commencing in 2026",
+        "firstDue": "2027",
+        "estimate": "$264,305 a year; $37 for each $100,000 of the county auditor's market value"
+      },
+      "number": "Issue 15",
+      "sources": [
+        "crawford-46day",
+        "crawford-issues"
+      ]
+    },
+    {
+      "id": "issue-16",
+      "kind": "levy",
+      "jurisdiction": "Dallas Township",
+      "title": "Tax levy (renewal): Fire protection",
+      "area": "Dallas Township",
+      "places": [
+        "Dallas Township"
+      ],
+      "levy": {
+        "type": "Renewal",
+        "purpose": "Fire protection.",
+        "mills": "2.5 mills",
+        "term": "5 years, commencing in 2026",
+        "firstDue": "2027",
+        "estimate": "$26,823 a year; $31 for each $100,000 of the county auditor's market value"
+      },
+      "number": "Issue 16",
+      "sources": [
+        "crawford-46day",
+        "crawford-issues"
+      ]
+    },
+    {
+      "id": "issue-17",
+      "kind": "levy",
+      "jurisdiction": "Holmes Township",
+      "title": "Tax levy (additional): Current expenses",
+      "area": "Holmes-Texas (splits 1 and 2, Holmes Township)",
+      "places": [
+        "Holmes Township"
+      ],
+      "levy": {
+        "type": "Additional",
+        "purpose": "Current expenses.",
+        "mills": "1.75 mills",
+        "term": "5 years, commencing in 2026",
+        "firstDue": "2027",
+        "estimate": "$108,881 a year; $61 for each $100,000 of the county auditor's market value"
+      },
+      "number": "Issue 17",
+      "sources": [
+        "crawford-46day",
+        "crawford-issues"
+      ]
+    },
+    {
+      "id": "issue-18",
+      "kind": "levy",
+      "jurisdiction": "Lykens Township",
+      "title": "Tax levy (renewal): Fire equipment",
+      "area": "Lykens-Tod (split 1, Lykens Township)",
+      "places": [
+        "Lykens Township"
+      ],
+      "levy": {
+        "type": "Renewal",
+        "purpose": "Fire equipment.",
+        "mills": "2 mills",
+        "term": "3 years, commencing in 2026",
+        "firstDue": "2027",
+        "estimate": "$79,458 a year; $42 for each $100,000 of the county auditor's market value"
+      },
+      "number": "Issue 18",
+      "sources": [
+        "crawford-46day",
+        "crawford-issues"
+      ]
+    }
+  ]
+}

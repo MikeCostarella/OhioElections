@@ -1,0 +1,474 @@
+{
+  "scope": "county",
+  "county": "Auglaize",
+  "fips": "39011",
+  "election": "2026-11-03",
+  "retrieved": "2026-10-30",
+  "notes": [
+    "Taken from the Board of Elections' 46-day election notice, which lists every contest and issue with the precincts that vote on it and gives the full ballot wording of each issue.",
+    "Candidates are listed alphabetically by last name, not in ballot order: Ohio rotates the order of names from precinct to precinct. Certified write-in candidates are not printed on the ballot and are not listed.",
+    "\"Where you live\" uses the state voter file: a district or school levy is shown for a city, village or township when any of its voters live in that district. Your exact ballot depends on your precinct.",
+    "The Board's notice does not give local issue numbers; see your sample ballot for them."
+  ],
+  "places": [
+    "Buckland Village",
+    "Clay Township",
+    "Cridersville Village",
+    "Duchouquet Township",
+    "German Township",
+    "Goshen Township",
+    "Jackson Township",
+    "Logan Township",
+    "Minster Village",
+    "Moulton Township",
+    "New Bremen Village",
+    "New Knoxville Village",
+    "Noble Township",
+    "Pusheta Township",
+    "Salem Township",
+    "St. Marys City",
+    "St. Marys Township",
+    "Union Township",
+    "Wapakoneta City",
+    "Washington Township",
+    "Wayne Township",
+    "Waynesfield Village"
+  ],
+  "sources": {
+    "auglaize-46day": {
+      "label": "Auglaize County Board of Elections: 46-day election notice (FWAB), November 3, 2026 General Election (revised 9/3/2026)",
+      "url": "https://www.boe.ohio.gov/auglaize/c/upload/FWAB_11November46Day.pdf"
+    }
+  },
+  "links": [
+    {
+      "label": "Board of Elections",
+      "url": "https://www.boe.ohio.gov/auglaize/"
+    },
+    {
+      "label": "Election information",
+      "url": "https://www.boe.ohio.gov/auglaize/election-info/"
+    },
+    {
+      "label": "Federal write-in absentee ballot notices",
+      "url": "https://www.boe.ohio.gov/auglaize/election-info/federal-write-in-absentee-ballots/"
+    },
+    {
+      "label": "Sample ballots by precinct",
+      "url": "https://lookup.boe.ohio.gov/vtrapp/auglaize/ballotlist.aspx"
+    }
+  ],
+  "results": {
+    "status": "upcoming",
+    "links": [
+      {
+        "label": "Board of Elections: election results",
+        "url": "https://www.boe.ohio.gov/auglaize/election-info/election-results/"
+      }
+    ]
+  },
+  "contests": [
+    {
+      "id": "congress-4",
+      "group": "U.S. House",
+      "office": "Representative to Congress",
+      "detail": "4th District",
+      "candidates": [
+        {
+          "name": "Jim Jordan",
+          "party": "REP"
+        },
+        {
+          "name": "Joshua D. Kolasinski",
+          "party": "DEM"
+        },
+        {
+          "name": "Tracey L. Tackett",
+          "party": "Nonparty"
+        }
+      ],
+      "sources": [
+        "auglaize-46day"
+      ]
+    },
+    {
+      "id": "rep-78",
+      "group": "Ohio General Assembly",
+      "office": "State Representative",
+      "detail": "78th District",
+      "area": "Buckland Village, Cridersville Village, Duchouquet Township, Goshen Township, Logan Township, Moulton Township, Salem Township, Union Township, Wayne Township, Waynesfield Village",
+      "places": [
+        "Buckland Village",
+        "Cridersville Village",
+        "Duchouquet Township",
+        "Goshen Township",
+        "Logan Township",
+        "Moulton Township",
+        "Salem Township",
+        "Union Township",
+        "Wayne Township",
+        "Waynesfield Village"
+      ],
+      "candidates": [
+        {
+          "name": "Jeffrey R. Givan",
+          "party": "DEM"
+        },
+        {
+          "name": "Matt Huffman",
+          "party": "REP"
+        }
+      ],
+      "sources": [
+        "auglaize-46day"
+      ]
+    },
+    {
+      "id": "rep-84",
+      "group": "Ohio General Assembly",
+      "office": "State Representative",
+      "detail": "84th District",
+      "area": "Clay Township, Duchouquet Township, German Township, Jackson Township, Minster Village, New Bremen Village, New Knoxville Village, Noble Township, Pusheta Township, St. Marys City, St. Marys Township, Wapakoneta City, Washington Township",
+      "places": [
+        "Clay Township",
+        "Duchouquet Township",
+        "German Township",
+        "Jackson Township",
+        "Minster Village",
+        "New Bremen Village",
+        "New Knoxville Village",
+        "Noble Township",
+        "Pusheta Township",
+        "St. Marys City",
+        "St. Marys Township",
+        "Wapakoneta City",
+        "Washington Township"
+      ],
+      "candidates": [
+        {
+          "name": "Arienne C. Childrey",
+          "party": "DEM"
+        },
+        {
+          "name": "Angie King",
+          "party": "REP"
+        }
+      ],
+      "sources": [
+        "auglaize-46day"
+      ]
+    },
+    {
+      "id": "appeals-3-0209",
+      "group": "Ohio Court of Appeals",
+      "office": "Judge of the Court of Appeals",
+      "detail": "3rd District · full term commencing February 9, 2027",
+      "candidates": [
+        {
+          "name": "Mark C. Miller",
+          "party": "REP"
+        }
+      ],
+      "sources": [
+        "auglaize-46day"
+      ]
+    },
+    {
+      "id": "commissioner",
+      "group": "County offices",
+      "office": "County Commissioner",
+      "detail": "Full term commencing January 1, 2027",
+      "candidates": [
+        {
+          "name": "Douglas A. Spencer",
+          "party": "REP"
+        }
+      ],
+      "sources": [
+        "auglaize-46day"
+      ]
+    },
+    {
+      "id": "auditor",
+      "group": "County offices",
+      "office": "County Auditor",
+      "detail": "Full term commencing March 8, 2027",
+      "candidates": [
+        {
+          "name": "Linda M. Bice",
+          "party": "REP"
+        }
+      ],
+      "sources": [
+        "auglaize-46day"
+      ]
+    },
+    {
+      "id": "prosecutor",
+      "group": "County offices",
+      "office": "County Prosecuting Attorney",
+      "detail": "Unexpired term ending December 31, 2028",
+      "candidates": [
+        {
+          "name": "Benjamin R. Elder",
+          "party": "REP"
+        }
+      ],
+      "sources": [
+        "auglaize-46day"
+      ]
+    },
+    {
+      "id": "treasurer",
+      "group": "County offices",
+      "office": "County Treasurer",
+      "detail": "Unexpired term ending September 3, 2029",
+      "candidates": [
+        {
+          "name": "Mandy Frank",
+          "party": "REP"
+        }
+      ],
+      "sources": [
+        "auglaize-46day"
+      ]
+    },
+    {
+      "id": "cp-gen",
+      "group": "Court of Common Pleas",
+      "office": "Judge of the Court of Common Pleas",
+      "detail": "Full term commencing February 9, 2027 · no party label on the ballot",
+      "candidates": [
+        {
+          "name": "Zach G. Ferrall"
+        }
+      ],
+      "sources": [
+        "auglaize-46day"
+      ]
+    }
+  ],
+  "issues": [
+    {
+      "id": "wapakoneta-parks",
+      "kind": "levy",
+      "jurisdiction": "City of Wapakoneta",
+      "title": "Tax levy (additional): Improvement, operation and maintenance of the City's parks and recreation facilities (playgrounds, athletic fields, sports courts, shelter houses and restrooms, recreational programs, maintenance and operating expenses)",
+      "area": "Wapakoneta City (Wapakoneta 1A–4B)",
+      "places": [
+        "Wapakoneta City"
+      ],
+      "levy": {
+        "type": "Additional",
+        "purpose": "Improvement, operation and maintenance of the City's parks and recreation facilities (playgrounds, athletic fields, sports courts, shelter houses and restrooms, recreational programs, maintenance and operating expenses).",
+        "mills": "2 mills",
+        "term": "5 years, commencing in 2026",
+        "firstDue": "2027",
+        "estimate": "$508,100 a year; $70 for each $100,000 of market value"
+      },
+      "sources": [
+        "auglaize-46day"
+      ]
+    },
+    {
+      "id": "logan-twp-roads",
+      "kind": "levy",
+      "jurisdiction": "Logan Township (unincorporated area)",
+      "title": "Tax levy (renewal): General construction, reconstruction, resurfacing and repair of streets, roads and bridges",
+      "area": "Logan Township, unincorporated area (Logan 1–4)",
+      "places": [
+        "Logan Township"
+      ],
+      "levy": {
+        "type": "Renewal",
+        "purpose": "General construction, reconstruction, resurfacing and repair of streets, roads and bridges.",
+        "mills": "1 mill",
+        "term": "5 years, commencing in 2026",
+        "firstDue": "2027",
+        "estimate": "$19,905 a year; $15 for each $100,000 of market value"
+      },
+      "sources": [
+        "auglaize-46day"
+      ]
+    },
+    {
+      "id": "st-marys-twp-police",
+      "kind": "levy",
+      "jurisdiction": "St. Marys Township (unincorporated area)",
+      "title": "Tax levy (additional): Police: motor vehicles, communications and other equipment for a police department, or the cost of contracts with other subdivisions for police protection (R.C. 5705.19(J))",
+      "area": "St. Marys Township, unincorporated area (St. Marys E/1, E/2, S/1, S/2, W/1)",
+      "places": [
+        "St. Marys Township"
+      ],
+      "levy": {
+        "type": "Additional",
+        "purpose": "Police: motor vehicles, communications and other equipment for a police department, or the cost of contracts with other subdivisions for police protection (R.C. 5705.19(J)).",
+        "mills": "1.25 mills",
+        "term": "Continuing, commencing in 2026",
+        "firstDue": "2027",
+        "estimate": "$173,617 a year; $44 for each $100,000 of market value"
+      },
+      "sources": [
+        "auglaize-46day"
+      ]
+    },
+    {
+      "id": "washington-twp-fire",
+      "kind": "levy",
+      "jurisdiction": "Washington Township (excluding New Knoxville Village)",
+      "title": "Tax levy (additional): Fire apparatus, buildings, water supply, fire alarm lines, firefighters, ambulance equipment, and ambulance, paramedic or other emergency medical services",
+      "area": "Washington Township outside New Knoxville (Washington 1–3)",
+      "places": [
+        "Washington Township"
+      ],
+      "levy": {
+        "type": "Additional",
+        "purpose": "Fire apparatus, buildings, water supply, fire alarm lines, firefighters, ambulance equipment, and ambulance, paramedic or other emergency medical services.",
+        "mills": "3 mills",
+        "term": "5 years, commencing in 2026",
+        "firstDue": "2027",
+        "estimate": "$152,127 a year; $105 for each $100,000 of market value"
+      },
+      "sources": [
+        "auglaize-46day"
+      ]
+    },
+    {
+      "id": "wayne-twp-cemetery",
+      "kind": "levy",
+      "jurisdiction": "Wayne Township (including Waynesfield Village)",
+      "title": "Tax levy (renewal): Maintaining and operating cemeteries",
+      "area": "Wayne Township and Waynesfield Village (Wayne 1, 2, Waynesfield)",
+      "places": [
+        "Wayne Township",
+        "Waynesfield Village"
+      ],
+      "levy": {
+        "type": "Renewal",
+        "purpose": "Maintaining and operating cemeteries.",
+        "mills": "0.7 mill",
+        "term": "5 years, commencing in 2026",
+        "firstDue": "2027",
+        "estimate": "$23,700 a year; $16 for each $100,000 of market value"
+      },
+      "sources": [
+        "auglaize-46day"
+      ]
+    },
+    {
+      "id": "wayne-twp-fire",
+      "kind": "levy",
+      "jurisdiction": "Wayne Township (including Waynesfield Village)",
+      "title": "Tax levy (renewal): Payment of firefighting companies and ambulance or emergency medical services operated by a firefighting company",
+      "area": "Wayne Township and Waynesfield Village (Wayne 1, 2, Waynesfield)",
+      "places": [
+        "Wayne Township",
+        "Waynesfield Village"
+      ],
+      "levy": {
+        "type": "Renewal",
+        "purpose": "Payment of firefighting companies and ambulance or emergency medical services operated by a firefighting company.",
+        "mills": "0.75 mill",
+        "term": "5 years, commencing in 2026",
+        "firstDue": "2027",
+        "estimate": "$18,940 a year; $13 for each $100,000 of market value"
+      },
+      "sources": [
+        "auglaize-46day"
+      ]
+    },
+    {
+      "id": "new-knoxville-fire",
+      "kind": "levy",
+      "jurisdiction": "Village of New Knoxville",
+      "title": "Tax levy (additional): Fire apparatus, resuscitators, underwater rescue equipment and other fire equipment, buildings, water supply, fire-alarm communications, firefighting, EMS, administrative or communications personnel, ambulance equipment, and ambulance, paramedic or other emergency medical services",
+      "area": "New Knoxville Village",
+      "places": [
+        "New Knoxville Village"
+      ],
+      "levy": {
+        "type": "Additional",
+        "purpose": "Fire apparatus, resuscitators, underwater rescue equipment and other fire equipment, buildings, water supply, fire-alarm communications, firefighting, EMS, administrative or communications personnel, ambulance equipment, and ambulance, paramedic or other emergency medical services.",
+        "mills": "3 mills",
+        "term": "5 years, commencing in 2026",
+        "firstDue": "2027",
+        "estimate": "$75,693 a year; $105 for each $100,000 of market value"
+      },
+      "sources": [
+        "auglaize-46day"
+      ]
+    },
+    {
+      "id": "liquor-st-marys-1b-guarnieri",
+      "kind": "liquor",
+      "jurisdiction": "City of St. Marys",
+      "title": "Local liquor option: Guarnieri Pizzeria (Sunday)",
+      "area": "St. Marys precinct 1-B",
+      "places": [
+        "St. Marys City"
+      ],
+      "text": "Sunday sale of beer, wine and mixed beverages, and spirituous liquor by Guarnieri Pizzeria LLC, dba Guarnieri Pizzeria, holder of a D-5L permit, operating a restaurant and pizzeria at 216 E. Spring St., St. Marys (by petition).",
+      "sources": [
+        "auglaize-46day"
+      ]
+    },
+    {
+      "id": "liquor-st-marys-2b-duchess",
+      "kind": "liquor",
+      "jurisdiction": "City of St. Marys",
+      "title": "Local liquor option: St. Marys Duchess (Sunday)",
+      "area": "St. Marys precinct 2-B",
+      "places": [
+        "St. Marys City"
+      ],
+      "text": "Sunday sale of wine and mixed beverages by Englefield, Inc., dba St. Marys Duchess, an applicant for a D-6 permit, operating a carryout/grocery store at 1502 Executive Drive, St. Marys (by petition).",
+      "sources": [
+        "auglaize-46day"
+      ]
+    },
+    {
+      "id": "liquor-st-marys-4a-roots",
+      "kind": "liquor",
+      "jurisdiction": "City of St. Marys",
+      "title": "Local liquor option: Roots Pub (Sunday)",
+      "area": "St. Marys precinct 4-A",
+      "places": [
+        "St. Marys City"
+      ],
+      "text": "Sunday sale of wine and mixed beverages, and spirituous liquor by MRD Entertainment LLC, dba Roots Pub, an applicant for a D-6 permit, operating a restaurant/bar at 223 E. Spring St., St. Marys (by petition).",
+      "sources": [
+        "auglaize-46day"
+      ]
+    },
+    {
+      "id": "liquor-st-marys-4a-generations",
+      "kind": "liquor",
+      "jurisdiction": "City of St. Marys",
+      "title": "Local liquor option: Generations Cafe (Sunday)",
+      "area": "St. Marys precinct 4-A",
+      "places": [
+        "St. Marys City"
+      ],
+      "note": "St. Marys precinct 4-A has two Sunday-sales questions on this ballot (Roots Pub and Generations Cafe).",
+      "text": "Local option for a particular use at a business location (by petition): Sunday sale of wine and mixed beverages, and spirituous liquor by SOS Entertainment LLC, dba Generations Cafe, an applicant for a D-6 permit, operating a restaurant/bar at 233 E. Spring St., St. Marys.",
+      "sources": [
+        "auglaize-46day"
+      ]
+    },
+    {
+      "id": "spencerville-lsd-income-tax",
+      "kind": "question",
+      "jurisdiction": "Spencerville Local School District",
+      "title": "School district income tax: 1% renewal for 5 years, for current expenses",
+      "area": "Spencerville Local School District (Auglaize County part: Logan 4, Salem 2)",
+      "places": [
+        "Logan Township",
+        "Salem Township"
+      ],
+      "text": "Shall an annual income tax of 1% on the school district income of individuals be imposed by Spencerville Local School District, to renew an income tax (or income taxes) expiring at the end of 2027 for 5 years, beginning January 1, 2028, for the purpose of current expenses?",
+      "sources": [
+        "auglaize-46day"
+      ]
+    }
+  ]
+}

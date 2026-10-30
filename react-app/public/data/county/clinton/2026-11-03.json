@@ -1,0 +1,560 @@
+{
+  "scope": "county",
+  "county": "Clinton",
+  "fips": "39027",
+  "election": "2026-11-03",
+  "retrieved": "2026-10-30",
+  "notes": [
+    "Taken from the Board of Elections' 46-day election notice, which lists every contest and issue with the precincts that vote on it, checked against the Board's notices of election and precinct sample ballots. Issue wording is the ballot's.",
+    "Candidates are listed alphabetically by last name, not in ballot order: Ohio rotates the order of names from precinct to precinct. Certified write-in candidates are not printed on the ballot and are not listed.",
+    "\"Where you live\" uses the state voter file: a district or school levy is shown for a city, village or township when any of its voters live in that district. Your exact ballot depends on your precinct.",
+    "Clinton County's ballots do not number local issues (only statewide Issue 3 is numbered)."
+  ],
+  "places": [
+    "Adams Township",
+    "Blanchester Village",
+    "Chester Township",
+    "Clark Township",
+    "Clarksville Village",
+    "Green Township",
+    "Harveysburg Village",
+    "Jefferson Township",
+    "Liberty Township",
+    "Lynchburg Village",
+    "Marion Township",
+    "Martinsville Village",
+    "Midland Village",
+    "New Vienna Village",
+    "Port William Village",
+    "Richland Township",
+    "Sabina Village",
+    "Union Township",
+    "Vernon Township",
+    "Washington Township",
+    "Wayne Township",
+    "Wilmington City",
+    "Wilson Township"
+  ],
+  "sources": {
+    "clinton-46day": {
+      "label": "Clinton County Board of Elections: 46-day election notice (FWAB), November 3, 2026 General Election (revised 10/16/2026)",
+      "url": "https://www.boe.ohio.gov/clinton/c/upload/FWAB_11November46Day.pdf"
+    },
+    "clinton-notices": {
+      "label": "Clinton County Board of Elections: notices of election on issues, November 3, 2026 General Election (revised 10/6/2026)",
+      "url": "https://www.boe.ohio.gov/clinton/c/upload/Election_NoticeofElection.pdf"
+    },
+    "clinton-ballots": {
+      "label": "Clinton County Board of Elections: sample ballots by precinct, November 3, 2026 General Election",
+      "url": "https://lookup.boe.ohio.gov/vtrapp/clinton/ballotlist.aspx"
+    }
+  },
+  "links": [
+    {
+      "label": "Board of Elections",
+      "url": "https://www.boe.ohio.gov/clinton/"
+    },
+    {
+      "label": "Election information",
+      "url": "https://www.boe.ohio.gov/clinton/election-info/"
+    },
+    {
+      "label": "Sample ballots by precinct",
+      "url": "https://lookup.boe.ohio.gov/vtrapp/clinton/ballotlist.aspx"
+    }
+  ],
+  "results": {
+    "status": "upcoming",
+    "links": [
+      {
+        "label": "Board of Elections: election results",
+        "url": "https://www.boe.ohio.gov/clinton/election-info/election-results/"
+      }
+    ]
+  },
+  "contests": [
+    {
+      "id": "congress-1",
+      "group": "U.S. House",
+      "office": "Representative to Congress",
+      "detail": "1st District",
+      "candidates": [
+        {
+          "name": "Eric Conroy",
+          "party": "REP"
+        },
+        {
+          "name": "Greg Landsman",
+          "party": "DEM"
+        },
+        {
+          "name": "Nathan Weise",
+          "party": "LIB"
+        }
+      ],
+      "sources": [
+        "clinton-46day"
+      ]
+    },
+    {
+      "id": "rep-71",
+      "group": "Ohio General Assembly",
+      "office": "State Representative",
+      "detail": "71st District",
+      "candidates": [
+        {
+          "name": "Levi Dean",
+          "party": "REP"
+        },
+        {
+          "name": "Krista Magaw",
+          "party": "DEM"
+        }
+      ],
+      "sources": [
+        "clinton-46day"
+      ]
+    },
+    {
+      "id": "appeals-12-0101",
+      "group": "Ohio Court of Appeals",
+      "office": "Judge of the Court of Appeals",
+      "detail": "12th District (Butler, Brown, Clermont, Clinton, Fayette, Madison, Preble and Warren counties) · full term commencing January 1, 2027",
+      "candidates": [
+        {
+          "name": "Matthew Byrne",
+          "party": "REP",
+          "note": "Withdrew September 16, 2026; his name may still appear on the ballot, but votes for him will not count"
+        },
+        {
+          "name": "Willa Concannon",
+          "party": "Write-in"
+        }
+      ],
+      "sources": [
+        "clinton-46day"
+      ]
+    },
+    {
+      "id": "appeals-12-0209",
+      "group": "Ohio Court of Appeals",
+      "office": "Judge of the Court of Appeals",
+      "detail": "12th District (Butler, Brown, Clermont, Clinton, Fayette, Madison, Preble and Warren counties) · full term commencing February 9, 2027",
+      "candidates": [
+        {
+          "name": "Robert A. Hendrickson",
+          "party": "REP"
+        }
+      ],
+      "sources": [
+        "clinton-46day"
+      ]
+    },
+    {
+      "id": "commissioner",
+      "group": "County offices",
+      "office": "County Commissioner",
+      "detail": "Full term commencing January 1, 2027",
+      "candidates": [
+        {
+          "name": "Mike McCarty",
+          "party": "REP"
+        }
+      ],
+      "sources": [
+        "clinton-46day"
+      ]
+    },
+    {
+      "id": "auditor",
+      "group": "County offices",
+      "office": "County Auditor",
+      "detail": "Full term commencing March 9, 2027",
+      "candidates": [
+        {
+          "name": "Terence G. Habermehl",
+          "party": "REP"
+        }
+      ],
+      "sources": [
+        "clinton-46day"
+      ]
+    },
+    {
+      "id": "cp-probate-juv",
+      "group": "Court of Common Pleas",
+      "office": "Judge of the Court of Common Pleas, Probate/Juvenile Division",
+      "detail": "Full term commencing February 9, 2027 · no party label on the ballot",
+      "candidates": [
+        {
+          "name": "Chad L. Carey"
+        }
+      ],
+      "sources": [
+        "clinton-46day"
+      ]
+    }
+  ],
+  "issues": [
+    {
+      "id": "issue-6",
+      "kind": "levy",
+      "jurisdiction": "Mental Health Recovery Board Serving Warren and Clinton Counties",
+      "title": "Tax levy (renewal): Current expenses",
+      "area": "Clinton County",
+      "levy": {
+        "type": "Renewal",
+        "purpose": "Current expenses.",
+        "mills": "1 mill",
+        "term": "5 years, commencing in 2027",
+        "firstDue": "2028",
+        "estimate": "$7,677,198 per year; $16 per $100,000 of market value"
+      },
+      "note": "Issue 6 in Warren County; unnumbered on Clinton County's ballot.",
+      "sources": [
+        "clinton-46day",
+        "clinton-ballots",
+        "clinton-notices"
+      ]
+    },
+    {
+      "id": "health-district",
+      "kind": "levy",
+      "jurisdiction": "Clinton County (Combined Health District)",
+      "title": "Tax levy (renewal): Health programs of the Clinton County Combined Health District, including child and senior citizen services, control of communicable diseases, environmental health, health education, bioterrorism response and AIDS education",
+      "area": "Clinton County (Combined Health District)",
+      "levy": {
+        "type": "Renewal",
+        "purpose": "Health programs of the Clinton County Combined Health District, including child and senior citizen services, control of communicable diseases, environmental health, health education, bioterrorism response and AIDS education.",
+        "mills": "0.5 mill",
+        "term": "5 years, commencing in 2027",
+        "firstDue": "2028",
+        "estimate": "$458,176 a year; $9 for each $100,000 of the county auditor's market value"
+      },
+      "sources": [
+        "clinton-46day",
+        "clinton-ballots",
+        "clinton-notices"
+      ]
+    },
+    {
+      "id": "senior-services",
+      "kind": "levy",
+      "jurisdiction": "Clinton County",
+      "title": "Tax levy (renewal): Senior citizen services or facilities, including home-delivered meals, durable medical equipment, minor emergency home repairs, homemaker, personal care, medical transportation, chores, respite for caregivers, adult day care, assessment, case management and protective services",
+      "area": "Clinton County",
+      "levy": {
+        "type": "Renewal",
+        "purpose": "Senior citizen services or facilities, including home-delivered meals, durable medical equipment, minor emergency home repairs, homemaker, personal care, medical transportation, chores, respite for caregivers, adult day care, assessment, case management and protective services.",
+        "mills": "2.35 mills",
+        "term": "5 years, commencing in 2027",
+        "firstDue": "2028",
+        "estimate": "$2,696,096 a year; $57 for each $100,000 of the county auditor's market value"
+      },
+      "sources": [
+        "clinton-46day",
+        "clinton-ballots",
+        "clinton-notices"
+      ]
+    },
+    {
+      "id": "gas-aggregation",
+      "kind": "question",
+      "jurisdiction": "Clinton County (unincorporated area)",
+      "title": "Natural gas aggregation for the unincorporated area (opt-out)",
+      "area": "Unincorporated Clinton County (all township precincts)",
+      "places": [
+        "Adams Township",
+        "Chester Township",
+        "Clark Township",
+        "Green Township",
+        "Jefferson Township",
+        "Liberty Township",
+        "Marion Township",
+        "Richland Township",
+        "Union Township",
+        "Vernon Township",
+        "Washington Township",
+        "Wayne Township",
+        "Wilson Township"
+      ],
+      "text": "Shall the Board of County Commissioners of Clinton County, Ohio, have the authority to aggregate the retail natural gas loads located in the unincorporated area of Clinton County, and for that purpose, enter into service agreements to facilitate the sale and purchase of competitive retail natural gas service, with automatic enrollment in the aggregation program unless an eligible customer affirmatively elects to opt out?",
+      "sources": [
+        "clinton-46day",
+        "clinton-ballots",
+        "clinton-notices"
+      ]
+    },
+    {
+      "id": "east-clinton-lsd-income-tax",
+      "kind": "question",
+      "jurisdiction": "East Clinton Local School District",
+      "title": "School district income tax: 1.25% for 5 years, for current expenses",
+      "area": "East Clinton Local School District",
+      "places": [
+        "Clark Township",
+        "Green Township",
+        "New Vienna Village",
+        "Richland Township",
+        "Sabina Village",
+        "Union Township",
+        "Wayne Township",
+        "Wilson Township"
+      ],
+      "text": "Shall an annual income tax of 1.25 per cent on the earned income of individuals residing in the school district be imposed by East Clinton Local School District, for 5 years, beginning January 1, 2027, for the purpose of current expenses?",
+      "sources": [
+        "clinton-46day",
+        "clinton-ballots",
+        "clinton-notices"
+      ]
+    },
+    {
+      "id": "miami-trace-renewal",
+      "kind": "levy",
+      "jurisdiction": "Miami Trace Local School District (Fayette, Clinton, Highland, Pickaway and Ross)",
+      "title": "Tax levy (renewal): Current operating expenses (fixed-sum levy of $1,900,000 a year)",
+      "area": "Precinct Wayne/3",
+      "places": [
+        "Wayne Township"
+      ],
+      "levy": {
+        "type": "Renewal",
+        "purpose": "Current operating expenses (fixed-sum levy of $1,900,000 a year).",
+        "mills": "2.2 mills (estimated average)",
+        "term": "5 years, commencing in 2027",
+        "firstDue": "2028",
+        "estimate": "$1,900,000 a year; $77 for each $100,000 of market value"
+      },
+      "note": "A fixed-sum levy renewing an existing levy. The county auditor certified the district's carry-over balance in excess of the preceding year's general fund expenditures as $0 (0%).",
+      "sources": [
+        "clinton-46day",
+        "clinton-ballots"
+      ]
+    },
+    {
+      "id": "blanchester-marion-fire",
+      "kind": "levy",
+      "jurisdiction": "Blanchester-Marion Township Joint Fire District",
+      "title": "Tax levy (renewal): Fire protection, ambulance, paramedic or other emergency medical services",
+      "area": "Blanchester A, B and C and Marion Township",
+      "places": [
+        "Blanchester Village",
+        "Marion Township"
+      ],
+      "levy": {
+        "type": "Renewal",
+        "purpose": "Fire protection, ambulance, paramedic or other emergency medical services.",
+        "mills": "3.55 mills",
+        "term": "5 years, commencing in 2027",
+        "firstDue": "2028",
+        "estimate": "$308,493 a year; $55 for each $100,000 of the county auditor's market value"
+      },
+      "sources": [
+        "clinton-46day",
+        "clinton-ballots",
+        "clinton-notices"
+      ]
+    },
+    {
+      "id": "wilmington-referendum-o-26-04",
+      "kind": "question",
+      "jurisdiction": "City of Wilmington",
+      "title": "Zoning referendum (by petition): Ordinance O-26-04, rezoning 119.373 acres on SR 730 from Rural Residential to Light Industrial",
+      "area": "Wilmington 1-A to 4-C",
+      "places": [
+        "Wilmington City"
+      ],
+      "note": "Ordinance O-26-04 was adopted by city council on February 19, 2026. A YES vote approves the ordinance; a NO vote rejects it.",
+      "text": "Shall Ordinance No. O-26-04 proposing to change the zoning of real property located on SR 730 (119.373 Acres) in the City of Wilmington, Ohio, be approved?",
+      "sources": [
+        "clinton-46day",
+        "clinton-ballots",
+        "clinton-notices"
+      ]
+    },
+    {
+      "id": "wilmington-referendum-o-26-05",
+      "kind": "question",
+      "jurisdiction": "City of Wilmington",
+      "title": "Zoning referendum (by petition): Ordinance O-26-05, rezoning 65.29 acres at 1957 SR 730 from Rural Residential to Light Industrial",
+      "area": "Wilmington 1-A to 4-C",
+      "places": [
+        "Wilmington City"
+      ],
+      "note": "Ordinance O-26-05 was adopted by city council on February 19, 2026. A YES vote approves the ordinance; a NO vote rejects it.",
+      "text": "Shall Ordinance No. O-26-05 proposing to change the zoning of real property located at 1957 SR 730 (65.29 acres) in the City of Wilmington, Ohio, be approved?",
+      "sources": [
+        "clinton-46day",
+        "clinton-ballots",
+        "clinton-notices"
+      ]
+    },
+    {
+      "id": "wilmington-referendum-o-26-06",
+      "kind": "question",
+      "jurisdiction": "City of Wilmington",
+      "title": "Zoning referendum (by petition): Ordinance O-26-06, rezoning 191.12 acres on McGuinn Road from Rural Residential to Light Industrial",
+      "area": "Wilmington 1-A to 4-C",
+      "places": [
+        "Wilmington City"
+      ],
+      "note": "Ordinance O-26-06 was adopted by city council on February 19, 2026. A YES vote approves the ordinance; a NO vote rejects it.",
+      "text": "Shall ordinance No. O-26-06 proposing to change the zoning of 191.12 acres of real property on McGuinn Road in Wilmington, Ohio, be approved?",
+      "sources": [
+        "clinton-46day",
+        "clinton-ballots",
+        "clinton-notices"
+      ]
+    },
+    {
+      "id": "wilmington-referendum-o-26-07",
+      "kind": "question",
+      "jurisdiction": "City of Wilmington",
+      "title": "Zoning referendum (by petition): Ordinance O-26-07, rezoning 170.11 acres on US 68 South from Rural Residential to Light Industrial",
+      "area": "Wilmington 1-A to 4-C",
+      "places": [
+        "Wilmington City"
+      ],
+      "note": "Ordinance O-26-07 was adopted by city council on February 19, 2026. A YES vote approves the ordinance; a NO vote rejects it.",
+      "text": "Shall Ordinance No. O-26-07 proposing to change the zoning of 170.11 acres of real property on US 68 South in Wilmington, Ohio, be approved?",
+      "sources": [
+        "clinton-46day",
+        "clinton-ballots",
+        "clinton-notices"
+      ]
+    },
+    {
+      "id": "blanchester-cemeteries",
+      "kind": "levy",
+      "jurisdiction": "Village of Blanchester",
+      "title": "Tax levy (additional): Maintaining and operating cemeteries",
+      "area": "Blanchester A, B and C",
+      "places": [
+        "Blanchester Village"
+      ],
+      "levy": {
+        "type": "Additional",
+        "purpose": "Maintaining and operating cemeteries.",
+        "mills": "1.25 mills",
+        "term": "4 years, commencing in 2026",
+        "firstDue": "2027",
+        "estimate": "$129,130 a year; $44 for each $100,000 of the county auditor's market value"
+      },
+      "sources": [
+        "clinton-46day",
+        "clinton-ballots",
+        "clinton-notices"
+      ]
+    },
+    {
+      "id": "midland-current",
+      "kind": "levy",
+      "jurisdiction": "Village of Midland",
+      "title": "Tax levy (renewal): Current expenses",
+      "area": "Precinct Jefferson/5",
+      "places": [
+        "Midland Village"
+      ],
+      "levy": {
+        "type": "Renewal",
+        "purpose": "Current expenses.",
+        "mills": "3 mills",
+        "term": "5 years, commencing in 2027",
+        "firstDue": "2028",
+        "estimate": "$9,088 a year; $61 for each $100,000 of the county auditor's market value"
+      },
+      "sources": [
+        "clinton-46day",
+        "clinton-ballots",
+        "clinton-notices"
+      ]
+    },
+    {
+      "id": "midland-police",
+      "kind": "levy",
+      "jurisdiction": "Village of Midland",
+      "title": "Tax levy (renewal): Providing and maintaining police protection",
+      "area": "Precinct Jefferson/5",
+      "places": [
+        "Midland Village"
+      ],
+      "levy": {
+        "type": "Renewal",
+        "purpose": "Providing and maintaining police protection.",
+        "mills": "1 mill",
+        "term": "5 years, commencing in 2027",
+        "firstDue": "2028",
+        "estimate": "$5,120 a year; $35 for each $100,000 of the county auditor's market value"
+      },
+      "sources": [
+        "clinton-46day",
+        "clinton-ballots",
+        "clinton-notices"
+      ]
+    },
+    {
+      "id": "sabina-income-tax",
+      "kind": "question",
+      "jurisdiction": "Village of Sabina",
+      "title": "Municipal income tax: continuing the existing 0.5% for 5 years, for the police department",
+      "area": "Sabina A and B",
+      "places": [
+        "Sabina Village"
+      ],
+      "text": "Shall the Ordinance providing for the continuation of an existing 0.5 per cent levy on income for 5 years, beginning on July 1, 2027 and ending June 30, 2032, for purpose of providing revenue to maintain the Police Department for the Village of Sabina, Ohio, be passed?",
+      "sources": [
+        "clinton-46day",
+        "clinton-ballots",
+        "clinton-notices"
+      ]
+    },
+    {
+      "id": "liquor-wilmington-2a-wawa",
+      "kind": "liquor",
+      "jurisdiction": "City of Wilmington",
+      "title": "Local liquor option: Wawa #7218 (Sunday sales)",
+      "area": "Wilmington precinct 2-A",
+      "places": [
+        "Wilmington City"
+      ],
+      "text": "Shall the sale of wine and mixed beverages be permitted for sale on Sunday by Wawa Midwest doing business as Wawa # 7218 an applicant for a D6 liquor permit authorizing off-premise sales who is engaged in the business of operating family-oriented, full-service convenience stores at 2094 Rombach Ave, Wilmington, OH 45177 in this precinct?",
+      "sources": [
+        "clinton-46day",
+        "clinton-ballots",
+        "clinton-notices"
+      ]
+    },
+    {
+      "id": "liquor-new-vienna-pizza-patts",
+      "kind": "liquor",
+      "jurisdiction": "Village of New Vienna",
+      "title": "Local liquor option: Pizza Patts LLC (D-5 permit)",
+      "area": "New Vienna precinct",
+      "places": [
+        "New Vienna Village"
+      ],
+      "text": "Shall the sale of beer, wine and mixed beverages, and spirituous liquor be permitted by Pizza Patts LLC an applicant for a D-5 liquor permit, who is engaged in the business of operating a restaurant and pizzeria at 155 W Main St, New Vienna, OH 45159 in this precinct?",
+      "sources": [
+        "clinton-46day",
+        "clinton-ballots",
+        "clinton-notices"
+      ]
+    },
+    {
+      "id": "liquor-new-vienna-pizza-patts-sunday",
+      "kind": "liquor",
+      "jurisdiction": "Village of New Vienna",
+      "title": "Local liquor option: Pizza Patts LLC (Sunday sales)",
+      "area": "New Vienna precinct",
+      "places": [
+        "New Vienna Village"
+      ],
+      "text": "Shall the sale of beer, wine and mixed beverages, and spirituous liquor be permitted for sale on Sunday by Pizza Patts LLC an applicant for a D-6 liquor permit who is engaged in the business of operating a restaurant and pizzeria at 155 W Main St, New Vienna, OH 45159 in this precinct?",
+      "sources": [
+        "clinton-46day",
+        "clinton-ballots",
+        "clinton-notices"
+      ]
+    }
+  ]
+}

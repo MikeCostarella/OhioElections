@@ -19,8 +19,10 @@ Adding a county: summarise its voter file with `place_summary.py`, write `<count
 
 ## Notes for adding more counties
 
-Done for 2026-11-03: Trumbull (hand-written), Mahoning, Columbiana, Ashtabula, Lake, Cuyahoga, Geauga, Summit, Stark, Portage, Medina, Lorain, Franklin, Hamilton, Montgomery, Lucas, Butler, Warren, Delaware, Clermont, Licking, Greene, Fairfield, Clark, Wood, Richland, Wayne, Miami, Allen, Tuscarawas, Muskingum, Ross, Erie, Hancock, Scioto, Belmont, Jefferson, Marion, Union, Knox, Athens, Washington, Pickaway, Sandusky, Huron, Lawrence, Seneca.
-Next by size: Darke, Ashland, Shelby, Auglaize, Brown, Logan, Crawford, Highland, Ottawa, Clinton (41 counties left, these included).
+Done for 2026-11-03: Trumbull (hand-written), Mahoning, Columbiana, Ashtabula, Lake, Cuyahoga, Geauga, Summit, Stark, Portage, Medina, Lorain, Franklin, Hamilton, Montgomery, Lucas, Butler, Warren, Delaware, Clermont, Licking, Greene, Fairfield, Clark, Wood, Richland, Wayne, Miami, Allen, Tuscarawas, Muskingum, Ross, Erie, Hancock, Scioto, Belmont, Jefferson, Marion, Union, Knox, Athens, Washington, Pickaway, Sandusky, Huron, Lawrence, Seneca, Darke, Ashland, Shelby, Auglaize, Brown, Logan, Crawford, Highland, Ottawa, Clinton.
+Next by size: Madison, Fulton, Mercer, Preble, Champaign, Defiance, Guernsey, Williams, Coshocton, Perry (31 counties left, these included).
+
+**Notices can leave races out.** Logan's notice omits the Court of Appeals and a Senate race that are on its ballots; check the sample ballots for appeals/senate races when the notice lacks them.
 
 Sample ballots on lookup.boe.ohio.gov: when get_page_text is refused, javascript_tool can run the search and fetch each `getballot.aspx` PDF for pdf.js.
 

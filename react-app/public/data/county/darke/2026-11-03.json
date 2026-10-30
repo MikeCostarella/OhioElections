@@ -1,0 +1,417 @@
+{
+  "scope": "county",
+  "county": "Darke",
+  "fips": "39037",
+  "election": "2026-11-03",
+  "retrieved": "2026-10-30",
+  "notes": [
+    "Taken from the Board of Elections' 46-day election notice, which lists every contest and issue with the precincts that vote on it. Issue wording is the Board's summary; the full wording is on the sample ballot.",
+    "Candidates are listed alphabetically by last name, not in ballot order: Ohio rotates the order of names from precinct to precinct. Certified write-in candidates are not printed on the ballot and are not listed.",
+    "\"Where you live\" uses the state voter file: a district or school levy is shown for a city, village or township when any of its voters live in that district. Your exact ballot depends on your precinct.",
+    "The Board's notice does not give local issue numbers; see your sample ballot for them.",
+    "County Coroner (unexpired term ending December 31, 2028) is also on the ballot, but the Board's notice says no valid candidate filed."
+  ],
+  "places": [
+    "Adams Township",
+    "Allen Township",
+    "Ansonia Village",
+    "Arcanum Village",
+    "Bradford Village",
+    "Brown Township",
+    "Burkettsville Village",
+    "Butler Township",
+    "Castine Village",
+    "Franklin Township",
+    "Gettysburg Village",
+    "Gordon Village",
+    "Greenville City",
+    "Greenville Township",
+    "Harrison Township",
+    "Hollansburg Village",
+    "Ithaca Village",
+    "Jackson Township",
+    "Liberty Township",
+    "Mississinawa Township",
+    "Monroe Township",
+    "Neave Township",
+    "New Madison Village",
+    "New Weston Village",
+    "North Star Village",
+    "Osgood Village",
+    "Palestine Village",
+    "Patterson Township",
+    "Pitsburg Village",
+    "Richland Township",
+    "Rossburg Village",
+    "Twin Township",
+    "Union City Village",
+    "Van Buren Township",
+    "Versailles Village",
+    "Wabash Township",
+    "Washington Township",
+    "Wayne Lakes Village",
+    "Wayne Township",
+    "York Township",
+    "Yorkshire Village"
+  ],
+  "sources": {
+    "darke-46day": {
+      "label": "Darke County Board of Elections: 46-day election notice (FWAB), November 3, 2026 General Election",
+      "url": "https://www.boe.ohio.gov/darke/c/upload/FWAB_11November46Day.pdf"
+    }
+  },
+  "links": [
+    {
+      "label": "Board of Elections",
+      "url": "https://www.boe.ohio.gov/darke/"
+    },
+    {
+      "label": "Election info",
+      "url": "https://www.boe.ohio.gov/darke/election-info/"
+    },
+    {
+      "label": "Sample ballots by precinct",
+      "url": "https://lookup.boe.ohio.gov/vtrapp/darke/ballotlist.aspx"
+    }
+  ],
+  "results": {
+    "status": "upcoming",
+    "links": [
+      {
+        "label": "Board of Elections: election results",
+        "url": "https://www.boe.ohio.gov/darke/election-info/"
+      }
+    ]
+  },
+  "contests": [
+    {
+      "id": "congress-8",
+      "group": "U.S. House",
+      "office": "Representative to Congress",
+      "detail": "8th District (Hamilton, Butler (part), Preble, Darke and Miami (part) counties)",
+      "candidates": [
+        {
+          "name": "Warren Davidson",
+          "party": "REP"
+        },
+        {
+          "name": "Vanessa Enoch",
+          "party": "DEM"
+        }
+      ],
+      "sources": [
+        "darke-46day"
+      ]
+    },
+    {
+      "id": "senate-5",
+      "group": "Ohio General Assembly",
+      "office": "State Senator",
+      "detail": "5th District",
+      "area": "Arcanum Village, Butler Township, Castine Village, Franklin Township, Gordon Village, Harrison Township, Hollansburg Village, Ithaca Village, Liberty Township, Monroe Township, Neave Township, New Madison Village, Palestine Village, Pitsburg Village, Twin Township, Van Buren Township, Wayne Lakes Village",
+      "places": [
+        "Arcanum Village",
+        "Butler Township",
+        "Castine Village",
+        "Franklin Township",
+        "Gordon Village",
+        "Harrison Township",
+        "Hollansburg Village",
+        "Ithaca Village",
+        "Liberty Township",
+        "Monroe Township",
+        "Neave Township",
+        "New Madison Village",
+        "Palestine Village",
+        "Pitsburg Village",
+        "Twin Township",
+        "Van Buren Township",
+        "Wayne Lakes Village"
+      ],
+      "candidates": [
+        {
+          "name": "Jeffrey Harris",
+          "party": "DEM"
+        },
+        {
+          "name": "Phil Plummer",
+          "party": "REP"
+        }
+      ],
+      "sources": [
+        "darke-46day"
+      ]
+    },
+    {
+      "id": "rep-80",
+      "group": "Ohio General Assembly",
+      "office": "State Representative",
+      "detail": "80th District",
+      "area": "Arcanum Village, Butler Township, Castine Village, Franklin Township, Gordon Village, Harrison Township, Hollansburg Village, Ithaca Village, Liberty Township, Monroe Township, Neave Township, New Madison Village, Palestine Village, Pitsburg Village, Twin Township, Van Buren Township, Wayne Lakes Village",
+      "places": [
+        "Arcanum Village",
+        "Butler Township",
+        "Castine Village",
+        "Franklin Township",
+        "Gordon Village",
+        "Harrison Township",
+        "Hollansburg Village",
+        "Ithaca Village",
+        "Liberty Township",
+        "Monroe Township",
+        "Neave Township",
+        "New Madison Village",
+        "Palestine Village",
+        "Pitsburg Village",
+        "Twin Township",
+        "Van Buren Township",
+        "Wayne Lakes Village"
+      ],
+      "candidates": [
+        {
+          "name": "Johnathan Newman",
+          "party": "REP"
+        },
+        {
+          "name": "Katie Koehler Wagner",
+          "party": "DEM"
+        }
+      ],
+      "sources": [
+        "darke-46day"
+      ]
+    },
+    {
+      "id": "rep-84",
+      "group": "Ohio General Assembly",
+      "office": "State Representative",
+      "detail": "84th District",
+      "area": "Adams Township, Allen Township, Ansonia Village, Bradford Village, Brown Township, Burkettsville Village, Gettysburg Village, Greenville City, Greenville Township, Jackson Township, Mississinawa Township, New Weston Village, North Star Village, Osgood Village, Patterson Township, Richland Township, Rossburg Village, Union City Village, Versailles Village, Wabash Township, Washington Township, Wayne Township, York Township, Yorkshire Village",
+      "places": [
+        "Adams Township",
+        "Allen Township",
+        "Ansonia Village",
+        "Bradford Village",
+        "Brown Township",
+        "Burkettsville Village",
+        "Gettysburg Village",
+        "Greenville City",
+        "Greenville Township",
+        "Jackson Township",
+        "Mississinawa Township",
+        "New Weston Village",
+        "North Star Village",
+        "Osgood Village",
+        "Patterson Township",
+        "Richland Township",
+        "Rossburg Village",
+        "Union City Village",
+        "Versailles Village",
+        "Wabash Township",
+        "Washington Township",
+        "Wayne Township",
+        "York Township",
+        "Yorkshire Village"
+      ],
+      "candidates": [
+        {
+          "name": "Arienne C. Childrey",
+          "party": "DEM"
+        },
+        {
+          "name": "Angie King",
+          "party": "REP"
+        }
+      ],
+      "sources": [
+        "darke-46day"
+      ]
+    },
+    {
+      "id": "appeals-2-0209",
+      "group": "Ohio Court of Appeals",
+      "office": "Judge of the Court of Appeals",
+      "detail": "2nd District · term commencing February 9, 2027",
+      "candidates": [
+        {
+          "name": "Chris Epley",
+          "party": "REP"
+        }
+      ],
+      "sources": [
+        "darke-46day"
+      ]
+    },
+    {
+      "id": "commissioner",
+      "group": "County offices",
+      "office": "County Commissioner",
+      "detail": "Term commencing January 1, 2027",
+      "candidates": [
+        {
+          "name": "Eddie Anjos",
+          "party": "Nonparty"
+        },
+        {
+          "name": "David J. Coons",
+          "party": "REP"
+        }
+      ],
+      "sources": [
+        "darke-46day"
+      ]
+    },
+    {
+      "id": "auditor",
+      "group": "County offices",
+      "office": "County Auditor",
+      "detail": "Term commencing March 8, 2027",
+      "candidates": [
+        {
+          "name": "Brian L. Holsapple",
+          "party": "REP"
+        }
+      ],
+      "sources": [
+        "darke-46day"
+      ]
+    },
+    {
+      "id": "cp-juvenile-probate",
+      "group": "Court of Common Pleas",
+      "office": "Judge of the Court of Common Pleas, Juvenile/Probate Division",
+      "detail": "Term commencing February 9, 2027 · no party label on the ballot",
+      "candidates": [
+        {
+          "name": "Jason Aslinger"
+        }
+      ],
+      "sources": [
+        "darke-46day"
+      ]
+    }
+  ],
+  "issues": [
+    {
+      "id": "tri-county-mental-health",
+      "kind": "levy",
+      "jurisdiction": "Tri-County Board of Recovery and Mental Health Services (Darke, Miami and Shelby counties)",
+      "title": "Tax levy (renewal): Counseling and supportive services to children and adults through alcohol and drug addiction programs and mental health programs",
+      "area": "All of Darke County",
+      "levy": {
+        "type": "Renewal",
+        "purpose": "Counseling and supportive services to children and adults through alcohol and drug addiction programs and mental health programs.",
+        "mills": "0.6 mill",
+        "term": "5 years, commencing in 2027",
+        "firstDue": "2028",
+        "estimate": "$2,596,848 a year; $10 for each $100,000 of the county auditor's market value"
+      },
+      "sources": [
+        "darke-46day"
+      ]
+    },
+    {
+      "id": "ansonia-operating",
+      "kind": "levy",
+      "jurisdiction": "Village of Ansonia",
+      "title": "Tax levy (renewal): Current expenses",
+      "area": "Ansonia Village (precinct 16/3)",
+      "places": [
+        "Ansonia Village"
+      ],
+      "levy": {
+        "type": "Renewal",
+        "purpose": "Current expenses.",
+        "mills": "3 mills",
+        "term": "5 years, commencing in 2027",
+        "firstDue": "2028",
+        "estimate": "$36,812 a year; $65 for each $100,000 of the county auditor's market value"
+      },
+      "sources": [
+        "darke-46day"
+      ]
+    },
+    {
+      "id": "arcanum-income-tax",
+      "kind": "question",
+      "jurisdiction": "Village of Arcanum",
+      "title": "Municipal income tax: 0.5% increase for municipal operations, services and capital improvements",
+      "area": "Arcanum Village (precincts 34/1, 35/1)",
+      "places": [
+        "Arcanum Village"
+      ],
+      "text": "Ordinance providing for a 0.5% levy increase on income for general municipal operations, maintenance, new equipment, extension and enlargement of municipal services and facilities, and capital improvements.",
+      "sources": [
+        "darke-46day"
+      ]
+    },
+    {
+      "id": "palestine-operating",
+      "kind": "levy",
+      "jurisdiction": "Village of Palestine",
+      "title": "Tax levy (renewal): Current expenses",
+      "area": "Palestine Village (precinct 27/1)",
+      "places": [
+        "Palestine Village"
+      ],
+      "levy": {
+        "type": "Renewal",
+        "purpose": "Current expenses.",
+        "mills": "2.3 mills",
+        "term": "5 years, commencing in 2027",
+        "firstDue": "2028",
+        "estimate": "$3,971 a year; $55 for each $100,000 of the county auditor's market value"
+      },
+      "sources": [
+        "darke-46day"
+      ]
+    },
+    {
+      "id": "franklin-monroe-lsd-tax",
+      "kind": "question",
+      "jurisdiction": "Franklin Monroe Local School District",
+      "title": "School district income tax: 1.25% for 5 years, for current expenses",
+      "area": "Franklin Monroe Local School District",
+      "places": [
+        "Franklin Township",
+        "Greenville Township",
+        "Monroe Township",
+        "Pitsburg Village",
+        "Twin Township",
+        "Van Buren Township"
+      ],
+      "text": "Annual income tax of 1.25% on the school district income of individuals, for 5 years, beginning January 1, 2027, for current expenses.",
+      "sources": [
+        "darke-46day"
+      ]
+    },
+    {
+      "id": "tri-village-ambulance",
+      "kind": "levy",
+      "jurisdiction": "Tri-Village Joint Ambulance District",
+      "title": "Tax levy (additional): Current expenses",
+      "area": "Tri-Village Joint Ambulance District (precincts 17/1, 17/3, 23/1–3, 24/1–4, 27/1–3, 30/1, 31/1, 31/4)",
+      "places": [
+        "Butler Township",
+        "Harrison Township",
+        "Hollansburg Village",
+        "Liberty Township",
+        "Neave Township",
+        "New Madison Village",
+        "Palestine Village",
+        "Wayne Lakes Village"
+      ],
+      "levy": {
+        "type": "Additional",
+        "purpose": "Current expenses.",
+        "mills": "1.5 mills",
+        "term": "Continuing period of time, commencing in 2026",
+        "firstDue": "2027",
+        "estimate": "$343,778 a year; $53 for each $100,000 of the county auditor's market value"
+      },
+      "sources": [
+        "darke-46day"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,549 @@
+{
+  "scope": "county",
+  "county": "Ashland",
+  "fips": "39005",
+  "election": "2026-11-03",
+  "retrieved": "2026-10-30",
+  "notes": [
+    "Taken from the Board of Elections' 46-day election notice, which lists every contest and issue with the precincts that vote on it, checked against the Board's candidate and issues lists. Issue wording is from the Board's precinct sample ballots.",
+    "Candidates are listed alphabetically by last name, not in ballot order: Ohio rotates the order of names from precinct to precinct. Certified write-in candidates are not printed on the ballot and are not listed.",
+    "\"Where you live\" uses the state voter file: a district or school levy is shown for a city, village or township when any of its voters live in that district. Your exact ballot depends on your precinct.",
+    "Issues marked \"boundaries not mapped\" are for special districts (park, ambulance or similar) whose boundaries are not in the voter file; they stay listed for every place.",
+    "Ashland County's ballots do not number local issues (only statewide Issue 3 is numbered); see your sample ballot for the order of the issues."
+  ],
+  "places": [
+    "Ashland City",
+    "Bailey Lakes Village",
+    "Clear Creek Township",
+    "Green Township",
+    "Hanover Township",
+    "Hayesville Village",
+    "Jackson Township",
+    "Jeromesville Village",
+    "Lake Township",
+    "Loudonville Village",
+    "Mifflin Township",
+    "Mifflin Village",
+    "Milton Township",
+    "Mohican Township",
+    "Montgomery Township",
+    "Orange Township",
+    "Perry Township",
+    "Perrysville Village",
+    "Polk Village",
+    "Ruggles Township",
+    "Savannah Village",
+    "Sullivan Township",
+    "Troy Township",
+    "Vermillion Township"
+  ],
+  "sources": {
+    "ashland-46day": {
+      "label": "Ashland County Board of Elections: 46-day election notice (FWAB), November 3, 2026 General Election (revised 9/11/2026)",
+      "url": "https://www.boe.ohio.gov/ashland/c/upload/FWAB_11November46Day.pdf"
+    },
+    "ashland-candidates": {
+      "label": "Ashland County Board of Elections: official candidate list, 2026 General Election",
+      "url": "https://www.boe.ohio.gov/ashland/c/upload/Election_CandidateList.pdf"
+    },
+    "ashland-issues": {
+      "label": "Ashland County Board of Elections: official list of questions and issues, 2026 General Election",
+      "url": "https://www.boe.ohio.gov/ashland/c/upload/Election_QuestionsandIssues.pdf"
+    },
+    "ashland-ballots": {
+      "label": "Ashland County Board of Elections: precinct sample ballots, November 3, 2026 General Election",
+      "url": "https://lookup.boe.ohio.gov/vtrapp/ashland/ballotlist.aspx"
+    }
+  },
+  "links": [
+    {
+      "label": "Board of Elections",
+      "url": "https://www.boe.ohio.gov/ashland/"
+    },
+    {
+      "label": "Election information",
+      "url": "https://www.boe.ohio.gov/ashland/election-info/"
+    },
+    {
+      "label": "Candidate list",
+      "url": "https://www.boe.ohio.gov/ashland/c/upload/Election_CandidateList.pdf"
+    },
+    {
+      "label": "Questions and issues list",
+      "url": "https://www.boe.ohio.gov/ashland/c/upload/Election_QuestionsandIssues.pdf"
+    },
+    {
+      "label": "Sample ballots by precinct",
+      "url": "https://lookup.boe.ohio.gov/vtrapp/ashland/ballotlist.aspx"
+    }
+  ],
+  "results": {
+    "status": "upcoming",
+    "links": [
+      {
+        "label": "Board of Elections: election results",
+        "url": "https://www.boe.ohio.gov/ashland/election-info/election-results/"
+      }
+    ]
+  },
+  "contests": [
+    {
+      "id": "congress-7",
+      "group": "U.S. House",
+      "office": "Representative to Congress",
+      "detail": "7th District",
+      "candidates": [
+        {
+          "name": "Brian Poindexter",
+          "party": "DEM"
+        },
+        {
+          "name": "Max Miller",
+          "party": "REP"
+        }
+      ],
+      "sources": [
+        "ashland-46day"
+      ]
+    },
+    {
+      "id": "rep-67",
+      "group": "Ohio General Assembly",
+      "office": "State Representative",
+      "detail": "67th District",
+      "candidates": [
+        {
+          "name": "Heather L. Sample",
+          "party": "DEM"
+        },
+        {
+          "name": "Melanie Miller",
+          "party": "REP"
+        }
+      ],
+      "sources": [
+        "ashland-46day"
+      ]
+    },
+    {
+      "id": "appeals-5",
+      "group": "Ohio Court of Appeals",
+      "office": "Judge of the Court of Appeals",
+      "detail": "5th District · term commencing February 9, 2027",
+      "candidates": [
+        {
+          "name": "Matthew George",
+          "party": "REP"
+        }
+      ],
+      "sources": [
+        "ashland-46day"
+      ]
+    },
+    {
+      "id": "commissioner",
+      "group": "County offices",
+      "office": "County Commissioner",
+      "detail": "Term commencing January 1, 2027",
+      "candidates": [
+        {
+          "name": "Sandy Bally",
+          "party": "DEM"
+        },
+        {
+          "name": "Brandon Carpenter",
+          "party": "REP"
+        }
+      ],
+      "sources": [
+        "ashland-46day"
+      ]
+    },
+    {
+      "id": "auditor",
+      "group": "County offices",
+      "office": "County Auditor",
+      "detail": "Term commencing March 8, 2027",
+      "candidates": [
+        {
+          "name": "Cindy Funk",
+          "party": "REP"
+        }
+      ],
+      "sources": [
+        "ashland-candidates",
+        "ashland-46day"
+      ]
+    },
+    {
+      "id": "cp-probate-juvenile",
+      "group": "Court of Common Pleas",
+      "office": "Judge of the Court of Common Pleas, Probate/Juvenile Division",
+      "detail": "Term commencing February 9, 2027 · no party label on the ballot",
+      "candidates": [
+        {
+          "name": "Karen DeSanto Kellogg"
+        }
+      ],
+      "sources": [
+        "ashland-46day"
+      ]
+    }
+  ],
+  "issues": [
+    {
+      "id": "ashland-human-services",
+      "kind": "levy",
+      "jurisdiction": "Ashland County",
+      "title": "Tax levy (renewal): Human or social services: operating expenses of the public children services agency and the care and placement costs of children, and the operation of senior citizens' services and facilities",
+      "area": "Ashland County (all precincts)",
+      "levy": {
+        "type": "Renewal",
+        "purpose": "Human or social services: operating expenses of the public children services agency and the care and placement costs of children, and the operation of senior citizens' services and facilities.",
+        "mills": "2 mills",
+        "term": "5 years, commencing in 2026",
+        "firstDue": "2027",
+        "estimate": "$3,083,167 a year; $49 per $100,000 of market value"
+      },
+      "sources": [
+        "ashland-ballots",
+        "ashland-46day",
+        "ashland-issues"
+      ]
+    },
+    {
+      "id": "ashland-dale-roy",
+      "kind": "levy",
+      "jurisdiction": "Ashland County",
+      "title": "Tax levy (renewal and increase): Operation of Dale-Roy programs and facilities by the Ashland County Board of Developmental Disabilities (renewal of 2.1 mills and an increase of 1.0 mill)",
+      "area": "Ashland County (all precincts)",
+      "levy": {
+        "type": "Renewal and increase",
+        "purpose": "Operation of Dale-Roy programs and facilities by the Ashland County Board of Developmental Disabilities (renewal of 2.1 mills and an increase of 1.0 mill).",
+        "mills": "3.1 mills",
+        "term": "3 years, commencing in 2027",
+        "firstDue": "2028",
+        "estimate": "$4,704,229 a year; $77 per $100,000 of market value"
+      },
+      "note": "The Board's 46-day notice lists this levy as 5 years; the ballot and the Board's issues list say 3 years.",
+      "sources": [
+        "ashland-ballots",
+        "ashland-46day",
+        "ashland-issues"
+      ]
+    },
+    {
+      "id": "ashland-csd-current",
+      "kind": "levy",
+      "jurisdiction": "Ashland City School District (Ashland and Richland counties)",
+      "title": "Tax levy (renewal): Current expenses",
+      "area": "Ashland City 1-A to 4-C (precincts 1–14); Mifflin (part); Milton 1 and 3; Montgomery 1 (part), 2 (part) and 3; Orange 1 (part); Perry (part)",
+      "places": [
+        "Ashland City",
+        "Mifflin Township",
+        "Milton Township",
+        "Montgomery Township",
+        "Orange Township",
+        "Perry Township"
+      ],
+      "levy": {
+        "type": "Renewal",
+        "purpose": "Current expenses.",
+        "mills": "9.9 mills",
+        "term": "Continuing, commencing in 2027",
+        "firstDue": "2028",
+        "estimate": "$5,684,595 a year; $210 per $100,000 of market value"
+      },
+      "sources": [
+        "ashland-ballots",
+        "ashland-46day",
+        "ashland-issues"
+      ]
+    },
+    {
+      "id": "loudonville-perrysville-bond-income-tax",
+      "kind": "levy",
+      "jurisdiction": "Loudonville-Perrysville Exempted Village School District (Ashland, Knox and Richland counties)",
+      "title": "School district income tax (0.25%, 30 years) and bond issue ($16,400,000)",
+      "area": "Loudonville 1 and 2, Green 1 (part), Green 2, Lake (part)",
+      "places": [
+        "Green Township",
+        "Hanover Township",
+        "Lake Township",
+        "Loudonville Village",
+        "Perrysville Village"
+      ],
+      "levy": {
+        "type": "Income tax and bond issue",
+        "purpose": "Income tax for current expenses; bonds for constructing, renovating, repairing, expanding, furnishing and equipping school facilities and improving their sites.",
+        "mills": "2.85 mills (bond, estimated average)",
+        "term": "Income tax 30 years from January 1, 2027; bonds up to 37 years",
+        "estimate": "$16,400,000 principal; $100 for each $100,000 of market value (bond)"
+      },
+      "text": "Shall Loudonville-Perrysville Exempted Village School District be authorized to do both of the following: (1) Impose an annual income tax of 0.25% on the school district income of individuals, for a period of 30 years, beginning January 1, 2027, for the purpose of current expenses? (2) Issue bonds for the purpose of constructing school facilities, renovating, repairing, expanding, improving, and constructing additions to school facilities; furnishing and equipping; and improving the sites thereof the same in the principal amount of $16,400,000, to be repaid annually over a maximum period of 37 years, and levy a property tax outside the ten-mill limitation estimated by the county auditor to average over the bond repayment period 2.85 mills for each $1 of taxable value, which amounts to $100 for each $100,000 of the county auditor's market value, to pay the annual debt charges on the bonds, and to pay debt charges on any notes issued in anticipation of those bonds?",
+      "sources": [
+        "ashland-ballots",
+        "ashland-46day",
+        "ashland-issues"
+      ]
+    },
+    {
+      "id": "loudonville-library",
+      "kind": "levy",
+      "jurisdiction": "Loudonville Public Library (Ashland, Knox and Richland counties)",
+      "title": "Tax levy (renewal): Current expenses",
+      "area": "Loudonville 1 and 2, Green 1 (part), Green 2, Lake (part)",
+      "places": [
+        "Green Township",
+        "Hanover Township",
+        "Lake Township",
+        "Loudonville Village",
+        "Perrysville Village"
+      ],
+      "levy": {
+        "type": "Renewal",
+        "purpose": "Current expenses.",
+        "mills": "0.8 mill",
+        "term": "5 years, commencing in 2027",
+        "firstDue": "2028",
+        "estimate": "$178,719 a year; $19 per $100,000 of market value"
+      },
+      "sources": [
+        "ashland-ballots",
+        "ashland-46day",
+        "ashland-issues"
+      ]
+    },
+    {
+      "id": "northwestern-lsd-current",
+      "kind": "levy",
+      "jurisdiction": "Northwestern Local School District (Wayne and Ashland)",
+      "title": "Tax levy (renewal (fixed sum)): Current operating expenses ($456,400 a year)",
+      "area": "Jackson 2 (part), Perry (part)",
+      "places": [
+        "Jackson Township",
+        "Perry Township"
+      ],
+      "levy": {
+        "type": "Renewal (fixed sum)",
+        "purpose": "Current operating expenses ($456,400 a year).",
+        "mills": "1.8 mills (estimated average)",
+        "term": "5 years, commencing in 2026",
+        "firstDue": "2027",
+        "estimate": "$456,400 a year; $63 for each $100,000 of market value"
+      },
+      "sources": [
+        "ashland-ballots",
+        "ashland-46day",
+        "ashland-issues"
+      ]
+    },
+    {
+      "id": "wayne-jvsd",
+      "kind": "levy",
+      "jurisdiction": "Wayne County Joint Vocational School District (Wayne, Ashland, Holmes, Medina and Stark)",
+      "title": "Tax levy (renewal): General permanent improvements",
+      "area": "Jackson 2 (part), Perry (part)",
+      "places": [
+        "Jackson Township",
+        "Perry Township"
+      ],
+      "levy": {
+        "type": "Renewal",
+        "purpose": "General permanent improvements.",
+        "mills": "0.5 mill",
+        "term": "5 years, commencing in 2027",
+        "firstDue": "2028",
+        "estimate": "$1,480,860 a year; $11 for each $100,000 of market value"
+      },
+      "sources": [
+        "ashland-ballots",
+        "ashland-46day",
+        "ashland-issues"
+      ]
+    },
+    {
+      "id": "clear-creek-fire",
+      "kind": "levy",
+      "jurisdiction": "Clear Creek Fire District",
+      "title": "Tax levy (additional): Fire protection and emergency medical services",
+      "area": "Clear Creek precinct (all splits)",
+      "places": [
+        "Bailey Lakes Village",
+        "Clear Creek Township",
+        "Savannah Village"
+      ],
+      "levy": {
+        "type": "Additional",
+        "purpose": "Fire protection and emergency medical services.",
+        "mills": "4 mills",
+        "term": "5 years, commencing in 2027",
+        "firstDue": "2028",
+        "estimate": "$265,119 a year; $140 per $100,000 of market value"
+      },
+      "sources": [
+        "ashland-ballots",
+        "ashland-46day",
+        "ashland-issues"
+      ]
+    },
+    {
+      "id": "green-perrysville-fire-2mill",
+      "kind": "levy",
+      "jurisdiction": "Green-Perrysville Joint Fire District",
+      "title": "Tax levy (renewal): Fire protection and emergency medical services",
+      "area": "Green 1 and Green 2 precincts",
+      "places": [
+        "Green Township",
+        "Perrysville Village"
+      ],
+      "levy": {
+        "type": "Renewal",
+        "purpose": "Fire protection and emergency medical services.",
+        "mills": "2 mills",
+        "term": "5 years, commencing in 2027",
+        "firstDue": "2028",
+        "estimate": "$180,807 a year; $41 per $100,000 of market value"
+      },
+      "sources": [
+        "ashland-ballots",
+        "ashland-46day",
+        "ashland-issues"
+      ]
+    },
+    {
+      "id": "green-perrysville-fire-1mill",
+      "kind": "levy",
+      "jurisdiction": "Green-Perrysville Joint Fire District",
+      "title": "Tax levy (renewal): Fire protection and emergency medical services",
+      "area": "Green 1 and Green 2 precincts",
+      "places": [
+        "Green Township",
+        "Perrysville Village"
+      ],
+      "levy": {
+        "type": "Renewal",
+        "purpose": "Fire protection and emergency medical services.",
+        "mills": "1 mill",
+        "term": "5 years, commencing in 2027",
+        "firstDue": "2028",
+        "estimate": "$97,274 a year; $23 per $100,000 of market value"
+      },
+      "sources": [
+        "ashland-ballots",
+        "ashland-46day",
+        "ashland-issues"
+      ]
+    },
+    {
+      "id": "firelands-ambulance",
+      "kind": "levy",
+      "jurisdiction": "Firelands Ambulance Service District (Huron and Ashland)",
+      "title": "Tax levy (renewal): Ambulance service, emergency medical service, or both",
+      "area": "Firelands Ambulance Service District, Ashland County part (Ruggles and Troy precincts)",
+      "places": [
+        "Ruggles Township",
+        "Troy Township"
+      ],
+      "levy": {
+        "type": "Renewal",
+        "purpose": "Ambulance service, emergency medical service, or both.",
+        "mills": "1 mill",
+        "term": "5 years, commencing in 2026",
+        "firstDue": "2027",
+        "estimate": "$134,120 a year; $24 per $100,000 of market value"
+      },
+      "note": "Not listed in the Board's 46-day notice; it is on the Board's issues list and on the Ruggles and Troy sample ballots.",
+      "sources": [
+        "ashland-ballots",
+        "ashland-issues"
+      ]
+    },
+    {
+      "id": "green-twp-cemetery",
+      "kind": "levy",
+      "jurisdiction": "Green Township",
+      "title": "Tax levy (renewal): Maintaining and operating Greenlawn Union Cemetery",
+      "area": "Green 1 and Green 2 precincts",
+      "places": [
+        "Green Township",
+        "Perrysville Village"
+      ],
+      "levy": {
+        "type": "Renewal",
+        "purpose": "Maintaining and operating Greenlawn Union Cemetery.",
+        "mills": "0.2 mill",
+        "term": "5 years, commencing in 2027",
+        "firstDue": "2028",
+        "estimate": "$15,322 a year; $2 per $100,000 of market value"
+      },
+      "sources": [
+        "ashland-ballots",
+        "ashland-46day",
+        "ashland-issues"
+      ]
+    },
+    {
+      "id": "lake-twp-roads",
+      "kind": "levy",
+      "jurisdiction": "Lake Township",
+      "title": "Tax levy (renewal): General construction, reconstruction, resurfacing and repair of streets, roads and bridges",
+      "area": "Lake precinct (all splits)",
+      "places": [
+        "Lake Township"
+      ],
+      "levy": {
+        "type": "Renewal",
+        "purpose": "General construction, reconstruction, resurfacing and repair of streets, roads and bridges.",
+        "mills": "1.5 mills",
+        "term": "5 years, commencing in 2027",
+        "firstDue": "2028",
+        "estimate": "$21,000 a year; $24 per $100,000 of market value"
+      },
+      "sources": [
+        "ashland-ballots",
+        "ashland-46day",
+        "ashland-issues"
+      ]
+    },
+    {
+      "id": "troy-twp-cemeteries",
+      "kind": "levy",
+      "jurisdiction": "Troy Township",
+      "title": "Tax levy (renewal): Maintaining and operating cemeteries",
+      "area": "Troy precinct",
+      "places": [
+        "Troy Township"
+      ],
+      "levy": {
+        "type": "Renewal",
+        "purpose": "Maintaining and operating cemeteries.",
+        "mills": "0.5 mill",
+        "term": "5 years, commencing in 2027",
+        "firstDue": "2028",
+        "estimate": "$14,590 a year; $11 per $100,000 of market value"
+      },
+      "sources": [
+        "ashland-ballots",
+        "ashland-46day",
+        "ashland-issues"
+      ]
+    },
+    {
+      "id": "liquor-loudonville-trails-end",
+      "kind": "liquor",
+      "jurisdiction": "Village of Loudonville",
+      "title": "Local liquor option: Trails End Pizza Company (Sunday)",
+      "area": "Loudonville precinct 2",
+      "places": [
+        "Loudonville Village"
+      ],
+      "text": "Shall the sale of wine and mixed beverages, and spirituous liquor be permitted for sale on Sunday by Trails End Pizza Company, Ltd, an applicant for a D-6 liquor permit who is engaged in the business of operating a restaurant at 3052 and 3052C State Route 3, Loudonville, OH 44842, in this precinct?",
+      "sources": [
+        "ashland-ballots",
+        "ashland-46day",
+        "ashland-issues"
+      ]
+    }
+  ]
+}
