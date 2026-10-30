@@ -1,0 +1,759 @@
+{
+  "scope": "county",
+  "county": "Butler",
+  "fips": "39017",
+  "election": "2026-11-03",
+  "retrieved": "2026-10-30",
+  "notes": [
+    "Taken from the Board of Elections' 46-day election notice and its candidate and issue lists. The notice gives each issue's type, millage or rate and term only; the full wording is on the sample ballot.",
+    "Candidates are listed alphabetically by last name, not in ballot order: Ohio rotates the order of names from precinct to precinct. Certified write-in candidates are not printed on the ballot and are not listed.",
+    "\"Where you live\" uses the state voter file: a district or school levy is shown for a city, village or township when any of its voters live in that district. Your exact ballot depends on your precinct.",
+    "Sharonville and Monroe lie partly in Hamilton and Warren counties; College Corner lies mostly in Preble County. Only the Butler County parts vote on this Board's ballot."
+  ],
+  "places": [
+    "College Corner Village",
+    "Fairfield City",
+    "Fairfield Township",
+    "Hamilton City",
+    "Hanover Township",
+    "Jacksonburg Village",
+    "Lemon Township",
+    "Liberty Township",
+    "Madison Township",
+    "Middletown City",
+    "Milford Township",
+    "Millville Village",
+    "Monroe City",
+    "Morgan Township",
+    "New Miami Village",
+    "Oxford City",
+    "Oxford Township",
+    "Reily Township",
+    "Ross Township",
+    "Seven Mile Village",
+    "Sharonville City",
+    "St. Clair Township",
+    "Trenton City",
+    "Wayne Township",
+    "West Chester Township"
+  ],
+  "sources": {
+    "butler-46day": {
+      "label": "Butler County Board of Elections: 46-day FWAB election notice, November 3, 2026 General Election (updated 10/02/2026)",
+      "url": "https://cms2.revize.com/revize/butlercountyboe/2026/November/FWAB%2046%20day.pdf"
+    },
+    "butler-cand": {
+      "label": "Butler County Board of Elections: Candidate & Petition Activity report, November 3, 2026 General Election",
+      "url": "https://elections.bcohio.gov/2026/November/PetitionActivityReport.pdf"
+    },
+    "butler-issues": {
+      "label": "Butler County Board of Elections: November ballot issue list (Issues & Local Options), November 3, 2026 General Election",
+      "url": "https://elections.bcohio.gov/2026/November/NovemberBallotList.pdf"
+    }
+  },
+  "links": [
+    {
+      "label": "Board of Elections",
+      "url": "https://elections.bcohio.gov/"
+    },
+    {
+      "label": "Sample ballot lookup",
+      "url": "https://electionlink.bcohio.gov/TEDElectionLink/VoterServices/voter/el-sample-ballot"
+    }
+  ],
+  "results": {
+    "status": "upcoming",
+    "links": [
+      {
+        "label": "Board of Elections: live results",
+        "url": "https://liveresults.boe.ohio.gov/widgets/butleroh/2026-11-03/index.html"
+      }
+    ]
+  },
+  "contests": [
+    {
+      "id": "congress-8",
+      "group": "U.S. House",
+      "office": "Representative to Congress",
+      "detail": "8th District (Hamilton, Butler (part), Preble, Darke and Miami (part) counties)",
+      "area": "College Corner Village, Fairfield City, Fairfield Township, Hamilton City, Hanover Township, Jacksonburg Village, Lemon Township, Liberty Township, Milford Township, Millville Village, Monroe City, Morgan Township, New Miami Village, Oxford City, Oxford Township, Reily Township, Ross Township, Seven Mile Village, Sharonville City, St. Clair Township, Wayne Township, West Chester Township",
+      "places": [
+        "College Corner Village",
+        "Fairfield City",
+        "Fairfield Township",
+        "Hamilton City",
+        "Hanover Township",
+        "Jacksonburg Village",
+        "Lemon Township",
+        "Liberty Township",
+        "Milford Township",
+        "Millville Village",
+        "Monroe City",
+        "Morgan Township",
+        "New Miami Village",
+        "Oxford City",
+        "Oxford Township",
+        "Reily Township",
+        "Ross Township",
+        "Seven Mile Village",
+        "Sharonville City",
+        "St. Clair Township",
+        "Wayne Township",
+        "West Chester Township"
+      ],
+      "candidates": [
+        {
+          "name": "Warren Davidson",
+          "party": "REP"
+        },
+        {
+          "name": "Vanessa Enoch",
+          "party": "DEM"
+        }
+      ],
+      "sources": [
+        "butler-46day",
+        "butler-cand"
+      ]
+    },
+    {
+      "id": "congress-10",
+      "group": "U.S. House",
+      "office": "Representative to Congress",
+      "detail": "10th District (Montgomery, Butler (part) and Greene counties)",
+      "area": "Lemon Township, Madison Township, Middletown City, Monroe City, St. Clair Township, Trenton City",
+      "places": [
+        "Lemon Township",
+        "Madison Township",
+        "Middletown City",
+        "Monroe City",
+        "St. Clair Township",
+        "Trenton City"
+      ],
+      "candidates": [
+        {
+          "name": "Kristina Knickerbocker",
+          "party": "DEM"
+        },
+        {
+          "name": "Thomas F. McMasters",
+          "party": "LIB"
+        },
+        {
+          "name": "Mike Turner",
+          "party": "REP"
+        }
+      ],
+      "sources": [
+        "butler-46day",
+        "butler-cand"
+      ]
+    },
+    {
+      "id": "senate-5",
+      "group": "Ohio General Assembly",
+      "office": "State Senator",
+      "detail": "5th District",
+      "area": "Jacksonburg Village, Madison Township, Milford Township, Seven Mile Village, St. Clair Township, Trenton City, Wayne Township",
+      "places": [
+        "Jacksonburg Village",
+        "Madison Township",
+        "Milford Township",
+        "Seven Mile Village",
+        "St. Clair Township",
+        "Trenton City",
+        "Wayne Township"
+      ],
+      "candidates": [
+        {
+          "name": "Jeffrey Harris",
+          "party": "DEM"
+        },
+        {
+          "name": "Phil Plummer",
+          "party": "REP"
+        }
+      ],
+      "sources": [
+        "butler-46day",
+        "butler-cand"
+      ]
+    },
+    {
+      "id": "rep-40",
+      "group": "Ohio General Assembly",
+      "office": "State Representative",
+      "detail": "40th District",
+      "area": "Jacksonburg Village, Madison Township, Milford Township, Seven Mile Village, St. Clair Township, Trenton City, Wayne Township",
+      "places": [
+        "Jacksonburg Village",
+        "Madison Township",
+        "Milford Township",
+        "Seven Mile Village",
+        "St. Clair Township",
+        "Trenton City",
+        "Wayne Township"
+      ],
+      "candidates": [
+        {
+          "name": "Rodney Creech",
+          "party": "REP"
+        },
+        {
+          "name": "Timothy B. Hornbacker",
+          "party": "DEM"
+        },
+        {
+          "name": "Joshua A. Umbaugh",
+          "party": "LIB"
+        }
+      ],
+      "sources": [
+        "butler-46day",
+        "butler-cand"
+      ]
+    },
+    {
+      "id": "rep-45",
+      "group": "Ohio General Assembly",
+      "office": "State Representative",
+      "detail": "45th District",
+      "area": "Fairfield City, Fairfield Township, Hanover Township, Morgan Township, Ross Township, Sharonville City, West Chester Township",
+      "places": [
+        "Fairfield City",
+        "Fairfield Township",
+        "Hanover Township",
+        "Morgan Township",
+        "Ross Township",
+        "Sharonville City",
+        "West Chester Township"
+      ],
+      "candidates": [
+        {
+          "name": "Jennifer Gross",
+          "party": "REP"
+        },
+        {
+          "name": "Jayson Ameer Rasheed",
+          "party": "DEM"
+        }
+      ],
+      "sources": [
+        "butler-46day",
+        "butler-cand"
+      ]
+    },
+    {
+      "id": "rep-46",
+      "group": "Ohio General Assembly",
+      "office": "State Representative",
+      "detail": "46th District",
+      "area": "Lemon Township, Liberty Township, Madison Township, Middletown City, Monroe City, New Miami Village, St. Clair Township",
+      "places": [
+        "Lemon Township",
+        "Liberty Township",
+        "Madison Township",
+        "Middletown City",
+        "Monroe City",
+        "New Miami Village",
+        "St. Clair Township"
+      ],
+      "candidates": [
+        {
+          "name": "Thomas Hall",
+          "party": "REP"
+        },
+        {
+          "name": "Benjamin McCall",
+          "party": "DEM"
+        }
+      ],
+      "sources": [
+        "butler-46day",
+        "butler-cand"
+      ]
+    },
+    {
+      "id": "rep-47",
+      "group": "Ohio General Assembly",
+      "office": "State Representative",
+      "detail": "47th District",
+      "area": "College Corner Village, Fairfield Township, Hamilton City, Hanover Township, Millville Village, Oxford City, Oxford Township, Reily Township, Ross Township, St. Clair Township",
+      "places": [
+        "College Corner Village",
+        "Fairfield Township",
+        "Hamilton City",
+        "Hanover Township",
+        "Millville Village",
+        "Oxford City",
+        "Oxford Township",
+        "Reily Township",
+        "Ross Township",
+        "St. Clair Township"
+      ],
+      "candidates": [
+        {
+          "name": "Jordan Haire",
+          "party": "DEM"
+        },
+        {
+          "name": "Diane Mullins",
+          "party": "REP"
+        },
+        {
+          "name": "Jason Purviance",
+          "party": "LIB"
+        }
+      ],
+      "sources": [
+        "butler-46day",
+        "butler-cand"
+      ]
+    },
+    {
+      "id": "appeals-12-0101",
+      "group": "Ohio Court of Appeals",
+      "office": "Judge of the Court of Appeals",
+      "detail": "12th District (Butler, Brown, Clermont, Clinton, Fayette, Madison, Preble and Warren counties) · full term commencing January 1, 2027",
+      "candidates": [
+        {
+          "name": "Matthew Byrne",
+          "party": "REP",
+          "note": "Withdrew September 16, 2026; his name may still appear on the ballot, but votes for him will not count"
+        },
+        {
+          "name": "Willa Concannon",
+          "party": "Write-in"
+        }
+      ],
+      "sources": [
+        "butler-46day",
+        "butler-cand"
+      ]
+    },
+    {
+      "id": "appeals-12-0209",
+      "group": "Ohio Court of Appeals",
+      "office": "Judge of the Court of Appeals",
+      "detail": "12th District (Butler, Brown, Clermont, Clinton, Fayette, Madison, Preble and Warren counties) · full term commencing February 9, 2027",
+      "candidates": [
+        {
+          "name": "Robert A. Hendrickson",
+          "party": "REP"
+        }
+      ],
+      "sources": [
+        "butler-46day",
+        "butler-cand"
+      ]
+    },
+    {
+      "id": "commissioner",
+      "group": "County offices",
+      "office": "County Commissioner",
+      "candidates": [
+        {
+          "name": "Mike Miller",
+          "party": "DEM"
+        },
+        {
+          "name": "Michael V. Ryan",
+          "party": "REP"
+        }
+      ],
+      "sources": [
+        "butler-46day",
+        "butler-cand"
+      ]
+    },
+    {
+      "id": "auditor",
+      "group": "County offices",
+      "office": "County Auditor",
+      "candidates": [
+        {
+          "name": "Amy Hines",
+          "party": "DEM"
+        },
+        {
+          "name": "Nancy Nix",
+          "party": "REP"
+        }
+      ],
+      "sources": [
+        "butler-46day",
+        "butler-cand"
+      ]
+    },
+    {
+      "id": "cp-gen-0101",
+      "group": "Court of Common Pleas",
+      "office": "Judge of the Court of Common Pleas, General Division",
+      "detail": "Full term commencing January 1, 2027 · no party label on the ballot",
+      "candidates": [
+        {
+          "name": "Jennifer McElfresh"
+        }
+      ],
+      "sources": [
+        "butler-46day",
+        "butler-cand"
+      ]
+    },
+    {
+      "id": "cp-gen-0103",
+      "group": "Court of Common Pleas",
+      "office": "Judge of the Court of Common Pleas, General Division",
+      "detail": "Full term commencing January 3, 2027 · no party label on the ballot",
+      "candidates": [
+        {
+          "name": "Daniel Haughey"
+        }
+      ],
+      "sources": [
+        "butler-46day",
+        "butler-cand"
+      ]
+    },
+    {
+      "id": "cp-gen-0209",
+      "group": "Court of Common Pleas",
+      "office": "Judge of the Court of Common Pleas, General Division",
+      "detail": "Full term commencing February 9, 2027 · no party label on the ballot",
+      "candidates": [
+        {
+          "name": "Michael A. Oster, Jr."
+        }
+      ],
+      "sources": [
+        "butler-46day",
+        "butler-cand"
+      ]
+    },
+    {
+      "id": "cp-juv",
+      "group": "Court of Common Pleas",
+      "office": "Judge of the Court of Common Pleas, Juvenile Division",
+      "detail": "Full term commencing January 2, 2027 · no party label on the ballot",
+      "candidates": [
+        {
+          "name": "Erik D. Niehaus"
+        }
+      ],
+      "sources": [
+        "butler-46day",
+        "butler-cand"
+      ]
+    },
+    {
+      "id": "cp-probate",
+      "group": "Court of Common Pleas",
+      "office": "Judge of the Court of Common Pleas, Probate Division",
+      "detail": "Full term commencing February 9, 2027 · no party label on the ballot",
+      "candidates": [
+        {
+          "name": "John M. Holcomb"
+        }
+      ],
+      "sources": [
+        "butler-46day",
+        "butler-cand"
+      ]
+    }
+  ],
+  "issues": [
+    {
+      "id": "issue-1",
+      "kind": "question",
+      "jurisdiction": "Fairfield City School District",
+      "title": "School district income tax: 1.25% for 5 years, for current expenses",
+      "area": "Fairfield City School District",
+      "places": [
+        "Fairfield City",
+        "Fairfield Township"
+      ],
+      "number": "Issue 1",
+      "text": "Income tax on earnings, 1.25%, 5 years, for current expenses.",
+      "sources": [
+        "butler-46day",
+        "butler-issues"
+      ]
+    },
+    {
+      "id": "issue-2",
+      "kind": "levy",
+      "jurisdiction": "Lakota Local School District",
+      "title": "Bond issue: $223,483,492 for school facilities",
+      "area": "Lakota Local School District",
+      "places": [
+        "Liberty Township",
+        "Monroe City",
+        "Sharonville City",
+        "West Chester Township"
+      ],
+      "number": "Issue 2",
+      "levy": {
+        "type": "Bond issue",
+        "purpose": "School facilities.",
+        "term": "37 years",
+        "estimate": "$223,483,492 principal"
+      },
+      "sources": [
+        "butler-46day",
+        "butler-issues"
+      ]
+    },
+    {
+      "id": "issue-4",
+      "kind": "question",
+      "jurisdiction": "Northwest Local School District (Hamilton and Butler)",
+      "title": "School district income tax: 1.5%, continuing, for current expenses",
+      "area": "Northwest Local School District (Hamilton and Butler)",
+      "places": [
+        "Fairfield Township"
+      ],
+      "number": "Issue 4",
+      "text": "Income tax on earnings, 1.5%, for a continuing period of time, for current expenses. Filed with the Hamilton County Board of Elections.",
+      "sources": [
+        "butler-46day",
+        "butler-issues"
+      ]
+    },
+    {
+      "id": "issue-5",
+      "kind": "question",
+      "jurisdiction": "Southwest Local School District (Hamilton and Butler)",
+      "title": "School district income tax: 0.25%, continuing, for current expenses",
+      "area": "Southwest Local School District (Hamilton and Butler)",
+      "places": [
+        "Morgan Township"
+      ],
+      "number": "Issue 5",
+      "text": "Income tax on earnings, 0.25%, for a continuing period of time, for current expenses. Filed with the Hamilton County Board of Elections.",
+      "sources": [
+        "butler-46day",
+        "butler-issues"
+      ]
+    },
+    {
+      "id": "issue-6",
+      "kind": "levy",
+      "jurisdiction": "Butler County",
+      "title": "Tax levy (renewal): Mental health",
+      "area": "Butler County",
+      "levy": {
+        "type": "Renewal",
+        "purpose": "Mental health.",
+        "mills": "1 mill",
+        "term": "10 years"
+      },
+      "number": "Issue 6",
+      "sources": [
+        "butler-46day",
+        "butler-issues"
+      ]
+    },
+    {
+      "id": "issue-7",
+      "kind": "question",
+      "jurisdiction": "City of Oxford",
+      "title": "Charter amendments: Sections 2.12, 3.05, 4.01, 4.02(7), 9.07 and 10.01",
+      "area": "City of Oxford",
+      "places": [
+        "Oxford City"
+      ],
+      "number": "Issue 7",
+      "sources": [
+        "butler-46day",
+        "butler-issues"
+      ]
+    },
+    {
+      "id": "issue-8",
+      "kind": "question",
+      "jurisdiction": "City of Oxford",
+      "title": "Charter amendment: Section 2.11(4)",
+      "area": "City of Oxford",
+      "places": [
+        "Oxford City"
+      ],
+      "number": "Issue 8",
+      "sources": [
+        "butler-46day",
+        "butler-issues"
+      ]
+    },
+    {
+      "id": "issue-9",
+      "kind": "levy",
+      "jurisdiction": "Village of College Corner (Preble and Butler)",
+      "title": "Tax levy (renewal): Fire",
+      "area": "Village of College Corner (Preble and Butler)",
+      "places": [
+        "College Corner Village"
+      ],
+      "levy": {
+        "type": "Renewal",
+        "purpose": "Fire.",
+        "mills": "5.2 mills",
+        "term": "5 years"
+      },
+      "number": "Issue 9",
+      "note": "Filed with the Preble County Board of Elections.",
+      "sources": [
+        "butler-46day",
+        "butler-issues"
+      ]
+    },
+    {
+      "id": "issue-10",
+      "kind": "levy",
+      "jurisdiction": "Village of New Miami",
+      "title": "Tax levy (additional): Police",
+      "area": "Village of New Miami",
+      "places": [
+        "New Miami Village"
+      ],
+      "levy": {
+        "type": "Additional",
+        "purpose": "Police.",
+        "mills": "5 mills",
+        "term": "5 years"
+      },
+      "number": "Issue 10",
+      "sources": [
+        "butler-46day",
+        "butler-issues"
+      ]
+    },
+    {
+      "id": "issue-11",
+      "kind": "levy",
+      "jurisdiction": "Village of New Miami",
+      "title": "Tax levy (additional): Fire",
+      "area": "Village of New Miami",
+      "places": [
+        "New Miami Village"
+      ],
+      "levy": {
+        "type": "Additional",
+        "purpose": "Fire.",
+        "mills": "3 mills",
+        "term": "Continuing"
+      },
+      "number": "Issue 11",
+      "sources": [
+        "butler-46day",
+        "butler-issues"
+      ]
+    },
+    {
+      "id": "issue-12",
+      "kind": "levy",
+      "jurisdiction": "Fairfield Township Police District",
+      "title": "Tax levy (additional): Police",
+      "area": "Fairfield Township Police District",
+      "places": [
+        "Fairfield Township"
+      ],
+      "levy": {
+        "type": "Additional",
+        "purpose": "Police.",
+        "mills": "2.99 mills",
+        "term": "Continuing"
+      },
+      "number": "Issue 12",
+      "sources": [
+        "butler-46day",
+        "butler-issues"
+      ]
+    },
+    {
+      "id": "issue-13",
+      "kind": "levy",
+      "jurisdiction": "Hanover Township Fire District",
+      "title": "Tax levy (additional): Fire",
+      "area": "Hanover Township Fire District",
+      "places": [
+        "Hanover Township"
+      ],
+      "levy": {
+        "type": "Additional",
+        "purpose": "Fire.",
+        "mills": "3.5 mills",
+        "term": "5 years"
+      },
+      "number": "Issue 13",
+      "sources": [
+        "butler-46day",
+        "butler-issues"
+      ]
+    },
+    {
+      "id": "issue-14",
+      "kind": "levy",
+      "jurisdiction": "Madison Township Fire District",
+      "title": "Tax levy (renewal): Fire and EMS",
+      "area": "Madison Township Fire District",
+      "places": [
+        "Madison Township"
+      ],
+      "levy": {
+        "type": "Renewal",
+        "purpose": "Fire and EMS.",
+        "mills": "3 mills",
+        "term": "5 years"
+      },
+      "number": "Issue 14",
+      "sources": [
+        "butler-46day",
+        "butler-issues"
+      ]
+    },
+    {
+      "id": "issue-15",
+      "kind": "liquor",
+      "jurisdiction": "City of Middletown",
+      "title": "Local liquor option: Broken Barrel Bar & Grill (Sunday sales)",
+      "area": "Middletown City precinct MIDD2WD3",
+      "places": [
+        "Middletown City"
+      ],
+      "number": "Issue 15",
+      "sources": [
+        "butler-46day",
+        "butler-issues"
+      ]
+    },
+    {
+      "id": "issue-16",
+      "kind": "liquor",
+      "jurisdiction": "West Chester Township",
+      "title": "Local liquor option: Wawa 7229 (Sunday sales)",
+      "area": "West Chester Township precinct WC39",
+      "places": [
+        "West Chester Township"
+      ],
+      "number": "Issue 16",
+      "sources": [
+        "butler-46day",
+        "butler-issues"
+      ]
+    },
+    {
+      "id": "issue-17",
+      "kind": "question",
+      "jurisdiction": "City of Trenton",
+      "title": "Charter amendment: Article IX, Section 9.06, \"Prohibition of Construction of a Data Center\"",
+      "area": "City of Trenton",
+      "places": [
+        "Trenton City"
+      ],
+      "number": "Issue 17",
+      "sources": [
+        "butler-46day",
+        "butler-issues"
+      ]
+    }
+  ]
+}

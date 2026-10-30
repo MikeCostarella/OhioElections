@@ -1,0 +1,1731 @@
+{
+  "scope": "county",
+  "county": "Franklin",
+  "fips": "39049",
+  "election": "2026-11-03",
+  "retrieved": "2026-10-30",
+  "notes": [
+    "Taken from the Board of Elections' 46-day election notice, which lists every contest and issue with the precincts that vote on it, with candidates' parties from the Board's candidate list and issue details from its certified questions and issues list and individual notices of election. Long charter amendments are condensed; the full wording is on the sample ballot and in the full-text documents on the Board's 2026 page.",
+    "Candidates are listed alphabetically by last name, not in ballot order: Ohio rotates the order of names from precinct to precinct. Certified write-in candidates are not printed on the ballot and are not listed.",
+    "\"Where you live\" uses the state voter file: a district or school levy is shown for a city, village or township when any of its voters live in that district. Your exact ballot depends on your precinct.",
+    "Franklin County's voter file has no school districts, so school and library issues are placed using the precincts the Board's 46-day notice lists for each issue."
+  ],
+  "places": [
+    "Bexley City",
+    "Blendon Township",
+    "Brice Village",
+    "Brown Township",
+    "Canal Winchester City",
+    "Clinton Township",
+    "Columbus City",
+    "Dublin City",
+    "Franklin Township",
+    "Gahanna City",
+    "Grandview Heights City",
+    "Grove City",
+    "Groveport City",
+    "Hamilton Township",
+    "Harrisburg Village",
+    "Hilliard City",
+    "Jackson Township",
+    "Jefferson Township",
+    "Lithopolis Village",
+    "Lockbourne Village",
+    "Madison Township",
+    "Marble Cliff Village",
+    "Mifflin Township",
+    "Minerva Park Village",
+    "New Albany City",
+    "Norwich Township",
+    "Obetz City",
+    "Perry Township",
+    "Pickerington City",
+    "Plain Township",
+    "Pleasant Township",
+    "Prairie Township",
+    "Reynoldsburg City",
+    "Riverlea Village",
+    "Sharon Township",
+    "Truro Township",
+    "Upper Arlington City",
+    "Urbancrest Village",
+    "Valley View Village",
+    "Washington Township",
+    "Westerville City",
+    "Whitehall City",
+    "Worthington City"
+  ],
+  "sources": {
+    "franklin-46day": {
+      "label": "Franklin County Board of Elections: 46-day election notice (FWAB), November 3, 2026 General Election",
+      "url": "https://vote.franklincountyohio.gov/getmedia/352b644d-b348-447e-b60d-aa9b9193a297/2026-General-Form-No-120-FWAB-Notice-46-Day"
+    },
+    "franklin-cand": {
+      "label": "Franklin County Board of Elections: 2026 General Election candidates (revised October 16, 2026)",
+      "url": "https://vote.franklincountyohio.gov/getmedia/e0a4ca45-6893-45c1-8190-87696f8804b4/2026-General-Candidate-List-5"
+    },
+    "franklin-issues": {
+      "label": "Franklin County Board of Elections: certified questions and issues, November 3, 2026 General Election (revised 9/4/2026)",
+      "url": "https://vote.franklincountyohio.gov/getmedia/4001b052-1b90-4f73-b030-2d981e6ec8fa/2026-General-Certified-Questions-and-Issues"
+    }
+  },
+  "links": [
+    {
+      "label": "Board of Elections",
+      "url": "https://vote.franklincountyohio.gov/"
+    },
+    {
+      "label": "2026 election information and notices",
+      "url": "https://vote.franklincountyohio.gov/election-info/2026"
+    },
+    {
+      "label": "Sample ballot",
+      "url": "https://vote.franklincountyohio.gov/voters/sample-ballot"
+    }
+  ],
+  "results": {
+    "status": "upcoming",
+    "links": [
+      {
+        "label": "Board of Elections: 2026 election information and results",
+        "url": "https://vote.franklincountyohio.gov/election-info/2026"
+      }
+    ]
+  },
+  "contests": [
+    {
+      "id": "congress-3",
+      "group": "U.S. House",
+      "office": "Representative to Congress",
+      "detail": "3rd District",
+      "area": "Bexley City, Blendon Township, Clinton Township, Columbus City, Gahanna City, Grandview Heights City, Jefferson Township, Marble Cliff Village, Mifflin Township, Minerva Park Village, New Albany City, Perry Township, Plain Township, Reynoldsburg City, Riverlea Village, Sharon Township, Truro Township, Upper Arlington City, Westerville City, Whitehall City, Worthington City",
+      "places": [
+        "Bexley City",
+        "Blendon Township",
+        "Clinton Township",
+        "Columbus City",
+        "Gahanna City",
+        "Grandview Heights City",
+        "Jefferson Township",
+        "Marble Cliff Village",
+        "Mifflin Township",
+        "Minerva Park Village",
+        "New Albany City",
+        "Perry Township",
+        "Plain Township",
+        "Reynoldsburg City",
+        "Riverlea Village",
+        "Sharon Township",
+        "Truro Township",
+        "Upper Arlington City",
+        "Westerville City",
+        "Whitehall City",
+        "Worthington City"
+      ],
+      "candidates": [
+        {
+          "name": "Joyce Beatty",
+          "party": "DEM"
+        },
+        {
+          "name": "Cleophus Dulaney",
+          "party": "REP"
+        }
+      ],
+      "sources": [
+        "franklin-46day",
+        "franklin-cand"
+      ]
+    },
+    {
+      "id": "congress-15",
+      "group": "U.S. House",
+      "office": "Representative to Congress",
+      "detail": "15th District",
+      "area": "Brice Village, Brown Township, Canal Winchester City, Columbus City, Dublin City, Franklin Township, Grove City, Groveport City, Hamilton Township, Harrisburg Village, Hilliard City, Jackson Township, Lithopolis Village, Lockbourne Village, Madison Township, Norwich Township, Obetz City, Perry Township, Pickerington City, Pleasant Township, Prairie Township, Truro Township, Urbancrest Village, Valley View Village, Washington Township",
+      "places": [
+        "Brice Village",
+        "Brown Township",
+        "Canal Winchester City",
+        "Columbus City",
+        "Dublin City",
+        "Franklin Township",
+        "Grove City",
+        "Groveport City",
+        "Hamilton Township",
+        "Harrisburg Village",
+        "Hilliard City",
+        "Jackson Township",
+        "Lithopolis Village",
+        "Lockbourne Village",
+        "Madison Township",
+        "Norwich Township",
+        "Obetz City",
+        "Perry Township",
+        "Pickerington City",
+        "Pleasant Township",
+        "Prairie Township",
+        "Truro Township",
+        "Urbancrest Village",
+        "Valley View Village",
+        "Washington Township"
+      ],
+      "candidates": [
+        {
+          "name": "Brennan Barrington",
+          "party": "LIB"
+        },
+        {
+          "name": "Mike Carey",
+          "party": "REP"
+        },
+        {
+          "name": "Don Leonard",
+          "party": "DEM"
+        }
+      ],
+      "sources": [
+        "franklin-46day",
+        "franklin-cand"
+      ]
+    },
+    {
+      "id": "senate-3",
+      "group": "Ohio General Assembly",
+      "office": "State Senator",
+      "detail": "3rd District",
+      "area": "Canal Winchester City, Columbus City, Franklin Township, Grove City, Groveport City, Hamilton Township, Harrisburg Village, Jackson Township, Jefferson Township, Lithopolis Village, Lockbourne Village, Madison Township, Obetz City, Pickerington City, Pleasant Township, Prairie Township, Reynoldsburg City, Truro Township, Urbancrest Village",
+      "places": [
+        "Canal Winchester City",
+        "Columbus City",
+        "Franklin Township",
+        "Grove City",
+        "Groveport City",
+        "Hamilton Township",
+        "Harrisburg Village",
+        "Jackson Township",
+        "Jefferson Township",
+        "Lithopolis Village",
+        "Lockbourne Village",
+        "Madison Township",
+        "Obetz City",
+        "Pickerington City",
+        "Pleasant Township",
+        "Prairie Township",
+        "Reynoldsburg City",
+        "Truro Township",
+        "Urbancrest Village"
+      ],
+      "candidates": [
+        {
+          "name": "Stacie A. Baker",
+          "party": "DEM"
+        },
+        {
+          "name": "Michele Reynolds",
+          "party": "REP"
+        }
+      ],
+      "sources": [
+        "franklin-46day",
+        "franklin-cand"
+      ]
+    },
+    {
+      "id": "senate-15",
+      "group": "Ohio General Assembly",
+      "office": "State Senator",
+      "detail": "15th District",
+      "area": "Bexley City, Brice Village, Clinton Township, Columbus City, Gahanna City, Jefferson Township, Mifflin Township, Truro Township, Whitehall City",
+      "places": [
+        "Bexley City",
+        "Brice Village",
+        "Clinton Township",
+        "Columbus City",
+        "Gahanna City",
+        "Jefferson Township",
+        "Mifflin Township",
+        "Truro Township",
+        "Whitehall City"
+      ],
+      "candidates": [
+        {
+          "name": "Joseph Healy",
+          "party": "REP"
+        },
+        {
+          "name": "Latyna M. Humphrey",
+          "party": "DEM"
+        }
+      ],
+      "sources": [
+        "franklin-46day",
+        "franklin-cand"
+      ]
+    },
+    {
+      "id": "senate-25",
+      "group": "Ohio General Assembly",
+      "office": "State Senator",
+      "detail": "25th District",
+      "area": "Blendon Township, Clinton Township, Columbus City, Franklin Township, Grandview Heights City, Marble Cliff Village, Minerva Park Village, Norwich Township, Perry Township, Plain Township, Prairie Township, Sharon Township, Upper Arlington City, Valley View Village",
+      "places": [
+        "Blendon Township",
+        "Clinton Township",
+        "Columbus City",
+        "Franklin Township",
+        "Grandview Heights City",
+        "Marble Cliff Village",
+        "Minerva Park Village",
+        "Norwich Township",
+        "Perry Township",
+        "Plain Township",
+        "Prairie Township",
+        "Sharon Township",
+        "Upper Arlington City",
+        "Valley View Village"
+      ],
+      "candidates": [
+        {
+          "name": "Bill DeMora",
+          "party": "DEM"
+        },
+        {
+          "name": "Don Roberts",
+          "party": "REP"
+        }
+      ],
+      "sources": [
+        "franklin-46day",
+        "franklin-cand"
+      ]
+    },
+    {
+      "id": "rep-1",
+      "group": "Ohio General Assembly",
+      "office": "State Representative",
+      "detail": "1st District",
+      "area": "Bexley City, Columbus City, Mifflin Township",
+      "places": [
+        "Bexley City",
+        "Columbus City",
+        "Mifflin Township"
+      ],
+      "candidates": [
+        {
+          "name": "Joel A. Greff",
+          "party": "REP"
+        },
+        {
+          "name": "Dontavius Jarrells",
+          "party": "DEM"
+        }
+      ],
+      "sources": [
+        "franklin-46day",
+        "franklin-cand"
+      ]
+    },
+    {
+      "id": "rep-2",
+      "group": "Ohio General Assembly",
+      "office": "State Representative",
+      "detail": "2nd District",
+      "area": "Brice Village, Columbus City, Jefferson Township, Truro Township, Whitehall City",
+      "places": [
+        "Brice Village",
+        "Columbus City",
+        "Jefferson Township",
+        "Truro Township",
+        "Whitehall City"
+      ],
+      "candidates": [
+        {
+          "name": "Charity Martin King",
+          "party": "DEM"
+        }
+      ],
+      "sources": [
+        "franklin-46day",
+        "franklin-cand"
+      ]
+    },
+    {
+      "id": "rep-3",
+      "group": "Ohio General Assembly",
+      "office": "State Representative",
+      "detail": "3rd District",
+      "area": "Clinton Township, Columbus City, Gahanna City, Mifflin Township",
+      "places": [
+        "Clinton Township",
+        "Columbus City",
+        "Gahanna City",
+        "Mifflin Township"
+      ],
+      "candidates": [
+        {
+          "name": "Bernadine Kennedy Kent",
+          "party": "REP"
+        },
+        {
+          "name": "Ismail Mohamed",
+          "party": "DEM"
+        }
+      ],
+      "sources": [
+        "franklin-46day",
+        "franklin-cand"
+      ]
+    },
+    {
+      "id": "rep-4",
+      "group": "Ohio General Assembly",
+      "office": "State Representative",
+      "detail": "4th District",
+      "area": "Blendon Township, Columbus City, Gahanna City, Jefferson Township, New Albany City, Plain Township, Sharon Township, Westerville City",
+      "places": [
+        "Blendon Township",
+        "Columbus City",
+        "Gahanna City",
+        "Jefferson Township",
+        "New Albany City",
+        "Plain Township",
+        "Sharon Township",
+        "Westerville City"
+      ],
+      "candidates": [
+        {
+          "name": "Beryl Brown Piccolantonio",
+          "party": "DEM"
+        }
+      ],
+      "sources": [
+        "franklin-46day",
+        "franklin-cand"
+      ]
+    },
+    {
+      "id": "rep-5",
+      "group": "Ohio General Assembly",
+      "office": "State Representative",
+      "detail": "5th District",
+      "area": "Canal Winchester City, Columbus City, Groveport City, Hamilton Township, Jefferson Township, Lithopolis Village, Lockbourne Village, Madison Township, Obetz City, Pickerington City, Reynoldsburg City, Truro Township",
+      "places": [
+        "Canal Winchester City",
+        "Columbus City",
+        "Groveport City",
+        "Hamilton Township",
+        "Jefferson Township",
+        "Lithopolis Village",
+        "Lockbourne Village",
+        "Madison Township",
+        "Obetz City",
+        "Pickerington City",
+        "Reynoldsburg City",
+        "Truro Township"
+      ],
+      "candidates": [
+        {
+          "name": "Richard Cole",
+          "party": "REP"
+        },
+        {
+          "name": "Meredith R. Lawson-Rowe",
+          "party": "DEM"
+        }
+      ],
+      "sources": [
+        "franklin-46day",
+        "franklin-cand"
+      ]
+    },
+    {
+      "id": "rep-6",
+      "group": "Ohio General Assembly",
+      "office": "State Representative",
+      "detail": "6th District",
+      "area": "Columbus City, Franklin Township, Norwich Township, Perry Township, Prairie Township, Valley View Village",
+      "places": [
+        "Columbus City",
+        "Franklin Township",
+        "Norwich Township",
+        "Perry Township",
+        "Prairie Township",
+        "Valley View Village"
+      ],
+      "candidates": [
+        {
+          "name": "Christine Cockley",
+          "party": "DEM"
+        },
+        {
+          "name": "Matthew Jackson",
+          "party": "REP"
+        }
+      ],
+      "sources": [
+        "franklin-46day",
+        "franklin-cand"
+      ]
+    },
+    {
+      "id": "rep-7",
+      "group": "Ohio General Assembly",
+      "office": "State Representative",
+      "detail": "7th District",
+      "area": "Clinton Township, Columbus City, Franklin Township, Grandview Heights City, Marble Cliff Village, Upper Arlington City",
+      "places": [
+        "Clinton Township",
+        "Columbus City",
+        "Franklin Township",
+        "Grandview Heights City",
+        "Marble Cliff Village",
+        "Upper Arlington City"
+      ],
+      "candidates": [
+        {
+          "name": "Ukeme Awakessien Jeter",
+          "party": "DEM"
+        },
+        {
+          "name": "Cameron Koffel",
+          "party": "Nonparty"
+        },
+        {
+          "name": "William Mercier",
+          "party": "REP"
+        }
+      ],
+      "sources": [
+        "franklin-46day",
+        "franklin-cand"
+      ]
+    },
+    {
+      "id": "rep-8",
+      "group": "Ohio General Assembly",
+      "office": "State Representative",
+      "detail": "8th District",
+      "area": "Columbus City, Perry Township, Riverlea Village, Sharon Township, Worthington City",
+      "places": [
+        "Columbus City",
+        "Perry Township",
+        "Riverlea Village",
+        "Sharon Township",
+        "Worthington City"
+      ],
+      "candidates": [
+        {
+          "name": "Kelly Hunter-Kalagidis",
+          "party": "REP"
+        },
+        {
+          "name": "Anita Somani",
+          "party": "DEM"
+        }
+      ],
+      "sources": [
+        "franklin-46day",
+        "franklin-cand"
+      ]
+    },
+    {
+      "id": "rep-9",
+      "group": "Ohio General Assembly",
+      "office": "State Representative",
+      "detail": "9th District",
+      "area": "Blendon Township, Clinton Township, Columbus City, Minerva Park Village, Plain Township, Sharon Township",
+      "places": [
+        "Blendon Township",
+        "Clinton Township",
+        "Columbus City",
+        "Minerva Park Village",
+        "Plain Township",
+        "Sharon Township"
+      ],
+      "candidates": [
+        {
+          "name": "Munira Yasin Abdullahi",
+          "party": "DEM"
+        },
+        {
+          "name": "Bruce Euans",
+          "party": "REP"
+        }
+      ],
+      "sources": [
+        "franklin-46day",
+        "franklin-cand"
+      ]
+    },
+    {
+      "id": "rep-10",
+      "group": "Ohio General Assembly",
+      "office": "State Representative",
+      "detail": "10th District",
+      "area": "Columbus City, Franklin Township, Grove City, Hamilton Township, Jackson Township, Prairie Township, Urbancrest Village",
+      "places": [
+        "Columbus City",
+        "Franklin Township",
+        "Grove City",
+        "Hamilton Township",
+        "Jackson Township",
+        "Prairie Township",
+        "Urbancrest Village"
+      ],
+      "candidates": [
+        {
+          "name": "Denise D'Angelo",
+          "party": "REP"
+        },
+        {
+          "name": "Mark Sigrist",
+          "party": "DEM"
+        }
+      ],
+      "sources": [
+        "franklin-46day",
+        "franklin-cand"
+      ]
+    },
+    {
+      "id": "rep-11",
+      "group": "Ohio General Assembly",
+      "office": "State Representative",
+      "detail": "11th District",
+      "area": "Brown Township, Columbus City, Dublin City, Hilliard City, Norwich Township, Perry Township, Washington Township",
+      "places": [
+        "Brown Township",
+        "Columbus City",
+        "Dublin City",
+        "Hilliard City",
+        "Norwich Township",
+        "Perry Township",
+        "Washington Township"
+      ],
+      "candidates": [
+        {
+          "name": "Shawn Kaeser",
+          "party": "REP"
+        },
+        {
+          "name": "Crystal Lett",
+          "party": "DEM"
+        }
+      ],
+      "sources": [
+        "franklin-46day",
+        "franklin-cand"
+      ]
+    },
+    {
+      "id": "rep-12",
+      "group": "Ohio General Assembly",
+      "office": "State Representative",
+      "detail": "12th District",
+      "area": "Columbus City, Harrisburg Village, Pleasant Township, Prairie Township",
+      "places": [
+        "Columbus City",
+        "Harrisburg Village",
+        "Pleasant Township",
+        "Prairie Township"
+      ],
+      "candidates": [
+        {
+          "name": "Brian Stewart",
+          "party": "REP"
+        },
+        {
+          "name": "Lee Yarsky",
+          "party": "DEM"
+        }
+      ],
+      "sources": [
+        "franklin-46day",
+        "franklin-cand"
+      ]
+    },
+    {
+      "id": "appeals-10-0209",
+      "group": "Ohio Court of Appeals",
+      "office": "Judge of the Court of Appeals",
+      "detail": "10th District · full term commencing February 9, 2027",
+      "candidates": [
+        {
+          "name": "Michael C. Mentel",
+          "party": "DEM"
+        }
+      ],
+      "sources": [
+        "franklin-46day",
+        "franklin-cand"
+      ]
+    },
+    {
+      "id": "appeals-10-0701",
+      "group": "Ohio Court of Appeals",
+      "office": "Judge of the Court of Appeals",
+      "detail": "10th District · full term commencing July 1, 2027",
+      "candidates": [
+        {
+          "name": "Terri Jamison",
+          "party": "DEM"
+        }
+      ],
+      "sources": [
+        "franklin-46day",
+        "franklin-cand"
+      ]
+    },
+    {
+      "id": "commissioner",
+      "group": "County offices",
+      "office": "County Commissioner",
+      "detail": "Full term commencing January 1, 2027",
+      "candidates": [
+        {
+          "name": "Erica C. Crawley",
+          "party": "DEM"
+        },
+        {
+          "name": "Eric Terford",
+          "party": "LIB"
+        }
+      ],
+      "sources": [
+        "franklin-46day",
+        "franklin-cand"
+      ]
+    },
+    {
+      "id": "auditor",
+      "group": "County offices",
+      "office": "County Auditor",
+      "detail": "Full term commencing March 8, 2027",
+      "candidates": [
+        {
+          "name": "Michael Stinziano",
+          "party": "DEM"
+        }
+      ],
+      "sources": [
+        "franklin-46day",
+        "franklin-cand"
+      ]
+    },
+    {
+      "id": "cp-0",
+      "group": "Court of Common Pleas",
+      "office": "Judge of the Court of Common Pleas, General Division",
+      "detail": "Full term commencing January 1, 2027 · no party label on the ballot",
+      "candidates": [
+        {
+          "name": "Carl Aveni"
+        }
+      ],
+      "sources": [
+        "franklin-46day",
+        "franklin-cand"
+      ]
+    },
+    {
+      "id": "cp-1",
+      "group": "Court of Common Pleas",
+      "office": "Judge of the Court of Common Pleas, General Division",
+      "detail": "Full term commencing February 9, 2027 · no party label on the ballot",
+      "candidates": [
+        {
+          "name": "Andy Miller"
+        }
+      ],
+      "sources": [
+        "franklin-46day",
+        "franklin-cand"
+      ]
+    },
+    {
+      "id": "cp-2",
+      "group": "Court of Common Pleas",
+      "office": "Judge of the Court of Common Pleas, General Division",
+      "detail": "Full term commencing July 1, 2027 · no party label on the ballot",
+      "candidates": [
+        {
+          "name": "David Young"
+        }
+      ],
+      "sources": [
+        "franklin-46day",
+        "franklin-cand"
+      ]
+    },
+    {
+      "id": "cp-3",
+      "group": "Court of Common Pleas",
+      "office": "Judge of the Court of Common Pleas, General Division",
+      "detail": "Full term commencing July 2, 2027 · no party label on the ballot",
+      "candidates": [
+        {
+          "name": "Chris Brown"
+        }
+      ],
+      "sources": [
+        "franklin-46day",
+        "franklin-cand"
+      ]
+    },
+    {
+      "id": "cp-4",
+      "group": "Court of Common Pleas",
+      "office": "Judge of the Court of Common Pleas, Domestic Relations Division",
+      "detail": "Full term commencing January 2, 2027 · no party label on the ballot",
+      "candidates": [
+        {
+          "name": "Kelley Gabrielle Boller"
+        }
+      ],
+      "sources": [
+        "franklin-46day",
+        "franklin-cand"
+      ]
+    },
+    {
+      "id": "cp-5",
+      "group": "Court of Common Pleas",
+      "office": "Judge of the Court of Common Pleas, Domestic Relations Division",
+      "detail": "Full term commencing January 3, 2027 · no party label on the ballot",
+      "candidates": [
+        {
+          "name": "Lasheyl N. Stroud"
+        }
+      ],
+      "sources": [
+        "franklin-46day",
+        "franklin-cand"
+      ]
+    },
+    {
+      "id": "cp-6",
+      "group": "Court of Common Pleas",
+      "office": "Judge of the Court of Common Pleas, Probate Division",
+      "detail": "Full term commencing February 9, 2027 · no party label on the ballot",
+      "candidates": [
+        {
+          "name": "Kelly Green"
+        },
+        {
+          "name": "Chris Junga"
+        }
+      ],
+      "sources": [
+        "franklin-46day",
+        "franklin-cand"
+      ]
+    }
+  ],
+  "issues": [
+    {
+      "id": "issue-5",
+      "kind": "levy",
+      "jurisdiction": "Bexley City School District",
+      "title": "School district income tax (0.5%, continuing) and bond issue ($29,250,000)",
+      "area": "Bexley precincts 1-A to 4-C",
+      "places": [
+        "Bexley City"
+      ],
+      "number": "Issue 5",
+      "levy": {
+        "type": "Income tax and bond issue",
+        "purpose": "Income tax for current expenses; bonds for constructing, renovating, expanding, furnishing and equipping school facilities.",
+        "mills": "2.05 mills (bond, estimated average)",
+        "term": "Income tax continuing from January 1, 2027; bonds up to 30 years",
+        "estimate": "$29,250,000 principal; $72 for each $100,000 of market value (bond)"
+      },
+      "text": "Shall the Bexley City School District be authorized to do both of the following: 1. Impose an annual income tax of 0.5 per cent on the school district income of individuals, for a continuing period of time, beginning January 1, 2027 for the purpose of current expenses? 2. Issue bonds for the purpose of constructing school facilities; renovating, repairing, expanding, improving, and constructing additions to school facilities; furnishing and equipping the same in the principal amount of $29,250,000, to be repaid annually over a maximum period of 30 years, and levy a property tax outside the ten-mill limitation estimated by the county auditor to average over the bond repayment period 2.05 mills, which amounts to $72 for each $100,000 of the county auditor's market value?",
+      "sources": [
+        "franklin-issues",
+        "franklin-46day"
+      ]
+    },
+    {
+      "id": "dacc-levy",
+      "kind": "levy",
+      "jurisdiction": "Delaware Area Career Center (joint vocational school district; Delaware, Franklin and other counties)",
+      "title": "Tax levy (renewal and decrease): School maintenance and current expenses (a reduction of 0.95 mill)",
+      "area": "Columbus precinct 71-C",
+      "places": [
+        "Columbus City"
+      ],
+      "levy": {
+        "type": "Renewal and decrease",
+        "purpose": "School maintenance and current expenses (a reduction of 0.95 mill).",
+        "mills": "0.75 mill",
+        "term": "10 years, commencing in 2026",
+        "estimate": "$18 for each $100,000 of market value"
+      },
+      "note": "Unnumbered in Franklin County.",
+      "sources": [
+        "franklin-issues",
+        "franklin-46day"
+      ]
+    },
+    {
+      "id": "pickerington-lsd-tax",
+      "kind": "question",
+      "jurisdiction": "Pickerington Local School District (Fairfield and Franklin)",
+      "title": "School district income tax increase: 0.75% for 10 years",
+      "area": "Columbus precincts 45-E, 86-D, 86-E; Madison Township precinct E",
+      "places": [
+        "Columbus City",
+        "Madison Township",
+        "Pickerington City"
+      ],
+      "text": "Proposed income tax increase of 0.75% on the school district income of individuals, for 10 years, for current expenses.",
+      "note": "Unnumbered in Franklin County.",
+      "sources": [
+        "franklin-issues",
+        "franklin-46day"
+      ]
+    },
+    {
+      "id": "pickerington-library",
+      "kind": "levy",
+      "jurisdiction": "Pickerington Public Library (Fairfield and Franklin)",
+      "title": "Tax levy (additional): Current expenses",
+      "area": "Columbus precincts 45-E, 86-D, 86-E; Madison Township precinct E",
+      "places": [
+        "Columbus City",
+        "Madison Township",
+        "Pickerington City"
+      ],
+      "levy": {
+        "type": "Additional",
+        "purpose": "Current expenses.",
+        "mills": "1.5 mills",
+        "term": "Continuing, commencing in 2026",
+        "estimate": "$53 for each $100,000 of market value"
+      },
+      "note": "Unnumbered in Franklin County.",
+      "sources": [
+        "franklin-issues",
+        "franklin-46day"
+      ]
+    },
+    {
+      "id": "issue-6",
+      "kind": "levy",
+      "jurisdiction": "South-Western City School District",
+      "title": "Bond issue: $220,000,000 for new Westland and Grove City high schools and other school facilities",
+      "area": "Parts of Columbus and Prairie Township; Grove City; Franklin, Jackson and Pleasant townships; Harrisburg and Urbancrest villages",
+      "places": [
+        "Columbus City",
+        "Franklin Township",
+        "Grove City",
+        "Harrisburg Village",
+        "Jackson Township",
+        "Pleasant Township",
+        "Prairie Township",
+        "Urbancrest Village"
+      ],
+      "number": "Issue 6",
+      "levy": {
+        "type": "Bond issue",
+        "purpose": "Constructing, furnishing and equipping a new Westland High School and new Grove City High School, with related site improvements; constructing, renovating, repairing, expanding and improving other school facilities.",
+        "mills": "2.26 mills (estimated average)",
+        "term": "Up to 38 years",
+        "firstDue": "2027",
+        "estimate": "$220,000,000 principal; $79 for each $100,000 of market value"
+      },
+      "sources": [
+        "franklin-issues",
+        "franklin-46day"
+      ]
+    },
+    {
+      "id": "issue-7",
+      "kind": "levy",
+      "jurisdiction": "Upper Arlington City School District",
+      "title": "Bond issue ($273,500,000) and additional operating levy (4.9 mills, continuing)",
+      "area": "Upper Arlington; Columbus precincts 10-E, 63-G, 63-H, 77-C; Perry Township precinct C",
+      "places": [
+        "Columbus City",
+        "Perry Township",
+        "Upper Arlington City"
+      ],
+      "number": "Issue 7",
+      "levy": {
+        "type": "Bond issue and additional levy",
+        "purpose": "Bonds for Burbank Early Childhood School, Hastings and Jones middle schools and a high school addition; additional levy for current operating expenses.",
+        "mills": "4.84 mills (bond, estimated average) + 4.9 mills (operating)",
+        "term": "Bonds up to 38 years; operating levy continuing",
+        "estimate": "$273,500,000 principal, $169 per $100,000 (bond); $14,396,791 a year, $172 per $100,000 (operating)"
+      },
+      "sources": [
+        "franklin-issues",
+        "franklin-46day"
+      ]
+    },
+    {
+      "id": "issue-8",
+      "kind": "question",
+      "jurisdiction": "City of Columbus",
+      "title": "Charter amendment (by petition): council members elected only by voters in their district",
+      "area": "City of Columbus",
+      "places": [
+        "Columbus City"
+      ],
+      "number": "Issue 8",
+      "text": "This proposed charter amendment would limit the ability to vote for candidates for Columbus City Council to only those electors living within the districts that those candidates seek to represent. Ballots within council districts would include both citywide races and the district race, and a recall election of a district council member could be started by a petition signed by district electors equal to at least 15% of the votes cast in the district in the preceding mayoral election. Shall the proposed charter amendment be approved?",
+      "sources": [
+        "franklin-issues",
+        "franklin-46day"
+      ]
+    },
+    {
+      "id": "issue-9",
+      "kind": "question",
+      "jurisdiction": "City of Columbus",
+      "title": "Charter amendment (by Council): district-only voting for district seats, at-large seats added, 13-member Council",
+      "area": "City of Columbus",
+      "places": [
+        "Columbus City"
+      ],
+      "number": "Issue 9",
+      "text": "This proposed charter amendment would limit the ability to vote for candidates for Columbus City Council to only those electors living within the districts that those candidates seek to represent. It adds two at-large council members elected in 2027 and two more elected in 2029 (four-year terms), moving from a nine-member to an eleven- and then a thirteen-member Council; redraws the council district map in 2027 and raises the allowed population variance between districts from 1% to 7.5%; requires district candidates to have lived in their district for a year before the primary; updates expulsion, quorum and vote requirements; sets petition signature requirements (150 district / 250 at-large); and allows recall of district and at-large members by petition. Shall the proposed charter amendment be approved?",
+      "sources": [
+        "franklin-issues",
+        "franklin-46day"
+      ]
+    },
+    {
+      "id": "issue-10a",
+      "kind": "liquor",
+      "jurisdiction": "City of Columbus",
+      "title": "Local liquor option: Neubite, L.L.C. (dba Aveneu) (weekday sales)",
+      "area": "Columbus precinct 07-D",
+      "places": [
+        "Columbus City"
+      ],
+      "number": "Issue 10A",
+      "text": "Local option, particular location: Weekday sales (beer, wine and mixed beverages), Neubite, L.L.C. (dba Aveneu), 1017 Mt. Vernon Avenue.",
+      "sources": [
+        "franklin-issues",
+        "franklin-46day"
+      ]
+    },
+    {
+      "id": "issue-10b",
+      "kind": "liquor",
+      "jurisdiction": "City of Columbus",
+      "title": "Local liquor option: Neubite, L.L.C. (dba Aveneu) (Sunday sales)",
+      "area": "Columbus precinct 07-D",
+      "places": [
+        "Columbus City"
+      ],
+      "number": "Issue 10b",
+      "text": "Local option, particular location: Sunday sales (wine and mixed beverages), Neubite, L.L.C. (dba Aveneu), 1017 Mt. Vernon Avenue.",
+      "sources": [
+        "franklin-issues",
+        "franklin-46day"
+      ]
+    },
+    {
+      "id": "issue-11b",
+      "kind": "liquor",
+      "jurisdiction": "City of Columbus",
+      "title": "Local liquor option: Dublin & Grandview Duchess (Sunday sales)",
+      "area": "Columbus precinct 10-A",
+      "places": [
+        "Columbus City"
+      ],
+      "number": "Issue 11b",
+      "text": "Local option, particular location: Sunday sales (wine and mixed beverages), Dublin & Grandview Duchess, 1090 Dublin Road.",
+      "sources": [
+        "franklin-issues",
+        "franklin-46day"
+      ]
+    },
+    {
+      "id": "issue-12b",
+      "kind": "liquor",
+      "jurisdiction": "City of Columbus",
+      "title": "Local liquor option: Born on Third (Sunday sales)",
+      "area": "Columbus precinct 10-D",
+      "places": [
+        "Columbus City"
+      ],
+      "number": "Issue 12b",
+      "text": "Local option, particular location: Sunday sales (wine and mixed beverages and spirituous liquor), Born on Third, 3411 Trabue Rd.",
+      "sources": [
+        "franklin-issues",
+        "franklin-46day"
+      ]
+    },
+    {
+      "id": "issue-13b",
+      "kind": "liquor",
+      "jurisdiction": "City of Columbus",
+      "title": "Local liquor option: Englefield, Inc., dba Morse Rd. Duchess (Sunday sales)",
+      "area": "Columbus precinct 22-D",
+      "places": [
+        "Columbus City"
+      ],
+      "number": "Issue 13b",
+      "text": "Local option, particular location: Sunday sales (wine and mixed beverages), Englefield, Inc., dba Morse Rd. Duchess, 927 Morse Road.",
+      "sources": [
+        "franklin-issues",
+        "franklin-46day"
+      ]
+    },
+    {
+      "id": "issue-14b",
+      "kind": "liquor",
+      "jurisdiction": "City of Columbus",
+      "title": "Local liquor option: Third Way Café LLC (Sunday sales)",
+      "area": "Columbus precinct 32-A",
+      "places": [
+        "Columbus City"
+      ],
+      "number": "Issue 14b",
+      "text": "Local option, particular location: Sunday sales (wine and mixed beverages, and spirituous liquor), Third Way Café LLC, 3059 W. Broad Street.",
+      "sources": [
+        "franklin-issues",
+        "franklin-46day"
+      ]
+    },
+    {
+      "id": "issue-15b",
+      "kind": "liquor",
+      "jurisdiction": "City of Columbus",
+      "title": "Local liquor option: RaceTrac (Sunday sales)",
+      "area": "Columbus precinct 49-F",
+      "places": [
+        "Columbus City"
+      ],
+      "number": "Issue 15b",
+      "text": "Local option, particular location: Sunday sales (wine and mixed beverages), RaceTrac, Inc., 30 Rathmell Road.",
+      "sources": [
+        "franklin-issues",
+        "franklin-46day"
+      ]
+    },
+    {
+      "id": "issue-16a",
+      "kind": "liquor",
+      "jurisdiction": "City of Columbus",
+      "title": "Local liquor option: Englefield, Inc., dba E. Broad St. Duchess (weekday sales)",
+      "area": "Columbus precinct 55-D",
+      "places": [
+        "Columbus City"
+      ],
+      "number": "Issue 16A",
+      "text": "Local option, particular location: Weekday sales (beer, wine and mixed beverages), Englefield, Inc., dba E. Broad St. Duchess, 825 E. Broad Street.",
+      "sources": [
+        "franklin-issues",
+        "franklin-46day"
+      ]
+    },
+    {
+      "id": "issue-16b",
+      "kind": "liquor",
+      "jurisdiction": "City of Columbus",
+      "title": "Local liquor option: Englefield, Inc., dba E. Broad St. Duchess (Sunday sales)",
+      "area": "Columbus precinct 55-D",
+      "places": [
+        "Columbus City"
+      ],
+      "number": "Issue 16b",
+      "text": "Local option, particular location: Sunday sales (wine and mixed beverages), Englefield, Inc., dba E. Broad St. Duchess, 825 E. Broad Street.",
+      "sources": [
+        "franklin-issues",
+        "franklin-46day"
+      ]
+    },
+    {
+      "id": "issue-17b",
+      "kind": "liquor",
+      "jurisdiction": "City of Columbus",
+      "title": "Local liquor option: Convenient Plus Food Mart (Sunday sales)",
+      "area": "Columbus precinct 68-A",
+      "places": [
+        "Columbus City"
+      ],
+      "number": "Issue 17b",
+      "text": "Local option, particular location: Sunday sales (wine and mixed beverages), Convenient Plus Food Mart, 5435 E. Livingston Avenue.",
+      "sources": [
+        "franklin-issues",
+        "franklin-46day"
+      ]
+    },
+    {
+      "id": "issue-29b",
+      "kind": "liquor",
+      "jurisdiction": "City of Grove City",
+      "title": "Local liquor option: Dapper Dog Tavern (Sunday sales)",
+      "area": "Grove City precinct 1-A",
+      "places": [
+        "Grove City"
+      ],
+      "number": "Issue 29b",
+      "text": "Local option, particular location: Sunday sales (wine and mixed beverages, and spirituous liquor), Dapper Dog Tavern, 4057 Broadway.",
+      "sources": [
+        "franklin-issues",
+        "franklin-46day"
+      ]
+    },
+    {
+      "id": "issue-30b",
+      "kind": "liquor",
+      "jurisdiction": "City of Hilliard",
+      "title": "Local liquor option: Drunch (Sunday sales)",
+      "area": "Hilliard precinct 2-D",
+      "places": [
+        "Hilliard City"
+      ],
+      "number": "Issue 30b",
+      "text": "Local option, particular location: Sunday sales (wine and mixed beverages, and spirituous liquor), Drunch, 3997 Truepointe Blvd..",
+      "sources": [
+        "franklin-issues",
+        "franklin-46day"
+      ]
+    },
+    {
+      "id": "issue-31b",
+      "kind": "liquor",
+      "jurisdiction": "City of Hilliard",
+      "title": "Local liquor option: Medley Kitchen (Sunday sales)",
+      "area": "Hilliard precinct 2-D",
+      "places": [
+        "Hilliard City"
+      ],
+      "number": "Issue 31b",
+      "text": "Local option, particular location: Sunday sales (wine and mixed beverages, and spirituous liquor), Medley Kitchen, 3986 Truepointe Blvd. Suite 101.",
+      "sources": [
+        "franklin-issues",
+        "franklin-46day"
+      ]
+    },
+    {
+      "id": "issue-32b",
+      "kind": "liquor",
+      "jurisdiction": "City of Hilliard",
+      "title": "Local liquor option: Old Scratch Pizza (Sunday sales)",
+      "area": "Hilliard precinct 2-D",
+      "places": [
+        "Hilliard City"
+      ],
+      "number": "Issue 32b",
+      "text": "Local option, particular location: Sunday sales (wine and mixed beverages, and spirituous liquor), Old Scratch Pizza, 3998 Truepointe Blvd..",
+      "sources": [
+        "franklin-issues",
+        "franklin-46day"
+      ]
+    },
+    {
+      "id": "issue-33b",
+      "kind": "liquor",
+      "jurisdiction": "City of Hilliard",
+      "title": "Local liquor option: Smoked Lick BBQ Burgers and Booze (Sunday sales)",
+      "area": "Hilliard precinct 2-D",
+      "places": [
+        "Hilliard City"
+      ],
+      "number": "Issue 33b",
+      "text": "Local option, particular location: Sunday sales (wine and mixed beverages, and spirituous liquor), Smoked Lick BBQ Burgers and Booze, 3997 Truepointe Blvd., Suite 101.",
+      "sources": [
+        "franklin-issues",
+        "franklin-46day"
+      ]
+    },
+    {
+      "id": "issue-44a",
+      "kind": "liquor",
+      "jurisdiction": "Madison Township",
+      "title": "Local liquor option: RaceTrac (weekday sales)",
+      "area": "Madison Township precinct A (includes the part of Lithopolis Village in it)",
+      "places": [
+        "Lithopolis Village",
+        "Madison Township"
+      ],
+      "number": "Issue 44A",
+      "text": "Local option, particular location: Weekday sales (wine and mixed beverages), RaceTrac, 2555 London Groveport Road (Madison Township).",
+      "sources": [
+        "franklin-issues",
+        "franklin-46day"
+      ]
+    },
+    {
+      "id": "issue-44b",
+      "kind": "liquor",
+      "jurisdiction": "Madison Township",
+      "title": "Local liquor option: RaceTrac (Sunday sales)",
+      "area": "Madison Township precinct A (includes the part of Lithopolis Village in it)",
+      "places": [
+        "Lithopolis Village",
+        "Madison Township"
+      ],
+      "number": "Issue 44b",
+      "text": "Local option, particular location: Sunday sales (wine and mixed beverages), RaceTrac, 2555 London Groveport Road (Madison Township).",
+      "sources": [
+        "franklin-issues",
+        "franklin-46day"
+      ]
+    },
+    {
+      "id": "issue-46a",
+      "kind": "liquor",
+      "jurisdiction": "Plain Township",
+      "title": "Local liquor option: The Golf Club Company (weekday sales)",
+      "area": "Plain Township precinct A",
+      "places": [
+        "Plain Township"
+      ],
+      "number": "Issue 46A",
+      "text": "Local option, particular location: Weekday sales (beer, wine and mixed beverages, and spirituous liquor), The Golf Club Company, 4522 Kitzmiller Road (Plain Township).",
+      "sources": [
+        "franklin-issues",
+        "franklin-46day"
+      ]
+    },
+    {
+      "id": "issue-46b",
+      "kind": "liquor",
+      "jurisdiction": "Plain Township",
+      "title": "Local liquor option: The Golf Club Company (Sunday sales)",
+      "area": "Plain Township precinct A",
+      "places": [
+        "Plain Township"
+      ],
+      "number": "Issue 46b",
+      "text": "Local option, particular location: Sunday sales (wine and mixed beverages, and spirituous liquor), The Golf Club Company, 4522 Kitzmiller Road (Plain Township).",
+      "sources": [
+        "franklin-issues",
+        "franklin-46day"
+      ]
+    },
+    {
+      "id": "issue-18",
+      "kind": "question",
+      "jurisdiction": "City of Gahanna",
+      "title": "Charter amendment: RES-0026 (mayoral primary)",
+      "area": "City of Gahanna",
+      "places": [
+        "Gahanna City"
+      ],
+      "number": "Issue 18",
+      "text": "Shall Section 3.01, Election and Term, of Article III, Mayor, be amended to eliminate the mayoral primary election when no more than two candidates have filed for the office of Mayor?",
+      "sources": [
+        "franklin-issues",
+        "franklin-46day"
+      ]
+    },
+    {
+      "id": "issue-19",
+      "kind": "question",
+      "jurisdiction": "City of Gahanna",
+      "title": "Charter amendment: RES-0027 (qualifications of elected officials)",
+      "area": "City of Gahanna",
+      "places": [
+        "Gahanna City"
+      ],
+      "number": "Issue 19",
+      "text": "Shall Section 3.02, Qualifications, of Article III, Mayor; Section 4.03, Qualifications, of Article IV, The Council; and Section 10.02, Qualifications, of Article X, Department of Law, be amended to establish a consistent standard regarding conflicts with other public offices and public employment for the Mayor, Council Members and the City Attorney?",
+      "sources": [
+        "franklin-issues",
+        "franklin-46day"
+      ]
+    },
+    {
+      "id": "issue-20",
+      "kind": "question",
+      "jurisdiction": "City of Gahanna",
+      "title": "Charter amendment: RES-0028 (ward boundary adjustment)",
+      "area": "City of Gahanna",
+      "places": [
+        "Gahanna City"
+      ],
+      "number": "Issue 20",
+      "text": "Shall Section 4.02, Composition and Term, of Article IV, The Council, be amended to revise the process for adjusting ward boundaries to base it on federal decennial census population data and specified population disparity criteria?",
+      "sources": [
+        "franklin-issues",
+        "franklin-46day"
+      ]
+    },
+    {
+      "id": "issue-21",
+      "kind": "question",
+      "jurisdiction": "City of Gahanna",
+      "title": "Charter amendment: RES-0029 (legislative procedure: council abstentions)",
+      "area": "City of Gahanna",
+      "places": [
+        "Gahanna City"
+      ],
+      "number": "Issue 21",
+      "text": "Shall Section 4.12, Legislative Procedure, of Article IV, The Council, be amended to require that an alleged improper voting abstention by a Council member be subject to the notice and hearing procedures for removal established in the Charter?",
+      "sources": [
+        "franklin-issues",
+        "franklin-46day"
+      ]
+    },
+    {
+      "id": "issue-22",
+      "kind": "question",
+      "jurisdiction": "City of Gahanna",
+      "title": "Charter amendment: RES-0030 (administrative departments)",
+      "area": "City of Gahanna",
+      "places": [
+        "Gahanna City"
+      ],
+      "number": "Issue 22",
+      "text": "Shall Article V, Administrative Departments, be amended to remove department listings, preserving the Charter duties of the Director of Finance, and making related organizational changes?",
+      "sources": [
+        "franklin-issues",
+        "franklin-46day"
+      ]
+    },
+    {
+      "id": "issue-23",
+      "kind": "question",
+      "jurisdiction": "City of Gahanna",
+      "title": "Charter amendment: RES-0031 (City Attorney)",
+      "area": "City of Gahanna",
+      "places": [
+        "Gahanna City"
+      ],
+      "number": "Issue 23",
+      "text": "Shall Sections 10.01, City Attorney, and 10.03, General Powers and Duties, of Article X, Department of Law, be amended to clarify the process for filling vacancies in the office of the City Attorney, update the powers and duties of the office, and make related grammatical revisions?",
+      "sources": [
+        "franklin-issues",
+        "franklin-46day"
+      ]
+    },
+    {
+      "id": "issue-24",
+      "kind": "question",
+      "jurisdiction": "City of Gahanna",
+      "title": "Charter amendment: RES-0032 (Planning Commission attendance)",
+      "area": "City of Gahanna",
+      "places": [
+        "Gahanna City"
+      ],
+      "number": "Issue 24",
+      "text": "Shall Section 11.02, Planning Commission - Organization, of Article XI, Planning Commission, be amended to authorize the Planning Commission to establish attendance requirements for its members through its rules of operation?",
+      "sources": [
+        "franklin-issues",
+        "franklin-46day"
+      ]
+    },
+    {
+      "id": "issue-25",
+      "kind": "question",
+      "jurisdiction": "City of Gahanna",
+      "title": "Charter amendment: RES-0033 (zoning appeals)",
+      "area": "City of Gahanna",
+      "places": [
+        "Gahanna City"
+      ],
+      "number": "Issue 25",
+      "text": "Shall Section 11.03, Planning Commission - Powers and Duties, of Article XI, Planning Commission, be amended and Article XII, Board of Zoning and Building Appeals, be repealed to transfer zoning, building, and landscaping appeal functions to the Planning Commission and to transfer Planning Commission appeals to Franklin County courts?",
+      "sources": [
+        "franklin-issues",
+        "franklin-46day"
+      ]
+    },
+    {
+      "id": "issue-26",
+      "kind": "question",
+      "jurisdiction": "City of Gahanna",
+      "title": "Charter amendment: RES-0034 (Charter Review Commission every ten years)",
+      "area": "City of Gahanna",
+      "places": [
+        "Gahanna City"
+      ],
+      "number": "Issue 26",
+      "text": "Shall Section 22.01, Composition and Term, of Article XXII, Charter Review Commission, be amended to require that the Charter Review Commission be convened every ten years instead of every five years?",
+      "sources": [
+        "franklin-issues",
+        "franklin-46day"
+      ]
+    },
+    {
+      "id": "issue-27",
+      "kind": "question",
+      "jurisdiction": "City of Gahanna",
+      "title": "Charter amendment: RES-0035 (non-discrimination)",
+      "area": "City of Gahanna",
+      "places": [
+        "Gahanna City"
+      ],
+      "number": "Issue 27",
+      "text": "Shall Section 23.07, Non Discrimination Clause, of Article XXIII, General Provisions, be amended to update the Charter's nondiscrimination provisions to align with the City's Codified Ordinances and applicable federal, state, and local law?",
+      "sources": [
+        "franklin-issues",
+        "franklin-46day"
+      ]
+    },
+    {
+      "id": "issue-28",
+      "kind": "question",
+      "jurisdiction": "City of Grove City",
+      "title": "Charter amendment (by petition): Community Consent Amendment (referendum on large developments)",
+      "area": "City of Grove City",
+      "places": [
+        "Grove City"
+      ],
+      "number": "Issue 28",
+      "text": "Amends the city charter to include a new article, Article XI, to establish a mandatory public referendum process as a condition of approval for any proposed development, qualifiable business expansion, or transfer of property ownership that occupies 50 or more contiguous acres, draws or is designed to draw more than 20 megawatts of electrical power at peak capacity, or consumes or is projected to consume more than 500,000 gallons of water per day; and establishes enforceable community impact standards for any approved facility. Shall the charter amendment, as proposed by initiative, be adopted?",
+      "sources": [
+        "franklin-issues",
+        "franklin-46day"
+      ]
+    },
+    {
+      "id": "issue-34",
+      "kind": "levy",
+      "jurisdiction": "City of Upper Arlington",
+      "title": "Tax levy (renewal and increase): Employer contributions to the Ohio Police and Fire Pension Fund (renewal of 0.89 mill and increase of 0.24 mill)",
+      "area": "City of Upper Arlington",
+      "places": [
+        "Upper Arlington City"
+      ],
+      "levy": {
+        "type": "Renewal and increase",
+        "purpose": "Employer contributions to the Ohio Police and Fire Pension Fund (renewal of 0.89 mill and increase of 0.24 mill).",
+        "mills": "1.13 mills",
+        "term": "5 years, commencing in 2027",
+        "estimate": "$2,190,393 a year; $26 for each $100,000 of market value"
+      },
+      "number": "Issue 34",
+      "sources": [
+        "franklin-issues",
+        "franklin-46day"
+      ]
+    },
+    {
+      "id": "issue-35",
+      "kind": "question",
+      "jurisdiction": "City of Worthington",
+      "title": "Charter amendment: effective date of ordinances (recommended by Commission)",
+      "area": "City of Worthington",
+      "places": [
+        "Worthington City"
+      ],
+      "number": "Issue 35",
+      "text": "Shall the Charter of the City of Worthington be amended to delete Section 1.04 REFERENDUM AND EFFECTIVE DATE ON ZONING ORDINANCES OR OTHER ZONING MEASURES in its entirety and to amend Sections 2.17 PROCEDURE IN THE PASSAGE OF ORDINANCES and 2.19 EFFECTIVE DATE OF ORDINANCES as set forth in Exhibit A of Ordinance No. 20-2026 of the City of Worthington?",
+      "sources": [
+        "franklin-issues",
+        "franklin-46day"
+      ]
+    },
+    {
+      "id": "issue-36",
+      "kind": "question",
+      "jurisdiction": "City of Worthington",
+      "title": "Charter amendment: referendum petition signature requirement (recommended by Commission)",
+      "area": "City of Worthington",
+      "places": [
+        "Worthington City"
+      ],
+      "number": "Issue 36",
+      "text": "Shall the Charter of the City of Worthington be amended to add Section 1.05 to read as follows: SECTION 1.05 REFERENDUM PETITION SIGNATURE REQUIREMENT. Notwithstanding Section 731.29 of the Ohio Revised Code, the signature requirement for a referendum petition shall be ten percent of the number of electors who voted for governor at the most recent general election for the office of governor in the municipal corporation?",
+      "sources": [
+        "franklin-issues",
+        "franklin-46day"
+      ]
+    },
+    {
+      "id": "issue-37",
+      "kind": "question",
+      "jurisdiction": "City of Worthington",
+      "title": "Charter amendment: various amendments (recommended by Commission)",
+      "area": "City of Worthington",
+      "places": [
+        "Worthington City"
+      ],
+      "number": "Issue 37",
+      "text": "Shall the various sections of the Charter of the City of Worthington be amended as set forth in Exhibit A of Ordinance No. 22-2026 of the City of Worthington?",
+      "sources": [
+        "franklin-issues",
+        "franklin-46day"
+      ]
+    },
+    {
+      "id": "issue-38",
+      "kind": "question",
+      "jurisdiction": "City of Worthington",
+      "title": "Charter amendment (by petition): referendum petition signature requirement",
+      "area": "City of Worthington",
+      "places": [
+        "Worthington City"
+      ],
+      "number": "Issue 38",
+      "text": "Shall the Charter of the City of Worthington be amended to add Section 1.05 to read as follows: SECTION 1.05 REFERENDUM PETITION SIGNATURE REQUIREMENT. Notwithstanding any other provisions of this Charter, the power of referendum on any ordinance or other measure passed by the Council may be exercised in the manner provided by the laws of the State of Ohio except that the petition signature requirement shall be ten percent of the electors of the City, based on the total vote cast at the last preceding general municipal election?",
+      "sources": [
+        "franklin-issues",
+        "franklin-46day"
+      ]
+    },
+    {
+      "id": "issue-40",
+      "kind": "question",
+      "jurisdiction": "Brown Township (unincorporated area)",
+      "title": "Township zoning plan (unincorporated area)",
+      "area": "Brown Township (unincorporated area)",
+      "places": [
+        "Brown Township"
+      ],
+      "number": "Issue 40",
+      "text": "Shall the zoning plan for the unincorporated area of Brown Township as adopted by the board of township trustees be approved?",
+      "sources": [
+        "franklin-issues",
+        "franklin-46day"
+      ]
+    },
+    {
+      "id": "issue-41",
+      "kind": "levy",
+      "jurisdiction": "Hamilton Township Road District (unincorporated areas)",
+      "title": "Tax levy (additional): General construction, reconstruction, resurfacing and repair of streets, roads and bridges",
+      "area": "Hamilton Township Road District (unincorporated areas)",
+      "places": [
+        "Hamilton Township"
+      ],
+      "levy": {
+        "type": "Additional",
+        "purpose": "General construction, reconstruction, resurfacing and repair of streets, roads and bridges.",
+        "mills": "0.8 mill",
+        "term": "Continuing, commencing in 2026",
+        "estimate": "$100,131 a year; $28 for each $100,000 of market value"
+      },
+      "number": "Issue 41",
+      "sources": [
+        "franklin-issues",
+        "franklin-46day"
+      ]
+    },
+    {
+      "id": "issue-42",
+      "kind": "levy",
+      "jurisdiction": "Madison Township",
+      "title": "Tax levy (additional): Fire protection, firefighting and emergency medical services",
+      "area": "Madison Township, Canal Winchester, Groveport, Obetz precinct B, and Columbus precincts 49-E, 85-D, 85-E, 86-A, 86-B, 86-G to 86-J",
+      "places": [
+        "Canal Winchester City",
+        "Columbus City",
+        "Groveport City",
+        "Lithopolis Village",
+        "Madison Township",
+        "Obetz City",
+        "Pickerington City"
+      ],
+      "levy": {
+        "type": "Additional",
+        "purpose": "Fire protection, firefighting and emergency medical services.",
+        "mills": "4.89 mills",
+        "term": "Continuing, commencing in 2026",
+        "estimate": "$6,842,340 a year; $171 for each $100,000 of market value"
+      },
+      "number": "Issue 42",
+      "sources": [
+        "franklin-issues",
+        "franklin-46day"
+      ]
+    },
+    {
+      "id": "issue-43",
+      "kind": "levy",
+      "jurisdiction": "Madison Township",
+      "title": "Tax levy (additional): Police protection",
+      "area": "Madison Township, Canal Winchester, Groveport, Obetz precinct B, and Columbus precincts 49-E, 85-D, 85-E, 86-A, 86-B, 86-G to 86-J",
+      "places": [
+        "Canal Winchester City",
+        "Columbus City",
+        "Groveport City",
+        "Lithopolis Village",
+        "Madison Township",
+        "Obetz City",
+        "Pickerington City"
+      ],
+      "levy": {
+        "type": "Additional",
+        "purpose": "Police protection.",
+        "mills": "1.99 mills",
+        "term": "Continuing, commencing in 2026",
+        "estimate": "$2,784,510 a year; $70 for each $100,000 of market value"
+      },
+      "number": "Issue 43",
+      "sources": [
+        "franklin-issues",
+        "franklin-46day"
+      ]
+    },
+    {
+      "id": "issue-45",
+      "kind": "levy",
+      "jurisdiction": "Mifflin Township Police District (unincorporated area)",
+      "title": "Tax levy (additional): Police protection",
+      "area": "Mifflin Township Police District (unincorporated area)",
+      "places": [
+        "Mifflin Township"
+      ],
+      "levy": {
+        "type": "Additional",
+        "purpose": "Police protection.",
+        "mills": "6.96 mills",
+        "term": "Continuing, commencing in 2026",
+        "estimate": "$500,322 a year; $244 for each $100,000 of market value"
+      },
+      "number": "Issue 45",
+      "sources": [
+        "franklin-issues",
+        "franklin-46day"
+      ]
+    },
+    {
+      "id": "issue-47",
+      "kind": "levy",
+      "jurisdiction": "Sharon Township Road District (unincorporated area)",
+      "title": "Tax levy (additional): General construction, reconstruction, resurfacing and repair of streets, roads and bridges",
+      "area": "Sharon Township Road District (unincorporated area)",
+      "places": [
+        "Sharon Township"
+      ],
+      "levy": {
+        "type": "Additional",
+        "purpose": "General construction, reconstruction, resurfacing and repair of streets, roads and bridges.",
+        "mills": "2.46 mills",
+        "term": "Continuing, commencing in 2026",
+        "estimate": "$285,000 a year; $86 for each $100,000 of market value"
+      },
+      "number": "Issue 47",
+      "sources": [
+        "franklin-issues",
+        "franklin-46day"
+      ]
+    },
+    {
+      "id": "issue-48",
+      "kind": "levy",
+      "jurisdiction": "Truro Township",
+      "title": "Tax levy (renewal and decrease): Current expenses (renewal of part of an existing 1.5-mill levy, a reduction of 0.5 mill)",
+      "area": "Truro Township, Reynoldsburg, and Columbus precincts 45-D and 84-H",
+      "places": [
+        "Brice Village",
+        "Columbus City",
+        "Reynoldsburg City",
+        "Truro Township"
+      ],
+      "levy": {
+        "type": "Renewal and decrease",
+        "purpose": "Current expenses (renewal of part of an existing 1.5-mill levy, a reduction of 0.5 mill).",
+        "mills": "1 mill",
+        "term": "5 years, commencing in 2026",
+        "estimate": "$472,902 a year; $17 for each $100,000 of market value"
+      },
+      "number": "Issue 48",
+      "sources": [
+        "franklin-issues",
+        "franklin-46day"
+      ]
+    }
+  ]
+}

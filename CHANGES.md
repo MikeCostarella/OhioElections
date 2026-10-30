@@ -40,3 +40,22 @@ Data notes (Trumbull):
   - Lorain: the Board's certified candidate and issues lists plus its 46-day notice for precincts (10 contests, 35 issues).
 - "Where you live" comes from each county's SoS voter file, as before. Stark's file lists townships by bare name ("JACKSON"); the generator adds "Township" (`County(bare=...)`). Odd SoS names are renamed: Summit's NORTHFIELD CTR TP and SAGAMORE HLS TWP, Portage's SHALERSVILLE TOWNSHP, Lorain's ROCHESTER TWP & VIL.
 - Stark's fire and road districts are shown for their township. The Wayne County JVSD levy (on Stark's list with no issue number) is marked "boundaries not mapped".
+
+# Oct 30, 2026 (Franklin, Hamilton, Montgomery, Lucas, Butler)
+
+- Full ballots for Franklin, Hamilton, Montgomery, Lucas and Butler (16 counties with local data now, plus Trumbull's original), each from the Board's 46-day FWAB notice, checked against its candidate and issues lists:
+  - Franklin: 28 contests, 50 issues (19 liquor options; three unnumbered items: Delaware Area Career Center levy, Pickerington LSD income tax, Pickerington Library levy). The notices of election for individual issues supplied ballot wording and collection estimates.
+  - Hamilton: 28 contests, 30 issues. The Board's ballot-issues document supplied the full wording and estimates.
+  - Montgomery: 18 contests, 22 issues.
+  - Lucas: 15 contests, 27 issues. The Board's documents are Google Drive files linked from lucascountyohiovotes.gov.
+  - Butler: 16 contests, 16 issues.
+- `lib.py`: precinct-split places renamed to one display name (Hamilton's Silverton A/B/C and St. Bernard 1-A..4-A, Lucas's Washington 1/2 and Waterville A/B) are listed once.
+
+Data notes:
+- Franklin's SoS voter file has empty school-district columns, so Franklin's school and special-district issues are placed by matching the 46-day notice's precincts to the voter file's precincts (typed in the spec). Small slices of Lithopolis, Pickerington and Brice that sit in Madison and Truro township precincts are included in those townships' levies.
+- Where the 46-day notice lists precincts the voter file doesn't place in a district, the place is added by hand (Montgomery: West Carrollton in Miamisburg CSD Issue 5, New Lebanon in Jackson Twp Issue 24, Dayton in Jefferson Twp Issue 25; Butler: St. Clair Twp in Senate 5 / House 40; Lucas: Harding Twp in Evergreen LSD Issue 4, Harding Twp and Ottawa Hills in Toledo CSD Issue 9).
+- Hamilton: Silverton and St. Bernard are shown as villages, as every Board document calls them. Issue 17 (Madeira D Sunday sales) was withdrawn on Sep 24 and is left out. Where the 46-day notice and the later ballot wording differ (Forest Park Issue 14 additional, Issue 10 renewal and increase, Fairfax 0.96 mill), the ballot wording is used.
+- Butler: in the Court of Appeals seat starting 1/1/2027, Republican Matthew Byrne withdrew on 9/16 (his votes won't count); write-in Willa Concannon is the only active candidate. Butler's documents give only type, rate and term for issues, so its charter amendments have no ballot text and its levies no estimates.
+- Lucas: the Swanton Public Library levy (Fulton and Lucas) is "boundaries not mapped". QuikTrip's liquor option (Issue 11) is "wine and mixed beverages" on the notice and "Sunday sales" on the issue list; the notice's wording is used.
+- Franklin has no Issue 39 in any Board document.
+

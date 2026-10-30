@@ -1,0 +1,912 @@
+{
+  "scope": "county",
+  "county": "Montgomery",
+  "fips": "39113",
+  "election": "2026-11-03",
+  "retrieved": "2026-10-30",
+  "notes": [
+    "Taken from the Board of Elections' 46-day election notice, which lists every contest and issue with the precincts that vote on it, checked against the Board's candidate report and ballot issues list. Issue wording is the Board's summary; the full wording is on the sample ballot.",
+    "Candidates are listed alphabetically by last name, not in ballot order: Ohio rotates the order of names from precinct to precinct. Certified write-in candidates are not printed on the ballot and are not listed.",
+    "\"Where you live\" uses the state voter file: a district or school levy is shown for a city, village or township when any of its voters live in that district. Your exact ballot depends on your precinct."
+  ],
+  "places": [
+    "Brookville City",
+    "Butler Township",
+    "Carlisle City",
+    "Centerville City",
+    "Clay Township",
+    "Clayton City",
+    "Dayton City",
+    "Englewood City",
+    "Farmersville Village",
+    "German Township",
+    "Germantown City",
+    "Harrison Township",
+    "Huber Heights City",
+    "Jackson Township",
+    "Jefferson Township",
+    "Kettering City",
+    "Miami Township",
+    "Miamisburg City",
+    "Moraine City",
+    "New Lebanon Village",
+    "Oakwood City",
+    "Perry Township",
+    "Phillipsburg Village",
+    "Riverside City",
+    "Springboro City",
+    "Trotwood City",
+    "Union City",
+    "Vandalia City",
+    "Verona Village",
+    "Washington Township",
+    "West Carrollton City"
+  ],
+  "sources": {
+    "montgomery-46day": {
+      "label": "Montgomery County Board of Elections: 46-day election notice (FWAB), November 3, 2026 General Election",
+      "url": "https://www.montgomery.boe.ohio.gov/wp-content/uploads/2021/01/46-Day-FWAB-11.3.2026-General-Election-1.pdf"
+    },
+    "montgomery-cand": {
+      "label": "Montgomery County Board of Elections: 2026 candidate report (October 16, 2026)",
+      "url": "https://www.montgomery.boe.ohio.gov/wp-content/uploads/2023/10/10.16.2026-Candidate-Petition-Report.pdf"
+    },
+    "montgomery-issues": {
+      "label": "Montgomery County Board of Elections: November 3, 2026 ballot issues list (September 11, 2026)",
+      "url": "https://www.montgomery.boe.ohio.gov/wp-content/uploads/2021/02/9.11.2026-Issues-List.pdf"
+    }
+  },
+  "links": [
+    {
+      "label": "Board of Elections",
+      "url": "https://www.montgomery.boe.ohio.gov/"
+    },
+    {
+      "label": "Current election",
+      "url": "https://www.montgomery.boe.ohio.gov/current-election/"
+    },
+    {
+      "label": "Sample ballots by precinct",
+      "url": "https://lookup.boe.ohio.gov/vtrapp/montgomery/ballotlist.aspx"
+    }
+  ],
+  "results": {
+    "status": "upcoming",
+    "links": [
+      {
+        "label": "Board of Elections: election results",
+        "url": "https://www.montgomery.boe.ohio.gov/election-results/"
+      }
+    ]
+  },
+  "contests": [
+    {
+      "id": "congress-10",
+      "group": "U.S. House",
+      "office": "Representative to Congress",
+      "detail": "10th District",
+      "candidates": [
+        {
+          "name": "Kristina Knickerbocker",
+          "party": "DEM"
+        },
+        {
+          "name": "Thomas F. McMasters",
+          "party": "LIB"
+        },
+        {
+          "name": "Mike Turner",
+          "party": "REP"
+        }
+      ],
+      "sources": [
+        "montgomery-46day",
+        "montgomery-cand"
+      ]
+    },
+    {
+      "id": "senate-5",
+      "group": "Ohio General Assembly",
+      "office": "State Senator",
+      "detail": "5th District",
+      "area": "Brookville City, Butler Township, Clay Township, Clayton City, Dayton City, Englewood City, Farmersville Village, German Township, Germantown City, Harrison Township, Huber Heights City, Jackson Township, Miami Township, Miamisburg City, New Lebanon Village, Perry Township, Phillipsburg Village, Union City, Vandalia City, Verona Village",
+      "places": [
+        "Brookville City",
+        "Butler Township",
+        "Clay Township",
+        "Clayton City",
+        "Dayton City",
+        "Englewood City",
+        "Farmersville Village",
+        "German Township",
+        "Germantown City",
+        "Harrison Township",
+        "Huber Heights City",
+        "Jackson Township",
+        "Miami Township",
+        "Miamisburg City",
+        "New Lebanon Village",
+        "Perry Township",
+        "Phillipsburg Village",
+        "Union City",
+        "Vandalia City",
+        "Verona Village"
+      ],
+      "candidates": [
+        {
+          "name": "Jeffrey Harris",
+          "party": "DEM"
+        },
+        {
+          "name": "Phil Plummer",
+          "party": "REP"
+        }
+      ],
+      "sources": [
+        "montgomery-46day",
+        "montgomery-cand"
+      ]
+    },
+    {
+      "id": "rep-36",
+      "group": "Ohio General Assembly",
+      "office": "State Representative",
+      "detail": "36th District",
+      "area": "Dayton City, Kettering City, Oakwood City, Riverside City",
+      "places": [
+        "Dayton City",
+        "Kettering City",
+        "Oakwood City",
+        "Riverside City"
+      ],
+      "candidates": [
+        {
+          "name": "Chuck Horn",
+          "party": "Non-party"
+        },
+        {
+          "name": "Rose Lounsbury",
+          "party": "DEM"
+        },
+        {
+          "name": "Andrea White",
+          "party": "REP"
+        }
+      ],
+      "sources": [
+        "montgomery-46day",
+        "montgomery-cand"
+      ]
+    },
+    {
+      "id": "rep-37",
+      "group": "Ohio General Assembly",
+      "office": "State Representative",
+      "detail": "37th District",
+      "area": "Carlisle City, Centerville City, Dayton City, Jefferson Township, Miami Township, Moraine City, Springboro City, Washington Township, West Carrollton City",
+      "places": [
+        "Carlisle City",
+        "Centerville City",
+        "Dayton City",
+        "Jefferson Township",
+        "Miami Township",
+        "Moraine City",
+        "Springboro City",
+        "Washington Township",
+        "West Carrollton City"
+      ],
+      "candidates": [
+        {
+          "name": "Tom Herner",
+          "party": "DEM"
+        },
+        {
+          "name": "Tom Young",
+          "party": "REP"
+        }
+      ],
+      "sources": [
+        "montgomery-46day",
+        "montgomery-cand"
+      ]
+    },
+    {
+      "id": "rep-38",
+      "group": "Ohio General Assembly",
+      "office": "State Representative",
+      "detail": "38th District",
+      "area": "Dayton City, Jefferson Township, Trotwood City",
+      "places": [
+        "Dayton City",
+        "Jefferson Township",
+        "Trotwood City"
+      ],
+      "candidates": [
+        {
+          "name": "Desiree Tims",
+          "party": "DEM"
+        }
+      ],
+      "sources": [
+        "montgomery-46day",
+        "montgomery-cand"
+      ]
+    },
+    {
+      "id": "rep-39",
+      "group": "Ohio General Assembly",
+      "office": "State Representative",
+      "detail": "39th District",
+      "area": "Butler Township, Clayton City, Dayton City, Englewood City, Harrison Township, Huber Heights City, Union City, Vandalia City",
+      "places": [
+        "Butler Township",
+        "Clayton City",
+        "Dayton City",
+        "Englewood City",
+        "Harrison Township",
+        "Huber Heights City",
+        "Union City",
+        "Vandalia City"
+      ],
+      "candidates": [
+        {
+          "name": "Mark Campbell",
+          "party": "REP"
+        },
+        {
+          "name": "Daquan Neal",
+          "party": "DEM"
+        }
+      ],
+      "sources": [
+        "montgomery-46day",
+        "montgomery-cand"
+      ]
+    },
+    {
+      "id": "rep-40",
+      "group": "Ohio General Assembly",
+      "office": "State Representative",
+      "detail": "40th District",
+      "area": "Brookville City, Clay Township, Clayton City, Farmersville Village, German Township, Germantown City, Jackson Township, Miami Township, Miamisburg City, New Lebanon Village, Perry Township, Phillipsburg Village, Verona Village",
+      "places": [
+        "Brookville City",
+        "Clay Township",
+        "Clayton City",
+        "Farmersville Village",
+        "German Township",
+        "Germantown City",
+        "Jackson Township",
+        "Miami Township",
+        "Miamisburg City",
+        "New Lebanon Village",
+        "Perry Township",
+        "Phillipsburg Village",
+        "Verona Village"
+      ],
+      "candidates": [
+        {
+          "name": "Rodney Creech",
+          "party": "REP"
+        },
+        {
+          "name": "Timothy B. Hornbacker",
+          "party": "DEM"
+        },
+        {
+          "name": "Joshua A. Umbaugh",
+          "party": "LIB"
+        }
+      ],
+      "sources": [
+        "montgomery-46day",
+        "montgomery-cand"
+      ]
+    },
+    {
+      "id": "appeals-2-0209",
+      "group": "Ohio Court of Appeals",
+      "office": "Judge of the Court of Appeals",
+      "detail": "2nd District · term commencing February 9, 2027",
+      "candidates": [
+        {
+          "name": "Chris Epley",
+          "party": "REP"
+        }
+      ],
+      "sources": [
+        "montgomery-46day",
+        "montgomery-cand"
+      ]
+    },
+    {
+      "id": "commissioner",
+      "group": "County offices",
+      "office": "County Commissioner",
+      "detail": "Term commencing January 1, 2027",
+      "candidates": [
+        {
+          "name": "Margie Christie",
+          "party": "REP"
+        },
+        {
+          "name": "Carolyn Rice",
+          "party": "DEM"
+        }
+      ],
+      "sources": [
+        "montgomery-46day",
+        "montgomery-cand"
+      ]
+    },
+    {
+      "id": "auditor",
+      "group": "County offices",
+      "office": "County Auditor",
+      "candidates": [
+        {
+          "name": "Karl Keith",
+          "party": "DEM"
+        },
+        {
+          "name": "Tammy L. Murphy",
+          "party": "REP"
+        }
+      ],
+      "sources": [
+        "montgomery-46day",
+        "montgomery-cand"
+      ]
+    },
+    {
+      "id": "cp-0101",
+      "group": "Court of Common Pleas",
+      "office": "Judge of the Court of Common Pleas, General Division",
+      "detail": "Term commencing January 1, 2027 · no party label on the ballot",
+      "candidates": [
+        {
+          "name": "Susan D. Solle"
+        }
+      ],
+      "sources": [
+        "montgomery-46day",
+        "montgomery-cand"
+      ]
+    },
+    {
+      "id": "cp-0102",
+      "group": "Court of Common Pleas",
+      "office": "Judge of the Court of Common Pleas, General Division",
+      "detail": "Term commencing January 2, 2027 · no party label on the ballot",
+      "candidates": [
+        {
+          "name": "Anne Keeton"
+        },
+        {
+          "name": "Derek Muncy"
+        }
+      ],
+      "sources": [
+        "montgomery-46day",
+        "montgomery-cand"
+      ]
+    },
+    {
+      "id": "cp-0103",
+      "group": "Court of Common Pleas",
+      "office": "Judge of the Court of Common Pleas, General Division",
+      "detail": "Term commencing January 3, 2027 · no party label on the ballot",
+      "candidates": [
+        {
+          "name": "Michele S.H. Henne"
+        },
+        {
+          "name": "Kelly D. Madzey"
+        }
+      ],
+      "sources": [
+        "montgomery-46day",
+        "montgomery-cand"
+      ]
+    },
+    {
+      "id": "cp-0701",
+      "group": "Court of Common Pleas",
+      "office": "Judge of the Court of Common Pleas, General Division",
+      "detail": "Term commencing July 1, 2027 · no party label on the ballot",
+      "candidates": [
+        {
+          "name": "Steve Abshire"
+        },
+        {
+          "name": "Richard Glennon"
+        }
+      ],
+      "sources": [
+        "montgomery-46day",
+        "montgomery-cand"
+      ]
+    },
+    {
+      "id": "cp-0702",
+      "group": "Court of Common Pleas",
+      "office": "Judge of the Court of Common Pleas, General Division",
+      "detail": "Term commencing July 2, 2027 · no party label on the ballot",
+      "candidates": [
+        {
+          "name": "Elizabeth A. Ellis"
+        }
+      ],
+      "sources": [
+        "montgomery-46day",
+        "montgomery-cand"
+      ]
+    },
+    {
+      "id": "cp-probate",
+      "group": "Court of Common Pleas",
+      "office": "Judge of the Court of Common Pleas, Probate Division",
+      "detail": "Term commencing February 9, 2027 · no party label on the ballot",
+      "candidates": [
+        {
+          "name": "David Brannon"
+        },
+        {
+          "name": "Cassandra A. Rice"
+        }
+      ],
+      "sources": [
+        "montgomery-46day",
+        "montgomery-cand"
+      ]
+    },
+    {
+      "id": "cp-juvenile",
+      "group": "Court of Common Pleas",
+      "office": "Judge of the Court of Common Pleas, Juvenile Division",
+      "detail": "Unexpired term ending December 31, 2028 · no party label on the ballot",
+      "candidates": [
+        {
+          "name": "Hope L. Smalls"
+        },
+        {
+          "name": "Nicholas Sylvain"
+        }
+      ],
+      "sources": [
+        "montgomery-46day",
+        "montgomery-cand"
+      ]
+    },
+    {
+      "id": "new-lebanon-council",
+      "group": "Municipal offices",
+      "office": "New Lebanon Village Council",
+      "detail": "Unexpired term ending December 31, 2029 · vote for 1",
+      "area": "New Lebanon Village (Jackson-New Lebanon A–B, Perry-New Lebanon)",
+      "places": [
+        "New Lebanon Village"
+      ],
+      "candidates": [
+        {
+          "name": "Nicole Adkins"
+        },
+        {
+          "name": "Rob Dennis"
+        }
+      ],
+      "sources": [
+        "montgomery-46day",
+        "montgomery-cand"
+      ]
+    }
+  ],
+  "issues": [
+    {
+      "id": "issue-4",
+      "kind": "levy",
+      "jurisdiction": "Dayton City School District",
+      "title": "Tax levy (additional): Current operating expenses (5 mills) and general permanent improvements (2 mills)",
+      "area": "Dayton City School District",
+      "places": [
+        "Dayton City",
+        "Harrison Township",
+        "Jefferson Township",
+        "Riverside City",
+        "Trotwood City"
+      ],
+      "levy": {
+        "type": "Additional",
+        "purpose": "Current operating expenses (5 mills) and general permanent improvements (2 mills).",
+        "mills": "7 mills",
+        "term": "Continuing period of time, commencing in 2026",
+        "firstDue": "2027"
+      },
+      "number": "Issue 4",
+      "sources": [
+        "montgomery-46day",
+        "montgomery-issues"
+      ]
+    },
+    {
+      "id": "issue-5",
+      "kind": "question",
+      "jurisdiction": "Miamisburg City School District",
+      "title": "School district income tax: 0.5%, continuing, for current expenses",
+      "area": "Miamisburg City School District (German Township A–B splits, Miamisburg, Miami Township parts, West Carrollton A split 3)",
+      "places": [
+        "German Township",
+        "Miami Township",
+        "Miamisburg City",
+        "West Carrollton City"
+      ],
+      "number": "Issue 5",
+      "text": "Income tax of 0.50% on the school district income of individuals, for a continuing period of time, commencing January 1, 2027, for current expenses.",
+      "sources": [
+        "montgomery-46day",
+        "montgomery-issues"
+      ]
+    },
+    {
+      "id": "issue-6",
+      "kind": "levy",
+      "jurisdiction": "Oakwood City School District",
+      "title": "Tax levy (renewal): General permanent improvements",
+      "area": "Oakwood City School District",
+      "places": [
+        "Oakwood City"
+      ],
+      "levy": {
+        "type": "Renewal",
+        "purpose": "General permanent improvements.",
+        "mills": "1.8 mills",
+        "term": "Continuing period of time, commencing in 2027",
+        "firstDue": "2028"
+      },
+      "number": "Issue 6",
+      "sources": [
+        "montgomery-46day",
+        "montgomery-issues"
+      ]
+    },
+    {
+      "id": "issue-7",
+      "kind": "levy",
+      "jurisdiction": "Northridge Local School District",
+      "title": "Tax levy (additional): General permanent improvements",
+      "area": "Northridge Local School District",
+      "places": [
+        "Dayton City",
+        "Harrison Township"
+      ],
+      "levy": {
+        "type": "Additional",
+        "purpose": "General permanent improvements.",
+        "mills": "2.2 mills",
+        "term": "Continuing period of time, commencing in 2026",
+        "firstDue": "2027"
+      },
+      "number": "Issue 7",
+      "sources": [
+        "montgomery-46day",
+        "montgomery-issues"
+      ]
+    },
+    {
+      "id": "issue-8",
+      "kind": "question",
+      "jurisdiction": "City of Brookville",
+      "title": "Charter amendment: The Preamble and parts of Sections 1, 2 and 3",
+      "area": "City of Brookville",
+      "places": [
+        "Brookville City"
+      ],
+      "number": "Issue 8",
+      "text": "Amend the Preamble and parts of Sections 1, 2 and 3 of the Brookville City Charter.",
+      "sources": [
+        "montgomery-46day",
+        "montgomery-issues"
+      ]
+    },
+    {
+      "id": "issue-9",
+      "kind": "question",
+      "jurisdiction": "City of Brookville",
+      "title": "Charter amendment: Parts of Sections 4, 5 and 6",
+      "area": "City of Brookville",
+      "places": [
+        "Brookville City"
+      ],
+      "number": "Issue 9",
+      "text": "Amend parts of Sections 4, 5 and 6 of the Brookville City Charter.",
+      "sources": [
+        "montgomery-46day",
+        "montgomery-issues"
+      ]
+    },
+    {
+      "id": "issue-10",
+      "kind": "question",
+      "jurisdiction": "City of Brookville",
+      "title": "Charter amendment: Parts of Sections 7, 8, 9 and 12",
+      "area": "City of Brookville",
+      "places": [
+        "Brookville City"
+      ],
+      "number": "Issue 10",
+      "text": "Amend parts of Sections 7, 8, 9 and 12 of the Brookville City Charter.",
+      "sources": [
+        "montgomery-46day",
+        "montgomery-issues"
+      ]
+    },
+    {
+      "id": "issue-11",
+      "kind": "question",
+      "jurisdiction": "City of Brookville",
+      "title": "Charter amendment: Parts of Sections 10 and 11",
+      "area": "City of Brookville",
+      "places": [
+        "Brookville City"
+      ],
+      "number": "Issue 11",
+      "text": "Amend parts of Sections 10 and 11 of the Brookville City Charter.",
+      "sources": [
+        "montgomery-46day",
+        "montgomery-issues"
+      ]
+    },
+    {
+      "id": "issue-12",
+      "kind": "liquor",
+      "jurisdiction": "City of Dayton",
+      "title": "Local liquor option: Shamrock Athletic Club (Sunday)",
+      "area": "Dayton precinct 12-C",
+      "places": [
+        "Dayton City"
+      ],
+      "number": "Issue 12",
+      "text": "Local option (5-R, question 2): Sunday sale of beer, wine and mixed beverages, and spirituous liquor by Shamrock Athletic Club, 820 Linden Ave., Dayton.",
+      "sources": [
+        "montgomery-46day",
+        "montgomery-issues"
+      ]
+    },
+    {
+      "id": "issue-13",
+      "kind": "liquor",
+      "jurisdiction": "City of Dayton",
+      "title": "Local liquor option: University of Dayton (Sunday)",
+      "area": "Dayton precinct 13-A",
+      "places": [
+        "Dayton City"
+      ],
+      "number": "Issue 13",
+      "text": "Local option (5-R, question 2): Sunday sale of wine and mixed beverages, and spirituous liquor by the University of Dayton, 1801 Edwin C. Moses Boulevard S., Dayton.",
+      "sources": [
+        "montgomery-46day",
+        "montgomery-issues"
+      ]
+    },
+    {
+      "id": "issue-14",
+      "kind": "liquor",
+      "jurisdiction": "City of Huber Heights",
+      "title": "Local liquor option: Villa Tavern (Sunday)",
+      "area": "Huber Heights precinct 1-D",
+      "places": [
+        "Huber Heights City"
+      ],
+      "number": "Issue 14",
+      "text": "Local option (5-R, question 2): Sunday sale of wine and mixed beverages, and spirituous liquor by CWA Management, L.L.C., dba Villa Tavern, 6303 Rip Rap Road, Huber Heights.",
+      "sources": [
+        "montgomery-46day",
+        "montgomery-issues"
+      ]
+    },
+    {
+      "id": "issue-15",
+      "kind": "question",
+      "jurisdiction": "City of Kettering",
+      "title": "Charter amendment: Sections 7-3 and 7-5 (appeals to Council)",
+      "area": "City of Kettering",
+      "places": [
+        "Kettering City"
+      ],
+      "number": "Issue 15",
+      "text": "Amend Section 7-3, Appeals from the Planning Commission to Council, and Section 7-5, Appeals from the Board of Zoning Appeals to Council.",
+      "sources": [
+        "montgomery-46day",
+        "montgomery-issues"
+      ]
+    },
+    {
+      "id": "issue-16",
+      "kind": "question",
+      "jurisdiction": "City of Kettering",
+      "title": "Charter amendment: gender-neutral wording",
+      "area": "City of Kettering",
+      "places": [
+        "Kettering City"
+      ],
+      "number": "Issue 16",
+      "text": "Amend Sections 3-2, 3-3, 3-6, 3-8, 5-1, 5-2, 5-3, 5-4, 5-5, 5-6, 5-7, 8-3 and 8-4 to change the use of gender-specific pronouns to the corresponding nouns.",
+      "sources": [
+        "montgomery-46day",
+        "montgomery-issues"
+      ]
+    },
+    {
+      "id": "issue-17",
+      "kind": "question",
+      "jurisdiction": "City of Kettering",
+      "title": "Charter amendment: Section 4-3 (procedure of passage of ordinances)",
+      "area": "City of Kettering",
+      "places": [
+        "Kettering City"
+      ],
+      "number": "Issue 17",
+      "text": "Amend Section 4-3, Procedure of Passage of Ordinances.",
+      "sources": [
+        "montgomery-46day",
+        "montgomery-issues"
+      ]
+    },
+    {
+      "id": "issue-18",
+      "kind": "question",
+      "jurisdiction": "City of Kettering",
+      "title": "Charter amendment: Section 7-2 (powers and duties)",
+      "area": "City of Kettering",
+      "places": [
+        "Kettering City"
+      ],
+      "number": "Issue 18",
+      "text": "Amend Section 7-2, Powers and Duties.",
+      "sources": [
+        "montgomery-46day",
+        "montgomery-issues"
+      ]
+    },
+    {
+      "id": "issue-19",
+      "kind": "question",
+      "jurisdiction": "City of Kettering",
+      "title": "Charter amendment: Sections 5-2 and 6-2 (the Manager; department directors)",
+      "area": "City of Kettering",
+      "places": [
+        "Kettering City"
+      ],
+      "number": "Issue 19",
+      "text": "Amend Article V, Section 5-2, The Manager, and Article VI, Section 6-2, Department Directors.",
+      "sources": [
+        "montgomery-46day",
+        "montgomery-issues"
+      ]
+    },
+    {
+      "id": "issue-20",
+      "kind": "levy",
+      "jurisdiction": "City of Oakwood",
+      "title": "Tax levy (renewal): Current expenses",
+      "area": "City of Oakwood",
+      "places": [
+        "Oakwood City"
+      ],
+      "levy": {
+        "type": "Renewal",
+        "purpose": "Current expenses.",
+        "mills": "2.72 mills",
+        "term": "5 years, commencing in 2026",
+        "firstDue": "2027"
+      },
+      "number": "Issue 20",
+      "sources": [
+        "montgomery-46day",
+        "montgomery-issues"
+      ]
+    },
+    {
+      "id": "issue-21",
+      "kind": "question",
+      "jurisdiction": "City of Union",
+      "title": "Municipal income tax: additional 1% for police and fire department operations",
+      "area": "City of Union",
+      "places": [
+        "Union City"
+      ],
+      "number": "Issue 21",
+      "text": "Additional 1% increase in the municipal income tax, for a continuing period of time, commencing January 1, 2027, for police and fire department operations.",
+      "sources": [
+        "montgomery-46day",
+        "montgomery-issues"
+      ]
+    },
+    {
+      "id": "issue-22",
+      "kind": "liquor",
+      "jurisdiction": "Village of New Lebanon",
+      "title": "Local liquor option: American Legion Post 762",
+      "area": "New Lebanon precinct PNLB (Perry-New Lebanon)",
+      "places": [
+        "New Lebanon Village"
+      ],
+      "number": "Issue 22",
+      "text": "Local option (5-R, question 1): sale of beer, wine and mixed beverages, and spirituous liquor by AL Post 762, 519 E. Main St., New Lebanon.",
+      "sources": [
+        "montgomery-46day",
+        "montgomery-issues"
+      ]
+    },
+    {
+      "id": "issue-23",
+      "kind": "levy",
+      "jurisdiction": "German Township (incorporated and unincorporated)",
+      "title": "Tax levy (renewal): Providing or maintaining senior citizens services or facilities",
+      "area": "German Township A–B and Germantown A–D",
+      "places": [
+        "German Township",
+        "Germantown City"
+      ],
+      "levy": {
+        "type": "Renewal",
+        "purpose": "Providing or maintaining senior citizens services or facilities.",
+        "mills": "1 mill",
+        "term": "5 years, commencing in 2027",
+        "firstDue": "2028"
+      },
+      "number": "Issue 23",
+      "sources": [
+        "montgomery-46day",
+        "montgomery-issues"
+      ]
+    },
+    {
+      "id": "issue-24",
+      "kind": "levy",
+      "jurisdiction": "Jackson Township (unincorporated area and the Village of Farmersville)",
+      "title": "Tax levy (additional): Parks and recreational purposes",
+      "area": "Farmersville, Jackson Township A–B, Jackson-New Lebanon A (split 2)",
+      "places": [
+        "Farmersville Village",
+        "Jackson Township",
+        "New Lebanon Village"
+      ],
+      "levy": {
+        "type": "Additional",
+        "purpose": "Parks and recreational purposes.",
+        "mills": "2 mills",
+        "term": "10 years, commencing in 2026",
+        "firstDue": "2027"
+      },
+      "number": "Issue 24",
+      "sources": [
+        "montgomery-46day",
+        "montgomery-issues"
+      ]
+    },
+    {
+      "id": "issue-25",
+      "kind": "levy",
+      "jurisdiction": "Jefferson Township",
+      "title": "Tax levy (additional): Current expenses",
+      "area": "Jefferson Township A–D, plus Dayton 14-A (split 3) and 14-C (split 3)",
+      "places": [
+        "Dayton City",
+        "Jefferson Township"
+      ],
+      "levy": {
+        "type": "Additional",
+        "purpose": "Current expenses.",
+        "mills": "3 mills",
+        "term": "5 years, commencing in 2026",
+        "firstDue": "2027"
+      },
+      "number": "Issue 25",
+      "sources": [
+        "montgomery-46day",
+        "montgomery-issues"
+      ]
+    }
+  ]
+}

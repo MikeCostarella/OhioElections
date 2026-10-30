@@ -1,0 +1,772 @@
+{
+ "BEXLEY CITY": {
+  "voters": 9829,
+  "CONGRESSIONAL_DISTRICT": {
+   "03": 9829
+  },
+  "STATE_REPRESENTATIVE_DISTRICT": {
+   "01": 9829
+  },
+  "STATE_SENATE_DISTRICT": {
+   "15": 9829
+  },
+  "COURT_OF_APPEALS": {
+   "10": 9829
+  }
+ },
+ "BRICE VILLAGE": {
+  "voters": 68,
+  "CONGRESSIONAL_DISTRICT": {
+   "15": 68
+  },
+  "STATE_REPRESENTATIVE_DISTRICT": {
+   "02": 68
+  },
+  "STATE_SENATE_DISTRICT": {
+   "15": 68
+  },
+  "COURT_OF_APPEALS": {
+   "10": 68
+  },
+  "TWP_OF_VILLAGE": {
+   "Truro Township": 68
+  }
+ },
+ "Blendon Township": {
+  "voters": 5316,
+  "CONGRESSIONAL_DISTRICT": {
+   "03": 5316
+  },
+  "STATE_REPRESENTATIVE_DISTRICT": {
+   "09": 4757,
+   "04": 559
+  },
+  "STATE_SENATE_DISTRICT": {
+   "25": 4757,
+   "16": 559
+  },
+  "COURT_OF_APPEALS": {
+   "10": 5316
+  }
+ },
+ "Brown Township": {
+  "voters": 1970,
+  "CONGRESSIONAL_DISTRICT": {
+   "15": 1970
+  },
+  "STATE_REPRESENTATIVE_DISTRICT": {
+   "11": 1970
+  },
+  "STATE_SENATE_DISTRICT": {
+   "16": 1970
+  },
+  "COURT_OF_APPEALS": {
+   "10": 1970
+  }
+ },
+ "CANAL WINCHESTER CITY": {
+  "voters": 5935,
+  "CONGRESSIONAL_DISTRICT": {
+   "15": 5935
+  },
+  "STATE_REPRESENTATIVE_DISTRICT": {
+   "05": 5935
+  },
+  "STATE_SENATE_DISTRICT": {
+   "03": 5935
+  },
+  "COURT_OF_APPEALS": {
+   "10": 5935
+  },
+  "TWP_OF_CITY": {
+   "Madison Township": 5935
+  }
+ },
+ "COLUMBUS CITY ": {
+  "voters": 581434,
+  "CONGRESSIONAL_DISTRICT": {
+   "03": 366040,
+   "15": 215394
+  },
+  "STATE_REPRESENTATIVE_DISTRICT": {
+   "01": 76564,
+   "06": 60438,
+   "09": 66904,
+   "03": 69481,
+   "07": 45771,
+   "10": 44957,
+   "02": 67267,
+   "11": 26623,
+   "08": 61756,
+   "05": 37816,
+   "04": 23722,
+   "12": 135
+  },
+  "STATE_SENATE_DISTRICT": {
+   "15": 213312,
+   "25": 173113,
+   "03": 82908,
+   "16": 112101
+  },
+  "COURT_OF_APPEALS": {
+   "10": 581434
+  },
+  "TWP_OF_CITY": {
+   "Jefferson Township": 923,
+   "Hamilton Township": 1369,
+   "Jackson Township": 748,
+   "Franklin Township": 517,
+   "Norwich Township": 1001,
+   "Mifflin Township": 17,
+   "Clinton Township": 517,
+   "Sharon Township": 74,
+   "Prairie Township": 578,
+   "Pleasant Township": 24,
+   "Madison Township": 431,
+   "Brown Township": 1
+  }
+ },
+ "Clinton Township": {
+  "voters": 2632,
+  "CONGRESSIONAL_DISTRICT": {
+   "03": 2632
+  },
+  "STATE_REPRESENTATIVE_DISTRICT": {
+   "03": 1973,
+   "09": 100,
+   "07": 559
+  },
+  "STATE_SENATE_DISTRICT": {
+   "15": 1973,
+   "25": 659
+  },
+  "COURT_OF_APPEALS": {
+   "10": 2632
+  }
+ },
+ "DUBLIN CITY ": {
+  "voters": 29448,
+  "CONGRESSIONAL_DISTRICT": {
+   "15": 29448
+  },
+  "STATE_REPRESENTATIVE_DISTRICT": {
+   "11": 29448
+  },
+  "STATE_SENATE_DISTRICT": {
+   "16": 29448
+  },
+  "COURT_OF_APPEALS": {
+   "10": 29448
+  },
+  "TWP_OF_CITY": {
+   "Washington Township": 29448
+  }
+ },
+ "Franklin Township": {
+  "voters": 5177,
+  "CONGRESSIONAL_DISTRICT": {
+   "15": 5177
+  },
+  "STATE_REPRESENTATIVE_DISTRICT": {
+   "06": 1973,
+   "10": 3203,
+   "07": 1
+  },
+  "STATE_SENATE_DISTRICT": {
+   "25": 1974,
+   "03": 3203
+  },
+  "COURT_OF_APPEALS": {
+   "10": 5177
+  }
+ },
+ "GAHANNA CITY": {
+  "voters": 26543,
+  "CONGRESSIONAL_DISTRICT": {
+   "03": 26543
+  },
+  "STATE_REPRESENTATIVE_DISTRICT": {
+   "04": 26542,
+   "03": 1
+  },
+  "STATE_SENATE_DISTRICT": {
+   "16": 26542,
+   "15": 1
+  },
+  "COURT_OF_APPEALS": {
+   "10": 26543
+  },
+  "TWP_OF_CITY": {
+   "Mifflin Township": 26339,
+   "Jefferson Township": 204
+  }
+ },
+ "GRANDVIEW HEIGHTS CITY": {
+  "voters": 7153,
+  "CONGRESSIONAL_DISTRICT": {
+   "03": 7153
+  },
+  "STATE_REPRESENTATIVE_DISTRICT": {
+   "07": 7153
+  },
+  "STATE_SENATE_DISTRICT": {
+   "25": 7153
+  },
+  "COURT_OF_APPEALS": {
+   "10": 7153
+  }
+ },
+ "GROVE CITY-CITY": {
+  "voters": 32174,
+  "CONGRESSIONAL_DISTRICT": {
+   "15": 32174
+  },
+  "STATE_REPRESENTATIVE_DISTRICT": {
+   "10": 32174
+  },
+  "STATE_SENATE_DISTRICT": {
+   "03": 32174
+  },
+  "COURT_OF_APPEALS": {
+   "10": 32174
+  },
+  "TWP_OF_CITY": {
+   "Jackson Township": 32170,
+   "Pleasant Township": 4
+  }
+ },
+ "GROVEPORT CITY": {
+  "voters": 4530,
+  "CONGRESSIONAL_DISTRICT": {
+   "15": 4530
+  },
+  "STATE_REPRESENTATIVE_DISTRICT": {
+   "05": 4530
+  },
+  "STATE_SENATE_DISTRICT": {
+   "03": 4530
+  },
+  "COURT_OF_APPEALS": {
+   "10": 4530
+  },
+  "TWP_OF_CITY": {
+   "Madison Township": 4530
+  }
+ },
+ "HARRISBURG VILLAGE ": {
+  "voters": 202,
+  "CONGRESSIONAL_DISTRICT": {
+   "15": 202
+  },
+  "STATE_REPRESENTATIVE_DISTRICT": {
+   "12": 202
+  },
+  "STATE_SENATE_DISTRICT": {
+   "03": 202
+  },
+  "COURT_OF_APPEALS": {
+   "10": 202
+  },
+  "TWP_OF_VILLAGE": {
+   "Pleasant Township": 202
+  }
+ },
+ "HILLIARD CITY": {
+  "voters": 28014,
+  "CONGRESSIONAL_DISTRICT": {
+   "15": 28014
+  },
+  "STATE_REPRESENTATIVE_DISTRICT": {
+   "11": 28014
+  },
+  "STATE_SENATE_DISTRICT": {
+   "16": 28014
+  },
+  "COURT_OF_APPEALS": {
+   "10": 28014
+  },
+  "TWP_OF_CITY": {
+   "Norwich Township": 25744,
+   "Brown Township": 2270
+  }
+ },
+ "Hamilton Township": {
+  "voters": 2411,
+  "CONGRESSIONAL_DISTRICT": {
+   "15": 2411
+  },
+  "STATE_REPRESENTATIVE_DISTRICT": {
+   "05": 2403,
+   "10": 8
+  },
+  "STATE_SENATE_DISTRICT": {
+   "03": 2411
+  },
+  "COURT_OF_APPEALS": {
+   "10": 2411
+  }
+ },
+ "Jackson Township": {
+  "voters": 3093,
+  "CONGRESSIONAL_DISTRICT": {
+   "15": 3093
+  },
+  "STATE_REPRESENTATIVE_DISTRICT": {
+   "10": 3093
+  },
+  "STATE_SENATE_DISTRICT": {
+   "03": 3093
+  },
+  "COURT_OF_APPEALS": {
+   "10": 3093
+  }
+ },
+ "Jefferson Township": {
+  "voters": 11900,
+  "CONGRESSIONAL_DISTRICT": {
+   "03": 11900
+  },
+  "STATE_REPRESENTATIVE_DISTRICT": {
+   "04": 11869,
+   "05": 24,
+   "02": 7
+  },
+  "STATE_SENATE_DISTRICT": {
+   "16": 11869,
+   "03": 24,
+   "15": 7
+  },
+  "COURT_OF_APPEALS": {
+   "10": 11900
+  }
+ },
+ "LITHOPOLIS VILLAGE": {
+  "voters": 40,
+  "CONGRESSIONAL_DISTRICT": {
+   "15": 40
+  },
+  "STATE_REPRESENTATIVE_DISTRICT": {
+   "05": 40
+  },
+  "STATE_SENATE_DISTRICT": {
+   "03": 40
+  },
+  "COURT_OF_APPEALS": {
+   "10": 40
+  },
+  "TWP_OF_VILLAGE": {
+   "Madison Township": 40
+  }
+ },
+ "LOCKBOURNE VILLAGE": {
+  "voters": 160,
+  "CONGRESSIONAL_DISTRICT": {
+   "15": 160
+  },
+  "STATE_REPRESENTATIVE_DISTRICT": {
+   "05": 160
+  },
+  "STATE_SENATE_DISTRICT": {
+   "03": 160
+  },
+  "COURT_OF_APPEALS": {
+   "10": 160
+  },
+  "TWP_OF_VILLAGE": {
+   "Hamilton Township": 160
+  }
+ },
+ "MARBLE CLIFF VILLAGE": {
+  "voters": 601,
+  "CONGRESSIONAL_DISTRICT": {
+   "03": 601
+  },
+  "STATE_REPRESENTATIVE_DISTRICT": {
+   "07": 601
+  },
+  "STATE_SENATE_DISTRICT": {
+   "25": 601
+  },
+  "COURT_OF_APPEALS": {
+   "10": 601
+  }
+ },
+ "MINERVA PARK VILLAGE": {
+  "voters": 1676,
+  "CONGRESSIONAL_DISTRICT": {
+   "03": 1676
+  },
+  "STATE_REPRESENTATIVE_DISTRICT": {
+   "09": 1676
+  },
+  "STATE_SENATE_DISTRICT": {
+   "25": 1676
+  },
+  "COURT_OF_APPEALS": {
+   "10": 1676
+  },
+  "TWP_OF_VILLAGE": {
+   "Blendon Township": 1676
+  }
+ },
+ "Madison Township": {
+  "voters": 7344,
+  "CONGRESSIONAL_DISTRICT": {
+   "15": 7344
+  },
+  "STATE_REPRESENTATIVE_DISTRICT": {
+   "05": 7344
+  },
+  "STATE_SENATE_DISTRICT": {
+   "03": 7344
+  },
+  "COURT_OF_APPEALS": {
+   "10": 7344
+  }
+ },
+ "Mifflin Township": {
+  "voters": 1646,
+  "CONGRESSIONAL_DISTRICT": {
+   "03": 1646
+  },
+  "STATE_REPRESENTATIVE_DISTRICT": {
+   "03": 1635,
+   "01": 11
+  },
+  "STATE_SENATE_DISTRICT": {
+   "15": 1646
+  },
+  "COURT_OF_APPEALS": {
+   "10": 1646
+  }
+ },
+ "NEW ALBANY CITY": {
+  "voters": 8668,
+  "CONGRESSIONAL_DISTRICT": {
+   "03": 8668
+  },
+  "STATE_REPRESENTATIVE_DISTRICT": {
+   "04": 8668
+  },
+  "STATE_SENATE_DISTRICT": {
+   "16": 8668
+  },
+  "COURT_OF_APPEALS": {
+   "10": 8668
+  },
+  "TWP_OF_CITY": {
+   "Plain Township": 8668
+  }
+ },
+ "Norwich Township": {
+  "voters": 2979,
+  "CONGRESSIONAL_DISTRICT": {
+   "15": 2979
+  },
+  "STATE_REPRESENTATIVE_DISTRICT": {
+   "06": 798,
+   "11": 2181
+  },
+  "STATE_SENATE_DISTRICT": {
+   "25": 798,
+   "16": 2181
+  },
+  "COURT_OF_APPEALS": {
+   "10": 2979
+  }
+ },
+ "OBETZ CITY": {
+  "voters": 5028,
+  "CONGRESSIONAL_DISTRICT": {
+   "15": 5028
+  },
+  "STATE_REPRESENTATIVE_DISTRICT": {
+   "05": 5028
+  },
+  "STATE_SENATE_DISTRICT": {
+   "03": 5028
+  },
+  "COURT_OF_APPEALS": {
+   "10": 5028
+  },
+  "TWP_OF_CITY": {
+   "Hamilton Township": 3659,
+   "Madison Township": 1369
+  }
+ },
+ "PICKERINGTON CITY": {
+  "voters": 50,
+  "CONGRESSIONAL_DISTRICT": {
+   "15": 50
+  },
+  "STATE_REPRESENTATIVE_DISTRICT": {
+   "05": 50
+  },
+  "STATE_SENATE_DISTRICT": {
+   "03": 50
+  },
+  "COURT_OF_APPEALS": {
+   "10": 50
+  },
+  "TWP_OF_CITY": {
+   "Madison Township": 50
+  }
+ },
+ "Perry Township": {
+  "voters": 3518,
+  "CONGRESSIONAL_DISTRICT": {
+   "03": 2922,
+   "15": 596
+  },
+  "STATE_REPRESENTATIVE_DISTRICT": {
+   "08": 3238,
+   "11": 39,
+   "06": 241
+  },
+  "STATE_SENATE_DISTRICT": {
+   "16": 3277,
+   "25": 241
+  },
+  "COURT_OF_APPEALS": {
+   "10": 3518
+  }
+ },
+ "Plain Township": {
+  "voters": 1409,
+  "CONGRESSIONAL_DISTRICT": {
+   "03": 1409
+  },
+  "STATE_REPRESENTATIVE_DISTRICT": {
+   "04": 1407,
+   "09": 2
+  },
+  "STATE_SENATE_DISTRICT": {
+   "16": 1407,
+   "25": 2
+  },
+  "COURT_OF_APPEALS": {
+   "10": 1409
+  }
+ },
+ "Pleasant Township": {
+  "voters": 4661,
+  "CONGRESSIONAL_DISTRICT": {
+   "15": 4661
+  },
+  "STATE_REPRESENTATIVE_DISTRICT": {
+   "12": 4661
+  },
+  "STATE_SENATE_DISTRICT": {
+   "03": 4661
+  },
+  "COURT_OF_APPEALS": {
+   "10": 4661
+  }
+ },
+ "Prairie Township": {
+  "voters": 10849,
+  "CONGRESSIONAL_DISTRICT": {
+   "15": 10849
+  },
+  "STATE_REPRESENTATIVE_DISTRICT": {
+   "12": 5219,
+   "06": 5622,
+   "10": 8
+  },
+  "STATE_SENATE_DISTRICT": {
+   "03": 5227,
+   "25": 5622
+  },
+  "COURT_OF_APPEALS": {
+   "10": 10849
+  }
+ },
+ "REYNOLDSBURG CITY ": {
+  "voters": 19766,
+  "CONGRESSIONAL_DISTRICT": {
+   "03": 19766
+  },
+  "STATE_REPRESENTATIVE_DISTRICT": {
+   "05": 19766
+  },
+  "STATE_SENATE_DISTRICT": {
+   "03": 19766
+  },
+  "COURT_OF_APPEALS": {
+   "10": 19766
+  },
+  "TWP_OF_CITY": {
+   "Truro Township": 19146,
+   "Jefferson Township": 620
+  }
+ },
+ "RIVERLEA VILLAGE": {
+  "voters": 496,
+  "CONGRESSIONAL_DISTRICT": {
+   "03": 496
+  },
+  "STATE_REPRESENTATIVE_DISTRICT": {
+   "08": 496
+  },
+  "STATE_SENATE_DISTRICT": {
+   "16": 496
+  },
+  "COURT_OF_APPEALS": {
+   "10": 496
+  },
+  "TWP_OF_VILLAGE": {
+   "Sharon Township": 496
+  }
+ },
+ "Sharon Township": {
+  "voters": 1605,
+  "CONGRESSIONAL_DISTRICT": {
+   "03": 1605
+  },
+  "STATE_REPRESENTATIVE_DISTRICT": {
+   "08": 1563,
+   "09": 34,
+   "04": 8
+  },
+  "STATE_SENATE_DISTRICT": {
+   "16": 1571,
+   "25": 34
+  },
+  "COURT_OF_APPEALS": {
+   "10": 1605
+  }
+ },
+ "Truro Township": {
+  "voters": 869,
+  "CONGRESSIONAL_DISTRICT": {
+   "15": 768,
+   "03": 101
+  },
+  "STATE_REPRESENTATIVE_DISTRICT": {
+   "02": 771,
+   "05": 98
+  },
+  "STATE_SENATE_DISTRICT": {
+   "15": 771,
+   "03": 98
+  },
+  "COURT_OF_APPEALS": {
+   "10": 869
+  }
+ },
+ "UPPER ARLINGTON CITY": {
+  "voters": 29228,
+  "CONGRESSIONAL_DISTRICT": {
+   "03": 29228
+  },
+  "STATE_REPRESENTATIVE_DISTRICT": {
+   "07": 29228
+  },
+  "STATE_SENATE_DISTRICT": {
+   "25": 29228
+  },
+  "COURT_OF_APPEALS": {
+   "10": 29228
+  },
+  "TWP_OF_CITY": {
+   "Perry Township": 249
+  }
+ },
+ "URBANCREST VILLAGE": {
+  "voters": 562,
+  "CONGRESSIONAL_DISTRICT": {
+   "15": 562
+  },
+  "STATE_REPRESENTATIVE_DISTRICT": {
+   "10": 562
+  },
+  "STATE_SENATE_DISTRICT": {
+   "03": 562
+  },
+  "COURT_OF_APPEALS": {
+   "10": 562
+  },
+  "TWP_OF_VILLAGE": {
+   "Jackson Township": 562
+  }
+ },
+ "VALLEY VIEW VILLAGE": {
+  "voters": 470,
+  "CONGRESSIONAL_DISTRICT": {
+   "15": 470
+  },
+  "STATE_REPRESENTATIVE_DISTRICT": {
+   "06": 470
+  },
+  "STATE_SENATE_DISTRICT": {
+   "25": 470
+  },
+  "COURT_OF_APPEALS": {
+   "10": 470
+  }
+ },
+ "WESTERVILLE CITY ": {
+  "voters": 22182,
+  "CONGRESSIONAL_DISTRICT": {
+   "03": 22182
+  },
+  "STATE_REPRESENTATIVE_DISTRICT": {
+   "04": 22182
+  },
+  "STATE_SENATE_DISTRICT": {
+   "16": 22182
+  },
+  "COURT_OF_APPEALS": {
+   "10": 22182
+  }
+ },
+ "WHITEHALL CITY": {
+  "voters": 11693,
+  "CONGRESSIONAL_DISTRICT": {
+   "03": 11693
+  },
+  "STATE_REPRESENTATIVE_DISTRICT": {
+   "02": 11693
+  },
+  "STATE_SENATE_DISTRICT": {
+   "15": 11693
+  },
+  "COURT_OF_APPEALS": {
+   "10": 11693
+  }
+ },
+ "WORTHINGTON CITY": {
+  "voters": 11829,
+  "CONGRESSIONAL_DISTRICT": {
+   "03": 11829
+  },
+  "STATE_REPRESENTATIVE_DISTRICT": {
+   "08": 11829
+  },
+  "STATE_SENATE_DISTRICT": {
+   "16": 11829
+  },
+  "COURT_OF_APPEALS": {
+   "10": 11829
+  },
+  "TWP_OF_CITY": {
+   "Sharon Township": 11828,
+   "Perry Township": 1
+  }
+ },
+ "Washington Township": {
+  "voters": 596,
+  "CONGRESSIONAL_DISTRICT": {
+   "15": 596
+  },
+  "STATE_REPRESENTATIVE_DISTRICT": {
+   "11": 596
+  },
+  "STATE_SENATE_DISTRICT": {
+   "16": 596
+  },
+  "COURT_OF_APPEALS": {
+   "10": 596
+  }
+ }
+}

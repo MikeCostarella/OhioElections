@@ -42,7 +42,7 @@ class County:
                 d += " " + bare
             return d
         self.names = {r: nm(r) for r in self.raw}
-        self.places = sorted(self.names.values())
+        self.places = sorted(set(self.names.values()))  # precinct-split places renamed to one name appear once
         self.sources = {}
         self.contests = []
         self.issues = []
@@ -57,11 +57,12 @@ class County:
         for r in raws:
             if r not in self.raw:
                 raise KeyError(f"{self.slug}: no place {r!r}")
-            out.append(self.names[r])
+            if self.names[r] not in out:
+                out.append(self.names[r])
         return out
 
     def where(self, field, value):
-        return sorted(self.names[r] for r, v in self.raw.items() if v.get(field, {}).get(value))
+        return sorted({self.names[r] for r, v in self.raw.items() if v.get(field, {}).get(value)})
 
     def district(self, kind, num):
         field = {"cong": "CONGRESSIONAL_DISTRICT", "rep": "STATE_REPRESENTATIVE_DISTRICT", "sen": "STATE_SENATE_DISTRICT"}[kind]

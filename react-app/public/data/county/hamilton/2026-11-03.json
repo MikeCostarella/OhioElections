@@ -1,0 +1,1455 @@
+{
+  "scope": "county",
+  "county": "Hamilton",
+  "fips": "39061",
+  "election": "2026-11-03",
+  "retrieved": "2026-10-30",
+  "notes": [
+    "Taken from the Board of Elections' 46-day election notice, certified candidate list and certified questions and issues list; issue wording is from the Board's ballot issues document. Long charter amendments are condensed; the full wording is on the sample ballot.",
+    "Candidates are listed alphabetically by last name, not in ballot order: Ohio rotates the order of names from precinct to precinct. Certified write-in candidates are not printed on the ballot and are not listed.",
+    "\"Where you live\" uses the state voter file: a district or school levy is shown for a city, village or township when any of its voters live in that district. Your exact ballot depends on your precinct.",
+    "Issue 17 (City of Madeira, Sunday sales in precinct Madeira D) was withdrawn on September 24, 2026 and is not on the ballot. Local issue numbers start at 4: Issue 3 is the statewide question, and there are no Issues 1 or 2."
+  ],
+  "places": [
+    "Addyston Village",
+    "Amberley Village",
+    "Anderson Township",
+    "Arlington Heights Village",
+    "Blue Ash City",
+    "Cheviot City",
+    "Cincinnati City",
+    "Cleves Village",
+    "Colerain Township",
+    "Columbia Township",
+    "Crosby Township",
+    "Deer Park City",
+    "Delhi Township",
+    "Elmwood Place Village",
+    "Evendale Village",
+    "Fairfax Village",
+    "Forest Park City",
+    "Glendale Village",
+    "Golf Manor Village",
+    "Green Township",
+    "Greenhills Village",
+    "Harrison City",
+    "Harrison Township",
+    "Indian Hill City",
+    "Lincoln Heights Village",
+    "Lockland Village",
+    "Loveland City",
+    "Madeira City",
+    "Mariemont Village",
+    "Miami Township",
+    "Milford City",
+    "Montgomery City",
+    "Mt. Healthy City",
+    "Newtown Village",
+    "North Bend Village",
+    "North College Hill City",
+    "Norwood City",
+    "Reading City",
+    "Sharonville City",
+    "Silverton Village",
+    "Springdale City",
+    "Springfield Township",
+    "St. Bernard Village",
+    "Sycamore Township",
+    "Symmes Township",
+    "Terrace Park Village",
+    "Whitewater Township",
+    "Woodlawn Village",
+    "Wyoming City"
+  ],
+  "sources": {
+    "hamilton-46day": {
+      "label": "Hamilton County Board of Elections: 46-day election notice (FWAB), November 3, 2026 General Election",
+      "url": "https://votehamiltoncountyohio.gov/wp-content/uploads/2026/09/G26-46-Day-Notice-9-15-26.pdf"
+    },
+    "hamilton-cand": {
+      "label": "Hamilton County Board of Elections: certified candidate list, November 2026 General Election",
+      "url": "https://votehamiltoncountyohio.gov/wp-content/uploads/2026/10/November-2026-All-Certified-Candidates-Profile-.pdf"
+    },
+    "hamilton-issues": {
+      "label": "Hamilton County Board of Elections: questions and issues certified, November 3, 2026 General Election",
+      "url": "https://votehamiltoncountyohio.gov/wp-content/uploads/2026/09/Nov-2026-QUESTIONS-AND-ISSUES-Filed-2.pdf"
+    },
+    "hamilton-ballot": {
+      "label": "Hamilton County Board of Elections: ballot issues (ballot wording), November 2026 General Election",
+      "url": "https://votehamiltoncountyohio.gov/wp-content/uploads/2026/09/November-2026-Ballot-Issues.pdf"
+    }
+  },
+  "links": [
+    {
+      "label": "Board of Elections",
+      "url": "https://votehamiltoncountyohio.gov/"
+    },
+    {
+      "label": "November 2026 General Election",
+      "url": "https://votehamiltoncountyohio.gov/november-2026-general-election/"
+    },
+    {
+      "label": "Find your sample ballot",
+      "url": "https://votehamiltoncountyohio.gov/sample-ballot/"
+    }
+  ],
+  "results": {
+    "status": "upcoming",
+    "links": [
+      {
+        "label": "Board of Elections: election results",
+        "url": "https://votehamiltoncountyohio.gov/results/"
+      }
+    ]
+  },
+  "contests": [
+    {
+      "id": "congress-1",
+      "group": "U.S. House",
+      "office": "Representative to Congress",
+      "detail": "1st District",
+      "area": "Addyston Village, Anderson Township, Cincinnati City, Cleves Village, Columbia Township, Crosby Township, Delhi Township, Elmwood Place Village, Green Township, Harrison City, Harrison Township, Indian Hill City, Loveland City, Miami Township, Milford City, Newtown Village, North Bend Village, Norwood City, Springfield Township, St. Bernard Village, Symmes Township, Terrace Park Village, Whitewater Township",
+      "places": [
+        "Addyston Village",
+        "Anderson Township",
+        "Cincinnati City",
+        "Cleves Village",
+        "Columbia Township",
+        "Crosby Township",
+        "Delhi Township",
+        "Elmwood Place Village",
+        "Green Township",
+        "Harrison City",
+        "Harrison Township",
+        "Indian Hill City",
+        "Loveland City",
+        "Miami Township",
+        "Milford City",
+        "Newtown Village",
+        "North Bend Village",
+        "Norwood City",
+        "Springfield Township",
+        "St. Bernard Village",
+        "Symmes Township",
+        "Terrace Park Village",
+        "Whitewater Township"
+      ],
+      "candidates": [
+        {
+          "name": "Eric Conroy",
+          "party": "REP"
+        },
+        {
+          "name": "Greg Landsman",
+          "party": "DEM"
+        },
+        {
+          "name": "Nathan Weise",
+          "party": "LIB"
+        }
+      ],
+      "sources": [
+        "hamilton-46day",
+        "hamilton-cand"
+      ]
+    },
+    {
+      "id": "congress-8",
+      "group": "U.S. House",
+      "office": "Representative to Congress",
+      "detail": "8th District",
+      "area": "Amberley Village, Arlington Heights Village, Blue Ash City, Cheviot City, Colerain Township, Columbia Township, Deer Park City, Evendale Village, Fairfax Village, Forest Park City, Glendale Village, Golf Manor Village, Green Township, Greenhills Village, Indian Hill City, Lincoln Heights Village, Lockland Village, Madeira City, Mariemont Village, Montgomery City, Mt. Healthy City, North College Hill City, Reading City, Sharonville City, Silverton Village, Springdale City, Springfield Township, Sycamore Township, Woodlawn Village, Wyoming City",
+      "places": [
+        "Amberley Village",
+        "Arlington Heights Village",
+        "Blue Ash City",
+        "Cheviot City",
+        "Colerain Township",
+        "Columbia Township",
+        "Deer Park City",
+        "Evendale Village",
+        "Fairfax Village",
+        "Forest Park City",
+        "Glendale Village",
+        "Golf Manor Village",
+        "Green Township",
+        "Greenhills Village",
+        "Indian Hill City",
+        "Lincoln Heights Village",
+        "Lockland Village",
+        "Madeira City",
+        "Mariemont Village",
+        "Montgomery City",
+        "Mt. Healthy City",
+        "North College Hill City",
+        "Reading City",
+        "Sharonville City",
+        "Silverton Village",
+        "Springdale City",
+        "Springfield Township",
+        "Sycamore Township",
+        "Woodlawn Village",
+        "Wyoming City"
+      ],
+      "candidates": [
+        {
+          "name": "Warren Davidson",
+          "party": "REP"
+        },
+        {
+          "name": "Vanessa Enoch",
+          "party": "DEM"
+        }
+      ],
+      "sources": [
+        "hamilton-46day",
+        "hamilton-cand"
+      ]
+    },
+    {
+      "id": "senate-7",
+      "group": "Ohio General Assembly",
+      "office": "State Senator",
+      "detail": "7th District (Hamilton and Warren)",
+      "area": "Blue Ash City, Deer Park City, Evendale Village, Forest Park City, Loveland City, Montgomery City, Sharonville City, Springdale City, Springfield Township, Sycamore Township, Symmes Township",
+      "places": [
+        "Blue Ash City",
+        "Deer Park City",
+        "Evendale Village",
+        "Forest Park City",
+        "Loveland City",
+        "Montgomery City",
+        "Sharonville City",
+        "Springdale City",
+        "Springfield Township",
+        "Sycamore Township",
+        "Symmes Township"
+      ],
+      "candidates": [
+        {
+          "name": "Zac Haines",
+          "party": "REP"
+        },
+        {
+          "name": "Cara Jacob",
+          "party": "DEM"
+        }
+      ],
+      "sources": [
+        "hamilton-46day",
+        "hamilton-cand"
+      ]
+    },
+    {
+      "id": "senate-9",
+      "group": "Ohio General Assembly",
+      "office": "State Senator",
+      "detail": "9th District",
+      "area": "Arlington Heights Village, Cincinnati City, Columbia Township, Elmwood Place Village, Fairfax Village, Golf Manor Village, Mariemont Village, Norwood City, Springfield Township, St. Bernard Village",
+      "places": [
+        "Arlington Heights Village",
+        "Cincinnati City",
+        "Columbia Township",
+        "Elmwood Place Village",
+        "Fairfax Village",
+        "Golf Manor Village",
+        "Mariemont Village",
+        "Norwood City",
+        "Springfield Township",
+        "St. Bernard Village"
+      ],
+      "candidates": [
+        {
+          "name": "Catherine Ingram",
+          "party": "DEM"
+        },
+        {
+          "name": "Linda D. Matthews",
+          "party": "REP"
+        }
+      ],
+      "sources": [
+        "hamilton-46day",
+        "hamilton-cand"
+      ]
+    },
+    {
+      "id": "rep-24",
+      "group": "Ohio General Assembly",
+      "office": "State Representative",
+      "detail": "24th District",
+      "area": "Cincinnati City",
+      "places": [
+        "Cincinnati City"
+      ],
+      "candidates": [
+        {
+          "name": "Dani Isaacsohn",
+          "party": "DEM"
+        }
+      ],
+      "sources": [
+        "hamilton-46day",
+        "hamilton-cand"
+      ]
+    },
+    {
+      "id": "rep-25",
+      "group": "Ohio General Assembly",
+      "office": "State Representative",
+      "detail": "25th District",
+      "area": "Arlington Heights Village, Cincinnati City, Elmwood Place Village, Springfield Township, St. Bernard Village",
+      "places": [
+        "Arlington Heights Village",
+        "Cincinnati City",
+        "Elmwood Place Village",
+        "Springfield Township",
+        "St. Bernard Village"
+      ],
+      "candidates": [
+        {
+          "name": "Cecil Thomas",
+          "party": "DEM"
+        }
+      ],
+      "sources": [
+        "hamilton-46day",
+        "hamilton-cand"
+      ]
+    },
+    {
+      "id": "rep-26",
+      "group": "Ohio General Assembly",
+      "office": "State Representative",
+      "detail": "26th District",
+      "area": "Cincinnati City, Columbia Township, Fairfax Village, Golf Manor Village, Mariemont Village, Norwood City",
+      "places": [
+        "Cincinnati City",
+        "Columbia Township",
+        "Fairfax Village",
+        "Golf Manor Village",
+        "Mariemont Village",
+        "Norwood City"
+      ],
+      "candidates": [
+        {
+          "name": "Ashley Bryant Bailey",
+          "party": "DEM"
+        },
+        {
+          "name": "Tom Brinkman",
+          "party": "REP"
+        }
+      ],
+      "sources": [
+        "hamilton-46day",
+        "hamilton-cand"
+      ]
+    },
+    {
+      "id": "rep-27",
+      "group": "Ohio General Assembly",
+      "office": "State Representative",
+      "detail": "27th District",
+      "area": "Amberley Village, Anderson Township, Columbia Township, Indian Hill City, Lincoln Heights Village, Lockland Village, Madeira City, Milford City, Newtown Village, Reading City, Silverton Village, Springfield Township, Sycamore Township, Symmes Township, Terrace Park Village, Woodlawn Village, Wyoming City",
+      "places": [
+        "Amberley Village",
+        "Anderson Township",
+        "Columbia Township",
+        "Indian Hill City",
+        "Lincoln Heights Village",
+        "Lockland Village",
+        "Madeira City",
+        "Milford City",
+        "Newtown Village",
+        "Reading City",
+        "Silverton Village",
+        "Springfield Township",
+        "Sycamore Township",
+        "Symmes Township",
+        "Terrace Park Village",
+        "Woodlawn Village",
+        "Wyoming City"
+      ],
+      "candidates": [
+        {
+          "name": "Nancy Reed Aichholz",
+          "party": "REP"
+        },
+        {
+          "name": "Rachel Baker",
+          "party": "DEM"
+        }
+      ],
+      "sources": [
+        "hamilton-46day",
+        "hamilton-cand"
+      ]
+    },
+    {
+      "id": "rep-28",
+      "group": "Ohio General Assembly",
+      "office": "State Representative",
+      "detail": "28th District",
+      "area": "Blue Ash City, Deer Park City, Evendale Village, Forest Park City, Loveland City, Montgomery City, Sharonville City, Springdale City, Springfield Township, Sycamore Township, Symmes Township",
+      "places": [
+        "Blue Ash City",
+        "Deer Park City",
+        "Evendale Village",
+        "Forest Park City",
+        "Loveland City",
+        "Montgomery City",
+        "Sharonville City",
+        "Springdale City",
+        "Springfield Township",
+        "Sycamore Township",
+        "Symmes Township"
+      ],
+      "candidates": [
+        {
+          "name": "Karen Brownlee",
+          "party": "DEM"
+        },
+        {
+          "name": "Jill Cole",
+          "party": "REP"
+        }
+      ],
+      "sources": [
+        "hamilton-46day",
+        "hamilton-cand"
+      ]
+    },
+    {
+      "id": "rep-29",
+      "group": "Ohio General Assembly",
+      "office": "State Representative",
+      "detail": "29th District",
+      "area": "Colerain Township, Crosby Township, Glendale Village, Greenhills Village, Harrison City, Harrison Township, Mt. Healthy City, North College Hill City, Springfield Township, Whitewater Township",
+      "places": [
+        "Colerain Township",
+        "Crosby Township",
+        "Glendale Village",
+        "Greenhills Village",
+        "Harrison City",
+        "Harrison Township",
+        "Mt. Healthy City",
+        "North College Hill City",
+        "Springfield Township",
+        "Whitewater Township"
+      ],
+      "candidates": [
+        {
+          "name": "Cindy Abrams",
+          "party": "REP"
+        },
+        {
+          "name": "Jonathan R. Bradner",
+          "party": "DEM"
+        }
+      ],
+      "sources": [
+        "hamilton-46day",
+        "hamilton-cand"
+      ]
+    },
+    {
+      "id": "rep-30",
+      "group": "Ohio General Assembly",
+      "office": "State Representative",
+      "detail": "30th District",
+      "area": "Addyston Village, Cheviot City, Cleves Village, Delhi Township, Green Township, Miami Township, North Bend Village",
+      "places": [
+        "Addyston Village",
+        "Cheviot City",
+        "Cleves Village",
+        "Delhi Township",
+        "Green Township",
+        "Miami Township",
+        "North Bend Village"
+      ],
+      "candidates": [
+        {
+          "name": "Mike Odioso",
+          "party": "REP"
+        },
+        {
+          "name": "Caleb Price",
+          "party": "DEM"
+        }
+      ],
+      "sources": [
+        "hamilton-46day",
+        "hamilton-cand"
+      ]
+    },
+    {
+      "id": "appeals-1-0209",
+      "group": "Ohio Court of Appeals",
+      "office": "Judge of the Court of Appeals",
+      "detail": "1st District · term commencing February 9, 2027",
+      "candidates": [
+        {
+          "name": "Ginger S. Bock",
+          "party": "DEM"
+        }
+      ],
+      "sources": [
+        "hamilton-46day",
+        "hamilton-cand"
+      ]
+    },
+    {
+      "id": "commissioner",
+      "group": "County offices",
+      "office": "County Commissioner",
+      "detail": "Term commencing January 1, 2027",
+      "candidates": [
+        {
+          "name": "Meeka Owens",
+          "party": "DEM"
+        },
+        {
+          "name": "Jonathan Pearson",
+          "party": "REP"
+        }
+      ],
+      "sources": [
+        "hamilton-46day",
+        "hamilton-cand"
+      ]
+    },
+    {
+      "id": "auditor",
+      "group": "County offices",
+      "office": "County Auditor",
+      "detail": "Term commencing March 8, 2027",
+      "candidates": [
+        {
+          "name": "Jessica E. Miranda",
+          "party": "DEM"
+        }
+      ],
+      "sources": [
+        "hamilton-46day",
+        "hamilton-cand"
+      ]
+    },
+    {
+      "id": "cp-gen-0101",
+      "group": "Court of Common Pleas",
+      "office": "Judge of the Court of Common Pleas, General Division",
+      "detail": "Term commencing January 1, 2027 · no party label on the ballot",
+      "candidates": [
+        {
+          "name": "Katie Casch"
+        },
+        {
+          "name": "Donte Johnson"
+        }
+      ],
+      "sources": [
+        "hamilton-46day",
+        "hamilton-cand"
+      ]
+    },
+    {
+      "id": "cp-gen-0102",
+      "group": "Court of Common Pleas",
+      "office": "Judge of the Court of Common Pleas, General Division",
+      "detail": "Term commencing January 2, 2027 · no party label on the ballot",
+      "candidates": [
+        {
+          "name": "Christian A. Jenkins"
+        },
+        {
+          "name": "Betsy Sundermann"
+        }
+      ],
+      "sources": [
+        "hamilton-46day",
+        "hamilton-cand"
+      ]
+    },
+    {
+      "id": "cp-gen-0104",
+      "group": "Court of Common Pleas",
+      "office": "Judge of the Court of Common Pleas, General Division",
+      "detail": "Term commencing January 4, 2027 · no party label on the ballot",
+      "candidates": [
+        {
+          "name": "Chris Wagner"
+        }
+      ],
+      "sources": [
+        "hamilton-46day",
+        "hamilton-cand"
+      ]
+    },
+    {
+      "id": "cp-gen-0209",
+      "group": "Court of Common Pleas",
+      "office": "Judge of the Court of Common Pleas, General Division",
+      "detail": "Term commencing February 9, 2027 · no party label on the ballot",
+      "candidates": [
+        {
+          "name": "Roger Bouchard"
+        },
+        {
+          "name": "Jennifer Branch"
+        }
+      ],
+      "sources": [
+        "hamilton-46day",
+        "hamilton-cand"
+      ]
+    },
+    {
+      "id": "cp-gen-0210",
+      "group": "Court of Common Pleas",
+      "office": "Judge of the Court of Common Pleas, General Division",
+      "detail": "Term commencing February 10, 2027 · no party label on the ballot",
+      "candidates": [
+        {
+          "name": "Dennis Charles Mahoney"
+        },
+        {
+          "name": "Alan C. Triggs"
+        }
+      ],
+      "sources": [
+        "hamilton-46day",
+        "hamilton-cand"
+      ]
+    },
+    {
+      "id": "cp-gen-0211",
+      "group": "Court of Common Pleas",
+      "office": "Judge of the Court of Common Pleas, General Division",
+      "detail": "Term commencing February 11, 2027 · no party label on the ballot",
+      "candidates": [
+        {
+          "name": "Robert A. Goering"
+        },
+        {
+          "name": "Latoya S. Maley"
+        }
+      ],
+      "sources": [
+        "hamilton-46day",
+        "hamilton-cand"
+      ]
+    },
+    {
+      "id": "cp-gen-0212",
+      "group": "Court of Common Pleas",
+      "office": "Judge of the Court of Common Pleas, General Division",
+      "detail": "Term commencing February 12, 2027 · no party label on the ballot",
+      "candidates": [
+        {
+          "name": "Wende C. Cross"
+        }
+      ],
+      "sources": [
+        "hamilton-46day",
+        "hamilton-cand"
+      ]
+    },
+    {
+      "id": "cp-gen-0213",
+      "group": "Court of Common Pleas",
+      "office": "Judge of the Court of Common Pleas, General Division",
+      "detail": "Term commencing February 13, 2027 · no party label on the ballot",
+      "candidates": [
+        {
+          "name": "Alison Hatheway"
+        }
+      ],
+      "sources": [
+        "hamilton-46day",
+        "hamilton-cand"
+      ]
+    },
+    {
+      "id": "cp-gen-ute-0103",
+      "group": "Court of Common Pleas",
+      "office": "Judge of the Court of Common Pleas, General Division",
+      "detail": "Unexpired term ending January 3, 2029 · no party label on the ballot",
+      "candidates": [
+        {
+          "name": "Sarah Henry"
+        },
+        {
+          "name": "Chris McDowell"
+        }
+      ],
+      "sources": [
+        "hamilton-46day",
+        "hamilton-cand"
+      ]
+    },
+    {
+      "id": "cp-gen-ute-0114",
+      "group": "Court of Common Pleas",
+      "office": "Judge of the Court of Common Pleas, General Division",
+      "detail": "Unexpired term ending January 14, 2029 · no party label on the ballot",
+      "candidates": [
+        {
+          "name": "Leah Dinkelacker"
+        },
+        {
+          "name": "Manisha Kotian"
+        }
+      ],
+      "sources": [
+        "hamilton-46day",
+        "hamilton-cand"
+      ]
+    },
+    {
+      "id": "cp-drug",
+      "group": "Court of Common Pleas",
+      "office": "Judge of the Court of Common Pleas, Drug Court Division",
+      "detail": "Term commencing January 3, 2027 · no party label on the ballot",
+      "candidates": [
+        {
+          "name": "Nicole L. Sanders"
+        }
+      ],
+      "sources": [
+        "hamilton-46day",
+        "hamilton-cand"
+      ]
+    },
+    {
+      "id": "cp-probate",
+      "group": "Court of Common Pleas",
+      "office": "Judge of the Court of Common Pleas, Probate Division",
+      "detail": "Term commencing February 9, 2027 · no party label on the ballot",
+      "candidates": [
+        {
+          "name": "Elizabeth A. Tye"
+        },
+        {
+          "name": "Ralph Winkler"
+        }
+      ],
+      "sources": [
+        "hamilton-46day",
+        "hamilton-cand"
+      ]
+    },
+    {
+      "id": "cp-juvenile",
+      "group": "Court of Common Pleas",
+      "office": "Judge of the Court of Common Pleas, Juvenile Division",
+      "detail": "Term commencing February 14, 2027 · no party label on the ballot",
+      "candidates": [
+        {
+          "name": "Kari L. Bloom"
+        },
+        {
+          "name": "Susan Luken"
+        }
+      ],
+      "sources": [
+        "hamilton-46day",
+        "hamilton-cand"
+      ]
+    },
+    {
+      "id": "cp-dr",
+      "group": "Court of Common Pleas",
+      "office": "Judge of the Court of Common Pleas, Domestic Relations Division",
+      "detail": "Term commencing July 1, 2027 · no party label on the ballot",
+      "candidates": [
+        {
+          "name": "Tiffany Evans"
+        }
+      ],
+      "sources": [
+        "hamilton-46day",
+        "hamilton-cand"
+      ]
+    }
+  ],
+  "issues": [
+    {
+      "id": "issue-4",
+      "kind": "levy",
+      "jurisdiction": "Cincinnati City School District (Cincinnati Public Schools)",
+      "title": "Tax levy (additional): Current expenses",
+      "area": "Cincinnati City School District (Cincinnati Public Schools)",
+      "places": [
+        "Amberley Village",
+        "Cheviot City",
+        "Cincinnati City",
+        "Columbia Township",
+        "Delhi Township",
+        "Fairfax Village",
+        "Golf Manor Village",
+        "Green Township",
+        "Madeira City",
+        "Silverton Village",
+        "Springfield Township",
+        "Sycamore Township"
+      ],
+      "levy": {
+        "type": "Additional",
+        "purpose": "Current expenses.",
+        "mills": "7 mills",
+        "term": "5 years, commencing in 2026",
+        "firstDue": "2027",
+        "estimate": "$66,336,723 a year; $245 for each $100,000 of the county auditor's market value"
+      },
+      "number": "Issue 4",
+      "sources": [
+        "hamilton-ballot",
+        "hamilton-issues",
+        "hamilton-46day"
+      ]
+    },
+    {
+      "id": "issue-5",
+      "kind": "question",
+      "jurisdiction": "North College Hill City School District",
+      "title": "School district income tax: 1.25 percent, 5 years",
+      "area": "North College Hill City School District",
+      "places": [
+        "North College Hill City",
+        "Springfield Township"
+      ],
+      "number": "Issue 5",
+      "text": "Shall an annual income tax of 1.25 percent on the earned income of individuals residing in the school district be imposed by the North College Hill City School District, for 5 years, beginning January 1, 2027, for the purpose of current expenses?",
+      "sources": [
+        "hamilton-ballot",
+        "hamilton-issues",
+        "hamilton-46day"
+      ]
+    },
+    {
+      "id": "issue-6",
+      "kind": "question",
+      "jurisdiction": "Northwest Local School District (Hamilton and Butler)",
+      "title": "School district income tax: 1.5 percent, continuing",
+      "area": "Northwest Local School District (Hamilton and Butler)",
+      "places": [
+        "Colerain Township",
+        "Forest Park City",
+        "Green Township",
+        "North College Hill City",
+        "Springfield Township"
+      ],
+      "number": "Issue 6",
+      "text": "Shall an annual income tax of 1.5 percent on the earned income of individuals residing in the school district be imposed by the Northwest Local School District (Hamilton and Butler), for a continuing period of time, beginning January 1, 2027, for the purpose of current expenses?",
+      "sources": [
+        "hamilton-ballot",
+        "hamilton-issues",
+        "hamilton-46day"
+      ]
+    },
+    {
+      "id": "issue-7",
+      "kind": "question",
+      "jurisdiction": "Southwest Local School District (Hamilton and Butler)",
+      "title": "School district income tax: 0.25 percent, continuing",
+      "area": "Southwest Local School District (Hamilton and Butler)",
+      "places": [
+        "Crosby Township",
+        "Harrison City",
+        "Harrison Township",
+        "Whitewater Township"
+      ],
+      "number": "Issue 7",
+      "text": "Shall an annual income tax of 0.25 percent on the earned income of individuals residing in the school district be imposed by the Southwest Local School District (Hamilton and Butler), for a continuing period of time, beginning January 1, 2027, for the purpose of current expenses?",
+      "sources": [
+        "hamilton-ballot",
+        "hamilton-issues",
+        "hamilton-46day"
+      ]
+    },
+    {
+      "id": "issue-8",
+      "kind": "levy",
+      "jurisdiction": "Sycamore Community City School District",
+      "title": "Tax levy (additional): Current expenses and permanent improvements",
+      "area": "Sycamore Community City School District",
+      "places": [
+        "Blue Ash City",
+        "Evendale Village",
+        "Loveland City",
+        "Montgomery City",
+        "Sycamore Township",
+        "Symmes Township"
+      ],
+      "levy": {
+        "type": "Additional",
+        "purpose": "Current expenses and permanent improvements.",
+        "mills": "6.95 mills",
+        "term": "Continuing period of time, commencing in 2026",
+        "firstDue": "2027",
+        "estimate": "$17,993,971 a year; $243 for each $100,000 of the county auditor's market value"
+      },
+      "number": "Issue 8",
+      "sources": [
+        "hamilton-ballot",
+        "hamilton-issues",
+        "hamilton-46day"
+      ]
+    },
+    {
+      "id": "issue-9",
+      "kind": "levy",
+      "jurisdiction": "Winton Woods City School District",
+      "title": "Tax levy (additional): Current expenses",
+      "area": "Winton Woods City School District",
+      "places": [
+        "Forest Park City",
+        "Greenhills Village",
+        "Springfield Township",
+        "Wyoming City"
+      ],
+      "levy": {
+        "type": "Additional",
+        "purpose": "Current expenses.",
+        "mills": "6.95 mills",
+        "term": "Continuing period of time, commencing in 2026",
+        "firstDue": "2027",
+        "estimate": "$5,346,642 a year; $243 for each $100,000 of the county auditor's market value"
+      },
+      "number": "Issue 9",
+      "sources": [
+        "hamilton-ballot",
+        "hamilton-issues",
+        "hamilton-46day"
+      ]
+    },
+    {
+      "id": "issue-10",
+      "kind": "levy",
+      "jurisdiction": "Hamilton County",
+      "title": "Tax levy (renewal and increase): Support for children's services and care and placement of children (renewal of 4.51 mills and increase of 1.1 mill)",
+      "area": "Hamilton County",
+      "levy": {
+        "type": "Renewal and increase",
+        "purpose": "Support for children's services and care and placement of children (renewal of 4.51 mills and increase of 1.1 mill).",
+        "mills": "5.61 mills",
+        "term": "4 years, commencing in 2026",
+        "firstDue": "2027",
+        "estimate": "$116,888,718 a year; $121 for each $100,000 of the county auditor's market value"
+      },
+      "number": "Issue 10",
+      "sources": [
+        "hamilton-ballot",
+        "hamilton-issues",
+        "hamilton-46day"
+      ]
+    },
+    {
+      "id": "issue-11",
+      "kind": "levy",
+      "jurisdiction": "City of Cheviot",
+      "title": "Tax levy (renewal): Current expenses",
+      "area": "City of Cheviot",
+      "places": [
+        "Cheviot City"
+      ],
+      "levy": {
+        "type": "Renewal",
+        "purpose": "Current expenses.",
+        "mills": "3 mills",
+        "term": "5 years, commencing in 2026",
+        "firstDue": "2027",
+        "estimate": "$158,674 a year; $18 for each $100,000 of the county auditor's market value"
+      },
+      "number": "Issue 11",
+      "sources": [
+        "hamilton-ballot",
+        "hamilton-issues",
+        "hamilton-46day"
+      ]
+    },
+    {
+      "id": "issue-12",
+      "kind": "liquor",
+      "jurisdiction": "City of Cincinnati",
+      "title": "Local liquor option: ETC Produce Walnut Hills (Sunday)",
+      "area": "Precinct Cincinnati 9-D",
+      "places": [
+        "Cincinnati City"
+      ],
+      "number": "Issue 12",
+      "text": "Shall the sale of wine and mixed beverages be permitted for sale on Sunday by ETC Produce Walnut Hills, L.L.C. a holder of a D-6 liquor permit who is engaged in the business of operating a grocery store at 954 McMillan Street, Cincinnati, Ohio 45206 in this precinct?",
+      "sources": [
+        "hamilton-ballot",
+        "hamilton-issues",
+        "hamilton-46day"
+      ]
+    },
+    {
+      "id": "issue-13",
+      "kind": "levy",
+      "jurisdiction": "City of Deer Park",
+      "title": "Tax levy (renewal): Current expenses",
+      "area": "City of Deer Park",
+      "places": [
+        "Deer Park City"
+      ],
+      "levy": {
+        "type": "Renewal",
+        "purpose": "Current expenses.",
+        "mills": "6.9 mills",
+        "term": "5 years, commencing in 2027",
+        "firstDue": "2028",
+        "estimate": "$760,420 a year; $130 for each $100,000 of the county auditor's market value"
+      },
+      "number": "Issue 13",
+      "sources": [
+        "hamilton-ballot",
+        "hamilton-issues",
+        "hamilton-46day"
+      ]
+    },
+    {
+      "id": "issue-14",
+      "kind": "levy",
+      "jurisdiction": "City of Forest Park",
+      "title": "Tax levy (additional): Fire protection and emergency medical services",
+      "area": "City of Forest Park",
+      "places": [
+        "Forest Park City"
+      ],
+      "levy": {
+        "type": "Additional",
+        "purpose": "Fire protection and emergency medical services.",
+        "mills": "3.9 mills",
+        "term": "Continuing period of time, commencing in 2026",
+        "firstDue": "2027",
+        "estimate": "$2,030,169 a year; $137 for each $100,000 of the county auditor's market value"
+      },
+      "number": "Issue 14",
+      "sources": [
+        "hamilton-ballot",
+        "hamilton-issues",
+        "hamilton-46day"
+      ]
+    },
+    {
+      "id": "issue-15",
+      "kind": "question",
+      "jurisdiction": "City of Harrison",
+      "title": "Charter amendment (as reported by City Council)",
+      "area": "City of Harrison",
+      "places": [
+        "Harrison City"
+      ],
+      "number": "Issue 15",
+      "text": "Shall the proposed charter amendment as reported by the city council of the City of Harrison be adopted?",
+      "sources": [
+        "hamilton-ballot",
+        "hamilton-issues",
+        "hamilton-46day"
+      ]
+    },
+    {
+      "id": "issue-16",
+      "kind": "question",
+      "jurisdiction": "City of Madeira",
+      "title": "Charter amendment: modernizing the Charter (Articles II–VIII, X–XIV, XVI and XVII)",
+      "area": "City of Madeira",
+      "places": [
+        "Madeira City"
+      ],
+      "number": "Issue 16",
+      "text": "Amend fourteen articles of the Charter to: modernize terminology and gender references and add continuity and severability provisions; allow electronic notice of special Council meetings while raising minimum notice from 24 to 48 hours; clarify Council vacancy language; let Council appoint a qualified person to perform the Manager's duties during an extended absence; eliminate the Charter-created Treasurer office, with the Manager authorizing expenditure warrants; have Council and the Manager agree each year on a threshold above which contracts and purchases need Council approval, and revise contract notice and bid provisions; revise the Planning Commission's authority and duties and let it and the Board of Zoning Appeals skip meetings when there is no business; and replace the Charter's automatic protection of the Hosbrook House, Muchmore House and Railroad Depot with protection only for properties on the National Register of Historic Places or designated historic by City ordinance.",
+      "sources": [
+        "hamilton-ballot",
+        "hamilton-issues",
+        "hamilton-46day"
+      ]
+    },
+    {
+      "id": "issue-18",
+      "kind": "levy",
+      "jurisdiction": "City of Norwood",
+      "title": "Tax levy (renewal): Current operating expenses",
+      "area": "City of Norwood",
+      "places": [
+        "Norwood City"
+      ],
+      "levy": {
+        "type": "Renewal",
+        "purpose": "Current operating expenses.",
+        "mills": "8 mills",
+        "term": "5 years, commencing in 2027",
+        "firstDue": "2028",
+        "estimate": "$1,642,311 a year; $47 for each $100,000 of the county auditor's market value"
+      },
+      "number": "Issue 18",
+      "sources": [
+        "hamilton-ballot",
+        "hamilton-issues",
+        "hamilton-46day"
+      ]
+    },
+    {
+      "id": "issue-19",
+      "kind": "question",
+      "jurisdiction": "City of Wyoming",
+      "title": "Charter amendment: Charter Review Commission recommendations",
+      "area": "City of Wyoming",
+      "places": [
+        "Wyoming City"
+      ],
+      "number": "Issue 19",
+      "text": "Rename the City Treasurer the Finance Director (Section 5.02); retitle Article VI \"Commissions and Boards\"; eliminate the Civil Service Commission sections (6.01, 6.02); drop the \"for cause\" requirement for removing board and commission appointees and move that section (11.03) and the virtual-meetings section (11.08) to Article VI; add a new Section 6.03 on establishing other commissions and boards; clarify that all City elections are non-partisan (Section 8.01); and make the oath of office gender neutral (Section 11.07).",
+      "sources": [
+        "hamilton-ballot",
+        "hamilton-issues",
+        "hamilton-46day"
+      ]
+    },
+    {
+      "id": "issue-20",
+      "kind": "levy",
+      "jurisdiction": "Village of Addyston",
+      "title": "Tax levy (additional): Improving, maintaining and operating the water supply system",
+      "area": "Village of Addyston",
+      "places": [
+        "Addyston Village"
+      ],
+      "levy": {
+        "type": "Additional",
+        "purpose": "Improving, maintaining and operating the water supply system.",
+        "mills": "1 mill",
+        "term": "5 years, commencing in 2026",
+        "firstDue": "2027",
+        "estimate": "$18,592 a year; $35 for each $100,000 of the county auditor's market value"
+      },
+      "number": "Issue 20",
+      "sources": [
+        "hamilton-ballot",
+        "hamilton-issues",
+        "hamilton-46day"
+      ]
+    },
+    {
+      "id": "issue-21",
+      "kind": "levy",
+      "jurisdiction": "Village of Fairfax",
+      "title": "Tax levy (renewal): Current expenses",
+      "area": "Village of Fairfax",
+      "places": [
+        "Fairfax Village"
+      ],
+      "levy": {
+        "type": "Renewal",
+        "purpose": "Current expenses.",
+        "mills": "0.96 mill",
+        "term": "5 years, commencing in 2026",
+        "firstDue": "2027",
+        "estimate": "$63,093 a year; $19 for each $100,000 of the county auditor's market value"
+      },
+      "number": "Issue 21",
+      "sources": [
+        "hamilton-ballot",
+        "hamilton-issues",
+        "hamilton-46day"
+      ]
+    },
+    {
+      "id": "issue-22",
+      "kind": "levy",
+      "jurisdiction": "Village of Glendale",
+      "title": "Tax levy (renewal): Current expenses",
+      "area": "Village of Glendale",
+      "places": [
+        "Glendale Village"
+      ],
+      "levy": {
+        "type": "Renewal",
+        "purpose": "Current expenses.",
+        "mills": "8.5 mills",
+        "term": "4 years, commencing in 2026",
+        "firstDue": "2027",
+        "estimate": "$890,978 a year; $195 for each $100,000 of the county auditor's market value"
+      },
+      "number": "Issue 22",
+      "sources": [
+        "hamilton-ballot",
+        "hamilton-issues",
+        "hamilton-46day"
+      ]
+    },
+    {
+      "id": "issue-23",
+      "kind": "levy",
+      "jurisdiction": "Village of Glendale",
+      "title": "Tax levy (renewal): Current expenses",
+      "area": "Village of Glendale",
+      "places": [
+        "Glendale Village"
+      ],
+      "levy": {
+        "type": "Renewal",
+        "purpose": "Current expenses.",
+        "mills": "2.5 mills",
+        "term": "4 years, commencing in 2026",
+        "firstDue": "2027",
+        "estimate": "$284,716 a year; $72 for each $100,000 of the county auditor's market value"
+      },
+      "number": "Issue 23",
+      "sources": [
+        "hamilton-ballot",
+        "hamilton-issues",
+        "hamilton-46day"
+      ]
+    },
+    {
+      "id": "issue-24",
+      "kind": "levy",
+      "jurisdiction": "Village of Golf Manor",
+      "title": "Tax levy (renewal): Streets and roads",
+      "area": "Village of Golf Manor",
+      "places": [
+        "Golf Manor Village"
+      ],
+      "levy": {
+        "type": "Renewal",
+        "purpose": "Streets and roads.",
+        "mills": "8 mills",
+        "term": "10 years, commencing in 2026",
+        "firstDue": "2027",
+        "estimate": "$344,919 a year; $126 for each $100,000 of the county auditor's market value"
+      },
+      "number": "Issue 24",
+      "sources": [
+        "hamilton-ballot",
+        "hamilton-issues",
+        "hamilton-46day"
+      ]
+    },
+    {
+      "id": "issue-25",
+      "kind": "levy",
+      "jurisdiction": "Village of Golf Manor",
+      "title": "Tax levy (renewal): Current expenses",
+      "area": "Village of Golf Manor",
+      "places": [
+        "Golf Manor Village"
+      ],
+      "levy": {
+        "type": "Renewal",
+        "purpose": "Current expenses.",
+        "mills": "2 mills",
+        "term": "5 years, commencing in 2026",
+        "firstDue": "2027",
+        "estimate": "$86,230 a year; $31 for each $100,000 of the county auditor's market value"
+      },
+      "number": "Issue 25",
+      "sources": [
+        "hamilton-ballot",
+        "hamilton-issues",
+        "hamilton-46day"
+      ]
+    },
+    {
+      "id": "issue-26",
+      "kind": "levy",
+      "jurisdiction": "Village of Greenhills",
+      "title": "Tax levy (renewal): Current operating expenses",
+      "area": "Village of Greenhills",
+      "places": [
+        "Greenhills Village"
+      ],
+      "levy": {
+        "type": "Renewal",
+        "purpose": "Current operating expenses.",
+        "mills": "3.28 mills",
+        "term": "5 years, commencing in 2026",
+        "firstDue": "2027",
+        "estimate": "$68,736 a year; $18 for each $100,000 of the county auditor's market value"
+      },
+      "number": "Issue 26",
+      "sources": [
+        "hamilton-ballot",
+        "hamilton-issues",
+        "hamilton-46day"
+      ]
+    },
+    {
+      "id": "issue-27",
+      "kind": "levy",
+      "jurisdiction": "Village of Lockland",
+      "title": "Tax levy (additional): Providing and maintaining fire and emergency medical services",
+      "area": "Village of Lockland",
+      "places": [
+        "Lockland Village"
+      ],
+      "levy": {
+        "type": "Additional",
+        "purpose": "Providing and maintaining fire and emergency medical services.",
+        "mills": "8 mills",
+        "term": "Continuing period of time, commencing in 2026",
+        "firstDue": "2027",
+        "estimate": "$601,165 a year; $280 for each $100,000 of the county auditor's market value"
+      },
+      "number": "Issue 27",
+      "sources": [
+        "hamilton-ballot",
+        "hamilton-issues",
+        "hamilton-46day"
+      ]
+    },
+    {
+      "id": "issue-28",
+      "kind": "levy",
+      "jurisdiction": "Village of Mariemont",
+      "title": "Tax levy (renewal): Permanent improvements: street repairs, curbs, sidewalks and storm sewers, tree maintenance, parks, erosion control, and equipment and facilities for the Police, Fire, Maintenance and Administrative departments",
+      "area": "Village of Mariemont",
+      "places": [
+        "Mariemont Village"
+      ],
+      "levy": {
+        "type": "Renewal",
+        "purpose": "Permanent improvements: street repairs, curbs, sidewalks and storm sewers, tree maintenance, parks, erosion control, and equipment and facilities for the Police, Fire, Maintenance and Administrative departments.",
+        "mills": "3.5 mills",
+        "term": "5 years, commencing in 2027",
+        "firstDue": "2028",
+        "estimate": "$310,981 a year; $40 for each $100,000 of the county auditor's market value"
+      },
+      "number": "Issue 28",
+      "sources": [
+        "hamilton-ballot",
+        "hamilton-issues",
+        "hamilton-46day"
+      ]
+    },
+    {
+      "id": "issue-29",
+      "kind": "levy",
+      "jurisdiction": "Village of North Bend",
+      "title": "Tax levy (renewal): Current operating expenses",
+      "area": "Village of North Bend",
+      "places": [
+        "North Bend Village"
+      ],
+      "levy": {
+        "type": "Renewal",
+        "purpose": "Current operating expenses.",
+        "mills": "5 mills",
+        "term": "5 years, commencing in 2026",
+        "firstDue": "2027",
+        "estimate": "$218,098 a year; $151 for each $100,000 of the county auditor's market value"
+      },
+      "number": "Issue 29",
+      "sources": [
+        "hamilton-ballot",
+        "hamilton-issues",
+        "hamilton-46day"
+      ]
+    },
+    {
+      "id": "issue-30",
+      "kind": "question",
+      "jurisdiction": "Village of St. Bernard",
+      "title": "Charter amendment: village administration (Articles IV and V)",
+      "area": "Village of St. Bernard",
+      "places": [
+        "St. Bernard Village"
+      ],
+      "number": "Issue 30",
+      "text": "Amend Sections 4.01–4.06 and 5.01 to: merge the Safety Director and Service Director into a single Municipal Administrator, selected by the Mayor with Council approval and removable by Council, who heads the police and fire departments; merge the elected Auditor and Treasurer into an appointed Finance Director; convert the elected Law Director to an engaged position; retitle the Tax Commissioner as Tax Administrator under the Finance Director; and replace the Director of Public Safety and Service on the five-member Planning Commission with a Council member.",
+      "sources": [
+        "hamilton-ballot",
+        "hamilton-issues",
+        "hamilton-46day"
+      ]
+    },
+    {
+      "id": "issue-31",
+      "kind": "levy",
+      "jurisdiction": "Village of Terrace Park",
+      "title": "Tax levy (renewal): Current expenses",
+      "area": "Village of Terrace Park",
+      "places": [
+        "Terrace Park Village"
+      ],
+      "levy": {
+        "type": "Renewal",
+        "purpose": "Current expenses.",
+        "mills": "5.58 mills",
+        "term": "5 years, commencing in 2026",
+        "firstDue": "2027",
+        "estimate": "$713,193 a year; $123 for each $100,000 of the county auditor's market value"
+      },
+      "number": "Issue 31",
+      "sources": [
+        "hamilton-ballot",
+        "hamilton-issues",
+        "hamilton-46day"
+      ]
+    },
+    {
+      "id": "issue-32",
+      "kind": "liquor",
+      "jurisdiction": "Village of Terrace Park",
+      "title": "Local liquor option: Two Maries (Sunday)",
+      "area": "Precinct Terrace Park A",
+      "places": [
+        "Terrace Park Village"
+      ],
+      "number": "Issue 32",
+      "text": "Shall the sale of wine and mixed beverages, and spirituous liquor be permitted for sale on Sunday by Two Maries, LLC an applicant for a D-6 liquor permit who is engaged in the business of operating a bar and restaurant at 704 Wooster Pike, Terrace Park, Ohio 45174 in this precinct?",
+      "sources": [
+        "hamilton-ballot",
+        "hamilton-issues",
+        "hamilton-46day"
+      ]
+    },
+    {
+      "id": "issue-33",
+      "kind": "levy",
+      "jurisdiction": "Miami Township",
+      "title": "Tax levy (renewal): Current expenses",
+      "area": "Miami Township, including the villages of Addyston, Cleves and North Bend",
+      "places": [
+        "Addyston Village",
+        "Cleves Village",
+        "Miami Township",
+        "North Bend Village"
+      ],
+      "levy": {
+        "type": "Renewal",
+        "purpose": "Current expenses.",
+        "mills": "0.46 mill",
+        "term": "5 years, commencing in 2026",
+        "firstDue": "2027",
+        "estimate": "$181,286 a year; $10 for each $100,000 of the county auditor's market value"
+      },
+      "number": "Issue 33",
+      "sources": [
+        "hamilton-ballot",
+        "hamilton-issues",
+        "hamilton-46day"
+      ]
+    },
+    {
+      "id": "issue-34",
+      "kind": "liquor",
+      "jurisdiction": "Springfield Township",
+      "title": "Local liquor option: Sundy's (Sunday)",
+      "area": "Precinct Springfield C",
+      "places": [
+        "Springfield Township"
+      ],
+      "number": "Issue 34",
+      "text": "Shall the sale of wine and mixed beverages be permitted for sale on Sunday by Sunderman Entertainment Group, Inc. dba Sundy's an applicant for a D-6 liquor permit who is engaged in the business of operating a bar and restaurant at 8603 Winton Road, Cincinnati, Ohio 45231 in this precinct?",
+      "sources": [
+        "hamilton-ballot",
+        "hamilton-issues",
+        "hamilton-46day"
+      ]
+    }
+  ]
+}

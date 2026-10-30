@@ -19,8 +19,9 @@ Adding a county: summarise its voter file with `place_summary.py`, write `<count
 
 ## Notes for adding more counties
 
-Done for 2026-11-03: Trumbull (hand-written), Mahoning, Columbiana, Ashtabula, Lake, Cuyahoga, Geauga, Summit, Stark, Portage, Medina, Lorain.
-Next planned: Franklin, Hamilton, Montgomery, Lucas, Butler.
+Done for 2026-11-03: Trumbull (hand-written), Mahoning, Columbiana, Ashtabula, Lake, Cuyahoga, Geauga, Summit, Stark, Portage, Medina, Lorain, Franklin, Hamilton, Montgomery, Lucas, Butler.
+
+**Voter-file gaps.** Franklin's SoS file has empty school-district columns, so `c.sd()` can't be used there; its school issues are placed from the 46-day notice's precinct lists. Elsewhere, when the notice lists a precinct the voter file doesn't put in a district, add that place by hand (`c.sd(...) + c.p(...)`) with a comment.
 
 **Finding the documents.** Use the Board's site (each spec's `links` has it). In order of preference:
 1. A 46-day FWAB election notice. It lists every contest and issue with its precincts.
@@ -35,6 +36,7 @@ boe.ohio.gov PDFs and most county sites aren't reachable from a cloud session or
 
 **Places.** Run `place_summary.py` on the county's SoS voter file first. Raw place names vary by county:
 - `County(rename={...})` fixes odd ones, e.g. `SHALERSVILLE TOWNSHP`, `ROCHESTER TWP & VIL`, `VERMILION CITY ` with a trailing space.
+- Precinct-split places (Hamilton's `SILVERTON A/B/C`, Lucas's `PRECINCT WASHINGTON 1/2`) get one display name via `rename`; lib lists it once.
 - `bare="Township"` (the default) appends "Township" to bare names like Stark's "JACKSON". Cuyahoga uses `bare=None`.
 
 **Mapping issues to places.** Use the tools in `lib.py`:
