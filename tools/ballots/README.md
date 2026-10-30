@@ -16,3 +16,41 @@ cd C:\projects\OhioElections\react-app; npm run check:data
 ```
 
 Adding a county: summarise its voter file with `place_summary.py`, write `<county>.py` from the Board's candidate and issue lists (copy the closest existing spec), add it to `run.py`, run it, and add the slug to `react-app/public/data/county/index.json`.
+
+## Notes for adding more counties
+
+Done for 2026-11-03: Trumbull (hand-written), Mahoning, Columbiana, Ashtabula, Lake, Cuyahoga, Geauga, Summit, Stark, Portage, Medina, Lorain.
+Next planned: Franklin, Hamilton, Montgomery, Lucas, Butler.
+
+**Finding the documents.** Use the Board's site (each spec's `links` has it). In order of preference:
+1. A 46-day FWAB election notice. It lists every contest and issue with its precincts.
+2. A candidate list plus an issues list or issue synopsis.
+3. The precinct sample ballots on lookup.boe.ohio.gov, the last resort (Geauga).
+
+boe.ohio.gov PDFs and most county sites aren't reachable from a cloud session or a script. Open them in Chrome (Claude in Chrome):
+- Import pdf.js 4.4.168 from cdnjs on the PDF's own origin, fetch the PDF, and group the text items by y-coordinate into lines.
+- Write the result into the page as `<main><pre>` and read it with get_page_text.
+- Watch out for scanned PDFs (no text layer); Lorain's "Ballot Text" is one, so look for another document.
+- lookup.boe.ohio.gov is blocked to the extension. Geauga's ballots were downloaded with a PowerShell loop over `getballot.aspx?elect=20261103G&prsid=<precinct>&bpty=X` and parsed with pdfplumber (drop chars with size >= 16, the watermark).
+
+**Places.** Run `place_summary.py` on the county's SoS voter file first. Raw place names vary by county:
+- `County(rename={...})` fixes odd ones, e.g. `SHALERSVILLE TOWNSHP`, `ROCHESTER TWP & VIL`, `VERMILION CITY ` with a trailing space.
+- `bare="Township"` (the default) appends "Township" to bare names like Stark's "JACKSON". Cuyahoga uses `bare=None`.
+
+**Mapping issues to places.** Use the tools in `lib.py`:
+- `c.district("cong"|"rep"|"sen", n)` for legislative districts.
+- `c.sd("<SoS school district name>")` for school levies. Print the district names from the place json first.
+- `c.p(...)` for the city, village or township itself. Use it for liquor options too, and put the precinct in `area`.
+- `"county"` for countywide.
+- `None` for districts the voter file can't place (park, ambulance and JVSD districts). Those show as "boundaries not mapped".
+
+**Data conventions:**
+- Common Pleas judges get no party (plain names, with "no party label on the ballot" in the detail).
+- Appeals and congressional candidates get party tags.
+- Watch for issue numbers reused across districts (Geauga) and for unnumbered items (Stark's Wayne JVSD).
+- Greg Levy (other party, U.S. Senate) is already in the state file.
+
+**Check before handing off:**
+- Run `python run.py`, then `npm run check:data` and `npm run build` in react-app.
+- Spot-check `#/<county>/2026-11-03/ballot/<Place>` in `npm run preview`.
+- Add a CHANGES.md entry.
