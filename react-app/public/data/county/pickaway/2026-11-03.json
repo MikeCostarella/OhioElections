@@ -1,0 +1,550 @@
+{
+  "scope": "county",
+  "county": "Pickaway",
+  "fips": "39129",
+  "election": "2026-11-03",
+  "retrieved": "2026-10-30",
+  "notes": [
+    "Taken from the Board of Elections' 46-day election notice, which lists every contest and issue with the precincts that vote on it, checked against the Board's precinct sample ballots. Issue wording is from the sample ballots.",
+    "Candidates are listed alphabetically by last name, not in ballot order: Ohio rotates the order of names from precinct to precinct. Certified write-in candidates are not printed on the ballot and are not listed.",
+    "\"Where you live\" uses the state voter file: a district or school levy is shown for a city, village or township when any of its voters live in that district. Your exact ballot depends on your precinct.",
+    "The Board's notice and sample ballots do not give local issue numbers.",
+    "Court of Appeals: the 46-day notice lists Peter B. Abele (Republican) for the 4th District seat, but the Board's sample ballots list Jayme Hartley Fountain (Republican) and Todd L. Grace (Democratic); the sample ballots are shown here."
+  ],
+  "places": [
+    "Ashville Village",
+    "Circleville City",
+    "Circleville Township",
+    "Commercial Point Village",
+    "Darby Township",
+    "Darbyville Village",
+    "Deercreek Township",
+    "Harrisburg Village",
+    "Harrison Township",
+    "Jackson Township",
+    "Madison Township",
+    "Monroe Township",
+    "Muhlenberg Township",
+    "New Holland Village",
+    "Perry Township",
+    "Pickaway Township",
+    "Saltcreek Township",
+    "Scioto Township",
+    "South Bloomfield Village",
+    "Tarlton Village",
+    "Walnut Township",
+    "Washington Township",
+    "Wayne Township",
+    "Williamsport Village"
+  ],
+  "sources": {
+    "pickaway-46day": {
+      "label": "Pickaway County Board of Elections: 46-day election notice (FWAB), November 3, 2026 General Election (revised September 8, 2026)",
+      "url": "https://www.boe.ohio.gov/pickaway/c/upload/FWAB_11November46Day.pdf"
+    },
+    "pickaway-ballots": {
+      "label": "Pickaway County Board of Elections: precinct sample ballots, November 3, 2026 General Election (election data updated October 5, 2026)",
+      "url": "https://lookup.boe.ohio.gov/vtrapp/pickaway/ballotlist.aspx"
+    }
+  },
+  "links": [
+    {
+      "label": "Board of Elections",
+      "url": "https://www.boe.ohio.gov/pickaway/"
+    },
+    {
+      "label": "Federal write-in absentee ballot notices",
+      "url": "https://www.boe.ohio.gov/pickaway/election-info/federal-write-in-absentee-ballots/"
+    },
+    {
+      "label": "Sample ballots by precinct",
+      "url": "https://lookup.boe.ohio.gov/vtrapp/pickaway/ballotlist.aspx"
+    }
+  ],
+  "results": {
+    "status": "upcoming",
+    "links": [
+      {
+        "label": "Board of Elections: election results",
+        "url": "https://www.boe.ohio.gov/pickaway/election-info/election-results/"
+      }
+    ]
+  },
+  "contests": [
+    {
+      "id": "congress-15",
+      "group": "U.S. House",
+      "office": "Representative to Congress",
+      "detail": "15th District",
+      "candidates": [
+        {
+          "name": "Brennan Barrington",
+          "party": "LIB"
+        },
+        {
+          "name": "Mike Carey",
+          "party": "REP"
+        },
+        {
+          "name": "Don Leonard",
+          "party": "DEM"
+        }
+      ],
+      "sources": [
+        "pickaway-46day",
+        "pickaway-ballots"
+      ]
+    },
+    {
+      "id": "senate-3",
+      "group": "Ohio General Assembly",
+      "office": "State Senator",
+      "detail": "3rd District",
+      "candidates": [
+        {
+          "name": "Stacie A. Baker",
+          "party": "DEM"
+        },
+        {
+          "name": "Michele Reynolds",
+          "party": "REP"
+        }
+      ],
+      "sources": [
+        "pickaway-46day",
+        "pickaway-ballots"
+      ]
+    },
+    {
+      "id": "rep-12",
+      "group": "Ohio General Assembly",
+      "office": "State Representative",
+      "detail": "12th District",
+      "candidates": [
+        {
+          "name": "Brian Stewart",
+          "party": "REP"
+        },
+        {
+          "name": "Lee Yarsky",
+          "party": "DEM"
+        }
+      ],
+      "sources": [
+        "pickaway-46day",
+        "pickaway-ballots"
+      ]
+    },
+    {
+      "id": "appeals-4-0209",
+      "group": "Ohio Court of Appeals",
+      "office": "Judge of the Court of Appeals",
+      "detail": "4th District · full term commencing February 9, 2027",
+      "candidates": [
+        {
+          "name": "Jayme Hartley Fountain",
+          "party": "REP"
+        },
+        {
+          "name": "Todd L. Grace",
+          "party": "DEM"
+        }
+      ],
+      "sources": [
+        "pickaway-ballots",
+        "pickaway-46day"
+      ]
+    },
+    {
+      "id": "commissioner",
+      "group": "County offices",
+      "office": "County Commissioner",
+      "detail": "Full term commencing January 1, 2027",
+      "candidates": [
+        {
+          "name": "Jay H. Wippel",
+          "party": "REP"
+        }
+      ],
+      "sources": [
+        "pickaway-46day",
+        "pickaway-ballots"
+      ]
+    },
+    {
+      "id": "auditor",
+      "group": "County offices",
+      "office": "County Auditor",
+      "detail": "Full term commencing March 8, 2027",
+      "candidates": [
+        {
+          "name": "Brad Washburn",
+          "party": "REP"
+        }
+      ],
+      "sources": [
+        "pickaway-46day",
+        "pickaway-ballots"
+      ]
+    },
+    {
+      "id": "coroner",
+      "group": "County offices",
+      "office": "Coroner",
+      "detail": "Unexpired term ending December 31, 2028",
+      "candidates": [
+        {
+          "name": "Brad Cotton",
+          "party": "DEM"
+        }
+      ],
+      "sources": [
+        "pickaway-46day",
+        "pickaway-ballots"
+      ]
+    },
+    {
+      "id": "cp-probate-juvenile",
+      "group": "Court of Common Pleas",
+      "office": "Judge of the Court of Common Pleas, Juvenile and Probate Division",
+      "detail": "Full term commencing February 9, 2027 · no party label on the ballot",
+      "candidates": [
+        {
+          "name": "Shelly R. Harsha"
+        }
+      ],
+      "sources": [
+        "pickaway-46day",
+        "pickaway-ballots"
+      ]
+    }
+  ],
+  "issues": [
+    {
+      "id": "pickaway-parks",
+      "kind": "levy",
+      "jurisdiction": "Pickaway County Park District",
+      "title": "Tax levy (renewal and increase): Parks and recreation: maintaining existing facilities, developing new trails and parks, and helping cities, villages and townships improve their parks and trails (renewal of 0.5 mill and an increase of 0.25 mill)",
+      "area": "Pickaway County Park District",
+      "levy": {
+        "type": "Renewal and increase",
+        "purpose": "Parks and recreation: maintaining existing facilities, developing new trails and parks, and helping cities, villages and townships improve their parks and trails (renewal of 0.5 mill and an increase of 0.25 mill).",
+        "mills": "0.75 mill",
+        "term": "10 years, commencing in 2027",
+        "firstDue": "2028",
+        "estimate": "$1,466,613 a year; $20 for each $100,000 of market value"
+      },
+      "sources": [
+        "pickaway-46day",
+        "pickaway-ballots"
+      ]
+    },
+    {
+      "id": "ashville-edgeconnex-referendum",
+      "kind": "question",
+      "jurisdiction": "Village of Ashville",
+      "title": "Referendum (by petition): EdgeConneX development and supply agreement term summary",
+      "area": "Ashville precincts Ashville-East, Ashville-Northeast, Ashville-Northwest and Ashville-West",
+      "places": [
+        "Ashville Village"
+      ],
+      "text": "Referendum on a Village Council resolution approving a Development and Supply Agreement Term Summary with EdgeConneX, which intends to build two data center buildings on about 195 acres in the village and, through an affiliate, a natural gas behind-the-meter power generating facility on the property. Shall the resolution enacting approval of a development and supply agreement term summary with EdgeConneX be approved?",
+      "sources": [
+        "pickaway-46day",
+        "pickaway-ballots"
+      ]
+    },
+    {
+      "id": "new-holland-cemetery",
+      "kind": "levy",
+      "jurisdiction": "Village of New Holland (Pickaway and Fayette)",
+      "title": "Tax levy (renewal): Maintaining and operating a cemetery",
+      "area": "Precinct Perry/New Holland 1",
+      "places": [
+        "New Holland Village"
+      ],
+      "levy": {
+        "type": "Renewal",
+        "purpose": "Maintaining and operating a cemetery.",
+        "mills": "1 mill",
+        "term": "5 years, commencing in 2027",
+        "firstDue": "2028",
+        "estimate": "$8,562 a year; $15 for each $100,000 of market value"
+      },
+      "sources": [
+        "pickaway-46day",
+        "pickaway-ballots"
+      ]
+    },
+    {
+      "id": "williamsport-ems",
+      "kind": "levy",
+      "jurisdiction": "Village of Williamsport",
+      "title": "Tax levy (renewal): Ambulance service, emergency medical service, or both",
+      "area": "Precinct Deercreek/Williamsport 1",
+      "places": [
+        "Williamsport Village"
+      ],
+      "levy": {
+        "type": "Renewal",
+        "purpose": "Ambulance service, emergency medical service, or both.",
+        "mills": "3.65 mills",
+        "term": "5 years, commencing in 2027",
+        "firstDue": "2028",
+        "estimate": "$101,403 a year; $96 for each $100,000 of market value"
+      },
+      "sources": [
+        "pickaway-46day",
+        "pickaway-ballots"
+      ]
+    },
+    {
+      "id": "monroe-twp-fire",
+      "kind": "levy",
+      "jurisdiction": "Monroe Township",
+      "title": "Tax levy (additional): Fire apparatus, equipment, buildings and sites, fire-alarm communications, firefighting and emergency medical personnel, ambulance equipment and ambulance, paramedic or other emergency medical services",
+      "area": "Monroe Township",
+      "places": [
+        "Monroe Township"
+      ],
+      "levy": {
+        "type": "Additional",
+        "purpose": "Fire apparatus, equipment, buildings and sites, fire-alarm communications, firefighting and emergency medical personnel, ambulance equipment and ambulance, paramedic or other emergency medical services.",
+        "mills": "1.75 mills",
+        "term": "5 years, commencing in 2027",
+        "firstDue": "2028",
+        "estimate": "$186,540 a year; $61 for each $100,000 of market value"
+      },
+      "sources": [
+        "pickaway-46day",
+        "pickaway-ballots"
+      ]
+    },
+    {
+      "id": "walnut-twp-cemeteries",
+      "kind": "levy",
+      "jurisdiction": "Walnut Township",
+      "title": "Tax levy (renewal): Maintaining and operating township cemeteries",
+      "area": "Walnut Township precincts Walnut-East and Walnut-West",
+      "places": [
+        "Walnut Township"
+      ],
+      "levy": {
+        "type": "Renewal",
+        "purpose": "Maintaining and operating township cemeteries.",
+        "mills": "0.4 mill",
+        "term": "5 years, commencing in 2027",
+        "firstDue": "2028",
+        "estimate": "$72,913 a year; $8 for each $100,000 of market value"
+      },
+      "sources": [
+        "pickaway-46day",
+        "pickaway-ballots"
+      ]
+    },
+    {
+      "id": "miami-trace-renewal",
+      "kind": "levy",
+      "jurisdiction": "Miami Trace Local School District (Fayette, Pickaway and Ross)",
+      "title": "Tax levy (renewal): Current operating expenses (fixed-sum levy of $1,900,000 a year)",
+      "area": "Precincts Perry/New Holland 1 and 2",
+      "places": [
+        "New Holland Village",
+        "Perry Township"
+      ],
+      "levy": {
+        "type": "Renewal",
+        "purpose": "Current operating expenses (fixed-sum levy of $1,900,000 a year).",
+        "mills": "2.2 mills (estimated average)",
+        "term": "5 years, commencing in 2027",
+        "firstDue": "2028",
+        "estimate": "$1,900,000 a year; $77 for each $100,000 of market value"
+      },
+      "sources": [
+        "pickaway-46day",
+        "pickaway-ballots"
+      ]
+    },
+    {
+      "id": "issue-6",
+      "kind": "levy",
+      "jurisdiction": "South-Western City School District (Franklin and Pickaway)",
+      "title": "Bond issue: $220,000,000 for new Westland and Grove City high schools and other school facilities",
+      "area": "Precincts Darby-North 2 and 3",
+      "places": [
+        "Darby Township",
+        "Harrisburg Village"
+      ],
+      "levy": {
+        "type": "Bond issue",
+        "purpose": "Constructing, furnishing and equipping a new Westland High School and new Grove City High School, with related site improvements; constructing, renovating, repairing, expanding and improving other school facilities.",
+        "mills": "2.26 mills (estimated average)",
+        "term": "Up to 38 years",
+        "firstDue": "2027",
+        "estimate": "$220,000,000 principal; $79 for each $100,000 of market value"
+      },
+      "note": "Issue 6 in Franklin County; unnumbered on Pickaway County's ballot.",
+      "sources": [
+        "pickaway-46day",
+        "pickaway-ballots"
+      ]
+    },
+    {
+      "id": "deercreek-twp-roads",
+      "kind": "levy",
+      "jurisdiction": "Deercreek Township (excluding the Village of Williamsport)",
+      "title": "Tax levy (additional): General construction, reconstruction, resurfacing and repair of streets, roads and bridges",
+      "area": "Precincts Deercreek/Williamsport 2 and 3",
+      "places": [
+        "Deercreek Township"
+      ],
+      "levy": {
+        "type": "Additional",
+        "purpose": "General construction, reconstruction, resurfacing and repair of streets, roads and bridges.",
+        "mills": "3 mills",
+        "term": "5 years, commencing in 2026",
+        "firstDue": "2027",
+        "estimate": "$123,801 a year; $105 for each $100,000 of market value"
+      },
+      "note": "The 46-day notice gives $122,019 a year, \"appraised value\" and a term commencing in 2025 (first due 2026); the sample ballot's figures are shown.",
+      "sources": [
+        "pickaway-46day",
+        "pickaway-ballots"
+      ]
+    },
+    {
+      "id": "perry-twp-roads",
+      "kind": "levy",
+      "jurisdiction": "Perry Township (excluding the Village of New Holland)",
+      "title": "Tax levy (additional): General construction, reconstruction, resurfacing and repair of streets, roads and bridges",
+      "area": "Precincts Perry/New Holland 2, 3 and 4",
+      "places": [
+        "Perry Township"
+      ],
+      "levy": {
+        "type": "Additional",
+        "purpose": "General construction, reconstruction, resurfacing and repair of streets, roads and bridges.",
+        "mills": "2.5 mills",
+        "term": "5 years, commencing in 2027",
+        "firstDue": "2028",
+        "estimate": "$75,623 a year; $88 for each $100,000 of market value"
+      },
+      "sources": [
+        "pickaway-46day",
+        "pickaway-ballots"
+      ]
+    },
+    {
+      "id": "fayette-ems-renewal",
+      "kind": "levy",
+      "jurisdiction": "Fayette County Emergency Medical Service District (Fayette and Pickaway)",
+      "title": "Tax levy (renewal): Ambulance service, emergency medical service, or both",
+      "area": "Precinct Perry/New Holland 1",
+      "places": [
+        "New Holland Village"
+      ],
+      "levy": {
+        "type": "Renewal",
+        "purpose": "Ambulance service, emergency medical service, or both.",
+        "mills": "1.90 mills",
+        "term": "3 years, commencing in 2027",
+        "firstDue": "2028",
+        "estimate": "$1,482,933 a year; $49 for each $100,000 of market value"
+      },
+      "sources": [
+        "pickaway-46day",
+        "pickaway-ballots"
+      ]
+    },
+    {
+      "id": "sterling-ambulance-renewal",
+      "kind": "levy",
+      "jurisdiction": "Sterling Joint Ambulance District",
+      "title": "Tax levy (renewal): Current expenses",
+      "area": "Precincts Darby Clarks Lake, Darby-North 1 and 2, and Darby-South",
+      "places": [
+        "Darby Township"
+      ],
+      "levy": {
+        "type": "Renewal",
+        "purpose": "Current expenses.",
+        "mills": "1.8 mills",
+        "term": "5 years, commencing in 2027",
+        "firstDue": "2028",
+        "estimate": "$489,825 a year; $36 for each $100,000 of appraised value"
+      },
+      "sources": [
+        "pickaway-46day",
+        "pickaway-ballots"
+      ]
+    },
+    {
+      "id": "tri-county-fire-additional",
+      "kind": "levy",
+      "jurisdiction": "Tri-County Joint Fire District",
+      "title": "Tax levy (additional): Current expenses; fire apparatus, equipment, buildings and sites, fire-alarm communications, firefighting and emergency medical personnel, ambulance equipment and ambulance, paramedic or other emergency medical services",
+      "area": "Precincts Darby Clarks Lake, Darby-North 1 and 2, and Darby-South",
+      "places": [
+        "Darby Township"
+      ],
+      "levy": {
+        "type": "Additional",
+        "purpose": "Current expenses; fire apparatus, equipment, buildings and sites, fire-alarm communications, firefighting and emergency medical personnel, ambulance equipment and ambulance, paramedic or other emergency medical services.",
+        "mills": "2.5 mills",
+        "term": "5 years, commencing in 2027",
+        "firstDue": "2028",
+        "estimate": "$710,410 a year; $88 for each $100,000 of market value"
+      },
+      "sources": [
+        "pickaway-46day",
+        "pickaway-ballots"
+      ]
+    },
+    {
+      "id": "liquor-laxmi-mart",
+      "kind": "liquor",
+      "jurisdiction": "Darby Township",
+      "title": "Local liquor option: Laxmi Mart (Harrisburg Marathon Mart) (Sunday)",
+      "area": "Precinct Darby-North (all splits)",
+      "places": [
+        "Darby Township",
+        "Harrisburg Village"
+      ],
+      "text": "Shall the sale of wine and mixed beverages be permitted for sale on Sunday by Laxmi Mart, L.L.C. (dba Harrisburg Marathon Mart), an applicant for a D-6 liquor permit operating a carryout/grocery store at 9109 U.S. 62, Orient (Darby Township), in this precinct?",
+      "sources": [
+        "pickaway-46day",
+        "pickaway-ballots"
+      ]
+    },
+    {
+      "id": "liquor-ashville-east-sunday",
+      "kind": "liquor",
+      "jurisdiction": "Village of Ashville",
+      "title": "Local liquor option: Sunday sales in precinct Ashville East",
+      "area": "Ashville precinct Ashville-East",
+      "places": [
+        "Ashville Village"
+      ],
+      "text": "Shall the sale of intoxicating liquor, of the same types as may be legally sold in this precinct on other days of the week, be permitted in Ashville East for consumption on the premises where sold, on Sunday, at licensed premises where the sale of food and other goods and services exceeds fifty percent of the total gross receipts of the permit holder at the premises?",
+      "sources": [
+        "pickaway-46day",
+        "pickaway-ballots"
+      ]
+    },
+    {
+      "id": "liquor-off-the-rails",
+      "kind": "liquor",
+      "jurisdiction": "Village of Ashville",
+      "title": "Local liquor option: Off The Rails (Sunday)",
+      "area": "Ashville precinct Ashville-West",
+      "places": [
+        "Ashville Village"
+      ],
+      "text": "Shall the sale of wine and mixed beverages, and spirituous liquor be permitted for sale on Sunday by Xenial, L.L.C., dba Off The Rails, an applicant for a D-6 liquor permit operating a bar/restaurant at 60 W. Main Street, Ashville, in this precinct?",
+      "sources": [
+        "pickaway-46day",
+        "pickaway-ballots"
+      ]
+    }
+  ]
+}

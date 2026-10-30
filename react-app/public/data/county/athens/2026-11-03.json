@@ -1,0 +1,872 @@
+{
+  "scope": "county",
+  "county": "Athens",
+  "fips": "39009",
+  "election": "2026-11-03",
+  "retrieved": "2026-10-30",
+  "notes": [
+    "Taken from the Board of Elections' 46-day election notice, which lists every contest and issue with the precincts that vote on it; issue wording is from the Board's notices of election on each local question and issue.",
+    "Candidates are listed alphabetically by last name, not in ballot order: Ohio rotates the order of names from precinct to precinct. Certified write-in candidates are not printed on the ballot and are not listed.",
+    "\"Where you live\" uses the state voter file: a district or school levy is shown for a city, village or township when any of its voters live in that district. Your exact ballot depends on your precinct.",
+    "Local issue numbers are 1, 2 and 4 to 29: Issue 3 is the statewide question.",
+    "Issues 23 and 24 (Lee Township fire protection) are two separate renewals with the same wording, rate and term in the Board's notices."
+  ],
+  "places": [
+    "Albany Village",
+    "Alexander Township",
+    "Ames Township",
+    "Amesville Village",
+    "Athens City",
+    "Athens Township",
+    "Bern Township",
+    "Buchtel Village",
+    "Canaan Township",
+    "Carthage Township",
+    "Chauncey Village",
+    "Coolville Village",
+    "Dover Township",
+    "Glouster Village",
+    "Jacksonville Village",
+    "Lee Township",
+    "Lodi Township",
+    "Nelsonville City",
+    "Rome Township",
+    "Trimble Township",
+    "Trimble Village",
+    "Troy Township",
+    "Waterloo Township",
+    "York Township"
+  ],
+  "sources": {
+    "athens-46day": {
+      "label": "Athens County Board of Elections: 46-day election notice (FWAB), November 3, 2026 General Election (revised October 22, 2026)",
+      "url": "https://www.boe.ohio.gov/athens/c/upload/FWAB_11November46Day.pdf"
+    },
+    "athens-notices": {
+      "label": "Athens County Board of Elections: notices of election on local questions and issues, November 3, 2026 General Election (dated October 15, 2026)",
+      "url": "https://www.boe.ohio.gov/athens/c/pdfs/NoticeOfElection26General.pdf"
+    }
+  },
+  "links": [
+    {
+      "label": "Board of Elections",
+      "url": "https://www.boe.ohio.gov/athens/"
+    },
+    {
+      "label": "Candidates and Issues",
+      "url": "https://www.boe.ohio.gov/athens/election-info/candidates-and-issues/"
+    },
+    {
+      "label": "Sample ballots by precinct",
+      "url": "https://lookup.boe.ohio.gov/vtrapp/athens/ballotlist.aspx"
+    }
+  ],
+  "results": {
+    "status": "upcoming",
+    "links": [
+      {
+        "label": "Board of Elections: election results",
+        "url": "https://www.boe.ohio.gov/athens/election-info/election-results/"
+      }
+    ]
+  },
+  "contests": [
+    {
+      "id": "congress-2",
+      "group": "U.S. House",
+      "office": "Representative to Congress",
+      "detail": "2nd District",
+      "candidates": [
+        {
+          "name": "Jen Mazzuckelli",
+          "party": "DEM"
+        },
+        {
+          "name": "David J. Taylor",
+          "party": "REP"
+        }
+      ],
+      "sources": [
+        "athens-46day"
+      ]
+    },
+    {
+      "id": "rep-94",
+      "group": "Ohio General Assembly",
+      "office": "State Representative",
+      "detail": "94th District",
+      "area": "Albany Village, Alexander Township, Ames Township, Amesville Village, Athens City, Athens Township, Buchtel Village, Carthage Township, Chauncey Village, Coolville Village, Dover Township, Glouster Village, Jacksonville Village, Lee Township, Lodi Township, Nelsonville City, Trimble Township, Trimble Village, Troy Township, Waterloo Township, York Township",
+      "places": [
+        "Albany Village",
+        "Alexander Township",
+        "Ames Township",
+        "Amesville Village",
+        "Athens City",
+        "Athens Township",
+        "Buchtel Village",
+        "Carthage Township",
+        "Chauncey Village",
+        "Coolville Village",
+        "Dover Township",
+        "Glouster Village",
+        "Jacksonville Village",
+        "Lee Township",
+        "Lodi Township",
+        "Nelsonville City",
+        "Trimble Township",
+        "Trimble Village",
+        "Troy Township",
+        "Waterloo Township",
+        "York Township"
+      ],
+      "candidates": [
+        {
+          "name": "Kevin Ritter",
+          "party": "REP"
+        },
+        {
+          "name": "Wenda Sheard",
+          "party": "DEM"
+        }
+      ],
+      "sources": [
+        "athens-46day"
+      ]
+    },
+    {
+      "id": "rep-95",
+      "group": "Ohio General Assembly",
+      "office": "State Representative",
+      "detail": "95th District",
+      "area": "Athens City, Athens Township, Bern Township, Canaan Township, Rome Township",
+      "places": [
+        "Athens City",
+        "Athens Township",
+        "Bern Township",
+        "Canaan Township",
+        "Rome Township"
+      ],
+      "candidates": [
+        {
+          "name": "Paul Cameron",
+          "party": "DEM"
+        },
+        {
+          "name": "Ty Moore",
+          "party": "REP"
+        }
+      ],
+      "sources": [
+        "athens-46day"
+      ]
+    },
+    {
+      "id": "appeals-4-0209",
+      "group": "Ohio Court of Appeals",
+      "office": "Judge of the Court of Appeals",
+      "detail": "4th District · full term commencing February 9, 2027",
+      "candidates": [
+        {
+          "name": "Jayme Hartley Fountain",
+          "party": "REP"
+        },
+        {
+          "name": "Todd L. Grace",
+          "party": "DEM"
+        }
+      ],
+      "sources": [
+        "athens-46day"
+      ]
+    },
+    {
+      "id": "commissioner",
+      "group": "County offices",
+      "office": "County Commissioner",
+      "detail": "Full term commencing January 1, 2027",
+      "candidates": [
+        {
+          "name": "Autumn Brown",
+          "party": "DEM"
+        },
+        {
+          "name": "Sarah Danielle Smith",
+          "party": "REP"
+        }
+      ],
+      "sources": [
+        "athens-46day"
+      ]
+    },
+    {
+      "id": "auditor",
+      "group": "County offices",
+      "office": "County Auditor",
+      "detail": "Full term commencing March 8, 2027",
+      "candidates": [
+        {
+          "name": "Jill A. Davidson",
+          "party": "REP"
+        }
+      ],
+      "sources": [
+        "athens-46day"
+      ]
+    },
+    {
+      "id": "cp-general",
+      "group": "Court of Common Pleas",
+      "office": "Judge of the Court of Common Pleas, General Division",
+      "detail": "Full term commencing February 9, 2027 · no party label on the ballot",
+      "candidates": [
+        {
+          "name": "Patrick Lang"
+        }
+      ],
+      "sources": [
+        "athens-46day"
+      ]
+    },
+    {
+      "id": "cp-probate-juvenile",
+      "group": "Court of Common Pleas",
+      "office": "Judge of the Court of Common Pleas, Probate/Juvenile Division",
+      "detail": "Full term commencing February 9, 2027 · no party label on the ballot",
+      "candidates": [
+        {
+          "name": "Zachary Lane Saunders"
+        }
+      ],
+      "sources": [
+        "athens-46day"
+      ]
+    }
+  ],
+  "issues": [
+    {
+      "id": "issue-1",
+      "kind": "question",
+      "jurisdiction": "Alexander Local School District (Athens, Meigs and Vinton)",
+      "title": "School district income tax: 0.75 percent, 5 years, current expenses",
+      "area": "Precincts Alexander East, Alexander West, Athens Baker (part), Albany Village, Lee Township, Lodi Township, New Marshfield (part) and Waterloo (part)",
+      "places": [
+        "Albany Village",
+        "Alexander Township",
+        "Athens Township",
+        "Lee Township",
+        "Lodi Township",
+        "Waterloo Township"
+      ],
+      "number": "Issue 1",
+      "text": "Shall an annual income tax of 0.75 percent on the earned income of individuals residing in the school district be imposed by Alexander Local School District, for 5 years, beginning January 1, 2027, for the purpose of current expenses?",
+      "sources": [
+        "athens-notices",
+        "athens-46day"
+      ]
+    },
+    {
+      "id": "issue-2",
+      "kind": "question",
+      "jurisdiction": "Athens City School District",
+      "title": "School district income tax (renewal): 1 percent, continuing, current operating expenses",
+      "area": "Athens City School District",
+      "places": [
+        "Athens City",
+        "Athens Township",
+        "Canaan Township",
+        "Chauncey Village",
+        "Dover Township",
+        "Waterloo Township"
+      ],
+      "number": "Issue 2",
+      "text": "Shall an annual income tax of 1 percent on earned income of individuals residing in the school district be imposed by the Athens City School District, to renew an income tax expiring at the end of 2028, for a continuing period of time, beginning January 1, 2029, for the purpose of current operating expenses?",
+      "sources": [
+        "athens-notices",
+        "athens-46day"
+      ]
+    },
+    {
+      "id": "issue-4",
+      "kind": "liquor",
+      "jurisdiction": "City of Nelsonville",
+      "title": "Local liquor option: The Mine Tavern (Sunday sales)",
+      "area": "Nelsonville City precinct Nelsonville 2",
+      "places": [
+        "Nelsonville City"
+      ],
+      "number": "Issue 4",
+      "text": "Shall the sale of wine and mixed beverages and spirituous liquor be permitted for sale on Sunday by Gatway LLC, dba The Mine Tavern, an applicant for and a holder of a D-6, D-1, D-2, D-3 and D-3A liquor permits authorizing on/off premise sales who is engaged in the business of operating a bar/restaurant at 14 Public Square & Back Patio, Nelsonville, OH 45764 in this precinct?",
+      "sources": [
+        "athens-notices",
+        "athens-46day"
+      ]
+    },
+    {
+      "id": "issue-5",
+      "kind": "liquor",
+      "jurisdiction": "Lodi Township",
+      "title": "Local liquor option: Big 33 LLC (C-1, C-2 and D-6 permits)",
+      "area": "Lodi Township precinct",
+      "places": [
+        "Lodi Township"
+      ],
+      "number": "Issue 5",
+      "text": "Shall the sale of beer, wine and mixed beverages be permitted by Big 33 LLC, an applicant for a C1, C2 and D6 liquor permit(s), who is engaged in the business of family-oriented, full service gas station, convenience store and food service at 12100 Pleasanton Road, Athens, OH 45701 in this precinct?",
+      "sources": [
+        "athens-notices",
+        "athens-46day"
+      ]
+    },
+    {
+      "id": "issue-6",
+      "kind": "liquor",
+      "jurisdiction": "Lodi Township",
+      "title": "Local liquor option: Big 33 LLC (Sunday sales)",
+      "area": "Lodi Township precinct",
+      "places": [
+        "Lodi Township"
+      ],
+      "number": "Issue 6",
+      "text": "Shall the sale of beer, wine and mixed beverages be permitted for sale on Sunday by Big 33 LLC, an applicant for a C1, C2 and D6 liquor permit(s), who is engaged in the business of family-oriented, full service gas station, convenience store and food service at 12100 Pleasanton Road, Athens, OH 45701 in this precinct?",
+      "sources": [
+        "athens-notices",
+        "athens-46day"
+      ]
+    },
+    {
+      "id": "issue-7",
+      "kind": "levy",
+      "jurisdiction": "Athens County",
+      "title": "Tax levy (additional): Maintenance and operation of the Athens City-County Health Department",
+      "area": "Athens County",
+      "levy": {
+        "type": "Additional",
+        "purpose": "Maintenance and operation of the Athens City-County Health Department.",
+        "mills": "1 mill",
+        "term": "10 years, commencing in 2026",
+        "firstDue": "2027",
+        "estimate": "$1,520,051 a year; $35 for each $100,000 of the county auditor's market value"
+      },
+      "number": "Issue 7",
+      "sources": [
+        "athens-notices",
+        "athens-46day"
+      ]
+    },
+    {
+      "id": "issue-8",
+      "kind": "levy",
+      "jurisdiction": "Village of Albany",
+      "title": "Tax levy (additional): Street maintenance",
+      "area": "Village of Albany",
+      "places": [
+        "Albany Village"
+      ],
+      "levy": {
+        "type": "Additional",
+        "purpose": "Street maintenance.",
+        "mills": "3 mills",
+        "term": "5 years, commencing in 2026",
+        "firstDue": "2027",
+        "estimate": "$63,273 a year; $105 for each $100,000 of the county auditor's market value"
+      },
+      "number": "Issue 8",
+      "sources": [
+        "athens-notices",
+        "athens-46day"
+      ]
+    },
+    {
+      "id": "issue-9",
+      "kind": "levy",
+      "jurisdiction": "Village of Amesville",
+      "title": "Tax levy (renewal): Police department, equipment and personnel",
+      "area": "Village of Amesville",
+      "places": [
+        "Amesville Village"
+      ],
+      "levy": {
+        "type": "Renewal",
+        "purpose": "Police department, equipment and personnel.",
+        "mills": "2 mills",
+        "term": "5 years, commencing in 2027",
+        "firstDue": "2028",
+        "estimate": "$3,864 a year; $54 for each $100,000 of the county auditor's market value"
+      },
+      "number": "Issue 9",
+      "sources": [
+        "athens-notices",
+        "athens-46day"
+      ]
+    },
+    {
+      "id": "issue-10",
+      "kind": "levy",
+      "jurisdiction": "Village of Amesville",
+      "title": "Tax levy (renewal): Current expenses",
+      "area": "Village of Amesville",
+      "places": [
+        "Amesville Village"
+      ],
+      "levy": {
+        "type": "Renewal",
+        "purpose": "Current expenses.",
+        "mills": "2 mills",
+        "term": "5 years, commencing in 2027",
+        "firstDue": "2028",
+        "estimate": "$3,864 a year; $54 for each $100,000 of the county auditor's market value"
+      },
+      "number": "Issue 10",
+      "sources": [
+        "athens-notices",
+        "athens-46day"
+      ]
+    },
+    {
+      "id": "issue-11",
+      "kind": "levy",
+      "jurisdiction": "Village of Buchtel (Athens and Hocking)",
+      "title": "Tax levy (additional): Current expenses",
+      "area": "Village of Buchtel (Athens and Hocking)",
+      "places": [
+        "Buchtel Village"
+      ],
+      "levy": {
+        "type": "Additional",
+        "purpose": "Current expenses.",
+        "mills": "5 mills",
+        "term": "5 years, commencing in 2026",
+        "firstDue": "2027",
+        "estimate": "$32,611 a year; $175 for each $100,000 of the county auditor's market value"
+      },
+      "number": "Issue 11",
+      "sources": [
+        "athens-notices",
+        "athens-46day"
+      ]
+    },
+    {
+      "id": "issue-12",
+      "kind": "levy",
+      "jurisdiction": "Village of Chauncey",
+      "title": "Tax levy (renewal): Current expenses",
+      "area": "Village of Chauncey",
+      "places": [
+        "Chauncey Village"
+      ],
+      "levy": {
+        "type": "Renewal",
+        "purpose": "Current expenses.",
+        "mills": "5 mills",
+        "term": "5 years, commencing in 2026",
+        "firstDue": "2027",
+        "estimate": "$30,475 a year; $128 for each $100,000 of the county auditor's market value"
+      },
+      "number": "Issue 12",
+      "sources": [
+        "athens-notices",
+        "athens-46day"
+      ]
+    },
+    {
+      "id": "issue-13",
+      "kind": "levy",
+      "jurisdiction": "Village of Jacksonville",
+      "title": "Tax levy (renewal): Fire protection",
+      "area": "Village of Jacksonville",
+      "places": [
+        "Jacksonville Village"
+      ],
+      "levy": {
+        "type": "Renewal",
+        "purpose": "Fire protection.",
+        "mills": "5 mills",
+        "term": "5 years, commencing in 2027",
+        "firstDue": "2028",
+        "estimate": "$17,677 a year; $134 for each $100,000 of the county auditor's market value"
+      },
+      "number": "Issue 13",
+      "sources": [
+        "athens-notices",
+        "athens-46day"
+      ]
+    },
+    {
+      "id": "issue-14",
+      "kind": "levy",
+      "jurisdiction": "Village of Jacksonville",
+      "title": "Tax levy (renewal): Current expenses",
+      "area": "Village of Jacksonville",
+      "places": [
+        "Jacksonville Village"
+      ],
+      "levy": {
+        "type": "Renewal",
+        "purpose": "Current expenses.",
+        "mills": "5.3 mills",
+        "term": "5 years, commencing in 2027",
+        "firstDue": "2028",
+        "estimate": "$18,956 a year; $144 for each $100,000 of the county auditor's market value"
+      },
+      "number": "Issue 14",
+      "sources": [
+        "athens-notices",
+        "athens-46day"
+      ]
+    },
+    {
+      "id": "issue-15",
+      "kind": "levy",
+      "jurisdiction": "Alexander Township (excluding Albany Village)",
+      "title": "Tax levy (renewal): Fire protection",
+      "area": "Precincts Alexander East and Alexander West",
+      "places": [
+        "Alexander Township"
+      ],
+      "levy": {
+        "type": "Renewal",
+        "purpose": "Fire protection.",
+        "mills": "1 mill",
+        "term": "5 years, commencing in 2027",
+        "firstDue": "2028",
+        "estimate": "$112,912 a year; $35 for each $100,000 of the county auditor's market value"
+      },
+      "number": "Issue 15",
+      "sources": [
+        "athens-notices",
+        "athens-46day"
+      ]
+    },
+    {
+      "id": "issue-16",
+      "kind": "levy",
+      "jurisdiction": "Ames Township (excluding Amesville Village)",
+      "title": "Tax levy (renewal): Fire protection",
+      "area": "Ames Township precincts (excluding Amesville Village)",
+      "places": [
+        "Ames Township"
+      ],
+      "levy": {
+        "type": "Renewal",
+        "purpose": "Fire protection.",
+        "mills": "1 mill",
+        "term": "5 years, commencing in 2026",
+        "firstDue": "2027",
+        "estimate": "$20,000 a year; $19 for each $100,000 of the county auditor's market value"
+      },
+      "number": "Issue 16",
+      "sources": [
+        "athens-notices",
+        "athens-46day"
+      ]
+    },
+    {
+      "id": "issue-17",
+      "kind": "levy",
+      "jurisdiction": "Ames Township (excluding Amesville Village)",
+      "title": "Tax levy (renewal): Road maintenance",
+      "area": "Ames Township precincts (excluding Amesville Village)",
+      "places": [
+        "Ames Township"
+      ],
+      "levy": {
+        "type": "Renewal",
+        "purpose": "Road maintenance.",
+        "mills": "2 mills",
+        "term": "5 years, commencing in 2026",
+        "firstDue": "2027",
+        "estimate": "$52,631 a year; $54 for each $100,000 of the county auditor's market value"
+      },
+      "number": "Issue 17",
+      "sources": [
+        "athens-notices",
+        "athens-46day"
+      ]
+    },
+    {
+      "id": "issue-18",
+      "kind": "levy",
+      "jurisdiction": "Canaan Township (including Athens City)",
+      "title": "Tax levy (renewal): Fire protection",
+      "area": "Canaan Township precincts and Athens 4-1 (part), the part of Athens City in Canaan Township",
+      "places": [
+        "Athens City",
+        "Canaan Township"
+      ],
+      "levy": {
+        "type": "Renewal",
+        "purpose": "Fire protection.",
+        "mills": "0.4 mill",
+        "term": "5 years, commencing in 2027",
+        "firstDue": "2028",
+        "estimate": "$19,935 a year; $10 for each $100,000 of the county auditor's market value"
+      },
+      "number": "Issue 18",
+      "sources": [
+        "athens-notices",
+        "athens-46day"
+      ]
+    },
+    {
+      "id": "issue-19",
+      "kind": "levy",
+      "jurisdiction": "Canaan Township (including Athens City)",
+      "title": "Tax levy (renewal): Maintaining and operating cemeteries",
+      "area": "Canaan Township precincts and Athens 4-1 (part), the part of Athens City in Canaan Township",
+      "places": [
+        "Athens City",
+        "Canaan Township"
+      ],
+      "levy": {
+        "type": "Renewal",
+        "purpose": "Maintaining and operating cemeteries.",
+        "mills": "0.5 mill",
+        "term": "5 years, commencing in 2027",
+        "firstDue": "2028",
+        "estimate": "$28,371 a year; $15 for each $100,000 of the county auditor's market value"
+      },
+      "number": "Issue 19",
+      "sources": [
+        "athens-notices",
+        "athens-46day"
+      ]
+    },
+    {
+      "id": "issue-20",
+      "kind": "levy",
+      "jurisdiction": "Carthage Township",
+      "title": "Tax levy (additional): General construction, reconstruction, resurfacing and repair of streets, roads and bridges",
+      "area": "Carthage Township",
+      "places": [
+        "Carthage Township"
+      ],
+      "levy": {
+        "type": "Additional",
+        "purpose": "General construction, reconstruction, resurfacing and repair of streets, roads and bridges.",
+        "mills": "3 mills",
+        "term": "5 years, commencing in 2027",
+        "firstDue": "2028",
+        "estimate": "$121,111 a year; $105 for each $100,000 of the county auditor's market value"
+      },
+      "number": "Issue 20",
+      "note": "The 46-day notice calls this a road maintenance levy; the purpose shown is from the Board's notice of election.",
+      "sources": [
+        "athens-notices",
+        "athens-46day"
+      ]
+    },
+    {
+      "id": "issue-21",
+      "kind": "levy",
+      "jurisdiction": "Carthage Township",
+      "title": "Tax levy (additional): Maintaining and operating cemeteries",
+      "area": "Carthage Township",
+      "places": [
+        "Carthage Township"
+      ],
+      "levy": {
+        "type": "Additional",
+        "purpose": "Maintaining and operating cemeteries.",
+        "mills": "0.6 mill",
+        "term": "5 years, commencing in 2027",
+        "firstDue": "2028",
+        "estimate": "$24,222 a year; $21 for each $100,000 of the county auditor's market value"
+      },
+      "number": "Issue 21",
+      "sources": [
+        "athens-notices",
+        "athens-46day"
+      ]
+    },
+    {
+      "id": "issue-22",
+      "kind": "levy",
+      "jurisdiction": "Dover Township (excluding Chauncey Village)",
+      "title": "Tax levy (renewal): General construction, reconstruction, resurfacing and repair of streets, roads and bridges",
+      "area": "Precincts Dover East and Dover West",
+      "places": [
+        "Dover Township"
+      ],
+      "levy": {
+        "type": "Renewal",
+        "purpose": "General construction, reconstruction, resurfacing and repair of streets, roads and bridges.",
+        "mills": "2 mills",
+        "term": "5 years, commencing in 2027",
+        "firstDue": "2028",
+        "estimate": "$98,473 a year; $59 for each $100,000 of the county auditor's market value"
+      },
+      "number": "Issue 22",
+      "note": "The 46-day notice calls this a road maintenance levy; the purpose shown is from the Board's notice of election.",
+      "sources": [
+        "athens-notices",
+        "athens-46day"
+      ]
+    },
+    {
+      "id": "issue-23",
+      "kind": "levy",
+      "jurisdiction": "Lee Township (excluding Albany Village)",
+      "title": "Tax levy (renewal): Fire fighting facilities, equipment and personnel, including paramedics and other emergency services",
+      "area": "Lee Township precinct",
+      "places": [
+        "Lee Township"
+      ],
+      "levy": {
+        "type": "Renewal",
+        "purpose": "Fire fighting facilities, equipment and personnel, including paramedics and other emergency services.",
+        "mills": "0.5 mill",
+        "term": "5 years, commencing in 2027",
+        "firstDue": "2028",
+        "estimate": "$28,760 a year; $12 for each $100,000 of the county auditor's market value"
+      },
+      "number": "Issue 23",
+      "note": "Issues 23 and 24 are two separate Lee Township fire levies with the same wording in the Board's notices.",
+      "sources": [
+        "athens-notices",
+        "athens-46day"
+      ]
+    },
+    {
+      "id": "issue-24",
+      "kind": "levy",
+      "jurisdiction": "Lee Township (excluding Albany Village)",
+      "title": "Tax levy (renewal): Fire fighting facilities, equipment and personnel, including paramedics and other emergency services",
+      "area": "Lee Township precinct",
+      "places": [
+        "Lee Township"
+      ],
+      "levy": {
+        "type": "Renewal",
+        "purpose": "Fire fighting facilities, equipment and personnel, including paramedics and other emergency services.",
+        "mills": "0.5 mill",
+        "term": "5 years, commencing in 2027",
+        "firstDue": "2028",
+        "estimate": "$28,760 a year; $12 for each $100,000 of the county auditor's market value"
+      },
+      "number": "Issue 24",
+      "note": "Issues 23 and 24 are two separate Lee Township fire levies with the same wording in the Board's notices.",
+      "sources": [
+        "athens-notices",
+        "athens-46day"
+      ]
+    },
+    {
+      "id": "issue-25",
+      "kind": "levy",
+      "jurisdiction": "Lodi Township",
+      "title": "Tax levy (renewal): Fire protection",
+      "area": "Lodi Township",
+      "places": [
+        "Lodi Township"
+      ],
+      "levy": {
+        "type": "Renewal",
+        "purpose": "Fire protection.",
+        "mills": "1 mill",
+        "term": "5 years, commencing in 2026",
+        "firstDue": "2027",
+        "estimate": "$37,031 a year; $29 for each $100,000 of the county auditor's market value"
+      },
+      "number": "Issue 25",
+      "sources": [
+        "athens-notices",
+        "athens-46day"
+      ]
+    },
+    {
+      "id": "issue-26",
+      "kind": "levy",
+      "jurisdiction": "Rome Township",
+      "title": "Tax levy (renewal): Road maintenance including dust control",
+      "area": "Rome Township",
+      "places": [
+        "Rome Township"
+      ],
+      "levy": {
+        "type": "Renewal",
+        "purpose": "Road maintenance including dust control.",
+        "mills": "5.5 mills",
+        "term": "5 years, commencing in 2027",
+        "firstDue": "2028",
+        "estimate": "$153,046 a year; $174 for each $100,000 of the county auditor's market value"
+      },
+      "number": "Issue 26",
+      "sources": [
+        "athens-notices",
+        "athens-46day"
+      ]
+    },
+    {
+      "id": "issue-27",
+      "kind": "levy",
+      "jurisdiction": "Troy Township (excluding Coolville Village)",
+      "title": "Tax levy (additional): General construction, reconstruction, resurfacing and repair of streets and bridges",
+      "area": "Precincts Troy East and Troy West",
+      "places": [
+        "Troy Township"
+      ],
+      "levy": {
+        "type": "Additional",
+        "purpose": "General construction, reconstruction, resurfacing and repair of streets and bridges.",
+        "mills": "2 mills",
+        "term": "5 years, commencing in 2026",
+        "firstDue": "2027",
+        "estimate": "$110,377 a year; $70 for each $100,000 of the county auditor's market value"
+      },
+      "number": "Issue 27",
+      "sources": [
+        "athens-notices",
+        "athens-46day"
+      ]
+    },
+    {
+      "id": "issue-28",
+      "kind": "levy",
+      "jurisdiction": "Troy Township (including Coolville Village)",
+      "title": "Tax levy (renewal): Maintaining and operating cemeteries",
+      "area": "Precincts Coolville Village, Troy East and Troy West",
+      "places": [
+        "Coolville Village",
+        "Troy Township"
+      ],
+      "levy": {
+        "type": "Renewal",
+        "purpose": "Maintaining and operating cemeteries.",
+        "mills": "0.9 mill",
+        "term": "5 years, commencing in 2027",
+        "firstDue": "2028",
+        "estimate": "$48,559 a year; $26 for each $100,000 of the county auditor's market value"
+      },
+      "number": "Issue 28",
+      "sources": [
+        "athens-notices",
+        "athens-46day"
+      ]
+    },
+    {
+      "id": "issue-29",
+      "kind": "levy",
+      "jurisdiction": "York Township (including Nelsonville and Buchtel)",
+      "title": "Tax levy (additional): Maintaining and operating cemeteries",
+      "area": "Precincts Nelsonville 1 to 4, Buchtel Village and York Township",
+      "places": [
+        "Buchtel Village",
+        "Nelsonville City",
+        "York Township"
+      ],
+      "levy": {
+        "type": "Additional",
+        "purpose": "Maintaining and operating cemeteries.",
+        "mills": "1 mill",
+        "term": "5 years, commencing in 2026",
+        "firstDue": "2027",
+        "estimate": "$132,610 a year; $35 for each $100,000 of the county auditor's market value"
+      },
+      "number": "Issue 29",
+      "sources": [
+        "athens-notices",
+        "athens-46day"
+      ]
+    }
+  ]
+}

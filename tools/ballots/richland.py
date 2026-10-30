@@ -106,7 +106,7 @@ def build():
     c.levy("lexington-lsd-current", LEX_J, LEX, "Renewal", "Current expenses.", "4.8 mills", "5 years, commencing in 2026", "2027", area=LEX_AREA, src=S)
     LP = SD("LOUDONVILLE-PERRYSVILLE EX VILL SD (ASHLAND)")
     LP_AREA = "Monroe Township A (split 1), B (split 1)"
-    c.issue("loudonville-perrysville-bond-income-tax", "levy", "Loudonville-Perrysville Exempted Village School District (Ashland and Richland counties)",
+    c.issue("loudonville-perrysville-bond-income-tax", "levy", "Loudonville-Perrysville Exempted Village School District (Ashland, Knox and Richland counties)",
             "School district income tax (0.25%, 30 years) and bond issue ($16,400,000)", LP, area=LP_AREA,
             levy={"type": "Income tax and bond issue", "purpose": "Income tax for current expenses; bonds for constructing, renovating, repairing, expanding, furnishing and equipping school facilities and improving their sites.",
                   "mills": "2.85 mills (bond, estimated average)", "term": "Income tax 30 years from January 1, 2027; bonds up to 37 years", "firstDue": "2028",
@@ -123,7 +123,7 @@ def build():
            "1 mill", "5 years, commencing in 2027", "2028", area="South Central Local School District, Richland County part (Blooming Grove split 4, Butler Township split 3)", src=S)
 
     # --- Library (its precincts in the notice are exactly the Loudonville-Perrysville district's) ---
-    c.levy("loudonville-library", "Loudonville Public Library (Ashland and Richland counties)", LP, "Renewal", "Current expenses.", "0.8 mill", "5 years, commencing in 2027", "2028",
+    c.levy("loudonville-library", "Loudonville Public Library (Ashland, Knox and Richland counties)", LP, "Renewal", "Current expenses.", "0.8 mill", "5 years, commencing in 2027", "2028",
            area=LP_AREA, src=S)
 
     # --- Local liquor options ---

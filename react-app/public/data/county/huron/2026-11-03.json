@@ -1,0 +1,819 @@
+{
+  "scope": "county",
+  "county": "Huron",
+  "fips": "39077",
+  "election": "2026-11-03",
+  "retrieved": "2026-10-30",
+  "notes": [
+    "Taken from the Board of Elections' 46-day election notice, which lists every contest and issue with the precincts that vote on it, checked against the Board's issues list. Issue wording is from the Board's precinct sample ballots.",
+    "Candidates are listed alphabetically by last name, not in ballot order: Ohio rotates the order of names from precinct to precinct. Certified write-in candidates are not printed on the ballot and are not listed.",
+    "\"Where you live\" uses the state voter file: a district or school levy is shown for a city, village or township when any of its voters live in that district. Your exact ballot depends on your precinct.",
+    "Huron County's ballots do not number local issues (only statewide Issue 3 is numbered)."
+  ],
+  "places": [
+    "Bellevue City",
+    "Bronson Township",
+    "Clarksfield Township",
+    "Fairfield Township",
+    "Fitchville Township",
+    "Greenfield Township",
+    "Greenwich Township",
+    "Greenwich Village",
+    "Hartland Township",
+    "Lyme Township",
+    "Milan Village",
+    "Monroeville Village",
+    "New Haven Township",
+    "New London Township",
+    "New London Village",
+    "North Fairfield Village",
+    "Norwalk City",
+    "Norwalk Township",
+    "Norwich Township",
+    "Peru Township",
+    "Plymouth Village",
+    "Richmond Township",
+    "Ridgefield Township",
+    "Ripley Township",
+    "Sherman Township",
+    "Townsend Township",
+    "Wakeman Township",
+    "Wakeman Village",
+    "Willard City"
+  ],
+  "sources": {
+    "huron-46day": {
+      "label": "Huron County Board of Elections: 46-day election notice (FWAB), November 3, 2026 General Election (revised 9/18/2026)",
+      "url": "https://www.huron.boe.ohio.gov/wp-content/uploads/46-FWAB-2.0.pdf"
+    },
+    "huron-issues": {
+      "label": "Huron County Board of Elections: issues filed for the November 3, 2026 General Election, with millage (9/1/2026)",
+      "url": "https://www.huron.boe.ohio.gov/wp-content/uploads/Issue-listing-11.3.2026-with-millage-9-1-2026.pdf"
+    },
+    "huron-ballots": {
+      "label": "Huron County Board of Elections: sample ballots by precinct, November 3, 2026 General Election",
+      "url": "https://lookup.boe.ohio.gov/vtrapp/huron/ballotlist.aspx"
+    }
+  },
+  "links": [
+    {
+      "label": "Board of Elections",
+      "url": "https://www.huron.boe.ohio.gov/"
+    },
+    {
+      "label": "Sample ballots by precinct",
+      "url": "https://lookup.boe.ohio.gov/vtrapp/huron/ballotlist.aspx"
+    },
+    {
+      "label": "Find your polling place",
+      "url": "https://lookup.boe.ohio.gov/vtrapp/huron/pollfinder.aspx"
+    }
+  ],
+  "results": {
+    "status": "upcoming",
+    "links": [
+      {
+        "label": "Board of Elections: election results",
+        "url": "https://www.huron.boe.ohio.gov/election-results/"
+      }
+    ]
+  },
+  "contests": [
+    {
+      "id": "congress-5",
+      "group": "U.S. House",
+      "office": "Representative to Congress",
+      "detail": "5th District",
+      "candidates": [
+        {
+          "name": "Bob Latta",
+          "party": "REP"
+        },
+        {
+          "name": "Brian A. Shaver",
+          "party": "DEM"
+        },
+        {
+          "name": "Michael J. Veloff",
+          "party": "LIB"
+        }
+      ],
+      "sources": [
+        "huron-46day"
+      ]
+    },
+    {
+      "id": "senate-13",
+      "group": "Ohio General Assembly",
+      "office": "State Senator",
+      "detail": "13th District (Huron and Lorain)",
+      "area": "Bronson Township, Clarksfield Township, Fairfield Township, Fitchville Township, Greenfield Township, Greenwich Township, Greenwich Village, Hartland Township, Milan Village, Monroeville Village, New Haven Township, New London Township, New London Village, North Fairfield Village, Norwalk City, Norwalk Township, Norwich Township, Peru Township, Plymouth Village, Richmond Township, Ridgefield Township, Ripley Township, Sherman Township, Townsend Township, Willard City",
+      "places": [
+        "Bronson Township",
+        "Clarksfield Township",
+        "Fairfield Township",
+        "Fitchville Township",
+        "Greenfield Township",
+        "Greenwich Township",
+        "Greenwich Village",
+        "Hartland Township",
+        "Milan Village",
+        "Monroeville Village",
+        "New Haven Township",
+        "New London Township",
+        "New London Village",
+        "North Fairfield Village",
+        "Norwalk City",
+        "Norwalk Township",
+        "Norwich Township",
+        "Peru Township",
+        "Plymouth Village",
+        "Richmond Township",
+        "Ridgefield Township",
+        "Ripley Township",
+        "Sherman Township",
+        "Townsend Township",
+        "Willard City"
+      ],
+      "candidates": [
+        {
+          "name": "Gayle Manning",
+          "party": "REP"
+        },
+        {
+          "name": "Joe Miller",
+          "party": "DEM"
+        }
+      ],
+      "sources": [
+        "huron-46day"
+      ]
+    },
+    {
+      "id": "rep-54",
+      "group": "Ohio General Assembly",
+      "office": "State Representative",
+      "detail": "54th District",
+      "area": "Bronson Township, Clarksfield Township, Fairfield Township, Fitchville Township, Greenfield Township, Greenwich Township, Greenwich Village, Hartland Township, Milan Village, Monroeville Village, New Haven Township, New London Township, New London Village, North Fairfield Village, Norwalk City, Norwalk Township, Norwich Township, Peru Township, Plymouth Village, Richmond Township, Ridgefield Township, Ripley Township, Sherman Township, Townsend Township, Willard City",
+      "places": [
+        "Bronson Township",
+        "Clarksfield Township",
+        "Fairfield Township",
+        "Fitchville Township",
+        "Greenfield Township",
+        "Greenwich Township",
+        "Greenwich Village",
+        "Hartland Township",
+        "Milan Village",
+        "Monroeville Village",
+        "New Haven Township",
+        "New London Township",
+        "New London Village",
+        "North Fairfield Village",
+        "Norwalk City",
+        "Norwalk Township",
+        "Norwich Township",
+        "Peru Township",
+        "Plymouth Village",
+        "Richmond Township",
+        "Ridgefield Township",
+        "Ripley Township",
+        "Sherman Township",
+        "Townsend Township",
+        "Willard City"
+      ],
+      "candidates": [
+        {
+          "name": "Brenda Buchanan",
+          "party": "DEM"
+        },
+        {
+          "name": "Kellie Deeter",
+          "party": "REP"
+        }
+      ],
+      "sources": [
+        "huron-46day"
+      ]
+    },
+    {
+      "id": "rep-89",
+      "group": "Ohio General Assembly",
+      "office": "State Representative",
+      "detail": "89th District",
+      "area": "Bellevue City, Lyme Township, Wakeman Township, Wakeman Village",
+      "places": [
+        "Bellevue City",
+        "Lyme Township",
+        "Wakeman Township",
+        "Wakeman Village"
+      ],
+      "candidates": [
+        {
+          "name": "Easton Michael Retzke",
+          "party": "DEM"
+        },
+        {
+          "name": "Caleb Stidham",
+          "party": "REP"
+        }
+      ],
+      "sources": [
+        "huron-46day"
+      ]
+    },
+    {
+      "id": "appeals-6-0209",
+      "group": "Ohio Court of Appeals",
+      "office": "Judge of the Court of Appeals",
+      "detail": "6th District · full term commencing February 9, 2027",
+      "candidates": [
+        {
+          "name": "Michael R. Goulding",
+          "party": "REP"
+        }
+      ],
+      "sources": [
+        "huron-46day"
+      ]
+    },
+    {
+      "id": "appeals-6-0210",
+      "group": "Ohio Court of Appeals",
+      "office": "Judge of the Court of Appeals",
+      "detail": "6th District · full term commencing February 10, 2027",
+      "candidates": [
+        {
+          "name": "Myron C. Duhart",
+          "party": "DEM"
+        },
+        {
+          "name": "CJ Kamm",
+          "party": "REP"
+        }
+      ],
+      "sources": [
+        "huron-46day"
+      ]
+    },
+    {
+      "id": "commissioner-0101",
+      "group": "County offices",
+      "office": "County Commissioner",
+      "detail": "Full term commencing January 1, 2027",
+      "candidates": [
+        {
+          "name": "Terry Boose",
+          "party": "REP"
+        },
+        {
+          "name": "Cassaundra Fryman",
+          "party": "LIB"
+        }
+      ],
+      "sources": [
+        "huron-46day"
+      ]
+    },
+    {
+      "id": "commissioner-unexpired",
+      "group": "County offices",
+      "office": "County Commissioner",
+      "detail": "Unexpired term ending January 2, 2029",
+      "candidates": [
+        {
+          "name": "Bob Morgan",
+          "party": "REP"
+        },
+        {
+          "name": "Kevin J. Rasnick",
+          "party": "Nonparty"
+        }
+      ],
+      "sources": [
+        "huron-46day"
+      ]
+    },
+    {
+      "id": "auditor",
+      "group": "County offices",
+      "office": "County Auditor",
+      "detail": "Full term commencing March 8, 2027",
+      "candidates": [
+        {
+          "name": "Roland J. Tkach",
+          "party": "DEM"
+        }
+      ],
+      "sources": [
+        "huron-46day"
+      ]
+    },
+    {
+      "id": "cp-juvenile-probate",
+      "group": "Court of Common Pleas",
+      "office": "Judge of the Court of Common Pleas, Juvenile and Probate Division",
+      "detail": "Full term commencing February 9, 2027 · no party label on the ballot",
+      "candidates": [
+        {
+          "name": "Timothy L. Cardwell"
+        }
+      ],
+      "sources": [
+        "huron-46day"
+      ]
+    }
+  ],
+  "issues": [
+    {
+      "id": "huron-health",
+      "kind": "levy",
+      "jurisdiction": "Huron County General Health District",
+      "title": "Tax levy (renewal): Meeting the expenses of the programs of the Huron County Board of Public Health",
+      "area": "All of Huron County except Bellevue 3 and 4",
+      "places": [
+        "Bronson Township",
+        "Clarksfield Township",
+        "Fairfield Township",
+        "Fitchville Township",
+        "Greenfield Township",
+        "Greenwich Township",
+        "Greenwich Village",
+        "Hartland Township",
+        "Lyme Township",
+        "Milan Village",
+        "Monroeville Village",
+        "New Haven Township",
+        "New London Township",
+        "New London Village",
+        "North Fairfield Village",
+        "Norwalk City",
+        "Norwalk Township",
+        "Norwich Township",
+        "Peru Township",
+        "Plymouth Village",
+        "Richmond Township",
+        "Ridgefield Township",
+        "Ripley Township",
+        "Sherman Township",
+        "Townsend Township",
+        "Wakeman Township",
+        "Wakeman Village",
+        "Willard City"
+      ],
+      "levy": {
+        "type": "Renewal",
+        "purpose": "Meeting the expenses of the programs of the Huron County Board of Public Health.",
+        "mills": "0.5 mill",
+        "term": "10 years, commencing in 2027",
+        "firstDue": "2028",
+        "estimate": "$587,279 a year; $11 for each $100,000 of the county auditor's market value"
+      },
+      "sources": [
+        "huron-ballots",
+        "huron-46day",
+        "huron-issues"
+      ]
+    },
+    {
+      "id": "firelands-ambulance",
+      "kind": "levy",
+      "jurisdiction": "Firelands Ambulance Service District (Huron and Ashland)",
+      "title": "Tax levy (renewal): Ambulance service, emergency medical service, or both",
+      "area": "Firelands Ambulance Service District, Huron County part (Fitchville Township, New London Township, New London Village #1 and #2)",
+      "places": [
+        "Fitchville Township",
+        "New London Township",
+        "New London Village"
+      ],
+      "levy": {
+        "type": "Renewal",
+        "purpose": "Ambulance service, emergency medical service, or both.",
+        "mills": "1 mill",
+        "term": "5 years, commencing in 2026",
+        "firstDue": "2027",
+        "estimate": "$134,120 a year; $24 for each $100,000 of the county auditor's market value"
+      },
+      "sources": [
+        "huron-ballots",
+        "huron-46day",
+        "huron-issues"
+      ]
+    },
+    {
+      "id": "vermilion-river-ambulance",
+      "kind": "levy",
+      "jurisdiction": "Vermilion River Ambulance District (Erie and Huron)",
+      "title": "Tax levy (renewal): Ambulance and emergency medical services: services, equipment and facilities",
+      "area": "Vermilion River Ambulance District, Huron County part (Townsend Township, Wakeman Township and Wakeman Village)",
+      "places": [
+        "Townsend Township",
+        "Wakeman Township",
+        "Wakeman Village"
+      ],
+      "levy": {
+        "type": "Renewal",
+        "purpose": "Ambulance and emergency medical services: services, equipment and facilities.",
+        "mills": "1 mill",
+        "term": "5 years, commencing in 2027",
+        "firstDue": "2028",
+        "estimate": "$183,400 a year; $19 for each $100,000 of the county auditor's market value"
+      },
+      "sources": [
+        "huron-ballots",
+        "huron-46day",
+        "huron-issues"
+      ]
+    },
+    {
+      "id": "wakeman-fire",
+      "kind": "levy",
+      "jurisdiction": "Wakeman Fire District",
+      "title": "Tax levy (renewal): Fire apparatus, equipment, buildings and personnel, ambulance equipment and emergency medical services, and related costs",
+      "area": "Wakeman Fire District (Wakeman Township and Wakeman Village)",
+      "places": [
+        "Wakeman Township",
+        "Wakeman Village"
+      ],
+      "levy": {
+        "type": "Renewal",
+        "purpose": "Fire apparatus, equipment, buildings and personnel, ambulance equipment and emergency medical services, and related costs.",
+        "mills": "2.5 mills",
+        "term": "5 years, commencing in 2027",
+        "firstDue": "2028",
+        "estimate": "$137,451 a year; $40 for each $100,000 of the county auditor's market value"
+      },
+      "sources": [
+        "huron-ballots",
+        "huron-46day",
+        "huron-issues"
+      ]
+    },
+    {
+      "id": "herrick-library",
+      "kind": "levy",
+      "jurisdiction": "Herrick Memorial Library (Huron and Lorain)",
+      "title": "Tax levy (renewal): Current expenses",
+      "area": "Clarksfield Township, Wellington Exempted Village School District part (precinct Clarksfield Twp, split 2)",
+      "places": [
+        "Clarksfield Township"
+      ],
+      "levy": {
+        "type": "Renewal",
+        "purpose": "Current expenses.",
+        "mills": "1.25 mills",
+        "term": "5 years, commencing in 2027",
+        "firstDue": "2028",
+        "estimate": "$339,665 a year; $52 for each $100,000 of the county auditor's market value"
+      },
+      "sources": [
+        "huron-ballots",
+        "huron-46day",
+        "huron-issues"
+      ]
+    },
+    {
+      "id": "south-central-lsd-improvements",
+      "kind": "levy",
+      "jurisdiction": "South Central Local School District (Huron and Richland counties)",
+      "title": "Tax levy (renewal): General permanent improvements",
+      "area": "South Central Local School District, Huron County part (Bronson Twp #1 and #2 parts, Fairfield parts, Greenfield Twp part, Greenwich Township, Greenwich Village, North Fairfield, Ripley Township)",
+      "places": [
+        "Bronson Township",
+        "Fairfield Township",
+        "Greenfield Township",
+        "Greenwich Township",
+        "Greenwich Village",
+        "North Fairfield Village",
+        "Ripley Township"
+      ],
+      "levy": {
+        "type": "Renewal",
+        "purpose": "General permanent improvements.",
+        "mills": "1 mill",
+        "term": "5 years, commencing in 2027",
+        "firstDue": "2028",
+        "estimate": "$101,700 a year; $24 for each $100,000 of the county auditor's market value"
+      },
+      "sources": [
+        "huron-ballots",
+        "huron-46day",
+        "huron-issues"
+      ]
+    },
+    {
+      "id": "bellevue-parks",
+      "kind": "levy",
+      "jurisdiction": "City of Bellevue (Erie, Huron, Sandusky and Seneca)",
+      "title": "Tax levy (renewal): Parks and recreation",
+      "area": "Bellevue City, Huron County part (Bellevue 3 and 4)",
+      "places": [
+        "Bellevue City"
+      ],
+      "levy": {
+        "type": "Renewal",
+        "purpose": "Parks and recreation.",
+        "mills": "1 mill",
+        "term": "5 years, commencing in 2027",
+        "firstDue": "2028",
+        "estimate": "$181,373 a year; $19 for each $100,000 of the county auditor's market value"
+      },
+      "sources": [
+        "huron-ballots",
+        "huron-46day",
+        "huron-issues"
+      ]
+    },
+    {
+      "id": "norwalk-fire",
+      "kind": "levy",
+      "jurisdiction": "City of Norwalk",
+      "title": "Tax levy (renewal): Fire apparatus, buildings, water supply and fire alarm lines; firefighters' pay and the employer's pension contribution; ambulance equipment and ambulance, paramedic or other emergency medical services operated by the fire department",
+      "area": "Norwalk 1-A to 4-C",
+      "places": [
+        "Norwalk City"
+      ],
+      "levy": {
+        "type": "Renewal",
+        "purpose": "Fire apparatus, buildings, water supply and fire alarm lines; firefighters' pay and the employer's pension contribution; ambulance equipment and ambulance, paramedic or other emergency medical services operated by the fire department.",
+        "mills": "0.9 mill",
+        "term": "5 years, commencing in 2027",
+        "firstDue": "2028",
+        "estimate": "$82,182 a year; $4 for each $100,000 of the county auditor's market value"
+      },
+      "note": "The Board's 46-day notice and issues list print the rate as .09 mill; the ballot says 0.9 mill.",
+      "sources": [
+        "huron-ballots",
+        "huron-46day",
+        "huron-issues"
+      ]
+    },
+    {
+      "id": "norwalk-charter-council-meetings",
+      "kind": "question",
+      "jurisdiction": "City of Norwalk",
+      "title": "Charter amendment: cancelling regular Council meetings (Article III, Section 3.07)",
+      "area": "Norwalk 1-A to 4-C",
+      "places": [
+        "Norwalk City"
+      ],
+      "text": "Shall Article III, Section 3.07 of the Charter of the City of Norwalk be amended to add: Notwithstanding the foregoing, upon the concurrence of the Mayor and the President of Council, or in the absence of the President the President Pro Tempore of Council, a regularly scheduled meeting of Council may be cancelled due to emergency, inclement weather, or lack of business to consider at the meeting?",
+      "sources": [
+        "huron-ballots",
+        "huron-46day",
+        "huron-issues"
+      ]
+    },
+    {
+      "id": "new-london-income-tax",
+      "kind": "question",
+      "jurisdiction": "Village of New London",
+      "title": "Municipal income tax: continuing the existing 0.5% for police and fire department operations",
+      "area": "New London Village #1 and #2",
+      "places": [
+        "New London Village"
+      ],
+      "text": "Shall the Ordinance providing for the continuation of an existing 0.5 per cent levy on income for police and fire department operations be passed?",
+      "sources": [
+        "huron-ballots",
+        "huron-46day",
+        "huron-issues"
+      ]
+    },
+    {
+      "id": "north-fairfield-current",
+      "kind": "levy",
+      "jurisdiction": "Village of North Fairfield",
+      "title": "Tax levy (additional): Current expenses",
+      "area": "Village of North Fairfield",
+      "places": [
+        "North Fairfield Village"
+      ],
+      "levy": {
+        "type": "Additional",
+        "purpose": "Current expenses.",
+        "mills": "2 mills",
+        "term": "5 years, commencing in 2027",
+        "firstDue": "2028",
+        "estimate": "$15,465 a year; $70 for each $100,000 of the county auditor's market value"
+      },
+      "sources": [
+        "huron-ballots",
+        "huron-46day",
+        "huron-issues"
+      ]
+    },
+    {
+      "id": "north-fairfield-parks",
+      "kind": "levy",
+      "jurisdiction": "Village of North Fairfield",
+      "title": "Tax levy (additional): Parks and recreation",
+      "area": "Village of North Fairfield",
+      "places": [
+        "North Fairfield Village"
+      ],
+      "levy": {
+        "type": "Additional",
+        "purpose": "Parks and recreation.",
+        "mills": "2 mills",
+        "term": "5 years, commencing in 2026",
+        "firstDue": "2027",
+        "estimate": "$15,460 a year; $70 for each $100,000 of the county auditor's market value"
+      },
+      "sources": [
+        "huron-ballots",
+        "huron-46day",
+        "huron-issues"
+      ]
+    },
+    {
+      "id": "plymouth-cemetery",
+      "kind": "levy",
+      "jurisdiction": "Village of Plymouth (Richland and Huron counties)",
+      "title": "Tax levy (renewal): Operating and maintaining the village cemetery",
+      "area": "Plymouth, Huron County part (Plymouth Village precinct)",
+      "places": [
+        "Plymouth Village"
+      ],
+      "levy": {
+        "type": "Renewal",
+        "purpose": "Operating and maintaining the village cemetery.",
+        "mills": "1 mill",
+        "term": "5 years, commencing in 2027",
+        "firstDue": "2028",
+        "estimate": "$16,258 a year; $35 for each $100,000 of the county auditor's market value"
+      },
+      "sources": [
+        "huron-ballots",
+        "huron-46day",
+        "huron-issues"
+      ]
+    },
+    {
+      "id": "monroeville-data-center-advisory",
+      "kind": "question",
+      "jurisdiction": "Village of Monroeville",
+      "title": "Advisory question: allowing data center development in the village",
+      "area": "Village of Monroeville",
+      "places": [
+        "Monroeville Village"
+      ],
+      "text": "The purpose of this advisory question is to provide Village Council with public input, realizing the result will not, by itself, approve or prohibit any specific data center project. Do you support the Village of Monroeville allowing data center development within the Village limits, provided such development complies with Village zoning regulations and applicable development agreements?",
+      "sources": [
+        "huron-ballots",
+        "huron-46day",
+        "huron-issues"
+      ]
+    },
+    {
+      "id": "bronson-current",
+      "kind": "levy",
+      "jurisdiction": "Bronson Township",
+      "title": "Tax levy (renewal): Current expenses",
+      "area": "Bronson Township #1 and #2",
+      "places": [
+        "Bronson Township"
+      ],
+      "levy": {
+        "type": "Renewal",
+        "purpose": "Current expenses.",
+        "mills": "1 mill",
+        "term": "5 years, commencing in 2027",
+        "firstDue": "2028",
+        "estimate": "$50,400 a year; $18 for each $100,000 of the county auditor's market value"
+      },
+      "sources": [
+        "huron-ballots",
+        "huron-46day",
+        "huron-issues"
+      ]
+    },
+    {
+      "id": "norwalk-twp-current",
+      "kind": "levy",
+      "jurisdiction": "Norwalk Township (including the Huron County part of Milan Village)",
+      "title": "Tax levy (additional): Current expenses",
+      "area": "Norwalk Twp North, Norwalk Twp South and Norwalk-Milan",
+      "places": [
+        "Milan Village",
+        "Norwalk Township"
+      ],
+      "levy": {
+        "type": "Additional",
+        "purpose": "Current expenses.",
+        "mills": "0.75 mill",
+        "term": "5 years, commencing in 2026",
+        "firstDue": "2027",
+        "estimate": "$80,725 a year; $27 for each $100,000 of the county auditor's market value"
+      },
+      "sources": [
+        "huron-ballots",
+        "huron-46day",
+        "huron-issues"
+      ]
+    },
+    {
+      "id": "townsend-fire",
+      "kind": "levy",
+      "jurisdiction": "Townsend Township",
+      "title": "Tax levy (renewal): Fire apparatus, rescue and other fire equipment, buildings and sites, water supply, and fire alarm communications",
+      "area": "Townsend Township",
+      "places": [
+        "Townsend Township"
+      ],
+      "levy": {
+        "type": "Renewal",
+        "purpose": "Fire apparatus, rescue and other fire equipment, buildings and sites, water supply, and fire alarm communications.",
+        "mills": "1.5 mills",
+        "term": "5 years, commencing in 2027",
+        "firstDue": "2028",
+        "estimate": "$47,960 a year; $22 for each $100,000 of the county auditor's market value"
+      },
+      "sources": [
+        "huron-ballots",
+        "huron-46day",
+        "huron-issues"
+      ]
+    },
+    {
+      "id": "liquor-greenwich-beverage-center",
+      "kind": "liquor",
+      "jurisdiction": "Village of Greenwich",
+      "title": "Local liquor option: Greenwich Beverage Center (Sunday)",
+      "area": "Greenwich Village",
+      "places": [
+        "Greenwich Village"
+      ],
+      "text": "Shall the sale of wine and mixed beverages be permitted for sale on Sunday by NY Brothers, L.L.C., dba Greenwich Beverage Center an applicant for a D-6 liquor permit who is engaged in the business of carryout/grocery store at 15 W. Main Street, Greenwich, OH 44837 in this precinct?",
+      "sources": [
+        "huron-ballots",
+        "huron-46day",
+        "huron-issues"
+      ]
+    },
+    {
+      "id": "liquor-norwalk-margaritas-factory",
+      "kind": "liquor",
+      "jurisdiction": "City of Norwalk",
+      "title": "Local liquor option: Cuisine Margaritas Factory (Sunday)",
+      "area": "Precinct Norwalk 1-B",
+      "places": [
+        "Norwalk City"
+      ],
+      "text": "Shall the sale of wine and mixed beverages, and spirituous liquor be permitted for sale on Sunday by Lucky Star Buffet LLC dba Cuisine Margaritas Factory an applicant for a D-6 liquor permit who is engaged in the business of operating a family-owned Mexican restaurant at 101 Plank Rd., Norwalk, OH 44857 in this precinct?",
+      "sources": [
+        "huron-ballots",
+        "huron-46day",
+        "huron-issues"
+      ]
+    },
+    {
+      "id": "liquor-norwalk-buckeye-pub",
+      "kind": "liquor",
+      "jurisdiction": "City of Norwalk",
+      "title": "Local liquor option: Buckeye Pub and Grub (Sunday)",
+      "area": "Precinct Norwalk 3-A",
+      "places": [
+        "Norwalk City"
+      ],
+      "text": "Shall the sale of wine and mixed beverages, and spirituous liquor be permitted for sale on Sunday by Buckeye Pub and Grub, LTD an applicant for a D-6 liquor permit who is engaged in the business of a restaurant and bar at 71 W. Jefferson St. and patio, Norwalk, OH 44857 in this precinct?",
+      "sources": [
+        "huron-ballots",
+        "huron-46day",
+        "huron-issues"
+      ]
+    },
+    {
+      "id": "liquor-norwalk-berrys",
+      "kind": "liquor",
+      "jurisdiction": "City of Norwalk",
+      "title": "Local liquor option: Berry's on Main (Sunday)",
+      "area": "Precinct Norwalk 3-B",
+      "places": [
+        "Norwalk City"
+      ],
+      "text": "Shall the sale of wine and mixed beverages, and spirituous liquor be permitted for sale on Sunday by HRF Enterprises LLC, dba Berry's on Main an applicant for a D-6 liquor permit who is engaged in the business of a restaurant and bar at 15 W. Main St., first floor & basement, Norwalk, OH 44857 in this precinct?",
+      "sources": [
+        "huron-ballots",
+        "huron-46day",
+        "huron-issues"
+      ]
+    },
+    {
+      "id": "liquor-new-london-pizza-house",
+      "kind": "liquor",
+      "jurisdiction": "Village of New London",
+      "title": "Local liquor option: New London Pizza House (Sunday)",
+      "area": "Precinct New London Village #2",
+      "places": [
+        "New London Village"
+      ],
+      "text": "Shall the sale of wine and mixed beverages, and spirituous liquor be permitted for sale on Sunday by MG3 Holdings LLC dba New London Pizza House an applicant for a D-6 liquor permit who is engaged in the business of a family restaurant at 2 S. Main St., New London, OH 44851 in this precinct?",
+      "sources": [
+        "huron-ballots",
+        "huron-46day",
+        "huron-issues"
+      ]
+    }
+  ]
+}

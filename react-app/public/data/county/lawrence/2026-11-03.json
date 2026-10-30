@@ -1,0 +1,509 @@
+{
+  "scope": "county",
+  "county": "Lawrence",
+  "fips": "39087",
+  "election": "2026-11-03",
+  "retrieved": "2026-10-30",
+  "notes": [
+    "Taken from the Board of Elections' 46-day election notice, which lists every contest and issue with the precincts that vote on it, checked against the Board's precinct sample ballots. Terms of office and issue wording are from the sample ballots.",
+    "Candidates are listed alphabetically by last name, not in ballot order: Ohio rotates the order of names from precinct to precinct. Certified write-in candidates are not printed on the ballot and are not listed.",
+    "\"Where you live\" uses the state voter file: a district or school levy is shown for a city, village or township when any of its voters live in that district. Your exact ballot depends on your precinct.",
+    "The Board's notice and sample ballots do not give local issue numbers.",
+    "The 46-day notice lists the Fayette Township fire levy for Fayette 1–3 and Burlington 1–3; the sample ballots also carry it in South Point 1–3 (the part of South Point Village in Fayette Township), as shown here."
+  ],
+  "places": [
+    "Aid Township",
+    "Athalia Village",
+    "Chesapeake Village",
+    "Coal Grove Village",
+    "Decatur Township",
+    "Elizabeth Township",
+    "Fayette Township",
+    "Hamilton Township",
+    "Hanging Rock Village",
+    "Ironton City",
+    "Lawrence Township",
+    "Mason Township",
+    "Perry Township",
+    "Proctorville Village",
+    "Rome Township",
+    "South Point Village",
+    "Symmes Township",
+    "Union Township",
+    "Upper Township",
+    "Washington Township",
+    "Windsor Township"
+  ],
+  "sources": {
+    "lawrence-46day": {
+      "label": "Lawrence County Board of Elections: 46-day election notice (FWAB), November 3, 2026 General Election (posted October 15, 2026)",
+      "url": "https://www.boe.ohio.gov/lawrence/c/upload/FWAB_11November46Day.pdf"
+    },
+    "lawrence-ballots": {
+      "label": "Lawrence County Board of Elections: precinct sample ballots, November 3, 2026 General Election (election data updated October 5, 2026)",
+      "url": "https://lookup.boe.ohio.gov/vtrapp/lawrence/ballotlist.aspx"
+    }
+  },
+  "links": [
+    {
+      "label": "Board of Elections",
+      "url": "https://www.boe.ohio.gov/lawrence/"
+    },
+    {
+      "label": "Federal write-in absentee ballot notices",
+      "url": "https://www.boe.ohio.gov/lawrence/election-info/federal-write-in-absentee-ballots/"
+    },
+    {
+      "label": "Sample ballots by precinct",
+      "url": "https://lookup.boe.ohio.gov/vtrapp/lawrence/ballotlist.aspx"
+    }
+  ],
+  "results": {
+    "status": "upcoming",
+    "links": [
+      {
+        "label": "Board of Elections: election results",
+        "url": "https://www.boe.ohio.gov/lawrence/election-info/election-results/"
+      }
+    ]
+  },
+  "contests": [
+    {
+      "id": "congress-2",
+      "group": "U.S. House",
+      "office": "Representative to Congress",
+      "detail": "2nd District",
+      "candidates": [
+        {
+          "name": "Jen Mazzuckelli",
+          "party": "DEM"
+        },
+        {
+          "name": "David J. Taylor",
+          "party": "REP"
+        }
+      ],
+      "sources": [
+        "lawrence-46day",
+        "lawrence-ballots"
+      ]
+    },
+    {
+      "id": "senate-17",
+      "group": "Ohio General Assembly",
+      "office": "State Senator",
+      "detail": "17th District",
+      "candidates": [
+        {
+          "name": "Brian A. Deer",
+          "party": "DEM"
+        },
+        {
+          "name": "Shane Wilkin",
+          "party": "REP"
+        }
+      ],
+      "sources": [
+        "lawrence-46day",
+        "lawrence-ballots"
+      ]
+    },
+    {
+      "id": "rep-93",
+      "group": "Ohio General Assembly",
+      "office": "State Representative",
+      "detail": "93rd District",
+      "candidates": [
+        {
+          "name": "Jessica Harper",
+          "party": "DEM"
+        },
+        {
+          "name": "Jason Stephens",
+          "party": "REP"
+        }
+      ],
+      "sources": [
+        "lawrence-46day",
+        "lawrence-ballots"
+      ]
+    },
+    {
+      "id": "appeals-4-0209",
+      "group": "Ohio Court of Appeals",
+      "office": "Judge of the Court of Appeals",
+      "detail": "4th District · full term commencing February 9, 2027",
+      "candidates": [
+        {
+          "name": "Jayme Hartley Fountain",
+          "party": "REP"
+        },
+        {
+          "name": "Todd L. Grace",
+          "party": "DEM"
+        }
+      ],
+      "sources": [
+        "lawrence-ballots",
+        "lawrence-46day"
+      ]
+    },
+    {
+      "id": "commissioner",
+      "group": "County offices",
+      "office": "County Commissioner",
+      "detail": "Full term commencing January 1, 2027",
+      "candidates": [
+        {
+          "name": "Mike Finley",
+          "party": "REP"
+        }
+      ],
+      "sources": [
+        "lawrence-ballots",
+        "lawrence-46day"
+      ]
+    },
+    {
+      "id": "auditor",
+      "group": "County offices",
+      "office": "County Auditor",
+      "candidates": [
+        {
+          "name": "Paul David Knipp",
+          "party": "REP"
+        }
+      ],
+      "sources": [
+        "lawrence-46day",
+        "lawrence-ballots"
+      ]
+    },
+    {
+      "id": "cp-0209",
+      "group": "Court of Common Pleas",
+      "office": "Judge of the Court of Common Pleas",
+      "detail": "Full term commencing February 9, 2027 · no party label on the ballot",
+      "candidates": [
+        {
+          "name": "Andy Ballard"
+        }
+      ],
+      "sources": [
+        "lawrence-ballots",
+        "lawrence-46day"
+      ]
+    },
+    {
+      "id": "cp-probate-juvenile",
+      "group": "Court of Common Pleas",
+      "office": "Judge of the Court of Common Pleas, Probate/Juvenile Division",
+      "detail": "Full term commencing February 9, 2027 · no party label on the ballot",
+      "candidates": [
+        {
+          "name": "Patricia Sanders"
+        }
+      ],
+      "sources": [
+        "lawrence-ballots",
+        "lawrence-46day"
+      ]
+    }
+  ],
+  "issues": [
+    {
+      "id": "chesapeake-police",
+      "kind": "levy",
+      "jurisdiction": "Village of Chesapeake",
+      "title": "Tax levy (renewal): Providing and maintaining police protection",
+      "area": "Chesapeake A and B",
+      "places": [
+        "Chesapeake Village"
+      ],
+      "levy": {
+        "type": "Renewal",
+        "purpose": "Providing and maintaining police protection.",
+        "mills": "1.5 mills",
+        "term": "5 years, commencing in 2027",
+        "firstDue": "2028",
+        "estimate": "$22,512 a year; $35 for each $100,000 of market value"
+      },
+      "sources": [
+        "lawrence-ballots",
+        "lawrence-46day"
+      ]
+    },
+    {
+      "id": "proctorville-current",
+      "kind": "levy",
+      "jurisdiction": "Village of Proctorville",
+      "title": "Tax levy (renewal): Current expenses",
+      "area": "Proctorville precinct",
+      "places": [
+        "Proctorville Village"
+      ],
+      "levy": {
+        "type": "Renewal",
+        "purpose": "Current expenses.",
+        "mills": "2.5 mills",
+        "term": "5 years, commencing in 2027",
+        "firstDue": "2028",
+        "estimate": "$12,907 a year; $45 for each $100,000 of market value"
+      },
+      "sources": [
+        "lawrence-ballots",
+        "lawrence-46day"
+      ]
+    },
+    {
+      "id": "proctorville-fire",
+      "kind": "levy",
+      "jurisdiction": "Village of Proctorville",
+      "title": "Tax levy (renewal): Fire protection",
+      "area": "Proctorville precinct",
+      "places": [
+        "Proctorville Village"
+      ],
+      "levy": {
+        "type": "Renewal",
+        "purpose": "Fire protection.",
+        "mills": "1.5 mills",
+        "term": "5 years, commencing in 2027",
+        "firstDue": "2028",
+        "estimate": "$14,998 a year; $53 for each $100,000 of market value"
+      },
+      "sources": [
+        "lawrence-ballots",
+        "lawrence-46day"
+      ]
+    },
+    {
+      "id": "ironton-recreation",
+      "kind": "levy",
+      "jurisdiction": "City of Ironton",
+      "title": "Tax levy (renewal): Recreation",
+      "area": "Ironton 1A through 5A",
+      "places": [
+        "Ironton City"
+      ],
+      "levy": {
+        "type": "Renewal",
+        "purpose": "Recreation.",
+        "mills": "0.5 mill",
+        "term": "5 years, commencing in 2027",
+        "firstDue": "2028",
+        "estimate": "$75,000 a year; $11 for each $100,000 of market value"
+      },
+      "sources": [
+        "lawrence-ballots",
+        "lawrence-46day"
+      ]
+    },
+    {
+      "id": "lawrence-jvsd-pi",
+      "kind": "levy",
+      "jurisdiction": "Lawrence County Joint Vocational School District",
+      "title": "Tax levy (renewal): Permanent improvements",
+      "area": "All precincts except Washington",
+      "places": [
+        "Aid Township",
+        "Athalia Village",
+        "Chesapeake Village",
+        "Coal Grove Village",
+        "Decatur Township",
+        "Elizabeth Township",
+        "Fayette Township",
+        "Hamilton Township",
+        "Hanging Rock Village",
+        "Ironton City",
+        "Lawrence Township",
+        "Mason Township",
+        "Perry Township",
+        "Proctorville Village",
+        "Rome Township",
+        "South Point Village",
+        "Symmes Township",
+        "Union Township",
+        "Upper Township",
+        "Windsor Township"
+      ],
+      "levy": {
+        "type": "Renewal",
+        "purpose": "Permanent improvements.",
+        "mills": "0.5 mill",
+        "term": "5 years, commencing in 2027",
+        "firstDue": "2028",
+        "estimate": "$744,260 a year; $11 for each $100,000 of market value"
+      },
+      "sources": [
+        "lawrence-ballots",
+        "lawrence-46day"
+      ]
+    },
+    {
+      "id": "fayette-twp-fire",
+      "kind": "levy",
+      "jurisdiction": "Fayette Township",
+      "title": "Tax levy (renewal): Fire protection",
+      "area": "Fayette 1–3, Burlington 1–3 and South Point 1–3",
+      "places": [
+        "Fayette Township",
+        "South Point Village"
+      ],
+      "levy": {
+        "type": "Renewal",
+        "purpose": "Fire protection.",
+        "mills": "2 mills",
+        "term": "5 years, commencing in 2026",
+        "firstDue": "2027",
+        "estimate": "$266,530 a year; $46 for each $100,000 of market value"
+      },
+      "sources": [
+        "lawrence-ballots",
+        "lawrence-46day"
+      ]
+    },
+    {
+      "id": "rome-twp-fire",
+      "kind": "levy",
+      "jurisdiction": "Rome Township",
+      "title": "Tax levy (renewal): Fire protection",
+      "area": "Labelle 1–7 and Miller",
+      "places": [
+        "Rome Township"
+      ],
+      "levy": {
+        "type": "Renewal",
+        "purpose": "Fire protection.",
+        "mills": "1 mill",
+        "term": "5 years, commencing in 2027",
+        "firstDue": "2028",
+        "estimate": "$93,000 a year; $12 for each $100,000 of market value"
+      },
+      "sources": [
+        "lawrence-ballots",
+        "lawrence-46day"
+      ]
+    },
+    {
+      "id": "liquor-kash-stop-perry-beer",
+      "kind": "liquor",
+      "jurisdiction": "Perry Township",
+      "title": "Local liquor option: Kash Stop (beer)",
+      "area": "Perry Township precinct Perry 2",
+      "places": [
+        "Perry Township"
+      ],
+      "text": "Sale of beer by Kaival Property, Inc., dba Kash Stop, operating a carryout/grocery store at 3302 State Route 243, Ironton (Perry Township), an applicant for a C1 liquor permit.",
+      "sources": [
+        "lawrence-ballots",
+        "lawrence-46day"
+      ]
+    },
+    {
+      "id": "liquor-kash-stop-perry-sunday",
+      "kind": "liquor",
+      "jurisdiction": "Perry Township",
+      "title": "Local liquor option: Kash Stop (Sunday sales)",
+      "area": "Perry Township precinct Perry 2",
+      "places": [
+        "Perry Township"
+      ],
+      "text": "Sunday sale of beer, wine and mixed beverages by Kaival Property, Inc., dba Kash Stop, operating a carryout/grocery store at 3302 State Route 243, Ironton (Perry Township), an applicant for a D-6 liquor permit.",
+      "sources": [
+        "lawrence-ballots",
+        "lawrence-46day"
+      ]
+    },
+    {
+      "id": "liquor-kash-stop-perry-wine",
+      "kind": "liquor",
+      "jurisdiction": "Perry Township",
+      "title": "Local liquor option: Kash Stop (wine and mixed beverages)",
+      "area": "Perry Township precinct Perry 2",
+      "places": [
+        "Perry Township"
+      ],
+      "text": "Sale of wine and mixed beverages by Kaival Property, Inc., dba Kash Stop, operating a carryout/grocery store at 3302 State Route 243, Ironton (Perry Township), an applicant for a C2 liquor permit.",
+      "sources": [
+        "lawrence-ballots",
+        "lawrence-46day"
+      ]
+    },
+    {
+      "id": "liquor-chesapeake-a-sunday-on",
+      "kind": "liquor",
+      "jurisdiction": "Village of Chesapeake",
+      "title": "Local liquor option: Sunday sales for on-premises consumption",
+      "area": "Chesapeake precinct Chesapeake A",
+      "places": [
+        "Chesapeake Village"
+      ],
+      "text": "Sunday sale of intoxicating liquor, of the same types as may be legally sold in the precinct on other days, for consumption on the premises where sold.",
+      "sources": [
+        "lawrence-ballots",
+        "lawrence-46day"
+      ]
+    },
+    {
+      "id": "liquor-chesapeake-a-sunday-food",
+      "kind": "liquor",
+      "jurisdiction": "Village of Chesapeake",
+      "title": "Local liquor option: Sunday sales on premises where food and other sales exceed 50 percent",
+      "area": "Chesapeake precinct Chesapeake A",
+      "places": [
+        "Chesapeake Village"
+      ],
+      "text": "Sunday sale of intoxicating liquor, of the same types as may be legally sold in the precinct on other days, for consumption on the premises where sold, at licensed premises where the sale of food and other goods and services exceeds fifty percent of the permit holder's total gross receipts there.",
+      "sources": [
+        "lawrence-ballots",
+        "lawrence-46day"
+      ]
+    },
+    {
+      "id": "liquor-chesapeake-a-sunday-off",
+      "kind": "liquor",
+      "jurisdiction": "Village of Chesapeake",
+      "title": "Local liquor option: Sunday sales of wine and mixed beverages for off-premises consumption",
+      "area": "Chesapeake precinct Chesapeake A",
+      "places": [
+        "Chesapeake Village"
+      ],
+      "text": "Sunday sale of wine and mixed beverages, of the same types as may be legally sold in the precinct on other days, for consumption off the premises where sold.",
+      "sources": [
+        "lawrence-ballots",
+        "lawrence-46day"
+      ]
+    },
+    {
+      "id": "liquor-kash-stop-chesapeake",
+      "kind": "liquor",
+      "jurisdiction": "Village of Chesapeake",
+      "title": "Local liquor option: Kash Stop (beer, wine and mixed beverages)",
+      "area": "Chesapeake precinct Chesapeake B",
+      "places": [
+        "Chesapeake Village"
+      ],
+      "text": "Sale of beer, wine and mixed beverages by Radha Kash Stop, Inc., operating a carryout/grocery store at 531 3rd Avenue, Chesapeake, an applicant for a C1, C2 liquor permit.",
+      "sources": [
+        "lawrence-ballots",
+        "lawrence-46day"
+      ]
+    },
+    {
+      "id": "liquor-kash-stop-chesapeake-sunday",
+      "kind": "liquor",
+      "jurisdiction": "Village of Chesapeake",
+      "title": "Local liquor option: Kash Stop (Sunday wine and mixed beverages)",
+      "area": "Chesapeake precinct Chesapeake B",
+      "places": [
+        "Chesapeake Village"
+      ],
+      "text": "Sunday sale of wine and mixed beverages by Radha Kash Stop, Inc., operating a carryout/grocery store at 531 3rd Avenue, Chesapeake, an applicant for a D-6 liquor permit.",
+      "sources": [
+        "lawrence-ballots",
+        "lawrence-46day"
+      ]
+    }
+  ]
+}

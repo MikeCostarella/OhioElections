@@ -1,0 +1,489 @@
+{
+  "scope": "county",
+  "county": "Marion",
+  "fips": "39101",
+  "election": "2026-11-03",
+  "retrieved": "2026-10-30",
+  "notes": [
+    "Taken from the Board of Elections' 46-day election notice, which lists every contest and issue with the precincts that vote on it. Issue wording is condensed from the notice; the full wording is on the sample ballot.",
+    "Candidates are listed alphabetically by last name, not in ballot order: Ohio rotates the order of names from precinct to precinct. Certified write-in candidates are not printed on the ballot and are not listed.",
+    "\"Where you live\" uses the state voter file: a district or school levy is shown for a city, village or township when any of its voters live in that district. Your exact ballot depends on your precinct.",
+    "The Board's notice does not give local issue numbers; see your sample ballot for them."
+  ],
+  "places": [
+    "Big Island Township",
+    "Bowling Green Township",
+    "Caledonia Village",
+    "Claridon Township",
+    "Grand Prairie Township",
+    "Grand Township",
+    "Green Camp Township",
+    "Green Camp Village",
+    "LaRue Village",
+    "Marion City",
+    "Marion Township",
+    "Montgomery Township",
+    "Morral Village",
+    "New Bloomington Village",
+    "Pleasant Township",
+    "Prospect Township",
+    "Prospect Village",
+    "Richland Township",
+    "Salt Rock Township",
+    "Scott Township",
+    "Tully Township",
+    "Waldo Township",
+    "Waldo Village"
+  ],
+  "sources": {
+    "marion-46day": {
+      "label": "Marion County Board of Elections: 46-day election notice (FWAB), November 3, 2026 General Election (revised September 14, 2026)",
+      "url": "https://www.boe.ohio.gov/marion/c/upload/FWAB_11November46Day.pdf"
+    }
+  },
+  "links": [
+    {
+      "label": "Board of Elections",
+      "url": "https://www.boe.ohio.gov/marion/"
+    },
+    {
+      "label": "Election info",
+      "url": "https://www.boe.ohio.gov/marion/election-info/"
+    },
+    {
+      "label": "Sample ballots by precinct",
+      "url": "https://lookup.boe.ohio.gov/vtrapp/marion/ballotlist.aspx"
+    }
+  ],
+  "results": {
+    "status": "upcoming",
+    "links": [
+      {
+        "label": "Board of Elections: election results",
+        "url": "https://www.boe.ohio.gov/marion/election-info/election-results/"
+      }
+    ]
+  },
+  "contests": [
+    {
+      "id": "congress-4",
+      "group": "U.S. House",
+      "office": "Representative to Congress",
+      "detail": "4th District",
+      "candidates": [
+        {
+          "name": "Jim Jordan",
+          "party": "REP"
+        },
+        {
+          "name": "Joshua D. Kolasinski",
+          "party": "DEM"
+        },
+        {
+          "name": "Tracey L. Tackett",
+          "party": "Nonparty"
+        }
+      ],
+      "sources": [
+        "marion-46day"
+      ]
+    },
+    {
+      "id": "rep-86",
+      "group": "Ohio General Assembly",
+      "office": "State Representative",
+      "detail": "86th District",
+      "area": "Marion City, Marion Township, Pleasant Township, Prospect Township, Prospect Village",
+      "places": [
+        "Marion City",
+        "Marion Township",
+        "Pleasant Township",
+        "Prospect Township",
+        "Prospect Village"
+      ],
+      "candidates": [
+        {
+          "name": "Kent Halloran",
+          "party": "DEM"
+        },
+        {
+          "name": "Ben Weber",
+          "party": "REP"
+        }
+      ],
+      "sources": [
+        "marion-46day"
+      ]
+    },
+    {
+      "id": "rep-87",
+      "group": "Ohio General Assembly",
+      "office": "State Representative",
+      "detail": "87th District",
+      "area": "Big Island Township, Bowling Green Township, Caledonia Village, Claridon Township, Grand Prairie Township, Grand Township, Green Camp Township, Green Camp Village, LaRue Village, Montgomery Township, Morral Village, New Bloomington Village, Richland Township, Salt Rock Township, Scott Township, Tully Township, Waldo Township, Waldo Village",
+      "places": [
+        "Big Island Township",
+        "Bowling Green Township",
+        "Caledonia Village",
+        "Claridon Township",
+        "Grand Prairie Township",
+        "Grand Township",
+        "Green Camp Township",
+        "Green Camp Village",
+        "LaRue Village",
+        "Montgomery Township",
+        "Morral Village",
+        "New Bloomington Village",
+        "Richland Township",
+        "Salt Rock Township",
+        "Scott Township",
+        "Tully Township",
+        "Waldo Township",
+        "Waldo Village"
+      ],
+      "candidates": [
+        {
+          "name": "Lora Covrett",
+          "party": "DEM"
+        },
+        {
+          "name": "Jeffrey A. McClain",
+          "party": "REP"
+        },
+        {
+          "name": "Craig Swartz",
+          "party": "Nonparty"
+        }
+      ],
+      "sources": [
+        "marion-46day"
+      ]
+    },
+    {
+      "id": "appeals-3-0209",
+      "group": "Ohio Court of Appeals",
+      "office": "Judge of the Court of Appeals",
+      "detail": "3rd District · term commencing February 9, 2027",
+      "candidates": [
+        {
+          "name": "Mark C. Miller",
+          "party": "REP"
+        }
+      ],
+      "sources": [
+        "marion-46day"
+      ]
+    },
+    {
+      "id": "commissioner",
+      "group": "County offices",
+      "office": "County Commissioner",
+      "detail": "Term commencing January 1, 2027",
+      "candidates": [
+        {
+          "name": "Kenneth H. Stiverson",
+          "party": "REP"
+        }
+      ],
+      "sources": [
+        "marion-46day"
+      ]
+    },
+    {
+      "id": "auditor",
+      "group": "County offices",
+      "office": "County Auditor",
+      "detail": "Term commencing March 8, 2027",
+      "candidates": [
+        {
+          "name": "Joan Kasotis",
+          "party": "DEM"
+        }
+      ],
+      "sources": [
+        "marion-46day"
+      ]
+    },
+    {
+      "id": "coroner",
+      "group": "County offices",
+      "office": "County Coroner",
+      "detail": "Unexpired term ending December 31, 2028",
+      "candidates": [
+        {
+          "name": "Timothy F. Garner",
+          "party": "REP"
+        }
+      ],
+      "sources": [
+        "marion-46day"
+      ]
+    },
+    {
+      "id": "cp-family",
+      "group": "Court of Common Pleas",
+      "office": "Judge of the Court of Common Pleas, Family Division",
+      "detail": "Term commencing February 9, 2027 · no party label on the ballot",
+      "candidates": [
+        {
+          "name": "Rhonda Burggraf"
+        }
+      ],
+      "sources": [
+        "marion-46day"
+      ]
+    }
+  ],
+  "issues": [
+    {
+      "id": "elgin-lsd",
+      "kind": "levy",
+      "jurisdiction": "Elgin Local School District (Marion, Delaware and Hardin counties)",
+      "title": "Tax levy (renewal): Current expenses",
+      "area": "Elgin Local School District (Marion 3-C, Big Island, Bowling Green, Grand Salt, Green Camp, Marion Township D and F, Montgomery, Prospect)",
+      "places": [
+        "Big Island Township",
+        "Bowling Green Township",
+        "Grand Township",
+        "Green Camp Township",
+        "Green Camp Village",
+        "LaRue Village",
+        "Marion City",
+        "Marion Township",
+        "Montgomery Township",
+        "New Bloomington Village",
+        "Prospect Township",
+        "Prospect Village"
+      ],
+      "levy": {
+        "type": "Renewal",
+        "purpose": "Current expenses.",
+        "mills": "2.88 mills",
+        "term": "5 years, commencing in 2027",
+        "firstDue": "2028"
+      },
+      "sources": [
+        "marion-46day"
+      ]
+    },
+    {
+      "id": "ridgedale-lsd",
+      "kind": "levy",
+      "jurisdiction": "Ridgedale Local School District (Marion, Crawford and Wyandot counties)",
+      "title": "Tax levy (renewal): Current expenses",
+      "area": "Ridgedale Local School District (Marion 1-B and 2-B splits, Big Island, Grand Salt, Grand Prairie, Marion Township F, Montgomery, Scott Tully)",
+      "places": [
+        "Big Island Township",
+        "Grand Prairie Township",
+        "Grand Township",
+        "Marion City",
+        "Marion Township",
+        "Montgomery Township",
+        "Morral Village",
+        "Salt Rock Township",
+        "Scott Township"
+      ],
+      "levy": {
+        "type": "Renewal",
+        "purpose": "Current expenses.",
+        "mills": "2.44 mills",
+        "term": "5 years, commencing in 2027",
+        "firstDue": "2028"
+      },
+      "sources": [
+        "marion-46day"
+      ]
+    },
+    {
+      "id": "dacc-levy",
+      "kind": "levy",
+      "jurisdiction": "Delaware Area Career Center (joint vocational school district; Delaware, Franklin, Marion, Morrow and Union counties)",
+      "title": "Tax levy (renewal and decrease): Improving, renovating, remodeling, enlarging, furnishing and equipping school buildings and facilities",
+      "area": "Waldo Township (split 3)",
+      "places": [
+        "Waldo Township"
+      ],
+      "levy": {
+        "type": "Renewal and decrease",
+        "purpose": "Improving, renovating, remodeling, enlarging, furnishing and equipping school buildings and facilities.",
+        "mills": "0.75 mill",
+        "term": "10 years, commencing in 2026",
+        "firstDue": "2027"
+      },
+      "sources": [
+        "marion-46day"
+      ]
+    },
+    {
+      "id": "battle-run-fire",
+      "kind": "levy",
+      "jurisdiction": "Battle Run Joint Fire District",
+      "title": "Tax levy (additional): Fire apparatus, appliances, buildings or sites, sources of water supply and materials, and payment of permanent, part-time or volunteer firefighters or firefighting companies, including employer contributions under R.C. 742.34",
+      "area": "Prospect Village and Prospect Township",
+      "places": [
+        "Prospect Township",
+        "Prospect Village"
+      ],
+      "levy": {
+        "type": "Additional",
+        "purpose": "Fire apparatus, appliances, buildings or sites, sources of water supply and materials, and payment of permanent, part-time or volunteer firefighters or firefighting companies, including employer contributions under R.C. 742.34.",
+        "mills": "2 mills",
+        "term": "Continuing period of time, commencing in 2026",
+        "firstDue": "2027"
+      },
+      "sources": [
+        "marion-46day"
+      ]
+    },
+    {
+      "id": "adamh",
+      "kind": "levy",
+      "jurisdiction": "Marion County (ADAMH Board)",
+      "title": "Tax levy (renewal): Operation of alcohol and drug addiction programs and mental health programs",
+      "area": "Marion County (ADAMH Board)",
+      "levy": {
+        "type": "Renewal",
+        "purpose": "Operation of alcohol and drug addiction programs and mental health programs.",
+        "mills": "1 mill",
+        "term": "5 years, commencing in 2026",
+        "firstDue": "2027"
+      },
+      "sources": [
+        "marion-46day"
+      ]
+    },
+    {
+      "id": "mcbdd",
+      "kind": "levy",
+      "jurisdiction": "Marion County (Board of Developmental Disabilities)",
+      "title": "Tax levy (renewal): Programs and services of the Marion County Board of Developmental Disabilities, and acquiring, constructing, renovating, financing, maintaining and operating developmental disabilities facilities",
+      "area": "Marion County (Board of Developmental Disabilities)",
+      "levy": {
+        "type": "Renewal",
+        "purpose": "Programs and services of the Marion County Board of Developmental Disabilities, and acquiring, constructing, renovating, financing, maintaining and operating developmental disabilities facilities.",
+        "mills": "3 mills",
+        "term": "5 years, commencing in 2026",
+        "firstDue": "2027"
+      },
+      "sources": [
+        "marion-46day"
+      ]
+    },
+    {
+      "id": "marion-council-terms",
+      "kind": "question",
+      "jurisdiction": "City of Marion",
+      "title": "Four-year staggered terms for City Council and Council President",
+      "area": "Marion 1-A to 6-F",
+      "places": [
+        "Marion City"
+      ],
+      "text": "Shall the City of Marion change the terms of office for members of City Council and the President of Council from two-year terms to four-year terms, with council seats elected in staggered elections so that a portion of Council is elected every two years?",
+      "sources": [
+        "marion-46day"
+      ]
+    },
+    {
+      "id": "green-camp-current",
+      "kind": "levy",
+      "jurisdiction": "Village of Green Camp",
+      "title": "Tax levy (renewal and increase): Current operating and maintenance expenses (renewal of 9 mills and an increase of 2 mills)",
+      "area": "Green Camp Village (Green Camp Township precinct, split 1)",
+      "places": [
+        "Green Camp Village"
+      ],
+      "levy": {
+        "type": "Renewal and increase",
+        "purpose": "Current operating and maintenance expenses (renewal of 9 mills and an increase of 2 mills).",
+        "mills": "11 mills",
+        "term": "5 years, commencing in 2027",
+        "firstDue": "2028"
+      },
+      "sources": [
+        "marion-46day"
+      ]
+    },
+    {
+      "id": "prospect-current",
+      "kind": "levy",
+      "jurisdiction": "Village of Prospect",
+      "title": "Tax levy (renewal): Current expenses",
+      "area": "Prospect Village",
+      "places": [
+        "Prospect Village"
+      ],
+      "levy": {
+        "type": "Renewal",
+        "purpose": "Current expenses.",
+        "mills": "3.1 mills",
+        "term": "5 years, commencing in 2027",
+        "firstDue": "2028"
+      },
+      "sources": [
+        "marion-46day"
+      ]
+    },
+    {
+      "id": "pleasant-fire-ems",
+      "kind": "levy",
+      "jurisdiction": "Pleasant Township",
+      "title": "Tax levy (additional): Payment of permanent firefighting, emergency medical service, administrative or communications personnel, including employer contributions under R.C. 145.48 or 742.34, and ambulance, paramedic or other emergency medical services operated by a fire department (R.C. 5705.19(I))",
+      "area": "Pleasant Township A–D",
+      "places": [
+        "Pleasant Township"
+      ],
+      "levy": {
+        "type": "Additional",
+        "purpose": "Payment of permanent firefighting, emergency medical service, administrative or communications personnel, including employer contributions under R.C. 145.48 or 742.34, and ambulance, paramedic or other emergency medical services operated by a fire department (R.C. 5705.19(I)).",
+        "mills": "4 mills",
+        "term": "5 years, commencing in 2026",
+        "firstDue": "2027"
+      },
+      "sources": [
+        "marion-46day"
+      ]
+    },
+    {
+      "id": "prospect-twp-current",
+      "kind": "levy",
+      "jurisdiction": "Prospect Township",
+      "title": "Tax levy (renewal): Current expenses",
+      "area": "Prospect Township, including the Village of Prospect",
+      "places": [
+        "Prospect Township",
+        "Prospect Village"
+      ],
+      "levy": {
+        "type": "Renewal",
+        "purpose": "Current expenses.",
+        "mills": "1 mill",
+        "term": "5 years, commencing in 2026",
+        "firstDue": "2027"
+      },
+      "sources": [
+        "marion-46day"
+      ]
+    },
+    {
+      "id": "salt-rock-fire",
+      "kind": "levy",
+      "jurisdiction": "Salt Rock Township",
+      "title": "Tax levy (renewal): Providing and maintaining fire apparatus, appliances, buildings or sites (R.C. 5705.19(A))",
+      "area": "Grand Salt precinct, splits 4 and 5 (Salt Rock Township, including the Village of Morral)",
+      "places": [
+        "Morral Village",
+        "Salt Rock Township"
+      ],
+      "levy": {
+        "type": "Renewal",
+        "purpose": "Providing and maintaining fire apparatus, appliances, buildings or sites (R.C. 5705.19(A)).",
+        "mills": "2 mills",
+        "term": "5 years, commencing in 2027",
+        "firstDue": "2028"
+      },
+      "sources": [
+        "marion-46day"
+      ]
+    }
+  ]
+}

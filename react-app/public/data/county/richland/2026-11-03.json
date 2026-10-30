@@ -670,7 +670,7 @@
     {
       "id": "loudonville-perrysville-bond-income-tax",
       "kind": "levy",
-      "jurisdiction": "Loudonville-Perrysville Exempted Village School District (Ashland and Richland counties)",
+      "jurisdiction": "Loudonville-Perrysville Exempted Village School District (Ashland, Knox and Richland counties)",
       "title": "School district income tax (0.25%, 30 years) and bond issue ($16,400,000)",
       "area": "Monroe Township A (split 1), B (split 1)",
       "places": [
@@ -736,7 +736,7 @@
     {
       "id": "loudonville-library",
       "kind": "levy",
-      "jurisdiction": "Loudonville Public Library (Ashland and Richland counties)",
+      "jurisdiction": "Loudonville Public Library (Ashland, Knox and Richland counties)",
       "title": "Tax levy (renewal): Current expenses",
       "area": "Monroe Township A (split 1), B (split 1)",
       "places": [

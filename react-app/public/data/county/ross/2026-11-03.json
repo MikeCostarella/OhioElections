@@ -309,20 +309,19 @@
     {
       "id": "miami-trace-renewal",
       "kind": "levy",
-      "jurisdiction": "Miami Trace Local School District (Fayette and Ross)",
-      "title": "Tax levy (renewal): Current operating expenses",
+      "jurisdiction": "Miami Trace Local School District (Fayette, Pickaway and Ross)",
+      "title": "Tax levy (renewal): Current operating expenses (fixed-sum levy of $1,900,000 a year)",
       "area": "Precinct Concord Austin/2 (part of Concord Township)",
       "places": [
         "Concord Township"
       ],
       "levy": {
         "type": "Renewal",
-        "purpose": "Current operating expenses.",
-        "mills": "1.9 mills",
+        "purpose": "Current operating expenses (fixed-sum levy of $1,900,000 a year).",
         "term": "5 years",
         "firstDue": "2028"
       },
-      "note": "The Ross Board's notice describes this as a fixed-sum levy renewing an existing levy for current operating expenses; the millage, term and first year due are from the Fayette County Board's notice.",
+      "note": "The Ross Board's notice describes this as a fixed-sum levy renewing an existing levy for current operating expenses; the term and first year due are from the Fayette County Board's notice. The Pickaway County ballot wording gives the sum ($1,900,000 a year, an estimated average of 2.2 mills).",
       "sources": [
         "ross-46day",
         "fayette-46day"

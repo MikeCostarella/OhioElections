@@ -125,3 +125,25 @@ Data notes:
 - Renames: Allen's reversed township names ("Township Sugar Creek"), Muskingum's "FRAZEYBURG" (Frazeysburg), Jefferson's "MT PLEASANT TWP".
 - Misprints kept out: Belmont's Holloway levy "$42,000 for each $100,000" (only the annual figure is shown); Jefferson's 9-1-1 levy years follow the issue list and ballots, not the notice.
 
+# Oct 30, 2026 (Marion, Union, Knox, Athens, Washington, Pickaway, Sandusky, Huron, Lawrence, Seneca)
+
+- Full ballots for ten more counties (46 with local data now, plus Trumbull's original), each from the Board's 46-day FWAB notice, cross-checked against precinct sample ballots wherever lookup.boe.ohio.gov opened (Union 87, Pickaway 65, Washington 64, Lawrence 99 ballot styles; Huron, Knox, Seneca by sample):
+  - Marion: 8 contests, 12 issues (notice only).
+  - Union: 7 contests, 15 issues (notice at unioncountyohio.gov; wording and estimates from the ballots).
+  - Knox: 8 contests, 16 issues.
+  - Athens: 8 contests, 28 issues (Issues 1, 2, 4–29), wording from the Board's notices of election.
+  - Washington: 9 contests, 7 issues.
+  - Pickaway: 8 contests, 16 issues (incl. Ashville's EdgeConneX data-center referendum).
+  - Sandusky: 10 contests, 22 issues (the Board publishes a .docx notice, .xlsx candidate list, .txt issues list and all 61 sample ballots on sanduskycountyoh.gov).
+  - Huron: 10 contests, 22 issues.
+  - Lawrence: 8 contests, 15 issues (8 liquor options).
+  - Seneca: 6 contests, 6 issues.
+
+Data notes:
+- Only Athens numbers its local issues; the rest use descriptive ids and the sample-ballot note.
+- 4th District Court of Appeals: the Washington and Pickaway notices (like Scioto's) list Peter B. Abele, but every sample ballot has Jayme Hartley Fountain (REP) vs Todd L. Grace (DEM); all 4th District counties use the ballots.
+- Ross: the Miami Trace LSD renewal is a fixed sum of $1,900,000 a year (about 2.2 mills, per the Pickaway ballot), not "1.9 mills"; corrected.
+- Shared items reuse ids and wording: South-Western CSD bond (Franklin Issue 6, Pickaway), DACC (Delaware, Union, Marion), Miami Trace (Ross, Pickaway), Fostoria (Wood, Hancock, Seneca), Green Springs fire and Old Fort LSD (Seneca, Sandusky), Bellevue parks (Erie, Sandusky, Huron), Plymouth cemetery and South Central LSD (Richland, Huron), Loudonville-Perrysville and its library (Richland, Knox).
+- Where the ballots and the notice differ, the ballots are used: Huron's Norwalk fire levy is 0.9 mill (notice ".09"); Pickaway's Deercreek road levy amounts and years; Union's Northern Union fire levy also covers Jackson and York townships; Lawrence's Fayette Twp fire levy also covers South Point; Knox's 0.8-mill renewal is the Loudonville library's.
+- Voter-file names: Sandusky's Fremont, Clyde and Bellevue precinct pieces are merged; Riley Township's voters are coded as Rice Township (Riley has no place of its own; neither has a local issue). Knox's "GANN VILLAGE" is Brinkhaven. Marion's and Lawrence's "TWP." names and Marion's LaRue are renamed. Lawrence's file calls Fairland Local "FAIRLAWN LOCAL SD (SHELBY)".
+

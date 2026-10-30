@@ -1,0 +1,387 @@
+{
+  "scope": "county",
+  "county": "Washington",
+  "fips": "39167",
+  "election": "2026-11-03",
+  "retrieved": "2026-10-30",
+  "notes": [
+    "Taken from the Board of Elections' 46-day election notice, which lists every contest and issue with the precincts that vote on it, checked against the Board's precinct sample ballots. Issue wording is from the sample ballots.",
+    "Candidates are listed alphabetically by last name, not in ballot order: Ohio rotates the order of names from precinct to precinct. Certified write-in candidates are not printed on the ballot and are not listed.",
+    "\"Where you live\" uses the state voter file: a district or school levy is shown for a city, village or township when any of its voters live in that district. Your exact ballot depends on your precinct.",
+    "The Board's notice and sample ballots do not give local issue numbers.",
+    "Court of Appeals: the 46-day notice lists Peter B. Abele (Republican) for the 4th District seat, but the Board's sample ballots list Jayme Hartley Fountain (Republican) and Todd L. Grace (Democratic); the sample ballots are shown here."
+  ],
+  "places": [
+    "Adams Township",
+    "Aurelius Township",
+    "Barlow Township",
+    "Belpre City",
+    "Belpre Township",
+    "Beverly Village",
+    "Decatur Township",
+    "Dunham Township",
+    "Fairfield Township",
+    "Fearing Township",
+    "Grandview Township",
+    "Independence Township",
+    "Lawrence Township",
+    "Liberty Township",
+    "Lowell Village",
+    "Lower Salem Village",
+    "Ludlow Township",
+    "Macksburg Village",
+    "Marietta City",
+    "Marietta Township",
+    "Matamoras Village",
+    "Muskingum Township",
+    "Newport Township",
+    "Palmer Township",
+    "Salem Township",
+    "Warren Township",
+    "Waterford Township",
+    "Watertown Township",
+    "Wesley Township"
+  ],
+  "sources": {
+    "washington-46day": {
+      "label": "Washington County Board of Elections: 46-day election notice (FWAB), November 3, 2026 General Election (revised September 18, 2026)",
+      "url": "https://www.boe.ohio.gov/washington/c/upload/FWAB_11November46Day.pdf"
+    },
+    "washington-ballots": {
+      "label": "Washington County Board of Elections: precinct sample ballots, November 3, 2026 General Election (election data updated October 5, 2026)",
+      "url": "https://lookup.boe.ohio.gov/vtrapp/washington/ballotlist.aspx"
+    }
+  },
+  "links": [
+    {
+      "label": "Board of Elections",
+      "url": "https://www.boe.ohio.gov/washington/"
+    },
+    {
+      "label": "Federal write-in absentee ballot notices",
+      "url": "https://www.boe.ohio.gov/washington/election-info/federal-write-in-absentee-ballots"
+    },
+    {
+      "label": "Sample ballots by precinct",
+      "url": "https://lookup.boe.ohio.gov/vtrapp/washington/ballotlist.aspx"
+    }
+  ],
+  "results": {
+    "status": "upcoming",
+    "links": [
+      {
+        "label": "Board of Elections: election results",
+        "url": "https://www.boe.ohio.gov/washington/election-info/election-results/"
+      }
+    ]
+  },
+  "contests": [
+    {
+      "id": "congress-2",
+      "group": "U.S. House",
+      "office": "Representative to Congress",
+      "detail": "2nd District",
+      "candidates": [
+        {
+          "name": "Jen Mazzuckelli",
+          "party": "DEM"
+        },
+        {
+          "name": "David J. Taylor",
+          "party": "REP"
+        }
+      ],
+      "sources": [
+        "washington-46day",
+        "washington-ballots"
+      ]
+    },
+    {
+      "id": "rep-94",
+      "group": "Ohio General Assembly",
+      "office": "State Representative",
+      "detail": "94th District",
+      "candidates": [
+        {
+          "name": "Kevin Ritter",
+          "party": "REP"
+        },
+        {
+          "name": "Wenda Sheard",
+          "party": "DEM"
+        }
+      ],
+      "sources": [
+        "washington-46day",
+        "washington-ballots"
+      ]
+    },
+    {
+      "id": "appeals-4-0209",
+      "group": "Ohio Court of Appeals",
+      "office": "Judge of the Court of Appeals",
+      "detail": "4th District · full term commencing February 9, 2027",
+      "candidates": [
+        {
+          "name": "Jayme Hartley Fountain",
+          "party": "REP"
+        },
+        {
+          "name": "Todd L. Grace",
+          "party": "DEM"
+        }
+      ],
+      "sources": [
+        "washington-ballots",
+        "washington-46day"
+      ]
+    },
+    {
+      "id": "commissioner-0101",
+      "group": "County offices",
+      "office": "County Commissioner",
+      "detail": "Full term commencing January 1, 2027",
+      "candidates": [
+        {
+          "name": "Stephanie Lang",
+          "party": "REP"
+        },
+        {
+          "name": "Brian G. Whalin",
+          "party": "DEM"
+        }
+      ],
+      "sources": [
+        "washington-46day",
+        "washington-ballots"
+      ]
+    },
+    {
+      "id": "commissioner-0102",
+      "group": "County offices",
+      "office": "County Commissioner",
+      "detail": "Unexpired term ending January 1, 2029",
+      "candidates": [
+        {
+          "name": "Justin A. Harris",
+          "party": "Nonparty"
+        },
+        {
+          "name": "Ronald Gregory Nohe",
+          "party": "REP"
+        },
+        {
+          "name": "John B. Rauch",
+          "party": "DEM"
+        }
+      ],
+      "sources": [
+        "washington-46day",
+        "washington-ballots"
+      ]
+    },
+    {
+      "id": "auditor",
+      "group": "County offices",
+      "office": "County Auditor",
+      "detail": "Full term commencing March 2, 2027",
+      "candidates": [
+        {
+          "name": "Matthew Livengood",
+          "party": "REP"
+        }
+      ],
+      "sources": [
+        "washington-46day",
+        "washington-ballots"
+      ]
+    },
+    {
+      "id": "prosecutor",
+      "group": "County offices",
+      "office": "Prosecuting Attorney",
+      "detail": "Unexpired term ending December 31, 2028",
+      "candidates": [
+        {
+          "name": "Joseph Patrick Derkin",
+          "party": "REP"
+        }
+      ],
+      "sources": [
+        "washington-46day",
+        "washington-ballots"
+      ]
+    },
+    {
+      "id": "cp-unexpired",
+      "group": "Court of Common Pleas",
+      "office": "Judge of the Court of Common Pleas, General Division",
+      "detail": "Unexpired term ending December 31, 2028 · no party label on the ballot",
+      "candidates": [
+        {
+          "name": "Nicole Tipton Coil"
+        }
+      ],
+      "sources": [
+        "washington-46day",
+        "washington-ballots"
+      ]
+    },
+    {
+      "id": "cp-probate-juvenile",
+      "group": "Court of Common Pleas",
+      "office": "Judge of the Court of Common Pleas, Probate/Juvenile Division",
+      "detail": "Full term commencing February 9, 2027 · no party label on the ballot",
+      "candidates": [
+        {
+          "name": "Timothy A. Williams"
+        }
+      ],
+      "sources": [
+        "washington-46day",
+        "washington-ballots"
+      ]
+    }
+  ],
+  "issues": [
+    {
+      "id": "county-library",
+      "kind": "levy",
+      "jurisdiction": "Washington County Public Library",
+      "title": "Tax levy (additional): Current expenses of the library",
+      "area": "Countywide",
+      "levy": {
+        "type": "Additional",
+        "purpose": "Current expenses of the library.",
+        "mills": "0.5 mill",
+        "term": "10 years, commencing in 2026",
+        "firstDue": "2027",
+        "estimate": "$1,140,880 a year; $18 for each $100,000 of market value"
+      },
+      "sources": [
+        "washington-46day",
+        "washington-ballots"
+      ]
+    },
+    {
+      "id": "county-mental-health",
+      "kind": "levy",
+      "jurisdiction": "Washington County",
+      "title": "Tax levy (renewal): Essential prevention, treatment, and recovery programs for children, adolescents, and adults at risk for mental illness and substance use disorders",
+      "area": "Countywide",
+      "levy": {
+        "type": "Renewal",
+        "purpose": "Essential prevention, treatment, and recovery programs for children, adolescents, and adults at risk for mental illness and substance use disorders.",
+        "mills": "0.5 mill",
+        "term": "5 years, commencing in 2027",
+        "firstDue": "2028",
+        "estimate": "$815,668 a year; $18 for each $100,000 of market value"
+      },
+      "sources": [
+        "washington-46day",
+        "washington-ballots"
+      ]
+    },
+    {
+      "id": "county-911",
+      "kind": "levy",
+      "jurisdiction": "Washington County",
+      "title": "Tax levy (renewal): Operation of a 911 system",
+      "area": "Countywide",
+      "levy": {
+        "type": "Renewal",
+        "purpose": "Operation of a 911 system.",
+        "mills": "0.35 mill",
+        "term": "5 years, commencing in 2026",
+        "firstDue": "2027",
+        "estimate": "$539,124 a year; $12 for each $100,000 of market value"
+      },
+      "sources": [
+        "washington-46day",
+        "washington-ballots"
+      ]
+    },
+    {
+      "id": "newport-twp-fire",
+      "kind": "levy",
+      "jurisdiction": "Newport Township",
+      "title": "Tax levy (renewal): Fire and emergency protection",
+      "area": "Newport precincts 0045/1 and 0045/2",
+      "places": [
+        "Newport Township"
+      ],
+      "levy": {
+        "type": "Renewal",
+        "purpose": "Fire and emergency protection.",
+        "mills": "3 mills",
+        "term": "5 years, commencing in 2027",
+        "firstDue": "2028",
+        "estimate": "$123,641 a year; $105 for each $100,000 of market value"
+      },
+      "sources": [
+        "washington-46day",
+        "washington-ballots"
+      ]
+    },
+    {
+      "id": "watertown-twp-fire",
+      "kind": "levy",
+      "jurisdiction": "Watertown Township",
+      "title": "Tax levy (renewal): Fire protection, ambulance and emergency medical services",
+      "area": "Watertown precincts 0055/1 and 0055/2",
+      "places": [
+        "Watertown Township"
+      ],
+      "levy": {
+        "type": "Renewal",
+        "purpose": "Fire protection, ambulance and emergency medical services.",
+        "mills": "1.5 mills",
+        "term": "5 years, commencing in 2027",
+        "firstDue": "2028",
+        "estimate": "$49,851 a year; $53 for each $100,000 of market value"
+      },
+      "note": "The sample ballot gives $53 for each $100,000 of market value; the 46-day notice gives $52.",
+      "sources": [
+        "washington-46day",
+        "washington-ballots"
+      ]
+    },
+    {
+      "id": "wesley-twp-fire",
+      "kind": "levy",
+      "jurisdiction": "Wesley Township",
+      "title": "Tax levy (renewal): Fire protection, ambulance and emergency medical services",
+      "area": "Wesley precincts 0056/1 and 0056/2",
+      "places": [
+        "Wesley Township"
+      ],
+      "levy": {
+        "type": "Renewal",
+        "purpose": "Fire protection, ambulance and emergency medical services.",
+        "mills": "4 mills",
+        "term": "5 years, commencing in 2027",
+        "firstDue": "2028",
+        "estimate": "$101,567 a year; $140 for each $100,000 of market value"
+      },
+      "sources": [
+        "washington-46day",
+        "washington-ballots"
+      ]
+    },
+    {
+      "id": "liquor-beverly-legion-sunday",
+      "kind": "liquor",
+      "jurisdiction": "Village of Beverly",
+      "title": "Local liquor option: American Legion Post 389 (Sunday sales, D-4 permit)",
+      "area": "Beverly Village precinct Beverly/Waterford 0052/1",
+      "places": [
+        "Beverly Village"
+      ],
+      "text": "Shall the sale of wine and mixed beverages and spirituous liquor be permitted for sale on Sunday by The American Legion, Post 389 a holder of a D-4 liquor permit who is engaged in the business of a private veterans' membership club at 114 Fifth St, Beverly, OH 45715 in this precinct? (by petition)",
+      "sources": [
+        "washington-46day",
+        "washington-ballots"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,558 @@
+{
+ "ADAMS TWP": {
+  "voters": 747,
+  "LOCAL_SCHOOL_DISTRICT": {
+   "FORT FRYE LOCAL SD (WASH)": 747
+  },
+  "CONGRESSIONAL_DISTRICT": {
+   "02": 747
+  },
+  "STATE_REPRESENTATIVE_DISTRICT": {
+   "94": 747
+  },
+  "STATE_SENATE_DISTRICT": {
+   "30": 747
+  },
+  "COURT_OF_APPEALS": {
+   "04": 747
+  }
+ },
+ "AURELIUS TWP": {
+  "voters": 122,
+  "EXEMPTED_VILL_SCHOOL_DISTRICT": {
+   "CALDWELL EX VILL SD (NOBLE)": 122
+  },
+  "CONGRESSIONAL_DISTRICT": {
+   "02": 122
+  },
+  "STATE_REPRESENTATIVE_DISTRICT": {
+   "94": 122
+  },
+  "STATE_SENATE_DISTRICT": {
+   "30": 122
+  },
+  "COURT_OF_APPEALS": {
+   "04": 122
+  }
+ },
+ "BARLOW TWP": {
+  "voters": 1969,
+  "LOCAL_SCHOOL_DISTRICT": {
+   "WARREN LOCAL SD (WASH)": 1969
+  },
+  "CONGRESSIONAL_DISTRICT": {
+   "02": 1969
+  },
+  "STATE_REPRESENTATIVE_DISTRICT": {
+   "94": 1969
+  },
+  "STATE_SENATE_DISTRICT": {
+   "30": 1969
+  },
+  "COURT_OF_APPEALS": {
+   "04": 1969
+  }
+ },
+ "BELPRE CITY": {
+  "voters": 4604,
+  "CITY_SCHOOL_DISTRICT": {
+   "BELPRE CITY SD": 4604
+  },
+  "CONGRESSIONAL_DISTRICT": {
+   "02": 4604
+  },
+  "STATE_REPRESENTATIVE_DISTRICT": {
+   "94": 4604
+  },
+  "STATE_SENATE_DISTRICT": {
+   "30": 4604
+  },
+  "COURT_OF_APPEALS": {
+   "04": 4604
+  }
+ },
+ "BELPRE TWP": {
+  "voters": 2946,
+  "CITY_SCHOOL_DISTRICT": {
+   "BELPRE CITY SD": 1359
+  },
+  "CONGRESSIONAL_DISTRICT": {
+   "02": 2946
+  },
+  "STATE_REPRESENTATIVE_DISTRICT": {
+   "94": 2946
+  },
+  "STATE_SENATE_DISTRICT": {
+   "30": 2946
+  },
+  "COURT_OF_APPEALS": {
+   "04": 2946
+  },
+  "LOCAL_SCHOOL_DISTRICT": {
+   "WARREN LOCAL SD (WASH)": 1587
+  }
+ },
+ "BEVERLY VILLAGE": {
+  "voters": 744,
+  "LOCAL_SCHOOL_DISTRICT": {
+   "FORT FRYE LOCAL SD (WASH)": 744
+  },
+  "CONGRESSIONAL_DISTRICT": {
+   "02": 744
+  },
+  "STATE_REPRESENTATIVE_DISTRICT": {
+   "94": 744
+  },
+  "STATE_SENATE_DISTRICT": {
+   "30": 744
+  },
+  "COURT_OF_APPEALS": {
+   "04": 744
+  },
+  "TWP_OF_VILLAGE": {
+   "WATERFORD TWP": 744
+  }
+ },
+ "DECATUR TWP": {
+  "voters": 986,
+  "LOCAL_SCHOOL_DISTRICT": {
+   "WARREN LOCAL SD (WASH)": 986
+  },
+  "CONGRESSIONAL_DISTRICT": {
+   "02": 986
+  },
+  "STATE_REPRESENTATIVE_DISTRICT": {
+   "94": 986
+  },
+  "STATE_SENATE_DISTRICT": {
+   "30": 986
+  },
+  "COURT_OF_APPEALS": {
+   "04": 986
+  }
+ },
+ "DUNHAM TWP": {
+  "voters": 1890,
+  "LOCAL_SCHOOL_DISTRICT": {
+   "WARREN LOCAL SD (WASH)": 1646
+  },
+  "CONGRESSIONAL_DISTRICT": {
+   "02": 1890
+  },
+  "STATE_REPRESENTATIVE_DISTRICT": {
+   "94": 1890
+  },
+  "STATE_SENATE_DISTRICT": {
+   "30": 1890
+  },
+  "COURT_OF_APPEALS": {
+   "04": 1890
+  },
+  "CITY_SCHOOL_DISTRICT": {
+   "BELPRE CITY SD": 244
+  }
+ },
+ "FAIRFIELD TWP": {
+  "voters": 756,
+  "LOCAL_SCHOOL_DISTRICT": {
+   "WARREN LOCAL SD (WASH)": 756
+  },
+  "CONGRESSIONAL_DISTRICT": {
+   "02": 756
+  },
+  "STATE_REPRESENTATIVE_DISTRICT": {
+   "94": 756
+  },
+  "STATE_SENATE_DISTRICT": {
+   "30": 756
+  },
+  "COURT_OF_APPEALS": {
+   "04": 756
+  }
+ },
+ "FEARING TWP": {
+  "voters": 630,
+  "CITY_SCHOOL_DISTRICT": {
+   "MARIETTA CITY SD": 558
+  },
+  "CONGRESSIONAL_DISTRICT": {
+   "02": 630
+  },
+  "STATE_REPRESENTATIVE_DISTRICT": {
+   "94": 630
+  },
+  "STATE_SENATE_DISTRICT": {
+   "30": 630
+  },
+  "COURT_OF_APPEALS": {
+   "04": 630
+  },
+  "LOCAL_SCHOOL_DISTRICT": {
+   "FORT FRYE LOCAL SD (WASH)": 72
+  }
+ },
+ "GRANDVIEW TWP": {
+  "voters": 484,
+  "LOCAL_SCHOOL_DISTRICT": {
+   "FRONTIER LOCAL SD (WASH)": 484
+  },
+  "CONGRESSIONAL_DISTRICT": {
+   "02": 484
+  },
+  "STATE_REPRESENTATIVE_DISTRICT": {
+   "94": 484
+  },
+  "STATE_SENATE_DISTRICT": {
+   "30": 484
+  },
+  "COURT_OF_APPEALS": {
+   "04": 484
+  }
+ },
+ "INDEPENDENCE TWP": {
+  "voters": 190,
+  "LOCAL_SCHOOL_DISTRICT": {
+   "FRONTIER LOCAL SD (WASH)": 190
+  },
+  "CONGRESSIONAL_DISTRICT": {
+   "02": 190
+  },
+  "STATE_REPRESENTATIVE_DISTRICT": {
+   "94": 190
+  },
+  "STATE_SENATE_DISTRICT": {
+   "30": 190
+  },
+  "COURT_OF_APPEALS": {
+   "04": 190
+  }
+ },
+ "LAWRENCE TWP": {
+  "voters": 542,
+  "LOCAL_SCHOOL_DISTRICT": {
+   "FRONTIER LOCAL SD (WASH)": 524
+  },
+  "CONGRESSIONAL_DISTRICT": {
+   "02": 542
+  },
+  "STATE_REPRESENTATIVE_DISTRICT": {
+   "94": 542
+  },
+  "STATE_SENATE_DISTRICT": {
+   "30": 542
+  },
+  "COURT_OF_APPEALS": {
+   "04": 542
+  },
+  "CITY_SCHOOL_DISTRICT": {
+   "MARIETTA CITY SD": 18
+  }
+ },
+ "LIBERTY TWP": {
+  "voters": 283,
+  "LOCAL_SCHOOL_DISTRICT": {
+   "FORT FRYE LOCAL SD (WASH)": 243,
+   "FRONTIER LOCAL SD (WASH)": 40
+  },
+  "CONGRESSIONAL_DISTRICT": {
+   "02": 283
+  },
+  "STATE_REPRESENTATIVE_DISTRICT": {
+   "94": 283
+  },
+  "STATE_SENATE_DISTRICT": {
+   "30": 283
+  },
+  "COURT_OF_APPEALS": {
+   "04": 283
+  }
+ },
+ "LOWELL VILLAGE": {
+  "voters": 348,
+  "LOCAL_SCHOOL_DISTRICT": {
+   "FORT FRYE LOCAL SD (WASH)": 348
+  },
+  "CONGRESSIONAL_DISTRICT": {
+   "02": 348
+  },
+  "STATE_REPRESENTATIVE_DISTRICT": {
+   "94": 348
+  },
+  "STATE_SENATE_DISTRICT": {
+   "30": 348
+  },
+  "COURT_OF_APPEALS": {
+   "04": 348
+  },
+  "TWP_OF_VILLAGE": {
+   "ADAMS TWP": 348
+  }
+ },
+ "LOWER SALEM VILLAGE": {
+  "voters": 31,
+  "LOCAL_SCHOOL_DISTRICT": {
+   "FORT FRYE LOCAL SD (WASH)": 31
+  },
+  "CONGRESSIONAL_DISTRICT": {
+   "02": 31
+  },
+  "STATE_REPRESENTATIVE_DISTRICT": {
+   "94": 31
+  },
+  "STATE_SENATE_DISTRICT": {
+   "30": 31
+  },
+  "COURT_OF_APPEALS": {
+   "04": 31
+  },
+  "TWP_OF_VILLAGE": {
+   "SALEM TWP": 31
+  }
+ },
+ "LUDLOW TWP": {
+  "voters": 192,
+  "LOCAL_SCHOOL_DISTRICT": {
+   "FRONTIER LOCAL SD (WASH)": 192
+  },
+  "CONGRESSIONAL_DISTRICT": {
+   "02": 192
+  },
+  "STATE_REPRESENTATIVE_DISTRICT": {
+   "94": 192
+  },
+  "STATE_SENATE_DISTRICT": {
+   "30": 192
+  },
+  "COURT_OF_APPEALS": {
+   "04": 192
+  }
+ },
+ "MACKSBURG VILLAGE": {
+  "voters": 90,
+  "EXEMPTED_VILL_SCHOOL_DISTRICT": {
+   "CALDWELL EX VILL SD (NOBLE)": 90
+  },
+  "CONGRESSIONAL_DISTRICT": {
+   "02": 90
+  },
+  "STATE_REPRESENTATIVE_DISTRICT": {
+   "94": 90
+  },
+  "STATE_SENATE_DISTRICT": {
+   "30": 90
+  },
+  "COURT_OF_APPEALS": {
+   "04": 90
+  },
+  "TWP_OF_VILLAGE": {
+   "AURELIUS TWP": 90
+  }
+ },
+ "MARIETTA CITY": {
+  "voters": 8185,
+  "CITY_SCHOOL_DISTRICT": {
+   "MARIETTA CITY SD": 8185
+  },
+  "CONGRESSIONAL_DISTRICT": {
+   "02": 8185
+  },
+  "STATE_REPRESENTATIVE_DISTRICT": {
+   "94": 8185
+  },
+  "STATE_SENATE_DISTRICT": {
+   "30": 8185
+  },
+  "COURT_OF_APPEALS": {
+   "04": 8185
+  }
+ },
+ "MARIETTA TWP": {
+  "voters": 3094,
+  "CITY_SCHOOL_DISTRICT": {
+   "MARIETTA CITY SD": 3094
+  },
+  "CONGRESSIONAL_DISTRICT": {
+   "02": 3094
+  },
+  "STATE_REPRESENTATIVE_DISTRICT": {
+   "94": 3094
+  },
+  "STATE_SENATE_DISTRICT": {
+   "30": 3094
+  },
+  "COURT_OF_APPEALS": {
+   "04": 3094
+  }
+ },
+ "MATAMORAS VILLAGE": {
+  "voters": 488,
+  "LOCAL_SCHOOL_DISTRICT": {
+   "FRONTIER LOCAL SD (WASH)": 488
+  },
+  "CONGRESSIONAL_DISTRICT": {
+   "02": 488
+  },
+  "STATE_REPRESENTATIVE_DISTRICT": {
+   "94": 488
+  },
+  "STATE_SENATE_DISTRICT": {
+   "30": 488
+  },
+  "COURT_OF_APPEALS": {
+   "04": 488
+  },
+  "TWP_OF_VILLAGE": {
+   "GRANDVIEW TWP": 488
+  }
+ },
+ "MUSKINGUM TWP": {
+  "voters": 3312,
+  "CITY_SCHOOL_DISTRICT": {
+   "MARIETTA CITY SD": 3312
+  },
+  "CONGRESSIONAL_DISTRICT": {
+   "02": 3312
+  },
+  "STATE_REPRESENTATIVE_DISTRICT": {
+   "94": 3312
+  },
+  "STATE_SENATE_DISTRICT": {
+   "30": 3312
+  },
+  "COURT_OF_APPEALS": {
+   "04": 3312
+  }
+ },
+ "NEWPORT TWP": {
+  "voters": 1354,
+  "LOCAL_SCHOOL_DISTRICT": {
+   "FRONTIER LOCAL SD (WASH)": 1250
+  },
+  "CONGRESSIONAL_DISTRICT": {
+   "02": 1354
+  },
+  "STATE_REPRESENTATIVE_DISTRICT": {
+   "94": 1354
+  },
+  "STATE_SENATE_DISTRICT": {
+   "30": 1354
+  },
+  "COURT_OF_APPEALS": {
+   "04": 1354
+  },
+  "CITY_SCHOOL_DISTRICT": {
+   "MARIETTA CITY SD": 104
+  }
+ },
+ "PALMER TWP": {
+  "voters": 371,
+  "LOCAL_SCHOOL_DISTRICT": {
+   "WARREN LOCAL SD (WASH)": 80,
+   "WOLF CREEK LOCAL SD (WASH)": 291
+  },
+  "CONGRESSIONAL_DISTRICT": {
+   "02": 371
+  },
+  "STATE_REPRESENTATIVE_DISTRICT": {
+   "94": 371
+  },
+  "STATE_SENATE_DISTRICT": {
+   "30": 371
+  },
+  "COURT_OF_APPEALS": {
+   "04": 371
+  }
+ },
+ "SALEM TWP": {
+  "voters": 677,
+  "LOCAL_SCHOOL_DISTRICT": {
+   "FORT FRYE LOCAL SD (WASH)": 677
+  },
+  "CONGRESSIONAL_DISTRICT": {
+   "02": 677
+  },
+  "STATE_REPRESENTATIVE_DISTRICT": {
+   "94": 677
+  },
+  "STATE_SENATE_DISTRICT": {
+   "30": 677
+  },
+  "COURT_OF_APPEALS": {
+   "04": 677
+  }
+ },
+ "WARREN TWP": {
+  "voters": 2877,
+  "LOCAL_SCHOOL_DISTRICT": {
+   "WARREN LOCAL SD (WASH)": 2877
+  },
+  "CONGRESSIONAL_DISTRICT": {
+   "02": 2877
+  },
+  "STATE_REPRESENTATIVE_DISTRICT": {
+   "94": 2877
+  },
+  "STATE_SENATE_DISTRICT": {
+   "30": 2877
+  },
+  "COURT_OF_APPEALS": {
+   "04": 2877
+  }
+ },
+ "WATERFORD TWP": {
+  "voters": 1627,
+  "LOCAL_SCHOOL_DISTRICT": {
+   "FORT FRYE LOCAL SD (WASH)": 433,
+   "WOLF CREEK LOCAL SD (WASH)": 1194
+  },
+  "CONGRESSIONAL_DISTRICT": {
+   "02": 1627
+  },
+  "STATE_REPRESENTATIVE_DISTRICT": {
+   "94": 1627
+  },
+  "STATE_SENATE_DISTRICT": {
+   "30": 1627
+  },
+  "COURT_OF_APPEALS": {
+   "04": 1627
+  }
+ },
+ "WATERTOWN TWP": {
+  "voters": 1120,
+  "LOCAL_SCHOOL_DISTRICT": {
+   "WOLF CREEK LOCAL SD (WASH)": 856,
+   "FORT FRYE LOCAL SD (WASH)": 264
+  },
+  "CONGRESSIONAL_DISTRICT": {
+   "02": 1120
+  },
+  "STATE_REPRESENTATIVE_DISTRICT": {
+   "94": 1120
+  },
+  "STATE_SENATE_DISTRICT": {
+   "30": 1120
+  },
+  "COURT_OF_APPEALS": {
+   "04": 1120
+  }
+ },
+ "WESLEY TWP": {
+  "voters": 637,
+  "LOCAL_SCHOOL_DISTRICT": {
+   "WARREN LOCAL SD (WASH)": 637
+  },
+  "CONGRESSIONAL_DISTRICT": {
+   "02": 637
+  },
+  "STATE_REPRESENTATIVE_DISTRICT": {
+   "94": 637
+  },
+  "STATE_SENATE_DISTRICT": {
+   "30": 637
+  },
+  "COURT_OF_APPEALS": {
+   "04": 637
+  }
+ }
+}

@@ -19,8 +19,10 @@ Adding a county: summarise its voter file with `place_summary.py`, write `<count
 
 ## Notes for adding more counties
 
-Done for 2026-11-03: Trumbull (hand-written), Mahoning, Columbiana, Ashtabula, Lake, Cuyahoga, Geauga, Summit, Stark, Portage, Medina, Lorain, Franklin, Hamilton, Montgomery, Lucas, Butler, Warren, Delaware, Clermont, Licking, Greene, Fairfield, Clark, Wood, Richland, Wayne, Miami, Allen, Tuscarawas, Muskingum, Ross, Erie, Hancock, Scioto, Belmont, Jefferson.
-Next by size: Marion, Union, Knox, Athens, Washington, Pickaway, Sandusky, Huron, Lawrence, Seneca (51 counties left, these included).
+Done for 2026-11-03: Trumbull (hand-written), Mahoning, Columbiana, Ashtabula, Lake, Cuyahoga, Geauga, Summit, Stark, Portage, Medina, Lorain, Franklin, Hamilton, Montgomery, Lucas, Butler, Warren, Delaware, Clermont, Licking, Greene, Fairfield, Clark, Wood, Richland, Wayne, Miami, Allen, Tuscarawas, Muskingum, Ross, Erie, Hancock, Scioto, Belmont, Jefferson, Marion, Union, Knox, Athens, Washington, Pickaway, Sandusky, Huron, Lawrence, Seneca.
+Next by size: Darke, Ashland, Shelby, Auglaize, Brown, Logan, Crawford, Highland, Ottawa, Clinton (41 counties left, these included).
+
+Sample ballots on lookup.boe.ohio.gov: when get_page_text is refused, javascript_tool can run the search and fetch each `getballot.aspx` PDF for pdf.js.
 
 **Precinct numbers.** Several notices (Delaware, Tuscarawas, Miami, Belmont, Wood) list precincts by number only. Match them to names via the order of PRECINCT_CODE in the SoS file, the PRSID/PRECNAME columns of the county's absentee CSV, or the Board's precinct results; check against a liquor option's named precinct.
 

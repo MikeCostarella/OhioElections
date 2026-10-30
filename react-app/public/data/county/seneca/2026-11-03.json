@@ -1,0 +1,317 @@
+{
+  "scope": "county",
+  "county": "Seneca",
+  "fips": "39147",
+  "election": "2026-11-03",
+  "retrieved": "2026-10-30",
+  "notes": [
+    "Taken from the Board of Elections' 46-day election notice, which lists every contest and issue with the precincts that vote on it, checked against the Board's precinct sample ballots (which give the full ballot wording).",
+    "Candidates are listed alphabetically by last name, not in ballot order: Ohio rotates the order of names from precinct to precinct. Certified write-in candidates are not printed on the ballot and are not listed.",
+    "\"Where you live\" uses the state voter file: a district or school levy is shown for a city, village or township when any of its voters live in that district. Your exact ballot depends on your precinct.",
+    "The Board's notice and sample ballots do not give local issue numbers; see your sample ballot."
+  ],
+  "places": [
+    "Adams Township",
+    "Attica Village",
+    "Bettsville Village",
+    "Big Spring Township",
+    "Bloom Township",
+    "Bloomville Village",
+    "Clinton Township",
+    "Eden Township",
+    "Fostoria City",
+    "Green Springs Village",
+    "Hopewell Township",
+    "Jackson Township",
+    "Liberty Township",
+    "Loudon Township",
+    "New Riegel Village",
+    "Pleasant Township",
+    "Reed Township",
+    "Republic Village",
+    "Scipio Township",
+    "Seneca Township",
+    "Thompson Township",
+    "Tiffin City",
+    "Venice Township"
+  ],
+  "sources": {
+    "seneca-46day": {
+      "label": "Seneca County Board of Elections: 46-day election notice (FWAB), November 3, 2026 General Election",
+      "url": "https://www.boe.ohio.gov/seneca/c/upload/FWAB_11November46Day.pdf"
+    },
+    "seneca-ballots": {
+      "label": "Seneca County Board of Elections: precinct sample ballots, November 3, 2026 General Election (full ballot wording)",
+      "url": "https://lookup.boe.ohio.gov/vtrapp/seneca/ballotlist.aspx"
+    }
+  },
+  "links": [
+    {
+      "label": "Board of Elections",
+      "url": "https://www.boe.ohio.gov/seneca/"
+    },
+    {
+      "label": "Election information",
+      "url": "https://www.boe.ohio.gov/seneca/election-info/"
+    },
+    {
+      "label": "Sample ballots by precinct",
+      "url": "https://lookup.boe.ohio.gov/vtrapp/seneca/ballotlist.aspx"
+    },
+    {
+      "label": "Questions and issues",
+      "url": "https://lookup.boe.ohio.gov/vtrapp/seneca/webqis/qisearch.aspx"
+    }
+  ],
+  "results": {
+    "status": "upcoming",
+    "links": [
+      {
+        "label": "Board of Elections: election results",
+        "url": "https://www.boe.ohio.gov/seneca/election-info/election-results/"
+      }
+    ]
+  },
+  "contests": [
+    {
+      "id": "congress-5",
+      "group": "U.S. House",
+      "office": "Representative to Congress",
+      "detail": "5th District",
+      "candidates": [
+        {
+          "name": "Bob Latta",
+          "party": "REP"
+        },
+        {
+          "name": "Brian A. Shaver",
+          "party": "DEM"
+        },
+        {
+          "name": "Michael J. Veloff",
+          "party": "LIB"
+        }
+      ],
+      "sources": [
+        "seneca-46day",
+        "seneca-ballots"
+      ]
+    },
+    {
+      "id": "rep-88",
+      "group": "Ohio General Assembly",
+      "office": "State Representative",
+      "detail": "88th District",
+      "candidates": [
+        {
+          "name": "Gary Click",
+          "party": "REP"
+        },
+        {
+          "name": "Aaron W. Jones",
+          "party": "DEM"
+        }
+      ],
+      "sources": [
+        "seneca-46day",
+        "seneca-ballots"
+      ]
+    },
+    {
+      "id": "appeals-3-0209",
+      "group": "Ohio Court of Appeals",
+      "office": "Judge of the Court of Appeals",
+      "detail": "3rd District · full term commencing February 9, 2027",
+      "candidates": [
+        {
+          "name": "Mark C. Miller",
+          "party": "REP"
+        }
+      ],
+      "sources": [
+        "seneca-46day",
+        "seneca-ballots"
+      ]
+    },
+    {
+      "id": "commissioner",
+      "group": "County offices",
+      "office": "County Commissioner",
+      "detail": "Full term commencing January 1, 2027",
+      "candidates": [
+        {
+          "name": "Bill Frankart",
+          "party": "REP"
+        },
+        {
+          "name": "David G. Ziegler",
+          "party": "Nonparty"
+        }
+      ],
+      "sources": [
+        "seneca-46day",
+        "seneca-ballots"
+      ]
+    },
+    {
+      "id": "auditor",
+      "group": "County offices",
+      "office": "County Auditor",
+      "candidates": [
+        {
+          "name": "Julie A. Adkins",
+          "party": "REP"
+        }
+      ],
+      "sources": [
+        "seneca-46day",
+        "seneca-ballots"
+      ]
+    },
+    {
+      "id": "cp-probate-juvenile",
+      "group": "Court of Common Pleas",
+      "office": "Judge of the Court of Common Pleas, Probate/Juvenile Division",
+      "detail": "Full term commencing February 9, 2027 · no party label on the ballot",
+      "candidates": [
+        {
+          "name": "Jay A. Meyer"
+        }
+      ],
+      "sources": [
+        "seneca-46day",
+        "seneca-ballots"
+      ]
+    }
+  ],
+  "issues": [
+    {
+      "id": "old-fort-schools",
+      "kind": "levy",
+      "jurisdiction": "Old Fort Local School District (Seneca and Sandusky)",
+      "title": "Tax levy (renewal): Current operating expenses and general permanent improvements",
+      "area": "Old Fort Local School District (Seneca County part: Adams 3, Bettsville Village, Clinton A2, Hopewell A1, Liberty A1, A2 and B1, Pleasant 1)",
+      "places": [
+        "Adams Township",
+        "Bettsville Village",
+        "Clinton Township",
+        "Hopewell Township",
+        "Liberty Township",
+        "Pleasant Township"
+      ],
+      "levy": {
+        "type": "Renewal",
+        "purpose": "Current operating expenses and general permanent improvements.",
+        "mills": "6.3 mills (4.30 mills current operating, 2.00 mills permanent improvements)",
+        "term": "5 years, commencing in 2027",
+        "firstDue": "2028",
+        "estimate": "$528,626 per year ($111 per $100,000 of market value)"
+      },
+      "sources": [
+        "seneca-46day",
+        "seneca-ballots"
+      ]
+    },
+    {
+      "id": "bettsville-library",
+      "kind": "levy",
+      "jurisdiction": "Bettsville Public Library",
+      "title": "Tax levy (renewal): Current expenses",
+      "area": "Bettsville Village and Liberty Township precincts Liberty A2 and Liberty B1",
+      "places": [
+        "Bettsville Village",
+        "Liberty Township"
+      ],
+      "levy": {
+        "type": "Renewal",
+        "purpose": "Current expenses.",
+        "mills": "0.4 mill",
+        "term": "5 years, commencing in 2027",
+        "firstDue": "2028",
+        "estimate": "$10,828 per year ($10 per $100,000 of market value)"
+      },
+      "sources": [
+        "seneca-46day",
+        "seneca-ballots"
+      ]
+    },
+    {
+      "id": "mhrs",
+      "kind": "levy",
+      "jurisdiction": "Seneca County",
+      "title": "Tax levy (renewal): Mental Health and Recovery Services Board of Seneca, Ottawa, Sandusky and Wyandot Counties (and/or its intended successor, the North Central Behavioral Health Board): operation of community addiction and mental health services providers, and alcohol and drug addiction and mental health facilities in Seneca County",
+      "area": "Seneca County",
+      "levy": {
+        "type": "Renewal",
+        "purpose": "Mental Health and Recovery Services Board of Seneca, Ottawa, Sandusky and Wyandot Counties (and/or its intended successor, the North Central Behavioral Health Board): operation of community addiction and mental health services providers, and alcohol and drug addiction and mental health facilities in Seneca County.",
+        "mills": "0.7 mill",
+        "term": "10 years, commencing in 2027",
+        "firstDue": "2028",
+        "estimate": "$1,043,000 per year ($18 per $100,000 of market value)"
+      },
+      "sources": [
+        "seneca-46day",
+        "seneca-ballots"
+      ]
+    },
+    {
+      "id": "fostoria-current",
+      "kind": "levy",
+      "jurisdiction": "City of Fostoria (Hancock, Seneca and Wood)",
+      "title": "Tax levy (renewal): Current expenses",
+      "area": "Fostoria City (Seneca County part: all Fostoria precincts)",
+      "places": [
+        "Fostoria City"
+      ],
+      "levy": {
+        "type": "Renewal",
+        "purpose": "Current expenses.",
+        "mills": "6 mills",
+        "term": "5 years, commencing in 2027",
+        "firstDue": "2028",
+        "estimate": "$1,047,593 per year"
+      },
+      "sources": [
+        "seneca-46day",
+        "seneca-ballots"
+      ]
+    },
+    {
+      "id": "green-springs-fire",
+      "kind": "levy",
+      "jurisdiction": "Village of Green Springs (Sandusky and Seneca)",
+      "title": "Tax levy (additional): Fire protection",
+      "area": "Green Springs Village (Seneca County part)",
+      "places": [
+        "Green Springs Village"
+      ],
+      "levy": {
+        "type": "Additional",
+        "purpose": "Fire protection.",
+        "mills": "3 mills",
+        "term": "5 years, commencing in 2026",
+        "firstDue": "2027",
+        "estimate": "$69,080 per year ($105 per $100,000 of market value)"
+      },
+      "sources": [
+        "seneca-46day",
+        "seneca-ballots"
+      ]
+    },
+    {
+      "id": "liquor-quarry-campground",
+      "kind": "liquor",
+      "jurisdiction": "Village of Bettsville",
+      "title": "Local liquor option: Kamb, LLC dba The Quarry Campground (Sunday)",
+      "area": "Bettsville Village precinct",
+      "places": [
+        "Bettsville Village"
+      ],
+      "text": "Local option (by petition): Sunday sale of beer, wine and mixed beverages by Kamb, LLC dba The Quarry Campground, an applicant for a C-1, C-2 and D-6 liquor permit authorizing off-premise sales, operating a campground and food and beverage carryout at 7800 N. Township Rd 70, Tiffin.",
+      "sources": [
+        "seneca-46day",
+        "seneca-ballots"
+      ]
+    }
+  ]
+}

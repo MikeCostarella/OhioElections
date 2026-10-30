@@ -1,0 +1,699 @@
+{
+  "scope": "county",
+  "county": "Sandusky",
+  "fips": "39143",
+  "election": "2026-11-03",
+  "retrieved": "2026-10-30",
+  "notes": [
+    "Taken from the Board of Elections' 46-day election notice, which lists every contest and issue with the precincts that vote on it, checked against the Board's candidate list, its issues list (which gives the full ballot wording) and its sample ballots.",
+    "Candidates are listed alphabetically by last name, not in ballot order: Ohio rotates the order of names from precinct to precinct. Certified write-in candidates are not printed on the ballot and are not listed.",
+    "\"Where you live\" uses the state voter file: a district or school levy is shown for a city, village or township when any of its voters live in that district. Your exact ballot depends on your precinct.",
+    "The Board's notice, issues list and sample ballots do not give local issue numbers.",
+    "The state voter file lists Riley Township's voters under Rice Township, so Riley Township is not in the list of places: Riley Township voters can use Rice Township (neither township has a local issue on this ballot)."
+  ],
+  "places": [
+    "Ballville Township",
+    "Bellevue City",
+    "Burgoon Village",
+    "Clyde City",
+    "Fremont City",
+    "Gibsonburg Village",
+    "Green Creek Township",
+    "Green Springs Village",
+    "Helena Village",
+    "Jackson Township",
+    "Lindsey Village",
+    "Madison Township",
+    "Rice Township",
+    "Sandusky Township",
+    "Scott Township",
+    "Townsend Township",
+    "Washington Township",
+    "Woodville Township",
+    "Woodville Village",
+    "York Township"
+  ],
+  "sources": {
+    "sandusky-46day": {
+      "label": "Sandusky County Board of Elections: 46-day election notice (FWAB), November 3, 2026 General Election",
+      "url": "https://sanduskycountyoh.gov/uploads/46%20day%20FWAB%20November%202026.docx"
+    },
+    "sandusky-cand": {
+      "label": "Sandusky County Board of Elections: candidates, November 3, 2026 General Election",
+      "url": "https://sanduskycountyoh.gov/uploads/Sandusky%20County%20Candidates%20November%20General%20Election%202026.xlsx"
+    },
+    "sandusky-issues": {
+      "label": "Sandusky County Board of Elections: issues (ballot wording), November 3, 2026 General Election",
+      "url": "https://sanduskycountyoh.gov/uploads/Sandusky%20County%20Issues%20November%20General%20Election%202026.txt"
+    },
+    "sandusky-sample": {
+      "label": "Sandusky County Board of Elections: 2026 General Election sample ballots (all precincts)",
+      "url": "https://sanduskycountyoh.gov/uploads/2026%20General%20Election-Sample.pdf"
+    }
+  },
+  "links": [
+    {
+      "label": "Board of Elections",
+      "url": "https://sanduskycountyoh.gov/index.php?page=board-of-elections"
+    },
+    {
+      "label": "Sample ballots (all precincts)",
+      "url": "https://sanduskycountyoh.gov/uploads/2026%20General%20Election-Sample.pdf"
+    },
+    {
+      "label": "Early voting hours",
+      "url": "https://sanduskycountyoh.gov/uploads/OFFICE%20HOURS%20NOV%202026.pdf"
+    }
+  ],
+  "results": {
+    "status": "upcoming",
+    "links": [
+      {
+        "label": "Board of Elections: election results",
+        "url": "https://sanduskycountyoh.gov/index.php?page=board-of-elections"
+      }
+    ]
+  },
+  "contests": [
+    {
+      "id": "congress-5",
+      "group": "U.S. House",
+      "office": "Representative to Congress",
+      "detail": "5th District",
+      "candidates": [
+        {
+          "name": "Bob Latta",
+          "party": "REP"
+        },
+        {
+          "name": "Brian A. Shaver",
+          "party": "DEM"
+        },
+        {
+          "name": "Michael J. Veloff",
+          "party": "LIB"
+        }
+      ],
+      "sources": [
+        "sandusky-46day",
+        "sandusky-cand"
+      ]
+    },
+    {
+      "id": "rep-88",
+      "group": "Ohio General Assembly",
+      "office": "State Representative",
+      "detail": "88th District",
+      "candidates": [
+        {
+          "name": "Gary Click",
+          "party": "REP"
+        },
+        {
+          "name": "Aaron W. Jones",
+          "party": "DEM"
+        }
+      ],
+      "sources": [
+        "sandusky-46day",
+        "sandusky-cand"
+      ]
+    },
+    {
+      "id": "appeals-6-0209",
+      "group": "Ohio Court of Appeals",
+      "office": "Judge of the Court of Appeals",
+      "detail": "6th District · full term commencing February 9, 2027",
+      "candidates": [
+        {
+          "name": "Michael R. Goulding",
+          "party": "REP"
+        }
+      ],
+      "sources": [
+        "sandusky-46day",
+        "sandusky-cand"
+      ]
+    },
+    {
+      "id": "appeals-6-0210",
+      "group": "Ohio Court of Appeals",
+      "office": "Judge of the Court of Appeals",
+      "detail": "6th District · full term commencing February 10, 2027",
+      "candidates": [
+        {
+          "name": "Myron C. Duhart",
+          "party": "DEM"
+        },
+        {
+          "name": "CJ Kamm",
+          "party": "REP"
+        }
+      ],
+      "sources": [
+        "sandusky-46day",
+        "sandusky-cand"
+      ]
+    },
+    {
+      "id": "commissioner",
+      "group": "County offices",
+      "office": "County Commissioner",
+      "detail": "Full term commencing January 1, 2027",
+      "candidates": [
+        {
+          "name": "Richard J. Farmer II",
+          "party": "REP"
+        },
+        {
+          "name": "Kurtis A. Kuhl",
+          "party": "DEM"
+        }
+      ],
+      "sources": [
+        "sandusky-46day",
+        "sandusky-cand"
+      ]
+    },
+    {
+      "id": "commissioner-unexpired",
+      "group": "County offices",
+      "office": "County Commissioner",
+      "detail": "Unexpired term ending January 2, 2029",
+      "candidates": [
+        {
+          "name": "Jill A. Simpson",
+          "party": "DEM"
+        },
+        {
+          "name": "Justin C. Smith",
+          "party": "REP"
+        }
+      ],
+      "sources": [
+        "sandusky-46day",
+        "sandusky-cand"
+      ]
+    },
+    {
+      "id": "auditor",
+      "group": "County offices",
+      "office": "County Auditor",
+      "candidates": [
+        {
+          "name": "David W. Freitag",
+          "party": "REP"
+        }
+      ],
+      "sources": [
+        "sandusky-46day",
+        "sandusky-cand"
+      ]
+    },
+    {
+      "id": "cp-gen-0101",
+      "group": "Court of Common Pleas",
+      "office": "Judge of the Court of Common Pleas, General Division",
+      "detail": "Full term commencing January 1, 2027 · no party label on the ballot",
+      "candidates": [
+        {
+          "name": "Jon M. Ickes"
+        },
+        {
+          "name": "Kimberly Ontko"
+        }
+      ],
+      "sources": [
+        "sandusky-46day",
+        "sandusky-cand"
+      ]
+    },
+    {
+      "id": "cp-gen-0210",
+      "group": "Court of Common Pleas",
+      "office": "Judge of the Court of Common Pleas, General Division",
+      "detail": "Full term commencing February 10, 2027 · no party label on the ballot",
+      "candidates": [
+        {
+          "name": "Jeremiah Ray"
+        }
+      ],
+      "sources": [
+        "sandusky-46day",
+        "sandusky-cand"
+      ]
+    },
+    {
+      "id": "cp-probate-juvenile",
+      "group": "Court of Common Pleas",
+      "office": "Judge of the Court of Common Pleas, Probate/Juvenile Division",
+      "detail": "Full term commencing February 9, 2027 · no party label on the ballot",
+      "candidates": [
+        {
+          "name": "Brad Smith"
+        }
+      ],
+      "sources": [
+        "sandusky-46day",
+        "sandusky-cand"
+      ]
+    }
+  ],
+  "issues": [
+    {
+      "id": "ballville-fire",
+      "kind": "levy",
+      "jurisdiction": "Ballville Township",
+      "title": "Tax levy (renewal): Fire protection",
+      "area": "Ballville Township (Ballville A to G)",
+      "places": [
+        "Ballville Township"
+      ],
+      "levy": {
+        "type": "Renewal",
+        "purpose": "Fire protection.",
+        "mills": "1.75 mills",
+        "term": "5 years, commencing in 2027",
+        "firstDue": "2028",
+        "estimate": "$279,953 a year; $36 for each $100,000 of the county auditor's market value"
+      },
+      "sources": [
+        "sandusky-46day",
+        "sandusky-issues"
+      ]
+    },
+    {
+      "id": "bellevue-parks",
+      "kind": "levy",
+      "jurisdiction": "City of Bellevue (Erie, Huron, Sandusky and Seneca)",
+      "title": "Tax levy (renewal): Parks and recreation",
+      "area": "Bellevue City, Sandusky County part (Bellevue 1-A, 1-B, 2-A, 2-B)",
+      "places": [
+        "Bellevue City"
+      ],
+      "levy": {
+        "type": "Renewal",
+        "purpose": "Parks and recreation.",
+        "mills": "1 mill",
+        "term": "5 years, commencing in 2027",
+        "firstDue": "2028",
+        "estimate": "$181,373 a year; $19 for each $100,000 of the county auditor's market value"
+      },
+      "sources": [
+        "sandusky-46day",
+        "sandusky-issues"
+      ]
+    },
+    {
+      "id": "liquor-bellevue-1a-the-hut",
+      "kind": "liquor",
+      "jurisdiction": "City of Bellevue",
+      "title": "Local liquor option: The Hut AA (Sunday)",
+      "area": "Bellevue precinct 1-A",
+      "places": [
+        "Bellevue City"
+      ],
+      "text": "Shall the sale of beer, wine and mixed beverages, and spirituous liquor be permitted for sale on Sunday by The Hut AA, LLC an applicant for a D-6 liquor permit who is engaged in the business of operating bar and grill for purpose of serving food and drinks at 938 W Main St Bellevue, Ohio 44811 in this precinct?",
+      "sources": [
+        "sandusky-46day",
+        "sandusky-issues"
+      ]
+    },
+    {
+      "id": "clyde-charter-1",
+      "kind": "question",
+      "jurisdiction": "City of Clyde",
+      "title": "Charter amendment #1: Compensation of Council members and the Mayor",
+      "area": "Clyde City (Clyde A to E)",
+      "places": [
+        "Clyde City"
+      ],
+      "text": "Shall the City of Clyde Charter be amended to (1) delete the existing Council member salary language from Section 3-1; (2) delete the Mayor salary sentence from Section 3-7 and enshrine a Vice Mayor meeting coverage stipend of $100.00 per meeting presided over in the Mayor's absence; and (3) replace Section 3-9 in its entirety to establish Council member base compensation at the OPERS Monthly Minimum multiplied by twelve, with an additional $2,400 annual premium for the Mayor, automatic annual adjustments, per-member delayed implementation for currently serving members, prohibitions on legislative modification of all Council compensation including the Vice Mayor meeting stipend, and codification of the City Manager's wage recommendation authority?",
+      "sources": [
+        "sandusky-46day",
+        "sandusky-issues"
+      ]
+    },
+    {
+      "id": "clyde-charter-2",
+      "kind": "question",
+      "jurisdiction": "City of Clyde",
+      "title": "Charter amendment #2: Council meetings by electronic means during a state of emergency",
+      "area": "Clyde City (Clyde A to E)",
+      "places": [
+        "Clyde City"
+      ],
+      "text": "Shall the City of Clyde Charter be amended to add a paragraph to Section 3-5 authorizing Council to hold meetings by electronic means during any period in which a state of emergency has been declared by the President of the United States, the Governor of the State of Ohio, or the Mayor of the City of Clyde, subject to compliance with Ohio's Open Meetings Act and a thirty-day wind-down period following termination of the emergency?",
+      "sources": [
+        "sandusky-46day",
+        "sandusky-issues"
+      ]
+    },
+    {
+      "id": "clyde-charter-3",
+      "kind": "question",
+      "jurisdiction": "City of Clyde",
+      "title": "Charter amendment #3: Modernizing publication and notice requirements",
+      "area": "Clyde City (Clyde A to E)",
+      "places": [
+        "Clyde City"
+      ],
+      "text": "Shall the City of Clyde Charter be amended to replace Section 4-8 in its entirety to eliminate the mandatory newspaper publication requirement for ordinances and resolutions in favor of digital-first publication methods including posting on the City's official website, physical City Hall posting, or electronic notification; to modernize codification and adoption-by-reference provisions; to add a savings clause preventing technical publication errors from invalidating an otherwise valid ordinance; and to delete the third paragraph of Section 7-2 eliminating the Planning Commission's Charter-level newspaper notice requirement for public hearings on zoning and rezoning matters?",
+      "sources": [
+        "sandusky-46day",
+        "sandusky-issues"
+      ]
+    },
+    {
+      "id": "clyde-charter-4",
+      "kind": "question",
+      "jurisdiction": "City of Clyde",
+      "title": "Charter amendment #4: Eliminating the Civil Service Commission; personnel authority to the City Manager",
+      "area": "Clyde City (Clyde A to E)",
+      "places": [
+        "Clyde City"
+      ],
+      "text": "Shall the City of Clyde Charter be amended to delete Sections 7-6, 7-7, and 7-8 establishing the Civil Service Commission and its duties; to replace them with a new Section 7-6 vesting full personnel authority in the City Manager, eliminating the application of ORC Chapter 124 civil service procedures except as required by the Ohio Constitution, providing that employee appeals shall be governed by the Employee Handbook as adopted and amended by Council, authorizing Council to establish an appeals authority by resolution, and protecting collective bargaining rights; to renumber Sections 7-9 through 7-13 as Sections 7-7 through 7-11, respectively, without substantive change, with a cross-reference savings clause; and to make a conforming update to Section 5-3?",
+      "sources": [
+        "sandusky-46day",
+        "sandusky-issues"
+      ]
+    },
+    {
+      "id": "clyde-income-tax",
+      "kind": "question",
+      "jurisdiction": "City of Clyde",
+      "title": "Municipal income tax: continuation of the existing 1.5% levy on income",
+      "area": "Clyde City (Clyde A to E)",
+      "places": [
+        "Clyde City"
+      ],
+      "text": "Shall the Ordinance providing for the continuation of an existing 1.5 per cent levy on income for the general operations, maintenance, new equipment, extension and enlargement of municipal services and facilities, and capital improvements be passed?",
+      "sources": [
+        "sandusky-46day",
+        "sandusky-issues"
+      ]
+    },
+    {
+      "id": "liquor-gibsonburg-a-gails",
+      "kind": "liquor",
+      "jurisdiction": "Village of Gibsonburg",
+      "title": "Local liquor option: Gail's Party Shoppe (Sunday)",
+      "area": "Gibsonburg precinct A",
+      "places": [
+        "Gibsonburg Village"
+      ],
+      "text": "Shall the sale of spirituous liquor be permitted for sale on Sunday by Gail's Party Shoppe a holder of a C-1, C-2 and D-6 liquor permit who is engaged in the business of convenience store/liquor store at 201 S Main St Gibsonburg, Ohio 43431 in this precinct?",
+      "sources": [
+        "sandusky-46day",
+        "sandusky-issues"
+      ]
+    },
+    {
+      "id": "green-creek-fire",
+      "kind": "levy",
+      "jurisdiction": "Green Creek Township",
+      "title": "Tax levy (renewal): Fire protection",
+      "area": "Green Creek Township (Green Creek A to D; not Green Springs Village)",
+      "places": [
+        "Green Creek Township"
+      ],
+      "levy": {
+        "type": "Renewal",
+        "purpose": "Fire protection.",
+        "mills": "1.65 mills",
+        "term": "5 years, commencing in 2027",
+        "firstDue": "2028",
+        "estimate": "$110,745 a year; $30 for each $100,000 of the county auditor's market value"
+      },
+      "sources": [
+        "sandusky-46day",
+        "sandusky-issues"
+      ]
+    },
+    {
+      "id": "green-springs-fire",
+      "kind": "levy",
+      "jurisdiction": "Village of Green Springs (Sandusky and Seneca)",
+      "title": "Tax levy (additional): Fire protection",
+      "area": "Green Springs Village, Sandusky County part",
+      "places": [
+        "Green Springs Village"
+      ],
+      "levy": {
+        "type": "Additional",
+        "purpose": "Fire protection.",
+        "mills": "3 mills",
+        "term": "5 years, commencing in 2026",
+        "firstDue": "2027",
+        "estimate": "$69,080 a year; $105 for each $100,000 of the county auditor's market value"
+      },
+      "sources": [
+        "sandusky-46day",
+        "sandusky-issues"
+      ]
+    },
+    {
+      "id": "jackson-current",
+      "kind": "levy",
+      "jurisdiction": "Jackson Township (including Burgoon and part of Helena)",
+      "title": "Tax levy (renewal): Current expenses",
+      "area": "Jackson Township (Jackson A, Jackson B with Burgoon, and the Jackson Township part of Helena)",
+      "places": [
+        "Burgoon Village",
+        "Helena Village",
+        "Jackson Township"
+      ],
+      "levy": {
+        "type": "Renewal",
+        "purpose": "Current expenses.",
+        "mills": "1.5 mills",
+        "term": "5 years, commencing in 2027",
+        "firstDue": "2028",
+        "estimate": "$89,862 a year; $37 for each $100,000 of the county auditor's market value"
+      },
+      "sources": [
+        "sandusky-46day",
+        "sandusky-issues",
+        "sandusky-sample"
+      ]
+    },
+    {
+      "id": "margaretta-lsd-bond",
+      "kind": "levy",
+      "jurisdiction": "Margaretta Local School District (Erie and Sandusky)",
+      "title": "Bond issue: $11,000,000 for a natatorium and fitness/multipurpose center",
+      "area": "Margaretta Local School District, Sandusky County part (Townsend Township, part)",
+      "places": [
+        "Townsend Township"
+      ],
+      "levy": {
+        "type": "Bond issue",
+        "purpose": "Constructing a natatorium and fitness/multipurpose center; furnishing and equipping them; and improving their sites.",
+        "mills": "2.15 mills (estimated average)",
+        "term": "Up to 20 years, commencing in 2026",
+        "firstDue": "2027",
+        "estimate": "$11,000,000 principal; $76 for each $100,000 of the county auditor's market value"
+      },
+      "text": "Shall bonds be issued by the Margaretta Local School District for the purpose of constructing a natatorium and fitness/multipurpose center; furnishing and equipping the same as necessary; and improving the sites thereof in the principal amount of $11,000,000, to be repaid annually over a maximum period of 20 years, and an annual levy of property taxes be made outside the 10-mill limitation, estimated by the county auditor to average over the repayment period of the bond issue 2.15 mills for each $1 of taxable value, which amounts to $76 for each $100,000 of the county auditor's market value, commencing in 2026, first due in calendar year 2027, to pay the annual debt charges on the bonds, and to pay debt charges on any notes issued in anticipation of those bonds?",
+      "sources": [
+        "sandusky-46day",
+        "sandusky-issues"
+      ]
+    },
+    {
+      "id": "old-fort-schools",
+      "kind": "levy",
+      "jurisdiction": "Old Fort Local School District (Seneca and Sandusky)",
+      "title": "Tax levy (renewal): Current operating expenses and general permanent improvements",
+      "area": "Old Fort Local School District, Sandusky County part (Ballville A, part)",
+      "places": [
+        "Ballville Township"
+      ],
+      "levy": {
+        "type": "Renewal",
+        "purpose": "Current operating expenses and general permanent improvements.",
+        "mills": "6.3 mills (4.30 mills current operating, 2.00 mills permanent improvements)",
+        "term": "5 years, commencing in 2027",
+        "firstDue": "2028",
+        "estimate": "$528,626 a year; $111 for each $100,000 of the county auditor's market value"
+      },
+      "note": "The county auditor certified the district's carry-over balance in excess of the preceding year's general fund expenditures as $0 (0%).",
+      "sources": [
+        "sandusky-46day",
+        "sandusky-issues"
+      ]
+    },
+    {
+      "id": "park-district",
+      "kind": "levy",
+      "jurisdiction": "Sandusky County Park District",
+      "title": "Tax levy (renewal): Parks and recreation",
+      "area": "Sandusky County Park District",
+      "levy": {
+        "type": "Renewal",
+        "purpose": "Parks and recreation.",
+        "mills": "1 mill",
+        "term": "10 years, commencing in 2027",
+        "firstDue": "2028",
+        "estimate": "$1,461,911 a year; $20 for each $100,000 of the county auditor's market value"
+      },
+      "sources": [
+        "sandusky-46day",
+        "sandusky-issues"
+      ]
+    },
+    {
+      "id": "criminal-justice",
+      "kind": "levy",
+      "jurisdiction": "Sandusky County",
+      "title": "Tax levy (renewal): County criminal justice services",
+      "area": "Sandusky County",
+      "levy": {
+        "type": "Renewal",
+        "purpose": "County criminal justice services.",
+        "mills": "0.55 mill",
+        "term": "5 years, commencing in 2027",
+        "firstDue": "2028",
+        "estimate": "$857,563 a year; $14 for each $100,000 of the county auditor's market value"
+      },
+      "sources": [
+        "sandusky-46day",
+        "sandusky-issues"
+      ]
+    },
+    {
+      "id": "sandusky-twp-fire",
+      "kind": "levy",
+      "jurisdiction": "Sandusky Township",
+      "title": "Tax levy (renewal): Fire protection",
+      "area": "Sandusky Township (Sandusky A to D)",
+      "places": [
+        "Sandusky Township"
+      ],
+      "levy": {
+        "type": "Renewal",
+        "purpose": "Fire protection.",
+        "mills": "1 mill",
+        "term": "5 years, commencing in 2027",
+        "firstDue": "2028",
+        "estimate": "$124,069 a year; $21 for each $100,000 of the county auditor's market value"
+      },
+      "sources": [
+        "sandusky-46day",
+        "sandusky-issues"
+      ]
+    },
+    {
+      "id": "scott-fire",
+      "kind": "levy",
+      "jurisdiction": "Scott Township",
+      "title": "Tax levy (renewal and increase): Fire protection",
+      "area": "Scott Township",
+      "places": [
+        "Scott Township"
+      ],
+      "levy": {
+        "type": "Renewal and increase",
+        "purpose": "Fire protection.",
+        "mills": "2 mills (renewal of 1 mill and increase of 1 mill)",
+        "term": "5 years, commencing in 2026",
+        "firstDue": "2027",
+        "estimate": "$75,535 a year; $42 for each $100,000 of the county auditor's market value"
+      },
+      "sources": [
+        "sandusky-46day",
+        "sandusky-issues"
+      ]
+    },
+    {
+      "id": "scott-refuse",
+      "kind": "levy",
+      "jurisdiction": "Scott Township",
+      "title": "Tax levy (renewal): Refuse collection",
+      "area": "Scott Township",
+      "places": [
+        "Scott Township"
+      ],
+      "levy": {
+        "type": "Renewal",
+        "purpose": "Refuse collection.",
+        "mills": "0.5 mill",
+        "term": "5 years, commencing in 2026",
+        "firstDue": "2027",
+        "estimate": "$16,952 a year; $9 for each $100,000 of the county auditor's market value"
+      },
+      "sources": [
+        "sandusky-46day",
+        "sandusky-issues"
+      ]
+    },
+    {
+      "id": "townsend-roads",
+      "kind": "levy",
+      "jurisdiction": "Townsend Township",
+      "title": "Tax levy (renewal): General construction, reconstruction, resurfacing and repair of streets, roads and bridges",
+      "area": "Townsend Township",
+      "places": [
+        "Townsend Township"
+      ],
+      "levy": {
+        "type": "Renewal",
+        "purpose": "General construction, reconstruction, resurfacing and repair of streets, roads and bridges.",
+        "mills": "1.5 mills",
+        "term": "5 years, commencing in 2027",
+        "firstDue": "2028",
+        "estimate": "$140,362 a year; $37 for each $100,000 of the county auditor's market value"
+      },
+      "sources": [
+        "sandusky-46day",
+        "sandusky-issues"
+      ]
+    },
+    {
+      "id": "woodville-twp-cemetery",
+      "kind": "levy",
+      "jurisdiction": "Woodville Township (including the Village of Woodville)",
+      "title": "Tax levy (renewal): Cemetery maintenance",
+      "area": "Woodville Township and Woodville Village (Woodville Twp., Woodville Vlg. A and B)",
+      "places": [
+        "Woodville Township",
+        "Woodville Village"
+      ],
+      "levy": {
+        "type": "Renewal",
+        "purpose": "Cemetery maintenance.",
+        "mills": "0.5 mill",
+        "term": "5 years, commencing in 2026",
+        "firstDue": "2027",
+        "estimate": "$54,243 a year; $11 for each $100,000 of the county auditor's market value"
+      },
+      "sources": [
+        "sandusky-46day",
+        "sandusky-issues"
+      ]
+    },
+    {
+      "id": "woodville-village-current",
+      "kind": "levy",
+      "jurisdiction": "Village of Woodville",
+      "title": "Tax levy (renewal): Current expenses",
+      "area": "Woodville Village (Woodville Vlg. A and B)",
+      "places": [
+        "Woodville Village"
+      ],
+      "levy": {
+        "type": "Renewal",
+        "purpose": "Current expenses.",
+        "mills": "9.4 mills",
+        "term": "5 years, commencing in 2026",
+        "firstDue": "2027",
+        "estimate": "$330,150 a year; $210 for each $100,000 of the county auditor's market value"
+      },
+      "sources": [
+        "sandusky-46day",
+        "sandusky-issues"
+      ]
+    }
+  ]
+}
