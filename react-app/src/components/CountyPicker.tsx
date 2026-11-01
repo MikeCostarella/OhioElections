@@ -6,7 +6,7 @@ interface Props {
   onPick: (slug: string) => void;
 }
 
-/** All 88 counties; the ones with local ballot data are marked and listed first. */
+/** All 88 counties; any without local ballot data yet are marked "Statewide ballot" and listed last. */
 export default function CountyPicker({ loaded, onPick }: Props) {
   const [q, setQ] = useState("");
   const list = COUNTIES.filter((c) => c.name.toLowerCase().includes(q.trim().toLowerCase()));
@@ -18,7 +18,7 @@ export default function CountyPicker({ loaded, onPick }: Props) {
         {[...list].sort((a, b) => Number(loaded.includes(b.slug)) - Number(loaded.includes(a.slug)) || a.name.localeCompare(b.name)).map((c) => (
           <button key={c.fips} type="button" className={`county-btn${loaded.includes(c.slug) ? " full" : ""}`} onClick={() => onPick(c.slug)}>
             {c.name}
-            <span className="sub">{loaded.includes(c.slug) ? "Full ballot" : "Statewide ballot"}</span>
+            {!loaded.includes(c.slug) && <span className="sub">Statewide ballot</span>}
           </button>
         ))}
       </div>

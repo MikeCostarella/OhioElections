@@ -1,4 +1,5 @@
 import { SOS } from "../data/load";
+import { COUNTIES } from "../data/counties";
 
 export default function About({ loadedCounties }: { loadedCounties: string[] }) {
   return (
@@ -9,7 +10,9 @@ export default function About({ loadedCounties }: { loadedCounties: string[] }) 
       <ul>
         <li>Statewide races and issues: from the Board of Elections' election notice (Secretary of State Form 120), which every county posts.</li>
         <li>County and local races and issues: from that county's Board of Elections' candidate list, issues list and election notice. Every entry links to the document it came from.</li>
-        <li>Counties with local data so far: <b>{loadedCounties.length ? loadedCounties.join(", ") : "none"}</b>. Other counties show the statewide ballot and a link to their Board.</li>
+        {loadedCounties.length >= COUNTIES.length
+          ? <li>All {COUNTIES.length} Ohio counties have their full ballot here: statewide, county and local.</li>
+          : <li>Counties with local data so far: <b>{loadedCounties.length ? loadedCounties.join(", ") : "none"}</b>. Other counties show the statewide ballot and a link to their Board.</li>}
       </ul>
       <h2>How it is presented</h2>
       <ul>

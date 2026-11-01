@@ -245,3 +245,9 @@ Data notes:
 # Oct 30, 2026 (candidate search)
 
 - Clicking a candidate's name opens a Google search for that person in a new tab. The search adds the office and "Ohio", and for county and local races the county name, so common names find the right person. Joint tickets (Governor / Lt. Governor) get a separate link for each name. Names look the same as before until hovered.
+
+# Nov 1, 2026 (county picker cleanup)
+
+- County tiles no longer say "Full ballot": every county has one now. A county without local data would still show "Statewide ballot", so the label comes back only where it means something (for example, while a future election is being loaded).
+- The county dropdown's "●" marker (county has local data) only shows while some counties are still statewide-only.
+- About page says all 88 counties have their full ballot, instead of listing every county name.

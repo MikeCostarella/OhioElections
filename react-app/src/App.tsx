@@ -105,7 +105,7 @@ export default function App() {
           <label className="pick">County{" "}
             <select value={county?.slug ?? ""} onChange={(e) => go({ slug: e.target.value, place: "", view: route.view === "about" ? "ballot" : route.view })}>
               <option value="">Choose…</option>
-              {COUNTIES.map((c) => <option key={c.slug} value={c.slug}>{c.name}{loaded.includes(c.slug) ? " ●" : ""}</option>)}
+              {COUNTIES.map((c) => <option key={c.slug} value={c.slug}>{c.name}{loaded.includes(c.slug) && loaded.length < COUNTIES.length ? " ●" : ""}</option>)}
             </select>
           </label>
           {elections.length > 1 && (
