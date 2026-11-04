@@ -1,5 +1,13 @@
 # Changes
 
+# Nov 4, 2026 — Results view
+
+- The Results tab is now a results page. Stat tiles: ballots cast of registered, turnout against the statewide figure, Election Day precincts, report time with the source link, and a link to the county's Voters app. Then every race in a table — leader (party, "unopposed"), votes, share, margin in votes and points (orange under 2 points), runner-up, and a Statewide column from the Secretary of State's file showing the statewide leader and share, flagged "county differs" when the county's leader is not the statewide one. Then every issue — yes/no votes and shares, margin in points, a Passing/Failing pill (Passed/Failed once official), and the statewide yes share for State Issue 3.
+- "Ballot order" / "Closest first" toggle; closest sorts races by margin in points and issues by distance from 50%.
+- Language follows status: "Leading"/"Passing" while unofficial, "Winner"/"Passed" once a county's file is official. The page never calls a race.
+- The statewide file (`results/state/<election>.json`, 188 KB) is loaded only when the Results tab opens; `loadStateResults` in `load.ts`; `counties` fields added to the result types. Counties with no totals keep the old "where the results are published" page.
+
+
 # Nov 4, 2026 — statewide results feed (all 88 counties)
 
 - `tools/results/sos.py`: the Secretary of State's election-night API ("Ohio Decides", liveresults.ohiosos.gov) — `GetContestsByCounty` for each of the 88 counties plus the contest list and the election summary CSV. Every county now has a results file with its statewide offices, Supreme Court seats, U.S. Senate and House, Court of Appeals and General Assembly races and State Issue 3, with registered voters, ballots counted, turnout and precincts from the summary CSV. Trumbull and Mahoning keep their Board files (local races and issues); the SoS numbers for them matched the Boards' reports exactly.

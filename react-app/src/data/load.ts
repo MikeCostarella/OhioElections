@@ -24,6 +24,14 @@ export async function loadResults(slug: string, election: string): Promise<Resul
   return (await r.json()) as ResultsFile;
 }
 
+/** Statewide totals (results/state/<election>.json, from the Secretary of State's feed); null when not published yet. */
+export async function loadStateResults(election: string): Promise<ResultsFile | null> {
+  const r = await fetch(`${base}data/results/state/${election}.json?t=${Date.now()}`, { cache: "no-store" });
+  if (r.status === 404) return null;
+  if (!r.ok) throw new Error(`results/state/${election}: HTTP ${r.status}`);
+  return (await r.json()) as ResultsFile;
+}
+
 /** How often the app re-reads the results file while a count is still unofficial. */
 export const RESULTS_POLL_MS = 2 * 60 * 1000;
 
@@ -35,6 +43,7 @@ export function shortTime(iso: string): string {
 
 export const fmtInt = (n: number) => n.toLocaleString("en-US");
 export const pct = (n: number, total: number) => (total > 0 ? `${((100 * n) / total).toFixed(1)}%` : "");
+export const share = (n: number, total: number) => (total > 0 ? (100 * n) / total : 0);
 
 /** "Tuesday, November 3, 2026" from YYYY-MM-DD, without time-zone drift. */
 export function longDate(ymd: string): string {

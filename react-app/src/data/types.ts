@@ -94,6 +94,8 @@ export interface ContestResult {
   total: number;
   writeIn?: number;
   candidates: CandidateResult[];
+  /** In the statewide file only: each county's numbers, by county slug. */
+  counties?: Record<string, { total: number; candidates: CandidateResult[] }>;
 }
 
 export interface IssueResult {
@@ -103,6 +105,8 @@ export interface IssueResult {
   /** The Board's wording: "FOR THE TAX LEVY" / "AGAINST THE TAX LEVY", "YES" / "NO"... */
   yesLabel?: string;
   noLabel?: string;
+  /** In the statewide file only: each county's numbers, by county slug. */
+  counties?: Record<string, { total: number; yes: number; no: number }>;
 }
 
 export interface ResultsFile {

@@ -192,7 +192,7 @@ export default function App() {
         {county && route.view === "ballot" && (state && (!hasLocal || local)
           ? <BallotView county={county} state={state} local={local} place={place} results={results} />
           : !error && <p className="note">Loading…</p>)}
-        {county && route.view === "results" && election && <ResultsView county={county} election={election} local={local} results={results} />}
+        {county && route.view === "results" && election && <ResultsView county={county} election={election} state={state} local={local} results={results} />}
       </main>
       <BuildStamp />
     </div>
