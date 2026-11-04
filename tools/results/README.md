@@ -32,3 +32,26 @@ The results file's `status` is `unofficial` until the Board certifies; set it to
 1. Find the Board's election-night report. The Summary Results Report PDF parses as is; for an HTML results page or a Clarity/ENR JSON feed, add a reader to `lib.py` that yields the same `Block`s.
 2. Copy `trumbull.py`, set `URL`/`SOURCE`, and fill `TITLES` from the report's contest titles — the ids are in `react-app/public/data/county/<county>/<election>.json`.
 3. Run it once with `--text` or `--pdf`, fix anything in `unmatched`, and add the module to `run.py`.
+
+## Notes for future elections (learned Nov 3–4, 2026)
+
+**Getting at the reports.** Both Boards' sites refuse non-browser clients: `lib.fetch` got HTTP 403 from the cloud session *and* from the proxied shell on lvp-01, so every refresh on election night went through Chrome — open any page on the Board's own site, run `pdfjs-dump.js` in the console (Claude in Chrome's javascript tool works too), copy the `<main id="pdftext">` text to `downloads/<county>.txt`, run `<county>.py --text`. Whether the GitHub Actions runner is refused too is untested; the workflow just logs "skipped" if so. A results refresh is therefore a hands-on step, not a cron: plan for it.
+
+**Per-county report locations and timing (2026 general):**
+
+| County | Where the report is | Format | Posted |
+|---|---|---|---|
+| Trumbull | `https://boe.co.trumbull.oh.gov/pdfs/Election%20Summary.pdf` — same URL overwritten through the night; `HEAD` it and compare `Last-Modified` before parsing. Appears on the Election Results page as a dated PDF only after the canvass. | Summary Results Report PDF; a one-page second report (a late-added question) is appended as the last page | 7:36 PM absentee/early (0 of 158 precincts); 10:01 PM all 158 precincts |
+| Mahoning | Home page `https://vote.mahoningcountyoh.gov/` → "Final Unofficial" link into the Document Center (`/DocumentCenter/View/<n>/Final-Unofficial`; `<n>` changes per election — 2678 this time) | Summary Results Report PDF, no "Total Votes Cast" rows, titles prefixed "For", duplicate judge titles | 9:22 PM, all 212 precincts (file dated 6:06 AM next day) |
+
+**Parser gotchas seen so far** (all handled in `lib.py`; check a new county's dump for others):
+- A long candidate name wraps as name / numbers / rest-of-name (Mahoning's Ramaswamy/McColley).
+- Rows with no votes yet print `For the Tax Levy | 0` with no per cent; titles can end in a number (`AUS 17`), so a per-cent-less row needs the pipe.
+- Party codes vary: `OTHER` (Trumbull) vs `OPC` (Mahoning) for the same candidate; `lib.PARTIES` lists them.
+- The report's candidate names differ from the ballot file's (`David P. Joyce` vs `David Joyce`, `and` vs `/` for tickets, truncation): matching is by the first person's last name.
+- A Board may run one ballot-file issue as two report blocks (weekly and Sunday liquor options): map one and `lib.IGNORE` the other, and note it in CHANGES.md.
+- The statewide ballot file can list a candidate a county's tabulator omits (Aidan Michael Jeffery in Trumbull): the app shows "No total reported yet", which is right.
+
+**Statewide feed.** Not done yet. The Secretary of State's election-night site (electionresults.ohiosos.gov) reports every county's totals for the statewide races; one fetcher there would fill `results/state/<election>.json` for all 88 counties. Its data format was not checked — the site refuses scripted fetches too, so look at it in Chrome first.
+
+**Status changes.** Re-run each county on the certified report after the canvass (the header says OFFICIAL RESULTS) so `status` flips to `official` and the app stops polling.
