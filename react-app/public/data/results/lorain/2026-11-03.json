@@ -1,0 +1,244 @@
+{
+  "scope": "county",
+  "county": "Lorain",
+  "election": "2026-11-03",
+  "status": "unofficial",
+  "asOf": "2026-11-04T12:17:59-05:00",
+  "source": {
+    "label": "Ohio Secretary of State: election night reporting (unofficial)",
+    "url": "https://liveresults.ohiosos.gov/"
+  },
+  "contests": {
+    "governor": {
+      "total": 129692,
+      "candidates": [
+        {
+          "name": "Amy Acton / David Pepper",
+          "votes": 71675
+        },
+        {
+          "name": "Don Kissick / James L. Mills",
+          "votes": 4491
+        },
+        {
+          "name": "Vivek Ramaswamy / Robert A. McColley",
+          "votes": 53526
+        }
+      ]
+    },
+    "attorney-general": {
+      "total": 127287,
+      "candidates": [
+        {
+          "name": "Keith Faber",
+          "votes": 59305
+        },
+        {
+          "name": "John J. Kulewicz",
+          "votes": 67982
+        }
+      ]
+    },
+    "auditor-of-state": {
+      "total": 127650,
+      "candidates": [
+        {
+          "name": "Annette Blackwell",
+          "votes": 66354
+        },
+        {
+          "name": "Frank LaRose",
+          "votes": 61296
+        }
+      ]
+    },
+    "secretary-of-state": {
+      "total": 127578,
+      "candidates": [
+        {
+          "name": "Tom Pruss",
+          "votes": 3837
+        },
+        {
+          "name": "Allison Russo",
+          "votes": 68419
+        },
+        {
+          "name": "Robert Sprague",
+          "votes": 55322
+        }
+      ]
+    },
+    "treasurer-of-state": {
+      "total": 126379,
+      "candidates": [
+        {
+          "name": "Jay Edwards",
+          "votes": 58566
+        },
+        {
+          "name": "Seth Walsh",
+          "votes": 67813
+        }
+      ]
+    },
+    "supreme-court-2027-01-01": {
+      "total": 126463,
+      "candidates": [
+        {
+          "name": "Daniel R. Hawkins",
+          "votes": 57719
+        },
+        {
+          "name": "Marilyn Zayas",
+          "votes": 68744
+        }
+      ]
+    },
+    "supreme-court-2027-01-02": {
+      "total": 127046,
+      "candidates": [
+        {
+          "name": "Jennifer Brunner",
+          "votes": 69078
+        },
+        {
+          "name": "Colleen O'Donnell",
+          "votes": 57968
+        }
+      ]
+    },
+    "us-senate": {
+      "total": 129806,
+      "candidates": [
+        {
+          "name": "Sherrod Brown",
+          "votes": 69179
+        },
+        {
+          "name": "Jon Husted",
+          "votes": 54610
+        },
+        {
+          "name": "Greg Levy",
+          "votes": 2438
+        },
+        {
+          "name": "William B. Redpath",
+          "votes": 3579
+        }
+      ]
+    },
+    "congress-5": {
+      "total": 127468,
+      "candidates": [
+        {
+          "name": "Bob Latta",
+          "votes": 57199
+        },
+        {
+          "name": "Brian A. Shaver",
+          "votes": 67018
+        },
+        {
+          "name": "Michael J. Veloff",
+          "votes": 3251
+        }
+      ]
+    },
+    "appeals-9-0209": {
+      "total": 126769,
+      "candidates": [
+        {
+          "name": "Cynthia Curtin",
+          "votes": 55033
+        },
+        {
+          "name": "Betty Sutton",
+          "votes": 71736
+        }
+      ]
+    },
+    "appeals-9-0210": {
+      "total": 126264,
+      "candidates": [
+        {
+          "name": "Tavia Galonski",
+          "votes": 63629
+        },
+        {
+          "name": "Nathan Manning",
+          "votes": 62635
+        }
+      ]
+    },
+    "senate-13": {
+      "total": 128190,
+      "candidates": [
+        {
+          "name": "Gayle Manning",
+          "votes": 62201
+        },
+        {
+          "name": "Joe Miller",
+          "votes": 65989
+        }
+      ]
+    },
+    "rep-52": {
+      "total": 51458,
+      "candidates": [
+        {
+          "name": "Mike Baker",
+          "votes": 28230
+        },
+        {
+          "name": "Cliff Winkel",
+          "votes": 23228
+        }
+      ]
+    },
+    "rep-53": {
+      "total": 44547,
+      "candidates": [
+        {
+          "name": "Bradley Lacko",
+          "votes": 17523
+        },
+        {
+          "name": "Matt Lundy",
+          "votes": 27024
+        }
+      ]
+    },
+    "rep-54": {
+      "total": 31202,
+      "candidates": [
+        {
+          "name": "Brenda Buchanan",
+          "votes": 14025
+        },
+        {
+          "name": "Kellie Deeter",
+          "votes": 17177
+        }
+      ]
+    }
+  },
+  "issues": {
+    "state-issue-3": {
+      "total": 128507,
+      "yes": 80863,
+      "no": 47644,
+      "yesLabel": "Yes",
+      "noLabel": "No"
+    }
+  },
+  "registered": 217346,
+  "ballotsCast": 131571,
+  "turnout": 60.54,
+  "precincts": {
+    "reporting": 210,
+    "total": 210
+  }
+}

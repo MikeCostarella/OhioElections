@@ -1,0 +1,257 @@
+{
+  "scope": "county",
+  "county": "Montgomery",
+  "election": "2026-11-03",
+  "status": "unofficial",
+  "asOf": "2026-11-04T12:17:59-05:00",
+  "source": {
+    "label": "Ohio Secretary of State: election night reporting (unofficial)",
+    "url": "https://liveresults.ohiosos.gov/"
+  },
+  "contests": {
+    "governor": {
+      "total": 202332,
+      "candidates": [
+        {
+          "name": "Amy Acton / David Pepper",
+          "votes": 116335
+        },
+        {
+          "name": "Don Kissick / James L. Mills",
+          "votes": 6092
+        },
+        {
+          "name": "Vivek Ramaswamy / Robert A. McColley",
+          "votes": 79905
+        }
+      ]
+    },
+    "attorney-general": {
+      "total": 200795,
+      "candidates": [
+        {
+          "name": "Keith Faber",
+          "votes": 88777
+        },
+        {
+          "name": "John J. Kulewicz",
+          "votes": 112018
+        }
+      ]
+    },
+    "auditor-of-state": {
+      "total": 200595,
+      "candidates": [
+        {
+          "name": "Annette Blackwell",
+          "votes": 110621
+        },
+        {
+          "name": "Frank LaRose",
+          "votes": 89974
+        }
+      ]
+    },
+    "secretary-of-state": {
+      "total": 200869,
+      "candidates": [
+        {
+          "name": "Tom Pruss",
+          "votes": 6088
+        },
+        {
+          "name": "Allison Russo",
+          "votes": 111842
+        },
+        {
+          "name": "Robert Sprague",
+          "votes": 82939
+        }
+      ]
+    },
+    "treasurer-of-state": {
+      "total": 199816,
+      "candidates": [
+        {
+          "name": "Jay Edwards",
+          "votes": 86823
+        },
+        {
+          "name": "Seth Walsh",
+          "votes": 112993
+        }
+      ]
+    },
+    "supreme-court-2027-01-01": {
+      "total": 199591,
+      "candidates": [
+        {
+          "name": "Daniel R. Hawkins",
+          "votes": 86086
+        },
+        {
+          "name": "Marilyn Zayas",
+          "votes": 113505
+        }
+      ]
+    },
+    "supreme-court-2027-01-02": {
+      "total": 199761,
+      "candidates": [
+        {
+          "name": "Jennifer Brunner",
+          "votes": 114371
+        },
+        {
+          "name": "Colleen O'Donnell",
+          "votes": 85390
+        }
+      ]
+    },
+    "us-senate": {
+      "total": 202829,
+      "candidates": [
+        {
+          "name": "Sherrod Brown",
+          "votes": 111957
+        },
+        {
+          "name": "Jon Husted",
+          "votes": 81630
+        },
+        {
+          "name": "Greg Levy",
+          "votes": 3897
+        },
+        {
+          "name": "William B. Redpath",
+          "votes": 5345
+        }
+      ]
+    },
+    "congress-10": {
+      "total": 202359,
+      "candidates": [
+        {
+          "name": "Kristina Knickerbocker",
+          "votes": 107818
+        },
+        {
+          "name": "Thomas F. McMasters",
+          "votes": 5781
+        },
+        {
+          "name": "Mike Turner",
+          "votes": 88760
+        }
+      ]
+    },
+    "appeals-2-0209": {
+      "total": 118448,
+      "candidates": [
+        {
+          "name": "Chris Epley",
+          "votes": 118448
+        }
+      ]
+    },
+    "senate-5": {
+      "total": 66652,
+      "candidates": [
+        {
+          "name": "Jeffrey Harris",
+          "votes": 29722
+        },
+        {
+          "name": "Phil Plummer",
+          "votes": 36930
+        }
+      ]
+    },
+    "rep-36": {
+      "total": 46318,
+      "candidates": [
+        {
+          "name": "Chuck Horn",
+          "votes": 1095
+        },
+        {
+          "name": "Rose Lounsbury",
+          "votes": 25727
+        },
+        {
+          "name": "Andrea White",
+          "votes": 19496
+        }
+      ]
+    },
+    "rep-37": {
+      "total": 52320,
+      "candidates": [
+        {
+          "name": "Tom Herner",
+          "votes": 26227
+        },
+        {
+          "name": "Tom Young",
+          "votes": 26093
+        }
+      ]
+    },
+    "rep-38": {
+      "total": 30408,
+      "candidates": [
+        {
+          "name": "Desiree Tims",
+          "votes": 30408
+        }
+      ]
+    },
+    "rep-39": {
+      "total": 43896,
+      "candidates": [
+        {
+          "name": "Mark Campbell",
+          "votes": 21219
+        },
+        {
+          "name": "Daquan Neal",
+          "votes": 22677
+        }
+      ]
+    },
+    "rep-40": {
+      "total": 22176,
+      "candidates": [
+        {
+          "name": "Rodney Creech",
+          "votes": 13825
+        },
+        {
+          "name": "Timothy B. Hornbacker",
+          "votes": 7312
+        },
+        {
+          "name": "Joshua A. Umbaugh",
+          "votes": 1039
+        }
+      ]
+    }
+  },
+  "issues": {
+    "state-issue-3": {
+      "total": 200205,
+      "yes": 119162,
+      "no": 81043,
+      "yesLabel": "Yes",
+      "noLabel": "No"
+    }
+  },
+  "registered": 365477,
+  "ballotsCast": 204603,
+  "turnout": 55.98,
+  "precincts": {
+    "reporting": 381,
+    "total": 381
+  }
+}

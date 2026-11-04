@@ -1,0 +1,197 @@
+{
+  "scope": "county",
+  "county": "Putnam",
+  "election": "2026-11-03",
+  "status": "unofficial",
+  "asOf": "2026-11-04T12:17:59-05:00",
+  "source": {
+    "label": "Ohio Secretary of State: election night reporting (unofficial)",
+    "url": "https://liveresults.ohiosos.gov/"
+  },
+  "contests": {
+    "governor": {
+      "total": 15368,
+      "candidates": [
+        {
+          "name": "Amy Acton / David Pepper",
+          "votes": 2996
+        },
+        {
+          "name": "Don Kissick / James L. Mills",
+          "votes": 691
+        },
+        {
+          "name": "Vivek Ramaswamy / Robert A. McColley",
+          "votes": 11681
+        }
+      ]
+    },
+    "attorney-general": {
+      "total": 15311,
+      "candidates": [
+        {
+          "name": "Keith Faber",
+          "votes": 12832
+        },
+        {
+          "name": "John J. Kulewicz",
+          "votes": 2479
+        }
+      ]
+    },
+    "auditor-of-state": {
+      "total": 15284,
+      "candidates": [
+        {
+          "name": "Annette Blackwell",
+          "votes": 2617
+        },
+        {
+          "name": "Frank LaRose",
+          "votes": 12667
+        }
+      ]
+    },
+    "secretary-of-state": {
+      "total": 15293,
+      "candidates": [
+        {
+          "name": "Tom Pruss",
+          "votes": 379
+        },
+        {
+          "name": "Allison Russo",
+          "votes": 2619
+        },
+        {
+          "name": "Robert Sprague",
+          "votes": 12295
+        }
+      ]
+    },
+    "treasurer-of-state": {
+      "total": 15203,
+      "candidates": [
+        {
+          "name": "Jay Edwards",
+          "votes": 12512
+        },
+        {
+          "name": "Seth Walsh",
+          "votes": 2691
+        }
+      ]
+    },
+    "supreme-court-2027-01-01": {
+      "total": 15203,
+      "candidates": [
+        {
+          "name": "Daniel R. Hawkins",
+          "votes": 12504
+        },
+        {
+          "name": "Marilyn Zayas",
+          "votes": 2699
+        }
+      ]
+    },
+    "supreme-court-2027-01-02": {
+      "total": 15195,
+      "candidates": [
+        {
+          "name": "Jennifer Brunner",
+          "votes": 2786
+        },
+        {
+          "name": "Colleen O'Donnell",
+          "votes": 12409
+        }
+      ]
+    },
+    "us-senate": {
+      "total": 15397,
+      "candidates": [
+        {
+          "name": "Sherrod Brown",
+          "votes": 2767
+        },
+        {
+          "name": "Jon Husted",
+          "votes": 11891
+        },
+        {
+          "name": "Greg Levy",
+          "votes": 301
+        },
+        {
+          "name": "William B. Redpath",
+          "votes": 438
+        }
+      ]
+    },
+    "congress-9": {
+      "total": 15261,
+      "candidates": [
+        {
+          "name": "Marcy Kaptur",
+          "votes": 3042
+        },
+        {
+          "name": "Derek Merrin",
+          "votes": 12219
+        }
+      ]
+    },
+    "appeals-3-0209": {
+      "total": 13178,
+      "candidates": [
+        {
+          "name": "Mark C. Miller",
+          "votes": 13178
+        }
+      ]
+    },
+    "senate-1": {
+      "total": 13067,
+      "candidates": [
+        {
+          "name": "Craig S. Riedel",
+          "votes": 13067
+        }
+      ]
+    },
+    "rep-82": {
+      "total": 15204,
+      "candidates": [
+        {
+          "name": "Christopher Elder",
+          "votes": 456
+        },
+        {
+          "name": "Roy W. Klopfenstein",
+          "votes": 12282
+        },
+        {
+          "name": "Maddux McCray",
+          "votes": 2466
+        }
+      ]
+    }
+  },
+  "issues": {
+    "state-issue-3": {
+      "total": 15299,
+      "yes": 13299,
+      "no": 2000,
+      "yesLabel": "Yes",
+      "noLabel": "No"
+    }
+  },
+  "registered": 23637,
+  "ballotsCast": 15545,
+  "turnout": 65.77,
+  "precincts": {
+    "reporting": 25,
+    "total": 25
+  }
+}

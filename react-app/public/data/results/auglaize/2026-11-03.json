@@ -1,0 +1,201 @@
+{
+  "scope": "county",
+  "county": "Auglaize",
+  "election": "2026-11-03",
+  "status": "unofficial",
+  "asOf": "2026-11-04T12:17:59-05:00",
+  "source": {
+    "label": "Ohio Secretary of State: election night reporting (unofficial)",
+    "url": "https://liveresults.ohiosos.gov/"
+  },
+  "contests": {
+    "governor": {
+      "total": 19220,
+      "candidates": [
+        {
+          "name": "Amy Acton / David Pepper",
+          "votes": 4244
+        },
+        {
+          "name": "Don Kissick / James L. Mills",
+          "votes": 870
+        },
+        {
+          "name": "Vivek Ramaswamy / Robert A. McColley",
+          "votes": 14106
+        }
+      ]
+    },
+    "attorney-general": {
+      "total": 19195,
+      "candidates": [
+        {
+          "name": "Keith Faber",
+          "votes": 15600
+        },
+        {
+          "name": "John J. Kulewicz",
+          "votes": 3595
+        }
+      ]
+    },
+    "auditor-of-state": {
+      "total": 19159,
+      "candidates": [
+        {
+          "name": "Annette Blackwell",
+          "votes": 3798
+        },
+        {
+          "name": "Frank LaRose",
+          "votes": 15361
+        }
+      ]
+    },
+    "secretary-of-state": {
+      "total": 19162,
+      "candidates": [
+        {
+          "name": "Tom Pruss",
+          "votes": 535
+        },
+        {
+          "name": "Allison Russo",
+          "votes": 3841
+        },
+        {
+          "name": "Robert Sprague",
+          "votes": 14786
+        }
+      ]
+    },
+    "treasurer-of-state": {
+      "total": 19046,
+      "candidates": [
+        {
+          "name": "Jay Edwards",
+          "votes": 15138
+        },
+        {
+          "name": "Seth Walsh",
+          "votes": 3908
+        }
+      ]
+    },
+    "supreme-court-2027-01-01": {
+      "total": 19042,
+      "candidates": [
+        {
+          "name": "Daniel R. Hawkins",
+          "votes": 15076
+        },
+        {
+          "name": "Marilyn Zayas",
+          "votes": 3966
+        }
+      ]
+    },
+    "supreme-court-2027-01-02": {
+      "total": 19016,
+      "candidates": [
+        {
+          "name": "Jennifer Brunner",
+          "votes": 4010
+        },
+        {
+          "name": "Colleen O'Donnell",
+          "votes": 15006
+        }
+      ]
+    },
+    "us-senate": {
+      "total": 19243,
+      "candidates": [
+        {
+          "name": "Sherrod Brown",
+          "votes": 3950
+        },
+        {
+          "name": "Jon Husted",
+          "votes": 14223
+        },
+        {
+          "name": "Greg Levy",
+          "votes": 379
+        },
+        {
+          "name": "William B. Redpath",
+          "votes": 691
+        }
+      ]
+    },
+    "congress-4": {
+      "total": 19246,
+      "candidates": [
+        {
+          "name": "Jim Jordan",
+          "votes": 15089
+        },
+        {
+          "name": "Joshua D. Kolasinski",
+          "votes": 3729
+        },
+        {
+          "name": "Tracey L. Tackett",
+          "votes": 428
+        }
+      ]
+    },
+    "appeals-3-0209": {
+      "total": 16232,
+      "candidates": [
+        {
+          "name": "Mark C. Miller",
+          "votes": 16232
+        }
+      ]
+    },
+    "rep-78": {
+      "total": 4755,
+      "candidates": [
+        {
+          "name": "Jeffrey R. Givan",
+          "votes": 828
+        },
+        {
+          "name": "Matt Huffman",
+          "votes": 3927
+        }
+      ]
+    },
+    "rep-84": {
+      "total": 14324,
+      "candidates": [
+        {
+          "name": "Arienne C. Childrey",
+          "votes": 2901
+        },
+        {
+          "name": "Angie King",
+          "votes": 11423
+        }
+      ]
+    }
+  },
+  "issues": {
+    "state-issue-3": {
+      "total": 19159,
+      "yes": 16331,
+      "no": 2828,
+      "yesLabel": "Yes",
+      "noLabel": "No"
+    }
+  },
+  "registered": 31951,
+  "ballotsCast": 19407,
+  "turnout": 60.74,
+  "precincts": {
+    "reporting": 42,
+    "total": 42
+  }
+}

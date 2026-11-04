@@ -60,6 +60,10 @@
     "tuscarawas-candiss": {
       "label": "Tuscarawas County Board of Elections: official filings (certified candidates and issues), November 3, 2026 General Election",
       "url": "https://www.boe.ohio.gov/tuscarawas/c/upload/election_candiss.pdf"
+    },
+    "sos-enr": {
+      "label": "Ohio Secretary of State: election night reporting, November 3, 2026 General Election (Tuscarawas County)",
+      "url": "https://liveresults.ohiosos.gov/"
     }
   },
   "links": [
@@ -144,6 +148,21 @@
       "sources": [
         "tuscarawas-46day",
         "tuscarawas-candiss"
+      ]
+    },
+    {
+      "id": "appeals-5-0209",
+      "group": "Ohio Court of Appeals",
+      "office": "Judge of the Court of Appeals",
+      "detail": "5th District · full term commencing February 9, 2027",
+      "candidates": [
+        {
+          "name": "Matthew George",
+          "party": "REP"
+        }
+      ],
+      "sources": [
+        "sos-enr"
       ]
     },
     {

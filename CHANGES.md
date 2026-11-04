@@ -1,5 +1,14 @@
 # Changes
 
+# Nov 4, 2026 — statewide results feed (all 88 counties)
+
+- `tools/results/sos.py`: the Secretary of State's election-night API ("Ohio Decides", liveresults.ohiosos.gov) — `GetContestsByCounty` for each of the 88 counties plus the contest list and the election summary CSV. Every county now has a results file with its statewide offices, Supreme Court seats, U.S. Senate and House, Court of Appeals and General Assembly races and State Issue 3, with registered voters, ballots counted, turnout and precincts from the summary CSV. Trumbull and Mahoning keep their Board files (local races and issues); the SoS numbers for them matched the Boards' reports exactly.
+- `results/state/2026-11-03.json`: statewide totals per contest and issue, with each county's numbers under `counties` — the data for the coming Results view's county-vs-statewide comparison. Not read by the app yet.
+- District races are matched to each county's ballot ids by their candidates, with the feed's office and district number as a tie-breaker (two Millers on Henry's ballot); name matching tolerates the feed's punctuation ("Lawson Rowe" / "Lawson-Rowe", "Hunter- Kalagidis"). A contest the feed lists without candidates (the 12th District Court of Appeals seat, term 01/01/2027, in all eight of its counties) is skipped, not an error.
+- Tuscarawas ballot: added the 5th District Court of Appeals race (Matthew George) that both Board documents omit — the SoS feed reports 23,911 Tuscarawas votes in it, so it was on the ballot; cited to the feed.
+- `run.py` runs `sos` first, then the Board modules. `sos-dump.js` is the Chrome fallback if the API ever refuses scripts (it did not: the direct fetch worked from lvp-01 in about a minute).
+
+
 # Nov 3, 2026 — election-night totals
 
 - Totals beside every race and issue. A new per-county results file (`react-app/public/data/results/<county>/<election>.json`), kept apart from the ballot file, holds the Board's count: a vote bar, count and share under each candidate (sorted by votes, leader tagged "leading" — never "won"), For/Against bars under each levy and question, total votes cast and write-ins.

@@ -1,0 +1,388 @@
+{
+  "scope": "county",
+  "county": "Franklin",
+  "election": "2026-11-03",
+  "status": "unofficial",
+  "asOf": "2026-11-04T12:17:59-05:00",
+  "source": {
+    "label": "Ohio Secretary of State: election night reporting (unofficial)",
+    "url": "https://liveresults.ohiosos.gov/"
+  },
+  "contests": {
+    "governor": {
+      "total": 505844,
+      "candidates": [
+        {
+          "name": "Amy Acton / David Pepper",
+          "votes": 363745
+        },
+        {
+          "name": "Don Kissick / James L. Mills",
+          "votes": 10586
+        },
+        {
+          "name": "Vivek Ramaswamy / Robert A. McColley",
+          "votes": 131513
+        }
+      ]
+    },
+    "attorney-general": {
+      "total": 496629,
+      "candidates": [
+        {
+          "name": "Keith Faber",
+          "votes": 149267
+        },
+        {
+          "name": "John J. Kulewicz",
+          "votes": 347362
+        }
+      ]
+    },
+    "auditor-of-state": {
+      "total": 496985,
+      "candidates": [
+        {
+          "name": "Annette Blackwell",
+          "votes": 339653
+        },
+        {
+          "name": "Frank LaRose",
+          "votes": 157332
+        }
+      ]
+    },
+    "secretary-of-state": {
+      "total": 497796,
+      "candidates": [
+        {
+          "name": "Tom Pruss",
+          "votes": 12391
+        },
+        {
+          "name": "Allison Russo",
+          "votes": 349023
+        },
+        {
+          "name": "Robert Sprague",
+          "votes": 136382
+        }
+      ]
+    },
+    "treasurer-of-state": {
+      "total": 492126,
+      "candidates": [
+        {
+          "name": "Jay Edwards",
+          "votes": 148709
+        },
+        {
+          "name": "Seth Walsh",
+          "votes": 343417
+        }
+      ]
+    },
+    "supreme-court-2027-01-01": {
+      "total": 494116,
+      "candidates": [
+        {
+          "name": "Daniel R. Hawkins",
+          "votes": 146274
+        },
+        {
+          "name": "Marilyn Zayas",
+          "votes": 347842
+        }
+      ]
+    },
+    "supreme-court-2027-01-02": {
+      "total": 494789,
+      "candidates": [
+        {
+          "name": "Jennifer Brunner",
+          "votes": 351504
+        },
+        {
+          "name": "Colleen O'Donnell",
+          "votes": 143285
+        }
+      ]
+    },
+    "us-senate": {
+      "total": 505352,
+      "candidates": [
+        {
+          "name": "Sherrod Brown",
+          "votes": 349983
+        },
+        {
+          "name": "Jon Husted",
+          "votes": 136999
+        },
+        {
+          "name": "Greg Levy",
+          "votes": 9345
+        },
+        {
+          "name": "William B. Redpath",
+          "votes": 9025
+        }
+      ]
+    },
+    "congress-3": {
+      "total": 300332,
+      "candidates": [
+        {
+          "name": "Joyce Beatty",
+          "votes": 231925
+        },
+        {
+          "name": "Cleophus Dulaney",
+          "votes": 68407
+        }
+      ]
+    },
+    "congress-15": {
+      "total": 196744,
+      "candidates": [
+        {
+          "name": "Brennan Barrington",
+          "votes": 5023
+        },
+        {
+          "name": "Mike Carey",
+          "votes": 69270
+        },
+        {
+          "name": "Don Leonard",
+          "votes": 122451
+        }
+      ]
+    },
+    "appeals-10-0209": {
+      "total": 312138,
+      "candidates": [
+        {
+          "name": "Michael C. Mentel",
+          "votes": 312138
+        }
+      ]
+    },
+    "appeals-10-0701": {
+      "total": 310844,
+      "candidates": [
+        {
+          "name": "Terri Jamison",
+          "votes": 310844
+        }
+      ]
+    },
+    "senate-3": {
+      "total": 91934,
+      "candidates": [
+        {
+          "name": "Stacie A. Baker",
+          "votes": 55226
+        },
+        {
+          "name": "Michele Reynolds",
+          "votes": 36708
+        }
+      ]
+    },
+    "senate-15": {
+      "total": 109112,
+      "candidates": [
+        {
+          "name": "Joseph Healy",
+          "votes": 16340
+        },
+        {
+          "name": "Latyna M. Humphrey",
+          "votes": 92772
+        }
+      ]
+    },
+    "senate-25": {
+      "total": 123675,
+      "candidates": [
+        {
+          "name": "Bill DeMora",
+          "votes": 89559
+        },
+        {
+          "name": "Don Roberts",
+          "votes": 34116
+        }
+      ]
+    },
+    "rep-1": {
+      "total": 39014,
+      "candidates": [
+        {
+          "name": "Joel A. Greff",
+          "votes": 5937
+        },
+        {
+          "name": "Dontavius Jarrells",
+          "votes": 33077
+        }
+      ]
+    },
+    "rep-2": {
+      "total": 30880,
+      "candidates": [
+        {
+          "name": "Charity Martin King",
+          "votes": 30880
+        }
+      ]
+    },
+    "rep-3": {
+      "total": 33505,
+      "candidates": [
+        {
+          "name": "Bernadine Kennedy Kent",
+          "votes": 5365
+        },
+        {
+          "name": "Ismail Mohamed",
+          "votes": 28140
+        }
+      ]
+    },
+    "rep-4": {
+      "total": 42617,
+      "candidates": [
+        {
+          "name": "Beryl Brown Piccolantonio",
+          "votes": 42617
+        }
+      ]
+    },
+    "rep-5": {
+      "total": 41449,
+      "candidates": [
+        {
+          "name": "Richard Cole",
+          "votes": 13233
+        },
+        {
+          "name": "Meredith R. Lawson-Rowe",
+          "votes": 28216
+        }
+      ]
+    },
+    "rep-6": {
+      "total": 33651,
+      "candidates": [
+        {
+          "name": "Christine Cockley",
+          "votes": 22431
+        },
+        {
+          "name": "Matthew Jackson",
+          "votes": 11220
+        }
+      ]
+    },
+    "rep-7": {
+      "total": 50653,
+      "candidates": [
+        {
+          "name": "Ukeme Awakessien Jeter",
+          "votes": 35462
+        },
+        {
+          "name": "Cameron Koffel",
+          "votes": 2932
+        },
+        {
+          "name": "William Mercier",
+          "votes": 12259
+        }
+      ]
+    },
+    "rep-8": {
+      "total": 49872,
+      "candidates": [
+        {
+          "name": "Kelly Hunter-Kalagidis",
+          "votes": 14567
+        },
+        {
+          "name": "Anita Somani",
+          "votes": 35305
+        }
+      ]
+    },
+    "rep-9": {
+      "total": 38964,
+      "candidates": [
+        {
+          "name": "Munira Yasin Abdullahi",
+          "votes": 28319
+        },
+        {
+          "name": "Bruce Euans",
+          "votes": 10645
+        }
+      ]
+    },
+    "rep-10": {
+      "total": 44597,
+      "candidates": [
+        {
+          "name": "Denise D'Angelo",
+          "votes": 18169
+        },
+        {
+          "name": "Mark Sigrist",
+          "votes": 26428
+        }
+      ]
+    },
+    "rep-11": {
+      "total": 56849,
+      "candidates": [
+        {
+          "name": "Shawn Kaeser",
+          "votes": 21452
+        },
+        {
+          "name": "Crystal Lett",
+          "votes": 35397
+        }
+      ]
+    },
+    "rep-12": {
+      "total": 5965,
+      "candidates": [
+        {
+          "name": "Brian Stewart",
+          "votes": 3521
+        },
+        {
+          "name": "Lee Yarsky",
+          "votes": 2444
+        }
+      ]
+    }
+  },
+  "issues": {
+    "state-issue-3": {
+      "total": 497730,
+      "yes": 264435,
+      "no": 233295,
+      "yesLabel": "Yes",
+      "noLabel": "No"
+    }
+  },
+  "registered": 906080,
+  "ballotsCast": 511532,
+  "turnout": 56.46,
+  "precincts": {
+    "reporting": 889,
+    "total": 889
+  }
+}

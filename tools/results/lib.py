@@ -213,12 +213,26 @@ def first_person(name: str) -> str:
     return re.split(r"\s+and\s+|\s*/\s*", name)[0]
 
 
+def letters(s: str) -> str:
+    return re.sub(r"[^a-z]", "", s.lower())
+
+
+def same_last(a: str, b: str) -> bool:
+    """Last names match when equal, or when one is the tail of the other — "Lawson Rowe" (feed) vs
+    "Lawson-Rowe" (ballot), "Hunter- Kalagidis" vs "Hunter-Kalagidis"."""
+    if a == b:
+        return True
+    return len(a) >= 4 and len(b) >= 4 and (a.endswith(b) or b.endswith(a))
+
+
 def match_candidate(report_name: str, ballot_names: list[str]) -> str | None:
     """The ballot's name for a report row, by the first person's last name (tickets print
     "A and B" in the report and "A / B" on the ballot; the tabulator also truncates long names)."""
     _, bare = strip_party(report_name)
+    if letters(bare) in {letters(b) for b in ballot_names}:  # exact, ignoring punctuation and spacing
+        return next(b for b in ballot_names if letters(b) == letters(bare))
     ln = last_name(first_person(bare))
-    hits = [b for b in ballot_names if last_name(first_person(b)) == ln]
+    hits = [b for b in ballot_names if same_last(last_name(first_person(b)), ln)]
     if len(hits) == 1:
         return hits[0]
     if len(hits) > 1:  # same last name twice: use first name too
@@ -264,21 +278,40 @@ def build_results(
     skipped: list[str] = []
 
     def by_candidates(b: Block) -> str | None:
-        """For a title the map doesn't settle (five "Judge of the Court of Common Pleas" blocks): the one
-        unused contest whose candidates' last names cover every row of the block."""
+        """For a title the map doesn't settle (five "Judge of the Court of Common Pleas" blocks, or the
+        SoS feed's district races): the unused contest whose candidates cover every row of the block.
+        Ties (two Millers on one ballot) are broken by the title's office words and district number."""
         hits = []
         for cid, c in contests.items():
             if cid in out_contests:
                 continue
             names = [k["name"] for k in c["candidates"]]
-            if b.rows and all(match_candidate(n, names) for n, _ in b.rows) and len(b.rows) == len(names):
+            if b.rows and len(b.rows) <= len(names) and all(match_candidate(n, names) for n, _ in b.rows):
                 hits.append(cid)
+        if len(hits) > 1:
+            office = letters(b.title.split(" - ")[0])
+            dm = re.search(r"District (\d+)", b.title)
+            dist = int(dm.group(1)) if dm else None
+            def fits(cid: str) -> int:
+                c = contests[cid]
+                score = 0
+                o = letters(c["office"])
+                if office and (office in o or o in office):
+                    score += 2
+                if dist is not None and re.search(rf"\b{dist}(st|nd|rd|th)\b", f"{c.get('detail','')} {c['office']}"):
+                    score += 1
+                return score
+            best = max(fits(h) for h in hits)
+            hits = [h for h in hits if fits(h) == best] if best > 0 else hits
         return hits[0] if len(hits) == 1 else None
 
     for b in report.blocks:
         cid = title_map(b.title)
         if cid == IGNORE:
             skipped.append(b.title)
+            continue
+        if cid is None and not b.rows:  # the feed lists the contest but no candidates (SoS, 12th District seat)
+            skipped.append(f"{b.title} (no candidates in the feed)")
             continue
         if cid is None:
             cid = by_candidates(b)

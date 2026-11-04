@@ -25,7 +25,10 @@ def build():
     c.contest("congress-6", "U.S. House", "Representative to Congress", [("Elizabeth Ann Kirtley", "DEM"), ("Michael A. Rulli", "REP")], detail="6th District", places=D("cong", 6), src=S)
     c.contest("senate-31", "Ohio General Assembly", "State Senator", [("Laura Sirot", "DEM"), ("Al Landis", "REP")], detail="31st District", places=D("sen", 31), src=S)
     c.contest("rep-51", "Ohio General Assembly", "State Representative", [("Amanda Fontana", "DEM"), ("Jodi Salvo", "REP")], detail="51st District", places=D("rep", 51), src=S)
-    # Neither Board document lists a 5th District Court of Appeals race (Stark, Licking and others list Matthew George); left out.
+    # Neither Board document lists the 5th District Court of Appeals race, but the Secretary of State's election-night
+    # feed reports it for Tuscarawas (23,911 votes on Nov 3, 2026), so it was on the ballot: added from that feed.
+    c.src("sos-enr", "Ohio Secretary of State: election night reporting, November 3, 2026 General Election (Tuscarawas County)", "https://liveresults.ohiosos.gov/")
+    c.contest("appeals-5-0209", "Ohio Court of Appeals", "Judge of the Court of Appeals", [("Matthew George", "REP")], detail="5th District · full term commencing February 9, 2027", src=["sos-enr"])
 
     # --- County offices ---
     c.contest("commissioner", "County offices", "County Commissioner", [("Kent A. Watson", "DEM"), ("Kristin R. Zemis", "REP")], detail="Full term commencing January 1, 2027", src=S)

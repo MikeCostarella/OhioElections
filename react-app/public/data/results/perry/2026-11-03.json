@@ -1,0 +1,223 @@
+{
+  "scope": "county",
+  "county": "Perry",
+  "election": "2026-11-03",
+  "status": "unofficial",
+  "asOf": "2026-11-04T12:17:59-05:00",
+  "source": {
+    "label": "Ohio Secretary of State: election night reporting (unofficial)",
+    "url": "https://liveresults.ohiosos.gov/"
+  },
+  "contests": {
+    "governor": {
+      "total": 12479,
+      "candidates": [
+        {
+          "name": "Amy Acton / David Pepper",
+          "votes": 3960
+        },
+        {
+          "name": "Don Kissick / James L. Mills",
+          "votes": 606
+        },
+        {
+          "name": "Vivek Ramaswamy / Robert A. McColley",
+          "votes": 7913
+        }
+      ]
+    },
+    "attorney-general": {
+      "total": 12368,
+      "candidates": [
+        {
+          "name": "Keith Faber",
+          "votes": 8779
+        },
+        {
+          "name": "John J. Kulewicz",
+          "votes": 3589
+        }
+      ]
+    },
+    "auditor-of-state": {
+      "total": 12374,
+      "candidates": [
+        {
+          "name": "Annette Blackwell",
+          "votes": 3533
+        },
+        {
+          "name": "Frank LaRose",
+          "votes": 8841
+        }
+      ]
+    },
+    "secretary-of-state": {
+      "total": 12346,
+      "candidates": [
+        {
+          "name": "Tom Pruss",
+          "votes": 390
+        },
+        {
+          "name": "Allison Russo",
+          "votes": 3670
+        },
+        {
+          "name": "Robert Sprague",
+          "votes": 8286
+        }
+      ]
+    },
+    "treasurer-of-state": {
+      "total": 12336,
+      "candidates": [
+        {
+          "name": "Jay Edwards",
+          "votes": 8751
+        },
+        {
+          "name": "Seth Walsh",
+          "votes": 3585
+        }
+      ]
+    },
+    "supreme-court-2027-01-01": {
+      "total": 12290,
+      "candidates": [
+        {
+          "name": "Daniel R. Hawkins",
+          "votes": 8621
+        },
+        {
+          "name": "Marilyn Zayas",
+          "votes": 3669
+        }
+      ]
+    },
+    "supreme-court-2027-01-02": {
+      "total": 12326,
+      "candidates": [
+        {
+          "name": "Jennifer Brunner",
+          "votes": 3816
+        },
+        {
+          "name": "Colleen O'Donnell",
+          "votes": 8510
+        }
+      ]
+    },
+    "us-senate": {
+      "total": 12474,
+      "candidates": [
+        {
+          "name": "Sherrod Brown",
+          "votes": 3654
+        },
+        {
+          "name": "Jon Husted",
+          "votes": 8020
+        },
+        {
+          "name": "Greg Levy",
+          "votes": 300
+        },
+        {
+          "name": "William B. Redpath",
+          "votes": 500
+        }
+      ]
+    },
+    "congress-2": {
+      "total": 3228,
+      "candidates": [
+        {
+          "name": "Jen Mazzuckelli",
+          "votes": 919
+        },
+        {
+          "name": "David J. Taylor",
+          "votes": 2309
+        }
+      ]
+    },
+    "congress-12": {
+      "total": 9199,
+      "candidates": [
+        {
+          "name": "Troy Balderson",
+          "votes": 6415
+        },
+        {
+          "name": "Jerrad Christian",
+          "votes": 2784
+        }
+      ]
+    },
+    "appeals-5": {
+      "total": 9655,
+      "candidates": [
+        {
+          "name": "Matthew George",
+          "votes": 9655
+        }
+      ]
+    },
+    "senate-17": {
+      "total": 4082,
+      "candidates": [
+        {
+          "name": "Brian A. Deer",
+          "votes": 1330
+        },
+        {
+          "name": "Shane Wilkin",
+          "votes": 2752
+        }
+      ]
+    },
+    "rep-69": {
+      "total": 8195,
+      "candidates": [
+        {
+          "name": "Kevin D. Miller",
+          "votes": 5948
+        },
+        {
+          "name": "Amy Rigsby",
+          "votes": 2247
+        }
+      ]
+    },
+    "rep-92": {
+      "total": 4099,
+      "candidates": [
+        {
+          "name": "Mark Johnson",
+          "votes": 2778
+        },
+        {
+          "name": "Sarah Senff",
+          "votes": 1321
+        }
+      ]
+    }
+  },
+  "issues": {
+    "state-issue-3": {
+      "total": 12503,
+      "yes": 9847,
+      "no": 2656,
+      "yesLabel": "Yes",
+      "noLabel": "No"
+    }
+  },
+  "registered": 22522,
+  "ballotsCast": 12678,
+  "turnout": 56.29,
+  "precincts": {
+    "reporting": 33,
+    "total": 33
+  }
+}

@@ -1,0 +1,214 @@
+{
+  "scope": "county",
+  "county": "Miami",
+  "election": "2026-11-03",
+  "status": "unofficial",
+  "asOf": "2026-11-04T12:17:59-05:00",
+  "source": {
+    "label": "Ohio Secretary of State: election night reporting (unofficial)",
+    "url": "https://liveresults.ohiosos.gov/"
+  },
+  "contests": {
+    "governor": {
+      "total": 45524,
+      "candidates": [
+        {
+          "name": "Amy Acton / David Pepper",
+          "votes": 15391
+        },
+        {
+          "name": "Don Kissick / James L. Mills",
+          "votes": 2085
+        },
+        {
+          "name": "Vivek Ramaswamy / Robert A. McColley",
+          "votes": 28048
+        }
+      ]
+    },
+    "attorney-general": {
+      "total": 45316,
+      "candidates": [
+        {
+          "name": "Keith Faber",
+          "votes": 31171
+        },
+        {
+          "name": "John J. Kulewicz",
+          "votes": 14145
+        }
+      ]
+    },
+    "auditor-of-state": {
+      "total": 45021,
+      "candidates": [
+        {
+          "name": "Annette Blackwell",
+          "votes": 13838
+        },
+        {
+          "name": "Frank LaRose",
+          "votes": 31183
+        }
+      ]
+    },
+    "secretary-of-state": {
+      "total": 45241,
+      "candidates": [
+        {
+          "name": "Tom Pruss",
+          "votes": 1602
+        },
+        {
+          "name": "Allison Russo",
+          "votes": 14150
+        },
+        {
+          "name": "Robert Sprague",
+          "votes": 29489
+        }
+      ]
+    },
+    "treasurer-of-state": {
+      "total": 44926,
+      "candidates": [
+        {
+          "name": "Jay Edwards",
+          "votes": 30656
+        },
+        {
+          "name": "Seth Walsh",
+          "votes": 14270
+        }
+      ]
+    },
+    "supreme-court-2027-01-01": {
+      "total": 45179,
+      "candidates": [
+        {
+          "name": "Daniel R. Hawkins",
+          "votes": 30628
+        },
+        {
+          "name": "Marilyn Zayas",
+          "votes": 14551
+        }
+      ]
+    },
+    "supreme-court-2027-01-02": {
+      "total": 45072,
+      "candidates": [
+        {
+          "name": "Jennifer Brunner",
+          "votes": 14715
+        },
+        {
+          "name": "Colleen O'Donnell",
+          "votes": 30357
+        }
+      ]
+    },
+    "us-senate": {
+      "total": 45636,
+      "candidates": [
+        {
+          "name": "Sherrod Brown",
+          "votes": 14473
+        },
+        {
+          "name": "Jon Husted",
+          "votes": 28590
+        },
+        {
+          "name": "Greg Levy",
+          "votes": 869
+        },
+        {
+          "name": "William B. Redpath",
+          "votes": 1704
+        }
+      ]
+    },
+    "congress-8": {
+      "total": 25215,
+      "candidates": [
+        {
+          "name": "Warren Davidson",
+          "votes": 16871
+        },
+        {
+          "name": "Vanessa Enoch",
+          "votes": 8344
+        }
+      ]
+    },
+    "congress-15": {
+      "total": 20121,
+      "candidates": [
+        {
+          "name": "Brennan Barrington",
+          "votes": 737
+        },
+        {
+          "name": "Mike Carey",
+          "votes": 13518
+        },
+        {
+          "name": "Don Leonard",
+          "votes": 5866
+        }
+      ]
+    },
+    "appeals-2-0209": {
+      "total": 34472,
+      "candidates": [
+        {
+          "name": "Chris Epley",
+          "votes": 34472
+        }
+      ]
+    },
+    "senate-5": {
+      "total": 45267,
+      "candidates": [
+        {
+          "name": "Jeffrey Harris",
+          "votes": 13957
+        },
+        {
+          "name": "Phil Plummer",
+          "votes": 31310
+        }
+      ]
+    },
+    "rep-80": {
+      "total": 45330,
+      "candidates": [
+        {
+          "name": "Johnathan Newman",
+          "votes": 29715
+        },
+        {
+          "name": "Katie Koehler Wagner",
+          "votes": 15615
+        }
+      ]
+    }
+  },
+  "issues": {
+    "state-issue-3": {
+      "total": 45424,
+      "yes": 35393,
+      "no": 10031,
+      "yesLabel": "Yes",
+      "noLabel": "No"
+    }
+  },
+  "registered": 77679,
+  "ballotsCast": 46122,
+  "turnout": 59.38,
+  "precincts": {
+    "reporting": 87,
+    "total": 87
+  }
+}

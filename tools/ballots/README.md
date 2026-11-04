@@ -24,7 +24,7 @@ Adams, Harrison, Holmes, Meigs, Monroe, Morgan, Noble, Paulding, Vinton, Wyandot
 
 Some counties (Henry, Mercer, Morrow) don't use lookup.boe.ohio.gov; their sample ballots are only in VoterView.
 
-**Notices can leave races out.** Logan's notice omits the Court of Appeals and a Senate race that are on its ballots; check the sample ballots for appeals/senate races when the notice lacks them.
+**Notices can leave races out.** Logan's notice omits the Court of Appeals and a Senate race that are on its ballots; check the sample ballots for appeals/senate races when the notice lacks them. After the election, `tools/results/sos.py` is a second check: a race the SoS feed reports for the county but the ballot file lacks comes out as `unmatched` (that is how Tuscarawas's 5th District Court of Appeals race was found and added, cited to the feed).
 
 Sample ballots on lookup.boe.ohio.gov: when get_page_text is refused, javascript_tool can run the search and fetch each `getballot.aspx` PDF for pdf.js.
 

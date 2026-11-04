@@ -1,0 +1,200 @@
+{
+  "scope": "county",
+  "county": "Brown",
+  "election": "2026-11-03",
+  "status": "unofficial",
+  "asOf": "2026-11-04T12:17:59-05:00",
+  "source": {
+    "label": "Ohio Secretary of State: election night reporting (unofficial)",
+    "url": "https://liveresults.ohiosos.gov/"
+  },
+  "contests": {
+    "governor": {
+      "total": 14946,
+      "candidates": [
+        {
+          "name": "Amy Acton / David Pepper",
+          "votes": 4104
+        },
+        {
+          "name": "Don Kissick / James L. Mills",
+          "votes": 646
+        },
+        {
+          "name": "Vivek Ramaswamy / Robert A. McColley",
+          "votes": 10196
+        }
+      ]
+    },
+    "attorney-general": {
+      "total": 14881,
+      "candidates": [
+        {
+          "name": "Keith Faber",
+          "votes": 11123
+        },
+        {
+          "name": "John J. Kulewicz",
+          "votes": 3758
+        }
+      ]
+    },
+    "auditor-of-state": {
+      "total": 14885,
+      "candidates": [
+        {
+          "name": "Annette Blackwell",
+          "votes": 3703
+        },
+        {
+          "name": "Frank LaRose",
+          "votes": 11182
+        }
+      ]
+    },
+    "secretary-of-state": {
+      "total": 14886,
+      "candidates": [
+        {
+          "name": "Tom Pruss",
+          "votes": 502
+        },
+        {
+          "name": "Allison Russo",
+          "votes": 3736
+        },
+        {
+          "name": "Robert Sprague",
+          "votes": 10648
+        }
+      ]
+    },
+    "treasurer-of-state": {
+      "total": 14832,
+      "candidates": [
+        {
+          "name": "Jay Edwards",
+          "votes": 11002
+        },
+        {
+          "name": "Seth Walsh",
+          "votes": 3830
+        }
+      ]
+    },
+    "supreme-court-2027-01-01": {
+      "total": 14841,
+      "candidates": [
+        {
+          "name": "Daniel R. Hawkins",
+          "votes": 11028
+        },
+        {
+          "name": "Marilyn Zayas",
+          "votes": 3813
+        }
+      ]
+    },
+    "supreme-court-2027-01-02": {
+      "total": 14819,
+      "candidates": [
+        {
+          "name": "Jennifer Brunner",
+          "votes": 3883
+        },
+        {
+          "name": "Colleen O'Donnell",
+          "votes": 10936
+        }
+      ]
+    },
+    "us-senate": {
+      "total": 14947,
+      "candidates": [
+        {
+          "name": "Sherrod Brown",
+          "votes": 3791
+        },
+        {
+          "name": "Jon Husted",
+          "votes": 10189
+        },
+        {
+          "name": "Greg Levy",
+          "votes": 330
+        },
+        {
+          "name": "William B. Redpath",
+          "votes": 637
+        }
+      ]
+    },
+    "congress-2": {
+      "total": 14889,
+      "candidates": [
+        {
+          "name": "Jen Mazzuckelli",
+          "votes": 3694
+        },
+        {
+          "name": "David J. Taylor",
+          "votes": 11195
+        }
+      ]
+    },
+    "appeals-12-0209": {
+      "total": 12331,
+      "candidates": [
+        {
+          "name": "Robert A. Hendrickson",
+          "votes": 12331
+        }
+      ]
+    },
+    "rep-63": {
+      "total": 9876,
+      "candidates": [
+        {
+          "name": "Adam C. Bird",
+          "votes": 7371
+        },
+        {
+          "name": "Debbie Davidson",
+          "votes": 2505
+        }
+      ]
+    },
+    "rep-90": {
+      "total": 4973,
+      "candidates": [
+        {
+          "name": "Collin Docterman",
+          "votes": 1282
+        },
+        {
+          "name": "Justin Pizzulli",
+          "votes": 3691
+        }
+      ]
+    }
+  },
+  "issues": {
+    "state-issue-3": {
+      "total": 14786,
+      "yes": 12128,
+      "no": 2658,
+      "yesLabel": "Yes",
+      "noLabel": "No"
+    }
+  },
+  "skipped": [
+    "Judge of the Court of Appeals - District 12 - Term Commencing 01/01/2027 (no candidates in the feed)"
+  ],
+  "registered": 28907,
+  "ballotsCast": 15129,
+  "turnout": 52.34,
+  "precincts": {
+    "reporting": 33,
+    "total": 33
+  }
+}

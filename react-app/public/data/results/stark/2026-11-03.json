@@ -1,0 +1,266 @@
+{
+  "scope": "county",
+  "county": "Stark",
+  "election": "2026-11-03",
+  "status": "unofficial",
+  "asOf": "2026-11-04T12:17:59-05:00",
+  "source": {
+    "label": "Ohio Secretary of State: election night reporting (unofficial)",
+    "url": "https://liveresults.ohiosos.gov/"
+  },
+  "contests": {
+    "governor": {
+      "total": 144606,
+      "candidates": [
+        {
+          "name": "Amy Acton / David Pepper",
+          "votes": 68025
+        },
+        {
+          "name": "Don Kissick / James L. Mills",
+          "votes": 5617
+        },
+        {
+          "name": "Vivek Ramaswamy / Robert A. McColley",
+          "votes": 70964
+        }
+      ]
+    },
+    "attorney-general": {
+      "total": 143206,
+      "candidates": [
+        {
+          "name": "Keith Faber",
+          "votes": 78988
+        },
+        {
+          "name": "John J. Kulewicz",
+          "votes": 64218
+        }
+      ]
+    },
+    "auditor-of-state": {
+      "total": 143665,
+      "candidates": [
+        {
+          "name": "Annette Blackwell",
+          "votes": 62564
+        },
+        {
+          "name": "Frank LaRose",
+          "votes": 81101
+        }
+      ]
+    },
+    "secretary-of-state": {
+      "total": 143534,
+      "candidates": [
+        {
+          "name": "Tom Pruss",
+          "votes": 4173
+        },
+        {
+          "name": "Allison Russo",
+          "votes": 65119
+        },
+        {
+          "name": "Robert Sprague",
+          "votes": 74242
+        }
+      ]
+    },
+    "treasurer-of-state": {
+      "total": 142850,
+      "candidates": [
+        {
+          "name": "Jay Edwards",
+          "votes": 78107
+        },
+        {
+          "name": "Seth Walsh",
+          "votes": 64743
+        }
+      ]
+    },
+    "supreme-court-2027-01-01": {
+      "total": 142918,
+      "candidates": [
+        {
+          "name": "Daniel R. Hawkins",
+          "votes": 77765
+        },
+        {
+          "name": "Marilyn Zayas",
+          "votes": 65153
+        }
+      ]
+    },
+    "supreme-court-2027-01-02": {
+      "total": 143177,
+      "candidates": [
+        {
+          "name": "Jennifer Brunner",
+          "votes": 66243
+        },
+        {
+          "name": "Colleen O'Donnell",
+          "votes": 76934
+        }
+      ]
+    },
+    "us-senate": {
+      "total": 144622,
+      "candidates": [
+        {
+          "name": "Sherrod Brown",
+          "votes": 64324
+        },
+        {
+          "name": "Jon Husted",
+          "votes": 72025
+        },
+        {
+          "name": "Greg Levy",
+          "votes": 3464
+        },
+        {
+          "name": "William B. Redpath",
+          "votes": 4809
+        }
+      ]
+    },
+    "congress-6": {
+      "total": 68036,
+      "candidates": [
+        {
+          "name": "Elizabeth Kirtley",
+          "votes": 27595
+        },
+        {
+          "name": "Michael A. Rulli",
+          "votes": 40441
+        }
+      ]
+    },
+    "congress-13": {
+      "total": 75329,
+      "candidates": [
+        {
+          "name": "Carey Coleman",
+          "votes": 34555
+        },
+        {
+          "name": "Sandeep Dixit",
+          "votes": 1104
+        },
+        {
+          "name": "Emilia Sykes",
+          "votes": 39670
+        }
+      ]
+    },
+    "appeals-5": {
+      "total": 104365,
+      "candidates": [
+        {
+          "name": "Matthew George",
+          "votes": 104365
+        }
+      ]
+    },
+    "senate-29": {
+      "total": 135935,
+      "candidates": [
+        {
+          "name": "Jane Timken",
+          "votes": 74864
+        },
+        {
+          "name": "Thomas West",
+          "votes": 61071
+        }
+      ]
+    },
+    "senate-31": {
+      "total": 7799,
+      "candidates": [
+        {
+          "name": "Al Landis",
+          "votes": 5427
+        },
+        {
+          "name": "Laura Sirot",
+          "votes": 2372
+        }
+      ]
+    },
+    "rep-48": {
+      "total": 53058,
+      "candidates": [
+        {
+          "name": "Christina M. Hagan",
+          "votes": 30370
+        },
+        {
+          "name": "Nick Morris",
+          "votes": 22688
+        }
+      ]
+    },
+    "rep-49": {
+      "total": 39007,
+      "candidates": [
+        {
+          "name": "Krista L. Allison",
+          "votes": 21425
+        },
+        {
+          "name": "Jim Thomas",
+          "votes": 17582
+        }
+      ]
+    },
+    "rep-50": {
+      "total": 43219,
+      "candidates": [
+        {
+          "name": "Rylan Zachary Finzer",
+          "votes": 17784
+        },
+        {
+          "name": "Matthew Kishman",
+          "votes": 25435
+        }
+      ]
+    },
+    "rep-51": {
+      "total": 7776,
+      "candidates": [
+        {
+          "name": "Amanda Fontana",
+          "votes": 2324
+        },
+        {
+          "name": "Jodi Salvo",
+          "votes": 5452
+        }
+      ]
+    }
+  },
+  "issues": {
+    "state-issue-3": {
+      "total": 144665,
+      "yes": 101308,
+      "no": 43357,
+      "yesLabel": "Yes",
+      "noLabel": "No"
+    }
+  },
+  "registered": 247862,
+  "ballotsCast": 146486,
+  "turnout": 59.1,
+  "precincts": {
+    "reporting": 274,
+    "total": 274
+  }
+}

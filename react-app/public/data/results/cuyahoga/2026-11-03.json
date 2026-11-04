@@ -1,0 +1,385 @@
+{
+  "scope": "county",
+  "county": "Cuyahoga",
+  "election": "2026-11-03",
+  "status": "unofficial",
+  "asOf": "2026-11-04T12:17:59-05:00",
+  "source": {
+    "label": "Ohio Secretary of State: election night reporting (unofficial)",
+    "url": "https://liveresults.ohiosos.gov/"
+  },
+  "contests": {
+    "governor": {
+      "total": 475835,
+      "candidates": [
+        {
+          "name": "Amy Acton / David Pepper",
+          "votes": 344236
+        },
+        {
+          "name": "Don Kissick / James L. Mills",
+          "votes": 10440
+        },
+        {
+          "name": "Vivek Ramaswamy / Robert A. McColley",
+          "votes": 121159
+        }
+      ]
+    },
+    "attorney-general": {
+      "total": 468066,
+      "candidates": [
+        {
+          "name": "Keith Faber",
+          "votes": 134122
+        },
+        {
+          "name": "John J. Kulewicz",
+          "votes": 333944
+        }
+      ]
+    },
+    "auditor-of-state": {
+      "total": 468763,
+      "candidates": [
+        {
+          "name": "Annette Blackwell",
+          "votes": 327478
+        },
+        {
+          "name": "Frank LaRose",
+          "votes": 141285
+        }
+      ]
+    },
+    "secretary-of-state": {
+      "total": 468126,
+      "candidates": [
+        {
+          "name": "Tom Pruss",
+          "votes": 10864
+        },
+        {
+          "name": "Allison Russo",
+          "votes": 333342
+        },
+        {
+          "name": "Robert Sprague",
+          "votes": 123920
+        }
+      ]
+    },
+    "treasurer-of-state": {
+      "total": 464119,
+      "candidates": [
+        {
+          "name": "Jay Edwards",
+          "votes": 132293
+        },
+        {
+          "name": "Seth Walsh",
+          "votes": 331826
+        }
+      ]
+    },
+    "supreme-court-2027-01-01": {
+      "total": 462954,
+      "candidates": [
+        {
+          "name": "Daniel R. Hawkins",
+          "votes": 128698
+        },
+        {
+          "name": "Marilyn Zayas",
+          "votes": 334256
+        }
+      ]
+    },
+    "supreme-court-2027-01-02": {
+      "total": 463482,
+      "candidates": [
+        {
+          "name": "Jennifer Brunner",
+          "votes": 333405
+        },
+        {
+          "name": "Colleen O'Donnell",
+          "votes": 130077
+        }
+      ]
+    },
+    "us-senate": {
+      "total": 475488,
+      "candidates": [
+        {
+          "name": "Sherrod Brown",
+          "votes": 333139
+        },
+        {
+          "name": "Jon Husted",
+          "votes": 125283
+        },
+        {
+          "name": "Greg Levy",
+          "votes": 9153
+        },
+        {
+          "name": "William B. Redpath",
+          "votes": 7913
+        }
+      ]
+    },
+    "congress-7": {
+      "total": 200166,
+      "candidates": [
+        {
+          "name": "Max Miller",
+          "votes": 76425
+        },
+        {
+          "name": "Brian Poindexter",
+          "votes": 123741
+        }
+      ]
+    },
+    "congress-11": {
+      "total": 263344,
+      "candidates": [
+        {
+          "name": "Shontel M. Brown",
+          "votes": 219971
+        },
+        {
+          "name": "Mike Kirchner",
+          "votes": 43373
+        }
+      ]
+    },
+    "appeals-8-0209": {
+      "total": 314608,
+      "candidates": [
+        {
+          "name": "Jeffrey A. Crossman",
+          "votes": 314608
+        }
+      ]
+    },
+    "appeals-8-0210": {
+      "total": 311341,
+      "candidates": [
+        {
+          "name": "Michael John Ryan",
+          "votes": 311341
+        }
+      ]
+    },
+    "appeals-8-0211": {
+      "total": 303325,
+      "candidates": [
+        {
+          "name": "Emanuella D. Groves",
+          "votes": 303325
+        }
+      ]
+    },
+    "appeals-8-0212": {
+      "total": 436054,
+      "candidates": [
+        {
+          "name": "Anthony Alto",
+          "votes": 119725
+        },
+        {
+          "name": "Anita Laster Mays",
+          "votes": 316329
+        }
+      ]
+    },
+    "appeals-8-ute": {
+      "total": 304299,
+      "candidates": [
+        {
+          "name": "Ashley Kilbane",
+          "votes": 304299
+        }
+      ]
+    },
+    "senate-21": {
+      "total": 134790,
+      "candidates": [
+        {
+          "name": "Mikhail Alterman",
+          "votes": 16916
+        },
+        {
+          "name": "Kent Smith",
+          "votes": 117874
+        }
+      ]
+    },
+    "senate-23": {
+      "total": 120949,
+      "candidates": [
+        {
+          "name": "Robert E. Dintaman",
+          "votes": 26491
+        },
+        {
+          "name": "Bride Rose Sweeney",
+          "votes": 94458
+        }
+      ]
+    },
+    "rep-13": {
+      "total": 39298,
+      "candidates": [
+        {
+          "name": "Billy Fronimo",
+          "votes": 6387
+        },
+        {
+          "name": "Tristan W. Rader",
+          "votes": 32911
+        }
+      ]
+    },
+    "rep-14": {
+      "total": 38646,
+      "candidates": [
+        {
+          "name": "Sean Patrick Brennan",
+          "votes": 25387
+        },
+        {
+          "name": "David J. Morgan",
+          "votes": 13259
+        }
+      ]
+    },
+    "rep-15": {
+      "total": 42817,
+      "candidates": [
+        {
+          "name": "Daniel Conway",
+          "votes": 16670
+        },
+        {
+          "name": "Chris Glassburn",
+          "votes": 26147
+        }
+      ]
+    },
+    "rep-16": {
+      "total": 54607,
+      "candidates": [
+        {
+          "name": "Scott DiMauro",
+          "votes": 35072
+        },
+        {
+          "name": "Sophia Tjotjos",
+          "votes": 19535
+        }
+      ]
+    },
+    "rep-17": {
+      "total": 55112,
+      "candidates": [
+        {
+          "name": "Megan Coy",
+          "votes": 28778
+        },
+        {
+          "name": "Mike Dovilla",
+          "votes": 26334
+        }
+      ]
+    },
+    "rep-18": {
+      "total": 50814,
+      "candidates": [
+        {
+          "name": "Maureen Lynn",
+          "votes": 4494
+        },
+        {
+          "name": "Davida Russell",
+          "votes": 46320
+        }
+      ]
+    },
+    "rep-19": {
+      "total": 56402,
+      "candidates": [
+        {
+          "name": "Ed Hargate",
+          "votes": 21726
+        },
+        {
+          "name": "Nicole Sigurdson",
+          "votes": 34676
+        }
+      ]
+    },
+    "rep-20": {
+      "total": 23546,
+      "candidates": [
+        {
+          "name": "Eugene Miller",
+          "votes": 23546
+        }
+      ]
+    },
+    "rep-21": {
+      "total": 47393,
+      "candidates": [
+        {
+          "name": "Tina Barhams",
+          "votes": 7743
+        },
+        {
+          "name": "Eric Synenberg",
+          "votes": 39650
+        }
+      ]
+    },
+    "rep-22": {
+      "total": 31270,
+      "candidates": [
+        {
+          "name": "Darnell T. Brewer",
+          "votes": 31270
+        }
+      ]
+    },
+    "rep-23": {
+      "total": 7608,
+      "candidates": [
+        {
+          "name": "Julie A. Belich",
+          "votes": 2054
+        },
+        {
+          "name": "Daniel P. Troy",
+          "votes": 5554
+        }
+      ]
+    }
+  },
+  "issues": {
+    "state-issue-3": {
+      "total": 442075,
+      "yes": 212904,
+      "no": 229171,
+      "yesLabel": "Yes",
+      "noLabel": "No"
+    }
+  },
+  "registered": 877987,
+  "ballotsCast": 482011,
+  "turnout": 54.9,
+  "precincts": {
+    "reporting": 897,
+    "total": 897
+  }
+}

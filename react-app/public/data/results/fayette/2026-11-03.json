@@ -1,0 +1,204 @@
+{
+  "scope": "county",
+  "county": "Fayette",
+  "election": "2026-11-03",
+  "status": "unofficial",
+  "asOf": "2026-11-04T12:17:59-05:00",
+  "source": {
+    "label": "Ohio Secretary of State: election night reporting (unofficial)",
+    "url": "https://liveresults.ohiosos.gov/"
+  },
+  "contests": {
+    "governor": {
+      "total": 9053,
+      "candidates": [
+        {
+          "name": "Amy Acton / David Pepper",
+          "votes": 2666
+        },
+        {
+          "name": "Don Kissick / James L. Mills",
+          "votes": 401
+        },
+        {
+          "name": "Vivek Ramaswamy / Robert A. McColley",
+          "votes": 5986
+        }
+      ]
+    },
+    "attorney-general": {
+      "total": 9000,
+      "candidates": [
+        {
+          "name": "Keith Faber",
+          "votes": 6595
+        },
+        {
+          "name": "John J. Kulewicz",
+          "votes": 2405
+        }
+      ]
+    },
+    "auditor-of-state": {
+      "total": 9025,
+      "candidates": [
+        {
+          "name": "Annette Blackwell",
+          "votes": 2383
+        },
+        {
+          "name": "Frank LaRose",
+          "votes": 6642
+        }
+      ]
+    },
+    "secretary-of-state": {
+      "total": 9012,
+      "candidates": [
+        {
+          "name": "Tom Pruss",
+          "votes": 283
+        },
+        {
+          "name": "Allison Russo",
+          "votes": 2438
+        },
+        {
+          "name": "Robert Sprague",
+          "votes": 6291
+        }
+      ]
+    },
+    "treasurer-of-state": {
+      "total": 8989,
+      "candidates": [
+        {
+          "name": "Jay Edwards",
+          "votes": 6561
+        },
+        {
+          "name": "Seth Walsh",
+          "votes": 2428
+        }
+      ]
+    },
+    "supreme-court-2027-01-01": {
+      "total": 8945,
+      "candidates": [
+        {
+          "name": "Daniel R. Hawkins",
+          "votes": 6506
+        },
+        {
+          "name": "Marilyn Zayas",
+          "votes": 2439
+        }
+      ]
+    },
+    "supreme-court-2027-01-02": {
+      "total": 8962,
+      "candidates": [
+        {
+          "name": "Jennifer Brunner",
+          "votes": 2510
+        },
+        {
+          "name": "Colleen O'Donnell",
+          "votes": 6452
+        }
+      ]
+    },
+    "us-senate": {
+      "total": 9076,
+      "candidates": [
+        {
+          "name": "Sherrod Brown",
+          "votes": 2485
+        },
+        {
+          "name": "Jon Husted",
+          "votes": 6083
+        },
+        {
+          "name": "Greg Levy",
+          "votes": 194
+        },
+        {
+          "name": "William B. Redpath",
+          "votes": 314
+        }
+      ]
+    },
+    "congress-15": {
+      "total": 9054,
+      "candidates": [
+        {
+          "name": "Brennan Barrington",
+          "votes": 307
+        },
+        {
+          "name": "Mike Carey",
+          "votes": 6357
+        },
+        {
+          "name": "Don Leonard",
+          "votes": 2390
+        }
+      ]
+    },
+    "appeals-12-0209": {
+      "total": 7226,
+      "candidates": [
+        {
+          "name": "Robert A. Hendrickson",
+          "votes": 7226
+        }
+      ]
+    },
+    "senate-17": {
+      "total": 8952,
+      "candidates": [
+        {
+          "name": "Brian A. Deer",
+          "votes": 2438
+        },
+        {
+          "name": "Shane Wilkin",
+          "votes": 6514
+        }
+      ]
+    },
+    "rep-91": {
+      "total": 8986,
+      "candidates": [
+        {
+          "name": "Bob Peterson",
+          "votes": 6536
+        },
+        {
+          "name": "Amy Wright",
+          "votes": 2450
+        }
+      ]
+    }
+  },
+  "issues": {
+    "state-issue-3": {
+      "total": 8939,
+      "yes": 7237,
+      "no": 1702,
+      "yesLabel": "Yes",
+      "noLabel": "No"
+    }
+  },
+  "skipped": [
+    "Judge of the Court of Appeals - District 12 - Term Commencing 01/01/2027 (no candidates in the feed)"
+  ],
+  "registered": 16900,
+  "ballotsCast": 9213,
+  "turnout": 54.51,
+  "precincts": {
+    "reporting": 25,
+    "total": 25
+  }
+}

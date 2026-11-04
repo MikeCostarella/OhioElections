@@ -1,4 +1,7 @@
-"""Refresh every county's results file. Each county module fetches its Board's report itself;
+"""Refresh every results file: the Secretary of State feed (sos.py) for all 88 counties' statewide and
+district races, then each county Board module for its local races and issues.
+
+Refresh every county's results file. Each county module fetches its Board's report itself;
 a county whose site refuses scripted downloads is skipped with a message, and can be run by hand
 with --pdf / --text (see README).
 
@@ -10,7 +13,8 @@ import os
 import sys
 
 sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
-COUNTIES = ["trumbull", "mahoning"]
+# "sos" first: it writes every county the Board modules below do not cover, plus results/state/.
+COUNTIES = ["sos", "trumbull", "mahoning"]
 
 # Exit codes from a county module: 0 written, 1 written but with unmatched titles (fails the run so
 # the map gets fixed), 2 the Board's report could not be downloaded (skipped: the previous file stands).

@@ -1,0 +1,270 @@
+{
+  "scope": "county",
+  "county": "Summit",
+  "election": "2026-11-03",
+  "status": "unofficial",
+  "asOf": "2026-11-04T12:17:59-05:00",
+  "source": {
+    "label": "Ohio Secretary of State: election night reporting (unofficial)",
+    "url": "https://liveresults.ohiosos.gov/"
+  },
+  "contests": {
+    "governor": {
+      "total": 225392,
+      "candidates": [
+        {
+          "name": "Amy Acton / David Pepper",
+          "votes": 138467
+        },
+        {
+          "name": "Don Kissick / James L. Mills",
+          "votes": 6668
+        },
+        {
+          "name": "Vivek Ramaswamy / Robert A. McColley",
+          "votes": 80257
+        }
+      ]
+    },
+    "attorney-general": {
+      "total": 222063,
+      "candidates": [
+        {
+          "name": "Keith Faber",
+          "votes": 89111
+        },
+        {
+          "name": "John J. Kulewicz",
+          "votes": 132952
+        }
+      ]
+    },
+    "auditor-of-state": {
+      "total": 221584,
+      "candidates": [
+        {
+          "name": "Annette Blackwell",
+          "votes": 128055
+        },
+        {
+          "name": "Frank LaRose",
+          "votes": 93529
+        }
+      ]
+    },
+    "secretary-of-state": {
+      "total": 221997,
+      "candidates": [
+        {
+          "name": "Tom Pruss",
+          "votes": 5738
+        },
+        {
+          "name": "Allison Russo",
+          "votes": 133587
+        },
+        {
+          "name": "Robert Sprague",
+          "votes": 82672
+        }
+      ]
+    },
+    "treasurer-of-state": {
+      "total": 219786,
+      "candidates": [
+        {
+          "name": "Jay Edwards",
+          "votes": 87245
+        },
+        {
+          "name": "Seth Walsh",
+          "votes": 132541
+        }
+      ]
+    },
+    "supreme-court-2027-01-01": {
+      "total": 220641,
+      "candidates": [
+        {
+          "name": "Daniel R. Hawkins",
+          "votes": 86853
+        },
+        {
+          "name": "Marilyn Zayas",
+          "votes": 133788
+        }
+      ]
+    },
+    "supreme-court-2027-01-02": {
+      "total": 220556,
+      "candidates": [
+        {
+          "name": "Jennifer Brunner",
+          "votes": 133895
+        },
+        {
+          "name": "Colleen O'Donnell",
+          "votes": 86661
+        }
+      ]
+    },
+    "us-senate": {
+      "total": 225274,
+      "candidates": [
+        {
+          "name": "Sherrod Brown",
+          "votes": 132890
+        },
+        {
+          "name": "Jon Husted",
+          "votes": 82026
+        },
+        {
+          "name": "Greg Levy",
+          "votes": 4761
+        },
+        {
+          "name": "William B. Redpath",
+          "votes": 5597
+        }
+      ]
+    },
+    "congress-13": {
+      "total": 223760,
+      "candidates": [
+        {
+          "name": "Carey Coleman",
+          "votes": 81678
+        },
+        {
+          "name": "Sandeep Dixit",
+          "votes": 3672
+        },
+        {
+          "name": "Emilia Sykes",
+          "votes": 138410
+        }
+      ]
+    },
+    "appeals-9-0209": {
+      "total": 219980,
+      "candidates": [
+        {
+          "name": "Cynthia Curtin",
+          "votes": 82343
+        },
+        {
+          "name": "Betty Sutton",
+          "votes": 137637
+        }
+      ]
+    },
+    "appeals-9-ute": {
+      "total": 217789,
+      "candidates": [
+        {
+          "name": "Tavia Galonski",
+          "votes": 130466
+        },
+        {
+          "name": "Nathan Manning",
+          "votes": 87323
+        }
+      ]
+    },
+    "senate-27": {
+      "total": 83792,
+      "candidates": [
+        {
+          "name": "Steve Demetriou",
+          "votes": 36125
+        },
+        {
+          "name": "Mike Roberto",
+          "votes": 47667
+        }
+      ]
+    },
+    "rep-31": {
+      "total": 54906,
+      "candidates": [
+        {
+          "name": "Mike Kahoe",
+          "votes": 23580
+        },
+        {
+          "name": "J. Noah Spinner",
+          "votes": 31326
+        }
+      ]
+    },
+    "rep-32": {
+      "total": 43909,
+      "candidates": [
+        {
+          "name": "Jack K. Daniels",
+          "votes": 22977
+        },
+        {
+          "name": "Djordjije Popovic",
+          "votes": 20932
+        }
+      ]
+    },
+    "rep-33": {
+      "total": 38886,
+      "candidates": [
+        {
+          "name": "Napoleon Rodgers, Jr.",
+          "votes": 7825
+        },
+        {
+          "name": "Veronica Sims",
+          "votes": 31061
+        }
+      ]
+    },
+    "rep-34": {
+      "total": 53147,
+      "candidates": [
+        {
+          "name": "Derrick Hall",
+          "votes": 32503
+        },
+        {
+          "name": "Craig A. Shubert",
+          "votes": 20644
+        }
+      ]
+    },
+    "rep-35": {
+      "total": 29722,
+      "candidates": [
+        {
+          "name": "Samantha Salamon",
+          "votes": 17958
+        },
+        {
+          "name": "Vik Sandhu",
+          "votes": 11764
+        }
+      ]
+    }
+  },
+  "issues": {
+    "state-issue-3": {
+      "total": 220800,
+      "yes": 133673,
+      "no": 87127,
+      "yesLabel": "Yes",
+      "noLabel": "No"
+    }
+  },
+  "registered": 376027,
+  "ballotsCast": 228013,
+  "turnout": 60.64,
+  "precincts": {
+    "reporting": 371,
+    "total": 371
+  }
+}

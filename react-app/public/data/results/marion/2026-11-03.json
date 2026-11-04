@@ -1,0 +1,205 @@
+{
+  "scope": "county",
+  "county": "Marion",
+  "election": "2026-11-03",
+  "status": "unofficial",
+  "asOf": "2026-11-04T12:17:59-05:00",
+  "source": {
+    "label": "Ohio Secretary of State: election night reporting (unofficial)",
+    "url": "https://liveresults.ohiosos.gov/"
+  },
+  "contests": {
+    "governor": {
+      "total": 19897,
+      "candidates": [
+        {
+          "name": "Amy Acton / David Pepper",
+          "votes": 7595
+        },
+        {
+          "name": "Don Kissick / James L. Mills",
+          "votes": 979
+        },
+        {
+          "name": "Vivek Ramaswamy / Robert A. McColley",
+          "votes": 11323
+        }
+      ]
+    },
+    "attorney-general": {
+      "total": 19888,
+      "candidates": [
+        {
+          "name": "Keith Faber",
+          "votes": 12783
+        },
+        {
+          "name": "John J. Kulewicz",
+          "votes": 7105
+        }
+      ]
+    },
+    "auditor-of-state": {
+      "total": 19873,
+      "candidates": [
+        {
+          "name": "Annette Blackwell",
+          "votes": 6990
+        },
+        {
+          "name": "Frank LaRose",
+          "votes": 12883
+        }
+      ]
+    },
+    "secretary-of-state": {
+      "total": 19875,
+      "candidates": [
+        {
+          "name": "Tom Pruss",
+          "votes": 754
+        },
+        {
+          "name": "Allison Russo",
+          "votes": 7086
+        },
+        {
+          "name": "Robert Sprague",
+          "votes": 12035
+        }
+      ]
+    },
+    "treasurer-of-state": {
+      "total": 19811,
+      "candidates": [
+        {
+          "name": "Jay Edwards",
+          "votes": 12706
+        },
+        {
+          "name": "Seth Walsh",
+          "votes": 7105
+        }
+      ]
+    },
+    "supreme-court-2027-01-01": {
+      "total": 19816,
+      "candidates": [
+        {
+          "name": "Daniel R. Hawkins",
+          "votes": 12548
+        },
+        {
+          "name": "Marilyn Zayas",
+          "votes": 7268
+        }
+      ]
+    },
+    "supreme-court-2027-01-02": {
+      "total": 19807,
+      "candidates": [
+        {
+          "name": "Jennifer Brunner",
+          "votes": 7342
+        },
+        {
+          "name": "Colleen O'Donnell",
+          "votes": 12465
+        }
+      ]
+    },
+    "us-senate": {
+      "total": 19940,
+      "candidates": [
+        {
+          "name": "Sherrod Brown",
+          "votes": 7076
+        },
+        {
+          "name": "Jon Husted",
+          "votes": 11480
+        },
+        {
+          "name": "Greg Levy",
+          "votes": 518
+        },
+        {
+          "name": "William B. Redpath",
+          "votes": 866
+        }
+      ]
+    },
+    "congress-4": {
+      "total": 19975,
+      "candidates": [
+        {
+          "name": "Jim Jordan",
+          "votes": 12480
+        },
+        {
+          "name": "Joshua D. Kolasinski",
+          "votes": 6800
+        },
+        {
+          "name": "Tracey L. Tackett",
+          "votes": 695
+        }
+      ]
+    },
+    "appeals-3-0209": {
+      "total": 15366,
+      "candidates": [
+        {
+          "name": "Mark C. Miller",
+          "votes": 15366
+        }
+      ]
+    },
+    "rep-86": {
+      "total": 13826,
+      "candidates": [
+        {
+          "name": "Kent Halloran",
+          "votes": 5575
+        },
+        {
+          "name": "Ben Weber",
+          "votes": 8251
+        }
+      ]
+    },
+    "rep-87": {
+      "total": 6007,
+      "candidates": [
+        {
+          "name": "Lora Covrett",
+          "votes": 1494
+        },
+        {
+          "name": "Jeffrey A. McClain",
+          "votes": 4270
+        },
+        {
+          "name": "Craig Swartz",
+          "votes": 243
+        }
+      ]
+    }
+  },
+  "issues": {
+    "state-issue-3": {
+      "total": 19877,
+      "yes": 15138,
+      "no": 4739,
+      "yesLabel": "Yes",
+      "noLabel": "No"
+    }
+  },
+  "registered": 38719,
+  "ballotsCast": 20221,
+  "turnout": 52.23,
+  "precincts": {
+    "reporting": 45,
+    "total": 45
+  }
+}

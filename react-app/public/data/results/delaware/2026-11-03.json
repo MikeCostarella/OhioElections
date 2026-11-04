@@ -1,0 +1,227 @@
+{
+  "scope": "county",
+  "county": "Delaware",
+  "election": "2026-11-03",
+  "status": "unofficial",
+  "asOf": "2026-11-04T12:17:59-05:00",
+  "source": {
+    "label": "Ohio Secretary of State: election night reporting (unofficial)",
+    "url": "https://liveresults.ohiosos.gov/"
+  },
+  "contests": {
+    "governor": {
+      "total": 117101,
+      "candidates": [
+        {
+          "name": "Amy Acton / David Pepper",
+          "votes": 62013
+        },
+        {
+          "name": "Don Kissick / James L. Mills",
+          "votes": 2737
+        },
+        {
+          "name": "Vivek Ramaswamy / Robert A. McColley",
+          "votes": 52351
+        }
+      ]
+    },
+    "attorney-general": {
+      "total": 116207,
+      "candidates": [
+        {
+          "name": "Keith Faber",
+          "votes": 58638
+        },
+        {
+          "name": "John J. Kulewicz",
+          "votes": 57569
+        }
+      ]
+    },
+    "auditor-of-state": {
+      "total": 116187,
+      "candidates": [
+        {
+          "name": "Annette Blackwell",
+          "votes": 55877
+        },
+        {
+          "name": "Frank LaRose",
+          "votes": 60310
+        }
+      ]
+    },
+    "secretary-of-state": {
+      "total": 115933,
+      "candidates": [
+        {
+          "name": "Tom Pruss",
+          "votes": 3122
+        },
+        {
+          "name": "Allison Russo",
+          "votes": 58009
+        },
+        {
+          "name": "Robert Sprague",
+          "votes": 54802
+        }
+      ]
+    },
+    "treasurer-of-state": {
+      "total": 115040,
+      "candidates": [
+        {
+          "name": "Jay Edwards",
+          "votes": 58160
+        },
+        {
+          "name": "Seth Walsh",
+          "votes": 56880
+        }
+      ]
+    },
+    "supreme-court-2027-01-01": {
+      "total": 115471,
+      "candidates": [
+        {
+          "name": "Daniel R. Hawkins",
+          "votes": 57524
+        },
+        {
+          "name": "Marilyn Zayas",
+          "votes": 57947
+        }
+      ]
+    },
+    "supreme-court-2027-01-02": {
+      "total": 115500,
+      "candidates": [
+        {
+          "name": "Jennifer Brunner",
+          "votes": 59098
+        },
+        {
+          "name": "Colleen O'Donnell",
+          "votes": 56402
+        }
+      ]
+    },
+    "us-senate": {
+      "total": 117285,
+      "candidates": [
+        {
+          "name": "Sherrod Brown",
+          "votes": 59368
+        },
+        {
+          "name": "Jon Husted",
+          "votes": 54128
+        },
+        {
+          "name": "Greg Levy",
+          "votes": 1368
+        },
+        {
+          "name": "William B. Redpath",
+          "votes": 2421
+        }
+      ]
+    },
+    "congress-4": {
+      "total": 37019,
+      "candidates": [
+        {
+          "name": "Jim Jordan",
+          "votes": 18364
+        },
+        {
+          "name": "Joshua D. Kolasinski",
+          "votes": 17814
+        },
+        {
+          "name": "Tracey L. Tackett",
+          "votes": 841
+        }
+      ]
+    },
+    "congress-12": {
+      "total": 79035,
+      "candidates": [
+        {
+          "name": "Troy Balderson",
+          "votes": 38620
+        },
+        {
+          "name": "Jerrad Christian",
+          "votes": 40415
+        }
+      ]
+    },
+    "appeals-5": {
+      "total": 76973,
+      "candidates": [
+        {
+          "name": "Matthew George",
+          "votes": 76973
+        }
+      ]
+    },
+    "senate-19": {
+      "total": 114951,
+      "candidates": [
+        {
+          "name": "Scott Charland",
+          "votes": 57801
+        },
+        {
+          "name": "Ryan Rivers",
+          "votes": 57150
+        }
+      ]
+    },
+    "rep-60": {
+      "total": 62012,
+      "candidates": [
+        {
+          "name": "Shelby Kimball",
+          "votes": 32307
+        },
+        {
+          "name": "Brian Lorenz",
+          "votes": 29705
+        }
+      ]
+    },
+    "rep-61": {
+      "total": 53419,
+      "candidates": [
+        {
+          "name": "Vince McGrail",
+          "votes": 25303
+        },
+        {
+          "name": "Shawn Stevens",
+          "votes": 28116
+        }
+      ]
+    }
+  },
+  "issues": {
+    "state-issue-3": {
+      "total": 115982,
+      "yes": 76210,
+      "no": 39772,
+      "yesLabel": "Yes",
+      "noLabel": "No"
+    }
+  },
+  "registered": 170143,
+  "ballotsCast": 118305,
+  "turnout": 69.53,
+  "precincts": {
+    "reporting": 180,
+    "total": 180
+  }
+}

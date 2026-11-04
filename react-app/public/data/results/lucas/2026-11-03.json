@@ -1,0 +1,261 @@
+{
+  "scope": "county",
+  "county": "Lucas",
+  "election": "2026-11-03",
+  "status": "unofficial",
+  "asOf": "2026-11-04T12:17:59-05:00",
+  "source": {
+    "label": "Ohio Secretary of State: election night reporting (unofficial)",
+    "url": "https://liveresults.ohiosos.gov/"
+  },
+  "contests": {
+    "governor": {
+      "total": 152512,
+      "candidates": [
+        {
+          "name": "Amy Acton / David Pepper",
+          "votes": 95956
+        },
+        {
+          "name": "Don Kissick / James L. Mills",
+          "votes": 5305
+        },
+        {
+          "name": "Vivek Ramaswamy / Robert A. McColley",
+          "votes": 51251
+        }
+      ]
+    },
+    "attorney-general": {
+      "total": 151238,
+      "candidates": [
+        {
+          "name": "Keith Faber",
+          "votes": 57408
+        },
+        {
+          "name": "John J. Kulewicz",
+          "votes": 93830
+        }
+      ]
+    },
+    "auditor-of-state": {
+      "total": 150828,
+      "candidates": [
+        {
+          "name": "Annette Blackwell",
+          "votes": 91167
+        },
+        {
+          "name": "Frank LaRose",
+          "votes": 59661
+        }
+      ]
+    },
+    "secretary-of-state": {
+      "total": 151032,
+      "candidates": [
+        {
+          "name": "Tom Pruss",
+          "votes": 5628
+        },
+        {
+          "name": "Allison Russo",
+          "votes": 91670
+        },
+        {
+          "name": "Robert Sprague",
+          "votes": 53734
+        }
+      ]
+    },
+    "treasurer-of-state": {
+      "total": 150280,
+      "candidates": [
+        {
+          "name": "Jay Edwards",
+          "votes": 57124
+        },
+        {
+          "name": "Seth Walsh",
+          "votes": 93156
+        }
+      ]
+    },
+    "supreme-court-2027-01-01": {
+      "total": 150401,
+      "candidates": [
+        {
+          "name": "Daniel R. Hawkins",
+          "votes": 56487
+        },
+        {
+          "name": "Marilyn Zayas",
+          "votes": 93914
+        }
+      ]
+    },
+    "supreme-court-2027-01-02": {
+      "total": 150434,
+      "candidates": [
+        {
+          "name": "Jennifer Brunner",
+          "votes": 93954
+        },
+        {
+          "name": "Colleen O'Donnell",
+          "votes": 56480
+        }
+      ]
+    },
+    "us-senate": {
+      "total": 152674,
+      "candidates": [
+        {
+          "name": "Sherrod Brown",
+          "votes": 92287
+        },
+        {
+          "name": "Jon Husted",
+          "votes": 52982
+        },
+        {
+          "name": "Greg Levy",
+          "votes": 3339
+        },
+        {
+          "name": "William B. Redpath",
+          "votes": 4066
+        }
+      ]
+    },
+    "congress-9": {
+      "total": 151980,
+      "candidates": [
+        {
+          "name": "Marcy Kaptur",
+          "votes": 97958
+        },
+        {
+          "name": "Derek Merrin",
+          "votes": 54022
+        }
+      ]
+    },
+    "appeals-6-0209": {
+      "total": 90815,
+      "candidates": [
+        {
+          "name": "Michael R. Goulding",
+          "votes": 90815
+        }
+      ]
+    },
+    "appeals-6-0210": {
+      "total": 148889,
+      "candidates": [
+        {
+          "name": "Myron C. Duhart",
+          "votes": 95109
+        },
+        {
+          "name": "CJ Kamm",
+          "votes": 53780
+        }
+      ]
+    },
+    "senate-11": {
+      "total": 107426,
+      "candidates": [
+        {
+          "name": "Paula Hicks-Hudson",
+          "votes": 71502
+        },
+        {
+          "name": "James Nowak",
+          "votes": 32277
+        },
+        {
+          "name": "Kenneth W. Sharp",
+          "votes": 3647
+        }
+      ]
+    },
+    "rep-41": {
+      "total": 41518,
+      "candidates": [
+        {
+          "name": "Ian Chamberlin",
+          "votes": 14161
+        },
+        {
+          "name": "Erika White",
+          "votes": 27357
+        }
+      ]
+    },
+    "rep-42": {
+      "total": 29175,
+      "candidates": [
+        {
+          "name": "Robert McMahon",
+          "votes": 8500
+        },
+        {
+          "name": "Elgin Rogers Jr.",
+          "votes": 20675
+        }
+      ]
+    },
+    "rep-43": {
+      "total": 35824,
+      "candidates": [
+        {
+          "name": "Michele Grim",
+          "votes": 23569
+        },
+        {
+          "name": "Zach Hall",
+          "votes": 1185
+        },
+        {
+          "name": "David Karmol",
+          "votes": 11070
+        }
+      ]
+    },
+    "rep-44": {
+      "total": 44100,
+      "candidates": [
+        {
+          "name": "David J. Fournier",
+          "votes": 21171
+        },
+        {
+          "name": "Edward L. Schimmel",
+          "votes": 20978
+        },
+        {
+          "name": "Lyndsey A. Stough",
+          "votes": 1951
+        }
+      ]
+    }
+  },
+  "issues": {
+    "state-issue-3": {
+      "total": 145412,
+      "yes": 92474,
+      "no": 52938,
+      "yesLabel": "Yes",
+      "noLabel": "No"
+    }
+  },
+  "registered": 292506,
+  "ballotsCast": 155454,
+  "turnout": 53.15,
+  "precincts": {
+    "reporting": 280,
+    "total": 280
+  }
+}

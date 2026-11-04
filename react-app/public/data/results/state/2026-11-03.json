@@ -1,0 +1,11166 @@
+{
+ "scope": "state",
+ "election": "2026-11-03",
+ "status": "unofficial",
+ "asOf": "2026-11-04T12:17:59-05:00",
+ "source": {
+  "label": "Ohio Secretary of State: election night reporting (unofficial)",
+  "url": "https://liveresults.ohiosos.gov/"
+ },
+ "contests": {
+  "governor": {
+   "total": 4595782,
+   "candidates": [
+    {
+     "name": "Amy Acton / David Pepper",
+     "votes": 2404178
+    },
+    {
+     "name": "Vivek Ramaswamy / Robert A. McColley",
+     "votes": 2039730
+    },
+    {
+     "name": "Don Kissick / James L. Mills",
+     "votes": 151874
+    }
+   ],
+   "counties": {
+    "adams": {
+     "total": 8891,
+     "candidates": [
+      {
+       "name": "Amy Acton / David Pepper",
+       "votes": 2292
+      },
+      {
+       "name": "Don Kissick / James L. Mills",
+       "votes": 497
+      },
+      {
+       "name": "Vivek Ramaswamy / Robert A. McColley",
+       "votes": 6102
+      }
+     ]
+    },
+    "allen": {
+     "total": 35230,
+     "candidates": [
+      {
+       "name": "Amy Acton / David Pepper",
+       "votes": 11485
+      },
+      {
+       "name": "Don Kissick / James L. Mills",
+       "votes": 1741
+      },
+      {
+       "name": "Vivek Ramaswamy / Robert A. McColley",
+       "votes": 22004
+      }
+     ]
+    },
+    "ashland": {
+     "total": 19863,
+     "candidates": [
+      {
+       "name": "Amy Acton / David Pepper",
+       "votes": 6259
+      },
+      {
+       "name": "Don Kissick / James L. Mills",
+       "votes": 978
+      },
+      {
+       "name": "Vivek Ramaswamy / Robert A. McColley",
+       "votes": 12626
+      }
+     ]
+    },
+    "ashtabula": {
+     "total": 32483,
+     "candidates": [
+      {
+       "name": "Amy Acton / David Pepper",
+       "votes": 14375
+      },
+      {
+       "name": "Don Kissick / James L. Mills",
+       "votes": 1577
+      },
+      {
+       "name": "Vivek Ramaswamy / Robert A. McColley",
+       "votes": 16531
+      }
+     ]
+    },
+    "athens": {
+     "total": 20342,
+     "candidates": [
+      {
+       "name": "Amy Acton / David Pepper",
+       "votes": 13308
+      },
+      {
+       "name": "Don Kissick / James L. Mills",
+       "votes": 645
+      },
+      {
+       "name": "Vivek Ramaswamy / Robert A. McColley",
+       "votes": 6389
+      }
+     ]
+    },
+    "auglaize": {
+     "total": 19220,
+     "candidates": [
+      {
+       "name": "Amy Acton / David Pepper",
+       "votes": 4244
+      },
+      {
+       "name": "Don Kissick / James L. Mills",
+       "votes": 870
+      },
+      {
+       "name": "Vivek Ramaswamy / Robert A. McColley",
+       "votes": 14106
+      }
+     ]
+    },
+    "belmont": {
+     "total": 21949,
+     "candidates": [
+      {
+       "name": "Amy Acton / David Pepper",
+       "votes": 7544
+      },
+      {
+       "name": "Don Kissick / James L. Mills",
+       "votes": 989
+      },
+      {
+       "name": "Vivek Ramaswamy / Robert A. McColley",
+       "votes": 13416
+      }
+     ]
+    },
+    "brown": {
+     "total": 14946,
+     "candidates": [
+      {
+       "name": "Amy Acton / David Pepper",
+       "votes": 4104
+      },
+      {
+       "name": "Don Kissick / James L. Mills",
+       "votes": 646
+      },
+      {
+       "name": "Vivek Ramaswamy / Robert A. McColley",
+       "votes": 10196
+      }
+     ]
+    },
+    "butler": {
+     "total": 146636,
+     "candidates": [
+      {
+       "name": "Amy Acton / David Pepper",
+       "votes": 65509
+      },
+      {
+       "name": "Don Kissick / James L. Mills",
+       "votes": 4298
+      },
+      {
+       "name": "Vivek Ramaswamy / Robert A. McColley",
+       "votes": 76829
+      }
+     ]
+    },
+    "carroll": {
+     "total": 10255,
+     "candidates": [
+      {
+       "name": "Amy Acton / David Pepper",
+       "votes": 2945
+      },
+      {
+       "name": "Don Kissick / James L. Mills",
+       "votes": 598
+      },
+      {
+       "name": "Vivek Ramaswamy / Robert A. McColley",
+       "votes": 6712
+      }
+     ]
+    },
+    "champaign": {
+     "total": 15525,
+     "candidates": [
+      {
+       "name": "Amy Acton / David Pepper",
+       "votes": 4913
+      },
+      {
+       "name": "Don Kissick / James L. Mills",
+       "votes": 948
+      },
+      {
+       "name": "Vivek Ramaswamy / Robert A. McColley",
+       "votes": 9664
+      }
+     ]
+    },
+    "clark": {
+     "total": 47915,
+     "candidates": [
+      {
+       "name": "Amy Acton / David Pepper",
+       "votes": 20382
+      },
+      {
+       "name": "Don Kissick / James L. Mills",
+       "votes": 2183
+      },
+      {
+       "name": "Vivek Ramaswamy / Robert A. McColley",
+       "votes": 25350
+      }
+     ]
+    },
+    "clermont": {
+     "total": 89360,
+     "candidates": [
+      {
+       "name": "Amy Acton / David Pepper",
+       "votes": 35208
+      },
+      {
+       "name": "Don Kissick / James L. Mills",
+       "votes": 3094
+      },
+      {
+       "name": "Vivek Ramaswamy / Robert A. McColley",
+       "votes": 51058
+      }
+     ]
+    },
+    "clinton": {
+     "total": 15433,
+     "candidates": [
+      {
+       "name": "Amy Acton / David Pepper",
+       "votes": 4465
+      },
+      {
+       "name": "Don Kissick / James L. Mills",
+       "votes": 715
+      },
+      {
+       "name": "Vivek Ramaswamy / Robert A. McColley",
+       "votes": 10253
+      }
+     ]
+    },
+    "columbiana": {
+     "total": 34746,
+     "candidates": [
+      {
+       "name": "Amy Acton / David Pepper",
+       "votes": 11561
+      },
+      {
+       "name": "Don Kissick / James L. Mills",
+       "votes": 1626
+      },
+      {
+       "name": "Vivek Ramaswamy / Robert A. McColley",
+       "votes": 21559
+      }
+     ]
+    },
+    "coshocton": {
+     "total": 11707,
+     "candidates": [
+      {
+       "name": "Amy Acton / David Pepper",
+       "votes": 3786
+      },
+      {
+       "name": "Don Kissick / James L. Mills",
+       "votes": 541
+      },
+      {
+       "name": "Vivek Ramaswamy / Robert A. McColley",
+       "votes": 7380
+      }
+     ]
+    },
+    "crawford": {
+     "total": 14678,
+     "candidates": [
+      {
+       "name": "Amy Acton / David Pepper",
+       "votes": 4483
+      },
+      {
+       "name": "Don Kissick / James L. Mills",
+       "votes": 744
+      },
+      {
+       "name": "Vivek Ramaswamy / Robert A. McColley",
+       "votes": 9451
+      }
+     ]
+    },
+    "cuyahoga": {
+     "total": 475835,
+     "candidates": [
+      {
+       "name": "Amy Acton / David Pepper",
+       "votes": 344236
+      },
+      {
+       "name": "Don Kissick / James L. Mills",
+       "votes": 10440
+      },
+      {
+       "name": "Vivek Ramaswamy / Robert A. McColley",
+       "votes": 121159
+      }
+     ]
+    },
+    "darke": {
+     "total": 19986,
+     "candidates": [
+      {
+       "name": "Amy Acton / David Pepper",
+       "votes": 4379
+      },
+      {
+       "name": "Don Kissick / James L. Mills",
+       "votes": 908
+      },
+      {
+       "name": "Vivek Ramaswamy / Robert A. McColley",
+       "votes": 14699
+      }
+     ]
+    },
+    "defiance": {
+     "total": 14556,
+     "candidates": [
+      {
+       "name": "Amy Acton / David Pepper",
+       "votes": 5341
+      },
+      {
+       "name": "Don Kissick / James L. Mills",
+       "votes": 714
+      },
+      {
+       "name": "Vivek Ramaswamy / Robert A. McColley",
+       "votes": 8501
+      }
+     ]
+    },
+    "delaware": {
+     "total": 117101,
+     "candidates": [
+      {
+       "name": "Amy Acton / David Pepper",
+       "votes": 62013
+      },
+      {
+       "name": "Don Kissick / James L. Mills",
+       "votes": 2737
+      },
+      {
+       "name": "Vivek Ramaswamy / Robert A. McColley",
+       "votes": 52351
+      }
+     ]
+    },
+    "erie": {
+     "total": 31876,
+     "candidates": [
+      {
+       "name": "Amy Acton / David Pepper",
+       "votes": 15920
+      },
+      {
+       "name": "Don Kissick / James L. Mills",
+       "votes": 1232
+      },
+      {
+       "name": "Vivek Ramaswamy / Robert A. McColley",
+       "votes": 14724
+      }
+     ]
+    },
+    "fairfield": {
+     "total": 68161,
+     "candidates": [
+      {
+       "name": "Amy Acton / David Pepper",
+       "votes": 31929
+      },
+      {
+       "name": "Don Kissick / James L. Mills",
+       "votes": 2188
+      },
+      {
+       "name": "Vivek Ramaswamy / Robert A. McColley",
+       "votes": 34044
+      }
+     ]
+    },
+    "fayette": {
+     "total": 9053,
+     "candidates": [
+      {
+       "name": "Amy Acton / David Pepper",
+       "votes": 2666
+      },
+      {
+       "name": "Don Kissick / James L. Mills",
+       "votes": 401
+      },
+      {
+       "name": "Vivek Ramaswamy / Robert A. McColley",
+       "votes": 5986
+      }
+     ]
+    },
+    "franklin": {
+     "total": 505844,
+     "candidates": [
+      {
+       "name": "Amy Acton / David Pepper",
+       "votes": 363745
+      },
+      {
+       "name": "Don Kissick / James L. Mills",
+       "votes": 10586
+      },
+      {
+       "name": "Vivek Ramaswamy / Robert A. McColley",
+       "votes": 131513
+      }
+     ]
+    },
+    "fulton": {
+     "total": 17343,
+     "candidates": [
+      {
+       "name": "Amy Acton / David Pepper",
+       "votes": 6165
+      },
+      {
+       "name": "Don Kissick / James L. Mills",
+       "votes": 841
+      },
+      {
+       "name": "Vivek Ramaswamy / Robert A. McColley",
+       "votes": 10337
+      }
+     ]
+    },
+    "gallia": {
+     "total": 8629,
+     "candidates": [
+      {
+       "name": "Amy Acton / David Pepper",
+       "votes": 2424
+      },
+      {
+       "name": "Don Kissick / James L. Mills",
+       "votes": 307
+      },
+      {
+       "name": "Vivek Ramaswamy / Robert A. McColley",
+       "votes": 5898
+      }
+     ]
+    },
+    "geauga": {
+     "total": 45075,
+     "candidates": [
+      {
+       "name": "Amy Acton / David Pepper",
+       "votes": 19985
+      },
+      {
+       "name": "Don Kissick / James L. Mills",
+       "votes": 1447
+      },
+      {
+       "name": "Vivek Ramaswamy / Robert A. McColley",
+       "votes": 23643
+      }
+     ]
+    },
+    "greene": {
+     "total": 73891,
+     "candidates": [
+      {
+       "name": "Amy Acton / David Pepper",
+       "votes": 34310
+      },
+      {
+       "name": "Don Kissick / James L. Mills",
+       "votes": 2426
+      },
+      {
+       "name": "Vivek Ramaswamy / Robert A. McColley",
+       "votes": 37155
+      }
+     ]
+    },
+    "guernsey": {
+     "total": 12692,
+     "candidates": [
+      {
+       "name": "Amy Acton / David Pepper",
+       "votes": 4059
+      },
+      {
+       "name": "Don Kissick / James L. Mills",
+       "votes": 637
+      },
+      {
+       "name": "Vivek Ramaswamy / Robert A. McColley",
+       "votes": 7996
+      }
+     ]
+    },
+    "hamilton": {
+     "total": 342523,
+     "candidates": [
+      {
+       "name": "Amy Acton / David Pepper",
+       "votes": 216201
+      },
+      {
+       "name": "Don Kissick / James L. Mills",
+       "votes": 8049
+      },
+      {
+       "name": "Vivek Ramaswamy / Robert A. McColley",
+       "votes": 118273
+      }
+     ]
+    },
+    "hancock": {
+     "total": 28836,
+     "candidates": [
+      {
+       "name": "Amy Acton / David Pepper",
+       "votes": 10871
+      },
+      {
+       "name": "Don Kissick / James L. Mills",
+       "votes": 1230
+      },
+      {
+       "name": "Vivek Ramaswamy / Robert A. McColley",
+       "votes": 16735
+      }
+     ]
+    },
+    "hardin": {
+     "total": 9080,
+     "candidates": [
+      {
+       "name": "Amy Acton / David Pepper",
+       "votes": 2721
+      },
+      {
+       "name": "Don Kissick / James L. Mills",
+       "votes": 500
+      },
+      {
+       "name": "Vivek Ramaswamy / Robert A. McColley",
+       "votes": 5859
+      }
+     ]
+    },
+    "harrison": {
+     "total": 5010,
+     "candidates": [
+      {
+       "name": "Amy Acton / David Pepper",
+       "votes": 1494
+      },
+      {
+       "name": "Don Kissick / James L. Mills",
+       "votes": 318
+      },
+      {
+       "name": "Vivek Ramaswamy / Robert A. McColley",
+       "votes": 3198
+      }
+     ]
+    },
+    "henry": {
+     "total": 11157,
+     "candidates": [
+      {
+       "name": "Amy Acton / David Pepper",
+       "votes": 3674
+      },
+      {
+       "name": "Don Kissick / James L. Mills",
+       "votes": 488
+      },
+      {
+       "name": "Vivek Ramaswamy / Robert A. McColley",
+       "votes": 6995
+      }
+     ]
+    },
+    "highland": {
+     "total": 14245,
+     "candidates": [
+      {
+       "name": "Amy Acton / David Pepper",
+       "votes": 3675
+      },
+      {
+       "name": "Don Kissick / James L. Mills",
+       "votes": 681
+      },
+      {
+       "name": "Vivek Ramaswamy / Robert A. McColley",
+       "votes": 9889
+      }
+     ]
+    },
+    "hocking": {
+     "total": 9691,
+     "candidates": [
+      {
+       "name": "Amy Acton / David Pepper",
+       "votes": 3554
+      },
+      {
+       "name": "Don Kissick / James L. Mills",
+       "votes": 468
+      },
+      {
+       "name": "Vivek Ramaswamy / Robert A. McColley",
+       "votes": 5669
+      }
+     ]
+    },
+    "holmes": {
+     "total": 8852,
+     "candidates": [
+      {
+       "name": "Amy Acton / David Pepper",
+       "votes": 1813
+      },
+      {
+       "name": "Don Kissick / James L. Mills",
+       "votes": 298
+      },
+      {
+       "name": "Vivek Ramaswamy / Robert A. McColley",
+       "votes": 6741
+      }
+     ]
+    },
+    "huron": {
+     "total": 19644,
+     "candidates": [
+      {
+       "name": "Amy Acton / David Pepper",
+       "votes": 7083
+      },
+      {
+       "name": "Don Kissick / James L. Mills",
+       "votes": 1119
+      },
+      {
+       "name": "Vivek Ramaswamy / Robert A. McColley",
+       "votes": 11442
+      }
+     ]
+    },
+    "jackson": {
+     "total": 9734,
+     "candidates": [
+      {
+       "name": "Amy Acton / David Pepper",
+       "votes": 3049
+      },
+      {
+       "name": "Don Kissick / James L. Mills",
+       "votes": 398
+      },
+      {
+       "name": "Vivek Ramaswamy / Robert A. McColley",
+       "votes": 6287
+      }
+     ]
+    },
+    "jefferson": {
+     "total": 21718,
+     "candidates": [
+      {
+       "name": "Amy Acton / David Pepper",
+       "votes": 7707
+      },
+      {
+       "name": "Don Kissick / James L. Mills",
+       "votes": 1041
+      },
+      {
+       "name": "Vivek Ramaswamy / Robert A. McColley",
+       "votes": 12970
+      }
+     ]
+    },
+    "knox": {
+     "total": 24065,
+     "candidates": [
+      {
+       "name": "Amy Acton / David Pepper",
+       "votes": 8044
+      },
+      {
+       "name": "Don Kissick / James L. Mills",
+       "votes": 950
+      },
+      {
+       "name": "Vivek Ramaswamy / Robert A. McColley",
+       "votes": 15071
+      }
+     ]
+    },
+    "lake": {
+     "total": 105775,
+     "candidates": [
+      {
+       "name": "Amy Acton / David Pepper",
+       "votes": 53646
+      },
+      {
+       "name": "Don Kissick / James L. Mills",
+       "votes": 3852
+      },
+      {
+       "name": "Vivek Ramaswamy / Robert A. McColley",
+       "votes": 48277
+      }
+     ]
+    },
+    "lawrence": {
+     "total": 18027,
+     "candidates": [
+      {
+       "name": "Amy Acton / David Pepper",
+       "votes": 6162
+      },
+      {
+       "name": "Don Kissick / James L. Mills",
+       "votes": 704
+      },
+      {
+       "name": "Vivek Ramaswamy / Robert A. McColley",
+       "votes": 11161
+      }
+     ]
+    },
+    "licking": {
+     "total": 73973,
+     "candidates": [
+      {
+       "name": "Amy Acton / David Pepper",
+       "votes": 32437
+      },
+      {
+       "name": "Don Kissick / James L. Mills",
+       "votes": 2868
+      },
+      {
+       "name": "Vivek Ramaswamy / Robert A. McColley",
+       "votes": 38668
+      }
+     ]
+    },
+    "logan": {
+     "total": 17775,
+     "candidates": [
+      {
+       "name": "Amy Acton / David Pepper",
+       "votes": 4980
+      },
+      {
+       "name": "Don Kissick / James L. Mills",
+       "votes": 939
+      },
+      {
+       "name": "Vivek Ramaswamy / Robert A. McColley",
+       "votes": 11856
+      }
+     ]
+    },
+    "lorain": {
+     "total": 129692,
+     "candidates": [
+      {
+       "name": "Amy Acton / David Pepper",
+       "votes": 71675
+      },
+      {
+       "name": "Don Kissick / James L. Mills",
+       "votes": 4491
+      },
+      {
+       "name": "Vivek Ramaswamy / Robert A. McColley",
+       "votes": 53526
+      }
+     ]
+    },
+    "lucas": {
+     "total": 152512,
+     "candidates": [
+      {
+       "name": "Amy Acton / David Pepper",
+       "votes": 95956
+      },
+      {
+       "name": "Don Kissick / James L. Mills",
+       "votes": 5305
+      },
+      {
+       "name": "Vivek Ramaswamy / Robert A. McColley",
+       "votes": 51251
+      }
+     ]
+    },
+    "madison": {
+     "total": 16243,
+     "candidates": [
+      {
+       "name": "Amy Acton / David Pepper",
+       "votes": 5872
+      },
+      {
+       "name": "Don Kissick / James L. Mills",
+       "votes": 662
+      },
+      {
+       "name": "Vivek Ramaswamy / Robert A. McColley",
+       "votes": 9709
+      }
+     ]
+    },
+    "mahoning": {
+     "total": 88421,
+     "candidates": [
+      {
+       "name": "Amy Acton / David Pepper",
+       "votes": 47879
+      },
+      {
+       "name": "Don Kissick / James L. Mills",
+       "votes": 3060
+      },
+      {
+       "name": "Vivek Ramaswamy / Robert A. McColley",
+       "votes": 37482
+      }
+     ]
+    },
+    "marion": {
+     "total": 19897,
+     "candidates": [
+      {
+       "name": "Amy Acton / David Pepper",
+       "votes": 7595
+      },
+      {
+       "name": "Don Kissick / James L. Mills",
+       "votes": 979
+      },
+      {
+       "name": "Vivek Ramaswamy / Robert A. McColley",
+       "votes": 11323
+      }
+     ]
+    },
+    "medina": {
+     "total": 85394,
+     "candidates": [
+      {
+       "name": "Amy Acton / David Pepper",
+       "votes": 38701
+      },
+      {
+       "name": "Don Kissick / James L. Mills",
+       "votes": 2690
+      },
+      {
+       "name": "Vivek Ramaswamy / Robert A. McColley",
+       "votes": 44003
+      }
+     ]
+    },
+    "meigs": {
+     "total": 7518,
+     "candidates": [
+      {
+       "name": "Amy Acton / David Pepper",
+       "votes": 2238
+      },
+      {
+       "name": "Don Kissick / James L. Mills",
+       "votes": 329
+      },
+      {
+       "name": "Vivek Ramaswamy / Robert A. McColley",
+       "votes": 4951
+      }
+     ]
+    },
+    "mercer": {
+     "total": 18003,
+     "candidates": [
+      {
+       "name": "Amy Acton / David Pepper",
+       "votes": 3710
+      },
+      {
+       "name": "Don Kissick / James L. Mills",
+       "votes": 628
+      },
+      {
+       "name": "Vivek Ramaswamy / Robert A. McColley",
+       "votes": 13665
+      }
+     ]
+    },
+    "miami": {
+     "total": 45524,
+     "candidates": [
+      {
+       "name": "Amy Acton / David Pepper",
+       "votes": 15391
+      },
+      {
+       "name": "Don Kissick / James L. Mills",
+       "votes": 2085
+      },
+      {
+       "name": "Vivek Ramaswamy / Robert A. McColley",
+       "votes": 28048
+      }
+     ]
+    },
+    "monroe": {
+     "total": 4761,
+     "candidates": [
+      {
+       "name": "Amy Acton / David Pepper",
+       "votes": 1330
+      },
+      {
+       "name": "Don Kissick / James L. Mills",
+       "votes": 285
+      },
+      {
+       "name": "Vivek Ramaswamy / Robert A. McColley",
+       "votes": 3146
+      }
+     ]
+    },
+    "montgomery": {
+     "total": 202332,
+     "candidates": [
+      {
+       "name": "Amy Acton / David Pepper",
+       "votes": 116335
+      },
+      {
+       "name": "Don Kissick / James L. Mills",
+       "votes": 6092
+      },
+      {
+       "name": "Vivek Ramaswamy / Robert A. McColley",
+       "votes": 79905
+      }
+     ]
+    },
+    "morgan": {
+     "total": 4783,
+     "candidates": [
+      {
+       "name": "Amy Acton / David Pepper",
+       "votes": 1503
+      },
+      {
+       "name": "Don Kissick / James L. Mills",
+       "votes": 219
+      },
+      {
+       "name": "Vivek Ramaswamy / Robert A. McColley",
+       "votes": 3061
+      }
+     ]
+    },
+    "morrow": {
+     "total": 14105,
+     "candidates": [
+      {
+       "name": "Amy Acton / David Pepper",
+       "votes": 4050
+      },
+      {
+       "name": "Don Kissick / James L. Mills",
+       "votes": 730
+      },
+      {
+       "name": "Vivek Ramaswamy / Robert A. McColley",
+       "votes": 9325
+      }
+     ]
+    },
+    "muskingum": {
+     "total": 28696,
+     "candidates": [
+      {
+       "name": "Amy Acton / David Pepper",
+       "votes": 10213
+      },
+      {
+       "name": "Don Kissick / James L. Mills",
+       "votes": 1336
+      },
+      {
+       "name": "Vivek Ramaswamy / Robert A. McColley",
+       "votes": 17147
+      }
+     ]
+    },
+    "noble": {
+     "total": 4440,
+     "candidates": [
+      {
+       "name": "Amy Acton / David Pepper",
+       "votes": 1113
+      },
+      {
+       "name": "Don Kissick / James L. Mills",
+       "votes": 220
+      },
+      {
+       "name": "Vivek Ramaswamy / Robert A. McColley",
+       "votes": 3107
+      }
+     ]
+    },
+    "ottawa": {
+     "total": 19203,
+     "candidates": [
+      {
+       "name": "Amy Acton / David Pepper",
+       "votes": 8378
+      },
+      {
+       "name": "Don Kissick / James L. Mills",
+       "votes": 773
+      },
+      {
+       "name": "Vivek Ramaswamy / Robert A. McColley",
+       "votes": 10052
+      }
+     ]
+    },
+    "paulding": {
+     "total": 8922,
+     "candidates": [
+      {
+       "name": "Amy Acton / David Pepper",
+       "votes": 2655
+      },
+      {
+       "name": "Don Kissick / James L. Mills",
+       "votes": 406
+      },
+      {
+       "name": "Vivek Ramaswamy / Robert A. McColley",
+       "votes": 5861
+      }
+     ]
+    },
+    "perry": {
+     "total": 12479,
+     "candidates": [
+      {
+       "name": "Amy Acton / David Pepper",
+       "votes": 3960
+      },
+      {
+       "name": "Don Kissick / James L. Mills",
+       "votes": 606
+      },
+      {
+       "name": "Vivek Ramaswamy / Robert A. McColley",
+       "votes": 7913
+      }
+     ]
+    },
+    "pickaway": {
+     "total": 22083,
+     "candidates": [
+      {
+       "name": "Amy Acton / David Pepper",
+       "votes": 7569
+      },
+      {
+       "name": "Don Kissick / James L. Mills",
+       "votes": 882
+      },
+      {
+       "name": "Vivek Ramaswamy / Robert A. McColley",
+       "votes": 13632
+      }
+     ]
+    },
+    "pike": {
+     "total": 8520,
+     "candidates": [
+      {
+       "name": "Amy Acton / David Pepper",
+       "votes": 2811
+      },
+      {
+       "name": "Don Kissick / James L. Mills",
+       "votes": 307
+      },
+      {
+       "name": "Vivek Ramaswamy / Robert A. McColley",
+       "votes": 5402
+      }
+     ]
+    },
+    "portage": {
+     "total": 65950,
+     "candidates": [
+      {
+       "name": "Amy Acton / David Pepper",
+       "votes": 33784
+      },
+      {
+       "name": "Don Kissick / James L. Mills",
+       "votes": 2541
+      },
+      {
+       "name": "Vivek Ramaswamy / Robert A. McColley",
+       "votes": 29625
+      }
+     ]
+    },
+    "preble": {
+     "total": 15302,
+     "candidates": [
+      {
+       "name": "Amy Acton / David Pepper",
+       "votes": 4169
+      },
+      {
+       "name": "Don Kissick / James L. Mills",
+       "votes": 676
+      },
+      {
+       "name": "Vivek Ramaswamy / Robert A. McColley",
+       "votes": 10457
+      }
+     ]
+    },
+    "putnam": {
+     "total": 15368,
+     "candidates": [
+      {
+       "name": "Amy Acton / David Pepper",
+       "votes": 2996
+      },
+      {
+       "name": "Don Kissick / James L. Mills",
+       "votes": 691
+      },
+      {
+       "name": "Vivek Ramaswamy / Robert A. McColley",
+       "votes": 11681
+      }
+     ]
+    },
+    "richland": {
+     "total": 43948,
+     "candidates": [
+      {
+       "name": "Amy Acton / David Pepper",
+       "votes": 15626
+      },
+      {
+       "name": "Don Kissick / James L. Mills",
+       "votes": 1791
+      },
+      {
+       "name": "Vivek Ramaswamy / Robert A. McColley",
+       "votes": 26531
+      }
+     ]
+    },
+    "ross": {
+     "total": 24602,
+     "candidates": [
+      {
+       "name": "Amy Acton / David Pepper",
+       "votes": 9468
+      },
+      {
+       "name": "Don Kissick / James L. Mills",
+       "votes": 952
+      },
+      {
+       "name": "Vivek Ramaswamy / Robert A. McColley",
+       "votes": 14182
+      }
+     ]
+    },
+    "sandusky": {
+     "total": 22571,
+     "candidates": [
+      {
+       "name": "Amy Acton / David Pepper",
+       "votes": 9518
+      },
+      {
+       "name": "Don Kissick / James L. Mills",
+       "votes": 1191
+      },
+      {
+       "name": "Vivek Ramaswamy / Robert A. McColley",
+       "votes": 11862
+      }
+     ]
+    },
+    "scioto": {
+     "total": 21507,
+     "candidates": [
+      {
+       "name": "Amy Acton / David Pepper",
+       "votes": 7741
+      },
+      {
+       "name": "Don Kissick / James L. Mills",
+       "votes": 603
+      },
+      {
+       "name": "Vivek Ramaswamy / Robert A. McColley",
+       "votes": 13163
+      }
+     ]
+    },
+    "seneca": {
+     "total": 18717,
+     "candidates": [
+      {
+       "name": "Amy Acton / David Pepper",
+       "votes": 7380
+      },
+      {
+       "name": "Don Kissick / James L. Mills",
+       "votes": 1047
+      },
+      {
+       "name": "Vivek Ramaswamy / Robert A. McColley",
+       "votes": 10290
+      }
+     ]
+    },
+    "shelby": {
+     "total": 18920,
+     "candidates": [
+      {
+       "name": "Amy Acton / David Pepper",
+       "votes": 4217
+      },
+      {
+       "name": "Don Kissick / James L. Mills",
+       "votes": 784
+      },
+      {
+       "name": "Vivek Ramaswamy / Robert A. McColley",
+       "votes": 13919
+      }
+     ]
+    },
+    "stark": {
+     "total": 144606,
+     "candidates": [
+      {
+       "name": "Amy Acton / David Pepper",
+       "votes": 68025
+      },
+      {
+       "name": "Don Kissick / James L. Mills",
+       "votes": 5617
+      },
+      {
+       "name": "Vivek Ramaswamy / Robert A. McColley",
+       "votes": 70964
+      }
+     ]
+    },
+    "summit": {
+     "total": 225392,
+     "candidates": [
+      {
+       "name": "Amy Acton / David Pepper",
+       "votes": 138467
+      },
+      {
+       "name": "Don Kissick / James L. Mills",
+       "votes": 6668
+      },
+      {
+       "name": "Vivek Ramaswamy / Robert A. McColley",
+       "votes": 80257
+      }
+     ]
+    },
+    "trumbull": {
+     "total": 74012,
+     "candidates": [
+      {
+       "name": "Amy Acton / David Pepper",
+       "votes": 38197
+      },
+      {
+       "name": "Don Kissick / James L. Mills",
+       "votes": 2847
+      },
+      {
+       "name": "Vivek Ramaswamy / Robert A. McColley",
+       "votes": 32968
+      }
+     ]
+    },
+    "tuscarawas": {
+     "total": 31981,
+     "candidates": [
+      {
+       "name": "Amy Acton / David Pepper",
+       "votes": 11867
+      },
+      {
+       "name": "Don Kissick / James L. Mills",
+       "votes": 1438
+      },
+      {
+       "name": "Vivek Ramaswamy / Robert A. McColley",
+       "votes": 18676
+      }
+     ]
+    },
+    "union": {
+     "total": 31174,
+     "candidates": [
+      {
+       "name": "Amy Acton / David Pepper",
+       "votes": 13446
+      },
+      {
+       "name": "Don Kissick / James L. Mills",
+       "votes": 994
+      },
+      {
+       "name": "Vivek Ramaswamy / Robert A. McColley",
+       "votes": 16734
+      }
+     ]
+    },
+    "vanwert": {
+     "total": 10496,
+     "candidates": [
+      {
+       "name": "Amy Acton / David Pepper",
+       "votes": 2701
+      },
+      {
+       "name": "Don Kissick / James L. Mills",
+       "votes": 529
+      },
+      {
+       "name": "Vivek Ramaswamy / Robert A. McColley",
+       "votes": 7266
+      }
+     ]
+    },
+    "vinton": {
+     "total": 3892,
+     "candidates": [
+      {
+       "name": "Amy Acton / David Pepper",
+       "votes": 1144
+      },
+      {
+       "name": "Don Kissick / James L. Mills",
+       "votes": 184
+      },
+      {
+       "name": "Vivek Ramaswamy / Robert A. McColley",
+       "votes": 2564
+      }
+     ]
+    },
+    "warren": {
+     "total": 112794,
+     "candidates": [
+      {
+       "name": "Amy Acton / David Pepper",
+       "votes": 45903
+      },
+      {
+       "name": "Don Kissick / James L. Mills",
+       "votes": 3465
+      },
+      {
+       "name": "Vivek Ramaswamy / Robert A. McColley",
+       "votes": 63426
+      }
+     ]
+    },
+    "washington": {
+     "total": 22641,
+     "candidates": [
+      {
+       "name": "Amy Acton / David Pepper",
+       "votes": 8290
+      },
+      {
+       "name": "Don Kissick / James L. Mills",
+       "votes": 1068
+      },
+      {
+       "name": "Vivek Ramaswamy / Robert A. McColley",
+       "votes": 13283
+      }
+     ]
+    },
+    "wayne": {
+     "total": 41259,
+     "candidates": [
+      {
+       "name": "Amy Acton / David Pepper",
+       "votes": 15259
+      },
+      {
+       "name": "Don Kissick / James L. Mills",
+       "votes": 1624
+      },
+      {
+       "name": "Vivek Ramaswamy / Robert A. McColley",
+       "votes": 24376
+      }
+     ]
+    },
+    "williams": {
+     "total": 13456,
+     "candidates": [
+      {
+       "name": "Amy Acton / David Pepper",
+       "votes": 4302
+      },
+      {
+       "name": "Don Kissick / James L. Mills",
+       "votes": 758
+      },
+      {
+       "name": "Vivek Ramaswamy / Robert A. McColley",
+       "votes": 8396
+      }
+     ]
+    },
+    "wood": {
+     "total": 54502,
+     "candidates": [
+      {
+       "name": "Amy Acton / David Pepper",
+       "votes": 28632
+      },
+      {
+       "name": "Don Kissick / James L. Mills",
+       "votes": 2196
+      },
+      {
+       "name": "Vivek Ramaswamy / Robert A. McColley",
+       "votes": 23674
+      }
+     ]
+    },
+    "wyandot": {
+     "total": 9838,
+     "candidates": [
+      {
+       "name": "Amy Acton / David Pepper",
+       "votes": 2966
+      },
+      {
+       "name": "Don Kissick / James L. Mills",
+       "votes": 668
+      },
+      {
+       "name": "Vivek Ramaswamy / Robert A. McColley",
+       "votes": 6204
+      }
+     ]
+    }
+   }
+  },
+  "attorney-general": {
+   "total": 4541827,
+   "candidates": [
+    {
+     "name": "John J. Kulewicz",
+     "votes": 2285117
+    },
+    {
+     "name": "Keith Faber",
+     "votes": 2256710
+    }
+   ],
+   "counties": {
+    "adams": {
+     "total": 8876,
+     "candidates": [
+      {
+       "name": "Keith Faber",
+       "votes": 6819
+      },
+      {
+       "name": "John J. Kulewicz",
+       "votes": 2057
+      }
+     ]
+    },
+    "allen": {
+     "total": 35203,
+     "candidates": [
+      {
+       "name": "Keith Faber",
+       "votes": 24384
+      },
+      {
+       "name": "John J. Kulewicz",
+       "votes": 10819
+      }
+     ]
+    },
+    "ashland": {
+     "total": 19673,
+     "candidates": [
+      {
+       "name": "Keith Faber",
+       "votes": 13908
+      },
+      {
+       "name": "John J. Kulewicz",
+       "votes": 5765
+      }
+     ]
+    },
+    "ashtabula": {
+     "total": 32128,
+     "candidates": [
+      {
+       "name": "Keith Faber",
+       "votes": 18538
+      },
+      {
+       "name": "John J. Kulewicz",
+       "votes": 13590
+      }
+     ]
+    },
+    "athens": {
+     "total": 20142,
+     "candidates": [
+      {
+       "name": "Keith Faber",
+       "votes": 7335
+      },
+      {
+       "name": "John J. Kulewicz",
+       "votes": 12807
+      }
+     ]
+    },
+    "auglaize": {
+     "total": 19195,
+     "candidates": [
+      {
+       "name": "Keith Faber",
+       "votes": 15600
+      },
+      {
+       "name": "John J. Kulewicz",
+       "votes": 3595
+      }
+     ]
+    },
+    "belmont": {
+     "total": 21818,
+     "candidates": [
+      {
+       "name": "Keith Faber",
+       "votes": 14393
+      },
+      {
+       "name": "John J. Kulewicz",
+       "votes": 7425
+      }
+     ]
+    },
+    "brown": {
+     "total": 14881,
+     "candidates": [
+      {
+       "name": "Keith Faber",
+       "votes": 11123
+      },
+      {
+       "name": "John J. Kulewicz",
+       "votes": 3758
+      }
+     ]
+    },
+    "butler": {
+     "total": 144480,
+     "candidates": [
+      {
+       "name": "Keith Faber",
+       "votes": 82670
+      },
+      {
+       "name": "John J. Kulewicz",
+       "votes": 61810
+      }
+     ]
+    },
+    "carroll": {
+     "total": 10222,
+     "candidates": [
+      {
+       "name": "Keith Faber",
+       "votes": 7474
+      },
+      {
+       "name": "John J. Kulewicz",
+       "votes": 2748
+      }
+     ]
+    },
+    "champaign": {
+     "total": 15375,
+     "candidates": [
+      {
+       "name": "Keith Faber",
+       "votes": 10899
+      },
+      {
+       "name": "John J. Kulewicz",
+       "votes": 4476
+      }
+     ]
+    },
+    "clark": {
+     "total": 48424,
+     "candidates": [
+      {
+       "name": "Keith Faber",
+       "votes": 28621
+      },
+      {
+       "name": "John J. Kulewicz",
+       "votes": 19803
+      }
+     ]
+    },
+    "clermont": {
+     "total": 88556,
+     "candidates": [
+      {
+       "name": "Keith Faber",
+       "votes": 55309
+      },
+      {
+       "name": "John J. Kulewicz",
+       "votes": 33247
+      }
+     ]
+    },
+    "clinton": {
+     "total": 15297,
+     "candidates": [
+      {
+       "name": "Keith Faber",
+       "votes": 11189
+      },
+      {
+       "name": "John J. Kulewicz",
+       "votes": 4108
+      }
+     ]
+    },
+    "columbiana": {
+     "total": 34557,
+     "candidates": [
+      {
+       "name": "Keith Faber",
+       "votes": 23704
+      },
+      {
+       "name": "John J. Kulewicz",
+       "votes": 10853
+      }
+     ]
+    },
+    "coshocton": {
+     "total": 11645,
+     "candidates": [
+      {
+       "name": "Keith Faber",
+       "votes": 8237
+      },
+      {
+       "name": "John J. Kulewicz",
+       "votes": 3408
+      }
+     ]
+    },
+    "crawford": {
+     "total": 14615,
+     "candidates": [
+      {
+       "name": "Keith Faber",
+       "votes": 10446
+      },
+      {
+       "name": "John J. Kulewicz",
+       "votes": 4169
+      }
+     ]
+    },
+    "cuyahoga": {
+     "total": 468066,
+     "candidates": [
+      {
+       "name": "Keith Faber",
+       "votes": 134122
+      },
+      {
+       "name": "John J. Kulewicz",
+       "votes": 333944
+      }
+     ]
+    },
+    "darke": {
+     "total": 20045,
+     "candidates": [
+      {
+       "name": "Keith Faber",
+       "votes": 16250
+      },
+      {
+       "name": "John J. Kulewicz",
+       "votes": 3795
+      }
+     ]
+    },
+    "defiance": {
+     "total": 14438,
+     "candidates": [
+      {
+       "name": "Keith Faber",
+       "votes": 9422
+      },
+      {
+       "name": "John J. Kulewicz",
+       "votes": 5016
+      }
+     ]
+    },
+    "delaware": {
+     "total": 116207,
+     "candidates": [
+      {
+       "name": "Keith Faber",
+       "votes": 58638
+      },
+      {
+       "name": "John J. Kulewicz",
+       "votes": 57569
+      }
+     ]
+    },
+    "erie": {
+     "total": 31509,
+     "candidates": [
+      {
+       "name": "Keith Faber",
+       "votes": 16570
+      },
+      {
+       "name": "John J. Kulewicz",
+       "votes": 14939
+      }
+     ]
+    },
+    "fairfield": {
+     "total": 67489,
+     "candidates": [
+      {
+       "name": "Keith Faber",
+       "votes": 37773
+      },
+      {
+       "name": "John J. Kulewicz",
+       "votes": 29716
+      }
+     ]
+    },
+    "fayette": {
+     "total": 9000,
+     "candidates": [
+      {
+       "name": "Keith Faber",
+       "votes": 6595
+      },
+      {
+       "name": "John J. Kulewicz",
+       "votes": 2405
+      }
+     ]
+    },
+    "franklin": {
+     "total": 496629,
+     "candidates": [
+      {
+       "name": "Keith Faber",
+       "votes": 149267
+      },
+      {
+       "name": "John J. Kulewicz",
+       "votes": 347362
+      }
+     ]
+    },
+    "fulton": {
+     "total": 17242,
+     "candidates": [
+      {
+       "name": "Keith Faber",
+       "votes": 11651
+      },
+      {
+       "name": "John J. Kulewicz",
+       "votes": 5591
+      }
+     ]
+    },
+    "gallia": {
+     "total": 8607,
+     "candidates": [
+      {
+       "name": "Keith Faber",
+       "votes": 6356
+      },
+      {
+       "name": "John J. Kulewicz",
+       "votes": 2251
+      }
+     ]
+    },
+    "geauga": {
+     "total": 44634,
+     "candidates": [
+      {
+       "name": "Keith Faber",
+       "votes": 26069
+      },
+      {
+       "name": "John J. Kulewicz",
+       "votes": 18565
+      }
+     ]
+    },
+    "greene": {
+     "total": 73588,
+     "candidates": [
+      {
+       "name": "Keith Faber",
+       "votes": 41154
+      },
+      {
+       "name": "John J. Kulewicz",
+       "votes": 32434
+      }
+     ]
+    },
+    "guernsey": {
+     "total": 12590,
+     "candidates": [
+      {
+       "name": "Keith Faber",
+       "votes": 8818
+      },
+      {
+       "name": "John J. Kulewicz",
+       "votes": 3772
+      }
+     ]
+    },
+    "hamilton": {
+     "total": 339509,
+     "candidates": [
+      {
+       "name": "Keith Faber",
+       "votes": 130475
+      },
+      {
+       "name": "John J. Kulewicz",
+       "votes": 209034
+      }
+     ]
+    },
+    "hancock": {
+     "total": 28742,
+     "candidates": [
+      {
+       "name": "Keith Faber",
+       "votes": 18766
+      },
+      {
+       "name": "John J. Kulewicz",
+       "votes": 9976
+      }
+     ]
+    },
+    "hardin": {
+     "total": 9065,
+     "candidates": [
+      {
+       "name": "Keith Faber",
+       "votes": 6642
+      },
+      {
+       "name": "John J. Kulewicz",
+       "votes": 2423
+      }
+     ]
+    },
+    "harrison": {
+     "total": 4989,
+     "candidates": [
+      {
+       "name": "Keith Faber",
+       "votes": 3547
+      },
+      {
+       "name": "John J. Kulewicz",
+       "votes": 1442
+      }
+     ]
+    },
+    "henry": {
+     "total": 11041,
+     "candidates": [
+      {
+       "name": "Keith Faber",
+       "votes": 7717
+      },
+      {
+       "name": "John J. Kulewicz",
+       "votes": 3324
+      }
+     ]
+    },
+    "highland": {
+     "total": 14168,
+     "candidates": [
+      {
+       "name": "Keith Faber",
+       "votes": 10749
+      },
+      {
+       "name": "John J. Kulewicz",
+       "votes": 3419
+      }
+     ]
+    },
+    "hocking": {
+     "total": 9649,
+     "candidates": [
+      {
+       "name": "Keith Faber",
+       "votes": 6394
+      },
+      {
+       "name": "John J. Kulewicz",
+       "votes": 3255
+      }
+     ]
+    },
+    "holmes": {
+     "total": 8757,
+     "candidates": [
+      {
+       "name": "Keith Faber",
+       "votes": 7133
+      },
+      {
+       "name": "John J. Kulewicz",
+       "votes": 1624
+      }
+     ]
+    },
+    "huron": {
+     "total": 19416,
+     "candidates": [
+      {
+       "name": "Keith Faber",
+       "votes": 12735
+      },
+      {
+       "name": "John J. Kulewicz",
+       "votes": 6681
+      }
+     ]
+    },
+    "jackson": {
+     "total": 9652,
+     "candidates": [
+      {
+       "name": "Keith Faber",
+       "votes": 6889
+      },
+      {
+       "name": "John J. Kulewicz",
+       "votes": 2763
+      }
+     ]
+    },
+    "jefferson": {
+     "total": 21678,
+     "candidates": [
+      {
+       "name": "Keith Faber",
+       "votes": 13883
+      },
+      {
+       "name": "John J. Kulewicz",
+       "votes": 7795
+      }
+     ]
+    },
+    "knox": {
+     "total": 23923,
+     "candidates": [
+      {
+       "name": "Keith Faber",
+       "votes": 16412
+      },
+      {
+       "name": "John J. Kulewicz",
+       "votes": 7511
+      }
+     ]
+    },
+    "lake": {
+     "total": 103354,
+     "candidates": [
+      {
+       "name": "Keith Faber",
+       "votes": 53237
+      },
+      {
+       "name": "John J. Kulewicz",
+       "votes": 50117
+      }
+     ]
+    },
+    "lawrence": {
+     "total": 18044,
+     "candidates": [
+      {
+       "name": "Keith Faber",
+       "votes": 12063
+      },
+      {
+       "name": "John J. Kulewicz",
+       "votes": 5981
+      }
+     ]
+    },
+    "licking": {
+     "total": 73547,
+     "candidates": [
+      {
+       "name": "Keith Faber",
+       "votes": 43232
+      },
+      {
+       "name": "John J. Kulewicz",
+       "votes": 30315
+      }
+     ]
+    },
+    "logan": {
+     "total": 17693,
+     "candidates": [
+      {
+       "name": "Keith Faber",
+       "votes": 13204
+      },
+      {
+       "name": "John J. Kulewicz",
+       "votes": 4489
+      }
+     ]
+    },
+    "lorain": {
+     "total": 127287,
+     "candidates": [
+      {
+       "name": "Keith Faber",
+       "votes": 59305
+      },
+      {
+       "name": "John J. Kulewicz",
+       "votes": 67982
+      }
+     ]
+    },
+    "lucas": {
+     "total": 151238,
+     "candidates": [
+      {
+       "name": "Keith Faber",
+       "votes": 57408
+      },
+      {
+       "name": "John J. Kulewicz",
+       "votes": 93830
+      }
+     ]
+    },
+    "madison": {
+     "total": 16060,
+     "candidates": [
+      {
+       "name": "Keith Faber",
+       "votes": 10808
+      },
+      {
+       "name": "John J. Kulewicz",
+       "votes": 5252
+      }
+     ]
+    },
+    "mahoning": {
+     "total": 86336,
+     "candidates": [
+      {
+       "name": "Keith Faber",
+       "votes": 41512
+      },
+      {
+       "name": "John J. Kulewicz",
+       "votes": 44824
+      }
+     ]
+    },
+    "marion": {
+     "total": 19888,
+     "candidates": [
+      {
+       "name": "Keith Faber",
+       "votes": 12783
+      },
+      {
+       "name": "John J. Kulewicz",
+       "votes": 7105
+      }
+     ]
+    },
+    "medina": {
+     "total": 84289,
+     "candidates": [
+      {
+       "name": "Keith Faber",
+       "votes": 48461
+      },
+      {
+       "name": "John J. Kulewicz",
+       "votes": 35828
+      }
+     ]
+    },
+    "meigs": {
+     "total": 7349,
+     "candidates": [
+      {
+       "name": "Keith Faber",
+       "votes": 5274
+      },
+      {
+       "name": "John J. Kulewicz",
+       "votes": 2075
+      }
+     ]
+    },
+    "mercer": {
+     "total": 18031,
+     "candidates": [
+      {
+       "name": "Keith Faber",
+       "votes": 15020
+      },
+      {
+       "name": "John J. Kulewicz",
+       "votes": 3011
+      }
+     ]
+    },
+    "miami": {
+     "total": 45316,
+     "candidates": [
+      {
+       "name": "Keith Faber",
+       "votes": 31171
+      },
+      {
+       "name": "John J. Kulewicz",
+       "votes": 14145
+      }
+     ]
+    },
+    "monroe": {
+     "total": 4696,
+     "candidates": [
+      {
+       "name": "Keith Faber",
+       "votes": 3406
+      },
+      {
+       "name": "John J. Kulewicz",
+       "votes": 1290
+      }
+     ]
+    },
+    "montgomery": {
+     "total": 200795,
+     "candidates": [
+      {
+       "name": "Keith Faber",
+       "votes": 88777
+      },
+      {
+       "name": "John J. Kulewicz",
+       "votes": 112018
+      }
+     ]
+    },
+    "morgan": {
+     "total": 4768,
+     "candidates": [
+      {
+       "name": "Keith Faber",
+       "votes": 3407
+      },
+      {
+       "name": "John J. Kulewicz",
+       "votes": 1361
+      }
+     ]
+    },
+    "morrow": {
+     "total": 13957,
+     "candidates": [
+      {
+       "name": "Keith Faber",
+       "votes": 10249
+      },
+      {
+       "name": "John J. Kulewicz",
+       "votes": 3708
+      }
+     ]
+    },
+    "muskingum": {
+     "total": 28585,
+     "candidates": [
+      {
+       "name": "Keith Faber",
+       "votes": 18989
+      },
+      {
+       "name": "John J. Kulewicz",
+       "votes": 9596
+      }
+     ]
+    },
+    "noble": {
+     "total": 4391,
+     "candidates": [
+      {
+       "name": "Keith Faber",
+       "votes": 3354
+      },
+      {
+       "name": "John J. Kulewicz",
+       "votes": 1037
+      }
+     ]
+    },
+    "ottawa": {
+     "total": 18942,
+     "candidates": [
+      {
+       "name": "Keith Faber",
+       "votes": 11145
+      },
+      {
+       "name": "John J. Kulewicz",
+       "votes": 7797
+      }
+     ]
+    },
+    "paulding": {
+     "total": 8867,
+     "candidates": [
+      {
+       "name": "Keith Faber",
+       "votes": 6315
+      },
+      {
+       "name": "John J. Kulewicz",
+       "votes": 2552
+      }
+     ]
+    },
+    "perry": {
+     "total": 12368,
+     "candidates": [
+      {
+       "name": "Keith Faber",
+       "votes": 8779
+      },
+      {
+       "name": "John J. Kulewicz",
+       "votes": 3589
+      }
+     ]
+    },
+    "pickaway": {
+     "total": 21985,
+     "candidates": [
+      {
+       "name": "Keith Faber",
+       "votes": 15144
+      },
+      {
+       "name": "John J. Kulewicz",
+       "votes": 6841
+      }
+     ]
+    },
+    "pike": {
+     "total": 8417,
+     "candidates": [
+      {
+       "name": "Keith Faber",
+       "votes": 5819
+      },
+      {
+       "name": "John J. Kulewicz",
+       "votes": 2598
+      }
+     ]
+    },
+    "portage": {
+     "total": 64916,
+     "candidates": [
+      {
+       "name": "Keith Faber",
+       "votes": 32890
+      },
+      {
+       "name": "John J. Kulewicz",
+       "votes": 32026
+      }
+     ]
+    },
+    "preble": {
+     "total": 15340,
+     "candidates": [
+      {
+       "name": "Keith Faber",
+       "votes": 11596
+      },
+      {
+       "name": "John J. Kulewicz",
+       "votes": 3744
+      }
+     ]
+    },
+    "putnam": {
+     "total": 15311,
+     "candidates": [
+      {
+       "name": "Keith Faber",
+       "votes": 12832
+      },
+      {
+       "name": "John J. Kulewicz",
+       "votes": 2479
+      }
+     ]
+    },
+    "richland": {
+     "total": 43319,
+     "candidates": [
+      {
+       "name": "Keith Faber",
+       "votes": 28594
+      },
+      {
+       "name": "John J. Kulewicz",
+       "votes": 14725
+      }
+     ]
+    },
+    "ross": {
+     "total": 24472,
+     "candidates": [
+      {
+       "name": "Keith Faber",
+       "votes": 15641
+      },
+      {
+       "name": "John J. Kulewicz",
+       "votes": 8831
+      }
+     ]
+    },
+    "sandusky": {
+     "total": 22349,
+     "candidates": [
+      {
+       "name": "Keith Faber",
+       "votes": 13531
+      },
+      {
+       "name": "John J. Kulewicz",
+       "votes": 8818
+      }
+     ]
+    },
+    "scioto": {
+     "total": 20884,
+     "candidates": [
+      {
+       "name": "Keith Faber",
+       "votes": 13654
+      },
+      {
+       "name": "John J. Kulewicz",
+       "votes": 7230
+      }
+     ]
+    },
+    "seneca": {
+     "total": 18670,
+     "candidates": [
+      {
+       "name": "Keith Faber",
+       "votes": 11908
+      },
+      {
+       "name": "John J. Kulewicz",
+       "votes": 6762
+      }
+     ]
+    },
+    "shelby": {
+     "total": 18916,
+     "candidates": [
+      {
+       "name": "Keith Faber",
+       "votes": 15188
+      },
+      {
+       "name": "John J. Kulewicz",
+       "votes": 3728
+      }
+     ]
+    },
+    "stark": {
+     "total": 143206,
+     "candidates": [
+      {
+       "name": "Keith Faber",
+       "votes": 78988
+      },
+      {
+       "name": "John J. Kulewicz",
+       "votes": 64218
+      }
+     ]
+    },
+    "summit": {
+     "total": 222063,
+     "candidates": [
+      {
+       "name": "Keith Faber",
+       "votes": 89111
+      },
+      {
+       "name": "John J. Kulewicz",
+       "votes": 132952
+      }
+     ]
+    },
+    "trumbull": {
+     "total": 73047,
+     "candidates": [
+      {
+       "name": "Keith Faber",
+       "votes": 36924
+      },
+      {
+       "name": "John J. Kulewicz",
+       "votes": 36123
+      }
+     ]
+    },
+    "tuscarawas": {
+     "total": 31463,
+     "candidates": [
+      {
+       "name": "Keith Faber",
+       "votes": 20421
+      },
+      {
+       "name": "John J. Kulewicz",
+       "votes": 11042
+      }
+     ]
+    },
+    "union": {
+     "total": 30644,
+     "candidates": [
+      {
+       "name": "Keith Faber",
+       "votes": 18300
+      },
+      {
+       "name": "John J. Kulewicz",
+       "votes": 12344
+      }
+     ]
+    },
+    "vanwert": {
+     "total": 10496,
+     "candidates": [
+      {
+       "name": "Keith Faber",
+       "votes": 7922
+      },
+      {
+       "name": "John J. Kulewicz",
+       "votes": 2574
+      }
+     ]
+    },
+    "vinton": {
+     "total": 3864,
+     "candidates": [
+      {
+       "name": "Keith Faber",
+       "votes": 2801
+      },
+      {
+       "name": "John J. Kulewicz",
+       "votes": 1063
+      }
+     ]
+    },
+    "warren": {
+     "total": 111823,
+     "candidates": [
+      {
+       "name": "Keith Faber",
+       "votes": 68797
+      },
+      {
+       "name": "John J. Kulewicz",
+       "votes": 43026
+      }
+     ]
+    },
+    "washington": {
+     "total": 22095,
+     "candidates": [
+      {
+       "name": "Keith Faber",
+       "votes": 14402
+      },
+      {
+       "name": "John J. Kulewicz",
+       "votes": 7693
+      }
+     ]
+    },
+    "wayne": {
+     "total": 41040,
+     "candidates": [
+      {
+       "name": "Keith Faber",
+       "votes": 26998
+      },
+      {
+       "name": "John J. Kulewicz",
+       "votes": 14042
+      }
+     ]
+    },
+    "williams": {
+     "total": 13366,
+     "candidates": [
+      {
+       "name": "Keith Faber",
+       "votes": 9402
+      },
+      {
+       "name": "John J. Kulewicz",
+       "votes": 3964
+      }
+     ]
+    },
+    "wood": {
+     "total": 53722,
+     "candidates": [
+      {
+       "name": "Keith Faber",
+       "votes": 27011
+      },
+      {
+       "name": "John J. Kulewicz",
+       "votes": 26711
+      }
+     ]
+    },
+    "wyandot": {
+     "total": 8898,
+     "candidates": [
+      {
+       "name": "Keith Faber",
+       "votes": 6261
+      },
+      {
+       "name": "John J. Kulewicz",
+       "votes": 2637
+      }
+     ]
+    }
+   }
+  },
+  "auditor-of-state": {
+   "total": 4548060,
+   "candidates": [
+    {
+     "name": "Frank LaRose",
+     "votes": 2310105
+    },
+    {
+     "name": "Annette Blackwell",
+     "votes": 2237955
+    }
+   ],
+   "counties": {
+    "adams": {
+     "total": 8894,
+     "candidates": [
+      {
+       "name": "Annette Blackwell",
+       "votes": 2081
+      },
+      {
+       "name": "Frank LaRose",
+       "votes": 6813
+      }
+     ]
+    },
+    "allen": {
+     "total": 35098,
+     "candidates": [
+      {
+       "name": "Annette Blackwell",
+       "votes": 11030
+      },
+      {
+       "name": "Frank LaRose",
+       "votes": 24068
+      }
+     ]
+    },
+    "ashland": {
+     "total": 19759,
+     "candidates": [
+      {
+       "name": "Annette Blackwell",
+       "votes": 5685
+      },
+      {
+       "name": "Frank LaRose",
+       "votes": 14074
+      }
+     ]
+    },
+    "ashtabula": {
+     "total": 32840,
+     "candidates": [
+      {
+       "name": "Annette Blackwell",
+       "votes": 13554
+      },
+      {
+       "name": "Frank LaRose",
+       "votes": 19286
+      }
+     ]
+    },
+    "athens": {
+     "total": 20177,
+     "candidates": [
+      {
+       "name": "Annette Blackwell",
+       "votes": 12744
+      },
+      {
+       "name": "Frank LaRose",
+       "votes": 7433
+      }
+     ]
+    },
+    "auglaize": {
+     "total": 19159,
+     "candidates": [
+      {
+       "name": "Annette Blackwell",
+       "votes": 3798
+      },
+      {
+       "name": "Frank LaRose",
+       "votes": 15361
+      }
+     ]
+    },
+    "belmont": {
+     "total": 21837,
+     "candidates": [
+      {
+       "name": "Annette Blackwell",
+       "votes": 7238
+      },
+      {
+       "name": "Frank LaRose",
+       "votes": 14599
+      }
+     ]
+    },
+    "brown": {
+     "total": 14885,
+     "candidates": [
+      {
+       "name": "Annette Blackwell",
+       "votes": 3703
+      },
+      {
+       "name": "Frank LaRose",
+       "votes": 11182
+      }
+     ]
+    },
+    "butler": {
+     "total": 145176,
+     "candidates": [
+      {
+       "name": "Annette Blackwell",
+       "votes": 61060
+      },
+      {
+       "name": "Frank LaRose",
+       "votes": 84116
+      }
+     ]
+    },
+    "carroll": {
+     "total": 10237,
+     "candidates": [
+      {
+       "name": "Annette Blackwell",
+       "votes": 2688
+      },
+      {
+       "name": "Frank LaRose",
+       "votes": 7549
+      }
+     ]
+    },
+    "champaign": {
+     "total": 15369,
+     "candidates": [
+      {
+       "name": "Annette Blackwell",
+       "votes": 4453
+      },
+      {
+       "name": "Frank LaRose",
+       "votes": 10916
+      }
+     ]
+    },
+    "clark": {
+     "total": 48305,
+     "candidates": [
+      {
+       "name": "Annette Blackwell",
+       "votes": 19614
+      },
+      {
+       "name": "Frank LaRose",
+       "votes": 28691
+      }
+     ]
+    },
+    "clermont": {
+     "total": 88616,
+     "candidates": [
+      {
+       "name": "Annette Blackwell",
+       "votes": 32760
+      },
+      {
+       "name": "Frank LaRose",
+       "votes": 55856
+      }
+     ]
+    },
+    "clinton": {
+     "total": 15258,
+     "candidates": [
+      {
+       "name": "Annette Blackwell",
+       "votes": 4103
+      },
+      {
+       "name": "Frank LaRose",
+       "votes": 11155
+      }
+     ]
+    },
+    "columbiana": {
+     "total": 34662,
+     "candidates": [
+      {
+       "name": "Annette Blackwell",
+       "votes": 10575
+      },
+      {
+       "name": "Frank LaRose",
+       "votes": 24087
+      }
+     ]
+    },
+    "coshocton": {
+     "total": 11663,
+     "candidates": [
+      {
+       "name": "Annette Blackwell",
+       "votes": 3389
+      },
+      {
+       "name": "Frank LaRose",
+       "votes": 8274
+      }
+     ]
+    },
+    "crawford": {
+     "total": 14597,
+     "candidates": [
+      {
+       "name": "Annette Blackwell",
+       "votes": 4153
+      },
+      {
+       "name": "Frank LaRose",
+       "votes": 10444
+      }
+     ]
+    },
+    "cuyahoga": {
+     "total": 468763,
+     "candidates": [
+      {
+       "name": "Annette Blackwell",
+       "votes": 327478
+      },
+      {
+       "name": "Frank LaRose",
+       "votes": 141285
+      }
+     ]
+    },
+    "darke": {
+     "total": 19944,
+     "candidates": [
+      {
+       "name": "Annette Blackwell",
+       "votes": 3986
+      },
+      {
+       "name": "Frank LaRose",
+       "votes": 15958
+      }
+     ]
+    },
+    "defiance": {
+     "total": 14442,
+     "candidates": [
+      {
+       "name": "Annette Blackwell",
+       "votes": 5024
+      },
+      {
+       "name": "Frank LaRose",
+       "votes": 9418
+      }
+     ]
+    },
+    "delaware": {
+     "total": 116187,
+     "candidates": [
+      {
+       "name": "Annette Blackwell",
+       "votes": 55877
+      },
+      {
+       "name": "Frank LaRose",
+       "votes": 60310
+      }
+     ]
+    },
+    "erie": {
+     "total": 31601,
+     "candidates": [
+      {
+       "name": "Annette Blackwell",
+       "votes": 14664
+      },
+      {
+       "name": "Frank LaRose",
+       "votes": 16937
+      }
+     ]
+    },
+    "fairfield": {
+     "total": 67682,
+     "candidates": [
+      {
+       "name": "Annette Blackwell",
+       "votes": 29085
+      },
+      {
+       "name": "Frank LaRose",
+       "votes": 38597
+      }
+     ]
+    },
+    "fayette": {
+     "total": 9025,
+     "candidates": [
+      {
+       "name": "Annette Blackwell",
+       "votes": 2383
+      },
+      {
+       "name": "Frank LaRose",
+       "votes": 6642
+      }
+     ]
+    },
+    "franklin": {
+     "total": 496985,
+     "candidates": [
+      {
+       "name": "Annette Blackwell",
+       "votes": 339653
+      },
+      {
+       "name": "Frank LaRose",
+       "votes": 157332
+      }
+     ]
+    },
+    "fulton": {
+     "total": 17254,
+     "candidates": [
+      {
+       "name": "Annette Blackwell",
+       "votes": 5470
+      },
+      {
+       "name": "Frank LaRose",
+       "votes": 11784
+      }
+     ]
+    },
+    "gallia": {
+     "total": 8600,
+     "candidates": [
+      {
+       "name": "Annette Blackwell",
+       "votes": 2236
+      },
+      {
+       "name": "Frank LaRose",
+       "votes": 6364
+      }
+     ]
+    },
+    "geauga": {
+     "total": 45073,
+     "candidates": [
+      {
+       "name": "Annette Blackwell",
+       "votes": 17986
+      },
+      {
+       "name": "Frank LaRose",
+       "votes": 27087
+      }
+     ]
+    },
+    "greene": {
+     "total": 73579,
+     "candidates": [
+      {
+       "name": "Annette Blackwell",
+       "votes": 31882
+      },
+      {
+       "name": "Frank LaRose",
+       "votes": 41697
+      }
+     ]
+    },
+    "guernsey": {
+     "total": 12636,
+     "candidates": [
+      {
+       "name": "Annette Blackwell",
+       "votes": 3760
+      },
+      {
+       "name": "Frank LaRose",
+       "votes": 8876
+      }
+     ]
+    },
+    "hamilton": {
+     "total": 339253,
+     "candidates": [
+      {
+       "name": "Annette Blackwell",
+       "votes": 205058
+      },
+      {
+       "name": "Frank LaRose",
+       "votes": 134195
+      }
+     ]
+    },
+    "hancock": {
+     "total": 28785,
+     "candidates": [
+      {
+       "name": "Annette Blackwell",
+       "votes": 9782
+      },
+      {
+       "name": "Frank LaRose",
+       "votes": 19003
+      }
+     ]
+    },
+    "hardin": {
+     "total": 9060,
+     "candidates": [
+      {
+       "name": "Annette Blackwell",
+       "votes": 2393
+      },
+      {
+       "name": "Frank LaRose",
+       "votes": 6667
+      }
+     ]
+    },
+    "harrison": {
+     "total": 5016,
+     "candidates": [
+      {
+       "name": "Annette Blackwell",
+       "votes": 1407
+      },
+      {
+       "name": "Frank LaRose",
+       "votes": 3609
+      }
+     ]
+    },
+    "henry": {
+     "total": 11056,
+     "candidates": [
+      {
+       "name": "Annette Blackwell",
+       "votes": 3281
+      },
+      {
+       "name": "Frank LaRose",
+       "votes": 7775
+      }
+     ]
+    },
+    "highland": {
+     "total": 14191,
+     "candidates": [
+      {
+       "name": "Annette Blackwell",
+       "votes": 3443
+      },
+      {
+       "name": "Frank LaRose",
+       "votes": 10748
+      }
+     ]
+    },
+    "hocking": {
+     "total": 9642,
+     "candidates": [
+      {
+       "name": "Annette Blackwell",
+       "votes": 3255
+      },
+      {
+       "name": "Frank LaRose",
+       "votes": 6387
+      }
+     ]
+    },
+    "holmes": {
+     "total": 8815,
+     "candidates": [
+      {
+       "name": "Annette Blackwell",
+       "votes": 1608
+      },
+      {
+       "name": "Frank LaRose",
+       "votes": 7207
+      }
+     ]
+    },
+    "huron": {
+     "total": 19471,
+     "candidates": [
+      {
+       "name": "Annette Blackwell",
+       "votes": 6590
+      },
+      {
+       "name": "Frank LaRose",
+       "votes": 12881
+      }
+     ]
+    },
+    "jackson": {
+     "total": 9686,
+     "candidates": [
+      {
+       "name": "Annette Blackwell",
+       "votes": 2723
+      },
+      {
+       "name": "Frank LaRose",
+       "votes": 6963
+      }
+     ]
+    },
+    "jefferson": {
+     "total": 22062,
+     "candidates": [
+      {
+       "name": "Annette Blackwell",
+       "votes": 7640
+      },
+      {
+       "name": "Frank LaRose",
+       "votes": 14422
+      }
+     ]
+    },
+    "knox": {
+     "total": 23937,
+     "candidates": [
+      {
+       "name": "Annette Blackwell",
+       "votes": 7387
+      },
+      {
+       "name": "Frank LaRose",
+       "votes": 16550
+      }
+     ]
+    },
+    "lake": {
+     "total": 103898,
+     "candidates": [
+      {
+       "name": "Annette Blackwell",
+       "votes": 48444
+      },
+      {
+       "name": "Frank LaRose",
+       "votes": 55454
+      }
+     ]
+    },
+    "lawrence": {
+     "total": 18010,
+     "candidates": [
+      {
+       "name": "Annette Blackwell",
+       "votes": 5924
+      },
+      {
+       "name": "Frank LaRose",
+       "votes": 12086
+      }
+     ]
+    },
+    "licking": {
+     "total": 73439,
+     "candidates": [
+      {
+       "name": "Annette Blackwell",
+       "votes": 29665
+      },
+      {
+       "name": "Frank LaRose",
+       "votes": 43774
+      }
+     ]
+    },
+    "logan": {
+     "total": 17704,
+     "candidates": [
+      {
+       "name": "Annette Blackwell",
+       "votes": 4498
+      },
+      {
+       "name": "Frank LaRose",
+       "votes": 13206
+      }
+     ]
+    },
+    "lorain": {
+     "total": 127650,
+     "candidates": [
+      {
+       "name": "Annette Blackwell",
+       "votes": 66354
+      },
+      {
+       "name": "Frank LaRose",
+       "votes": 61296
+      }
+     ]
+    },
+    "lucas": {
+     "total": 150828,
+     "candidates": [
+      {
+       "name": "Annette Blackwell",
+       "votes": 91167
+      },
+      {
+       "name": "Frank LaRose",
+       "votes": 59661
+      }
+     ]
+    },
+    "madison": {
+     "total": 16100,
+     "candidates": [
+      {
+       "name": "Annette Blackwell",
+       "votes": 5178
+      },
+      {
+       "name": "Frank LaRose",
+       "votes": 10922
+      }
+     ]
+    },
+    "mahoning": {
+     "total": 87384,
+     "candidates": [
+      {
+       "name": "Annette Blackwell",
+       "votes": 43353
+      },
+      {
+       "name": "Frank LaRose",
+       "votes": 44031
+      }
+     ]
+    },
+    "marion": {
+     "total": 19873,
+     "candidates": [
+      {
+       "name": "Annette Blackwell",
+       "votes": 6990
+      },
+      {
+       "name": "Frank LaRose",
+       "votes": 12883
+      }
+     ]
+    },
+    "medina": {
+     "total": 84584,
+     "candidates": [
+      {
+       "name": "Annette Blackwell",
+       "votes": 34727
+      },
+      {
+       "name": "Frank LaRose",
+       "votes": 49857
+      }
+     ]
+    },
+    "meigs": {
+     "total": 7287,
+     "candidates": [
+      {
+       "name": "Annette Blackwell",
+       "votes": 2074
+      },
+      {
+       "name": "Frank LaRose",
+       "votes": 5213
+      }
+     ]
+    },
+    "mercer": {
+     "total": 17972,
+     "candidates": [
+      {
+       "name": "Annette Blackwell",
+       "votes": 3244
+      },
+      {
+       "name": "Frank LaRose",
+       "votes": 14728
+      }
+     ]
+    },
+    "miami": {
+     "total": 45021,
+     "candidates": [
+      {
+       "name": "Annette Blackwell",
+       "votes": 13838
+      },
+      {
+       "name": "Frank LaRose",
+       "votes": 31183
+      }
+     ]
+    },
+    "monroe": {
+     "total": 4706,
+     "candidates": [
+      {
+       "name": "Annette Blackwell",
+       "votes": 1326
+      },
+      {
+       "name": "Frank LaRose",
+       "votes": 3380
+      }
+     ]
+    },
+    "montgomery": {
+     "total": 200595,
+     "candidates": [
+      {
+       "name": "Annette Blackwell",
+       "votes": 110621
+      },
+      {
+       "name": "Frank LaRose",
+       "votes": 89974
+      }
+     ]
+    },
+    "morgan": {
+     "total": 4790,
+     "candidates": [
+      {
+       "name": "Annette Blackwell",
+       "votes": 1341
+      },
+      {
+       "name": "Frank LaRose",
+       "votes": 3449
+      }
+     ]
+    },
+    "morrow": {
+     "total": 14003,
+     "candidates": [
+      {
+       "name": "Annette Blackwell",
+       "votes": 3689
+      },
+      {
+       "name": "Frank LaRose",
+       "votes": 10314
+      }
+     ]
+    },
+    "muskingum": {
+     "total": 28639,
+     "candidates": [
+      {
+       "name": "Annette Blackwell",
+       "votes": 9521
+      },
+      {
+       "name": "Frank LaRose",
+       "votes": 19118
+      }
+     ]
+    },
+    "noble": {
+     "total": 4386,
+     "candidates": [
+      {
+       "name": "Annette Blackwell",
+       "votes": 1029
+      },
+      {
+       "name": "Frank LaRose",
+       "votes": 3357
+      }
+     ]
+    },
+    "ottawa": {
+     "total": 18958,
+     "candidates": [
+      {
+       "name": "Annette Blackwell",
+       "votes": 7583
+      },
+      {
+       "name": "Frank LaRose",
+       "votes": 11375
+      }
+     ]
+    },
+    "paulding": {
+     "total": 8876,
+     "candidates": [
+      {
+       "name": "Annette Blackwell",
+       "votes": 2613
+      },
+      {
+       "name": "Frank LaRose",
+       "votes": 6263
+      }
+     ]
+    },
+    "perry": {
+     "total": 12374,
+     "candidates": [
+      {
+       "name": "Annette Blackwell",
+       "votes": 3533
+      },
+      {
+       "name": "Frank LaRose",
+       "votes": 8841
+      }
+     ]
+    },
+    "pickaway": {
+     "total": 21972,
+     "candidates": [
+      {
+       "name": "Annette Blackwell",
+       "votes": 6618
+      },
+      {
+       "name": "Frank LaRose",
+       "votes": 15354
+      }
+     ]
+    },
+    "pike": {
+     "total": 8374,
+     "candidates": [
+      {
+       "name": "Annette Blackwell",
+       "votes": 2569
+      },
+      {
+       "name": "Frank LaRose",
+       "votes": 5805
+      }
+     ]
+    },
+    "portage": {
+     "total": 65009,
+     "candidates": [
+      {
+       "name": "Annette Blackwell",
+       "votes": 31124
+      },
+      {
+       "name": "Frank LaRose",
+       "votes": 33885
+      }
+     ]
+    },
+    "preble": {
+     "total": 15316,
+     "candidates": [
+      {
+       "name": "Annette Blackwell",
+       "votes": 3825
+      },
+      {
+       "name": "Frank LaRose",
+       "votes": 11491
+      }
+     ]
+    },
+    "putnam": {
+     "total": 15284,
+     "candidates": [
+      {
+       "name": "Annette Blackwell",
+       "votes": 2617
+      },
+      {
+       "name": "Frank LaRose",
+       "votes": 12667
+      }
+     ]
+    },
+    "richland": {
+     "total": 43578,
+     "candidates": [
+      {
+       "name": "Annette Blackwell",
+       "votes": 14511
+      },
+      {
+       "name": "Frank LaRose",
+       "votes": 29067
+      }
+     ]
+    },
+    "ross": {
+     "total": 24489,
+     "candidates": [
+      {
+       "name": "Annette Blackwell",
+       "votes": 8688
+      },
+      {
+       "name": "Frank LaRose",
+       "votes": 15801
+      }
+     ]
+    },
+    "sandusky": {
+     "total": 22402,
+     "candidates": [
+      {
+       "name": "Annette Blackwell",
+       "votes": 8740
+      },
+      {
+       "name": "Frank LaRose",
+       "votes": 13662
+      }
+     ]
+    },
+    "scioto": {
+     "total": 21385,
+     "candidates": [
+      {
+       "name": "Annette Blackwell",
+       "votes": 7303
+      },
+      {
+       "name": "Frank LaRose",
+       "votes": 14082
+      }
+     ]
+    },
+    "seneca": {
+     "total": 18649,
+     "candidates": [
+      {
+       "name": "Annette Blackwell",
+       "votes": 6749
+      },
+      {
+       "name": "Frank LaRose",
+       "votes": 11900
+      }
+     ]
+    },
+    "shelby": {
+     "total": 18838,
+     "candidates": [
+      {
+       "name": "Annette Blackwell",
+       "votes": 3816
+      },
+      {
+       "name": "Frank LaRose",
+       "votes": 15022
+      }
+     ]
+    },
+    "stark": {
+     "total": 143665,
+     "candidates": [
+      {
+       "name": "Annette Blackwell",
+       "votes": 62564
+      },
+      {
+       "name": "Frank LaRose",
+       "votes": 81101
+      }
+     ]
+    },
+    "summit": {
+     "total": 221584,
+     "candidates": [
+      {
+       "name": "Annette Blackwell",
+       "votes": 128055
+      },
+      {
+       "name": "Frank LaRose",
+       "votes": 93529
+      }
+     ]
+    },
+    "trumbull": {
+     "total": 73649,
+     "candidates": [
+      {
+       "name": "Annette Blackwell",
+       "votes": 35124
+      },
+      {
+       "name": "Frank LaRose",
+       "votes": 38525
+      }
+     ]
+    },
+    "tuscarawas": {
+     "total": 31498,
+     "candidates": [
+      {
+       "name": "Annette Blackwell",
+       "votes": 10822
+      },
+      {
+       "name": "Frank LaRose",
+       "votes": 20676
+      }
+     ]
+    },
+    "union": {
+     "total": 30514,
+     "candidates": [
+      {
+       "name": "Annette Blackwell",
+       "votes": 11966
+      },
+      {
+       "name": "Frank LaRose",
+       "votes": 18548
+      }
+     ]
+    },
+    "vanwert": {
+     "total": 10477,
+     "candidates": [
+      {
+       "name": "Annette Blackwell",
+       "votes": 2656
+      },
+      {
+       "name": "Frank LaRose",
+       "votes": 7821
+      }
+     ]
+    },
+    "vinton": {
+     "total": 3886,
+     "candidates": [
+      {
+       "name": "Annette Blackwell",
+       "votes": 1068
+      },
+      {
+       "name": "Frank LaRose",
+       "votes": 2818
+      }
+     ]
+    },
+    "warren": {
+     "total": 112069,
+     "candidates": [
+      {
+       "name": "Annette Blackwell",
+       "votes": 42218
+      },
+      {
+       "name": "Frank LaRose",
+       "votes": 69851
+      }
+     ]
+    },
+    "washington": {
+     "total": 21792,
+     "candidates": [
+      {
+       "name": "Annette Blackwell",
+       "votes": 7571
+      },
+      {
+       "name": "Frank LaRose",
+       "votes": 14221
+      }
+     ]
+    },
+    "wayne": {
+     "total": 41114,
+     "candidates": [
+      {
+       "name": "Annette Blackwell",
+       "votes": 13776
+      },
+      {
+       "name": "Frank LaRose",
+       "votes": 27338
+      }
+     ]
+    },
+    "williams": {
+     "total": 13348,
+     "candidates": [
+      {
+       "name": "Annette Blackwell",
+       "votes": 3907
+      },
+      {
+       "name": "Frank LaRose",
+       "votes": 9441
+      }
+     ]
+    },
+    "wood": {
+     "total": 53902,
+     "candidates": [
+      {
+       "name": "Annette Blackwell",
+       "votes": 25713
+      },
+      {
+       "name": "Frank LaRose",
+       "votes": 28189
+      }
+     ]
+    },
+    "wyandot": {
+     "total": 8912,
+     "candidates": [
+      {
+       "name": "Annette Blackwell",
+       "votes": 2564
+      },
+      {
+       "name": "Frank LaRose",
+       "votes": 6348
+      }
+     ]
+    }
+   }
+  },
+  "secretary-of-state": {
+   "total": 4551320,
+   "candidates": [
+    {
+     "name": "Allison Russo",
+     "votes": 2287160
+    },
+    {
+     "name": "Robert Sprague",
+     "votes": 2129981
+    },
+    {
+     "name": "Tom Pruss",
+     "votes": 134179
+    }
+   ],
+   "counties": {
+    "adams": {
+     "total": 8871,
+     "candidates": [
+      {
+       "name": "Tom Pruss",
+       "votes": 318
+      },
+      {
+       "name": "Allison Russo",
+       "votes": 2065
+      },
+      {
+       "name": "Robert Sprague",
+       "votes": 6488
+      }
+     ]
+    },
+    "allen": {
+     "total": 35155,
+     "candidates": [
+      {
+       "name": "Tom Pruss",
+       "votes": 1066
+      },
+      {
+       "name": "Allison Russo",
+       "votes": 11069
+      },
+      {
+       "name": "Robert Sprague",
+       "votes": 23020
+      }
+     ]
+    },
+    "ashland": {
+     "total": 19676,
+     "candidates": [
+      {
+       "name": "Tom Pruss",
+       "votes": 708
+      },
+      {
+       "name": "Allison Russo",
+       "votes": 5650
+      },
+      {
+       "name": "Robert Sprague",
+       "votes": 13318
+      }
+     ]
+    },
+    "ashtabula": {
+     "total": 32664,
+     "candidates": [
+      {
+       "name": "Tom Pruss",
+       "votes": 1111
+      },
+      {
+       "name": "Allison Russo",
+       "votes": 13637
+      },
+      {
+       "name": "Robert Sprague",
+       "votes": 17916
+      }
+     ]
+    },
+    "athens": {
+     "total": 20163,
+     "candidates": [
+      {
+       "name": "Tom Pruss",
+       "votes": 634
+      },
+      {
+       "name": "Allison Russo",
+       "votes": 12806
+      },
+      {
+       "name": "Robert Sprague",
+       "votes": 6723
+      }
+     ]
+    },
+    "auglaize": {
+     "total": 19162,
+     "candidates": [
+      {
+       "name": "Tom Pruss",
+       "votes": 535
+      },
+      {
+       "name": "Allison Russo",
+       "votes": 3841
+      },
+      {
+       "name": "Robert Sprague",
+       "votes": 14786
+      }
+     ]
+    },
+    "belmont": {
+     "total": 21834,
+     "candidates": [
+      {
+       "name": "Tom Pruss",
+       "votes": 587
+      },
+      {
+       "name": "Allison Russo",
+       "votes": 7439
+      },
+      {
+       "name": "Robert Sprague",
+       "votes": 13808
+      }
+     ]
+    },
+    "brown": {
+     "total": 14886,
+     "candidates": [
+      {
+       "name": "Tom Pruss",
+       "votes": 502
+      },
+      {
+       "name": "Allison Russo",
+       "votes": 3736
+      },
+      {
+       "name": "Robert Sprague",
+       "votes": 10648
+      }
+     ]
+    },
+    "butler": {
+     "total": 145244,
+     "candidates": [
+      {
+       "name": "Tom Pruss",
+       "votes": 4427
+      },
+      {
+       "name": "Allison Russo",
+       "votes": 61584
+      },
+      {
+       "name": "Robert Sprague",
+       "votes": 79233
+      }
+     ]
+    },
+    "carroll": {
+     "total": 10257,
+     "candidates": [
+      {
+       "name": "Tom Pruss",
+       "votes": 326
+      },
+      {
+       "name": "Allison Russo",
+       "votes": 2778
+      },
+      {
+       "name": "Robert Sprague",
+       "votes": 7153
+      }
+     ]
+    },
+    "champaign": {
+     "total": 15374,
+     "candidates": [
+      {
+       "name": "Tom Pruss",
+       "votes": 613
+      },
+      {
+       "name": "Allison Russo",
+       "votes": 4463
+      },
+      {
+       "name": "Robert Sprague",
+       "votes": 10298
+      }
+     ]
+    },
+    "clark": {
+     "total": 48386,
+     "candidates": [
+      {
+       "name": "Tom Pruss",
+       "votes": 1683
+      },
+      {
+       "name": "Allison Russo",
+       "votes": 19748
+      },
+      {
+       "name": "Robert Sprague",
+       "votes": 26955
+      }
+     ]
+    },
+    "clermont": {
+     "total": 88692,
+     "candidates": [
+      {
+       "name": "Tom Pruss",
+       "votes": 3292
+      },
+      {
+       "name": "Allison Russo",
+       "votes": 32846
+      },
+      {
+       "name": "Robert Sprague",
+       "votes": 52554
+      }
+     ]
+    },
+    "clinton": {
+     "total": 15328,
+     "candidates": [
+      {
+       "name": "Tom Pruss",
+       "votes": 579
+      },
+      {
+       "name": "Allison Russo",
+       "votes": 4080
+      },
+      {
+       "name": "Robert Sprague",
+       "votes": 10669
+      }
+     ]
+    },
+    "columbiana": {
+     "total": 34668,
+     "candidates": [
+      {
+       "name": "Tom Pruss",
+       "votes": 1024
+      },
+      {
+       "name": "Allison Russo",
+       "votes": 10969
+      },
+      {
+       "name": "Robert Sprague",
+       "votes": 22675
+      }
+     ]
+    },
+    "coshocton": {
+     "total": 11617,
+     "candidates": [
+      {
+       "name": "Tom Pruss",
+       "votes": 370
+      },
+      {
+       "name": "Allison Russo",
+       "votes": 3475
+      },
+      {
+       "name": "Robert Sprague",
+       "votes": 7772
+      }
+     ]
+    },
+    "crawford": {
+     "total": 14626,
+     "candidates": [
+      {
+       "name": "Tom Pruss",
+       "votes": 516
+      },
+      {
+       "name": "Allison Russo",
+       "votes": 4142
+      },
+      {
+       "name": "Robert Sprague",
+       "votes": 9968
+      }
+     ]
+    },
+    "cuyahoga": {
+     "total": 468126,
+     "candidates": [
+      {
+       "name": "Tom Pruss",
+       "votes": 10864
+      },
+      {
+       "name": "Allison Russo",
+       "votes": 333342
+      },
+      {
+       "name": "Robert Sprague",
+       "votes": 123920
+      }
+     ]
+    },
+    "darke": {
+     "total": 19937,
+     "candidates": [
+      {
+       "name": "Tom Pruss",
+       "votes": 678
+      },
+      {
+       "name": "Allison Russo",
+       "votes": 4042
+      },
+      {
+       "name": "Robert Sprague",
+       "votes": 15217
+      }
+     ]
+    },
+    "defiance": {
+     "total": 14451,
+     "candidates": [
+      {
+       "name": "Tom Pruss",
+       "votes": 541
+      },
+      {
+       "name": "Allison Russo",
+       "votes": 4933
+      },
+      {
+       "name": "Robert Sprague",
+       "votes": 8977
+      }
+     ]
+    },
+    "delaware": {
+     "total": 115933,
+     "candidates": [
+      {
+       "name": "Tom Pruss",
+       "votes": 3122
+      },
+      {
+       "name": "Allison Russo",
+       "votes": 58009
+      },
+      {
+       "name": "Robert Sprague",
+       "votes": 54802
+      }
+     ]
+    },
+    "erie": {
+     "total": 31556,
+     "candidates": [
+      {
+       "name": "Tom Pruss",
+       "votes": 968
+      },
+      {
+       "name": "Allison Russo",
+       "votes": 15169
+      },
+      {
+       "name": "Robert Sprague",
+       "votes": 15419
+      }
+     ]
+    },
+    "fairfield": {
+     "total": 67574,
+     "candidates": [
+      {
+       "name": "Tom Pruss",
+       "votes": 2055
+      },
+      {
+       "name": "Allison Russo",
+       "votes": 29900
+      },
+      {
+       "name": "Robert Sprague",
+       "votes": 35619
+      }
+     ]
+    },
+    "fayette": {
+     "total": 9012,
+     "candidates": [
+      {
+       "name": "Tom Pruss",
+       "votes": 283
+      },
+      {
+       "name": "Allison Russo",
+       "votes": 2438
+      },
+      {
+       "name": "Robert Sprague",
+       "votes": 6291
+      }
+     ]
+    },
+    "franklin": {
+     "total": 497796,
+     "candidates": [
+      {
+       "name": "Tom Pruss",
+       "votes": 12391
+      },
+      {
+       "name": "Allison Russo",
+       "votes": 349023
+      },
+      {
+       "name": "Robert Sprague",
+       "votes": 136382
+      }
+     ]
+    },
+    "fulton": {
+     "total": 17220,
+     "candidates": [
+      {
+       "name": "Tom Pruss",
+       "votes": 696
+      },
+      {
+       "name": "Allison Russo",
+       "votes": 5521
+      },
+      {
+       "name": "Robert Sprague",
+       "votes": 11003
+      }
+     ]
+    },
+    "gallia": {
+     "total": 8640,
+     "candidates": [
+      {
+       "name": "Tom Pruss",
+       "votes": 184
+      },
+      {
+       "name": "Allison Russo",
+       "votes": 2227
+      },
+      {
+       "name": "Robert Sprague",
+       "votes": 6229
+      }
+     ]
+    },
+    "geauga": {
+     "total": 44969,
+     "candidates": [
+      {
+       "name": "Tom Pruss",
+       "votes": 1361
+      },
+      {
+       "name": "Allison Russo",
+       "votes": 18548
+      },
+      {
+       "name": "Robert Sprague",
+       "votes": 25060
+      }
+     ]
+    },
+    "greene": {
+     "total": 73658,
+     "candidates": [
+      {
+       "name": "Tom Pruss",
+       "votes": 2440
+      },
+      {
+       "name": "Allison Russo",
+       "votes": 32059
+      },
+      {
+       "name": "Robert Sprague",
+       "votes": 39159
+      }
+     ]
+    },
+    "guernsey": {
+     "total": 12590,
+     "candidates": [
+      {
+       "name": "Tom Pruss",
+       "votes": 455
+      },
+      {
+       "name": "Allison Russo",
+       "votes": 3784
+      },
+      {
+       "name": "Robert Sprague",
+       "votes": 8351
+      }
+     ]
+    },
+    "hamilton": {
+     "total": 339613,
+     "candidates": [
+      {
+       "name": "Tom Pruss",
+       "votes": 9323
+      },
+      {
+       "name": "Allison Russo",
+       "votes": 207835
+      },
+      {
+       "name": "Robert Sprague",
+       "votes": 122455
+      }
+     ]
+    },
+    "hancock": {
+     "total": 28869,
+     "candidates": [
+      {
+       "name": "Tom Pruss",
+       "votes": 919
+      },
+      {
+       "name": "Allison Russo",
+       "votes": 9314
+      },
+      {
+       "name": "Robert Sprague",
+       "votes": 18636
+      }
+     ]
+    },
+    "hardin": {
+     "total": 9081,
+     "candidates": [
+      {
+       "name": "Tom Pruss",
+       "votes": 286
+      },
+      {
+       "name": "Allison Russo",
+       "votes": 2382
+      },
+      {
+       "name": "Robert Sprague",
+       "votes": 6413
+      }
+     ]
+    },
+    "harrison": {
+     "total": 5003,
+     "candidates": [
+      {
+       "name": "Tom Pruss",
+       "votes": 176
+      },
+      {
+       "name": "Allison Russo",
+       "votes": 1436
+      },
+      {
+       "name": "Robert Sprague",
+       "votes": 3391
+      }
+     ]
+    },
+    "henry": {
+     "total": 11011,
+     "candidates": [
+      {
+       "name": "Tom Pruss",
+       "votes": 416
+      },
+      {
+       "name": "Allison Russo",
+       "votes": 3285
+      },
+      {
+       "name": "Robert Sprague",
+       "votes": 7310
+      }
+     ]
+    },
+    "highland": {
+     "total": 14195,
+     "candidates": [
+      {
+       "name": "Tom Pruss",
+       "votes": 461
+      },
+      {
+       "name": "Allison Russo",
+       "votes": 3465
+      },
+      {
+       "name": "Robert Sprague",
+       "votes": 10269
+      }
+     ]
+    },
+    "hocking": {
+     "total": 9620,
+     "candidates": [
+      {
+       "name": "Tom Pruss",
+       "votes": 328
+      },
+      {
+       "name": "Allison Russo",
+       "votes": 3325
+      },
+      {
+       "name": "Robert Sprague",
+       "votes": 5967
+      }
+     ]
+    },
+    "holmes": {
+     "total": 8752,
+     "candidates": [
+      {
+       "name": "Tom Pruss",
+       "votes": 251
+      },
+      {
+       "name": "Allison Russo",
+       "votes": 1604
+      },
+      {
+       "name": "Robert Sprague",
+       "votes": 6897
+      }
+     ]
+    },
+    "huron": {
+     "total": 19452,
+     "candidates": [
+      {
+       "name": "Tom Pruss",
+       "votes": 772
+      },
+      {
+       "name": "Allison Russo",
+       "votes": 6686
+      },
+      {
+       "name": "Robert Sprague",
+       "votes": 11994
+      }
+     ]
+    },
+    "jackson": {
+     "total": 9690,
+     "candidates": [
+      {
+       "name": "Tom Pruss",
+       "votes": 262
+      },
+      {
+       "name": "Allison Russo",
+       "votes": 2784
+      },
+      {
+       "name": "Robert Sprague",
+       "votes": 6644
+      }
+     ]
+    },
+    "jefferson": {
+     "total": 22014,
+     "candidates": [
+      {
+       "name": "Tom Pruss",
+       "votes": 697
+      },
+      {
+       "name": "Allison Russo",
+       "votes": 7753
+      },
+      {
+       "name": "Robert Sprague",
+       "votes": 13564
+      }
+     ]
+    },
+    "knox": {
+     "total": 24005,
+     "candidates": [
+      {
+       "name": "Tom Pruss",
+       "votes": 787
+      },
+      {
+       "name": "Allison Russo",
+       "votes": 7511
+      },
+      {
+       "name": "Robert Sprague",
+       "votes": 15707
+      }
+     ]
+    },
+    "lake": {
+     "total": 103903,
+     "candidates": [
+      {
+       "name": "Tom Pruss",
+       "votes": 3005
+      },
+      {
+       "name": "Allison Russo",
+       "votes": 50585
+      },
+      {
+       "name": "Robert Sprague",
+       "votes": 50313
+      }
+     ]
+    },
+    "lawrence": {
+     "total": 18025,
+     "candidates": [
+      {
+       "name": "Tom Pruss",
+       "votes": 531
+      },
+      {
+       "name": "Allison Russo",
+       "votes": 5948
+      },
+      {
+       "name": "Robert Sprague",
+       "votes": 11546
+      }
+     ]
+    },
+    "licking": {
+     "total": 73513,
+     "candidates": [
+      {
+       "name": "Tom Pruss",
+       "votes": 2519
+      },
+      {
+       "name": "Allison Russo",
+       "votes": 30227
+      },
+      {
+       "name": "Robert Sprague",
+       "votes": 40767
+      }
+     ]
+    },
+    "logan": {
+     "total": 17690,
+     "candidates": [
+      {
+       "name": "Tom Pruss",
+       "votes": 587
+      },
+      {
+       "name": "Allison Russo",
+       "votes": 4526
+      },
+      {
+       "name": "Robert Sprague",
+       "votes": 12577
+      }
+     ]
+    },
+    "lorain": {
+     "total": 127578,
+     "candidates": [
+      {
+       "name": "Tom Pruss",
+       "votes": 3837
+      },
+      {
+       "name": "Allison Russo",
+       "votes": 68419
+      },
+      {
+       "name": "Robert Sprague",
+       "votes": 55322
+      }
+     ]
+    },
+    "lucas": {
+     "total": 151032,
+     "candidates": [
+      {
+       "name": "Tom Pruss",
+       "votes": 5628
+      },
+      {
+       "name": "Allison Russo",
+       "votes": 91670
+      },
+      {
+       "name": "Robert Sprague",
+       "votes": 53734
+      }
+     ]
+    },
+    "madison": {
+     "total": 16109,
+     "candidates": [
+      {
+       "name": "Tom Pruss",
+       "votes": 583
+      },
+      {
+       "name": "Allison Russo",
+       "votes": 5362
+      },
+      {
+       "name": "Robert Sprague",
+       "votes": 10164
+      }
+     ]
+    },
+    "mahoning": {
+     "total": 87886,
+     "candidates": [
+      {
+       "name": "Tom Pruss",
+       "votes": 2369
+      },
+      {
+       "name": "Allison Russo",
+       "votes": 46062
+      },
+      {
+       "name": "Robert Sprague",
+       "votes": 39455
+      }
+     ]
+    },
+    "marion": {
+     "total": 19875,
+     "candidates": [
+      {
+       "name": "Tom Pruss",
+       "votes": 754
+      },
+      {
+       "name": "Allison Russo",
+       "votes": 7086
+      },
+      {
+       "name": "Robert Sprague",
+       "votes": 12035
+      }
+     ]
+    },
+    "medina": {
+     "total": 84235,
+     "candidates": [
+      {
+       "name": "Tom Pruss",
+       "votes": 2604
+      },
+      {
+       "name": "Allison Russo",
+       "votes": 36050
+      },
+      {
+       "name": "Robert Sprague",
+       "votes": 45581
+      }
+     ]
+    },
+    "meigs": {
+     "total": 7486,
+     "candidates": [
+      {
+       "name": "Tom Pruss",
+       "votes": 230
+      },
+      {
+       "name": "Allison Russo",
+       "votes": 2089
+      },
+      {
+       "name": "Robert Sprague",
+       "votes": 5167
+      }
+     ]
+    },
+    "mercer": {
+     "total": 17924,
+     "candidates": [
+      {
+       "name": "Tom Pruss",
+       "votes": 464
+      },
+      {
+       "name": "Allison Russo",
+       "votes": 3384
+      },
+      {
+       "name": "Robert Sprague",
+       "votes": 14076
+      }
+     ]
+    },
+    "miami": {
+     "total": 45241,
+     "candidates": [
+      {
+       "name": "Tom Pruss",
+       "votes": 1602
+      },
+      {
+       "name": "Allison Russo",
+       "votes": 14150
+      },
+      {
+       "name": "Robert Sprague",
+       "votes": 29489
+      }
+     ]
+    },
+    "monroe": {
+     "total": 4677,
+     "candidates": [
+      {
+       "name": "Tom Pruss",
+       "votes": 138
+      },
+      {
+       "name": "Allison Russo",
+       "votes": 1300
+      },
+      {
+       "name": "Robert Sprague",
+       "votes": 3239
+      }
+     ]
+    },
+    "montgomery": {
+     "total": 200869,
+     "candidates": [
+      {
+       "name": "Tom Pruss",
+       "votes": 6088
+      },
+      {
+       "name": "Allison Russo",
+       "votes": 111842
+      },
+      {
+       "name": "Robert Sprague",
+       "votes": 82939
+      }
+     ]
+    },
+    "morgan": {
+     "total": 4778,
+     "candidates": [
+      {
+       "name": "Tom Pruss",
+       "votes": 127
+      },
+      {
+       "name": "Allison Russo",
+       "votes": 1362
+      },
+      {
+       "name": "Robert Sprague",
+       "votes": 3289
+      }
+     ]
+    },
+    "morrow": {
+     "total": 13978,
+     "candidates": [
+      {
+       "name": "Tom Pruss",
+       "votes": 532
+      },
+      {
+       "name": "Allison Russo",
+       "votes": 3697
+      },
+      {
+       "name": "Robert Sprague",
+       "votes": 9749
+      }
+     ]
+    },
+    "muskingum": {
+     "total": 28620,
+     "candidates": [
+      {
+       "name": "Tom Pruss",
+       "votes": 853
+      },
+      {
+       "name": "Allison Russo",
+       "votes": 9634
+      },
+      {
+       "name": "Robert Sprague",
+       "votes": 18133
+      }
+     ]
+    },
+    "noble": {
+     "total": 4441,
+     "candidates": [
+      {
+       "name": "Tom Pruss",
+       "votes": 120
+      },
+      {
+       "name": "Allison Russo",
+       "votes": 1080
+      },
+      {
+       "name": "Robert Sprague",
+       "votes": 3241
+      }
+     ]
+    },
+    "ottawa": {
+     "total": 18971,
+     "candidates": [
+      {
+       "name": "Tom Pruss",
+       "votes": 648
+      },
+      {
+       "name": "Allison Russo",
+       "votes": 7616
+      },
+      {
+       "name": "Robert Sprague",
+       "votes": 10707
+      }
+     ]
+    },
+    "paulding": {
+     "total": 8896,
+     "candidates": [
+      {
+       "name": "Tom Pruss",
+       "votes": 295
+      },
+      {
+       "name": "Allison Russo",
+       "votes": 2514
+      },
+      {
+       "name": "Robert Sprague",
+       "votes": 6087
+      }
+     ]
+    },
+    "perry": {
+     "total": 12346,
+     "candidates": [
+      {
+       "name": "Tom Pruss",
+       "votes": 390
+      },
+      {
+       "name": "Allison Russo",
+       "votes": 3670
+      },
+      {
+       "name": "Robert Sprague",
+       "votes": 8286
+      }
+     ]
+    },
+    "pickaway": {
+     "total": 21958,
+     "candidates": [
+      {
+       "name": "Tom Pruss",
+       "votes": 710
+      },
+      {
+       "name": "Allison Russo",
+       "votes": 6926
+      },
+      {
+       "name": "Robert Sprague",
+       "votes": 14322
+      }
+     ]
+    },
+    "pike": {
+     "total": 8434,
+     "candidates": [
+      {
+       "name": "Tom Pruss",
+       "votes": 258
+      },
+      {
+       "name": "Allison Russo",
+       "votes": 2648
+      },
+      {
+       "name": "Robert Sprague",
+       "votes": 5528
+      }
+     ]
+    },
+    "portage": {
+     "total": 65071,
+     "candidates": [
+      {
+       "name": "Tom Pruss",
+       "votes": 2105
+      },
+      {
+       "name": "Allison Russo",
+       "votes": 32037
+      },
+      {
+       "name": "Robert Sprague",
+       "votes": 30929
+      }
+     ]
+    },
+    "preble": {
+     "total": 15302,
+     "candidates": [
+      {
+       "name": "Tom Pruss",
+       "votes": 555
+      },
+      {
+       "name": "Allison Russo",
+       "votes": 3834
+      },
+      {
+       "name": "Robert Sprague",
+       "votes": 10913
+      }
+     ]
+    },
+    "putnam": {
+     "total": 15293,
+     "candidates": [
+      {
+       "name": "Tom Pruss",
+       "votes": 379
+      },
+      {
+       "name": "Allison Russo",
+       "votes": 2619
+      },
+      {
+       "name": "Robert Sprague",
+       "votes": 12295
+      }
+     ]
+    },
+    "richland": {
+     "total": 43662,
+     "candidates": [
+      {
+       "name": "Tom Pruss",
+       "votes": 1326
+      },
+      {
+       "name": "Allison Russo",
+       "votes": 14692
+      },
+      {
+       "name": "Robert Sprague",
+       "votes": 27644
+      }
+     ]
+    },
+    "ross": {
+     "total": 24497,
+     "candidates": [
+      {
+       "name": "Tom Pruss",
+       "votes": 719
+      },
+      {
+       "name": "Allison Russo",
+       "votes": 8963
+      },
+      {
+       "name": "Robert Sprague",
+       "votes": 14815
+      }
+     ]
+    },
+    "sandusky": {
+     "total": 22351,
+     "candidates": [
+      {
+       "name": "Tom Pruss",
+       "votes": 831
+      },
+      {
+       "name": "Allison Russo",
+       "votes": 8871
+      },
+      {
+       "name": "Robert Sprague",
+       "votes": 12649
+      }
+     ]
+    },
+    "scioto": {
+     "total": 21403,
+     "candidates": [
+      {
+       "name": "Tom Pruss",
+       "votes": 514
+      },
+      {
+       "name": "Allison Russo",
+       "votes": 7375
+      },
+      {
+       "name": "Robert Sprague",
+       "votes": 13514
+      }
+     ]
+    },
+    "seneca": {
+     "total": 18663,
+     "candidates": [
+      {
+       "name": "Tom Pruss",
+       "votes": 692
+      },
+      {
+       "name": "Allison Russo",
+       "votes": 6692
+      },
+      {
+       "name": "Robert Sprague",
+       "votes": 11279
+      }
+     ]
+    },
+    "shelby": {
+     "total": 18883,
+     "candidates": [
+      {
+       "name": "Tom Pruss",
+       "votes": 553
+      },
+      {
+       "name": "Allison Russo",
+       "votes": 3847
+      },
+      {
+       "name": "Robert Sprague",
+       "votes": 14483
+      }
+     ]
+    },
+    "stark": {
+     "total": 143534,
+     "candidates": [
+      {
+       "name": "Tom Pruss",
+       "votes": 4173
+      },
+      {
+       "name": "Allison Russo",
+       "votes": 65119
+      },
+      {
+       "name": "Robert Sprague",
+       "votes": 74242
+      }
+     ]
+    },
+    "summit": {
+     "total": 221997,
+     "candidates": [
+      {
+       "name": "Tom Pruss",
+       "votes": 5738
+      },
+      {
+       "name": "Allison Russo",
+       "votes": 133587
+      },
+      {
+       "name": "Robert Sprague",
+       "votes": 82672
+      }
+     ]
+    },
+    "trumbull": {
+     "total": 73657,
+     "candidates": [
+      {
+       "name": "Tom Pruss",
+       "votes": 1980
+      },
+      {
+       "name": "Allison Russo",
+       "votes": 36134
+      },
+      {
+       "name": "Robert Sprague",
+       "votes": 35543
+      }
+     ]
+    },
+    "tuscarawas": {
+     "total": 31818,
+     "candidates": [
+      {
+       "name": "Tom Pruss",
+       "votes": 976
+      },
+      {
+       "name": "Allison Russo",
+       "votes": 11292
+      },
+      {
+       "name": "Robert Sprague",
+       "votes": 19550
+      }
+     ]
+    },
+    "union": {
+     "total": 30804,
+     "candidates": [
+      {
+       "name": "Tom Pruss",
+       "votes": 921
+      },
+      {
+       "name": "Allison Russo",
+       "votes": 12492
+      },
+      {
+       "name": "Robert Sprague",
+       "votes": 17391
+      }
+     ]
+    },
+    "vanwert": {
+     "total": 10486,
+     "candidates": [
+      {
+       "name": "Tom Pruss",
+       "votes": 394
+      },
+      {
+       "name": "Allison Russo",
+       "votes": 2588
+      },
+      {
+       "name": "Robert Sprague",
+       "votes": 7504
+      }
+     ]
+    },
+    "vinton": {
+     "total": 3861,
+     "candidates": [
+      {
+       "name": "Tom Pruss",
+       "votes": 124
+      },
+      {
+       "name": "Allison Russo",
+       "votes": 1073
+      },
+      {
+       "name": "Robert Sprague",
+       "votes": 2664
+      }
+     ]
+    },
+    "warren": {
+     "total": 111805,
+     "candidates": [
+      {
+       "name": "Tom Pruss",
+       "votes": 3504
+      },
+      {
+       "name": "Allison Russo",
+       "votes": 42803
+      },
+      {
+       "name": "Robert Sprague",
+       "votes": 65498
+      }
+     ]
+    },
+    "washington": {
+     "total": 22317,
+     "candidates": [
+      {
+       "name": "Tom Pruss",
+       "votes": 685
+      },
+      {
+       "name": "Allison Russo",
+       "votes": 7706
+      },
+      {
+       "name": "Robert Sprague",
+       "votes": 13926
+      }
+     ]
+    },
+    "wayne": {
+     "total": 41092,
+     "candidates": [
+      {
+       "name": "Tom Pruss",
+       "votes": 1226
+      },
+      {
+       "name": "Allison Russo",
+       "votes": 14167
+      },
+      {
+       "name": "Robert Sprague",
+       "votes": 25699
+      }
+     ]
+    },
+    "williams": {
+     "total": 13329,
+     "candidates": [
+      {
+       "name": "Tom Pruss",
+       "votes": 533
+      },
+      {
+       "name": "Allison Russo",
+       "votes": 3850
+      },
+      {
+       "name": "Robert Sprague",
+       "votes": 8946
+      }
+     ]
+    },
+    "wood": {
+     "total": 53850,
+     "candidates": [
+      {
+       "name": "Tom Pruss",
+       "votes": 1904
+      },
+      {
+       "name": "Allison Russo",
+       "votes": 26230
+      },
+      {
+       "name": "Robert Sprague",
+       "votes": 25716
+      }
+     ]
+    },
+    "wyandot": {
+     "total": 9810,
+     "candidates": [
+      {
+       "name": "Tom Pruss",
+       "votes": 468
+      },
+      {
+       "name": "Allison Russo",
+       "votes": 2639
+      },
+      {
+       "name": "Robert Sprague",
+       "votes": 6703
+      }
+     ]
+    }
+   }
+  },
+  "treasurer-of-state": {
+   "total": 4515304,
+   "candidates": [
+    {
+     "name": "Seth Walsh",
+     "votes": 2282546
+    },
+    {
+     "name": "Jay Edwards",
+     "votes": 2232758
+    }
+   ],
+   "counties": {
+    "adams": {
+     "total": 8803,
+     "candidates": [
+      {
+       "name": "Jay Edwards",
+       "votes": 6677
+      },
+      {
+       "name": "Seth Walsh",
+       "votes": 2126
+      }
+     ]
+    },
+    "allen": {
+     "total": 35004,
+     "candidates": [
+      {
+       "name": "Jay Edwards",
+       "votes": 23687
+      },
+      {
+       "name": "Seth Walsh",
+       "votes": 11317
+      }
+     ]
+    },
+    "ashland": {
+     "total": 19595,
+     "candidates": [
+      {
+       "name": "Jay Edwards",
+       "votes": 13814
+      },
+      {
+       "name": "Seth Walsh",
+       "votes": 5781
+      }
+     ]
+    },
+    "ashtabula": {
+     "total": 32300,
+     "candidates": [
+      {
+       "name": "Jay Edwards",
+       "votes": 18426
+      },
+      {
+       "name": "Seth Walsh",
+       "votes": 13874
+      }
+     ]
+    },
+    "athens": {
+     "total": 20230,
+     "candidates": [
+      {
+       "name": "Jay Edwards",
+       "votes": 7509
+      },
+      {
+       "name": "Seth Walsh",
+       "votes": 12721
+      }
+     ]
+    },
+    "auglaize": {
+     "total": 19046,
+     "candidates": [
+      {
+       "name": "Jay Edwards",
+       "votes": 15138
+      },
+      {
+       "name": "Seth Walsh",
+       "votes": 3908
+      }
+     ]
+    },
+    "belmont": {
+     "total": 21666,
+     "candidates": [
+      {
+       "name": "Jay Edwards",
+       "votes": 14266
+      },
+      {
+       "name": "Seth Walsh",
+       "votes": 7400
+      }
+     ]
+    },
+    "brown": {
+     "total": 14832,
+     "candidates": [
+      {
+       "name": "Jay Edwards",
+       "votes": 11002
+      },
+      {
+       "name": "Seth Walsh",
+       "votes": 3830
+      }
+     ]
+    },
+    "butler": {
+     "total": 144661,
+     "candidates": [
+      {
+       "name": "Jay Edwards",
+       "votes": 82461
+      },
+      {
+       "name": "Seth Walsh",
+       "votes": 62200
+      }
+     ]
+    },
+    "carroll": {
+     "total": 10165,
+     "candidates": [
+      {
+       "name": "Jay Edwards",
+       "votes": 7391
+      },
+      {
+       "name": "Seth Walsh",
+       "votes": 2774
+      }
+     ]
+    },
+    "champaign": {
+     "total": 15266,
+     "candidates": [
+      {
+       "name": "Jay Edwards",
+       "votes": 10758
+      },
+      {
+       "name": "Seth Walsh",
+       "votes": 4508
+      }
+     ]
+    },
+    "clark": {
+     "total": 48111,
+     "candidates": [
+      {
+       "name": "Jay Edwards",
+       "votes": 28076
+      },
+      {
+       "name": "Seth Walsh",
+       "votes": 20035
+      }
+     ]
+    },
+    "clermont": {
+     "total": 88201,
+     "candidates": [
+      {
+       "name": "Jay Edwards",
+       "votes": 54930
+      },
+      {
+       "name": "Seth Walsh",
+       "votes": 33271
+      }
+     ]
+    },
+    "clinton": {
+     "total": 15214,
+     "candidates": [
+      {
+       "name": "Jay Edwards",
+       "votes": 11080
+      },
+      {
+       "name": "Seth Walsh",
+       "votes": 4134
+      }
+     ]
+    },
+    "columbiana": {
+     "total": 34236,
+     "candidates": [
+      {
+       "name": "Jay Edwards",
+       "votes": 23387
+      },
+      {
+       "name": "Seth Walsh",
+       "votes": 10849
+      }
+     ]
+    },
+    "coshocton": {
+     "total": 11588,
+     "candidates": [
+      {
+       "name": "Jay Edwards",
+       "votes": 8092
+      },
+      {
+       "name": "Seth Walsh",
+       "votes": 3496
+      }
+     ]
+    },
+    "crawford": {
+     "total": 14560,
+     "candidates": [
+      {
+       "name": "Jay Edwards",
+       "votes": 10333
+      },
+      {
+       "name": "Seth Walsh",
+       "votes": 4227
+      }
+     ]
+    },
+    "cuyahoga": {
+     "total": 464119,
+     "candidates": [
+      {
+       "name": "Jay Edwards",
+       "votes": 132293
+      },
+      {
+       "name": "Seth Walsh",
+       "votes": 331826
+      }
+     ]
+    },
+    "darke": {
+     "total": 19877,
+     "candidates": [
+      {
+       "name": "Jay Edwards",
+       "votes": 15733
+      },
+      {
+       "name": "Seth Walsh",
+       "votes": 4144
+      }
+     ]
+    },
+    "defiance": {
+     "total": 14349,
+     "candidates": [
+      {
+       "name": "Jay Edwards",
+       "votes": 9320
+      },
+      {
+       "name": "Seth Walsh",
+       "votes": 5029
+      }
+     ]
+    },
+    "delaware": {
+     "total": 115040,
+     "candidates": [
+      {
+       "name": "Jay Edwards",
+       "votes": 58160
+      },
+      {
+       "name": "Seth Walsh",
+       "votes": 56880
+      }
+     ]
+    },
+    "erie": {
+     "total": 31308,
+     "candidates": [
+      {
+       "name": "Jay Edwards",
+       "votes": 16101
+      },
+      {
+       "name": "Seth Walsh",
+       "votes": 15207
+      }
+     ]
+    },
+    "fairfield": {
+     "total": 67051,
+     "candidates": [
+      {
+       "name": "Jay Edwards",
+       "votes": 37463
+      },
+      {
+       "name": "Seth Walsh",
+       "votes": 29588
+      }
+     ]
+    },
+    "fayette": {
+     "total": 8989,
+     "candidates": [
+      {
+       "name": "Jay Edwards",
+       "votes": 6561
+      },
+      {
+       "name": "Seth Walsh",
+       "votes": 2428
+      }
+     ]
+    },
+    "franklin": {
+     "total": 492126,
+     "candidates": [
+      {
+       "name": "Jay Edwards",
+       "votes": 148709
+      },
+      {
+       "name": "Seth Walsh",
+       "votes": 343417
+      }
+     ]
+    },
+    "fulton": {
+     "total": 17162,
+     "candidates": [
+      {
+       "name": "Jay Edwards",
+       "votes": 11520
+      },
+      {
+       "name": "Seth Walsh",
+       "votes": 5642
+      }
+     ]
+    },
+    "gallia": {
+     "total": 8501,
+     "candidates": [
+      {
+       "name": "Jay Edwards",
+       "votes": 6299
+      },
+      {
+       "name": "Seth Walsh",
+       "votes": 2202
+      }
+     ]
+    },
+    "geauga": {
+     "total": 44690,
+     "candidates": [
+      {
+       "name": "Jay Edwards",
+       "votes": 26197
+      },
+      {
+       "name": "Seth Walsh",
+       "votes": 18493
+      }
+     ]
+    },
+    "greene": {
+     "total": 73304,
+     "candidates": [
+      {
+       "name": "Jay Edwards",
+       "votes": 40903
+      },
+      {
+       "name": "Seth Walsh",
+       "votes": 32401
+      }
+     ]
+    },
+    "guernsey": {
+     "total": 12475,
+     "candidates": [
+      {
+       "name": "Jay Edwards",
+       "votes": 8702
+      },
+      {
+       "name": "Seth Walsh",
+       "votes": 3773
+      }
+     ]
+    },
+    "hamilton": {
+     "total": 336690,
+     "candidates": [
+      {
+       "name": "Jay Edwards",
+       "votes": 128291
+      },
+      {
+       "name": "Seth Walsh",
+       "votes": 208399
+      }
+     ]
+    },
+    "hancock": {
+     "total": 28657,
+     "candidates": [
+      {
+       "name": "Jay Edwards",
+       "votes": 18655
+      },
+      {
+       "name": "Seth Walsh",
+       "votes": 10002
+      }
+     ]
+    },
+    "hardin": {
+     "total": 8990,
+     "candidates": [
+      {
+       "name": "Jay Edwards",
+       "votes": 6482
+      },
+      {
+       "name": "Seth Walsh",
+       "votes": 2508
+      }
+     ]
+    },
+    "harrison": {
+     "total": 4967,
+     "candidates": [
+      {
+       "name": "Jay Edwards",
+       "votes": 3538
+      },
+      {
+       "name": "Seth Walsh",
+       "votes": 1429
+      }
+     ]
+    },
+    "henry": {
+     "total": 10932,
+     "candidates": [
+      {
+       "name": "Jay Edwards",
+       "votes": 7568
+      },
+      {
+       "name": "Seth Walsh",
+       "votes": 3364
+      }
+     ]
+    },
+    "highland": {
+     "total": 13983,
+     "candidates": [
+      {
+       "name": "Jay Edwards",
+       "votes": 10497
+      },
+      {
+       "name": "Seth Walsh",
+       "votes": 3486
+      }
+     ]
+    },
+    "hocking": {
+     "total": 9654,
+     "candidates": [
+      {
+       "name": "Jay Edwards",
+       "votes": 6365
+      },
+      {
+       "name": "Seth Walsh",
+       "votes": 3289
+      }
+     ]
+    },
+    "holmes": {
+     "total": 8694,
+     "candidates": [
+      {
+       "name": "Jay Edwards",
+       "votes": 7072
+      },
+      {
+       "name": "Seth Walsh",
+       "votes": 1622
+      }
+     ]
+    },
+    "huron": {
+     "total": 19336,
+     "candidates": [
+      {
+       "name": "Jay Edwards",
+       "votes": 12576
+      },
+      {
+       "name": "Seth Walsh",
+       "votes": 6760
+      }
+     ]
+    },
+    "jackson": {
+     "total": 9562,
+     "candidates": [
+      {
+       "name": "Jay Edwards",
+       "votes": 6816
+      },
+      {
+       "name": "Seth Walsh",
+       "votes": 2746
+      }
+     ]
+    },
+    "jefferson": {
+     "total": 21856,
+     "candidates": [
+      {
+       "name": "Jay Edwards",
+       "votes": 14006
+      },
+      {
+       "name": "Seth Walsh",
+       "votes": 7850
+      }
+     ]
+    },
+    "knox": {
+     "total": 23866,
+     "candidates": [
+      {
+       "name": "Jay Edwards",
+       "votes": 16341
+      },
+      {
+       "name": "Seth Walsh",
+       "votes": 7525
+      }
+     ]
+    },
+    "lake": {
+     "total": 102569,
+     "candidates": [
+      {
+       "name": "Jay Edwards",
+       "votes": 52779
+      },
+      {
+       "name": "Seth Walsh",
+       "votes": 49790
+      }
+     ]
+    },
+    "lawrence": {
+     "total": 17996,
+     "candidates": [
+      {
+       "name": "Jay Edwards",
+       "votes": 12027
+      },
+      {
+       "name": "Seth Walsh",
+       "votes": 5969
+      }
+     ]
+    },
+    "licking": {
+     "total": 73161,
+     "candidates": [
+      {
+       "name": "Jay Edwards",
+       "votes": 42909
+      },
+      {
+       "name": "Seth Walsh",
+       "votes": 30252
+      }
+     ]
+    },
+    "logan": {
+     "total": 17586,
+     "candidates": [
+      {
+       "name": "Jay Edwards",
+       "votes": 13011
+      },
+      {
+       "name": "Seth Walsh",
+       "votes": 4575
+      }
+     ]
+    },
+    "lorain": {
+     "total": 126379,
+     "candidates": [
+      {
+       "name": "Jay Edwards",
+       "votes": 58566
+      },
+      {
+       "name": "Seth Walsh",
+       "votes": 67813
+      }
+     ]
+    },
+    "lucas": {
+     "total": 150280,
+     "candidates": [
+      {
+       "name": "Jay Edwards",
+       "votes": 57124
+      },
+      {
+       "name": "Seth Walsh",
+       "votes": 93156
+      }
+     ]
+    },
+    "madison": {
+     "total": 15987,
+     "candidates": [
+      {
+       "name": "Jay Edwards",
+       "votes": 10671
+      },
+      {
+       "name": "Seth Walsh",
+       "votes": 5316
+      }
+     ]
+    },
+    "mahoning": {
+     "total": 86763,
+     "candidates": [
+      {
+       "name": "Jay Edwards",
+       "votes": 41551
+      },
+      {
+       "name": "Seth Walsh",
+       "votes": 45212
+      }
+     ]
+    },
+    "marion": {
+     "total": 19811,
+     "candidates": [
+      {
+       "name": "Jay Edwards",
+       "votes": 12706
+      },
+      {
+       "name": "Seth Walsh",
+       "votes": 7105
+      }
+     ]
+    },
+    "medina": {
+     "total": 83192,
+     "candidates": [
+      {
+       "name": "Jay Edwards",
+       "votes": 47601
+      },
+      {
+       "name": "Seth Walsh",
+       "votes": 35591
+      }
+     ]
+    },
+    "meigs": {
+     "total": 7517,
+     "candidates": [
+      {
+       "name": "Jay Edwards",
+       "votes": 5534
+      },
+      {
+       "name": "Seth Walsh",
+       "votes": 1983
+      }
+     ]
+    },
+    "mercer": {
+     "total": 17890,
+     "candidates": [
+      {
+       "name": "Jay Edwards",
+       "votes": 14460
+      },
+      {
+       "name": "Seth Walsh",
+       "votes": 3430
+      }
+     ]
+    },
+    "miami": {
+     "total": 44926,
+     "candidates": [
+      {
+       "name": "Jay Edwards",
+       "votes": 30656
+      },
+      {
+       "name": "Seth Walsh",
+       "votes": 14270
+      }
+     ]
+    },
+    "monroe": {
+     "total": 4659,
+     "candidates": [
+      {
+       "name": "Jay Edwards",
+       "votes": 3335
+      },
+      {
+       "name": "Seth Walsh",
+       "votes": 1324
+      }
+     ]
+    },
+    "montgomery": {
+     "total": 199816,
+     "candidates": [
+      {
+       "name": "Jay Edwards",
+       "votes": 86823
+      },
+      {
+       "name": "Seth Walsh",
+       "votes": 112993
+      }
+     ]
+    },
+    "morgan": {
+     "total": 4792,
+     "candidates": [
+      {
+       "name": "Jay Edwards",
+       "votes": 3456
+      },
+      {
+       "name": "Seth Walsh",
+       "votes": 1336
+      }
+     ]
+    },
+    "morrow": {
+     "total": 13879,
+     "candidates": [
+      {
+       "name": "Jay Edwards",
+       "votes": 10140
+      },
+      {
+       "name": "Seth Walsh",
+       "votes": 3739
+      }
+     ]
+    },
+    "muskingum": {
+     "total": 28445,
+     "candidates": [
+      {
+       "name": "Jay Edwards",
+       "votes": 18781
+      },
+      {
+       "name": "Seth Walsh",
+       "votes": 9664
+      }
+     ]
+    },
+    "noble": {
+     "total": 4424,
+     "candidates": [
+      {
+       "name": "Jay Edwards",
+       "votes": 3371
+      },
+      {
+       "name": "Seth Walsh",
+       "votes": 1053
+      }
+     ]
+    },
+    "ottawa": {
+     "total": 18858,
+     "candidates": [
+      {
+       "name": "Jay Edwards",
+       "votes": 11062
+      },
+      {
+       "name": "Seth Walsh",
+       "votes": 7796
+      }
+     ]
+    },
+    "paulding": {
+     "total": 8835,
+     "candidates": [
+      {
+       "name": "Jay Edwards",
+       "votes": 6253
+      },
+      {
+       "name": "Seth Walsh",
+       "votes": 2582
+      }
+     ]
+    },
+    "perry": {
+     "total": 12336,
+     "candidates": [
+      {
+       "name": "Jay Edwards",
+       "votes": 8751
+      },
+      {
+       "name": "Seth Walsh",
+       "votes": 3585
+      }
+     ]
+    },
+    "pickaway": {
+     "total": 21847,
+     "candidates": [
+      {
+       "name": "Jay Edwards",
+       "votes": 15009
+      },
+      {
+       "name": "Seth Walsh",
+       "votes": 6838
+      }
+     ]
+    },
+    "pike": {
+     "total": 8398,
+     "candidates": [
+      {
+       "name": "Jay Edwards",
+       "votes": 5742
+      },
+      {
+       "name": "Seth Walsh",
+       "votes": 2656
+      }
+     ]
+    },
+    "portage": {
+     "total": 64588,
+     "candidates": [
+      {
+       "name": "Jay Edwards",
+       "votes": 32585
+      },
+      {
+       "name": "Seth Walsh",
+       "votes": 32003
+      }
+     ]
+    },
+    "preble": {
+     "total": 15201,
+     "candidates": [
+      {
+       "name": "Jay Edwards",
+       "votes": 11305
+      },
+      {
+       "name": "Seth Walsh",
+       "votes": 3896
+      }
+     ]
+    },
+    "putnam": {
+     "total": 15203,
+     "candidates": [
+      {
+       "name": "Jay Edwards",
+       "votes": 12512
+      },
+      {
+       "name": "Seth Walsh",
+       "votes": 2691
+      }
+     ]
+    },
+    "richland": {
+     "total": 43421,
+     "candidates": [
+      {
+       "name": "Jay Edwards",
+       "votes": 28700
+      },
+      {
+       "name": "Seth Walsh",
+       "votes": 14721
+      }
+     ]
+    },
+    "ross": {
+     "total": 24392,
+     "candidates": [
+      {
+       "name": "Jay Edwards",
+       "votes": 15437
+      },
+      {
+       "name": "Seth Walsh",
+       "votes": 8955
+      }
+     ]
+    },
+    "sandusky": {
+     "total": 22099,
+     "candidates": [
+      {
+       "name": "Jay Edwards",
+       "votes": 13250
+      },
+      {
+       "name": "Seth Walsh",
+       "votes": 8849
+      }
+     ]
+    },
+    "scioto": {
+     "total": 21119,
+     "candidates": [
+      {
+       "name": "Jay Edwards",
+       "votes": 13743
+      },
+      {
+       "name": "Seth Walsh",
+       "votes": 7376
+      }
+     ]
+    },
+    "seneca": {
+     "total": 18588,
+     "candidates": [
+      {
+       "name": "Jay Edwards",
+       "votes": 11749
+      },
+      {
+       "name": "Seth Walsh",
+       "votes": 6839
+      }
+     ]
+    },
+    "shelby": {
+     "total": 18750,
+     "candidates": [
+      {
+       "name": "Jay Edwards",
+       "votes": 14849
+      },
+      {
+       "name": "Seth Walsh",
+       "votes": 3901
+      }
+     ]
+    },
+    "stark": {
+     "total": 142850,
+     "candidates": [
+      {
+       "name": "Jay Edwards",
+       "votes": 78107
+      },
+      {
+       "name": "Seth Walsh",
+       "votes": 64743
+      }
+     ]
+    },
+    "summit": {
+     "total": 219786,
+     "candidates": [
+      {
+       "name": "Jay Edwards",
+       "votes": 87245
+      },
+      {
+       "name": "Seth Walsh",
+       "votes": 132541
+      }
+     ]
+    },
+    "trumbull": {
+     "total": 73056,
+     "candidates": [
+      {
+       "name": "Jay Edwards",
+       "votes": 36495
+      },
+      {
+       "name": "Seth Walsh",
+       "votes": 36561
+      }
+     ]
+    },
+    "tuscarawas": {
+     "total": 31603,
+     "candidates": [
+      {
+       "name": "Jay Edwards",
+       "votes": 20392
+      },
+      {
+       "name": "Seth Walsh",
+       "votes": 11211
+      }
+     ]
+    },
+    "union": {
+     "total": 30455,
+     "candidates": [
+      {
+       "name": "Jay Edwards",
+       "votes": 18187
+      },
+      {
+       "name": "Seth Walsh",
+       "votes": 12268
+      }
+     ]
+    },
+    "vanwert": {
+     "total": 10438,
+     "candidates": [
+      {
+       "name": "Jay Edwards",
+       "votes": 7801
+      },
+      {
+       "name": "Seth Walsh",
+       "votes": 2637
+      }
+     ]
+    },
+    "vinton": {
+     "total": 3886,
+     "candidates": [
+      {
+       "name": "Jay Edwards",
+       "votes": 2799
+      },
+      {
+       "name": "Seth Walsh",
+       "votes": 1087
+      }
+     ]
+    },
+    "warren": {
+     "total": 111337,
+     "candidates": [
+      {
+       "name": "Jay Edwards",
+       "votes": 68451
+      },
+      {
+       "name": "Seth Walsh",
+       "votes": 42886
+      }
+     ]
+    },
+    "washington": {
+     "total": 22192,
+     "candidates": [
+      {
+       "name": "Jay Edwards",
+       "votes": 14673
+      },
+      {
+       "name": "Seth Walsh",
+       "votes": 7519
+      }
+     ]
+    },
+    "wayne": {
+     "total": 40728,
+     "candidates": [
+      {
+       "name": "Jay Edwards",
+       "votes": 26601
+      },
+      {
+       "name": "Seth Walsh",
+       "votes": 14127
+      }
+     ]
+    },
+    "williams": {
+     "total": 13231,
+     "candidates": [
+      {
+       "name": "Jay Edwards",
+       "votes": 9264
+      },
+      {
+       "name": "Seth Walsh",
+       "votes": 3967
+      }
+     ]
+    },
+    "wood": {
+     "total": 53519,
+     "candidates": [
+      {
+       "name": "Jay Edwards",
+       "votes": 26914
+      },
+      {
+       "name": "Seth Walsh",
+       "votes": 26605
+      }
+     ]
+    },
+    "wyandot": {
+     "total": 8860,
+     "candidates": [
+      {
+       "name": "Jay Edwards",
+       "votes": 6186
+      },
+      {
+       "name": "Seth Walsh",
+       "votes": 2674
+      }
+     ]
+    }
+   }
+  },
+  "supreme-court-2027-01-01": {
+   "total": 4523074,
+   "candidates": [
+    {
+     "name": "Marilyn Zayas",
+     "votes": 2307346
+    },
+    {
+     "name": "Daniel R. Hawkins",
+     "votes": 2215728
+    }
+   ],
+   "counties": {
+    "adams": {
+     "total": 8845,
+     "candidates": [
+      {
+       "name": "Daniel R. Hawkins",
+       "votes": 6781
+      },
+      {
+       "name": "Marilyn Zayas",
+       "votes": 2064
+      }
+     ]
+    },
+    "allen": {
+     "total": 34936,
+     "candidates": [
+      {
+       "name": "Daniel R. Hawkins",
+       "votes": 23581
+      },
+      {
+       "name": "Marilyn Zayas",
+       "votes": 11355
+      }
+     ]
+    },
+    "ashland": {
+     "total": 19647,
+     "candidates": [
+      {
+       "name": "Daniel R. Hawkins",
+       "votes": 13805
+      },
+      {
+       "name": "Marilyn Zayas",
+       "votes": 5842
+      }
+     ]
+    },
+    "ashtabula": {
+     "total": 32595,
+     "candidates": [
+      {
+       "name": "Daniel R. Hawkins",
+       "votes": 18563
+      },
+      {
+       "name": "Marilyn Zayas",
+       "votes": 14032
+      }
+     ]
+    },
+    "athens": {
+     "total": 20066,
+     "candidates": [
+      {
+       "name": "Daniel R. Hawkins",
+       "votes": 7163
+      },
+      {
+       "name": "Marilyn Zayas",
+       "votes": 12903
+      }
+     ]
+    },
+    "auglaize": {
+     "total": 19042,
+     "candidates": [
+      {
+       "name": "Daniel R. Hawkins",
+       "votes": 15076
+      },
+      {
+       "name": "Marilyn Zayas",
+       "votes": 3966
+      }
+     ]
+    },
+    "belmont": {
+     "total": 21726,
+     "candidates": [
+      {
+       "name": "Daniel R. Hawkins",
+       "votes": 14238
+      },
+      {
+       "name": "Marilyn Zayas",
+       "votes": 7488
+      }
+     ]
+    },
+    "brown": {
+     "total": 14841,
+     "candidates": [
+      {
+       "name": "Daniel R. Hawkins",
+       "votes": 11028
+      },
+      {
+       "name": "Marilyn Zayas",
+       "votes": 3813
+      }
+     ]
+    },
+    "butler": {
+     "total": 145043,
+     "candidates": [
+      {
+       "name": "Daniel R. Hawkins",
+       "votes": 82289
+      },
+      {
+       "name": "Marilyn Zayas",
+       "votes": 62754
+      }
+     ]
+    },
+    "carroll": {
+     "total": 10185,
+     "candidates": [
+      {
+       "name": "Daniel R. Hawkins",
+       "votes": 7367
+      },
+      {
+       "name": "Marilyn Zayas",
+       "votes": 2818
+      }
+     ]
+    },
+    "champaign": {
+     "total": 15276,
+     "candidates": [
+      {
+       "name": "Daniel R. Hawkins",
+       "votes": 10698
+      },
+      {
+       "name": "Marilyn Zayas",
+       "votes": 4578
+      }
+     ]
+    },
+    "clark": {
+     "total": 48153,
+     "candidates": [
+      {
+       "name": "Daniel R. Hawkins",
+       "votes": 28072
+      },
+      {
+       "name": "Marilyn Zayas",
+       "votes": 20081
+      }
+     ]
+    },
+    "clermont": {
+     "total": 88215,
+     "candidates": [
+      {
+       "name": "Daniel R. Hawkins",
+       "votes": 54545
+      },
+      {
+       "name": "Marilyn Zayas",
+       "votes": 33670
+      }
+     ]
+    },
+    "clinton": {
+     "total": 15250,
+     "candidates": [
+      {
+       "name": "Daniel R. Hawkins",
+       "votes": 11061
+      },
+      {
+       "name": "Marilyn Zayas",
+       "votes": 4189
+      }
+     ]
+    },
+    "columbiana": {
+     "total": 34529,
+     "candidates": [
+      {
+       "name": "Daniel R. Hawkins",
+       "votes": 23442
+      },
+      {
+       "name": "Marilyn Zayas",
+       "votes": 11087
+      }
+     ]
+    },
+    "coshocton": {
+     "total": 11560,
+     "candidates": [
+      {
+       "name": "Daniel R. Hawkins",
+       "votes": 8072
+      },
+      {
+       "name": "Marilyn Zayas",
+       "votes": 3488
+      }
+     ]
+    },
+    "crawford": {
+     "total": 14554,
+     "candidates": [
+      {
+       "name": "Daniel R. Hawkins",
+       "votes": 10276
+      },
+      {
+       "name": "Marilyn Zayas",
+       "votes": 4278
+      }
+     ]
+    },
+    "cuyahoga": {
+     "total": 462954,
+     "candidates": [
+      {
+       "name": "Daniel R. Hawkins",
+       "votes": 128698
+      },
+      {
+       "name": "Marilyn Zayas",
+       "votes": 334256
+      }
+     ]
+    },
+    "darke": {
+     "total": 19921,
+     "candidates": [
+      {
+       "name": "Daniel R. Hawkins",
+       "votes": 15763
+      },
+      {
+       "name": "Marilyn Zayas",
+       "votes": 4158
+      }
+     ]
+    },
+    "defiance": {
+     "total": 14397,
+     "candidates": [
+      {
+       "name": "Daniel R. Hawkins",
+       "votes": 9328
+      },
+      {
+       "name": "Marilyn Zayas",
+       "votes": 5069
+      }
+     ]
+    },
+    "delaware": {
+     "total": 115471,
+     "candidates": [
+      {
+       "name": "Daniel R. Hawkins",
+       "votes": 57524
+      },
+      {
+       "name": "Marilyn Zayas",
+       "votes": 57947
+      }
+     ]
+    },
+    "erie": {
+     "total": 31343,
+     "candidates": [
+      {
+       "name": "Daniel R. Hawkins",
+       "votes": 16049
+      },
+      {
+       "name": "Marilyn Zayas",
+       "votes": 15294
+      }
+     ]
+    },
+    "fairfield": {
+     "total": 67211,
+     "candidates": [
+      {
+       "name": "Daniel R. Hawkins",
+       "votes": 37179
+      },
+      {
+       "name": "Marilyn Zayas",
+       "votes": 30032
+      }
+     ]
+    },
+    "fayette": {
+     "total": 8945,
+     "candidates": [
+      {
+       "name": "Daniel R. Hawkins",
+       "votes": 6506
+      },
+      {
+       "name": "Marilyn Zayas",
+       "votes": 2439
+      }
+     ]
+    },
+    "franklin": {
+     "total": 494116,
+     "candidates": [
+      {
+       "name": "Daniel R. Hawkins",
+       "votes": 146274
+      },
+      {
+       "name": "Marilyn Zayas",
+       "votes": 347842
+      }
+     ]
+    },
+    "fulton": {
+     "total": 17185,
+     "candidates": [
+      {
+       "name": "Daniel R. Hawkins",
+       "votes": 11475
+      },
+      {
+       "name": "Marilyn Zayas",
+       "votes": 5710
+      }
+     ]
+    },
+    "gallia": {
+     "total": 8566,
+     "candidates": [
+      {
+       "name": "Daniel R. Hawkins",
+       "votes": 6324
+      },
+      {
+       "name": "Marilyn Zayas",
+       "votes": 2242
+      }
+     ]
+    },
+    "geauga": {
+     "total": 44637,
+     "candidates": [
+      {
+       "name": "Daniel R. Hawkins",
+       "votes": 25727
+      },
+      {
+       "name": "Marilyn Zayas",
+       "votes": 18910
+      }
+     ]
+    },
+    "greene": {
+     "total": 73535,
+     "candidates": [
+      {
+       "name": "Daniel R. Hawkins",
+       "votes": 40673
+      },
+      {
+       "name": "Marilyn Zayas",
+       "votes": 32862
+      }
+     ]
+    },
+    "guernsey": {
+     "total": 12516,
+     "candidates": [
+      {
+       "name": "Daniel R. Hawkins",
+       "votes": 8644
+      },
+      {
+       "name": "Marilyn Zayas",
+       "votes": 3872
+      }
+     ]
+    },
+    "hamilton": {
+     "total": 337536,
+     "candidates": [
+      {
+       "name": "Daniel R. Hawkins",
+       "votes": 127527
+      },
+      {
+       "name": "Marilyn Zayas",
+       "votes": 210009
+      }
+     ]
+    },
+    "hancock": {
+     "total": 28697,
+     "candidates": [
+      {
+       "name": "Daniel R. Hawkins",
+       "votes": 18582
+      },
+      {
+       "name": "Marilyn Zayas",
+       "votes": 10115
+      }
+     ]
+    },
+    "hardin": {
+     "total": 9011,
+     "candidates": [
+      {
+       "name": "Daniel R. Hawkins",
+       "votes": 6505
+      },
+      {
+       "name": "Marilyn Zayas",
+       "votes": 2506
+      }
+     ]
+    },
+    "harrison": {
+     "total": 4973,
+     "candidates": [
+      {
+       "name": "Daniel R. Hawkins",
+       "votes": 3516
+      },
+      {
+       "name": "Marilyn Zayas",
+       "votes": 1457
+      }
+     ]
+    },
+    "henry": {
+     "total": 10945,
+     "candidates": [
+      {
+       "name": "Daniel R. Hawkins",
+       "votes": 7548
+      },
+      {
+       "name": "Marilyn Zayas",
+       "votes": 3397
+      }
+     ]
+    },
+    "highland": {
+     "total": 14078,
+     "candidates": [
+      {
+       "name": "Daniel R. Hawkins",
+       "votes": 10604
+      },
+      {
+       "name": "Marilyn Zayas",
+       "votes": 3474
+      }
+     ]
+    },
+    "hocking": {
+     "total": 9568,
+     "candidates": [
+      {
+       "name": "Daniel R. Hawkins",
+       "votes": 6236
+      },
+      {
+       "name": "Marilyn Zayas",
+       "votes": 3332
+      }
+     ]
+    },
+    "holmes": {
+     "total": 8724,
+     "candidates": [
+      {
+       "name": "Daniel R. Hawkins",
+       "votes": 7086
+      },
+      {
+       "name": "Marilyn Zayas",
+       "votes": 1638
+      }
+     ]
+    },
+    "huron": {
+     "total": 19313,
+     "candidates": [
+      {
+       "name": "Daniel R. Hawkins",
+       "votes": 12513
+      },
+      {
+       "name": "Marilyn Zayas",
+       "votes": 6800
+      }
+     ]
+    },
+    "jackson": {
+     "total": 9619,
+     "candidates": [
+      {
+       "name": "Daniel R. Hawkins",
+       "votes": 6845
+      },
+      {
+       "name": "Marilyn Zayas",
+       "votes": 2774
+      }
+     ]
+    },
+    "jefferson": {
+     "total": 21879,
+     "candidates": [
+      {
+       "name": "Daniel R. Hawkins",
+       "votes": 14059
+      },
+      {
+       "name": "Marilyn Zayas",
+       "votes": 7820
+      }
+     ]
+    },
+    "knox": {
+     "total": 23871,
+     "candidates": [
+      {
+       "name": "Daniel R. Hawkins",
+       "votes": 16339
+      },
+      {
+       "name": "Marilyn Zayas",
+       "votes": 7532
+      }
+     ]
+    },
+    "lake": {
+     "total": 103195,
+     "candidates": [
+      {
+       "name": "Daniel R. Hawkins",
+       "votes": 52542
+      },
+      {
+       "name": "Marilyn Zayas",
+       "votes": 50653
+      }
+     ]
+    },
+    "lawrence": {
+     "total": 17984,
+     "candidates": [
+      {
+       "name": "Daniel R. Hawkins",
+       "votes": 12016
+      },
+      {
+       "name": "Marilyn Zayas",
+       "votes": 5968
+      }
+     ]
+    },
+    "licking": {
+     "total": 73210,
+     "candidates": [
+      {
+       "name": "Daniel R. Hawkins",
+       "votes": 42656
+      },
+      {
+       "name": "Marilyn Zayas",
+       "votes": 30554
+      }
+     ]
+    },
+    "logan": {
+     "total": 17615,
+     "candidates": [
+      {
+       "name": "Daniel R. Hawkins",
+       "votes": 12972
+      },
+      {
+       "name": "Marilyn Zayas",
+       "votes": 4643
+      }
+     ]
+    },
+    "lorain": {
+     "total": 126463,
+     "candidates": [
+      {
+       "name": "Daniel R. Hawkins",
+       "votes": 57719
+      },
+      {
+       "name": "Marilyn Zayas",
+       "votes": 68744
+      }
+     ]
+    },
+    "lucas": {
+     "total": 150401,
+     "candidates": [
+      {
+       "name": "Daniel R. Hawkins",
+       "votes": 56487
+      },
+      {
+       "name": "Marilyn Zayas",
+       "votes": 93914
+      }
+     ]
+    },
+    "madison": {
+     "total": 15921,
+     "candidates": [
+      {
+       "name": "Daniel R. Hawkins",
+       "votes": 10604
+      },
+      {
+       "name": "Marilyn Zayas",
+       "votes": 5317
+      }
+     ]
+    },
+    "mahoning": {
+     "total": 87283,
+     "candidates": [
+      {
+       "name": "Daniel R. Hawkins",
+       "votes": 40749
+      },
+      {
+       "name": "Marilyn Zayas",
+       "votes": 46534
+      }
+     ]
+    },
+    "marion": {
+     "total": 19816,
+     "candidates": [
+      {
+       "name": "Daniel R. Hawkins",
+       "votes": 12548
+      },
+      {
+       "name": "Marilyn Zayas",
+       "votes": 7268
+      }
+     ]
+    },
+    "medina": {
+     "total": 83478,
+     "candidates": [
+      {
+       "name": "Daniel R. Hawkins",
+       "votes": 47276
+      },
+      {
+       "name": "Marilyn Zayas",
+       "votes": 36202
+      }
+     ]
+    },
+    "meigs": {
+     "total": 7429,
+     "candidates": [
+      {
+       "name": "Daniel R. Hawkins",
+       "votes": 5336
+      },
+      {
+       "name": "Marilyn Zayas",
+       "votes": 2093
+      }
+     ]
+    },
+    "mercer": {
+     "total": 17889,
+     "candidates": [
+      {
+       "name": "Daniel R. Hawkins",
+       "votes": 14424
+      },
+      {
+       "name": "Marilyn Zayas",
+       "votes": 3465
+      }
+     ]
+    },
+    "miami": {
+     "total": 45179,
+     "candidates": [
+      {
+       "name": "Daniel R. Hawkins",
+       "votes": 30628
+      },
+      {
+       "name": "Marilyn Zayas",
+       "votes": 14551
+      }
+     ]
+    },
+    "monroe": {
+     "total": 4644,
+     "candidates": [
+      {
+       "name": "Daniel R. Hawkins",
+       "votes": 3325
+      },
+      {
+       "name": "Marilyn Zayas",
+       "votes": 1319
+      }
+     ]
+    },
+    "montgomery": {
+     "total": 199591,
+     "candidates": [
+      {
+       "name": "Daniel R. Hawkins",
+       "votes": 86086
+      },
+      {
+       "name": "Marilyn Zayas",
+       "votes": 113505
+      }
+     ]
+    },
+    "morgan": {
+     "total": 4726,
+     "candidates": [
+      {
+       "name": "Daniel R. Hawkins",
+       "votes": 3368
+      },
+      {
+       "name": "Marilyn Zayas",
+       "votes": 1358
+      }
+     ]
+    },
+    "morrow": {
+     "total": 13863,
+     "candidates": [
+      {
+       "name": "Daniel R. Hawkins",
+       "votes": 10090
+      },
+      {
+       "name": "Marilyn Zayas",
+       "votes": 3773
+      }
+     ]
+    },
+    "muskingum": {
+     "total": 28450,
+     "candidates": [
+      {
+       "name": "Daniel R. Hawkins",
+       "votes": 18758
+      },
+      {
+       "name": "Marilyn Zayas",
+       "votes": 9692
+      }
+     ]
+    },
+    "noble": {
+     "total": 4409,
+     "candidates": [
+      {
+       "name": "Daniel R. Hawkins",
+       "votes": 3326
+      },
+      {
+       "name": "Marilyn Zayas",
+       "votes": 1083
+      }
+     ]
+    },
+    "ottawa": {
+     "total": 18897,
+     "candidates": [
+      {
+       "name": "Daniel R. Hawkins",
+       "votes": 10952
+      },
+      {
+       "name": "Marilyn Zayas",
+       "votes": 7945
+      }
+     ]
+    },
+    "paulding": {
+     "total": 8837,
+     "candidates": [
+      {
+       "name": "Daniel R. Hawkins",
+       "votes": 6247
+      },
+      {
+       "name": "Marilyn Zayas",
+       "votes": 2590
+      }
+     ]
+    },
+    "perry": {
+     "total": 12290,
+     "candidates": [
+      {
+       "name": "Daniel R. Hawkins",
+       "votes": 8621
+      },
+      {
+       "name": "Marilyn Zayas",
+       "votes": 3669
+      }
+     ]
+    },
+    "pickaway": {
+     "total": 21840,
+     "candidates": [
+      {
+       "name": "Daniel R. Hawkins",
+       "votes": 14940
+      },
+      {
+       "name": "Marilyn Zayas",
+       "votes": 6900
+      }
+     ]
+    },
+    "pike": {
+     "total": 8399,
+     "candidates": [
+      {
+       "name": "Daniel R. Hawkins",
+       "votes": 5729
+      },
+      {
+       "name": "Marilyn Zayas",
+       "votes": 2670
+      }
+     ]
+    },
+    "portage": {
+     "total": 64655,
+     "candidates": [
+      {
+       "name": "Daniel R. Hawkins",
+       "votes": 32193
+      },
+      {
+       "name": "Marilyn Zayas",
+       "votes": 32462
+      }
+     ]
+    },
+    "preble": {
+     "total": 15259,
+     "candidates": [
+      {
+       "name": "Daniel R. Hawkins",
+       "votes": 11329
+      },
+      {
+       "name": "Marilyn Zayas",
+       "votes": 3930
+      }
+     ]
+    },
+    "putnam": {
+     "total": 15203,
+     "candidates": [
+      {
+       "name": "Daniel R. Hawkins",
+       "votes": 12504
+      },
+      {
+       "name": "Marilyn Zayas",
+       "votes": 2699
+      }
+     ]
+    },
+    "richland": {
+     "total": 43481,
+     "candidates": [
+      {
+       "name": "Daniel R. Hawkins",
+       "votes": 28501
+      },
+      {
+       "name": "Marilyn Zayas",
+       "votes": 14980
+      }
+     ]
+    },
+    "ross": {
+     "total": 24364,
+     "candidates": [
+      {
+       "name": "Daniel R. Hawkins",
+       "votes": 15374
+      },
+      {
+       "name": "Marilyn Zayas",
+       "votes": 8990
+      }
+     ]
+    },
+    "sandusky": {
+     "total": 22206,
+     "candidates": [
+      {
+       "name": "Daniel R. Hawkins",
+       "votes": 13197
+      },
+      {
+       "name": "Marilyn Zayas",
+       "votes": 9009
+      }
+     ]
+    },
+    "scioto": {
+     "total": 21444,
+     "candidates": [
+      {
+       "name": "Daniel R. Hawkins",
+       "votes": 13988
+      },
+      {
+       "name": "Marilyn Zayas",
+       "votes": 7456
+      }
+     ]
+    },
+    "seneca": {
+     "total": 18623,
+     "candidates": [
+      {
+       "name": "Daniel R. Hawkins",
+       "votes": 11676
+      },
+      {
+       "name": "Marilyn Zayas",
+       "votes": 6947
+      }
+     ]
+    },
+    "shelby": {
+     "total": 18711,
+     "candidates": [
+      {
+       "name": "Daniel R. Hawkins",
+       "votes": 14746
+      },
+      {
+       "name": "Marilyn Zayas",
+       "votes": 3965
+      }
+     ]
+    },
+    "stark": {
+     "total": 142918,
+     "candidates": [
+      {
+       "name": "Daniel R. Hawkins",
+       "votes": 77765
+      },
+      {
+       "name": "Marilyn Zayas",
+       "votes": 65153
+      }
+     ]
+    },
+    "summit": {
+     "total": 220641,
+     "candidates": [
+      {
+       "name": "Daniel R. Hawkins",
+       "votes": 86853
+      },
+      {
+       "name": "Marilyn Zayas",
+       "votes": 133788
+      }
+     ]
+    },
+    "trumbull": {
+     "total": 73107,
+     "candidates": [
+      {
+       "name": "Daniel R. Hawkins",
+       "votes": 36177
+      },
+      {
+       "name": "Marilyn Zayas",
+       "votes": 36930
+      }
+     ]
+    },
+    "tuscarawas": {
+     "total": 31648,
+     "candidates": [
+      {
+       "name": "Daniel R. Hawkins",
+       "votes": 20392
+      },
+      {
+       "name": "Marilyn Zayas",
+       "votes": 11256
+      }
+     ]
+    },
+    "union": {
+     "total": 30698,
+     "candidates": [
+      {
+       "name": "Daniel R. Hawkins",
+       "votes": 18196
+      },
+      {
+       "name": "Marilyn Zayas",
+       "votes": 12502
+      }
+     ]
+    },
+    "vanwert": {
+     "total": 10460,
+     "candidates": [
+      {
+       "name": "Daniel R. Hawkins",
+       "votes": 7788
+      },
+      {
+       "name": "Marilyn Zayas",
+       "votes": 2672
+      }
+     ]
+    },
+    "vinton": {
+     "total": 3846,
+     "candidates": [
+      {
+       "name": "Daniel R. Hawkins",
+       "votes": 2760
+      },
+      {
+       "name": "Marilyn Zayas",
+       "votes": 1086
+      }
+     ]
+    },
+    "warren": {
+     "total": 111526,
+     "candidates": [
+      {
+       "name": "Daniel R. Hawkins",
+       "votes": 67902
+      },
+      {
+       "name": "Marilyn Zayas",
+       "votes": 43624
+      }
+     ]
+    },
+    "washington": {
+     "total": 22271,
+     "candidates": [
+      {
+       "name": "Daniel R. Hawkins",
+       "votes": 14549
+      },
+      {
+       "name": "Marilyn Zayas",
+       "votes": 7722
+      }
+     ]
+    },
+    "wayne": {
+     "total": 40919,
+     "candidates": [
+      {
+       "name": "Daniel R. Hawkins",
+       "votes": 26588
+      },
+      {
+       "name": "Marilyn Zayas",
+       "votes": 14331
+      }
+     ]
+    },
+    "williams": {
+     "total": 13256,
+     "candidates": [
+      {
+       "name": "Daniel R. Hawkins",
+       "votes": 9246
+      },
+      {
+       "name": "Marilyn Zayas",
+       "votes": 4010
+      }
+     ]
+    },
+    "wood": {
+     "total": 53673,
+     "candidates": [
+      {
+       "name": "Daniel R. Hawkins",
+       "votes": 26846
+      },
+      {
+       "name": "Marilyn Zayas",
+       "votes": 26827
+      }
+     ]
+    },
+    "wyandot": {
+     "total": 8882,
+     "candidates": [
+      {
+       "name": "Daniel R. Hawkins",
+       "votes": 6178
+      },
+      {
+       "name": "Marilyn Zayas",
+       "votes": 2704
+      }
+     ]
+    }
+   }
+  },
+  "supreme-court-2027-01-02": {
+   "total": 4524233,
+   "candidates": [
+    {
+     "name": "Jennifer Brunner",
+     "votes": 2324212
+    },
+    {
+     "name": "Colleen O'Donnell",
+     "votes": 2200021
+    }
+   ],
+   "counties": {
+    "adams": {
+     "total": 8818,
+     "candidates": [
+      {
+       "name": "Jennifer Brunner",
+       "votes": 2150
+      },
+      {
+       "name": "Colleen O'Donnell",
+       "votes": 6668
+      }
+     ]
+    },
+    "allen": {
+     "total": 34730,
+     "candidates": [
+      {
+       "name": "Jennifer Brunner",
+       "votes": 11418
+      },
+      {
+       "name": "Colleen O'Donnell",
+       "votes": 23312
+      }
+     ]
+    },
+    "ashland": {
+     "total": 19615,
+     "candidates": [
+      {
+       "name": "Jennifer Brunner",
+       "votes": 5873
+      },
+      {
+       "name": "Colleen O'Donnell",
+       "votes": 13742
+      }
+     ]
+    },
+    "ashtabula": {
+     "total": 32571,
+     "candidates": [
+      {
+       "name": "Jennifer Brunner",
+       "votes": 14013
+      },
+      {
+       "name": "Colleen O'Donnell",
+       "votes": 18558
+      }
+     ]
+    },
+    "athens": {
+     "total": 20015,
+     "candidates": [
+      {
+       "name": "Jennifer Brunner",
+       "votes": 12984
+      },
+      {
+       "name": "Colleen O'Donnell",
+       "votes": 7031
+      }
+     ]
+    },
+    "auglaize": {
+     "total": 19016,
+     "candidates": [
+      {
+       "name": "Jennifer Brunner",
+       "votes": 4010
+      },
+      {
+       "name": "Colleen O'Donnell",
+       "votes": 15006
+      }
+     ]
+    },
+    "belmont": {
+     "total": 21734,
+     "candidates": [
+      {
+       "name": "Jennifer Brunner",
+       "votes": 7848
+      },
+      {
+       "name": "Colleen O'Donnell",
+       "votes": 13886
+      }
+     ]
+    },
+    "brown": {
+     "total": 14819,
+     "candidates": [
+      {
+       "name": "Jennifer Brunner",
+       "votes": 3883
+      },
+      {
+       "name": "Colleen O'Donnell",
+       "votes": 10936
+      }
+     ]
+    },
+    "butler": {
+     "total": 145196,
+     "candidates": [
+      {
+       "name": "Jennifer Brunner",
+       "votes": 63532
+      },
+      {
+       "name": "Colleen O'Donnell",
+       "votes": 81664
+      }
+     ]
+    },
+    "carroll": {
+     "total": 10174,
+     "candidates": [
+      {
+       "name": "Jennifer Brunner",
+       "votes": 2899
+      },
+      {
+       "name": "Colleen O'Donnell",
+       "votes": 7275
+      }
+     ]
+    },
+    "champaign": {
+     "total": 15255,
+     "candidates": [
+      {
+       "name": "Jennifer Brunner",
+       "votes": 4667
+      },
+      {
+       "name": "Colleen O'Donnell",
+       "votes": 10588
+      }
+     ]
+    },
+    "clark": {
+     "total": 48097,
+     "candidates": [
+      {
+       "name": "Jennifer Brunner",
+       "votes": 20415
+      },
+      {
+       "name": "Colleen O'Donnell",
+       "votes": 27682
+      }
+     ]
+    },
+    "clermont": {
+     "total": 88176,
+     "candidates": [
+      {
+       "name": "Jennifer Brunner",
+       "votes": 33945
+      },
+      {
+       "name": "Colleen O'Donnell",
+       "votes": 54231
+      }
+     ]
+    },
+    "clinton": {
+     "total": 15225,
+     "candidates": [
+      {
+       "name": "Jennifer Brunner",
+       "votes": 4279
+      },
+      {
+       "name": "Colleen O'Donnell",
+       "votes": 10946
+      }
+     ]
+    },
+    "columbiana": {
+     "total": 34462,
+     "candidates": [
+      {
+       "name": "Jennifer Brunner",
+       "votes": 11254
+      },
+      {
+       "name": "Colleen O'Donnell",
+       "votes": 23208
+      }
+     ]
+    },
+    "coshocton": {
+     "total": 11588,
+     "candidates": [
+      {
+       "name": "Jennifer Brunner",
+       "votes": 3614
+      },
+      {
+       "name": "Colleen O'Donnell",
+       "votes": 7974
+      }
+     ]
+    },
+    "crawford": {
+     "total": 14549,
+     "candidates": [
+      {
+       "name": "Jennifer Brunner",
+       "votes": 4393
+      },
+      {
+       "name": "Colleen O'Donnell",
+       "votes": 10156
+      }
+     ]
+    },
+    "cuyahoga": {
+     "total": 463482,
+     "candidates": [
+      {
+       "name": "Jennifer Brunner",
+       "votes": 333405
+      },
+      {
+       "name": "Colleen O'Donnell",
+       "votes": 130077
+      }
+     ]
+    },
+    "darke": {
+     "total": 19933,
+     "candidates": [
+      {
+       "name": "Jennifer Brunner",
+       "votes": 4288
+      },
+      {
+       "name": "Colleen O'Donnell",
+       "votes": 15645
+      }
+     ]
+    },
+    "defiance": {
+     "total": 14397,
+     "candidates": [
+      {
+       "name": "Jennifer Brunner",
+       "votes": 5178
+      },
+      {
+       "name": "Colleen O'Donnell",
+       "votes": 9219
+      }
+     ]
+    },
+    "delaware": {
+     "total": 115500,
+     "candidates": [
+      {
+       "name": "Jennifer Brunner",
+       "votes": 59098
+      },
+      {
+       "name": "Colleen O'Donnell",
+       "votes": 56402
+      }
+     ]
+    },
+    "erie": {
+     "total": 31376,
+     "candidates": [
+      {
+       "name": "Jennifer Brunner",
+       "votes": 15412
+      },
+      {
+       "name": "Colleen O'Donnell",
+       "votes": 15964
+      }
+     ]
+    },
+    "fairfield": {
+     "total": 67083,
+     "candidates": [
+      {
+       "name": "Jennifer Brunner",
+       "votes": 30382
+      },
+      {
+       "name": "Colleen O'Donnell",
+       "votes": 36701
+      }
+     ]
+    },
+    "fayette": {
+     "total": 8962,
+     "candidates": [
+      {
+       "name": "Jennifer Brunner",
+       "votes": 2510
+      },
+      {
+       "name": "Colleen O'Donnell",
+       "votes": 6452
+      }
+     ]
+    },
+    "franklin": {
+     "total": 494789,
+     "candidates": [
+      {
+       "name": "Jennifer Brunner",
+       "votes": 351504
+      },
+      {
+       "name": "Colleen O'Donnell",
+       "votes": 143285
+      }
+     ]
+    },
+    "fulton": {
+     "total": 17186,
+     "candidates": [
+      {
+       "name": "Jennifer Brunner",
+       "votes": 5831
+      },
+      {
+       "name": "Colleen O'Donnell",
+       "votes": 11355
+      }
+     ]
+    },
+    "gallia": {
+     "total": 8585,
+     "candidates": [
+      {
+       "name": "Jennifer Brunner",
+       "votes": 2317
+      },
+      {
+       "name": "Colleen O'Donnell",
+       "votes": 6268
+      }
+     ]
+    },
+    "geauga": {
+     "total": 44671,
+     "candidates": [
+      {
+       "name": "Jennifer Brunner",
+       "votes": 18905
+      },
+      {
+       "name": "Colleen O'Donnell",
+       "votes": 25766
+      }
+     ]
+    },
+    "greene": {
+     "total": 73649,
+     "candidates": [
+      {
+       "name": "Jennifer Brunner",
+       "votes": 33120
+      },
+      {
+       "name": "Colleen O'Donnell",
+       "votes": 40529
+      }
+     ]
+    },
+    "guernsey": {
+     "total": 12523,
+     "candidates": [
+      {
+       "name": "Jennifer Brunner",
+       "votes": 3994
+      },
+      {
+       "name": "Colleen O'Donnell",
+       "votes": 8529
+      }
+     ]
+    },
+    "hamilton": {
+     "total": 337115,
+     "candidates": [
+      {
+       "name": "Jennifer Brunner",
+       "votes": 209716
+      },
+      {
+       "name": "Colleen O'Donnell",
+       "votes": 127399
+      }
+     ]
+    },
+    "hancock": {
+     "total": 28760,
+     "candidates": [
+      {
+       "name": "Jennifer Brunner",
+       "votes": 10204
+      },
+      {
+       "name": "Colleen O'Donnell",
+       "votes": 18556
+      }
+     ]
+    },
+    "hardin": {
+     "total": 9000,
+     "candidates": [
+      {
+       "name": "Jennifer Brunner",
+       "votes": 2525
+      },
+      {
+       "name": "Colleen O'Donnell",
+       "votes": 6475
+      }
+     ]
+    },
+    "harrison": {
+     "total": 4976,
+     "candidates": [
+      {
+       "name": "Jennifer Brunner",
+       "votes": 1525
+      },
+      {
+       "name": "Colleen O'Donnell",
+       "votes": 3451
+      }
+     ]
+    },
+    "henry": {
+     "total": 10961,
+     "candidates": [
+      {
+       "name": "Jennifer Brunner",
+       "votes": 3469
+      },
+      {
+       "name": "Colleen O'Donnell",
+       "votes": 7492
+      }
+     ]
+    },
+    "highland": {
+     "total": 14120,
+     "candidates": [
+      {
+       "name": "Jennifer Brunner",
+       "votes": 3569
+      },
+      {
+       "name": "Colleen O'Donnell",
+       "votes": 10551
+      }
+     ]
+    },
+    "hocking": {
+     "total": 9585,
+     "candidates": [
+      {
+       "name": "Jennifer Brunner",
+       "votes": 3418
+      },
+      {
+       "name": "Colleen O'Donnell",
+       "votes": 6167
+      }
+     ]
+    },
+    "holmes": {
+     "total": 8680,
+     "candidates": [
+      {
+       "name": "Jennifer Brunner",
+       "votes": 1689
+      },
+      {
+       "name": "Colleen O'Donnell",
+       "votes": 6991
+      }
+     ]
+    },
+    "huron": {
+     "total": 19304,
+     "candidates": [
+      {
+       "name": "Jennifer Brunner",
+       "votes": 6842
+      },
+      {
+       "name": "Colleen O'Donnell",
+       "votes": 12462
+      }
+     ]
+    },
+    "jackson": {
+     "total": 9645,
+     "candidates": [
+      {
+       "name": "Jennifer Brunner",
+       "votes": 2890
+      },
+      {
+       "name": "Colleen O'Donnell",
+       "votes": 6755
+      }
+     ]
+    },
+    "jefferson": {
+     "total": 21822,
+     "candidates": [
+      {
+       "name": "Jennifer Brunner",
+       "votes": 8025
+      },
+      {
+       "name": "Colleen O'Donnell",
+       "votes": 13797
+      }
+     ]
+    },
+    "knox": {
+     "total": 23830,
+     "candidates": [
+      {
+       "name": "Jennifer Brunner",
+       "votes": 7774
+      },
+      {
+       "name": "Colleen O'Donnell",
+       "votes": 16056
+      }
+     ]
+    },
+    "lake": {
+     "total": 103557,
+     "candidates": [
+      {
+       "name": "Jennifer Brunner",
+       "votes": 50783
+      },
+      {
+       "name": "Colleen O'Donnell",
+       "votes": 52774
+      }
+     ]
+    },
+    "lawrence": {
+     "total": 17965,
+     "candidates": [
+      {
+       "name": "Jennifer Brunner",
+       "votes": 6068
+      },
+      {
+       "name": "Colleen O'Donnell",
+       "votes": 11897
+      }
+     ]
+    },
+    "licking": {
+     "total": 73205,
+     "candidates": [
+      {
+       "name": "Jennifer Brunner",
+       "votes": 31175
+      },
+      {
+       "name": "Colleen O'Donnell",
+       "votes": 42030
+      }
+     ]
+    },
+    "logan": {
+     "total": 17625,
+     "candidates": [
+      {
+       "name": "Jennifer Brunner",
+       "votes": 4726
+      },
+      {
+       "name": "Colleen O'Donnell",
+       "votes": 12899
+      }
+     ]
+    },
+    "lorain": {
+     "total": 127046,
+     "candidates": [
+      {
+       "name": "Jennifer Brunner",
+       "votes": 69078
+      },
+      {
+       "name": "Colleen O'Donnell",
+       "votes": 57968
+      }
+     ]
+    },
+    "lucas": {
+     "total": 150434,
+     "candidates": [
+      {
+       "name": "Jennifer Brunner",
+       "votes": 93954
+      },
+      {
+       "name": "Colleen O'Donnell",
+       "votes": 56480
+      }
+     ]
+    },
+    "madison": {
+     "total": 16011,
+     "candidates": [
+      {
+       "name": "Jennifer Brunner",
+       "votes": 5531
+      },
+      {
+       "name": "Colleen O'Donnell",
+       "votes": 10480
+      }
+     ]
+    },
+    "mahoning": {
+     "total": 87107,
+     "candidates": [
+      {
+       "name": "Jennifer Brunner",
+       "votes": 46407
+      },
+      {
+       "name": "Colleen O'Donnell",
+       "votes": 40700
+      }
+     ]
+    },
+    "marion": {
+     "total": 19807,
+     "candidates": [
+      {
+       "name": "Jennifer Brunner",
+       "votes": 7342
+      },
+      {
+       "name": "Colleen O'Donnell",
+       "votes": 12465
+      }
+     ]
+    },
+    "medina": {
+     "total": 83708,
+     "candidates": [
+      {
+       "name": "Jennifer Brunner",
+       "votes": 36304
+      },
+      {
+       "name": "Colleen O'Donnell",
+       "votes": 47404
+      }
+     ]
+    },
+    "meigs": {
+     "total": 7380,
+     "candidates": [
+      {
+       "name": "Jennifer Brunner",
+       "votes": 2179
+      },
+      {
+       "name": "Colleen O'Donnell",
+       "votes": 5201
+      }
+     ]
+    },
+    "mercer": {
+     "total": 17927,
+     "candidates": [
+      {
+       "name": "Jennifer Brunner",
+       "votes": 3579
+      },
+      {
+       "name": "Colleen O'Donnell",
+       "votes": 14348
+      }
+     ]
+    },
+    "miami": {
+     "total": 45072,
+     "candidates": [
+      {
+       "name": "Jennifer Brunner",
+       "votes": 14715
+      },
+      {
+       "name": "Colleen O'Donnell",
+       "votes": 30357
+      }
+     ]
+    },
+    "monroe": {
+     "total": 4666,
+     "candidates": [
+      {
+       "name": "Jennifer Brunner",
+       "votes": 1455
+      },
+      {
+       "name": "Colleen O'Donnell",
+       "votes": 3211
+      }
+     ]
+    },
+    "montgomery": {
+     "total": 199761,
+     "candidates": [
+      {
+       "name": "Jennifer Brunner",
+       "votes": 114371
+      },
+      {
+       "name": "Colleen O'Donnell",
+       "votes": 85390
+      }
+     ]
+    },
+    "morgan": {
+     "total": 4736,
+     "candidates": [
+      {
+       "name": "Jennifer Brunner",
+       "votes": 1413
+      },
+      {
+       "name": "Colleen O'Donnell",
+       "votes": 3323
+      }
+     ]
+    },
+    "morrow": {
+     "total": 13883,
+     "candidates": [
+      {
+       "name": "Jennifer Brunner",
+       "votes": 3917
+      },
+      {
+       "name": "Colleen O'Donnell",
+       "votes": 9966
+      }
+     ]
+    },
+    "muskingum": {
+     "total": 28509,
+     "candidates": [
+      {
+       "name": "Jennifer Brunner",
+       "votes": 10077
+      },
+      {
+       "name": "Colleen O'Donnell",
+       "votes": 18432
+      }
+     ]
+    },
+    "noble": {
+     "total": 4397,
+     "candidates": [
+      {
+       "name": "Jennifer Brunner",
+       "votes": 1140
+      },
+      {
+       "name": "Colleen O'Donnell",
+       "votes": 3257
+      }
+     ]
+    },
+    "ottawa": {
+     "total": 18931,
+     "candidates": [
+      {
+       "name": "Jennifer Brunner",
+       "votes": 7985
+      },
+      {
+       "name": "Colleen O'Donnell",
+       "votes": 10946
+      }
+     ]
+    },
+    "paulding": {
+     "total": 8824,
+     "candidates": [
+      {
+       "name": "Jennifer Brunner",
+       "votes": 2649
+      },
+      {
+       "name": "Colleen O'Donnell",
+       "votes": 6175
+      }
+     ]
+    },
+    "perry": {
+     "total": 12326,
+     "candidates": [
+      {
+       "name": "Jennifer Brunner",
+       "votes": 3816
+      },
+      {
+       "name": "Colleen O'Donnell",
+       "votes": 8510
+      }
+     ]
+    },
+    "pickaway": {
+     "total": 21849,
+     "candidates": [
+      {
+       "name": "Jennifer Brunner",
+       "votes": 7040
+      },
+      {
+       "name": "Colleen O'Donnell",
+       "votes": 14809
+      }
+     ]
+    },
+    "pike": {
+     "total": 8362,
+     "candidates": [
+      {
+       "name": "Jennifer Brunner",
+       "votes": 2755
+      },
+      {
+       "name": "Colleen O'Donnell",
+       "votes": 5607
+      }
+     ]
+    },
+    "portage": {
+     "total": 64682,
+     "candidates": [
+      {
+       "name": "Jennifer Brunner",
+       "votes": 32542
+      },
+      {
+       "name": "Colleen O'Donnell",
+       "votes": 32140
+      }
+     ]
+    },
+    "preble": {
+     "total": 15233,
+     "candidates": [
+      {
+       "name": "Jennifer Brunner",
+       "votes": 3993
+      },
+      {
+       "name": "Colleen O'Donnell",
+       "votes": 11240
+      }
+     ]
+    },
+    "putnam": {
+     "total": 15195,
+     "candidates": [
+      {
+       "name": "Jennifer Brunner",
+       "votes": 2786
+      },
+      {
+       "name": "Colleen O'Donnell",
+       "votes": 12409
+      }
+     ]
+    },
+    "richland": {
+     "total": 43506,
+     "candidates": [
+      {
+       "name": "Jennifer Brunner",
+       "votes": 15198
+      },
+      {
+       "name": "Colleen O'Donnell",
+       "votes": 28308
+      }
+     ]
+    },
+    "ross": {
+     "total": 24344,
+     "candidates": [
+      {
+       "name": "Jennifer Brunner",
+       "votes": 9203
+      },
+      {
+       "name": "Colleen O'Donnell",
+       "votes": 15141
+      }
+     ]
+    },
+    "sandusky": {
+     "total": 22184,
+     "candidates": [
+      {
+       "name": "Jennifer Brunner",
+       "votes": 9086
+      },
+      {
+       "name": "Colleen O'Donnell",
+       "votes": 13098
+      }
+     ]
+    },
+    "scioto": {
+     "total": 21176,
+     "candidates": [
+      {
+       "name": "Jennifer Brunner",
+       "votes": 7497
+      },
+      {
+       "name": "Colleen O'Donnell",
+       "votes": 13679
+      }
+     ]
+    },
+    "seneca": {
+     "total": 18596,
+     "candidates": [
+      {
+       "name": "Jennifer Brunner",
+       "votes": 6987
+      },
+      {
+       "name": "Colleen O'Donnell",
+       "votes": 11609
+      }
+     ]
+    },
+    "shelby": {
+     "total": 18700,
+     "candidates": [
+      {
+       "name": "Jennifer Brunner",
+       "votes": 3994
+      },
+      {
+       "name": "Colleen O'Donnell",
+       "votes": 14706
+      }
+     ]
+    },
+    "stark": {
+     "total": 143177,
+     "candidates": [
+      {
+       "name": "Jennifer Brunner",
+       "votes": 66243
+      },
+      {
+       "name": "Colleen O'Donnell",
+       "votes": 76934
+      }
+     ]
+    },
+    "summit": {
+     "total": 220556,
+     "candidates": [
+      {
+       "name": "Jennifer Brunner",
+       "votes": 133895
+      },
+      {
+       "name": "Colleen O'Donnell",
+       "votes": 86661
+      }
+     ]
+    },
+    "trumbull": {
+     "total": 72994,
+     "candidates": [
+      {
+       "name": "Jennifer Brunner",
+       "votes": 36987
+      },
+      {
+       "name": "Colleen O'Donnell",
+       "votes": 36007
+      }
+     ]
+    },
+    "tuscarawas": {
+     "total": 31615,
+     "candidates": [
+      {
+       "name": "Jennifer Brunner",
+       "votes": 11517
+      },
+      {
+       "name": "Colleen O'Donnell",
+       "votes": 20098
+      }
+     ]
+    },
+    "union": {
+     "total": 30637,
+     "candidates": [
+      {
+       "name": "Jennifer Brunner",
+       "votes": 12749
+      },
+      {
+       "name": "Colleen O'Donnell",
+       "votes": 17888
+      }
+     ]
+    },
+    "vanwert": {
+     "total": 10464,
+     "candidates": [
+      {
+       "name": "Jennifer Brunner",
+       "votes": 2698
+      },
+      {
+       "name": "Colleen O'Donnell",
+       "votes": 7766
+      }
+     ]
+    },
+    "vinton": {
+     "total": 3840,
+     "candidates": [
+      {
+       "name": "Jennifer Brunner",
+       "votes": 1120
+      },
+      {
+       "name": "Colleen O'Donnell",
+       "votes": 2720
+      }
+     ]
+    },
+    "warren": {
+     "total": 111463,
+     "candidates": [
+      {
+       "name": "Jennifer Brunner",
+       "votes": 44228
+      },
+      {
+       "name": "Colleen O'Donnell",
+       "votes": 67235
+      }
+     ]
+    },
+    "washington": {
+     "total": 22154,
+     "candidates": [
+      {
+       "name": "Jennifer Brunner",
+       "votes": 7973
+      },
+      {
+       "name": "Colleen O'Donnell",
+       "votes": 14181
+      }
+     ]
+    },
+    "wayne": {
+     "total": 40812,
+     "candidates": [
+      {
+       "name": "Jennifer Brunner",
+       "votes": 14339
+      },
+      {
+       "name": "Colleen O'Donnell",
+       "votes": 26473
+      }
+     ]
+    },
+    "williams": {
+     "total": 13237,
+     "candidates": [
+      {
+       "name": "Jennifer Brunner",
+       "votes": 4054
+      },
+      {
+       "name": "Colleen O'Donnell",
+       "votes": 9183
+      }
+     ]
+    },
+    "wood": {
+     "total": 53746,
+     "candidates": [
+      {
+       "name": "Jennifer Brunner",
+       "votes": 27159
+      },
+      {
+       "name": "Colleen O'Donnell",
+       "votes": 26587
+      }
+     ]
+    },
+    "wyandot": {
+     "total": 8860,
+     "candidates": [
+      {
+       "name": "Jennifer Brunner",
+       "votes": 2738
+      },
+      {
+       "name": "Colleen O'Donnell",
+       "votes": 6122
+      }
+     ]
+    }
+   }
+  },
+  "us-senate": {
+   "total": 4601571,
+   "candidates": [
+    {
+     "name": "Sherrod Brown",
+     "votes": 2301042
+    },
+    {
+     "name": "Jon Husted",
+     "votes": 2077748
+    },
+    {
+     "name": "William B. Redpath",
+     "votes": 128272
+    },
+    {
+     "name": "Greg Levy",
+     "votes": 94509
+    }
+   ],
+   "counties": {
+    "adams": {
+     "total": 8924,
+     "candidates": [
+      {
+       "name": "Sherrod Brown",
+       "votes": 2123
+      },
+      {
+       "name": "Jon Husted",
+       "votes": 6099
+      },
+      {
+       "name": "Greg Levy",
+       "votes": 289
+      },
+      {
+       "name": "William B. Redpath",
+       "votes": 413
+      }
+     ]
+    },
+    "allen": {
+     "total": 35218,
+     "candidates": [
+      {
+       "name": "Sherrod Brown",
+       "votes": 11066
+      },
+      {
+       "name": "Jon Husted",
+       "votes": 21992
+      },
+      {
+       "name": "Greg Levy",
+       "votes": 823
+      },
+      {
+       "name": "William B. Redpath",
+       "votes": 1337
+      }
+     ]
+    },
+    "ashland": {
+     "total": 19879,
+     "candidates": [
+      {
+       "name": "Sherrod Brown",
+       "votes": 5850
+      },
+      {
+       "name": "Jon Husted",
+       "votes": 12685
+      },
+      {
+       "name": "Greg Levy",
+       "votes": 519
+      },
+      {
+       "name": "William B. Redpath",
+       "votes": 825
+      }
+     ]
+    },
+    "ashtabula": {
+     "total": 33016,
+     "candidates": [
+      {
+       "name": "Sherrod Brown",
+       "votes": 13879
+      },
+      {
+       "name": "Jon Husted",
+       "votes": 16910
+      },
+      {
+       "name": "Greg Levy",
+       "votes": 965
+      },
+      {
+       "name": "William B. Redpath",
+       "votes": 1262
+      }
+     ]
+    },
+    "athens": {
+     "total": 20327,
+     "candidates": [
+      {
+       "name": "Sherrod Brown",
+       "votes": 12700
+      },
+      {
+       "name": "Jon Husted",
+       "votes": 6508
+      },
+      {
+       "name": "Greg Levy",
+       "votes": 575
+      },
+      {
+       "name": "William B. Redpath",
+       "votes": 544
+      }
+     ]
+    },
+    "auglaize": {
+     "total": 19243,
+     "candidates": [
+      {
+       "name": "Sherrod Brown",
+       "votes": 3950
+      },
+      {
+       "name": "Jon Husted",
+       "votes": 14223
+      },
+      {
+       "name": "Greg Levy",
+       "votes": 379
+      },
+      {
+       "name": "William B. Redpath",
+       "votes": 691
+      }
+     ]
+    },
+    "belmont": {
+     "total": 22004,
+     "candidates": [
+      {
+       "name": "Sherrod Brown",
+       "votes": 7479
+      },
+      {
+       "name": "Jon Husted",
+       "votes": 13263
+      },
+      {
+       "name": "Greg Levy",
+       "votes": 466
+      },
+      {
+       "name": "William B. Redpath",
+       "votes": 796
+      }
+     ]
+    },
+    "brown": {
+     "total": 14947,
+     "candidates": [
+      {
+       "name": "Sherrod Brown",
+       "votes": 3791
+      },
+      {
+       "name": "Jon Husted",
+       "votes": 10189
+      },
+      {
+       "name": "Greg Levy",
+       "votes": 330
+      },
+      {
+       "name": "William B. Redpath",
+       "votes": 637
+      }
+     ]
+    },
+    "butler": {
+     "total": 146581,
+     "candidates": [
+      {
+       "name": "Sherrod Brown",
+       "votes": 62334
+      },
+      {
+       "name": "Jon Husted",
+       "votes": 77463
+      },
+      {
+       "name": "Greg Levy",
+       "votes": 2760
+      },
+      {
+       "name": "William B. Redpath",
+       "votes": 4024
+      }
+     ]
+    },
+    "carroll": {
+     "total": 10268,
+     "candidates": [
+      {
+       "name": "Sherrod Brown",
+       "votes": 2789
+      },
+      {
+       "name": "Jon Husted",
+       "votes": 6720
+      },
+      {
+       "name": "Greg Levy",
+       "votes": 292
+      },
+      {
+       "name": "William B. Redpath",
+       "votes": 467
+      }
+     ]
+    },
+    "champaign": {
+     "total": 15502,
+     "candidates": [
+      {
+       "name": "Sherrod Brown",
+       "votes": 4670
+      },
+      {
+       "name": "Jon Husted",
+       "votes": 9623
+      },
+      {
+       "name": "Greg Levy",
+       "votes": 474
+      },
+      {
+       "name": "William B. Redpath",
+       "votes": 735
+      }
+     ]
+    },
+    "clark": {
+     "total": 48806,
+     "candidates": [
+      {
+       "name": "Sherrod Brown",
+       "votes": 19722
+      },
+      {
+       "name": "Jon Husted",
+       "votes": 26179
+      },
+      {
+       "name": "Greg Levy",
+       "votes": 1250
+      },
+      {
+       "name": "William B. Redpath",
+       "votes": 1655
+      }
+     ]
+    },
+    "clermont": {
+     "total": 89383,
+     "candidates": [
+      {
+       "name": "Sherrod Brown",
+       "votes": 33442
+      },
+      {
+       "name": "Jon Husted",
+       "votes": 51134
+      },
+      {
+       "name": "Greg Levy",
+       "votes": 1777
+      },
+      {
+       "name": "William B. Redpath",
+       "votes": 3030
+      }
+     ]
+    },
+    "clinton": {
+     "total": 15403,
+     "candidates": [
+      {
+       "name": "Sherrod Brown",
+       "votes": 4242
+      },
+      {
+       "name": "Jon Husted",
+       "votes": 10056
+      },
+      {
+       "name": "Greg Levy",
+       "votes": 439
+      },
+      {
+       "name": "William B. Redpath",
+       "votes": 666
+      }
+     ]
+    },
+    "columbiana": {
+     "total": 34859,
+     "candidates": [
+      {
+       "name": "Sherrod Brown",
+       "votes": 10928
+      },
+      {
+       "name": "Jon Husted",
+       "votes": 21637
+      },
+      {
+       "name": "Greg Levy",
+       "votes": 836
+      },
+      {
+       "name": "William B. Redpath",
+       "votes": 1458
+      }
+     ]
+    },
+    "coshocton": {
+     "total": 11729,
+     "candidates": [
+      {
+       "name": "Sherrod Brown",
+       "votes": 3439
+      },
+      {
+       "name": "Jon Husted",
+       "votes": 7466
+      },
+      {
+       "name": "Greg Levy",
+       "votes": 305
+      },
+      {
+       "name": "William B. Redpath",
+       "votes": 519
+      }
+     ]
+    },
+    "crawford": {
+     "total": 14685,
+     "candidates": [
+      {
+       "name": "Sherrod Brown",
+       "votes": 4217
+      },
+      {
+       "name": "Jon Husted",
+       "votes": 9505
+      },
+      {
+       "name": "Greg Levy",
+       "votes": 359
+      },
+      {
+       "name": "William B. Redpath",
+       "votes": 604
+      }
+     ]
+    },
+    "cuyahoga": {
+     "total": 475488,
+     "candidates": [
+      {
+       "name": "Sherrod Brown",
+       "votes": 333139
+      },
+      {
+       "name": "Jon Husted",
+       "votes": 125283
+      },
+      {
+       "name": "Greg Levy",
+       "votes": 9153
+      },
+      {
+       "name": "William B. Redpath",
+       "votes": 7913
+      }
+     ]
+    },
+    "darke": {
+     "total": 20041,
+     "candidates": [
+      {
+       "name": "Sherrod Brown",
+       "votes": 4169
+      },
+      {
+       "name": "Jon Husted",
+       "votes": 14682
+      },
+      {
+       "name": "Greg Levy",
+       "votes": 447
+      },
+      {
+       "name": "William B. Redpath",
+       "votes": 743
+      }
+     ]
+    },
+    "defiance": {
+     "total": 14521,
+     "candidates": [
+      {
+       "name": "Sherrod Brown",
+       "votes": 4974
+      },
+      {
+       "name": "Jon Husted",
+       "votes": 8592
+      },
+      {
+       "name": "Greg Levy",
+       "votes": 368
+      },
+      {
+       "name": "William B. Redpath",
+       "votes": 587
+      }
+     ]
+    },
+    "delaware": {
+     "total": 117285,
+     "candidates": [
+      {
+       "name": "Sherrod Brown",
+       "votes": 59368
+      },
+      {
+       "name": "Jon Husted",
+       "votes": 54128
+      },
+      {
+       "name": "Greg Levy",
+       "votes": 1368
+      },
+      {
+       "name": "William B. Redpath",
+       "votes": 2421
+      }
+     ]
+    },
+    "erie": {
+     "total": 31963,
+     "candidates": [
+      {
+       "name": "Sherrod Brown",
+       "votes": 15343
+      },
+      {
+       "name": "Jon Husted",
+       "votes": 15021
+      },
+      {
+       "name": "Greg Levy",
+       "votes": 679
+      },
+      {
+       "name": "William B. Redpath",
+       "votes": 920
+      }
+     ]
+    },
+    "fairfield": {
+     "total": 68207,
+     "candidates": [
+      {
+       "name": "Sherrod Brown",
+       "votes": 30259
+      },
+      {
+       "name": "Jon Husted",
+       "votes": 34785
+      },
+      {
+       "name": "Greg Levy",
+       "votes": 1218
+      },
+      {
+       "name": "William B. Redpath",
+       "votes": 1945
+      }
+     ]
+    },
+    "fayette": {
+     "total": 9076,
+     "candidates": [
+      {
+       "name": "Sherrod Brown",
+       "votes": 2485
+      },
+      {
+       "name": "Jon Husted",
+       "votes": 6083
+      },
+      {
+       "name": "Greg Levy",
+       "votes": 194
+      },
+      {
+       "name": "William B. Redpath",
+       "votes": 314
+      }
+     ]
+    },
+    "franklin": {
+     "total": 505352,
+     "candidates": [
+      {
+       "name": "Sherrod Brown",
+       "votes": 349983
+      },
+      {
+       "name": "Jon Husted",
+       "votes": 136999
+      },
+      {
+       "name": "Greg Levy",
+       "votes": 9345
+      },
+      {
+       "name": "William B. Redpath",
+       "votes": 9025
+      }
+     ]
+    },
+    "fulton": {
+     "total": 17359,
+     "candidates": [
+      {
+       "name": "Sherrod Brown",
+       "votes": 5743
+      },
+      {
+       "name": "Jon Husted",
+       "votes": 10632
+      },
+      {
+       "name": "Greg Levy",
+       "votes": 334
+      },
+      {
+       "name": "William B. Redpath",
+       "votes": 650
+      }
+     ]
+    },
+    "gallia": {
+     "total": 8662,
+     "candidates": [
+      {
+       "name": "Sherrod Brown",
+       "votes": 2328
+      },
+      {
+       "name": "Jon Husted",
+       "votes": 5812
+      },
+      {
+       "name": "Greg Levy",
+       "votes": 187
+      },
+      {
+       "name": "William B. Redpath",
+       "votes": 335
+      }
+     ]
+    },
+    "geauga": {
+     "total": 45439,
+     "candidates": [
+      {
+       "name": "Sherrod Brown",
+       "votes": 19173
+      },
+      {
+       "name": "Jon Husted",
+       "votes": 24531
+      },
+      {
+       "name": "Greg Levy",
+       "votes": 509
+      },
+      {
+       "name": "William B. Redpath",
+       "votes": 1226
+      }
+     ]
+    },
+    "greene": {
+     "total": 74259,
+     "candidates": [
+      {
+       "name": "Sherrod Brown",
+       "votes": 32693
+      },
+      {
+       "name": "Jon Husted",
+       "votes": 38276
+      },
+      {
+       "name": "Greg Levy",
+       "votes": 1201
+      },
+      {
+       "name": "William B. Redpath",
+       "votes": 2089
+      }
+     ]
+    },
+    "guernsey": {
+     "total": 12689,
+     "candidates": [
+      {
+       "name": "Sherrod Brown",
+       "votes": 3845
+      },
+      {
+       "name": "Jon Husted",
+       "votes": 7959
+      },
+      {
+       "name": "Greg Levy",
+       "votes": 323
+      },
+      {
+       "name": "William B. Redpath",
+       "votes": 562
+      }
+     ]
+    },
+    "hamilton": {
+     "total": 342187,
+     "candidates": [
+      {
+       "name": "Sherrod Brown",
+       "votes": 207080
+      },
+      {
+       "name": "Jon Husted",
+       "votes": 120368
+      },
+      {
+       "name": "Greg Levy",
+       "votes": 7456
+      },
+      {
+       "name": "William B. Redpath",
+       "votes": 7283
+      }
+     ]
+    },
+    "hancock": {
+     "total": 28902,
+     "candidates": [
+      {
+       "name": "Sherrod Brown",
+       "votes": 10193
+      },
+      {
+       "name": "Jon Husted",
+       "votes": 16996
+      },
+      {
+       "name": "Greg Levy",
+       "votes": 526
+      },
+      {
+       "name": "William B. Redpath",
+       "votes": 1187
+      }
+     ]
+    },
+    "hardin": {
+     "total": 9083,
+     "candidates": [
+      {
+       "name": "Sherrod Brown",
+       "votes": 2519
+      },
+      {
+       "name": "Jon Husted",
+       "votes": 5886
+      },
+      {
+       "name": "Greg Levy",
+       "votes": 254
+      },
+      {
+       "name": "William B. Redpath",
+       "votes": 424
+      }
+     ]
+    },
+    "harrison": {
+     "total": 5027,
+     "candidates": [
+      {
+       "name": "Sherrod Brown",
+       "votes": 1433
+      },
+      {
+       "name": "Jon Husted",
+       "votes": 3155
+      },
+      {
+       "name": "Greg Levy",
+       "votes": 164
+      },
+      {
+       "name": "William B. Redpath",
+       "votes": 275
+      }
+     ]
+    },
+    "henry": {
+     "total": 11157,
+     "candidates": [
+      {
+       "name": "Sherrod Brown",
+       "votes": 3420
+      },
+      {
+       "name": "Jon Husted",
+       "votes": 7062
+      },
+      {
+       "name": "Greg Levy",
+       "votes": 238
+      },
+      {
+       "name": "William B. Redpath",
+       "votes": 437
+      }
+     ]
+    },
+    "highland": {
+     "total": 14269,
+     "candidates": [
+      {
+       "name": "Sherrod Brown",
+       "votes": 3520
+      },
+      {
+       "name": "Jon Husted",
+       "votes": 9792
+      },
+      {
+       "name": "Greg Levy",
+       "votes": 355
+      },
+      {
+       "name": "William B. Redpath",
+       "votes": 602
+      }
+     ]
+    },
+    "hocking": {
+     "total": 9710,
+     "candidates": [
+      {
+       "name": "Sherrod Brown",
+       "votes": 3348
+      },
+      {
+       "name": "Jon Husted",
+       "votes": 5766
+      },
+      {
+       "name": "Greg Levy",
+       "votes": 240
+      },
+      {
+       "name": "William B. Redpath",
+       "votes": 356
+      }
+     ]
+    },
+    "holmes": {
+     "total": 8890,
+     "candidates": [
+      {
+       "name": "Sherrod Brown",
+       "votes": 1684
+      },
+      {
+       "name": "Jon Husted",
+       "votes": 6764
+      },
+      {
+       "name": "Greg Levy",
+       "votes": 150
+      },
+      {
+       "name": "William B. Redpath",
+       "votes": 292
+      }
+     ]
+    },
+    "huron": {
+     "total": 19650,
+     "candidates": [
+      {
+       "name": "Sherrod Brown",
+       "votes": 6826
+      },
+      {
+       "name": "Jon Husted",
+       "votes": 11372
+      },
+      {
+       "name": "Greg Levy",
+       "votes": 554
+      },
+      {
+       "name": "William B. Redpath",
+       "votes": 898
+      }
+     ]
+    },
+    "jackson": {
+     "total": 9757,
+     "candidates": [
+      {
+       "name": "Sherrod Brown",
+       "votes": 2846
+      },
+      {
+       "name": "Jon Husted",
+       "votes": 6353
+      },
+      {
+       "name": "Greg Levy",
+       "votes": 206
+      },
+      {
+       "name": "William B. Redpath",
+       "votes": 352
+      }
+     ]
+    },
+    "jefferson": {
+     "total": 22072,
+     "candidates": [
+      {
+       "name": "Sherrod Brown",
+       "votes": 7680
+      },
+      {
+       "name": "Jon Husted",
+       "votes": 13049
+      },
+      {
+       "name": "Greg Levy",
+       "votes": 568
+      },
+      {
+       "name": "William B. Redpath",
+       "votes": 775
+      }
+     ]
+    },
+    "knox": {
+     "total": 24172,
+     "candidates": [
+      {
+       "name": "Sherrod Brown",
+       "votes": 7632
+      },
+      {
+       "name": "Jon Husted",
+       "votes": 15218
+      },
+      {
+       "name": "Greg Levy",
+       "votes": 482
+      },
+      {
+       "name": "William B. Redpath",
+       "votes": 840
+      }
+     ]
+    },
+    "lake": {
+     "total": 105841,
+     "candidates": [
+      {
+       "name": "Sherrod Brown",
+       "votes": 51326
+      },
+      {
+       "name": "Jon Husted",
+       "votes": 49617
+      },
+      {
+       "name": "Greg Levy",
+       "votes": 1875
+      },
+      {
+       "name": "William B. Redpath",
+       "votes": 3023
+      }
+     ]
+    },
+    "lawrence": {
+     "total": 18034,
+     "candidates": [
+      {
+       "name": "Sherrod Brown",
+       "votes": 5961
+      },
+      {
+       "name": "Jon Husted",
+       "votes": 11023
+      },
+      {
+       "name": "Greg Levy",
+       "votes": 414
+      },
+      {
+       "name": "William B. Redpath",
+       "votes": 636
+      }
+     ]
+    },
+    "licking": {
+     "total": 74189,
+     "candidates": [
+      {
+       "name": "Sherrod Brown",
+       "votes": 30611
+      },
+      {
+       "name": "Jon Husted",
+       "votes": 39622
+      },
+      {
+       "name": "Greg Levy",
+       "votes": 1419
+      },
+      {
+       "name": "William B. Redpath",
+       "votes": 2537
+      }
+     ]
+    },
+    "logan": {
+     "total": 17791,
+     "candidates": [
+      {
+       "name": "Sherrod Brown",
+       "votes": 4647
+      },
+      {
+       "name": "Jon Husted",
+       "votes": 11929
+      },
+      {
+       "name": "Greg Levy",
+       "votes": 419
+      },
+      {
+       "name": "William B. Redpath",
+       "votes": 796
+      }
+     ]
+    },
+    "lorain": {
+     "total": 129806,
+     "candidates": [
+      {
+       "name": "Sherrod Brown",
+       "votes": 69179
+      },
+      {
+       "name": "Jon Husted",
+       "votes": 54610
+      },
+      {
+       "name": "Greg Levy",
+       "votes": 2438
+      },
+      {
+       "name": "William B. Redpath",
+       "votes": 3579
+      }
+     ]
+    },
+    "lucas": {
+     "total": 152674,
+     "candidates": [
+      {
+       "name": "Sherrod Brown",
+       "votes": 92287
+      },
+      {
+       "name": "Jon Husted",
+       "votes": 52982
+      },
+      {
+       "name": "Greg Levy",
+       "votes": 3339
+      },
+      {
+       "name": "William B. Redpath",
+       "votes": 4066
+      }
+     ]
+    },
+    "madison": {
+     "total": 16256,
+     "candidates": [
+      {
+       "name": "Sherrod Brown",
+       "votes": 5411
+      },
+      {
+       "name": "Jon Husted",
+       "votes": 9934
+      },
+      {
+       "name": "Greg Levy",
+       "votes": 337
+      },
+      {
+       "name": "William B. Redpath",
+       "votes": 574
+      }
+     ]
+    },
+    "mahoning": {
+     "total": 89146,
+     "candidates": [
+      {
+       "name": "Sherrod Brown",
+       "votes": 45595
+      },
+      {
+       "name": "Jon Husted",
+       "votes": 39192
+      },
+      {
+       "name": "Greg Levy",
+       "votes": 1961
+      },
+      {
+       "name": "William B. Redpath",
+       "votes": 2398
+      }
+     ]
+    },
+    "marion": {
+     "total": 19940,
+     "candidates": [
+      {
+       "name": "Sherrod Brown",
+       "votes": 7076
+      },
+      {
+       "name": "Jon Husted",
+       "votes": 11480
+      },
+      {
+       "name": "Greg Levy",
+       "votes": 518
+      },
+      {
+       "name": "William B. Redpath",
+       "votes": 866
+      }
+     ]
+    },
+    "medina": {
+     "total": 85424,
+     "candidates": [
+      {
+       "name": "Sherrod Brown",
+       "votes": 36900
+      },
+      {
+       "name": "Jon Husted",
+       "votes": 44892
+      },
+      {
+       "name": "Greg Levy",
+       "votes": 1293
+      },
+      {
+       "name": "William B. Redpath",
+       "votes": 2339
+      }
+     ]
+    },
+    "meigs": {
+     "total": 7505,
+     "candidates": [
+      {
+       "name": "Sherrod Brown",
+       "votes": 2159
+      },
+      {
+       "name": "Jon Husted",
+       "votes": 4877
+      },
+      {
+       "name": "Greg Levy",
+       "votes": 179
+      },
+      {
+       "name": "William B. Redpath",
+       "votes": 290
+      }
+     ]
+    },
+    "mercer": {
+     "total": 18021,
+     "candidates": [
+      {
+       "name": "Sherrod Brown",
+       "votes": 3489
+      },
+      {
+       "name": "Jon Husted",
+       "votes": 13755
+      },
+      {
+       "name": "Greg Levy",
+       "votes": 286
+      },
+      {
+       "name": "William B. Redpath",
+       "votes": 491
+      }
+     ]
+    },
+    "miami": {
+     "total": 45636,
+     "candidates": [
+      {
+       "name": "Sherrod Brown",
+       "votes": 14473
+      },
+      {
+       "name": "Jon Husted",
+       "votes": 28590
+      },
+      {
+       "name": "Greg Levy",
+       "votes": 869
+      },
+      {
+       "name": "William B. Redpath",
+       "votes": 1704
+      }
+     ]
+    },
+    "monroe": {
+     "total": 4780,
+     "candidates": [
+      {
+       "name": "Sherrod Brown",
+       "votes": 1311
+      },
+      {
+       "name": "Jon Husted",
+       "votes": 3141
+      },
+      {
+       "name": "Greg Levy",
+       "votes": 135
+      },
+      {
+       "name": "William B. Redpath",
+       "votes": 193
+      }
+     ]
+    },
+    "montgomery": {
+     "total": 202829,
+     "candidates": [
+      {
+       "name": "Sherrod Brown",
+       "votes": 111957
+      },
+      {
+       "name": "Jon Husted",
+       "votes": 81630
+      },
+      {
+       "name": "Greg Levy",
+       "votes": 3897
+      },
+      {
+       "name": "William B. Redpath",
+       "votes": 5345
+      }
+     ]
+    },
+    "morgan": {
+     "total": 4831,
+     "candidates": [
+      {
+       "name": "Sherrod Brown",
+       "votes": 1408
+      },
+      {
+       "name": "Jon Husted",
+       "votes": 3125
+      },
+      {
+       "name": "Greg Levy",
+       "votes": 120
+      },
+      {
+       "name": "William B. Redpath",
+       "votes": 178
+      }
+     ]
+    },
+    "morrow": {
+     "total": 14108,
+     "candidates": [
+      {
+       "name": "Sherrod Brown",
+       "votes": 3772
+      },
+      {
+       "name": "Jon Husted",
+       "votes": 9362
+      },
+      {
+       "name": "Greg Levy",
+       "votes": 342
+      },
+      {
+       "name": "William B. Redpath",
+       "votes": 632
+      }
+     ]
+    },
+    "muskingum": {
+     "total": 28820,
+     "candidates": [
+      {
+       "name": "Sherrod Brown",
+       "votes": 9642
+      },
+      {
+       "name": "Jon Husted",
+       "votes": 17403
+      },
+      {
+       "name": "Greg Levy",
+       "votes": 656
+      },
+      {
+       "name": "William B. Redpath",
+       "votes": 1119
+      }
+     ]
+    },
+    "noble": {
+     "total": 4483,
+     "candidates": [
+      {
+       "name": "Sherrod Brown",
+       "votes": 1049
+      },
+      {
+       "name": "Jon Husted",
+       "votes": 3114
+      },
+      {
+       "name": "Greg Levy",
+       "votes": 122
+      },
+      {
+       "name": "William B. Redpath",
+       "votes": 198
+      }
+     ]
+    },
+    "ottawa": {
+     "total": 19231,
+     "candidates": [
+      {
+       "name": "Sherrod Brown",
+       "votes": 7932
+      },
+      {
+       "name": "Jon Husted",
+       "votes": 10362
+      },
+      {
+       "name": "Greg Levy",
+       "votes": 342
+      },
+      {
+       "name": "William B. Redpath",
+       "votes": 595
+      }
+     ]
+    },
+    "paulding": {
+     "total": 8931,
+     "candidates": [
+      {
+       "name": "Sherrod Brown",
+       "votes": 2459
+      },
+      {
+       "name": "Jon Husted",
+       "votes": 5879
+      },
+      {
+       "name": "Greg Levy",
+       "votes": 194
+      },
+      {
+       "name": "William B. Redpath",
+       "votes": 399
+      }
+     ]
+    },
+    "perry": {
+     "total": 12474,
+     "candidates": [
+      {
+       "name": "Sherrod Brown",
+       "votes": 3654
+      },
+      {
+       "name": "Jon Husted",
+       "votes": 8020
+      },
+      {
+       "name": "Greg Levy",
+       "votes": 300
+      },
+      {
+       "name": "William B. Redpath",
+       "votes": 500
+      }
+     ]
+    },
+    "pickaway": {
+     "total": 22145,
+     "candidates": [
+      {
+       "name": "Sherrod Brown",
+       "votes": 7031
+      },
+      {
+       "name": "Jon Husted",
+       "votes": 13926
+      },
+      {
+       "name": "Greg Levy",
+       "votes": 433
+      },
+      {
+       "name": "William B. Redpath",
+       "votes": 755
+      }
+     ]
+    },
+    "pike": {
+     "total": 8525,
+     "candidates": [
+      {
+       "name": "Sherrod Brown",
+       "votes": 2683
+      },
+      {
+       "name": "Jon Husted",
+       "votes": 5348
+      },
+      {
+       "name": "Greg Levy",
+       "votes": 183
+      },
+      {
+       "name": "William B. Redpath",
+       "votes": 311
+      }
+     ]
+    },
+    "portage": {
+     "total": 65900,
+     "candidates": [
+      {
+       "name": "Sherrod Brown",
+       "votes": 31974
+      },
+      {
+       "name": "Jon Husted",
+       "votes": 30196
+      },
+      {
+       "name": "Greg Levy",
+       "votes": 1650
+      },
+      {
+       "name": "William B. Redpath",
+       "votes": 2080
+      }
+     ]
+    },
+    "preble": {
+     "total": 15352,
+     "candidates": [
+      {
+       "name": "Sherrod Brown",
+       "votes": 3893
+      },
+      {
+       "name": "Jon Husted",
+       "votes": 10453
+      },
+      {
+       "name": "Greg Levy",
+       "votes": 312
+      },
+      {
+       "name": "William B. Redpath",
+       "votes": 694
+      }
+     ]
+    },
+    "putnam": {
+     "total": 15397,
+     "candidates": [
+      {
+       "name": "Sherrod Brown",
+       "votes": 2767
+      },
+      {
+       "name": "Jon Husted",
+       "votes": 11891
+      },
+      {
+       "name": "Greg Levy",
+       "votes": 301
+      },
+      {
+       "name": "William B. Redpath",
+       "votes": 438
+      }
+     ]
+    },
+    "richland": {
+     "total": 44064,
+     "candidates": [
+      {
+       "name": "Sherrod Brown",
+       "votes": 15058
+      },
+      {
+       "name": "Jon Husted",
+       "votes": 26596
+      },
+      {
+       "name": "Greg Levy",
+       "votes": 842
+      },
+      {
+       "name": "William B. Redpath",
+       "votes": 1568
+      }
+     ]
+    },
+    "ross": {
+     "total": 24660,
+     "candidates": [
+      {
+       "name": "Sherrod Brown",
+       "votes": 9097
+      },
+      {
+       "name": "Jon Husted",
+       "votes": 14390
+      },
+      {
+       "name": "Greg Levy",
+       "votes": 417
+      },
+      {
+       "name": "William B. Redpath",
+       "votes": 756
+      }
+     ]
+    },
+    "sandusky": {
+     "total": 22577,
+     "candidates": [
+      {
+       "name": "Sherrod Brown",
+       "votes": 9034
+      },
+      {
+       "name": "Jon Husted",
+       "votes": 11982
+      },
+      {
+       "name": "Greg Levy",
+       "votes": 597
+      },
+      {
+       "name": "William B. Redpath",
+       "votes": 964
+      }
+     ]
+    },
+    "scioto": {
+     "total": 21498,
+     "candidates": [
+      {
+       "name": "Sherrod Brown",
+       "votes": 7464
+      },
+      {
+       "name": "Jon Husted",
+       "votes": 12944
+      },
+      {
+       "name": "Greg Levy",
+       "votes": 487
+      },
+      {
+       "name": "William B. Redpath",
+       "votes": 603
+      }
+     ]
+    },
+    "seneca": {
+     "total": 18789,
+     "candidates": [
+      {
+       "name": "Sherrod Brown",
+       "votes": 6912
+      },
+      {
+       "name": "Jon Husted",
+       "votes": 10500
+      },
+      {
+       "name": "Greg Levy",
+       "votes": 522
+      },
+      {
+       "name": "William B. Redpath",
+       "votes": 855
+      }
+     ]
+    },
+    "shelby": {
+     "total": 18981,
+     "candidates": [
+      {
+       "name": "Sherrod Brown",
+       "votes": 3928
+      },
+      {
+       "name": "Jon Husted",
+       "votes": 13993
+      },
+      {
+       "name": "Greg Levy",
+       "votes": 411
+      },
+      {
+       "name": "William B. Redpath",
+       "votes": 649
+      }
+     ]
+    },
+    "stark": {
+     "total": 144622,
+     "candidates": [
+      {
+       "name": "Sherrod Brown",
+       "votes": 64324
+      },
+      {
+       "name": "Jon Husted",
+       "votes": 72025
+      },
+      {
+       "name": "Greg Levy",
+       "votes": 3464
+      },
+      {
+       "name": "William B. Redpath",
+       "votes": 4809
+      }
+     ]
+    },
+    "summit": {
+     "total": 225274,
+     "candidates": [
+      {
+       "name": "Sherrod Brown",
+       "votes": 132890
+      },
+      {
+       "name": "Jon Husted",
+       "votes": 82026
+      },
+      {
+       "name": "Greg Levy",
+       "votes": 4761
+      },
+      {
+       "name": "William B. Redpath",
+       "votes": 5597
+      }
+     ]
+    },
+    "trumbull": {
+     "total": 74350,
+     "candidates": [
+      {
+       "name": "Sherrod Brown",
+       "votes": 35990
+      },
+      {
+       "name": "Jon Husted",
+       "votes": 34046
+      },
+      {
+       "name": "Greg Levy",
+       "votes": 1905
+      },
+      {
+       "name": "William B. Redpath",
+       "votes": 2409
+      }
+     ]
+    },
+    "tuscarawas": {
+     "total": 32117,
+     "candidates": [
+      {
+       "name": "Sherrod Brown",
+       "votes": 11221
+      },
+      {
+       "name": "Jon Husted",
+       "votes": 18735
+      },
+      {
+       "name": "Greg Levy",
+       "votes": 779
+      },
+      {
+       "name": "William B. Redpath",
+       "votes": 1382
+      }
+     ]
+    },
+    "union": {
+     "total": 31167,
+     "candidates": [
+      {
+       "name": "Sherrod Brown",
+       "votes": 12758
+      },
+      {
+       "name": "Jon Husted",
+       "votes": 17020
+      },
+      {
+       "name": "Greg Levy",
+       "votes": 496
+      },
+      {
+       "name": "William B. Redpath",
+       "votes": 893
+      }
+     ]
+    },
+    "vanwert": {
+     "total": 10511,
+     "candidates": [
+      {
+       "name": "Sherrod Brown",
+       "votes": 2547
+      },
+      {
+       "name": "Jon Husted",
+       "votes": 7213
+      },
+      {
+       "name": "Greg Levy",
+       "votes": 278
+      },
+      {
+       "name": "William B. Redpath",
+       "votes": 473
+      }
+     ]
+    },
+    "vinton": {
+     "total": 3903,
+     "candidates": [
+      {
+       "name": "Sherrod Brown",
+       "votes": 1096
+      },
+      {
+       "name": "Jon Husted",
+       "votes": 2526
+      },
+      {
+       "name": "Greg Levy",
+       "votes": 82
+      },
+      {
+       "name": "William B. Redpath",
+       "votes": 199
+      }
+     ]
+    },
+    "warren": {
+     "total": 113087,
+     "candidates": [
+      {
+       "name": "Sherrod Brown",
+       "votes": 43962
+      },
+      {
+       "name": "Jon Husted",
+       "votes": 64230
+      },
+      {
+       "name": "Greg Levy",
+       "votes": 1764
+      },
+      {
+       "name": "William B. Redpath",
+       "votes": 3131
+      }
+     ]
+    },
+    "washington": {
+     "total": 22638,
+     "candidates": [
+      {
+       "name": "Sherrod Brown",
+       "votes": 7788
+      },
+      {
+       "name": "Jon Husted",
+       "votes": 13423
+      },
+      {
+       "name": "Greg Levy",
+       "votes": 560
+      },
+      {
+       "name": "William B. Redpath",
+       "votes": 867
+      }
+     ]
+    },
+    "wayne": {
+     "total": 41300,
+     "candidates": [
+      {
+       "name": "Sherrod Brown",
+       "votes": 14278
+      },
+      {
+       "name": "Jon Husted",
+       "votes": 24699
+      },
+      {
+       "name": "Greg Levy",
+       "votes": 854
+      },
+      {
+       "name": "William B. Redpath",
+       "votes": 1469
+      }
+     ]
+    },
+    "williams": {
+     "total": 13527,
+     "candidates": [
+      {
+       "name": "Sherrod Brown",
+       "votes": 3968
+      },
+      {
+       "name": "Jon Husted",
+       "votes": 8619
+      },
+      {
+       "name": "Greg Levy",
+       "votes": 382
+      },
+      {
+       "name": "William B. Redpath",
+       "votes": 558
+      }
+     ]
+    },
+    "wood": {
+     "total": 54472,
+     "candidates": [
+      {
+       "name": "Sherrod Brown",
+       "votes": 27102
+      },
+      {
+       "name": "Jon Husted",
+       "votes": 24602
+      },
+      {
+       "name": "Greg Levy",
+       "votes": 1071
+      },
+      {
+       "name": "William B. Redpath",
+       "votes": 1697
+      }
+     ]
+    },
+    "wyandot": {
+     "total": 9974,
+     "candidates": [
+      {
+       "name": "Sherrod Brown",
+       "votes": 2675
+      },
+      {
+       "name": "Jon Husted",
+       "votes": 5610
+      },
+      {
+       "name": "Greg Levy",
+       "votes": 1146
+      },
+      {
+       "name": "William B. Redpath",
+       "votes": 543
+      }
+     ]
+    }
+   }
+  }
+ },
+ "issues": {
+  "state-issue-3": {
+   "total": 4491109,
+   "yes": 2934245,
+   "no": 1556864,
+   "yesLabel": "Yes",
+   "noLabel": "No",
+   "counties": {
+    "adams": {
+     "total": 7889,
+     "yes": 6363,
+     "no": 1526
+    },
+    "allen": {
+     "total": 35055,
+     "yes": 27408,
+     "no": 7647
+    },
+    "ashland": {
+     "total": 19818,
+     "yes": 15496,
+     "no": 4322
+    },
+    "ashtabula": {
+     "total": 32582,
+     "yes": 23146,
+     "no": 9436
+    },
+    "athens": {
+     "total": 19975,
+     "yes": 10153,
+     "no": 9822
+    },
+    "auglaize": {
+     "total": 19159,
+     "yes": 16331,
+     "no": 2828
+    },
+    "belmont": {
+     "total": 21843,
+     "yes": 17265,
+     "no": 4578
+    },
+    "brown": {
+     "total": 14786,
+     "yes": 12128,
+     "no": 2658
+    },
+    "butler": {
+     "total": 136827,
+     "yes": 97403,
+     "no": 39424
+    },
+    "carroll": {
+     "total": 10186,
+     "yes": 8062,
+     "no": 2124
+    },
+    "champaign": {
+     "total": 15483,
+     "yes": 12143,
+     "no": 3340
+    },
+    "clark": {
+     "total": 47921,
+     "yes": 34011,
+     "no": 13910
+    },
+    "clermont": {
+     "total": 88559,
+     "yes": 63553,
+     "no": 25006
+    },
+    "clinton": {
+     "total": 15281,
+     "yes": 12144,
+     "no": 3137
+    },
+    "columbiana": {
+     "total": 34264,
+     "yes": 26936,
+     "no": 7328
+    },
+    "coshocton": {
+     "total": 11670,
+     "yes": 8960,
+     "no": 2710
+    },
+    "crawford": {
+     "total": 14609,
+     "yes": 11675,
+     "no": 2934
+    },
+    "cuyahoga": {
+     "total": 442075,
+     "yes": 212904,
+     "no": 229171
+    },
+    "darke": {
+     "total": 19946,
+     "yes": 16645,
+     "no": 3301
+    },
+    "defiance": {
+     "total": 14520,
+     "yes": 11141,
+     "no": 3379
+    },
+    "delaware": {
+     "total": 115982,
+     "yes": 76210,
+     "no": 39772
+    },
+    "erie": {
+     "total": 31552,
+     "yes": 21738,
+     "no": 9814
+    },
+    "fairfield": {
+     "total": 63411,
+     "yes": 44537,
+     "no": 18874
+    },
+    "fayette": {
+     "total": 8939,
+     "yes": 7237,
+     "no": 1702
+    },
+    "franklin": {
+     "total": 497730,
+     "yes": 264435,
+     "no": 233295
+    },
+    "fulton": {
+     "total": 17329,
+     "yes": 13628,
+     "no": 3701
+    },
+    "gallia": {
+     "total": 8608,
+     "yes": 7051,
+     "no": 1557
+    },
+    "geauga": {
+     "total": 45041,
+     "yes": 30634,
+     "no": 14407
+    },
+    "greene": {
+     "total": 69974,
+     "yes": 46230,
+     "no": 23744
+    },
+    "guernsey": {
+     "total": 12619,
+     "yes": 10008,
+     "no": 2611
+    },
+    "hamilton": {
+     "total": 335494,
+     "yes": 196610,
+     "no": 138884
+    },
+    "hancock": {
+     "total": 28925,
+     "yes": 21798,
+     "no": 7127
+    },
+    "hardin": {
+     "total": 8770,
+     "yes": 6897,
+     "no": 1873
+    },
+    "harrison": {
+     "total": 5003,
+     "yes": 4032,
+     "no": 971
+    },
+    "henry": {
+     "total": 11091,
+     "yes": 8662,
+     "no": 2429
+    },
+    "highland": {
+     "total": 13718,
+     "yes": 11191,
+     "no": 2527
+    },
+    "hocking": {
+     "total": 9305,
+     "yes": 6928,
+     "no": 2377
+    },
+    "holmes": {
+     "total": 8724,
+     "yes": 7404,
+     "no": 1320
+    },
+    "huron": {
+     "total": 19599,
+     "yes": 15021,
+     "no": 4578
+    },
+    "jackson": {
+     "total": 9365,
+     "yes": 7508,
+     "no": 1857
+    },
+    "jefferson": {
+     "total": 21897,
+     "yes": 17419,
+     "no": 4478
+    },
+    "knox": {
+     "total": 24062,
+     "yes": 18380,
+     "no": 5682
+    },
+    "lake": {
+     "total": 104923,
+     "yes": 70951,
+     "no": 33972
+    },
+    "lawrence": {
+     "total": 17997,
+     "yes": 14034,
+     "no": 3963
+    },
+    "licking": {
+     "total": 71426,
+     "yes": 49903,
+     "no": 21523
+    },
+    "logan": {
+     "total": 17810,
+     "yes": 14343,
+     "no": 3467
+    },
+    "lorain": {
+     "total": 128507,
+     "yes": 80863,
+     "no": 47644
+    },
+    "lucas": {
+     "total": 145412,
+     "yes": 92474,
+     "no": 52938
+    },
+    "madison": {
+     "total": 16041,
+     "yes": 12200,
+     "no": 3841
+    },
+    "mahoning": {
+     "total": 87851,
+     "yes": 59562,
+     "no": 28289
+    },
+    "marion": {
+     "total": 19877,
+     "yes": 15138,
+     "no": 4739
+    },
+    "medina": {
+     "total": 84987,
+     "yes": 60207,
+     "no": 24780
+    },
+    "meigs": {
+     "total": 7143,
+     "yes": 5560,
+     "no": 1583
+    },
+    "mercer": {
+     "total": 18037,
+     "yes": 15357,
+     "no": 2680
+    },
+    "miami": {
+     "total": 45424,
+     "yes": 35393,
+     "no": 10031
+    },
+    "monroe": {
+     "total": 4831,
+     "yes": 3961,
+     "no": 870
+    },
+    "montgomery": {
+     "total": 200205,
+     "yes": 119162,
+     "no": 81043
+    },
+    "morgan": {
+     "total": 4775,
+     "yes": 3747,
+     "no": 1028
+    },
+    "morrow": {
+     "total": 14172,
+     "yes": 11325,
+     "no": 2847
+    },
+    "muskingum": {
+     "total": 28531,
+     "yes": 22169,
+     "no": 6362
+    },
+    "noble": {
+     "total": 4427,
+     "yes": 3632,
+     "no": 795
+    },
+    "ottawa": {
+     "total": 19131,
+     "yes": 13826,
+     "no": 5305
+    },
+    "paulding": {
+     "total": 8917,
+     "yes": 7192,
+     "no": 1725
+    },
+    "perry": {
+     "total": 12503,
+     "yes": 9847,
+     "no": 2656
+    },
+    "pickaway": {
+     "total": 22032,
+     "yes": 17194,
+     "no": 4838
+    },
+    "pike": {
+     "total": 8293,
+     "yes": 6468,
+     "no": 1825
+    },
+    "portage": {
+     "total": 64825,
+     "yes": 41776,
+     "no": 23049
+    },
+    "preble": {
+     "total": 15199,
+     "yes": 12309,
+     "no": 2890
+    },
+    "putnam": {
+     "total": 15299,
+     "yes": 13299,
+     "no": 2000
+    },
+    "richland": {
+     "total": 44086,
+     "yes": 34270,
+     "no": 9816
+    },
+    "ross": {
+     "total": 24477,
+     "yes": 18370,
+     "no": 6107
+    },
+    "sandusky": {
+     "total": 22555,
+     "yes": 16697,
+     "no": 5858
+    },
+    "scioto": {
+     "total": 20651,
+     "yes": 15429,
+     "no": 5222
+    },
+    "seneca": {
+     "total": 18756,
+     "yes": 13898,
+     "no": 4858
+    },
+    "shelby": {
+     "total": 18650,
+     "yes": 15868,
+     "no": 2782
+    },
+    "stark": {
+     "total": 144665,
+     "yes": 101308,
+     "no": 43357
+    },
+    "summit": {
+     "total": 220800,
+     "yes": 133673,
+     "no": 87127
+    },
+    "trumbull": {
+     "total": 74103,
+     "yes": 52030,
+     "no": 22073
+    },
+    "tuscarawas": {
+     "total": 31725,
+     "yes": 23541,
+     "no": 8184
+    },
+    "union": {
+     "total": 30939,
+     "yes": 22221,
+     "no": 8718
+    },
+    "vanwert": {
+     "total": 10529,
+     "yes": 8729,
+     "no": 1800
+    },
+    "vinton": {
+     "total": 3853,
+     "yes": 3070,
+     "no": 783
+    },
+    "warren": {
+     "total": 111166,
+     "yes": 79433,
+     "no": 31733
+    },
+    "washington": {
+     "total": 22624,
+     "yes": 16802,
+     "no": 5822
+    },
+    "wayne": {
+     "total": 39020,
+     "yes": 28799,
+     "no": 10221
+    },
+    "williams": {
+     "total": 13473,
+     "yes": 10540,
+     "no": 2933
+    },
+    "wood": {
+     "total": 51685,
+     "yes": 33424,
+     "no": 18261
+    },
+    "wyandot": {
+     "total": 9191,
+     "yes": 6826,
+     "no": 2365
+    }
+   }
+  }
+ },
+ "registered": 8018054,
+ "ballotsCast": 4658250,
+ "turnout": 58.1,
+ "precincts": {
+  "reporting": 8834,
+  "total": 8834
+ }
+}
