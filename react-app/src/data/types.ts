@@ -126,6 +126,8 @@ export interface ResultsFile {
   turnout?: number;
   contests: Record<string, ContestResult>;
   issues: Record<string, IssueResult>;
+  /** In the statewide file only: each county's turnout, by county slug. */
+  counties?: Record<string, { registered?: number; ballotsCast?: number; turnout?: number; precincts?: { reporting: number; total: number } }>;
   /** Report titles the tool could not map to a ballot id (so they can be added to the map). */
   unmatched?: string[];
 }

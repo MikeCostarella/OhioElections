@@ -9,7 +9,8 @@ or local issues (those come from each Board's own report, see trumbull.py / maho
     python sos.py --official      # mark the files official (after the SoS certifies)
 
 Writes:
-  results/state/<election>.json    statewide totals per contest, with each county's numbers under "counties"
+  results/state/<election>.json    statewide totals per contest, with each county's numbers under "counties";
+                                   top-level "counties" has each county's registered, ballots, turnout, precincts
   results/<county>/<election>.json for every county that has no Board module in run.py (those keep the
                                    Board's richer file; their SoS numbers still go into the state file)
 
@@ -144,7 +145,7 @@ def build(bundle: dict, official: bool = False) -> tuple[dict, dict[str, dict]]:
     with open(os.path.join(lib.DATA, "county", "index.json"), encoding="utf-8") as f:
         index = json.load(f)[ELECTION]
 
-    state: dict = {"scope": "state", "election": ELECTION, "status": status, "asOf": as_of, "source": SOURCE, "contests": {}, "issues": {}}
+    state: dict = {"scope": "state", "election": ELECTION, "status": status, "asOf": as_of, "source": SOURCE, "contests": {}, "issues": {}, "counties": {}}
     tot = stats.get("Totals", {})
     state["registered"] = lib.to_int(tot["Registered Voters"])
     state["ballotsCast"] = lib.to_int(tot["Ballots Counted"])
@@ -168,6 +169,8 @@ def build(bundle: dict, official: bool = False) -> tuple[dict, dict[str, dict]]:
             res["ballotsCast"] = lib.to_int(row["Ballots Counted"])
             res["turnout"] = float(row["Unofficial Voter Turnout"])
             res["precincts"] = {"reporting": lib.to_int(row["Election Day Precincts Reporting"]), "total": lib.to_int(row["Total Precincts"])}
+            # per-county turnout in the state file, for the app's statewide reports
+            state["counties"][slug] = {"registered": res["registered"], "ballotsCast": res["ballotsCast"], "turnout": res["turnout"], "precincts": res["precincts"]}
         county_files[slug] = res
         # statewide roll-up: the state ballot's ids only
         for cid, c in res["contests"].items():

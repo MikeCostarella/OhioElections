@@ -11156,6 +11156,800 @@
    }
   }
  },
+ "counties": {
+  "adams": {
+   "registered": 17079,
+   "ballotsCast": 9169,
+   "turnout": 53.69,
+   "precincts": {
+    "reporting": 21,
+    "total": 21
+   }
+  },
+  "allen": {
+   "registered": 64090,
+   "ballotsCast": 35570,
+   "turnout": 55.5,
+   "precincts": {
+    "reporting": 88,
+    "total": 88
+   }
+  },
+  "ashland": {
+   "registered": 33573,
+   "ballotsCast": 20233,
+   "turnout": 60.27,
+   "precincts": {
+    "reporting": 39,
+    "total": 39
+   }
+  },
+  "ashtabula": {
+   "registered": 59015,
+   "ballotsCast": 33439,
+   "turnout": 56.66,
+   "precincts": {
+    "reporting": 104,
+    "total": 104
+   }
+  },
+  "athens": {
+   "registered": 36003,
+   "ballotsCast": 20572,
+   "turnout": 57.14,
+   "precincts": {
+    "reporting": 50,
+    "total": 50
+   }
+  },
+  "auglaize": {
+   "registered": 31951,
+   "ballotsCast": 19407,
+   "turnout": 60.74,
+   "precincts": {
+    "reporting": 42,
+    "total": 42
+   }
+  },
+  "belmont": {
+   "registered": 42349,
+   "ballotsCast": 22332,
+   "turnout": 52.73,
+   "precincts": {
+    "reporting": 69,
+    "total": 69
+   }
+  },
+  "brown": {
+   "registered": 28907,
+   "ballotsCast": 15129,
+   "turnout": 52.34,
+   "precincts": {
+    "reporting": 33,
+    "total": 33
+   }
+  },
+  "butler": {
+   "registered": 249107,
+   "ballotsCast": 148257,
+   "turnout": 59.52,
+   "precincts": {
+    "reporting": 292,
+    "total": 292
+   }
+  },
+  "carroll": {
+   "registered": 17721,
+   "ballotsCast": 10449,
+   "turnout": 58.96,
+   "precincts": {
+    "reporting": 23,
+    "total": 23
+   }
+  },
+  "champaign": {
+   "registered": 26379,
+   "ballotsCast": 15807,
+   "turnout": 59.92,
+   "precincts": {
+    "reporting": 31,
+    "total": 31
+   }
+  },
+  "clark": {
+   "registered": 84737,
+   "ballotsCast": 49364,
+   "turnout": 58.26,
+   "precincts": {
+    "reporting": 78,
+    "total": 78
+   }
+  },
+  "clermont": {
+   "registered": 150008,
+   "ballotsCast": 90233,
+   "turnout": 60.15,
+   "precincts": {
+    "reporting": 168,
+    "total": 168
+   }
+  },
+  "clinton": {
+   "registered": 27368,
+   "ballotsCast": 15623,
+   "turnout": 57.08,
+   "precincts": {
+    "reporting": 36,
+    "total": 36
+   }
+  },
+  "columbiana": {
+   "registered": 63835,
+   "ballotsCast": 35214,
+   "turnout": 55.16,
+   "precincts": {
+    "reporting": 73,
+    "total": 73
+   }
+  },
+  "coshocton": {
+   "registered": 21640,
+   "ballotsCast": 11908,
+   "turnout": 55.03,
+   "precincts": {
+    "reporting": 23,
+    "total": 23
+   }
+  },
+  "crawford": {
+   "registered": 27358,
+   "ballotsCast": 14865,
+   "turnout": 54.34,
+   "precincts": {
+    "reporting": 35,
+    "total": 35
+   }
+  },
+  "cuyahoga": {
+   "registered": 877987,
+   "ballotsCast": 482011,
+   "turnout": 54.9,
+   "precincts": {
+    "reporting": 897,
+    "total": 897
+   }
+  },
+  "darke": {
+   "registered": 33980,
+   "ballotsCast": 20253,
+   "turnout": 59.6,
+   "precincts": {
+    "reporting": 43,
+    "total": 43
+   }
+  },
+  "defiance": {
+   "registered": 25924,
+   "ballotsCast": 14795,
+   "turnout": 57.07,
+   "precincts": {
+    "reporting": 33,
+    "total": 33
+   }
+  },
+  "delaware": {
+   "registered": 170143,
+   "ballotsCast": 118305,
+   "turnout": 69.53,
+   "precincts": {
+    "reporting": 180,
+    "total": 180
+   }
+  },
+  "erie": {
+   "registered": 52488,
+   "ballotsCast": 32357,
+   "turnout": 61.65,
+   "precincts": {
+    "reporting": 62,
+    "total": 62
+   }
+  },
+  "fairfield": {
+   "registered": 112179,
+   "ballotsCast": 68988,
+   "turnout": 61.5,
+   "precincts": {
+    "reporting": 111,
+    "total": 111
+   }
+  },
+  "fayette": {
+   "registered": 16900,
+   "ballotsCast": 9213,
+   "turnout": 54.51,
+   "precincts": {
+    "reporting": 25,
+    "total": 25
+   }
+  },
+  "franklin": {
+   "registered": 906080,
+   "ballotsCast": 511532,
+   "turnout": 56.46,
+   "precincts": {
+    "reporting": 889,
+    "total": 889
+   }
+  },
+  "fulton": {
+   "registered": 28928,
+   "ballotsCast": 17637,
+   "turnout": 60.97,
+   "precincts": {
+    "reporting": 29,
+    "total": 29
+   }
+  },
+  "gallia": {
+   "registered": 18121,
+   "ballotsCast": 8795,
+   "turnout": 48.53,
+   "precincts": {
+    "reporting": 26,
+    "total": 26
+   }
+  },
+  "geauga": {
+   "registered": 67221,
+   "ballotsCast": 45854,
+   "turnout": 68.21,
+   "precincts": {
+    "reporting": 79,
+    "total": 79
+   }
+  },
+  "greene": {
+   "registered": 119802,
+   "ballotsCast": 74823,
+   "turnout": 62.46,
+   "precincts": {
+    "reporting": 151,
+    "total": 151
+   }
+  },
+  "guernsey": {
+   "registered": 23781,
+   "ballotsCast": 12904,
+   "turnout": 54.26,
+   "precincts": {
+    "reporting": 35,
+    "total": 35
+   }
+  },
+  "hamilton": {
+   "registered": 616754,
+   "ballotsCast": 345799,
+   "turnout": 56.07,
+   "precincts": {
+    "reporting": 563,
+    "total": 563
+   }
+  },
+  "hancock": {
+   "registered": 49936,
+   "ballotsCast": 29241,
+   "turnout": 58.56,
+   "precincts": {
+    "reporting": 60,
+    "total": 60
+   }
+  },
+  "hardin": {
+   "registered": 17391,
+   "ballotsCast": 9202,
+   "turnout": 52.91,
+   "precincts": {
+    "reporting": 21,
+    "total": 21
+   }
+  },
+  "harrison": {
+   "registered": 9439,
+   "ballotsCast": 5108,
+   "turnout": 54.12,
+   "precincts": {
+    "reporting": 16,
+    "total": 16
+   }
+  },
+  "henry": {
+   "registered": 18943,
+   "ballotsCast": 11351,
+   "turnout": 59.92,
+   "precincts": {
+    "reporting": 23,
+    "total": 23
+   }
+  },
+  "highland": {
+   "registered": 27110,
+   "ballotsCast": 14459,
+   "turnout": 53.33,
+   "precincts": {
+    "reporting": 31,
+    "total": 31
+   }
+  },
+  "hocking": {
+   "registered": 17600,
+   "ballotsCast": 9846,
+   "turnout": 55.94,
+   "precincts": {
+    "reporting": 20,
+    "total": 20
+   }
+  },
+  "holmes": {
+   "registered": 17536,
+   "ballotsCast": 9071,
+   "turnout": 51.73,
+   "precincts": {
+    "reporting": 17,
+    "total": 17
+   }
+  },
+  "huron": {
+   "registered": 35661,
+   "ballotsCast": 19947,
+   "turnout": 55.94,
+   "precincts": {
+    "reporting": 46,
+    "total": 46
+   }
+  },
+  "jackson": {
+   "registered": 19882,
+   "ballotsCast": 9883,
+   "turnout": 49.71,
+   "precincts": {
+    "reporting": 29,
+    "total": 29
+   }
+  },
+  "jefferson": {
+   "registered": 42980,
+   "ballotsCast": 22467,
+   "turnout": 52.27,
+   "precincts": {
+    "reporting": 55,
+    "total": 55
+   }
+  },
+  "knox": {
+   "registered": 42036,
+   "ballotsCast": 24455,
+   "turnout": 58.18,
+   "precincts": {
+    "reporting": 53,
+    "total": 53
+   }
+  },
+  "lake": {
+   "registered": 162900,
+   "ballotsCast": 107608,
+   "turnout": 66.06,
+   "precincts": {
+    "reporting": 163,
+    "total": 163
+   }
+  },
+  "lawrence": {
+   "registered": 39188,
+   "ballotsCast": 18321,
+   "turnout": 46.75,
+   "precincts": {
+    "reporting": 84,
+    "total": 84
+   }
+  },
+  "licking": {
+   "registered": 126066,
+   "ballotsCast": 74969,
+   "turnout": 59.47,
+   "precincts": {
+    "reporting": 96,
+    "total": 96
+   }
+  },
+  "logan": {
+   "registered": 31471,
+   "ballotsCast": 18069,
+   "turnout": 57.41,
+   "precincts": {
+    "reporting": 36,
+    "total": 36
+   }
+  },
+  "lorain": {
+   "registered": 217346,
+   "ballotsCast": 131571,
+   "turnout": 60.54,
+   "precincts": {
+    "reporting": 210,
+    "total": 210
+   }
+  },
+  "lucas": {
+   "registered": 292506,
+   "ballotsCast": 155454,
+   "turnout": 53.15,
+   "precincts": {
+    "reporting": 280,
+    "total": 280
+   }
+  },
+  "madison": {
+   "registered": 27460,
+   "ballotsCast": 16451,
+   "turnout": 59.91,
+   "precincts": {
+    "reporting": 24,
+    "total": 24
+   }
+  },
+  "mahoning": {
+   "registered": 155267,
+   "ballotsCast": 90475,
+   "turnout": 58.27,
+   "precincts": {
+    "reporting": 212,
+    "total": 212
+   }
+  },
+  "marion": {
+   "registered": 38719,
+   "ballotsCast": 20221,
+   "turnout": 52.23,
+   "precincts": {
+    "reporting": 45,
+    "total": 45
+   }
+  },
+  "medina": {
+   "registered": 132460,
+   "ballotsCast": 86541,
+   "turnout": 65.33,
+   "precincts": {
+    "reporting": 124,
+    "total": 124
+   }
+  },
+  "meigs": {
+   "registered": 14304,
+   "ballotsCast": 7699,
+   "turnout": 53.82,
+   "precincts": {
+    "reporting": 27,
+    "total": 27
+   }
+  },
+  "mercer": {
+   "registered": 29035,
+   "ballotsCast": 18239,
+   "turnout": 62.82,
+   "precincts": {
+    "reporting": 36,
+    "total": 36
+   }
+  },
+  "miami": {
+   "registered": 77679,
+   "ballotsCast": 46122,
+   "turnout": 59.38,
+   "precincts": {
+    "reporting": 87,
+    "total": 87
+   }
+  },
+  "monroe": {
+   "registered": 8646,
+   "ballotsCast": 4933,
+   "turnout": 57.06,
+   "precincts": {
+    "reporting": 20,
+    "total": 20
+   }
+  },
+  "montgomery": {
+   "registered": 365477,
+   "ballotsCast": 204603,
+   "turnout": 55.98,
+   "precincts": {
+    "reporting": 381,
+    "total": 381
+   }
+  },
+  "morgan": {
+   "registered": 8758,
+   "ballotsCast": 4925,
+   "turnout": 56.23,
+   "precincts": {
+    "reporting": 13,
+    "total": 13
+   }
+  },
+  "morrow": {
+   "registered": 24096,
+   "ballotsCast": 14327,
+   "turnout": 59.46,
+   "precincts": {
+    "reporting": 33,
+    "total": 33
+   }
+  },
+  "muskingum": {
+   "registered": 53143,
+   "ballotsCast": 29129,
+   "turnout": 54.81,
+   "precincts": {
+    "reporting": 68,
+    "total": 68
+   }
+  },
+  "noble": {
+   "registered": 7828,
+   "ballotsCast": 4598,
+   "turnout": 58.74,
+   "precincts": {
+    "reporting": 19,
+    "total": 19
+   }
+  },
+  "ottawa": {
+   "registered": 29855,
+   "ballotsCast": 19458,
+   "turnout": 65.18,
+   "precincts": {
+    "reporting": 36,
+    "total": 36
+   }
+  },
+  "paulding": {
+   "registered": 12226,
+   "ballotsCast": 9100,
+   "turnout": 74.43,
+   "precincts": {
+    "reporting": 16,
+    "total": 16
+   }
+  },
+  "perry": {
+   "registered": 22522,
+   "ballotsCast": 12678,
+   "turnout": 56.29,
+   "precincts": {
+    "reporting": 33,
+    "total": 33
+   }
+  },
+  "pickaway": {
+   "registered": 38625,
+   "ballotsCast": 22379,
+   "turnout": 57.94,
+   "precincts": {
+    "reporting": 46,
+    "total": 46
+   }
+  },
+  "pike": {
+   "registered": 17120,
+   "ballotsCast": 8693,
+   "turnout": 50.78,
+   "precincts": {
+    "reporting": 22,
+    "total": 22
+   }
+  },
+  "portage": {
+   "registered": 108260,
+   "ballotsCast": 66771,
+   "turnout": 61.68,
+   "precincts": {
+    "reporting": 126,
+    "total": 126
+   }
+  },
+  "preble": {
+   "registered": 27856,
+   "ballotsCast": 15514,
+   "turnout": 55.69,
+   "precincts": {
+    "reporting": 65,
+    "total": 65
+   }
+  },
+  "putnam": {
+   "registered": 23637,
+   "ballotsCast": 15545,
+   "turnout": 65.77,
+   "precincts": {
+    "reporting": 25,
+    "total": 25
+   }
+  },
+  "richland": {
+   "registered": 77903,
+   "ballotsCast": 44623,
+   "turnout": 57.28,
+   "precincts": {
+    "reporting": 83,
+    "total": 83
+   }
+  },
+  "ross": {
+   "registered": 45266,
+   "ballotsCast": 24858,
+   "turnout": 54.92,
+   "precincts": {
+    "reporting": 65,
+    "total": 65
+   }
+  },
+  "sandusky": {
+   "registered": 38736,
+   "ballotsCast": 22936,
+   "turnout": 59.21,
+   "precincts": {
+    "reporting": 58,
+    "total": 58
+   }
+  },
+  "scioto": {
+   "registered": 42745,
+   "ballotsCast": 21782,
+   "turnout": 50.96,
+   "precincts": {
+    "reporting": 77,
+    "total": 77
+   }
+  },
+  "seneca": {
+   "registered": 33949,
+   "ballotsCast": 19022,
+   "turnout": 56.03,
+   "precincts": {
+    "reporting": 51,
+    "total": 51
+   }
+  },
+  "shelby": {
+   "registered": 32201,
+   "ballotsCast": 19145,
+   "turnout": 59.45,
+   "precincts": {
+    "reporting": 36,
+    "total": 36
+   }
+  },
+  "stark": {
+   "registered": 247862,
+   "ballotsCast": 146486,
+   "turnout": 59.1,
+   "precincts": {
+    "reporting": 274,
+    "total": 274
+   }
+  },
+  "summit": {
+   "registered": 376027,
+   "ballotsCast": 228013,
+   "turnout": 60.64,
+   "precincts": {
+    "reporting": 371,
+    "total": 371
+   }
+  },
+  "trumbull": {
+   "registered": 131521,
+   "ballotsCast": 75531,
+   "turnout": 57.43,
+   "precincts": {
+    "reporting": 158,
+    "total": 158
+   }
+  },
+  "tuscarawas": {
+   "registered": 56552,
+   "ballotsCast": 32678,
+   "turnout": 57.78,
+   "precincts": {
+    "reporting": 81,
+    "total": 81
+   }
+  },
+  "union": {
+   "registered": 49629,
+   "ballotsCast": 31495,
+   "turnout": 63.46,
+   "precincts": {
+    "reporting": 53,
+    "total": 53
+   }
+  },
+  "vanwert": {
+   "registered": 19963,
+   "ballotsCast": 10635,
+   "turnout": 53.27,
+   "precincts": {
+    "reporting": 32,
+    "total": 32
+   }
+  },
+  "vinton": {
+   "registered": 8059,
+   "ballotsCast": 3992,
+   "turnout": 49.53,
+   "precincts": {
+    "reporting": 20,
+    "total": 20
+   }
+  },
+  "warren": {
+   "registered": 177400,
+   "ballotsCast": 114078,
+   "turnout": 64.31,
+   "precincts": {
+    "reporting": 185,
+    "total": 185
+   }
+  },
+  "washington": {
+   "registered": 41307,
+   "ballotsCast": 23083,
+   "turnout": 55.88,
+   "precincts": {
+    "reporting": 50,
+    "total": 50
+   }
+  },
+  "wayne": {
+   "registered": 69028,
+   "ballotsCast": 41877,
+   "turnout": 60.67,
+   "precincts": {
+    "reporting": 66,
+    "total": 66
+   }
+  },
+  "williams": {
+   "registered": 24311,
+   "ballotsCast": 13741,
+   "turnout": 56.52,
+   "precincts": {
+    "reporting": 26,
+    "total": 26
+   }
+  },
+  "wood": {
+   "registered": 88811,
+   "ballotsCast": 55276,
+   "turnout": 62.24,
+   "precincts": {
+    "reporting": 99,
+    "total": 99
+   }
+  },
+  "wyandot": {
+   "registered": 14412,
+   "ballotsCast": 8739,
+   "turnout": 60.64,
+   "precincts": {
+    "reporting": 23,
+    "total": 23
+   }
+  }
+ },
  "registered": 8018054,
  "ballotsCast": 4658250,
  "turnout": 58.1,

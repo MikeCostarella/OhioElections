@@ -4,6 +4,7 @@ import MainMenu, { VIEW_LABELS, type AppView } from "./components/MainMenu";
 import BallotView from "./components/BallotView";
 import ResultsView from "./components/ResultsView";
 import ReportsView from "./components/ReportsView";
+import { STATE_REPORTS, type StateReportId } from "./components/StatewideReports";
 import About from "./components/About";
 import CountyPicker from "./components/CountyPicker";
 import { COUNTIES, countyBySlug, votersUrl } from "./data/counties";
@@ -17,20 +18,26 @@ const COUNTIES_HUB_URL = "https://mikecostarella.github.io/OhioCounties/";
  * Routes live in the hash so other fleet apps can deep-link:
  *   #/                                  county picker
  *   #/about                             about page
+ *   #/reports[/<election>[/<report>]]   statewide reports, no county (report: results | counties | turnout | lean)
  *   #/<county>[/<election>[/<view>[/<place>]]]
  * e.g. #/trumbull/2026-11-03/ballot/Hubbard%20City
  */
-interface Route { slug: string; election: string; view: AppView; place: string }
+interface Route { slug: string; election: string; view: AppView; place: string; sreport?: StateReportId }
 
 function parseHash(): Route {
   const parts = location.hash.replace(/^#\/?/, "").split("/").map(decodeURIComponent);
   if (parts[0] === "about") return { slug: "", election: "", view: "about", place: "" };
+  if (parts[0] === "reports") return { slug: "", election: parts[1] ?? "", view: "reports", place: "", sreport: STATE_REPORTS.find((r) => r.id === parts[2])?.id };
   const view = (parts[2] as AppView) in VIEW_LABELS ? (parts[2] as AppView) : "ballot";
   return { slug: countyBySlug(parts[0] ?? "") ? parts[0].toLowerCase() : "", election: parts[1] ?? "", view, place: parts[3] ?? "" };
 }
 
 function toHash(r: Route): string {
-  if (!r.slug) return r.view === "about" ? "#/about" : "#/";
+  if (!r.slug) {
+    if (r.view === "about") return "#/about";
+    if (r.view === "reports") return `#/reports${r.election ? `/${encodeURIComponent(r.election)}${r.sreport ? `/${r.sreport}` : ""}` : ""}`;
+    return "#/";
+  }
   const segs = [r.slug, r.election, r.view, r.place].filter(Boolean).map(encodeURIComponent);
   return `#/${segs.join("/")}`;
 }
@@ -107,11 +114,11 @@ export default function App() {
   const places = local?.places ?? [];
   const place = places.includes(route.place) ? route.place : "";
   const days = election ? daysUntil(election.date) : null;
-  const showPicker = !county && route.view !== "about";
+  const showPicker = !county && route.view !== "about" && route.view !== "reports";
 
   useEffect(() => {
-    document.title = county ? `${county.name} County — Ohio Elections` : "Ohio Elections";
-  }, [county]);
+    document.title = county ? `${county.name} County — Ohio Elections` : route.view === "reports" ? "Statewide reports — Ohio Elections" : "Ohio Elections";
+  }, [county, route.view]);
 
   return (
     <div className="app">
@@ -129,7 +136,7 @@ export default function App() {
       {election && (
         <div className="stats">
           <label className="pick">County{" "}
-            <select value={county?.slug ?? ""} onChange={(e) => go({ slug: e.target.value, place: "", view: route.view === "about" ? "ballot" : route.view })}>
+            <select value={county?.slug ?? ""} onChange={(e) => go({ slug: e.target.value, place: "", sreport: undefined, view: route.view === "about" || (!e.target.value && route.view === "reports") ? "ballot" : route.view })}>
               <option value="">Choose…</option>
               {COUNTIES.map((c) => <option key={c.slug} value={c.slug}>{c.name}{loaded.includes(c.slug) && loaded.length < COUNTIES.length ? " ●" : ""}</option>)}
             </select>
@@ -187,7 +194,13 @@ export default function App() {
           </div>
         )}
         {error && <p className="note error">Could not load the data: {error}</p>}
-        {showPicker && <CountyPicker loaded={loaded} onPick={(slug) => go({ slug, place: "", view: "ballot" })} />}
+        {showPicker && <CountyPicker loaded={loaded} onPick={(slug) => go({ slug, place: "", view: "ballot" })} statewide={!!election} onStatewide={(r) => go({ view: "reports", sreport: r, election: election?.id ?? "" })} />}
+        {route.view === "reports" && !county && election && (state
+          ? <>
+              <h2 className="view-title">Reports · all of Ohio</h2>
+              <ReportsView key={`ohio/${election.id}/${route.sreport ?? ""}`} county={null} election={election} state={state} local={null} results={null} initialReport={route.sreport} onChooseCounty={() => go({ slug: "", place: "", view: "ballot", sreport: undefined })} />
+            </>
+          : !error && <p className="note">Loading…</p>)}
         {route.view === "about" && !county && <><h2 className="view-title">{VIEW_LABELS.about}</h2><About loadedCounties={loaded.map((s) => countyBySlug(s)?.name ?? s)} /></>}
         {route.view === "about" && county && <About loadedCounties={loaded.map((s) => countyBySlug(s)?.name ?? s)} />}
         {county && route.view === "ballot" && (state && (!hasLocal || local)

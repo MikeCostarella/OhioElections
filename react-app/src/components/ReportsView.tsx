@@ -2,13 +2,18 @@ import { useEffect, useMemo, useState } from "react";
 import type { Ballot, Contest, Election, Issue, IssueResult, ResultsFile } from "../data/types";
 import { COUNTIES, type County } from "../data/counties";
 import { fmtInt, loadStateResults, longDate, pct, share } from "../data/load";
+import StatewideReports, { STATE_REPORTS, type StateReportId } from "./StatewideReports";
 
 interface Props {
-  county: County;
+  /** Null on the statewide page (#/reports): only the All-of-Ohio reports are offered. */
+  county: County | null;
   election: Election;
   state: Ballot | null;
   local: Ballot | null;
   results: ResultsFile | null;
+  /** Statewide page: which report to open, and the way back to the county picker. */
+  initialReport?: StateReportId;
+  onChooseCounty?: () => void;
 }
 
 type ReportId = "ballot" | "turnout" | "statewide" | "party" | "issues";
@@ -59,8 +64,10 @@ function ExportBtn({ onClick }: { onClick: () => void }) {
  * how the county compares with the state, how the parties did, and what passed.
  * Every table downloads as CSV. Nothing here calls a race.
  */
-export default function ReportsView({ county, election, state, local, results }: Props) {
+export default function ReportsView({ county, election, state, local, results, initialReport, onChooseCounty }: Props) {
   const [report, setReport] = useState<ReportId>(results ? "turnout" : "ballot");
+  const [scope, setScope] = useState<"county" | "ohio">(county ? "county" : "ohio");
+  const [sreport, setSreport] = useState<StateReportId>(initialReport ?? "results");
   const [sres, setSres] = useState<ResultsFile | null>(null);
 
   useEffect(() => {
@@ -74,19 +81,42 @@ export default function ReportsView({ county, election, state, local, results }:
   const contests = useMemo(() => [...(state?.contests ?? []), ...(local?.contests ?? [])], [state, local]);
   const issues = useMemo(() => [...(state?.issues ?? []), ...(local?.issues ?? [])], [state, local]);
   const official = results?.status === "official";
-  const file = (name: string) => `${county.slug}-${election.id}-${name}.csv`;
+  const file = (name: string) => `${county ? county.slug : "ohio"}-${election.id}-${name}.csv`;
 
+  const ohio = scope === "ohio" || !county;
   const head = (
     <div className="filters">
-      <div className="seg" role="tablist" aria-label="Report">
-        {REPORTS.map((r) => (
-          <button key={r.id} type="button" role="tab" aria-selected={report === r.id} className={report === r.id ? "active" : ""} onClick={() => setReport(r.id)}>{r.label}</button>
-        ))}
+      <div className="seg" role="group" aria-label="Scope">
+        {county
+          ? <button type="button" className={!ohio ? "active" : ""} aria-pressed={!ohio} onClick={() => setScope("county")}>{county.name} County</button>
+          : <button type="button" onClick={onChooseCounty} title="Pick a county for its own reports">Choose a county…</button>}
+        <button type="button" className={ohio ? "active" : ""} aria-pressed={ohio} onClick={() => setScope("ohio")}>All of Ohio</button>
       </div>
-      <span className="muted" style={{ fontSize: 12 }}>{county.name} County · {election.label} · {longDate(election.date)}{results ? ` · ${official ? "official" : "unofficial"} totals` : " · no totals yet"}</span>
+      <div className="seg" role="tablist" aria-label="Report">
+        {ohio
+          ? STATE_REPORTS.map((r) => <button key={r.id} type="button" role="tab" aria-selected={sreport === r.id} className={sreport === r.id ? "active" : ""} onClick={() => setSreport(r.id)}>{r.label}</button>)
+          : REPORTS.map((r) => <button key={r.id} type="button" role="tab" aria-selected={report === r.id} className={report === r.id ? "active" : ""} onClick={() => setReport(r.id)}>{r.label}</button>)}
+      </div>
+      <span className="muted" style={{ fontSize: 12 }}>{ohio ? "All 88 counties" : `${county!.name} County`} · {election.label} · {longDate(election.date)}{ohio ? (sres ? ` · ${sres.status} statewide totals` : "") : results ? ` · ${official ? "official" : "unofficial"} totals` : " · no totals yet"}</span>
     </div>
   );
 
+  if (ohio) {
+    return (
+      <div className="results reports">
+        {head}
+        {!sres || !state
+          ? <p className="note" style={{ marginTop: 0 }}>{sres === null && state ? "The statewide file from the Secretary of State is not published for this election yet." : "Loading…"}</p>
+          : <>
+              {sres.status !== "official" && <p className="note" style={{ marginTop: 0 }}>Unofficial statewide totals from the Secretary of State's election-night feed. "Leading" and every share describe the count so far, not a call.</p>}
+              <StatewideReports report={sreport} county={county} state={state} sres={sres} file={file} />
+            </>}
+      </div>
+    );
+  }
+
+  // From here on a county is chosen (ohio is forced when it is not).
+  if (!county) return null;
   const current = REPORTS.find((r) => r.id === report)!;
   if (current.needsResults && !results) {
     return (

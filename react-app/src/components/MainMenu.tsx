@@ -65,8 +65,8 @@ export default function MainMenu({ view, onViewChange, county, onChooseCounty }:
         <div id="main-menu-dropdown" role="menu">
           <Section title="View">
             {(Object.keys(VIEW_LABELS) as AppView[]).map((v) => (
-              <button key={v} type="button" role="menuitemradio" aria-checked={view === v} disabled={!county && v !== "about"}
-                className={`menu-item${view === v && county ? " active" : ""}`} onClick={() => { onViewChange(v); setOpen(false); }}>
+              <button key={v} type="button" role="menuitemradio" aria-checked={view === v} disabled={!county && v !== "about" && v !== "reports"}
+                className={`menu-item${view === v && (county || v === "about" || v === "reports") ? " active" : ""}`} onClick={() => { onViewChange(v); setOpen(false); }}>
                 {VIEW_LABELS[v]}
               </button>
             ))}

@@ -22,7 +22,8 @@ Routes live in the URL hash so other fleet apps can link straight to a county:
 | `OhioElections/#/trumbull` | Trumbull County, latest election |
 | `OhioElections/#/trumbull/2026-11-03/ballot/Hubbard%20City` | Just what Hubbard City votes on |
 | `OhioElections/#/trumbull/2026-11-03/results` | Every race and issue with its standing, and where the results are published |
-| `OhioElections/#/trumbull/2026-11-03/reports` | Reports: ballot makeup, turnout and roll-off, county vs. statewide, party lines, issues and levies — each downloadable as CSV |
+| `OhioElections/#/trumbull/2026-11-03/reports` | Reports for the county (ballot makeup, turnout and roll-off, county vs. statewide, party lines, issues and levies) and for all of Ohio (statewide results, counties ranked, turnout and party lean by county) — each table downloadable as CSV |
+| `OhioElections/#/reports/2026-11-03/turnout` | Statewide reports, no county: `results`, `counties`, `turnout` or `lean` |
 | `OhioElections/#/about` | About |
 
 County slugs are the lower-case county name with spaces removed (`vanwert`).
