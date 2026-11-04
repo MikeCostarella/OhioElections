@@ -16,6 +16,7 @@
   - **Party lean by county** — each county's average DEM − REP margin across the statewide races with one of each (8 this time), its difference from Ohio's, how many of those races the Democrat leads, the ticket-splitting spread, and the strongest margin for each party.
 - Statewide reports need no county: the county picker opens with a **Statewide reports** panel (one button per report, each describing what it shows) above the county grid; the route is `#/reports[/<election>[/<report>]]` (`results`, `counties`, `turnout`, `lean`), the hamburger menu's Reports item works before a county is chosen, and the page offers "Choose a county…" beside the All-of-Ohio scope.
 - `tools/results/sos.py` now writes a top-level `counties` block into `results/state/<election>.json` — each county's registered voters, ballots counted, turnout and precincts from the SoS summary CSV — which the turnout report reads. The state file was regenerated from the saved Nov 4 12:17 PM bundle (otherwise byte-identical); `ResultsFile.counties` added to the types.
+- Footer with the build stamp is now always in view: the app is a fixed 100dvh and the body scrolls inside it, like the Voters apps; before, a long ballot pushed the footer below the fold.
 - `src/components/ReportsView.tsx` and `StatewideReports.tsx` (new), `reports` added to `AppView`/`VIEW_LABELS` in `MainMenu.tsx`, tab and route in `App.tsx`, report styles (CSV button, inline bars, D/R split bar, highlighted "yours" row, two-column tables) at the end of `global.css`.
 
 # Nov 4, 2026 — Results view
