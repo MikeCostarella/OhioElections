@@ -1,5 +1,19 @@
 # Changes
 
+# Nov 3, 2026 — election-night totals
+
+- Totals beside every race and issue. A new per-county results file (`react-app/public/data/results/<county>/<election>.json`), kept apart from the ballot file, holds the Board's count: a vote bar, count and share under each candidate (sorted by votes, leader tagged "leading" — never "won"), For/Against bars under each levy and question, total votes cast and write-ins.
+- Banner above the ballot: Unofficial/Official, the report time, what is counted so far ("Absentee and early"), Election Day precincts reporting, ballots cast and turnout, and a link to the Board's report. The Results view shows the same count details and keeps the "where the results are published" links.
+- While a count is unofficial the app re-reads the results file every two minutes (and when the tab comes back into view); the service worker fetches `data/results/` network-first with a one-hour cache so a stale total is never served.
+- Trumbull County loaded from the Board's Election Summary — first the 7:36 PM absentee/early report, then the 10:01 PM report with all 158 Election Day precincts (75,531 ballots, 57.43% turnout): all 17 contests and 36 issues matched to the ballot ids.
+- Mahoning County (Nov 4) loaded from the Board's 9:22 PM "Final Unofficial" Summary Results Report (212 of 212 precincts, 90,475 ballots, 58.26% turnout): 22 contests and 30 issues. Its report has no "Total Votes Cast" rows (totals are summed), prefixes titles with "For", wraps one long candidate name over three lines, and titles the five Common Pleas races identically — the parser now handles all four, matching duplicate titles by their candidates. Two liquor blocks are skipped on purpose (`skipped` in the JSON): the Board ran Tobacco City and the Indian Grocery Store as separate weekly and Sunday questions, while the ballot file lists each once.
+- Data notes (Mahoning): Salem City's recreation levy and Perry Township's police levy show 0 votes in the report (both are Columbiana County districts with a sliver of Mahoning voters); the report prints Salem's levy as 1.3 mills where the ballot file says 1 mill.
+- `tools/results/`: parser for the tabulator "Summary Results Report" PDF (pdfplumber, or a text dump from Chrome via `pdfjs-dump.js` when a Board's site refuses scripts), `trumbull.py` with the report-title → ballot-id map, `run.py`. Unmapped titles come out as `unmatched` and fail the data check.
+- `npm run check:data` now validates results files too: ids and candidate names must be on the ballot, votes must not exceed the total, nothing unmatched.
+- `.github/workflows/results.yml`: polls the Boards every 10 minutes, commits changed results and calls the deploy workflow (now also `workflow_call`). Schedule on for election week only.
+- Types: `ResultsFile`, `ContestResult`, `IssueResult`, `CandidateResult` in `src/data/types.ts`; `loadResults`, `RESULTS_POLL_MS`, `shortTime`, `fmtInt`, `pct` in `src/data/load.ts`; new `ResultsBanner` component.
+
+
 # OhioElections — first build (Oct 30, 2026)
 
 - New fleet app: React 18 + TypeScript + Vite PWA, hamburger menu (View / County / Links), build stamp, GitHub Pages deploy.

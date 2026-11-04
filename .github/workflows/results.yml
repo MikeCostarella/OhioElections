@@ -1,0 +1,70 @@
+# Election-night results poller: every 10 minutes, re-read each Board of Elections' report
+# (tools/results/run.py), commit any results file that changed, and redeploy the site.
+#
+# The schedule is commented out between elections. Turn it on the day before an election,
+# off once the Boards certify. "Run workflow" (workflow_dispatch) runs it once by hand.
+# Runs stop when the county scripts find nothing new; a Board site that refuses the runner
+# shows "fetch failed" in the log — run that county on lvp-01 and commit through Statehouse.
+
+name: Election-night results
+
+on:
+  workflow_dispatch:
+  # Election night only — uncomment the day before, comment out after the canvass:
+  # schedule:
+  #   - cron: "*/10 * * * *"   # every 10 minutes (UTC)
+
+permissions:
+  contents: write
+  pages: write
+  id-token: write
+
+concurrency:
+  group: results
+  cancel-in-progress: false
+
+jobs:
+  poll:
+    runs-on: ubuntu-latest
+    outputs:
+      changed: ${{ steps.commit.outputs.changed }}
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - run: pip install pdfplumber
+
+      - name: Fetch and parse the Boards' reports
+        working-directory: tools/results
+        run: python run.py
+
+      - name: Check the results against the ballots
+        working-directory: react-app
+        run: node scripts/check-data.mjs
+
+      - name: Commit changed results
+        id: commit
+        run: |
+          git add react-app/public/data/results
+          if git diff --cached --quiet; then
+            echo "changed=false" >> "$GITHUB_OUTPUT"
+            echo "No change in the results."
+          else
+            git config user.name "results-poller"
+            git config user.email "results-poller@users.noreply.github.com"
+            git commit -m "Election-night results: $(date -u +'%Y-%m-%d %H:%M UTC')"
+            git push
+            echo "changed=true" >> "$GITHUB_OUTPUT"
+          fi
+
+  deploy:
+    needs: poll
+    if: needs.poll.outputs.changed == 'true'
+    uses: ./.github/workflows/deploy.yml
+    permissions:
+      contents: read
+      pages: write
+      id-token: write

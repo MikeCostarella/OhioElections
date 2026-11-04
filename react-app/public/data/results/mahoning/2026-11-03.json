@@ -1,0 +1,536 @@
+{
+  "scope": "county",
+  "county": "Mahoning",
+  "election": "2026-11-03",
+  "status": "unofficial",
+  "asOf": "2026-11-03T21:22:00-05:00",
+  "source": {
+    "label": "Mahoning County Board of Elections: Summary Results Report (final unofficial)",
+    "url": "https://vote.mahoningcountyoh.gov/DocumentCenter/View/2678/Final-Unofficial"
+  },
+  "precincts": {
+    "reporting": 212,
+    "total": 212
+  },
+  "registered": 155287,
+  "ballotsCast": 90475,
+  "turnout": 58.26,
+  "contests": {
+    "governor": {
+      "total": 88611,
+      "candidates": [
+        {
+          "name": "Amy Acton / David Pepper",
+          "votes": 47879
+        },
+        {
+          "name": "Don Kissick / James L. Mills",
+          "votes": 3060
+        },
+        {
+          "name": "Vivek Ramaswamy / Robert A. McColley",
+          "votes": 37482
+        }
+      ],
+      "writeIn": 190
+    },
+    "attorney-general": {
+      "total": 86336,
+      "candidates": [
+        {
+          "name": "Keith Faber",
+          "votes": 41512
+        },
+        {
+          "name": "John J. Kulewicz",
+          "votes": 44824
+        }
+      ]
+    },
+    "auditor-of-state": {
+      "total": 87384,
+      "candidates": [
+        {
+          "name": "Annette Blackwell",
+          "votes": 43353
+        },
+        {
+          "name": "Frank LaRose",
+          "votes": 44031
+        }
+      ]
+    },
+    "secretary-of-state": {
+      "total": 87886,
+      "candidates": [
+        {
+          "name": "Tom Pruss",
+          "votes": 2369
+        },
+        {
+          "name": "Allison Russo",
+          "votes": 46062
+        },
+        {
+          "name": "Robert Sprague",
+          "votes": 39455
+        }
+      ]
+    },
+    "treasurer-of-state": {
+      "total": 86763,
+      "candidates": [
+        {
+          "name": "Jay Edwards",
+          "votes": 41551
+        },
+        {
+          "name": "Seth Walsh",
+          "votes": 45212
+        }
+      ]
+    },
+    "supreme-court-2027-01-01": {
+      "total": 87283,
+      "candidates": [
+        {
+          "name": "Daniel R. Hawkins",
+          "votes": 40749
+        },
+        {
+          "name": "Marilyn Zayas",
+          "votes": 46534
+        }
+      ]
+    },
+    "supreme-court-2027-01-02": {
+      "total": 87107,
+      "candidates": [
+        {
+          "name": "Jennifer Brunner",
+          "votes": 46407
+        },
+        {
+          "name": "Colleen O'Donnell",
+          "votes": 40700
+        }
+      ]
+    },
+    "us-senate": {
+      "total": 89239,
+      "candidates": [
+        {
+          "name": "Sherrod Brown",
+          "votes": 45595
+        },
+        {
+          "name": "Jon Husted",
+          "votes": 39192
+        },
+        {
+          "name": "Greg Levy",
+          "votes": 1961
+        },
+        {
+          "name": "William B. Redpath",
+          "votes": 2398
+        }
+      ],
+      "writeIn": 93
+    },
+    "congress-6": {
+      "total": 64753,
+      "candidates": [
+        {
+          "name": "Elizabeth Kirtley",
+          "votes": 34798
+        },
+        {
+          "name": "Michael A. Rulli",
+          "votes": 29955
+        }
+      ]
+    },
+    "congress-14": {
+      "total": 23622,
+      "candidates": [
+        {
+          "name": "David P. Joyce",
+          "votes": 13438
+        },
+        {
+          "name": "Maria Jukic",
+          "votes": 10184
+        }
+      ]
+    },
+    "senate-33": {
+      "total": 87899,
+      "candidates": [
+        {
+          "name": "Al Cutrona",
+          "votes": 41763
+        },
+        {
+          "name": "Michael L. Kripchak",
+          "votes": 46136
+        }
+      ]
+    },
+    "rep-58": {
+      "total": 40349,
+      "candidates": [
+        {
+          "name": "John A. Boccieri",
+          "votes": 25642
+        },
+        {
+          "name": "Heather Fronk",
+          "votes": 14707
+        }
+      ]
+    },
+    "rep-59": {
+      "total": 46996,
+      "candidates": [
+        {
+          "name": "Tex Fischer",
+          "votes": 25496
+        },
+        {
+          "name": "Wayne Penny, Jr.",
+          "votes": 21500
+        }
+      ]
+    },
+    "appeals-7-0209": {
+      "total": 54615,
+      "candidates": [
+        {
+          "name": "Molly K. Johnson",
+          "votes": 54615
+        }
+      ]
+    },
+    "appeals-7-0210": {
+      "total": 87221,
+      "candidates": [
+        {
+          "name": "Mark Anthony Hanni",
+          "votes": 39361
+        },
+        {
+          "name": "Katherine Rudzik",
+          "votes": 47860
+        }
+      ]
+    },
+    "cp-gen-0102": {
+      "total": 60140,
+      "candidates": [
+        {
+          "name": "Maureen A. Sweeney",
+          "votes": 60140
+        }
+      ]
+    },
+    "cp-gen-0209": {
+      "total": 76856,
+      "candidates": [
+        {
+          "name": "Mark P. D'Apolito",
+          "votes": 57993
+        },
+        {
+          "name": "Ross T. Smith",
+          "votes": 18863
+        }
+      ]
+    },
+    "cp-gen-0701": {
+      "total": 71584,
+      "candidates": [
+        {
+          "name": "Robert Andrews",
+          "votes": 13466
+        },
+        {
+          "name": "Jeff Limbian",
+          "votes": 10465
+        },
+        {
+          "name": "Ralph Rivera",
+          "votes": 27932
+        },
+        {
+          "name": "J. Michael Thompson",
+          "votes": 19721
+        }
+      ]
+    },
+    "cp-dr-0101": {
+      "total": 72634,
+      "candidates": [
+        {
+          "name": "Mark Anthony DeVicchio",
+          "votes": 48130
+        },
+        {
+          "name": "Terry A. Grenga",
+          "votes": 24504
+        }
+      ]
+    },
+    "cp-probate-0209": {
+      "total": 56494,
+      "candidates": [
+        {
+          "name": "Robert N. Rusu, Jr.",
+          "votes": 56494
+        }
+      ]
+    },
+    "commissioner": {
+      "total": 86884,
+      "candidates": [
+        {
+          "name": "Lauren McNally",
+          "votes": 48438
+        },
+        {
+          "name": "Christine Oliver",
+          "votes": 38446
+        }
+      ]
+    },
+    "auditor": {
+      "total": 86344,
+      "candidates": [
+        {
+          "name": "Dalton Bosze",
+          "votes": 40006
+        },
+        {
+          "name": "Ralph T. Meacham",
+          "votes": 46338
+        }
+      ]
+    }
+  },
+  "issues": {
+    "state-issue-3": {
+      "total": 87851,
+      "yes": 59562,
+      "no": 28289,
+      "yesLabel": "Yes",
+      "noLabel": "No"
+    },
+    "boardman-lsd": {
+      "total": 15868,
+      "yes": 8063,
+      "no": 7805,
+      "yesLabel": "For the tax levy",
+      "noLabel": "Against the tax levy"
+    },
+    "canfield-lsd": {
+      "total": 10809,
+      "yes": 5067,
+      "no": 5742,
+      "yesLabel": "For the tax levy",
+      "noLabel": "Against the tax levy"
+    },
+    "lowellville-lsd": {
+      "total": 890,
+      "yes": 478,
+      "no": 412,
+      "yesLabel": "For the tax levy",
+      "noLabel": "Against the tax levy"
+    },
+    "poland-lsd-emergency": {
+      "total": 7383,
+      "yes": 3925,
+      "no": 3458,
+      "yesLabel": "For the tax levy",
+      "noLabel": "Against the tax levy"
+    },
+    "poland-lsd-pi": {
+      "total": 7500,
+      "yes": 4145,
+      "no": 3355,
+      "yesLabel": "For the tax levy",
+      "noLabel": "Against the tax levy"
+    },
+    "west-branch-lsd": {
+      "total": 2617,
+      "yes": 976,
+      "no": 1641,
+      "yesLabel": "For the tax levy",
+      "noLabel": "Against the tax levy"
+    },
+    "alliance-csd": {
+      "total": 93,
+      "yes": 39,
+      "no": 54,
+      "yesLabel": "For the tax levy",
+      "noLabel": "Against the tax levy"
+    },
+    "mcbdd": {
+      "total": 87422,
+      "yes": 41639,
+      "no": 45783,
+      "yesLabel": "For the tax levy",
+      "noLabel": "Against the tax levy"
+    },
+    "canfield-police": {
+      "total": 4314,
+      "yes": 2554,
+      "no": 1760,
+      "yesLabel": "For the tax levy",
+      "noLabel": "Against the tax levy"
+    },
+    "new-middletown-roads": {
+      "total": 662,
+      "yes": 439,
+      "no": 223,
+      "yesLabel": "For the tax levy",
+      "noLabel": "Against the tax levy"
+    },
+    "poland-village-police": {
+      "total": 1245,
+      "yes": 785,
+      "no": 460,
+      "yesLabel": "For the tax levy",
+      "noLabel": "Against the tax levy"
+    },
+    "salem-rec": {
+      "total": 0,
+      "yes": 0,
+      "no": 0,
+      "yesLabel": "For the tax levy",
+      "noLabel": "Against the tax levy"
+    },
+    "liquor-yo-2d-lorenzinos": {
+      "total": 355,
+      "yes": 235,
+      "no": 120,
+      "yesLabel": "Yes",
+      "noLabel": "No"
+    },
+    "liquor-yo-6h-gateway-weekly": {
+      "total": 295,
+      "yes": 130,
+      "no": 165,
+      "yesLabel": "Yes",
+      "noLabel": "No"
+    },
+    "liquor-yo-6h-gateway-sunday": {
+      "total": 296,
+      "yes": 120,
+      "no": 176,
+      "yesLabel": "Yes",
+      "noLabel": "No"
+    },
+    "liquor-campbell-3b-12th": {
+      "total": 237,
+      "yes": 174,
+      "no": 63,
+      "yesLabel": "Yes",
+      "noLabel": "No"
+    },
+    "austintown-parks": {
+      "total": 13981,
+      "yes": 7958,
+      "no": 6023,
+      "yesLabel": "For the tax levy",
+      "noLabel": "Against the tax levy"
+    },
+    "austintown-seniors": {
+      "total": 14029,
+      "yes": 8616,
+      "no": 5413,
+      "yesLabel": "For the tax levy",
+      "noLabel": "Against the tax levy"
+    },
+    "boardman-safety": {
+      "total": 17706,
+      "yes": 8779,
+      "no": 8927,
+      "yesLabel": "For the tax levy",
+      "noLabel": "Against the tax levy"
+    },
+    "poland-twp-roads": {
+      "total": 6522,
+      "yes": 3903,
+      "no": 2619,
+      "yesLabel": "For the tax levy",
+      "noLabel": "Against the tax levy"
+    },
+    "springfield-fire": {
+      "total": 3147,
+      "yes": 1979,
+      "no": 1168,
+      "yesLabel": "For the tax levy",
+      "noLabel": "Against the tax levy"
+    },
+    "springfield-current": {
+      "total": 3170,
+      "yes": 1753,
+      "no": 1417,
+      "yesLabel": "For the tax levy",
+      "noLabel": "Against the tax levy"
+    },
+    "fairfield-twp-roads": {
+      "total": 535,
+      "yes": 290,
+      "no": 245,
+      "yesLabel": "For the tax levy",
+      "noLabel": "Against the tax levy"
+    },
+    "perry-twp-police": {
+      "total": 0,
+      "yes": 0,
+      "no": 0,
+      "yesLabel": "For the tax levy",
+      "noLabel": "Against the tax levy"
+    },
+    "liquor-aust-17-rulli": {
+      "total": 523,
+      "yes": 385,
+      "no": 138,
+      "yesLabel": "Yes",
+      "noLabel": "No"
+    },
+    "liquor-board-25-rulli": {
+      "total": 550,
+      "yes": 394,
+      "no": 156,
+      "yesLabel": "Yes",
+      "noLabel": "No"
+    },
+    "liquor-board-9-tobacco": {
+      "total": 370,
+      "yes": 249,
+      "no": 121,
+      "yesLabel": "Yes",
+      "noLabel": "No"
+    },
+    "liquor-board-9-singh": {
+      "total": 370,
+      "yes": 243,
+      "no": 127,
+      "yesLabel": "Yes",
+      "noLabel": "No"
+    },
+    "liquor-board-15-millionaire": {
+      "total": 366,
+      "yes": 229,
+      "no": 137,
+      "yesLabel": "Yes",
+      "noLabel": "No"
+    }
+  },
+  "skipped": [
+    "BDM 9 (Sunday Sales) Tobacco City LLC BDM 9",
+    "BDM 9 (Sunday Stores) Indian Store BDM 9"
+  ]
+}

@@ -7,6 +7,9 @@ on:
   push:
     branches: [main]
   workflow_dispatch:
+  # Called by results.yml after it commits new election-night totals (a commit made with
+  # GITHUB_TOKEN does not fire the push trigger, so the poller calls this workflow directly).
+  workflow_call:
 
 permissions:
   contents: read

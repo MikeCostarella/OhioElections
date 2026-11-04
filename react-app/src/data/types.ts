@@ -76,6 +76,56 @@ export interface Results {
   links: Link[];
 }
 
+/* ---- Election-night / certified totals: data/results/<county>/<election>.json ----
+   Kept apart from the ballot file so the ballot stays stable while totals change every few minutes. */
+
+export type ResultsStatus = "unofficial" | "official";
+
+export interface CandidateResult {
+  /** The ballot file's candidate name when the tabulator's name could be matched to it; else the Board's name as printed. */
+  name: string;
+  votes: number;
+  /** Set when the tabulator's name did not match a ballot candidate (shown as printed). */
+  unmatched?: true;
+}
+
+export interface ContestResult {
+  /** Total votes cast in the contest, as the Board reports it. */
+  total: number;
+  writeIn?: number;
+  candidates: CandidateResult[];
+}
+
+export interface IssueResult {
+  total: number;
+  yes: number;
+  no: number;
+  /** The Board's wording: "FOR THE TAX LEVY" / "AGAINST THE TAX LEVY", "YES" / "NO"... */
+  yesLabel?: string;
+  noLabel?: string;
+}
+
+export interface ResultsFile {
+  scope: "county" | "state";
+  county?: string;
+  election: string;
+  status: ResultsStatus;
+  /** ISO 8601 with offset: when the Board's report was produced. */
+  asOf: string;
+  /** What is counted so far, as the Board words it: "Absentee and early", "Election Day", ... */
+  stage?: string;
+  source: Link;
+  precincts?: { reporting: number; total: number; partial?: number; absenteeReporting?: number };
+  registered?: number;
+  ballotsCast?: number;
+  /** Per cent, e.g. 22.45 */
+  turnout?: number;
+  contests: Record<string, ContestResult>;
+  issues: Record<string, IssueResult>;
+  /** Report titles the tool could not map to a ballot id (so they can be added to the map). */
+  unmatched?: string[];
+}
+
 export interface Ballot {
   scope: "state" | "county";
   county?: string;

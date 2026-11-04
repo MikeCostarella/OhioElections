@@ -6,8 +6,8 @@ import ResultsView from "./components/ResultsView";
 import About from "./components/About";
 import CountyPicker from "./components/CountyPicker";
 import { COUNTIES, countyBySlug, votersUrl } from "./data/counties";
-import { daysUntil, loadCountyBallot, loadCountyIndex, loadElections, loadStateBallot, longDate } from "./data/load";
-import type { Ballot, CountyIndex, Election } from "./data/types";
+import { daysUntil, loadCountyBallot, loadCountyIndex, loadElections, loadResults, loadStateBallot, longDate, RESULTS_POLL_MS } from "./data/load";
+import type { Ballot, CountyIndex, Election, ResultsFile } from "./data/types";
 
 const ELECTION_STATS_URL = "https://mikecostarella.github.io/CurrentElectionStatistics/";
 const COUNTIES_HUB_URL = "https://mikecostarella.github.io/OhioCounties/";
@@ -40,6 +40,7 @@ export default function App() {
   const [index, setIndex] = useState<CountyIndex>({});
   const [state, setState] = useState<Ballot | null>(null);
   const [local, setLocal] = useState<Ballot | null>(null);
+  const [results, setResults] = useState<ResultsFile | null>(null);
   const [error, setError] = useState<string | null>(null);
 
   useEffect(() => {
@@ -77,6 +78,30 @@ export default function App() {
     if (!election || !county || !hasLocal) return;
     loadCountyBallot(county.slug, election.id).then(setLocal).catch((e) => setError(String(e)));
   }, [election, county, hasLocal]);
+
+  // Election-night totals: read once, then re-read every couple of minutes while the count is unofficial
+  // and the tab is visible. A missing file (404) just means no totals for that county yet.
+  useEffect(() => {
+    setResults(null);
+    if (!election || !county) return;
+    let timer: number | undefined;
+    let cancelled = false;
+    const tick = async () => {
+      if (document.visibilityState === "hidden") { timer = window.setTimeout(tick, RESULTS_POLL_MS); return; }
+      try {
+        const r = await loadResults(county.slug, election.id);
+        if (cancelled) return;
+        setResults(r);
+        if (r && r.status === "unofficial") timer = window.setTimeout(tick, RESULTS_POLL_MS);
+      } catch {
+        if (!cancelled) timer = window.setTimeout(tick, RESULTS_POLL_MS);
+      }
+    };
+    tick();
+    const onVisible = () => { if (document.visibilityState === "visible") { window.clearTimeout(timer); tick(); } };
+    document.addEventListener("visibilitychange", onVisible);
+    return () => { cancelled = true; window.clearTimeout(timer); document.removeEventListener("visibilitychange", onVisible); };
+  }, [election, county]);
 
   const places = local?.places ?? [];
   const place = places.includes(route.place) ? route.place : "";
@@ -165,9 +190,9 @@ export default function App() {
         {route.view === "about" && !county && <><h2 className="view-title">{VIEW_LABELS.about}</h2><About loadedCounties={loaded.map((s) => countyBySlug(s)?.name ?? s)} /></>}
         {route.view === "about" && county && <About loadedCounties={loaded.map((s) => countyBySlug(s)?.name ?? s)} />}
         {county && route.view === "ballot" && (state && (!hasLocal || local)
-          ? <BallotView county={county} state={state} local={local} place={place} />
+          ? <BallotView county={county} state={state} local={local} place={place} results={results} />
           : !error && <p className="note">Loading…</p>)}
-        {county && route.view === "results" && election && <ResultsView county={county} election={election} local={local} />}
+        {county && route.view === "results" && election && <ResultsView county={county} election={election} local={local} results={results} />}
       </main>
       <BuildStamp />
     </div>

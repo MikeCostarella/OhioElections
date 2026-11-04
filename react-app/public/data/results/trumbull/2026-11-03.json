@@ -1,0 +1,498 @@
+{
+  "scope": "county",
+  "county": "Trumbull",
+  "election": "2026-11-03",
+  "status": "unofficial",
+  "asOf": "2026-11-03T22:01:00-05:00",
+  "source": {
+    "label": "Trumbull County Board of Elections: Election Summary (unofficial)",
+    "url": "https://boe.co.trumbull.oh.gov/pdfs/Election%20Summary.pdf"
+  },
+  "precincts": {
+    "reporting": 158,
+    "total": 158,
+    "absenteeReporting": 158
+  },
+  "registered": 131517,
+  "ballotsCast": 75531,
+  "turnout": 57.43,
+  "contests": {
+    "governor": {
+      "total": 74156,
+      "candidates": [
+        {
+          "name": "Amy Acton / David Pepper",
+          "votes": 38197
+        },
+        {
+          "name": "Don Kissick / James L. Mills",
+          "votes": 2847
+        },
+        {
+          "name": "Vivek Ramaswamy / Robert A. McColley",
+          "votes": 32968
+        }
+      ],
+      "writeIn": 144
+    },
+    "attorney-general": {
+      "total": 73047,
+      "candidates": [
+        {
+          "name": "Keith Faber",
+          "votes": 36924
+        },
+        {
+          "name": "John J. Kulewicz",
+          "votes": 36123
+        }
+      ]
+    },
+    "auditor-of-state": {
+      "total": 73649,
+      "candidates": [
+        {
+          "name": "Annette Blackwell",
+          "votes": 35124
+        },
+        {
+          "name": "Frank LaRose",
+          "votes": 38525
+        }
+      ]
+    },
+    "secretary-of-state": {
+      "total": 73657,
+      "candidates": [
+        {
+          "name": "Tom Pruss",
+          "votes": 1980
+        },
+        {
+          "name": "Allison Russo",
+          "votes": 36134
+        },
+        {
+          "name": "Robert Sprague",
+          "votes": 35543
+        }
+      ]
+    },
+    "treasurer-of-state": {
+      "total": 73056,
+      "candidates": [
+        {
+          "name": "Jay Edwards",
+          "votes": 36495
+        },
+        {
+          "name": "Seth Walsh",
+          "votes": 36561
+        }
+      ]
+    },
+    "supreme-court-2027-01-01": {
+      "total": 73107,
+      "candidates": [
+        {
+          "name": "Daniel R. Hawkins",
+          "votes": 36177
+        },
+        {
+          "name": "Marilyn Zayas",
+          "votes": 36930
+        }
+      ]
+    },
+    "supreme-court-2027-01-02": {
+      "total": 72994,
+      "candidates": [
+        {
+          "name": "Jennifer Brunner",
+          "votes": 36987
+        },
+        {
+          "name": "Colleen O'Donnell",
+          "votes": 36007
+        }
+      ]
+    },
+    "us-senate": {
+      "total": 74419,
+      "candidates": [
+        {
+          "name": "Sherrod Brown",
+          "votes": 35990
+        },
+        {
+          "name": "Jon Husted",
+          "votes": 34046
+        },
+        {
+          "name": "Greg Levy",
+          "votes": 1905
+        },
+        {
+          "name": "William B. Redpath",
+          "votes": 2409
+        }
+      ],
+      "writeIn": 69
+    },
+    "congress-14": {
+      "total": 73587,
+      "candidates": [
+        {
+          "name": "David Joyce",
+          "votes": 38091
+        },
+        {
+          "name": "Maria Jukic",
+          "votes": 35496
+        }
+      ]
+    },
+    "state-rep-64": {
+      "total": 26736,
+      "candidates": [
+        {
+          "name": "Nick Santucci",
+          "votes": 26736
+        }
+      ]
+    },
+    "state-rep-65": {
+      "total": 31388,
+      "candidates": [
+        {
+          "name": "John Barbo",
+          "votes": 14391
+        },
+        {
+          "name": "David Thomas",
+          "votes": 16997
+        }
+      ]
+    },
+    "appeals-11-2027-02-09": {
+      "total": 45561,
+      "candidates": [
+        {
+          "name": "Marisa L. Cornachio",
+          "votes": 45561
+        }
+      ]
+    },
+    "appeals-11-2027-02-10": {
+      "total": 45193,
+      "candidates": [
+        {
+          "name": "Robert J. Patton",
+          "votes": 45193
+        }
+      ]
+    },
+    "common-pleas-general-2027-01-01": {
+      "total": 63684,
+      "candidates": [
+        {
+          "name": "Chris Becker",
+          "votes": 32372
+        },
+        {
+          "name": "Mary Ellen Ditchey",
+          "votes": 31312
+        }
+      ]
+    },
+    "common-pleas-probate-2027-02-09": {
+      "total": 45015,
+      "candidates": [
+        {
+          "name": "Thomas A. Campbell",
+          "votes": 45015
+        }
+      ]
+    },
+    "commissioner-2027-01-01": {
+      "total": 73784,
+      "candidates": [
+        {
+          "name": "Michael J. Hovis",
+          "votes": 36133
+        },
+        {
+          "name": "Kristen F. Rock",
+          "votes": 37651
+        }
+      ]
+    },
+    "auditor": {
+      "total": 73719,
+      "candidates": [
+        {
+          "name": "Mike Loychik",
+          "votes": 36390
+        },
+        {
+          "name": "Edward D. Stredney",
+          "votes": 37329
+        }
+      ]
+    }
+  },
+  "issues": {
+    "state-issue-3": {
+      "total": 74103,
+      "yes": 52030,
+      "no": 22073,
+      "yesLabel": "Yes",
+      "noLabel": "No"
+    },
+    "cardinal-lsd": {
+      "total": 10,
+      "yes": 6,
+      "no": 4,
+      "yesLabel": "For the tax levy",
+      "noLabel": "Against the tax levy"
+    },
+    "harding-park": {
+      "total": 5721,
+      "yes": 3036,
+      "no": 2685,
+      "yesLabel": "For the tax levy",
+      "noLabel": "Against the tax levy"
+    },
+    "lakeview-lsd": {
+      "total": 5928,
+      "yes": 3466,
+      "no": 2462,
+      "yesLabel": "For the tax levy",
+      "noLabel": "Against the tax levy"
+    },
+    "liberty-lsd": {
+      "total": 5097,
+      "yes": 2909,
+      "no": 2188,
+      "yesLabel": "For the tax levy",
+      "noLabel": "Against the tax levy"
+    },
+    "mathews-lsd": {
+      "total": 3298,
+      "yes": 1754,
+      "no": 1544,
+      "yesLabel": "For the tax levy",
+      "noLabel": "Against the tax levy"
+    },
+    "newton-falls-jfd": {
+      "total": 2951,
+      "yes": 2128,
+      "no": 823,
+      "yesLabel": "For the tax levy",
+      "noLabel": "Against the tax levy"
+    },
+    "warren-csd": {
+      "total": 8758,
+      "yes": 5269,
+      "no": 3489,
+      "yesLabel": "For the tax levy",
+      "noLabel": "Against the tax levy"
+    },
+    "hubbard-data-centers": {
+      "total": 3424,
+      "yes": 2622,
+      "no": 802,
+      "yesLabel": "Approval of the data center ban",
+      "noLabel": "Rejection of the data center ban"
+    },
+    "lordstown-income-tax": {
+      "total": 1477,
+      "yes": 903,
+      "no": 574,
+      "yesLabel": "For the income tax ordinance",
+      "noLabel": "Against the income tax ordinance"
+    },
+    "mcdonald-safety": {
+      "total": 1424,
+      "yes": 843,
+      "no": 581,
+      "yesLabel": "For the tax levy",
+      "noLabel": "Against the tax levy"
+    },
+    "orangeville-current": {
+      "total": 61,
+      "yes": 50,
+      "no": 11,
+      "yesLabel": "For the tax levy",
+      "noLabel": "Against the tax levy"
+    },
+    "warren-council-pay": {
+      "total": 10193,
+      "yes": 7375,
+      "no": 2818,
+      "yesLabel": "Yes",
+      "noLabel": "No"
+    },
+    "braceville-fire": {
+      "total": 1039,
+      "yes": 724,
+      "no": 315,
+      "yesLabel": "For the tax levy",
+      "noLabel": "Against the tax levy"
+    },
+    "braceville-police": {
+      "total": 1002,
+      "yes": 659,
+      "no": 343,
+      "yesLabel": "For the tax levy",
+      "noLabel": "Against the tax levy"
+    },
+    "braceville-roads": {
+      "total": 1040,
+      "yes": 745,
+      "no": 295,
+      "yesLabel": "For the tax levy",
+      "noLabel": "Against the tax levy"
+    },
+    "champion-police": {
+      "total": 3945,
+      "yes": 2536,
+      "no": 1409,
+      "yesLabel": "For the tax levy",
+      "noLabel": "Against the tax levy"
+    },
+    "farmington-roads": {
+      "total": 467,
+      "yes": 264,
+      "no": 203,
+      "yesLabel": "For the tax levy",
+      "noLabel": "Against the tax levy"
+    },
+    "greene-zoning": {
+      "total": 324,
+      "yes": 159,
+      "no": 165,
+      "yesLabel": "Yes",
+      "noLabel": "No"
+    },
+    "gustavus-fire": {
+      "total": 375,
+      "yes": 285,
+      "no": 90,
+      "yesLabel": "For the tax levy",
+      "noLabel": "Against the tax levy"
+    },
+    "hubbard-twp-roads": {
+      "total": 2319,
+      "yes": 1516,
+      "no": 803,
+      "yesLabel": "For the tax levy",
+      "noLabel": "Against the tax levy"
+    },
+    "liberty-fire-1": {
+      "total": 5090,
+      "yes": 3524,
+      "no": 1566,
+      "yesLabel": "For the tax levy",
+      "noLabel": "Against the tax levy"
+    },
+    "liberty-fire-2": {
+      "total": 5099,
+      "yes": 3426,
+      "no": 1673,
+      "yesLabel": "For the tax levy",
+      "noLabel": "Against the tax levy"
+    },
+    "liberty-police": {
+      "total": 5159,
+      "yes": 3391,
+      "no": 1768,
+      "yesLabel": "For the tax levy",
+      "noLabel": "Against the tax levy"
+    },
+    "mesopotamia-fire": {
+      "total": 259,
+      "yes": 194,
+      "no": 65,
+      "yesLabel": "For the tax levy",
+      "noLabel": "Against the tax levy"
+    },
+    "mesopotamia-roads": {
+      "total": 269,
+      "yes": 204,
+      "no": 65,
+      "yesLabel": "For the tax levy",
+      "noLabel": "Against the tax levy"
+    },
+    "newton-gas": {
+      "total": 1479,
+      "yes": 912,
+      "no": 567,
+      "yesLabel": "Yes",
+      "noLabel": "No"
+    },
+    "southington-electric": {
+      "total": 1333,
+      "yes": 903,
+      "no": 430,
+      "yesLabel": "Yes",
+      "noLabel": "No"
+    },
+    "southington-gas": {
+      "total": 1320,
+      "yes": 899,
+      "no": 421,
+      "yesLabel": "Yes",
+      "noLabel": "No"
+    },
+    "vienna-police": {
+      "total": 1877,
+      "yes": 1072,
+      "no": 805,
+      "yesLabel": "For the tax levy",
+      "noLabel": "Against the tax levy"
+    },
+    "liquor-niles-eastside": {
+      "total": 398,
+      "yes": 327,
+      "no": 71,
+      "yesLabel": "Yes",
+      "noLabel": "No"
+    },
+    "liquor-girard-legion": {
+      "total": 324,
+      "yes": 261,
+      "no": 63,
+      "yesLabel": "Yes",
+      "noLabel": "No"
+    },
+    "liquor-cortland-casa-angel-sunday": {
+      "total": 487,
+      "yes": 374,
+      "no": 113,
+      "yesLabel": "Yes",
+      "noLabel": "No"
+    },
+    "liquor-cortland-casa-angel": {
+      "total": 488,
+      "yes": 395,
+      "no": 93,
+      "yesLabel": "Yes",
+      "noLabel": "No"
+    },
+    "liquor-newton-duck-creek": {
+      "total": 614,
+      "yes": 445,
+      "no": 169,
+      "yesLabel": "Yes",
+      "noLabel": "No"
+    },
+    "newton-falls-traffic": {
+      "total": 1438,
+      "yes": 401,
+      "no": 1037,
+      "yesLabel": "Yes",
+      "noLabel": "No"
+    }
+  }
+}

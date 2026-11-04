@@ -32,5 +32,34 @@ for (const e of read("elections.json")) {
     if (existsSync(join(dir, cp))) console.log(`${cp}: ${checkBallot(cp, read(cp))} entries`);
   }
 }
+// Results files (data/results/<county>/<election>.json): every id and candidate name must be on the ballot,
+// and nothing may be left unmatched by the parser.
+function checkResults(path, r, state, local) {
+  const contests = new Map([...state.contests, ...local.contests].map((c) => [c.id, c]));
+  const issues = new Set([...state.issues, ...local.issues].map((i) => i.id));
+  check(["unofficial", "official"].includes(r.status), `${path}: bad status ${r.status}`);
+  check(!isNaN(Date.parse(r.asOf)), `${path}: bad asOf ${r.asOf}`);
+  for (const [id, c] of Object.entries(r.contests)) {
+    const b = contests.get(id);
+    check(!!b, `${path}: contest ${id} not on the ballot`);
+    if (!b) continue;
+    const names = new Set(b.candidates.map((k) => k.name));
+    for (const k of c.candidates) check(k.unmatched || names.has(k.name), `${path}: ${id}: candidate "${k.name}" not on the ballot`);
+    check(c.candidates.reduce((s, k) => s + k.votes, 0) + (c.writeIn ?? 0) <= c.total + 1, `${path}: ${id}: votes exceed total`);
+  }
+  for (const id of Object.keys(r.issues)) check(issues.has(id), `${path}: issue ${id} not on the ballot`);
+  check(!(r.unmatched?.length), `${path}: unmatched report titles: ${(r.unmatched ?? []).join("; ")}`);
+  return Object.keys(r.contests).length + Object.keys(r.issues).length;
+}
+
+for (const e of read("elections.json")) {
+  const state = read(`state/${e.id}.json`);
+  for (const slug of read("county/index.json")[e.id] ?? []) {
+    const rp = `results/${slug}/${e.id}.json`;
+    if (!existsSync(join(dir, rp))) continue;
+    console.log(`${rp}: ${checkResults(rp, read(rp), state, read(`county/${slug}/${e.id}.json`))} totals`);
+  }
+}
+
 if (problems.length) { console.error(problems.join("\n")); process.exit(1); }
 console.log("Ballot data OK");

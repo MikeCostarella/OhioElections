@@ -32,12 +32,18 @@ County slugs are the lower-case county name with spaces removed (`vanwert`).
 react-app/public/data/
 ├── elections.json                     # elections the app knows about
 ├── state/2026-11-03.json              # statewide contests + state issues (every county)
-└── county/
-    ├── index.json                     # which counties have local data, per election
-    └── trumbull/2026-11-03.json       # county + local contests, local issues, places, links
+├── county/
+│   ├── index.json                     # which counties have local data, per election
+│   └── trumbull/2026-11-03.json       # county + local contests, local issues, places, links
+└── results/
+    └── trumbull/2026-11-03.json       # the Board's count, by contest/issue id (election night → certified)
 ```
 
 Every contest and issue cites the Board document it came from (`sources`). `places` (cities, villages, townships) drives the "Where you live" filter; `area` keeps the Board's own precinct wording. Candidates are shown alphabetically by last name because Ohio rotates ballot order by precinct.
+
+### Election-night results
+
+`react-app/public/data/results/<county>/2026-11-03.json` holds each county's count, keyed by the same contest and issue ids as the ballot. The app shows it beside each race and issue and, while the count is unofficial, re-reads it every two minutes. `tools/results/` builds the file from each Board's election-night report (see [`tools/results/README.md`](tools/results/README.md)); `.github/workflows/results.yml` runs that every 10 minutes on election night and redeploys when a count changes.
 
 ### Adding a county
 

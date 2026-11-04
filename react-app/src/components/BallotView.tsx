@@ -1,13 +1,15 @@
 import { useMemo, useState } from "react";
-import type { Ballot, Contest, Issue, IssueKind, Source } from "../data/types";
+import type { Ballot, Contest, ContestResult, Issue, IssueKind, IssueResult, ResultsFile, Source } from "../data/types";
+import ResultsBanner from "./ResultsBanner";
 import type { County } from "../data/counties";
-import { byLastName, SOS } from "../data/load";
+import { byLastName, fmtInt, pct, SOS } from "../data/load";
 
 interface Props {
   county: County;
   state: Ballot;
   local: Ballot | null;
   place: string;
+  results: ResultsFile | null;
 }
 
 const KIND_LABELS: Record<Exclude<IssueKind, "state">, string> = {
@@ -67,21 +69,55 @@ function CandidateName({ name, office, county }: { name: string; office: string;
   );
 }
 
-function ContestCard({ c, sources, place, county }: { c: Contest; sources: Record<string, Source>; place: string; county?: string }) {
-  const cands = [...c.candidates].sort(byLastName);
+/** A horizontal vote bar: share of the contest's total, with the count and per cent beside it. */
+function VoteBar({ votes, total, lead, label }: { votes: number; total: number; lead?: boolean; label?: string }) {
+  const share = total > 0 ? (100 * votes) / total : 0;
   return (
-    <article className="card contest">
+    <div className={`vote ${lead ? "lead" : ""}`} aria-label={`${label ?? ""} ${fmtInt(votes)} votes, ${pct(votes, total)}`.trim()}>
+      <div className="vote-track"><div className="vote-fill" style={{ width: `${share}%` }} /></div>
+      <span className="vote-n">{fmtInt(votes)}</span>
+      <span className="vote-pct">{pct(votes, total)}</span>
+    </div>
+  );
+}
+
+function ContestCard({ c, sources, place, county, res }: { c: Contest; sources: Record<string, Source>; place: string; county?: string; res?: ContestResult }) {
+  // Without results: alphabetical (Ohio rotates ballot order). With results: by votes, the leader first.
+  const votesOf = (name: string) => res?.candidates.find((r) => r.name === name)?.votes;
+  const cands = res
+    ? [...c.candidates].sort((a, b) => (votesOf(b.name) ?? -1) - (votesOf(a.name) ?? -1) || byLastName(a, b))
+    : [...c.candidates].sort(byLastName);
+  const top = res ? Math.max(...res.candidates.map((r) => r.votes), 0) : 0;
+  const contested = cands.length > 1;
+  const extra = res?.candidates.filter((r) => r.unmatched) ?? [];
+  return (
+    <article className={`card contest ${res ? "has-results" : ""}`}>
       <h4>{c.office}</h4>
       {c.detail && <div className="detail">{c.detail}</div>}
       <ul className="cands">
-        {cands.map((k) => (
-          <li key={k.name}>
-            <CandidateName name={k.name} office={c.office} county={county} />
-            {k.party && <span className="party-tag" title="Party as printed by the Board of Elections">{k.party}</span>}
-            {k.note && <span className="cand-note">{k.note}</span>}
+        {cands.map((k) => {
+          const v = votesOf(k.name);
+          const lead = res !== undefined && contested && v !== undefined && v === top && top > 0;
+          return (
+            <li key={k.name} className={lead ? "leading" : ""}>
+              <CandidateName name={k.name} office={c.office} county={county} />
+              {k.party && <span className="party-tag" title="Party as printed by the Board of Elections">{k.party}</span>}
+              {lead && <span className="lead-tag" title="Most votes so far — not a call">leading</span>}
+              {k.note && <span className="cand-note">{k.note}</span>}
+              {res && v !== undefined && <VoteBar votes={v} total={res.total} lead={lead} label={k.name} />}
+              {res && v === undefined && <span className="cand-note">No total reported yet</span>}
+            </li>
+          );
+        })}
+        {extra.map((r) => (
+          <li key={r.name}>
+            <span className="cand-name">{r.name}</span>
+            <VoteBar votes={r.votes} total={res!.total} label={r.name} />
           </li>
         ))}
       </ul>
+      {res && (res.writeIn ?? 0) > 0 && <div className="detail">Write-in: {fmtInt(res.writeIn!)} · total votes cast: {fmtInt(res.total)}</div>}
+      {res && !(res.writeIn ?? 0) && <div className="detail">Total votes cast: {fmtInt(res.total)}</div>}
       {cands.length === 1 && <div className="detail">Unopposed</div>}
       {c.places && !place && <div className="area"><b>Where:</b> {c.area}</div>}
       {c.coverage === "unknown" && <div className="note-inline">{NOT_MAPPED}</div>}
@@ -90,9 +126,11 @@ function ContestCard({ c, sources, place, county }: { c: Contest; sources: Recor
   );
 }
 
-function IssueCard({ q, sources }: { q: Issue; sources: Record<string, Source> }) {
+function IssueCard({ q, sources, res }: { q: Issue; sources: Record<string, Source>; res?: IssueResult }) {
+  const yesLead = res ? res.yes > res.no : false;
+  const noLead = res ? res.no > res.yes : false;
   return (
-    <article className={`card issue kind-${q.kind}`}>
+    <article className={`card issue kind-${q.kind} ${res ? "has-results" : ""}`}>
       <div className="issue-head">
         {q.number && <span className="issue-num">{q.number}</span>}
         <span className="kind-tag">{KIND_ONE[q.kind]}</span>
@@ -110,6 +148,13 @@ function IssueCard({ q, sources }: { q: Issue; sources: Record<string, Source> }
       {q.text && <p className="ballot-text">{q.text}</p>}
       {q.bullets && <ul className="bullets">{q.bullets.map((b) => <li key={b}>{b}</li>)}</ul>}
       {q.yesNo && <p className="ballot-text">{q.yesNo}</p>}
+      {res && (
+        <div className="issue-results">
+          <div className={`yn ${yesLead ? "lead" : ""}`}><span className="yn-label">{res.yesLabel ?? "Yes"}{yesLead && <span className="lead-tag">leading</span>}</span><VoteBar votes={res.yes} total={res.total} lead={yesLead} label={res.yesLabel ?? "Yes"} /></div>
+          <div className={`yn ${noLead ? "lead" : ""}`}><span className="yn-label">{res.noLabel ?? "No"}{noLead && <span className="lead-tag">leading</span>}</span><VoteBar votes={res.no} total={res.total} lead={noLead} label={res.noLabel ?? "No"} /></div>
+          <div className="detail">Total votes cast: {fmtInt(res.total)}</div>
+        </div>
+      )}
       {q.area && q.area !== q.jurisdiction && <div className="area"><b>Where:</b> {q.area}</div>}
       {q.coverage === "unknown" && <div className="note-inline">{NOT_MAPPED}</div>}
       {q.note && <div className="note-inline">{q.note}</div>}
@@ -124,7 +169,7 @@ function group<T>(items: T[], key: (t: T) => string): [string, T[]][] {
   return [...m.entries()];
 }
 
-export default function BallotView({ county, state, local, place }: Props) {
+export default function BallotView({ county, state, local, place, results }: Props) {
   const [kinds, setKinds] = useState<Set<string>>(() => new Set(Object.keys(KIND_LABELS)));
   const [q, setQ] = useState("");
 
@@ -146,8 +191,13 @@ export default function BallotView({ county, state, local, place }: Props) {
   const toggleKind = (k: string) => setKinds((prev) => { const n = new Set(prev); if (n.has(k)) n.delete(k); else n.add(k); return n.size ? n : prev; });
   const localTotal = local ? local.issues.filter((i) => appliesTo(i, place)).length : 0;
 
+  const cRes = (id: string) => results?.contests[id];
+  const iRes = (id: string) => results?.issues[id];
+  const counted = results ? Object.keys(results.contests).length + Object.keys(results.issues).length : 0;
+
   return (
     <div className="ballot">
+      {results && counted > 0 && <ResultsBanner r={results} countyName={county.name} />}
       {!local && (
         <p className="banner">
           Only the statewide races and State Issue 3 are loaded for {county.name} County so far. For the county and local races and issues, see the{" "}
@@ -161,14 +211,14 @@ export default function BallotView({ county, state, local, place }: Props) {
         {group(contests, (c) => c.group).map(([g, cs]) => (
           <div key={g} className="group">
             <h4 className="group-title">{g}</h4>
-            <div className="grid">{cs.map((c) => <ContestCard key={c.id} c={c} sources={sources} place={place} county={stateIds.has(c.id) ? undefined : county.name} />)}</div>
+            <div className="grid">{cs.map((c) => <ContestCard key={c.id} c={c} sources={sources} place={place} county={stateIds.has(c.id) ? undefined : county.name} res={cRes(c.id)} />)}</div>
           </div>
         ))}
       </section>
 
       <section>
         <h3 className="section-title">State issue</h3>
-        <div className="grid wide">{stateIssues.map((i) => <IssueCard key={i.id} q={i} sources={sources} />)}</div>
+        <div className="grid wide">{stateIssues.map((i) => <IssueCard key={i.id} q={i} sources={sources} res={iRes(i.id)} />)}</div>
       </section>
 
       {local && (
@@ -188,13 +238,16 @@ export default function BallotView({ county, state, local, place }: Props) {
           {group(localIssues, (i) => i.jurisdiction).map(([j, is]) => (
             <div key={j} className="group">
               <h4 className="group-title">{j}</h4>
-              <div className="grid wide">{is.map((i) => <IssueCard key={i.id} q={i} sources={sources} />)}</div>
+              <div className="grid wide">{is.map((i) => <IssueCard key={i.id} q={i} sources={sources} res={iRes(i.id)} />)}</div>
             </div>
           ))}
         </section>
       )}
 
       {[...(state.notes ?? []), ...(local?.notes ?? [])].map((n) => <p key={n} className="note">{n}</p>)}
+      {results && counted > 0 && results.status === "unofficial" && (
+        <p className="note">Totals are the Board of Elections' unofficial count and update every few minutes on election night. "Leading" means the most votes counted so far, not a call. Unofficial results leave out provisional ballots and mail ballots that arrive after Election Day; the Board certifies the official result after the canvass.</p>
+      )}
       <p className="note">Data checked against the sources on {local?.retrieved ?? state.retrieved}.</p>
     </div>
   );

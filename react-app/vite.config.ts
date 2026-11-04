@@ -39,6 +39,13 @@ export default defineConfig({
         globIgnores: ["data/**"],
         runtimeCaching: [
           {
+            // Election-night totals are rewritten every few minutes: always go to the network, and keep
+            // only a short-lived copy for offline viewing. (Listed first: the first matching rule wins.)
+            urlPattern: ({ url }) => url.pathname.startsWith(`${BASE}data/results/`),
+            handler: "NetworkFirst",
+            options: { cacheName: "results-data", networkTimeoutSeconds: 8, expiration: { maxEntries: 100, maxAgeSeconds: 60 * 60 } },
+          },
+          {
             urlPattern: ({ url }) => url.pathname.startsWith(`${BASE}data/`),
             handler: "NetworkFirst",
             options: { cacheName: "ballot-data", networkTimeoutSeconds: 5, expiration: { maxEntries: 200 } },
