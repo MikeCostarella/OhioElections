@@ -1,5 +1,16 @@
 # Changes
 
+# Nov 4, 2026 — Reports tab
+
+- Third tab beside "On the ballot" and "Results" (also in the hamburger View section; route `#/<county>/<election>/reports`). Five reports, each table with a ⬇ CSV download named `<county>-<election>-<report>.csv`:
+  - **Ballot makeup** — works before any count: contests by office group (statewide vs. county/district, candidates, unopposed), candidates by party, issues by kind (levy renewal/additional/replacement, question, liquor option, state issue), unopposed races, issues by jurisdiction.
+  - **Turnout & roll-off** — registered, ballots cast, turnout against statewide, precincts, top-of-ticket share, furthest roll-off; then every race and issue with votes cast as a share of ballots and the roll-off in points. Roll-off is only figured for contests and issues the whole county votes on (no `places` list); district races and local levies show their votes and "part of county" instead, so a village levy never reads as 99% fatigue.
+  - **County vs. statewide** — every statewide candidate and State Issue 3: county votes and share, statewide share from the Secretary of State's file, the difference in points (orange at ±5), the county's rank among the 88 counties for that candidate or "yes", and the strongest county. Tiles: races counted, where the county's leader differs from Ohio's, the biggest gap, turnout.
+  - **Party lines** — every race with a DEM and/or REP candidate: both shares, a two-party split bar, DEM − REP margin, the same margin statewide and the county's difference from Ohio. Tiles: contested D-vs-R races and who leads how many, county lean across the statewide races against Ohio's, ticket-splitting spread, best race for each party. Nonpartisan races are left out.
+  - **Issues & levies** — passing/failing counts (Passed/Failed once official), levies passing of total with average yes share, closest issue; by kind with pass/fail and average yes; every issue in ballot order or by yes share with a Passing/Failing pill.
+- Reports that need totals show a one-line "no totals loaded yet" note for counties without a results file; Ballot makeup always works. Language follows status like the Results view; nothing is called.
+- `src/components/ReportsView.tsx` (new), `reports` added to `AppView`/`VIEW_LABELS` in `MainMenu.tsx`, tab and route in `App.tsx`, report styles (CSV button, inline bars, D/R split bar, two-column tables) at the end of `global.css`.
+
 # Nov 4, 2026 — Results view
 
 - The Results tab is now a results page. Stat tiles: ballots cast of registered, turnout against the statewide figure, Election Day precincts, report time with the source link, and a link to the county's Voters app. Then every race in a table — leader (party, "unopposed"), votes, share, margin in votes and points (orange under 2 points), runner-up, and a Statewide column from the Secretary of State's file showing the statewide leader and share, flagged "county differs" when the county's leader is not the statewide one. Then every issue — yes/no votes and shares, margin in points, a Passing/Failing pill (Passed/Failed once official), and the statewide yes share for State Issue 3.

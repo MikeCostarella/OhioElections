@@ -3,6 +3,7 @@ import BuildStamp from "./components/BuildStamp";
 import MainMenu, { VIEW_LABELS, type AppView } from "./components/MainMenu";
 import BallotView from "./components/BallotView";
 import ResultsView from "./components/ResultsView";
+import ReportsView from "./components/ReportsView";
 import About from "./components/About";
 import CountyPicker from "./components/CountyPicker";
 import { COUNTIES, countyBySlug, votersUrl } from "./data/counties";
@@ -176,7 +177,7 @@ export default function App() {
           <div className="view-head">
             <h2 className="view-title">{VIEW_LABELS[route.view]}{place ? ` · ${place}` : ""}</h2>
             <div className="view-tabs seg" role="tablist">
-              {(["ballot", "results"] as AppView[]).map((v) => (
+              {(["ballot", "results", "reports"] as AppView[]).map((v) => (
                 <button key={v} type="button" role="tab" aria-selected={route.view === v} className={route.view === v ? "active" : ""} onClick={() => go({ view: v })}>{VIEW_LABELS[v]}</button>
               ))}
             </div>
@@ -193,6 +194,9 @@ export default function App() {
           ? <BallotView county={county} state={state} local={local} place={place} results={results} />
           : !error && <p className="note">Loading…</p>)}
         {county && route.view === "results" && election && <ResultsView county={county} election={election} state={state} local={local} results={results} />}
+        {county && route.view === "reports" && election && (state && (!hasLocal || local)
+          ? <ReportsView key={`${county.slug}/${election.id}`} county={county} election={election} state={state} local={local} results={results} />
+          : !error && <p className="note">Loading…</p>)}
       </main>
       <BuildStamp />
     </div>

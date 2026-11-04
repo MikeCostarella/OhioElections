@@ -2,10 +2,11 @@ import { useEffect, useRef, useState, type ReactNode } from "react";
 import type { County } from "../data/counties";
 import { votersUrl } from "../data/counties";
 
-export type AppView = "ballot" | "results" | "about";
+export type AppView = "ballot" | "results" | "reports" | "about";
 export const VIEW_LABELS: Record<AppView, string> = {
   ballot: "On the ballot",
   results: "Results",
+  reports: "Reports",
   about: "About this app",
 };
 

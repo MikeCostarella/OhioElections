@@ -200,3 +200,19 @@ code { background: rgba(255,255,255,0.06); padding: 1px 5px; border-radius: 4px;
 .standing.yes { color: #7ed87e; border-color: #4caf50; }
 .standing.no { color: #f0a0a0; border-color: #c0504d; }
 @media (max-width: 640px) { .stat-value { font-size: 17px; } }
+
+/* ---- Reports ---- */
+.reports .section-title { display: flex; align-items: center; gap: 8px; flex-wrap: wrap; }
+.csv-btn { margin-left: auto; font: inherit; font-size: 11.5px; letter-spacing: 0; text-transform: none; color: var(--text-accent); background: transparent; border: 1px solid var(--border-accent); border-radius: 6px; padding: 2px 8px; cursor: pointer; }
+.csv-btn:hover { background: rgba(46, 125, 190, 0.2); }
+.seg.small button { padding: 2px 8px; font-size: 11px; text-transform: none; letter-spacing: 0; }
+.rtable.compact { min-width: 640px; }
+.rtable.compact.narrow { min-width: 0; }
+.rtable th.bar, .rtable td.bar { min-width: 150px; }
+.rtable td.bar { white-space: nowrap; }
+.rbar { display: inline-block; vertical-align: middle; width: 100px; height: 7px; background: var(--border-card); border-radius: 4px; overflow: hidden; margin-right: 8px; }
+.rbar > span { display: block; height: 100%; background: var(--border-accent-bright, #6fa8dc); border-radius: 4px; }
+.rbar.lead > span { background: #e3a04a; }
+.split { display: inline-flex; width: 140px; height: 9px; border-radius: 4px; overflow: hidden; vertical-align: middle; }
+.split .d { background: #4a7fd6; } .split .r { background: #d65a4a; }
+.two-col { display: grid; grid-template-columns: repeat(auto-fit, minmax(280px, 1fr)); gap: 14px 24px; }
